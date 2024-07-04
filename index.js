@@ -6,7 +6,7 @@ const { join } = require('path');
  */
 function getSwiftCodesForCountry(countryName) {
   try {
-    const countryFilePath = join(__dirname, 'swiftCodes', `${countryName}.js`);
+    const countryFilePath = join(__dirname, '..', 'swiftCodes', `${countryName}.js`);
     const countryModule = require(countryFilePath);
     
     return countryModule;
