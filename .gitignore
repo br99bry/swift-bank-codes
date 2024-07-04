@@ -1,0 +1,25 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Built files
+/dist
+/build
+
+# Dependency directories
+/pnpm-lock.yaml
+/yarn.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
