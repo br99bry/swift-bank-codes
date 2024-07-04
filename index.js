@@ -1,4 +1,4 @@
-import { join } from 'path';
+const { join } = require('path');
 
 /**
  * @param {string} countryName - should to be equal to the name file
@@ -17,6 +17,6 @@ function getSwiftCodesForCountry(countryName) {
 }
 
 // Exporta la función para obtener los códigos SWIFT de un país específico
-export default {
+module.exports = {
   getSwiftCodesForCountry
 };
