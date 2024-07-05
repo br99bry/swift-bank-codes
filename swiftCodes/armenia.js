@@ -1,7 +1,7 @@
 const armenia = [
   {
-    "countryCode": "AROJ",
-    "bankCode": "AM",
+    "bankCode": "AROJ",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "AROJAM22",
     "Bank Name": "'ARMBROK' OJSC",
@@ -13,8 +13,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDAM",
-    "bankCode": "AM",
+    "bankCode": "CDAM",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "CDAMAM22",
     "Bank Name": "'CENTRAL DEPOSITORY OF ARMENIA' OJSC",
@@ -26,8 +26,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCAO",
-    "bankCode": "AM",
+    "bankCode": "FCAO",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "FCAOAM22",
     "Bank Name": "'FAST BANK' CJSC",
@@ -39,8 +39,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANIK",
-    "bankCode": "AM",
+    "bankCode": "ANIK",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ANIKAM22",
     "Bank Name": "'ID BANK' CJSC",
@@ -52,8 +52,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGCA",
-    "bankCode": "AM",
+    "bankCode": "AGCA",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "AGCAAM22",
     "Bank Name": "ACBA BANK OJSC",
@@ -65,8 +65,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMI",
-    "bankCode": "AM",
+    "bankCode": "ARMI",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARMIAM22",
     "Bank Name": "AMERIABANK (FORMERLY ARMIMPEXBANK)",
@@ -78,8 +78,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMN",
-    "bankCode": "AM",
+    "bankCode": "ARMN",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARMNAM22",
     "Bank Name": "AMIO BANK",
@@ -91,8 +91,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMC",
-    "bankCode": "AM",
+    "bankCode": "ARMC",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARMCAM22",
     "Bank Name": "ARARATBANK OJSC",
@@ -104,8 +104,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASHB",
-    "bankCode": "AM",
+    "bankCode": "ASHB",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ASHBAM22",
     "Bank Name": "ARDSHINBANK CJSC",
@@ -117,8 +117,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREC",
-    "bankCode": "AM",
+    "bankCode": "AREC",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARECAM22",
     "Bank Name": "ARMECONOMBANK",
@@ -130,8 +130,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARSJ",
-    "bankCode": "AM",
+    "bankCode": "ARSJ",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARSJAM22",
     "Bank Name": "ARMSWISSBANK CJSC",
@@ -143,8 +143,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARTS",
-    "bankCode": "AM",
+    "bankCode": "ARTS",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARTSAM22",
     "Bank Name": "ARTSAKHBANK CJSC",
@@ -156,8 +156,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYBA",
-    "bankCode": "AM",
+    "bankCode": "BYBA",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "BYBAAM22",
     "Bank Name": "BYBLOS BANK ARMENIA CJSC",
@@ -169,8 +169,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBRA",
-    "bankCode": "AM",
+    "bankCode": "CBRA",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "CBRAAM22",
     "Bank Name": "CENTRAL BANK OF ARMENIA",
@@ -182,8 +182,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COVB",
-    "bankCode": "AM",
+    "bankCode": "COVB",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "COVBAM22",
     "Bank Name": "CONVERSE BANK CJSC",
@@ -195,8 +195,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRML",
-    "bankCode": "AM",
+    "bankCode": "PRML",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "PRMLAM22",
     "Bank Name": "EVOCABANK CJSC",
@@ -208,8 +208,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "AM",
+    "bankCode": "MIDL",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "MIDLAM22",
     "Bank Name": "HSBC BANK ARMENIA CLOSED JOINT STOCK COMPANY",
@@ -221,8 +221,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INJS",
-    "bankCode": "AM",
+    "bankCode": "INJS",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "INJSAM22",
     "Bank Name": "INECOBANK CJSC",
@@ -234,8 +234,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIJ",
-    "bankCode": "AM",
+    "bankCode": "UNIJ",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "UNIJAM22",
     "Bank Name": "UNIBANK O.J.S.C",
@@ -247,8 +247,8 @@ const armenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMJ",
-    "bankCode": "AM",
+    "bankCode": "ARMJ",
+    "countryCode": "AM",
     "branchCode": "M22",
     "SWIFT Code": "ARMJAM22",
     "Bank Name": "VTB BANK (ARMENIA) CJSC",

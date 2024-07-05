@@ -1,7 +1,7 @@
 const turkmenistan = [
   {
-    "countryCode": "TNBK",
-    "bankCode": "TM",
+    "bankCode": "TNBK",
+    "countryCode": "TM",
     "branchCode": "M2X",
     "SWIFT Code": "TNBKTM2X",
     "Bank Name": "'TURKMENISTAN' STATE COMMERCIAL BANK OF TURKMENISTAN",
@@ -13,8 +13,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBTU",
-    "bankCode": "TM",
+    "bankCode": "CBTU",
+    "countryCode": "TM",
     "branchCode": "M2A",
     "SWIFT Code": "CBTUTM2A",
     "Bank Name": "CENTRAL BANK OF TURKMENISTAN, THE",
@@ -26,8 +26,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAY",
-    "bankCode": "TM",
+    "bankCode": "BDAY",
+    "countryCode": "TM",
     "branchCode": "M22",
     "SWIFT Code": "BDAYTM22",
     "Bank Name": "DAYHANBANK",
@@ -39,8 +39,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HALK",
-    "bankCode": "TM",
+    "bankCode": "HALK",
+    "countryCode": "TM",
     "branchCode": "M22",
     "SWIFT Code": "HALKTM22",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK OF TURKMENISTAN 'HALKBANK'",
@@ -52,8 +52,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RYSG",
-    "bankCode": "TM",
+    "bankCode": "RYSG",
+    "countryCode": "TM",
     "branchCode": "M2A",
     "SWIFT Code": "RYSGTM2A",
     "Bank Name": "JOINT-STOCK COMMERCIAL BANK RYSGAL",
@@ -65,8 +65,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVA",
-    "bankCode": "TM",
+    "bankCode": "INVA",
+    "countryCode": "TM",
     "branchCode": "M2X",
     "SWIFT Code": "INVATM2X",
     "Bank Name": "JSCBT 'TURKMENBASHI'",
@@ -78,8 +78,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "TM",
+    "bankCode": "NBPA",
+    "countryCode": "TM",
     "branchCode": "M22",
     "SWIFT Code": "NBPATM22",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -91,8 +91,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SENB",
-    "bankCode": "TM",
+    "bankCode": "SENB",
+    "countryCode": "TM",
     "branchCode": "M22",
     "SWIFT Code": "SENBTM22",
     "Bank Name": "SENAGAT BANK JSCB",
@@ -104,8 +104,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBFE",
-    "bankCode": "TM",
+    "bankCode": "SBFE",
+    "countryCode": "TM",
     "branchCode": "M22",
     "SWIFT Code": "SBFETM22",
     "Bank Name": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
@@ -117,8 +117,8 @@ const turkmenistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUTC",
-    "bankCode": "TM",
+    "bankCode": "TUTC",
+    "countryCode": "TM",
     "branchCode": "M2X",
     "SWIFT Code": "TUTCTM2X",
     "Bank Name": "TURKMEN TURKISH JOINT STOCK COMMERCIAL BANK",

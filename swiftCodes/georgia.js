@@ -1,7 +1,7 @@
 const georgia = [
   {
-    "countryCode": "CBAS",
-    "bankCode": "GE",
+    "bankCode": "CBAS",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "CBASGE22",
     "Bank Name": "BASISBANK, JSC",
@@ -13,8 +13,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABG",
-    "bankCode": "GE",
+    "bankCode": "HABG",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "HABGGE22",
     "Bank Name": "HALYK BANK GEORGIA JSC",
@@ -26,8 +26,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAJS",
-    "bankCode": "GE",
+    "bankCode": "HAJS",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "HAJSGE22",
     "Bank Name": "HASH BANK JSC",
@@ -39,8 +39,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRTU",
-    "bankCode": "GE",
+    "bankCode": "CRTU",
+    "countryCode": "GE",
     "branchCode": "092",
     "SWIFT Code": "CRTUGE22092",
     "Bank Name": "JSC 'CARTU BANK'",
@@ -52,8 +52,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRTU",
-    "bankCode": "GE",
+    "bankCode": "CRTU",
+    "countryCode": "GE",
     "branchCode": "087",
     "SWIFT Code": "CRTUGE22087",
     "Bank Name": "JSC 'CARTU BANK'",
@@ -65,8 +65,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRTU",
-    "bankCode": "GE",
+    "bankCode": "CRTU",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "CRTUGE22",
     "Bank Name": "JSC 'CARTU BANK'",
@@ -78,8 +78,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRTU",
-    "bankCode": "GE",
+    "bankCode": "CRTU",
+    "countryCode": "GE",
     "branchCode": "086",
     "SWIFT Code": "CRTUGE22086",
     "Bank Name": "JSC 'CARTU BANK'",
@@ -91,8 +91,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBRT",
-    "bankCode": "GE",
+    "bankCode": "LBRT",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "LBRTGE22",
     "Bank Name": "JSC 'LIBERTY BANK'",
@@ -104,8 +104,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "617",
     "SWIFT Code": "UGEBGE22617",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -117,8 +117,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "655",
     "SWIFT Code": "UGEBGE22655",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -130,8 +130,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "622",
     "SWIFT Code": "UGEBGE22622",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -143,8 +143,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "602",
     "SWIFT Code": "UGEBGE22602",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -156,8 +156,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "624",
     "SWIFT Code": "UGEBGE22624",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -169,8 +169,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "605",
     "SWIFT Code": "UGEBGE22605",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -182,8 +182,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "639",
     "SWIFT Code": "UGEBGE22639",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -195,8 +195,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "643",
     "SWIFT Code": "UGEBGE22643",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -208,8 +208,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "606",
     "SWIFT Code": "UGEBGE22606",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -221,8 +221,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "607",
     "SWIFT Code": "UGEBGE22607",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -234,8 +234,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "687",
     "SWIFT Code": "UGEBGE22687",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -247,8 +247,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "615",
     "SWIFT Code": "UGEBGE22615",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -260,8 +260,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "665",
     "SWIFT Code": "UGEBGE22665",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -273,8 +273,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "UGEBGE22",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -286,8 +286,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "668",
     "SWIFT Code": "UGEBGE22668",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -299,8 +299,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "666",
     "SWIFT Code": "UGEBGE22666",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -312,8 +312,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "604",
     "SWIFT Code": "UGEBGE22604",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -325,8 +325,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "670",
     "SWIFT Code": "UGEBGE22670",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -338,8 +338,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "629",
     "SWIFT Code": "UGEBGE22629",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -351,8 +351,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGEB",
-    "bankCode": "GE",
+    "bankCode": "UGEB",
+    "countryCode": "GE",
     "branchCode": "603",
     "SWIFT Code": "UGEBGE22603",
     "Bank Name": "JSC 'VTB BANK GEORGIA'",
@@ -364,8 +364,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGA",
-    "bankCode": "GE",
+    "bankCode": "BAGA",
+    "countryCode": "GE",
     "branchCode": "GTS",
     "SWIFT Code": "BAGAGE22GTS",
     "Bank Name": "JSC BANK OF GEORGIA",
@@ -377,8 +377,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGA",
-    "bankCode": "GE",
+    "bankCode": "BAGA",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "BAGAGE22",
     "Bank Name": "JSC BANK OF GEORGIA",
@@ -390,8 +390,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGA",
-    "bankCode": "GE",
+    "bankCode": "BAGA",
+    "countryCode": "GE",
     "branchCode": "CUS",
     "SWIFT Code": "BAGAGE22CUS",
     "Bank Name": "JSC BANK OF GEORGIA",
@@ -403,8 +403,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSCR",
-    "bankCode": "GE",
+    "bankCode": "JSCR",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "JSCRGE22",
     "Bank Name": "JSC CREDO BANK",
@@ -416,8 +416,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "GE",
+    "bankCode": "ISBK",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "ISBKGE22",
     "Bank Name": "JSC ISBANK GEORGIA",
@@ -429,8 +429,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAHA",
-    "bankCode": "GE",
+    "bankCode": "PAHA",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "PAHAGE22",
     "Bank Name": "JSC PASHA BANK GEORGIA",
@@ -442,8 +442,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBA",
-    "bankCode": "GE",
+    "bankCode": "TEBA",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "TEBAGE22",
     "Bank Name": "JSC TERABANK",
@@ -455,8 +455,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "GE",
+    "bankCode": "TCZB",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "TCZBGE22",
     "Bank Name": "JSC ZIRAAT BANK GEORGIA",
@@ -468,8 +468,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNLN",
-    "bankCode": "GE",
+    "bankCode": "BNLN",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "BNLNGE22",
     "Bank Name": "NATIONAL BANK OF GEORGIA",
@@ -481,8 +481,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSRA",
-    "bankCode": "GE",
+    "bankCode": "PSRA",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "PSRAGE22",
     "Bank Name": "PAYSERA BANK GEORGIA JSC",
@@ -494,8 +494,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIBG",
-    "bankCode": "GE",
+    "bankCode": "MIBG",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "MIBGGE22",
     "Bank Name": "PROCREDIT BANK, GEORGIA",
@@ -507,8 +507,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DISN",
-    "bankCode": "GE",
+    "bankCode": "DISN",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "DISNGE22",
     "Bank Name": "SILK BANK JSC (FORMERLY SILK ROAD BANK JSC)",
@@ -520,8 +520,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBCB",
-    "bankCode": "GE",
+    "bankCode": "TBCB",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "TBCBGE22",
     "Bank Name": "TBC BANK",
@@ -533,8 +533,8 @@ const georgia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSMF",
-    "bankCode": "GE",
+    "bankCode": "TSMF",
+    "countryCode": "GE",
     "branchCode": "E22",
     "SWIFT Code": "TSMFGE22",
     "Bank Name": "TREASURY SERVICE MINISTRY OF FINANCE OF GEORGIA",

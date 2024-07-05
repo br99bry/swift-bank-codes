@@ -1,7 +1,7 @@
 const uzbekistan = [
   {
-    "countryCode": "GJSO",
-    "bankCode": "UZ",
+    "bankCode": "GJSO",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "GJSOUZ22",
     "Bank Name": "'BUSINESS DEVELOPMENT BANK' JSCB",
@@ -13,8 +13,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNCU",
-    "bankCode": "UZ",
+    "bankCode": "SNCU",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "SNCUUZ22",
     "Bank Name": "'CENTRAL SECURITIES DEPOSITORY' JOINT-STOCK COMPANY",
@@ -26,8 +26,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HPCJ",
-    "bankCode": "UZ",
+    "bankCode": "HPCJ",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "HPCJUZ22",
     "Bank Name": "'HI-TECH BANK' PRIVATE CLOSED JOINT STOCK COMMERCIAL BANK",
@@ -39,8 +39,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UJSI",
-    "bankCode": "UZ",
+    "bankCode": "UJSI",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "UJSIUZ22",
     "Bank Name": "'UZBEK INDUSTRIAL AND CONSTRUCTION BANK' JOINT-STOCK COMMERCIAL BANK",
@@ -52,8 +52,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANOB",
-    "bankCode": "UZ",
+    "bankCode": "ANOB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "ANOBUZ22",
     "Bank Name": "ANOR BANK UZ",
@@ -65,8 +65,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASAC",
-    "bankCode": "UZ",
+    "bankCode": "ASAC",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "ASACUZ22",
     "Bank Name": "ASIA ALLIANCE BANK",
@@ -78,8 +78,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBUZ",
-    "bankCode": "UZ",
+    "bankCode": "CBUZ",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "CBUZUZ22",
     "Bank Name": "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
@@ -91,8 +91,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HJSC",
-    "bankCode": "UZ",
+    "bankCode": "HJSC",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "HJSCUZ22",
     "Bank Name": "HAYOT BANK JSC",
@@ -104,8 +104,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INFB",
-    "bankCode": "UZ",
+    "bankCode": "INFB",
+    "countryCode": "UZ",
     "branchCode": "Z2X",
     "SWIFT Code": "INFBUZ2X",
     "Bank Name": "INVEST FINANCE BANK",
@@ -117,8 +117,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UZHO",
-    "bankCode": "UZ",
+    "bankCode": "UZHO",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "UZHOUZ22",
     "Bank Name": "IPOTEKA-BANK",
@@ -130,8 +130,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSCL",
-    "bankCode": "UZ",
+    "bankCode": "JSCL",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "JSCLUZ22",
     "Bank Name": "JOINT STOCK COMMERCIAL ALOQABANK",
@@ -143,8 +143,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAKH",
-    "bankCode": "UZ",
+    "bankCode": "PAKH",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "PAKHUZ22",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
@@ -156,8 +156,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOCB",
-    "bankCode": "UZ",
+    "bankCode": "JOCB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "JOCBUZ22",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK 'TBC BANK'",
@@ -169,8 +169,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APXB",
-    "bankCode": "UZ",
+    "bankCode": "APXB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "APXBUZ22",
     "Bank Name": "JOINT STOCK COMPANY 'APEX BANK'",
@@ -182,8 +182,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UZGO",
-    "bankCode": "UZ",
+    "bankCode": "UZGO",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "UZGOUZ22",
     "Bank Name": "JOINT STOCK COMPANY AVO BANK",
@@ -195,8 +195,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBK",
-    "bankCode": "UZ",
+    "bankCode": "HSBK",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "HSBKUZ22",
     "Bank Name": "JOINT-STOCK COMMERCIAL BANK 'TENGE BANK'",
@@ -208,8 +208,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TURO",
-    "bankCode": "UZ",
+    "bankCode": "TURO",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "TUROUZ22",
     "Bank Name": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
@@ -221,8 +221,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCPE",
-    "bankCode": "UZ",
+    "bankCode": "SCPE",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "SCPEUZ22",
     "Bank Name": "JOINT-STOCK COMMERCIAL XALQ BANK OF THE REPUBLIC OF UZBEKISTAN",
@@ -234,8 +234,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBK",
-    "bankCode": "UZ",
+    "bankCode": "ASBK",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "ASBKUZ22",
     "Bank Name": "JOINT-STOCK COMPANY 'ASAKABANK'",
@@ -247,8 +247,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UZUM",
-    "bankCode": "UZ",
+    "bankCode": "UZUM",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "UZUMUZ22",
     "Bank Name": "JOINT-STOCK COMPANY 'UZUM BANK'",
@@ -260,8 +260,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSCS",
-    "bankCode": "UZ",
+    "bankCode": "JSCS",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "JSCSUZ22",
     "Bank Name": "JOINT-STOCK COMPANY GARANT BANK",
@@ -273,8 +273,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOCP",
-    "bankCode": "UZ",
+    "bankCode": "JOCP",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "JOCPUZ22",
     "Bank Name": "JSC 'POYTAXT BANK'",
@@ -286,8 +286,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSMI",
-    "bankCode": "UZ",
+    "bankCode": "JSMI",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "JSMIUZ22",
     "Bank Name": "JSC MADAD INVEST BANK",
@@ -299,8 +299,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "UZ",
+    "bankCode": "TCZB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "TCZBUZ22",
     "Bank Name": "JSC ZIRAAT BANK UZBEKISTAN",
@@ -312,8 +312,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHKK",
-    "bankCode": "UZ",
+    "bankCode": "KHKK",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "KHKKUZ22",
     "Bank Name": "JSCB HAMKORBANK",
@@ -325,8 +325,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INIP",
-    "bankCode": "UZ",
+    "bankCode": "INIP",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "INIPUZ22",
     "Bank Name": "JSIC BANK IPAK YULI",
@@ -338,8 +338,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KACH",
-    "bankCode": "UZ",
+    "bankCode": "KACH",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "KACHUZ22",
     "Bank Name": "KAPITALBANK, JSCB",
@@ -351,8 +351,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "UZ",
+    "bankCode": "KODB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "KODBUZ22",
     "Bank Name": "KDB BANK UZBEKISTAN JSC",
@@ -364,8 +364,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MICD",
-    "bankCode": "UZ",
+    "bankCode": "MICD",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "MICDUZ22",
     "Bank Name": "MICROCREDITBANK",
@@ -377,8 +377,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFRU",
-    "bankCode": "UZ",
+    "bankCode": "MFRU",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "MFRUUZ22",
     "Bank Name": "MINISTRY OF FINANCE THE REPUBLIC OF UZBEKISTAN",
@@ -390,8 +390,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFA",
-    "bankCode": "UZ",
+    "bankCode": "NBFA",
+    "countryCode": "UZ",
     "branchCode": "Z2X",
     "SWIFT Code": "NBFAUZ2X",
     "Bank Name": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
@@ -403,8 +403,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVBK",
-    "bankCode": "UZ",
+    "bankCode": "RVBK",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "RVBKUZ22",
     "Bank Name": "OCTOBANK JSC",
@@ -416,8 +416,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORFB",
-    "bankCode": "UZ",
+    "bankCode": "ORFB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "ORFBUZ22",
     "Bank Name": "PJSCB 'ORIENT FINANCE'",
@@ -429,8 +429,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PJUN",
-    "bankCode": "UZ",
+    "bankCode": "PJUN",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "PJUNUZ22",
     "Bank Name": "PJSCB UNIVERSAL BANK",
@@ -442,8 +442,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DVRB",
-    "bankCode": "UZ",
+    "bankCode": "DVRB",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "DVRBUZ22",
     "Bank Name": "PRIVATE JOINT-STOCK COMMERCIAL BANK 'DAVR BANK'",
@@ -455,8 +455,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRSA",
-    "bankCode": "UZ",
+    "bankCode": "TRSA",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "TRSAUZ22",
     "Bank Name": "TRUSTBANK, PRIVATE JOINT-STOCK BANK",
@@ -468,8 +468,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZRCE",
-    "bankCode": "UZ",
+    "bankCode": "ZRCE",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "ZRCEUZ22",
     "Bank Name": "UZBEK REPUBLICAN CURRENCY EXCHANGE JSC",
@@ -481,8 +481,8 @@ const uzbekistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCYN",
-    "bankCode": "UZ",
+    "bankCode": "JCYN",
+    "countryCode": "UZ",
     "branchCode": "Z22",
     "SWIFT Code": "JCYNUZ22",
     "Bank Name": "YANGI BANK",

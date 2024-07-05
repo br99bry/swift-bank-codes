@@ -1,7 +1,7 @@
 const saintLucia = [
   {
-    "countryCode": "LUOB",
-    "bankCode": "LC",
+    "bankCode": "LUOB",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "LUOBLCLC",
     "Bank Name": "1ST NATIONAL BANK ST.LUCIA LIMITED",
@@ -13,8 +13,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSL",
-    "bankCode": "LC",
+    "bankCode": "BOSL",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "BOSLLCLC",
     "Bank Name": "BANK OF SAINT LUCIA LIMITED",
@@ -26,8 +26,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMBT",
-    "bankCode": "LC",
+    "bankCode": "HMBT",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "HMBTLCLC",
     "Bank Name": "BERKELEY BANK AND TRUST LIMITED",
@@ -39,8 +39,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "LC",
+    "bankCode": "FCIB",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "FCIBLCLC",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
@@ -52,8 +52,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVLC",
-    "bankCode": "LC",
+    "bankCode": "GVLC",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "GVLCLCLC",
     "Bank Name": "GOVERNMENT OF SAINT LUCIA",
@@ -65,8 +65,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEMM",
-    "bankCode": "LC",
+    "bankCode": "HEMM",
+    "countryCode": "LC",
     "branchCode": "CL2",
     "SWIFT Code": "HEMMLCL2",
     "Bank Name": "HERMES BANK LIMITED",
@@ -78,8 +78,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTRV",
-    "bankCode": "LC",
+    "bankCode": "PTRV",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "PTRVLCLC",
     "Bank Name": "PETRUS PRIVATE BANK LIMITED",
@@ -91,8 +91,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLU",
-    "bankCode": "LC",
+    "bankCode": "BSLU",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "BSLULCLC",
     "Bank Name": "PROVEN BANK (SAINT LUCIA) LIMITED",
@@ -104,8 +104,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "LC",
+    "bankCode": "RBNK",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "RBNKLCLC",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -117,8 +117,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "LC",
+    "bankCode": "RBNK",
+    "countryCode": "LC",
     "branchCode": "LCA",
     "SWIFT Code": "RBNKLCLCLCA",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -130,8 +130,8 @@ const saintLucia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTT",
-    "bankCode": "LC",
+    "bankCode": "STTT",
+    "countryCode": "LC",
     "branchCode": "CLC",
     "SWIFT Code": "STTTLCLC",
     "Bank Name": "STATETRUST BANK AND TRUST LTD.",

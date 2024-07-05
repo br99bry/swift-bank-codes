@@ -1,7 +1,7 @@
 const colombia = [
   {
-    "countryCode": "CHAS",
-    "bankCode": "CO",
+    "bankCode": "CHAS",
+    "countryCode": "CO",
     "branchCode": "FIA",
     "SWIFT Code": "CHASCOBBFIA",
     "Bank Name": "BANCO J.P. MORGAN COLOMBIA S.A.",
@@ -13,8 +13,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CO",
+    "bankCode": "CHAS",
+    "countryCode": "CO",
     "branchCode": "WSP",
     "SWIFT Code": "CHASCOBBWSP",
     "Bank Name": "BANCO J.P. MORGAN COLOMBIA S.A.",
@@ -26,8 +26,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CO",
+    "bankCode": "CHAS",
+    "countryCode": "CO",
     "branchCode": "MAC",
     "SWIFT Code": "CHASCOBBMAC",
     "Bank Name": "BANCO J.P. MORGAN COLOMBIA S.A.",
@@ -39,8 +39,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "CO",
+    "bankCode": "PICH",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "PICHCOBB",
     "Bank Name": "BANCO PICHINCHA S.A.",
@@ -52,8 +52,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "AXM",
     "SWIFT Code": "BPOPCOBBAXM",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -65,8 +65,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "BPOPCOBBBAQ",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -78,8 +78,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BPOPCOBB",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -91,8 +91,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "BO1",
     "SWIFT Code": "BPOPCOBBBO1",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -104,8 +104,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "BO2",
     "SWIFT Code": "BPOPCOBBBO2",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -118,8 +118,8 @@ const colombia = [
   },
   {},
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "BGA",
     "SWIFT Code": "BPOPCOBBBGA",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -131,8 +131,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "BPOPCOBBCL1",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -144,8 +144,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "CTG",
     "SWIFT Code": "BPOPCOBBCTG",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -158,8 +158,8 @@ const colombia = [
   },
   {},
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "MZ1",
     "SWIFT Code": "BPOPCOBBMZ1",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -172,8 +172,8 @@ const colombia = [
   },
   {},
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "PEI",
     "SWIFT Code": "BPOPCOBBPEI",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -185,8 +185,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOP",
-    "bankCode": "CO",
+    "bankCode": "BPOP",
+    "countryCode": "CO",
     "branchCode": "ADZ",
     "SWIFT Code": "BPOPCOBBADZ",
     "Bank Name": "BANCO POPULAR SA - COLOMBIA",
@@ -199,8 +199,8 @@ const colombia = [
   },
   {},
   {
-    "countryCode": "SERZ",
-    "bankCode": "CO",
+    "bankCode": "SERZ",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "SERZCOBB",
     "Bank Name": "BANCO SERFINANZA S.A.",
@@ -212,8 +212,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GYDV",
-    "bankCode": "CO",
+    "bankCode": "GYDV",
+    "countryCode": "CO",
     "branchCode": "OBC",
     "SWIFT Code": "GYDVCOBC",
     "Bank Name": "BANCO UNION S.A. (FORMERLY GIROS Y FINANZAS)",
@@ -225,8 +225,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "COLOCOBMBAQ",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -238,8 +238,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "BGA",
     "SWIFT Code": "COLOCOBMBGA",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -251,8 +251,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "COLOCOBMCL1",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -264,8 +264,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "CTG",
     "SWIFT Code": "COLOCOBMCTG",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -277,8 +277,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "MD1",
     "SWIFT Code": "COLOCOBMMD1",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -290,8 +290,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "OBM",
     "SWIFT Code": "COLOCOBM",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -303,8 +303,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "CO",
+    "bankCode": "COLO",
+    "countryCode": "CO",
     "branchCode": "PEI",
     "SWIFT Code": "COLOCOBMPEI",
     "Bank Name": "BANCOLOMBIA S.A.",
@@ -316,8 +316,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBBV",
-    "bankCode": "CO",
+    "bankCode": "FBBV",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FBBVCOBB",
     "Bank Name": "BBVA ASSET MANAGEMENT S.A., SOCIEDAD FIDUCIARIA",
@@ -329,8 +329,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CO",
+    "bankCode": "BNPA",
+    "countryCode": "CO",
     "branchCode": "PEN",
     "SWIFT Code": "BNPACOBBPEN",
     "Bank Name": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
@@ -342,8 +342,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CO",
+    "bankCode": "BNPA",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BNPACOBB",
     "Bank Name": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
@@ -355,8 +355,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CO",
+    "bankCode": "BNPA",
+    "countryCode": "CO",
     "branchCode": "MXN",
     "SWIFT Code": "BNPACOBBMXN",
     "Bank Name": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
@@ -368,8 +368,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CO",
+    "bankCode": "BNPA",
+    "countryCode": "CO",
     "branchCode": "CHL",
     "SWIFT Code": "BNPACOBBCHL",
     "Bank Name": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
@@ -382,8 +382,8 @@ const colombia = [
   },
   {},
   {
-    "countryCode": "BNPA",
-    "bankCode": "CO",
+    "bankCode": "BNPA",
+    "countryCode": "CO",
     "branchCode": "B2S",
     "SWIFT Code": "BNPACOBBB2S",
     "Bank Name": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
@@ -395,8 +395,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCSF",
-    "bankCode": "CO",
+    "bankCode": "CCSF",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CCSFCOBB",
     "Bank Name": "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO",
@@ -408,8 +408,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFO",
-    "bankCode": "CO",
+    "bankCode": "CCFO",
+    "countryCode": "CO",
     "branchCode": "OBN",
     "SWIFT Code": "CCFOCOBN",
     "Bank Name": "CAJA DE COMPENSACION FAMILIAR DE ANTIOQUIA COMFAMA",
@@ -421,8 +421,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCDC",
-    "bankCode": "CO",
+    "bankCode": "CCDC",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CCDCCOBB",
     "Bank Name": "CAMARA DE RIESGO CENTRAL DE CONTRAPARTE DE COLOMBIA S.A.",
@@ -434,8 +434,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTAE",
-    "bankCode": "CO",
+    "bankCode": "CTAE",
+    "countryCode": "CO",
     "branchCode": "OBC",
     "SWIFT Code": "CTAECOBC",
     "Bank Name": "CARTONES AMERICA S.A. CAME",
@@ -447,8 +447,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTYS",
-    "bankCode": "CO",
+    "bankCode": "CTYS",
+    "countryCode": "CO",
     "branchCode": "OBC",
     "SWIFT Code": "CTYSCOBC",
     "Bank Name": "CARVAJAL SERVICIOS S.AS.",
@@ -460,8 +460,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLA",
-    "bankCode": "CO",
+    "bankCode": "CBLA",
+    "countryCode": "CO",
     "branchCode": "OB2",
     "SWIFT Code": "CBLACOB2",
     "Bank Name": "CASA DE BOLSA S.A. SOCIEDAD COMISIONISTA DE BOLSA",
@@ -473,8 +473,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CO",
+    "bankCode": "CITI",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CITICOBB",
     "Bank Name": "CITIBANK COLOMBIA",
@@ -486,8 +486,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLTE",
-    "bankCode": "CO",
+    "bankCode": "CLTE",
+    "countryCode": "CO",
     "branchCode": "OBM",
     "SWIFT Code": "CLTECOBM",
     "Bank Name": "COLTEFINANCIERA S.A. COMPANIA DE FINANCIAMIENTO COMERCIAL",
@@ -500,8 +500,8 @@ const colombia = [
   },
   {},
   {
-    "countryCode": "CFVA",
-    "bankCode": "CO",
+    "bankCode": "CFVA",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "CFVACOBCBAQ",
     "Bank Name": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
@@ -513,8 +513,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFVA",
-    "bankCode": "CO",
+    "bankCode": "CFVA",
+    "countryCode": "CO",
     "branchCode": "BO1",
     "SWIFT Code": "CFVACOBCBO1",
     "Bank Name": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
@@ -526,8 +526,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFVA",
-    "bankCode": "CO",
+    "bankCode": "CFVA",
+    "countryCode": "CO",
     "branchCode": "FXO",
     "SWIFT Code": "CFVACOBCFXO",
     "Bank Name": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
@@ -539,8 +539,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFVA",
-    "bankCode": "CO",
+    "bankCode": "CFVA",
+    "countryCode": "CO",
     "branchCode": "OBC",
     "SWIFT Code": "CFVACOBC",
     "Bank Name": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
@@ -552,8 +552,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFVA",
-    "bankCode": "CO",
+    "bankCode": "CFVA",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "CFVACOBCCL1",
     "Bank Name": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
@@ -565,8 +565,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFVA",
-    "bankCode": "CO",
+    "bankCode": "CFVA",
+    "countryCode": "CO",
     "branchCode": "MD1",
     "SWIFT Code": "CFVACOBCMD1",
     "Bank Name": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
@@ -578,8 +578,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFES",
-    "bankCode": "CO",
+    "bankCode": "AFES",
+    "countryCode": "CO",
     "branchCode": "OBM",
     "SWIFT Code": "AFESCOBM",
     "Bank Name": "ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTIA PROTECCION S.A.",
@@ -591,8 +591,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFIU",
-    "bankCode": "CO",
+    "bankCode": "AFIU",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "AFIUCOBB",
     "Bank Name": "ALIANZA FIDUCIARIA",
@@ -604,8 +604,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUBC",
-    "bankCode": "CO",
+    "bankCode": "HUBC",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "HUBCCOBB",
     "Bank Name": "ALLIANCE ENTERPRISE S.A.S.",
@@ -617,8 +617,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUBC",
-    "bankCode": "CO",
+    "bankCode": "HUBC",
+    "countryCode": "CO",
     "branchCode": "LWE",
     "SWIFT Code": "HUBCCOBBLWE",
     "Bank Name": "ALLIANCE ENTERPRISE S.A.S.",
@@ -630,8 +630,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COZV",
-    "bankCode": "CO",
+    "bankCode": "COZV",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "COZVCOBB",
     "Bank Name": "ALLIANZ SEGUROS DE VIDA S.A.",
@@ -643,8 +643,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPVC",
-    "bankCode": "CO",
+    "bankCode": "FPVC",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FPVCCOBB",
     "Bank Name": "ALLIANZ SEGUROS DE VIDA S.A.",
@@ -656,8 +656,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COZS",
-    "bankCode": "CO",
+    "bankCode": "COZS",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "COZSCOBB",
     "Bank Name": "ALLIANZ SEGUROS S.A.",
@@ -669,8 +669,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEXI",
-    "bankCode": "CO",
+    "bankCode": "GEXI",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "GEXICOBB",
     "Bank Name": "ALMACENES EXITO S.A. (GRUPO EXITO)",
@@ -682,8 +682,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIPA",
-    "bankCode": "CO",
+    "bankCode": "AIPA",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "AIPACOBB",
     "Bank Name": "ALPINA PRODUCTOS ALIMENTICIOS SA BIC",
@@ -695,8 +695,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCAI",
-    "bankCode": "CO",
+    "bankCode": "CCAI",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CCAICOBB",
     "Bank Name": "BANCO AGRARIO DE COLOMBIA S.A. (FORMERLY CAJA DE CREDITO AGRARIO INDUSTRIAL Y MINERO)",
@@ -708,8 +708,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GERO",
-    "bankCode": "CO",
+    "bankCode": "GERO",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "GEROCOBB",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
@@ -721,8 +721,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GERO",
-    "bankCode": "CO",
+    "bankCode": "GERO",
+    "countryCode": "CO",
     "branchCode": "BO1",
     "SWIFT Code": "GEROCOBBBO1",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
@@ -734,8 +734,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAB",
-    "bankCode": "CO",
+    "bankCode": "BPAB",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BPABCOBB",
     "Bank Name": "BANCO BTG PACTUAL COLOMBIA S.A.",
@@ -747,8 +747,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CASO",
-    "bankCode": "CO",
+    "bankCode": "CASO",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CASOCOBB",
     "Bank Name": "BANCO CAJA SOCIAL",
@@ -760,8 +760,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAVI",
-    "bankCode": "CO",
+    "bankCode": "BAVI",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BAVICOBB",
     "Bank Name": "BANCO COMERCIAL AV VILLAS S.A.",
@@ -773,8 +773,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFE",
-    "bankCode": "CO",
+    "bankCode": "CAFE",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "CAFECOBBBAQ",
     "Bank Name": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
@@ -786,8 +786,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFE",
-    "bankCode": "CO",
+    "bankCode": "CAFE",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CAFECOBB",
     "Bank Name": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
@@ -799,8 +799,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFE",
-    "bankCode": "CO",
+    "bankCode": "CAFE",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "CAFECOBBCL1",
     "Bank Name": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
@@ -812,8 +812,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFE",
-    "bankCode": "CO",
+    "bankCode": "CAFE",
+    "countryCode": "CO",
     "branchCode": "MD1",
     "SWIFT Code": "CAFECOBBMD1",
     "Bank Name": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
@@ -825,8 +825,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "BBOGCOBBBAQ",
     "Bank Name": "BANCO DE BOGOTA",
@@ -838,8 +838,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BBOGCOBB",
     "Bank Name": "BANCO DE BOGOTA",
@@ -851,8 +851,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "BO1",
     "SWIFT Code": "BBOGCOBBBO1",
     "Bank Name": "BANCO DE BOGOTA",
@@ -864,8 +864,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "BGA",
     "SWIFT Code": "BBOGCOBBBGA",
     "Bank Name": "BANCO DE BOGOTA",
@@ -877,8 +877,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "BBOGCOBBCL1",
     "Bank Name": "BANCO DE BOGOTA",
@@ -890,8 +890,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "CTG",
     "SWIFT Code": "BBOGCOBBCTG",
     "Bank Name": "BANCO DE BOGOTA",
@@ -903,8 +903,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "CUC",
     "SWIFT Code": "BBOGCOBBCUC",
     "Bank Name": "BANCO DE BOGOTA",
@@ -916,8 +916,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "MZ1",
     "SWIFT Code": "BBOGCOBBMZ1",
     "Bank Name": "BANCO DE BOGOTA",
@@ -929,8 +929,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "MD1",
     "SWIFT Code": "BBOGCOBBMD1",
     "Bank Name": "BANCO DE BOGOTA",
@@ -942,8 +942,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "PEI",
     "SWIFT Code": "BBOGCOBBPEI",
     "Bank Name": "BANCO DE BOGOTA",
@@ -955,8 +955,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "CO",
+    "bankCode": "BBOG",
+    "countryCode": "CO",
     "branchCode": "ADZ",
     "SWIFT Code": "BBOGCOBBADZ",
     "Bank Name": "BANCO DE BOGOTA",
@@ -968,8 +968,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEX",
-    "bankCode": "CO",
+    "bankCode": "BCEX",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BCEXCOBB",
     "Bank Name": "BANCO DE COMERCIO EXTERIOR DE COLOMBIA S.A.",
@@ -981,8 +981,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREP",
-    "bankCode": "CO",
+    "bankCode": "BREP",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BREPCOBB",
     "Bank Name": "BANCO DE LA REPUBLICA",
@@ -994,8 +994,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "OCCICOBCBAQ",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1007,8 +1007,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "BO2",
     "SWIFT Code": "OCCICOBCBO2",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1020,8 +1020,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "BGA",
     "SWIFT Code": "OCCICOBCBGA",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1033,8 +1033,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "OCCICOBCCL1",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1046,8 +1046,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "OBC",
     "SWIFT Code": "OCCICOBC",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1059,8 +1059,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "CTG",
     "SWIFT Code": "OCCICOBCCTG",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1072,8 +1072,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "MD4",
     "SWIFT Code": "OCCICOBCMD4",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1085,8 +1085,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "CO",
+    "bankCode": "OCCI",
+    "countryCode": "CO",
     "branchCode": "ADZ",
     "SWIFT Code": "OCCICOBCADZ",
     "Bank Name": "BANCO DE OCCIDENTE",
@@ -1098,8 +1098,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FALA",
-    "bankCode": "CO",
+    "bankCode": "FALA",
+    "countryCode": "CO",
     "branchCode": "OBT",
     "SWIFT Code": "FALACOBT",
     "Bank Name": "BANCO FALABELLA SA",
@@ -1111,8 +1111,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "BSUDCOBBBAQ",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1124,8 +1124,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BSUDCOBB",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1137,8 +1137,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "BGA",
     "SWIFT Code": "BSUDCOBBBGA",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1150,8 +1150,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "BSUDCOBBCL1",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1163,8 +1163,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "CTG",
     "SWIFT Code": "BSUDCOBBCTG",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1176,8 +1176,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "MZ1",
     "SWIFT Code": "BSUDCOBBMZ1",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1189,8 +1189,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "CO",
+    "bankCode": "BSUD",
+    "countryCode": "CO",
     "branchCode": "MD1",
     "SWIFT Code": "BSUDCOBBMD1",
     "Bank Name": "BANCO GNB SUDAMERIS",
@@ -1202,8 +1202,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CO",
+    "bankCode": "CHAS",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CHASCOBB",
     "Bank Name": "BANCO J.P. MORGAN COLOMBIA S.A.",
@@ -1215,8 +1215,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CO",
+    "bankCode": "CHAS",
+    "countryCode": "CO",
     "branchCode": "LIM",
     "SWIFT Code": "CHASCOBBLIM",
     "Bank Name": "BANCO J.P. MORGAN COLOMBIA S.A.",
@@ -1228,8 +1228,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRRD",
-    "bankCode": "CO",
+    "bankCode": "CRRD",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CRRDCOBB",
     "Bank Name": "CORREDORES DAVIVIENDA S.A.COMISIONISTA DE BOLSA",
@@ -1241,8 +1241,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRVL",
-    "bankCode": "CO",
+    "bankCode": "CRVL",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CRVLCOBB",
     "Bank Name": "CREDICORP CAPITAL COLOMBIA S.A.",
@@ -1254,8 +1254,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRVL",
-    "bankCode": "CO",
+    "bankCode": "CRVL",
+    "countryCode": "CO",
     "branchCode": "COF",
     "SWIFT Code": "CRVLCOBBCOF",
     "Bank Name": "CREDICORP CAPITAL COLOMBIA S.A.",
@@ -1267,8 +1267,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRVL",
-    "bankCode": "CO",
+    "bankCode": "CRVL",
+    "countryCode": "CO",
     "branchCode": "FID",
     "SWIFT Code": "CRVLCOBBFID",
     "Bank Name": "CREDICORP CAPITAL COLOMBIA S.A.",
@@ -1280,8 +1280,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOP",
-    "bankCode": "CO",
+    "bankCode": "ECOP",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "ECOPCOBB",
     "Bank Name": "ECOPETROL S.A.",
@@ -1293,8 +1293,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETBC",
-    "bankCode": "CO",
+    "bankCode": "ETBC",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "ETBCCOBB",
     "Bank Name": "EMPRESA DE TELECOMUNICACIONES DE BOGOTA S.A E.SP.",
@@ -1306,8 +1306,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDEA",
-    "bankCode": "CO",
+    "bankCode": "CDEA",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "CDEACOBB",
     "Bank Name": "ENEL COLOMBIA S.A. E.S.P",
@@ -1319,8 +1319,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDBC",
-    "bankCode": "CO",
+    "bankCode": "FDBC",
+    "countryCode": "CO",
     "branchCode": "OBM",
     "SWIFT Code": "FDBCCOBM",
     "Bank Name": "FIDUCIARIA BANCOLOMBIA",
@@ -1332,8 +1332,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBOG",
-    "bankCode": "CO",
+    "bankCode": "FBOG",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FBOGCOBB",
     "Bank Name": "FIDUCIARIA BOGOTA",
@@ -1345,8 +1345,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCOI",
-    "bankCode": "CO",
+    "bankCode": "FCOI",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FCOICOBB",
     "Bank Name": "FIDUCIARIA CORFICOLOMBIANA S.A.",
@@ -1358,8 +1358,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIDV",
-    "bankCode": "CO",
+    "bankCode": "FIDV",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FIDVCOBB",
     "Bank Name": "FIDUCIARIA DAVIVIENDA S.A.",
@@ -1371,8 +1371,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDOC",
-    "bankCode": "CO",
+    "bankCode": "FDOC",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FDOCCOBB",
     "Bank Name": "FIDUCIARIA DE OCCIDENTE",
@@ -1384,8 +1384,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FENS",
-    "bankCode": "CO",
+    "bankCode": "FENS",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FENSCOBB",
     "Bank Name": "FINANCIERA DE DESARROLLO NACIONAL S.A. FORMALLY FINANCIERA ENERGETICA NACIONAL S.A.-FEN",
@@ -1397,8 +1397,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOGI",
-    "bankCode": "CO",
+    "bankCode": "FOGI",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FOGICOBB",
     "Bank Name": "FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS",
@@ -1410,8 +1410,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLAR",
-    "bankCode": "CO",
+    "bankCode": "FLAR",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "FLARCOBB",
     "Bank Name": "FONDO LATINOAMERICANO DE RESERVAS",
@@ -1423,8 +1423,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLAR",
-    "bankCode": "CO",
+    "bankCode": "FLAR",
+    "countryCode": "CO",
     "branchCode": "OBG",
     "SWIFT Code": "FLARCOBG",
     "Bank Name": "FONDO LATINOAMERICANO DE RESERVAS",
@@ -1436,8 +1436,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCOL",
-    "bankCode": "CO",
+    "bankCode": "HCOL",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "HCOLCOBB",
     "Bank Name": "HOCOL S.A.",
@@ -1449,8 +1449,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISGN",
-    "bankCode": "CO",
+    "bankCode": "ISGN",
+    "countryCode": "CO",
     "branchCode": "OBM",
     "SWIFT Code": "ISGNCOBM",
     "Bank Name": "ISAGEN S.A. E.S.P.",
@@ -1462,8 +1462,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTO",
-    "bankCode": "CO",
+    "bankCode": "BCTO",
+    "countryCode": "CO",
     "branchCode": "BAQ",
     "SWIFT Code": "BCTOCOBBBAQ",
     "Bank Name": "ITAU COLOMBIA S.A.",
@@ -1475,8 +1475,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTO",
-    "bankCode": "CO",
+    "bankCode": "BCTO",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BCTOCOBB",
     "Bank Name": "ITAU COLOMBIA S.A.",
@@ -1488,8 +1488,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTO",
-    "bankCode": "CO",
+    "bankCode": "BCTO",
+    "countryCode": "CO",
     "branchCode": "CL1",
     "SWIFT Code": "BCTOCOBBCL1",
     "Bank Name": "ITAU COLOMBIA S.A.",
@@ -1501,8 +1501,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTO",
-    "bankCode": "CO",
+    "bankCode": "BCTO",
+    "countryCode": "CO",
     "branchCode": "MD1",
     "SWIFT Code": "BCTOCOBBMD1",
     "Bank Name": "ITAU COLOMBIA S.A.",
@@ -1514,8 +1514,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAPF",
-    "bankCode": "CO",
+    "bankCode": "MAPF",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "MAPFCOBB",
     "Bank Name": "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A.",
@@ -1527,8 +1527,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCL",
-    "bankCode": "CO",
+    "bankCode": "MSCL",
+    "countryCode": "CO",
     "branchCode": "OBC",
     "SWIFT Code": "MSCLCOBC",
     "Bank Name": "MUNICIPIO SANTIAGO DE CALI",
@@ -1540,8 +1540,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCEN",
-    "bankCode": "CO",
+    "bankCode": "OCEN",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "OCENCOBB",
     "Bank Name": "OLEODUCTO CENTRAL S.A.",
@@ -1553,8 +1553,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PORV",
-    "bankCode": "CO",
+    "bankCode": "PORV",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "PORVCOBB",
     "Bank Name": "PORVENIR S.A.",
@@ -1566,8 +1566,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSC",
-    "bankCode": "CO",
+    "bankCode": "BSSC",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "BSSCCOBB",
     "Bank Name": "SANTANDER CACEIS COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
@@ -1579,8 +1579,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLP",
-    "bankCode": "CO",
+    "bankCode": "COLP",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "COLPCOBB",
     "Bank Name": "SCOTIABANK COLPATRIA S.A.",
@@ -1592,8 +1592,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VABC",
-    "bankCode": "CO",
+    "bankCode": "VABC",
+    "countryCode": "CO",
     "branchCode": "OBM",
     "SWIFT Code": "VABCCOBM",
     "Bank Name": "VALORES BANCOLOMBIA S.A. COMISIONISTA DE BOLSA",
@@ -1605,8 +1605,8 @@ const colombia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GASN",
-    "bankCode": "CO",
+    "bankCode": "GASN",
+    "countryCode": "CO",
     "branchCode": "OBB",
     "SWIFT Code": "GASNCOBB",
     "Bank Name": "VANTI S.A., E.S.P.",

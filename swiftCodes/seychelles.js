@@ -1,7 +1,7 @@
 const seychelles = [
   {
-    "countryCode": "BARC",
-    "bankCode": "SC",
+    "bankCode": "BARC",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "BARCSCSC",
     "Bank Name": "ABSA BANK (SEYCHELLES) LIMITED",
@@ -13,8 +13,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMUS",
-    "bankCode": "SC",
+    "bankCode": "BMUS",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "BMUSSCSC",
     "Bank Name": "AL SALAM BANK SEYCHELLES LIMITED",
@@ -26,8 +26,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "SC",
+    "bankCode": "BARB",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "BARBSCSC",
     "Bank Name": "BANK OF BARODA",
@@ -39,8 +39,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "SC",
+    "bankCode": "BCEY",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "BCEYSCSC",
     "Bank Name": "BANK OF CEYLON, SEYCHELLES BRANCH",
@@ -52,8 +52,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSCB",
-    "bankCode": "SC",
+    "bankCode": "SSCB",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "SSCBSCSC",
     "Bank Name": "CENTRAL BANK OF SEYCHELLES",
@@ -65,8 +65,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIGL",
-    "bankCode": "SC",
+    "bankCode": "DIGL",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "DIGLSCSC",
     "Bank Name": "DIGITAL BANK LIMITED",
@@ -78,8 +78,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBL",
-    "bankCode": "SC",
+    "bankCode": "MCBL",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "MCBLSCSC",
     "Bank Name": "MCB SEYCHELLES",
@@ -91,8 +91,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVH",
-    "bankCode": "SC",
+    "bankCode": "NOVH",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "NOVHSCSC",
     "Bank Name": "NOUVOBANQ",
@@ -104,8 +104,8 @@ const seychelles = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEYS",
-    "bankCode": "SC",
+    "bankCode": "SEYS",
+    "countryCode": "SC",
     "branchCode": "CSC",
     "SWIFT Code": "SEYSSCSC",
     "Bank Name": "SEYCHELLES COMMERCIAL BANK",

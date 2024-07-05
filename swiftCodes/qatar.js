@@ -1,7 +1,7 @@
 const qatar = [
   {
-    "countryCode": "ORDO",
-    "bankCode": "QA",
+    "bankCode": "ORDO",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "ORDOQAQA",
     "Bank Name": "OOREDOO Q.P.S.C",
@@ -13,8 +13,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QAMC",
-    "bankCode": "QA",
+    "bankCode": "QAMC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QAMCQAQA",
     "Bank Name": "QATAR ALUMINIUM MANUFACTURING COMPANY Q.P.S.C.",
@@ -26,8 +26,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QMAG",
-    "bankCode": "QA",
+    "bankCode": "QMAG",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QMAGQAQA",
     "Bank Name": "QATAR CENTRAL BANK",
@@ -39,8 +39,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCSD",
-    "bankCode": "QA",
+    "bankCode": "QCSD",
+    "countryCode": "QA",
     "branchCode": "AQ2",
     "SWIFT Code": "QCSDQAQ2",
     "Bank Name": "QATAR CENTRAL SECURITIES DEPOSITORY",
@@ -52,8 +52,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCPM",
-    "bankCode": "QA",
+    "bankCode": "QCPM",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QCPMQAQA",
     "Bank Name": "QATAR CHEMICAL AND PETROCHEMICAL MARKETING AND DISTRIBUTION COMPANY (MUNTAJAT) Q.P.J.S.C.",
@@ -65,8 +65,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QIDB",
-    "bankCode": "QA",
+    "bankCode": "QIDB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QIDBQAQA",
     "Bank Name": "QATAR DEVELOPMENT BANK",
@@ -78,8 +78,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QIIB",
-    "bankCode": "QA",
+    "bankCode": "QIIB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QIIBQAQA",
     "Bank Name": "QATAR INTERNATIONAL ISLAMIC BANK",
@@ -91,8 +91,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GQIC",
-    "bankCode": "QA",
+    "bankCode": "GQIC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "GQICQAQA",
     "Bank Name": "QATAR INVESTMENT AUTHORITY",
@@ -104,8 +104,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QISB",
-    "bankCode": "QA",
+    "bankCode": "QISB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QISBQAQA",
     "Bank Name": "QATAR ISLAMIC BANK",
@@ -117,8 +117,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QNBAQAQA",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -130,8 +130,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "CAD",
     "SWIFT Code": "QNBAQAQACAD",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -143,8 +143,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "CUS",
     "SWIFT Code": "QNBAQAQACUS",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -156,8 +156,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "KYA",
     "SWIFT Code": "QNBAQAQAKYA",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -169,8 +169,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "FTD",
     "SWIFT Code": "QNBAQAQAFTD",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -182,8 +182,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "FMS",
     "SWIFT Code": "QNBAQAQAFMS",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -195,8 +195,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "COD",
     "SWIFT Code": "QNBAQAQACOD",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -208,8 +208,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "SLB",
     "SWIFT Code": "QNBAQAQASLB",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -221,8 +221,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "QA",
+    "bankCode": "QNBA",
+    "countryCode": "QA",
     "branchCode": "TRO",
     "SWIFT Code": "QNBAQAQATRO",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -234,8 +234,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QANQ",
-    "bankCode": "QA",
+    "bankCode": "QANQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QANQQAQA",
     "Bank Name": "QATAR NAVIGATION QSC",
@@ -247,8 +247,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QAPC",
-    "bankCode": "QA",
+    "bankCode": "QAPC",
+    "countryCode": "QA",
     "branchCode": "AQD",
     "SWIFT Code": "QAPCQAQD",
     "Bank Name": "QATAR PETROCHEMICAL COMPANY (QAPCO) Q.P.J.S.C",
@@ -260,8 +260,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSWQ",
-    "bankCode": "QA",
+    "bankCode": "TSWQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "TSWQQAQA",
     "Bank Name": "QATAR PETROLEUM FOR THE SALE OF PETROLEUM PRODUCTS COMPANY LTD",
@@ -273,8 +273,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QPQP",
-    "bankCode": "QA",
+    "bankCode": "QPQP",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QPQPQAQA",
     "Bank Name": "QATARENERGY",
@@ -286,8 +286,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QPIL",
-    "bankCode": "QA",
+    "bankCode": "QPIL",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QPILQAQA",
     "Bank Name": "QATARENERGY INTERNATIONAL",
@@ -299,8 +299,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QPTL",
-    "bankCode": "QA",
+    "bankCode": "QPTL",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QPTLQAQA",
     "Bank Name": "QATARENERGY TRADING LLC",
@@ -312,8 +312,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QAQG",
-    "bankCode": "QA",
+    "bankCode": "QAQG",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QAQGQAQA",
     "Bank Name": "QATARGAS OPERATING CO LTD",
@@ -325,8 +325,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QINV",
-    "bankCode": "QA",
+    "bankCode": "QINV",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QINVQAQA",
     "Bank Name": "QINVEST LLC",
@@ -338,8 +338,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEEF",
-    "bankCode": "QA",
+    "bankCode": "SEEF",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "SEEFQAQA",
     "Bank Name": "SEEF LIMITED",
@@ -351,8 +351,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "QA",
+    "bankCode": "SCBL",
+    "countryCode": "QA",
     "branchCode": "AQX",
     "SWIFT Code": "SCBLQAQX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -364,8 +364,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBQA",
-    "bankCode": "QA",
+    "bankCode": "CBQA",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "CBQAQAQA",
     "Bank Name": "THE COMMERCIAL BANK (P.S.Q.C.)",
@@ -377,8 +377,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBQA",
-    "bankCode": "QA",
+    "bankCode": "CBQA",
+    "countryCode": "QA",
     "branchCode": "CGT",
     "SWIFT Code": "CBQAQAQACGT",
     "Bank Name": "THE COMMERCIAL BANK (P.S.Q.C.)",
@@ -390,8 +390,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRPS",
-    "bankCode": "QA",
+    "bankCode": "GRPS",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "GRPSQAQA",
     "Bank Name": "THE GROUP SECURITIES",
@@ -403,8 +403,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMB",
-    "bankCode": "QA",
+    "bankCode": "SAMB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "SAMBQAQA",
     "Bank Name": "THE SAUDI NATIONAL BANK (QATAR BRANCH)",
@@ -416,8 +416,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "QA",
+    "bankCode": "UNIL",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "UNILQAQA",
     "Bank Name": "UNITED BANK LIMITED, DOHA",
@@ -429,8 +429,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "QA",
+    "bankCode": "UNIL",
+    "countryCode": "QA",
     "branchCode": "TRY",
     "SWIFT Code": "UNILQAQATRY",
     "Bank Name": "UNITED BANK LIMITED, DOHA",
@@ -442,8 +442,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "URBC",
-    "bankCode": "QA",
+    "bankCode": "URBC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "URBCQAQA",
     "Bank Name": "URBACON HOLDING COMPANY",
@@ -455,8 +455,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABDI",
-    "bankCode": "QA",
+    "bankCode": "ABDI",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "ABDIQAQA",
     "Bank Name": "ABU DHABI ISLAMIC BANK",
@@ -468,8 +468,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABQQ",
-    "bankCode": "QA",
+    "bankCode": "ABQQ",
+    "countryCode": "QA",
     "branchCode": "AIR",
     "SWIFT Code": "ABQQQAQAAIR",
     "Bank Name": "AHLI BANK QPSC",
@@ -481,8 +481,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABQQ",
-    "bankCode": "QA",
+    "bankCode": "ABQQ",
+    "countryCode": "QA",
     "branchCode": "DNB",
     "SWIFT Code": "ABQQQAQADNB",
     "Bank Name": "AHLI BANK QPSC",
@@ -494,8 +494,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABQQ",
-    "bankCode": "QA",
+    "bankCode": "ABQQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "ABQQQAQA",
     "Bank Name": "AHLI BANK QPSC",
@@ -507,8 +507,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABQQ",
-    "bankCode": "QA",
+    "bankCode": "ABQQ",
+    "countryCode": "QA",
     "branchCode": "MER",
     "SWIFT Code": "ABQQQAQAMER",
     "Bank Name": "AHLI BANK QPSC",
@@ -520,8 +520,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFEW",
-    "bankCode": "QA",
+    "bankCode": "AFEW",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AFEWQAQA",
     "Bank Name": "AL DAR FOR EXCHANGE WORKS",
@@ -533,8 +533,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEXC",
-    "bankCode": "QA",
+    "bankCode": "AEXC",
+    "countryCode": "QA",
     "branchCode": "AQD",
     "SWIFT Code": "AEXCQAQD",
     "Bank Name": "AL JAZEERA EXCHANGE COMPANY",
@@ -546,8 +546,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALZA",
-    "bankCode": "QA",
+    "bankCode": "ALZA",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "ALZAQAQA",
     "Bank Name": "AL ZAMAN EXCHANGE W.L.L",
@@ -559,8 +559,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFXQ",
-    "bankCode": "QA",
+    "bankCode": "AFXQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AFXQQAQA",
     "Bank Name": "ALFARDAN EXCHANGE LLC",
@@ -572,8 +572,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEXC",
-    "bankCode": "QA",
+    "bankCode": "AEXC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AEXCQAQA",
     "Bank Name": "ALJAZEERA EXCHANGE COMPANY",
@@ -585,8 +585,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "ARABQAQA",
     "Bank Name": "ARAB BANK PLC",
@@ -598,8 +598,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "SAD",
     "SWIFT Code": "ARABQAQASAD",
     "Bank Name": "ARAB BANK PLC",
@@ -611,8 +611,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "RD3",
     "SWIFT Code": "ARABQAQARD3",
     "Bank Name": "ARAB BANK PLC",
@@ -624,8 +624,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "CTU",
     "SWIFT Code": "ARABQAQACTU",
     "Bank Name": "ARAB BANK PLC",
@@ -637,8 +637,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "INV",
     "SWIFT Code": "ARABQAQAINV",
     "Bank Name": "ARAB BANK PLC",
@@ -650,8 +650,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "TSU",
     "SWIFT Code": "ARABQAQATSU",
     "Bank Name": "ARAB BANK PLC",
@@ -663,8 +663,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "QA",
+    "bankCode": "ARAB",
+    "countryCode": "QA",
     "branchCode": "TRO",
     "SWIFT Code": "ARABQAQATRO",
     "Bank Name": "ARAB BANK PLC",
@@ -676,8 +676,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJIB",
-    "bankCode": "QA",
+    "bankCode": "AJIB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AJIBQAQA",
     "Bank Name": "ARAB JORDAN INVESTMENT BANK (QATAR) LLC",
@@ -689,8 +689,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARED",
-    "bankCode": "QA",
+    "bankCode": "ARED",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AREDQAQA",
     "Bank Name": "ASSETS REAL ESTATE DEVELOPMENT W.L.L",
@@ -702,8 +702,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTC",
-    "bankCode": "QA",
+    "bankCode": "AZTC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AZTCQAQA",
     "Bank Name": "AZTECH LLC",
@@ -715,8 +715,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUDB",
-    "bankCode": "QA",
+    "bankCode": "AUDB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "AUDBQAQA",
     "Bank Name": "BANK AUDI LLC",
@@ -728,8 +728,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "QA",
+    "bankCode": "BKCH",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "BKCHQAQA",
     "Bank Name": "BANK OF CHINA LIMITED QATAR FINANCIAL CENTRE BRANCH",
@@ -741,8 +741,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "QA",
+    "bankCode": "BLOM",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "BLOMQAQA",
     "Bank Name": "BLOM BANK QATAR LLC",
@@ -754,8 +754,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "QA",
+    "bankCode": "BNPA",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "BNPAQAQA",
     "Bank Name": "BNP PARIBAS, DOHA",
@@ -767,8 +767,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "QA",
+    "bankCode": "CITI",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "CITIQAQA",
     "Bank Name": "CITIBANK N.A.",
@@ -780,8 +780,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CQUR",
-    "bankCode": "QA",
+    "bankCode": "CQUR",
+    "countryCode": "QA",
     "branchCode": "AQD",
     "SWIFT Code": "CQURQAQD",
     "Bank Name": "CQUR BANK LLC",
@@ -793,8 +793,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLBO",
-    "bankCode": "QA",
+    "bankCode": "DLBO",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "DLBOQAQA",
     "Bank Name": "DLALA BROKERAGE COMPANY W.L.L.",
@@ -806,8 +806,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "DOHBQAQA",
     "Bank Name": "DOHA BANK",
@@ -819,8 +819,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "DIS",
     "SWIFT Code": "DOHBQAQADIS",
     "Bank Name": "DOHA BANK",
@@ -832,8 +832,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "DKB",
     "SWIFT Code": "DOHBQAQADKB",
     "Bank Name": "DOHA BANK",
@@ -845,8 +845,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "MSB",
     "SWIFT Code": "DOHBQAQAMSB",
     "Bank Name": "DOHA BANK",
@@ -858,8 +858,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "SRB",
     "SWIFT Code": "DOHBQAQASRB",
     "Bank Name": "DOHA BANK",
@@ -871,8 +871,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "WBB",
     "SWIFT Code": "DOHBQAQAWBB",
     "Bank Name": "DOHA BANK",
@@ -884,8 +884,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "QA",
+    "bankCode": "DOHB",
+    "countryCode": "QA",
     "branchCode": "USB",
     "SWIFT Code": "DOHBQAQAUSB",
     "Bank Name": "DOHA BANK",
@@ -897,8 +897,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSMD",
-    "bankCode": "QA",
+    "bankCode": "DSMD",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "DSMDQAQA",
     "Bank Name": "DOHA SECURITIES MARKET",
@@ -910,8 +910,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRWA",
-    "bankCode": "QA",
+    "bankCode": "BRWA",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "BRWAQAQA",
     "Bank Name": "DUKHAN BANK (FORMERLY BARWA BANK)",
@@ -923,8 +923,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOQ",
-    "bankCode": "QA",
+    "bankCode": "IBOQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "IBOQQAQA",
     "Bank Name": "DUKHAN BANK (FORMERLY BARWA BANK)",
@@ -936,8 +936,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLEC",
-    "bankCode": "QA",
+    "bankCode": "GLEC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "GLECQAQA",
     "Bank Name": "GULF EXCHANGE COMPANY",
@@ -949,8 +949,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GISQ",
-    "bankCode": "QA",
+    "bankCode": "GISQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "GISQQAQA",
     "Bank Name": "GULF INTERNATIONAL SERVICES Q.P.S.C.",
@@ -962,8 +962,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "QA",
+    "bankCode": "BBME",
+    "countryCode": "QA",
     "branchCode": "AQX",
     "SWIFT Code": "BBMEQAQX",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -975,8 +975,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMLL",
-    "bankCode": "QA",
+    "bankCode": "IMLL",
+    "countryCode": "QA",
     "branchCode": "AQ2",
     "SWIFT Code": "IMLLQAQ2",
     "Bank Name": "ICM LLC",
@@ -988,8 +988,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "QA",
+    "bankCode": "ICBK",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "ICBKQAQA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED",
@@ -1001,8 +1001,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "QA",
+    "bankCode": "ICBK",
+    "countryCode": "QA",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKQAQACLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED",
@@ -1014,8 +1014,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INQP",
-    "bankCode": "QA",
+    "bankCode": "INQP",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "INQPQAQA",
     "Bank Name": "INDUSTRIES QATAR Q.P.S.C.",
@@ -1027,8 +1027,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "QA",
+    "bankCode": "BCIT",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "BCITQAQA",
     "Bank Name": "INTESA SANPAOLO S.P.A. - QFC BRANCH",
@@ -1040,8 +1040,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QFIB",
-    "bankCode": "QA",
+    "bankCode": "QFIB",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "QFIBQAQA",
     "Bank Name": "LESHA BANK",
@@ -1053,8 +1053,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "QA",
+    "bankCode": "MSHQ",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "MSHQQAQA",
     "Bank Name": "MASHREQ BANK",
@@ -1066,8 +1066,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAFR",
-    "bankCode": "QA",
+    "bankCode": "MAFR",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "MAFRQAQA",
     "Bank Name": "MASRAF AL RAYAN",
@@ -1079,8 +1079,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPHC",
-    "bankCode": "QA",
+    "bankCode": "MPHC",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "MPHCQAQA",
     "Bank Name": "MESAIEED PETROCHEMICAL HOLDING COMPANY Q.P.S.C.",
@@ -1092,8 +1092,8 @@ const qatar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIIF",
-    "bankCode": "QA",
+    "bankCode": "MIIF",
+    "countryCode": "QA",
     "branchCode": "AQA",
     "SWIFT Code": "MIIFQAQA",
     "Bank Name": "MINISTRY OF FINANCE",

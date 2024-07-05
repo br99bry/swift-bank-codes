@@ -1,7 +1,7 @@
 const sriLanka = [
   {
-    "countryCode": "SBIN",
-    "bankCode": "LK",
+    "bankCode": "SBIN",
+    "countryCode": "LK",
     "branchCode": "FCB",
     "SWIFT Code": "SBINLKLXFCB",
     "Bank Name": "STATE BANK OF INDIA",
@@ -13,8 +13,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "LK",
+    "bankCode": "SBIN",
+    "countryCode": "LK",
     "branchCode": "KDY",
     "SWIFT Code": "SBINLKLXKDY",
     "Bank Name": "STATE BANK OF INDIA",
@@ -26,8 +26,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "LK",
+    "bankCode": "SBIN",
+    "countryCode": "LK",
     "branchCode": "TRI",
     "SWIFT Code": "SBINLKLXTRI",
     "Bank Name": "STATE BANK OF INDIA",
@@ -39,8 +39,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCL",
-    "bankCode": "LK",
+    "bankCode": "UBCL",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "UBCLLKLC",
     "Bank Name": "UNION BANK OF COLOMBO PLC",
@@ -52,8 +52,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTEY",
-    "bankCode": "LK",
+    "bankCode": "WTEY",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "WTEYLKLX",
     "Bank Name": "WEALTHTRUST SECURITIES LTD",
@@ -65,8 +65,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBS",
-    "bankCode": "LK",
+    "bankCode": "HNBS",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "HNBSLKLX",
     "Bank Name": "ACUITY SECURITIES LIMITED",
@@ -78,8 +78,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMNA",
-    "bankCode": "LK",
+    "bankCode": "AMNA",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "AMNALKLX",
     "Bank Name": "AMANA BANK PLC",
@@ -91,8 +91,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "BCEYLKLX",
     "Bank Name": "BANK OF CEYLON",
@@ -104,8 +104,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "004",
     "SWIFT Code": "BCEYLKLX004",
     "Bank Name": "BANK OF CEYLON",
@@ -117,8 +117,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "573",
     "SWIFT Code": "BCEYLKLX573",
     "Bank Name": "BANK OF CEYLON",
@@ -130,8 +130,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "131",
     "SWIFT Code": "BCEYLKLX131",
     "Bank Name": "BANK OF CEYLON",
@@ -143,8 +143,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "618",
     "SWIFT Code": "BCEYLKLX618",
     "Bank Name": "BANK OF CEYLON",
@@ -156,8 +156,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "125",
     "SWIFT Code": "BCEYLKLX125",
     "Bank Name": "BANK OF CEYLON",
@@ -169,8 +169,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "PRI",
     "SWIFT Code": "BCEYLKLXPRI",
     "Bank Name": "BANK OF CEYLON",
@@ -182,8 +182,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEY",
-    "bankCode": "LK",
+    "bankCode": "BCEY",
+    "countryCode": "LK",
     "branchCode": "002",
     "SWIFT Code": "BCEYLKLX002",
     "Bank Name": "BANK OF CEYLON",
@@ -195,8 +195,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "LK",
+    "bankCode": "BKCH",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "BKCHLKLX",
     "Bank Name": "BANK OF CHINA LIMITED COLOMBO BRANCH",
@@ -208,8 +208,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CALD",
-    "bankCode": "LK",
+    "bankCode": "CALD",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "CALDLKLX",
     "Bank Name": "CAPITAL ALLIANCE PLC",
@@ -221,8 +221,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGRB",
-    "bankCode": "LK",
+    "bankCode": "CGRB",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "CGRBLKLX",
     "Bank Name": "CARGILLS BANK LIMITED",
@@ -234,8 +234,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCE",
-    "bankCode": "LK",
+    "bankCode": "CBCE",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "CBCELKLX",
     "Bank Name": "CENTRAL BANK OF SRI LANKA",
@@ -247,8 +247,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCE",
-    "bankCode": "LK",
+    "bankCode": "CBCE",
+    "countryCode": "LK",
     "branchCode": "KLS",
     "SWIFT Code": "CBCELKLS",
     "Bank Name": "CENTRAL BANK OF SRI LANKA",
@@ -260,8 +260,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCE",
-    "bankCode": "LK",
+    "bankCode": "CBCE",
+    "countryCode": "LK",
     "branchCode": "EPF",
     "SWIFT Code": "CBCELKLXEPF",
     "Bank Name": "CENTRAL BANK OF SRI LANKA",
@@ -273,8 +273,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDSP",
-    "bankCode": "LK",
+    "bankCode": "CDSP",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "CDSPLKLC",
     "Bank Name": "CENTRAL DEPOSITORY SYSTEMS (PVT) LTD",
@@ -286,8 +286,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LK",
+    "bankCode": "CITI",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "CITILKLX",
     "Bank Name": "CITIBANK N.A. SRI LANKA",
@@ -299,8 +299,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEY",
-    "bankCode": "LK",
+    "bankCode": "CCEY",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "CCEYLKLX",
     "Bank Name": "COMMERCIAL BANK OF CEYLON PLC",
@@ -312,8 +312,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LK",
+    "bankCode": "DEUT",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "DEUTLKLX",
     "Bank Name": "DEUTSCHE BANK AG, COLOMBO BRANCH",
@@ -325,8 +325,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LK",
+    "bankCode": "DEUT",
+    "countryCode": "LK",
     "branchCode": "GMO",
     "SWIFT Code": "DEUTLKLXGMO",
     "Bank Name": "DEUTSCHE BANK AG, COLOMBO BRANCH",
@@ -338,8 +338,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LK",
+    "bankCode": "DEUT",
+    "countryCode": "LK",
     "branchCode": "001",
     "SWIFT Code": "DEUTLKLX001",
     "Bank Name": "DEUTSCHE BANK AG, COLOMBO BRANCH",
@@ -351,8 +351,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DFCC",
-    "bankCode": "LK",
+    "bankCode": "DFCC",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "DFCCLKLX",
     "Bank Name": "DFCC BANK PLC",
@@ -364,8 +364,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSSL",
-    "bankCode": "LK",
+    "bankCode": "CSSL",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "CSSLLKLX",
     "Bank Name": "ENTRUST SECURITIES PLC",
@@ -377,8 +377,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCTL",
-    "bankCode": "LK",
+    "bankCode": "FCTL",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "FCTLLKLX",
     "Bank Name": "FIRST CAPITAL TREASURIES PLC",
@@ -390,8 +390,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "LK",
+    "bankCode": "HABB",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "HABBLKLC",
     "Bank Name": "HABIB BANK LTD.",
@@ -403,8 +403,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBLI",
-    "bankCode": "LK",
+    "bankCode": "HBLI",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "HBLILKLX",
     "Bank Name": "HATTON NATIONAL BANK PLC",
@@ -416,8 +416,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBLI",
-    "bankCode": "LK",
+    "bankCode": "HBLI",
+    "countryCode": "LK",
     "branchCode": "001",
     "SWIFT Code": "HBLILKLX001",
     "Bank Name": "HATTON NATIONAL BANK PLC",
@@ -429,8 +429,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "LK",
+    "bankCode": "HSBC",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "HSBCLKLX",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -442,8 +442,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDIB",
-    "bankCode": "LK",
+    "bankCode": "IDIB",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "IDIBLKLC",
     "Bank Name": "INDIAN BANK",
@@ -455,8 +455,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOBA",
-    "bankCode": "LK",
+    "bankCode": "IOBA",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "IOBALKLC",
     "Bank Name": "INDIAN OVERSEAS BANK",
@@ -468,8 +468,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOFC",
-    "bankCode": "LK",
+    "bankCode": "LOFC",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "LOFCLKLC",
     "Bank Name": "LOLC FINANCE PLC",
@@ -481,8 +481,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "LK",
+    "bankCode": "MUCB",
+    "countryCode": "LK",
     "branchCode": "KLC",
     "SWIFT Code": "MUCBLKLC",
     "Bank Name": "MCB BANK LTD.",
@@ -494,8 +494,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLEP",
-    "bankCode": "LK",
+    "bankCode": "NLEP",
+    "countryCode": "LK",
     "branchCode": "KL2",
     "SWIFT Code": "NLEPLKL2",
     "Bank Name": "NATION LANKA EQUITIES (PVT) LTD.",
@@ -507,8 +507,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDBS",
-    "bankCode": "LK",
+    "bankCode": "NDBS",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "NDBSLKLX",
     "Bank Name": "NATIONAL DEVELOPMENT BANK PLC.",
@@ -520,8 +520,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSBA",
-    "bankCode": "LK",
+    "bankCode": "NSBA",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "NSBALKLX",
     "Bank Name": "NATIONAL SAVINGS BANK",
@@ -533,8 +533,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NTBC",
-    "bankCode": "LK",
+    "bankCode": "NTBC",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "NTBCLKLX",
     "Bank Name": "NATIONS TRUST BANK PLC",
@@ -546,8 +546,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSBF",
-    "bankCode": "LK",
+    "bankCode": "NSBF",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "NSBFLKLX",
     "Bank Name": "NSB FUND MANAGEMENT COMPANY LIMITED",
@@ -559,8 +559,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PABS",
-    "bankCode": "LK",
+    "bankCode": "PABS",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "PABSLKLX",
     "Bank Name": "PAN ASIA BANKING CORPORATION PLC",
@@ -572,8 +572,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBK",
-    "bankCode": "LK",
+    "bankCode": "PSBK",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "PSBKLKLX",
     "Bank Name": "PEOPLE'S BANK,HEAD OFFICE",
@@ -585,8 +585,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBK",
-    "bankCode": "LK",
+    "bankCode": "PSBK",
+    "countryCode": "LK",
     "branchCode": "022",
     "SWIFT Code": "PSBKLKLX022",
     "Bank Name": "PEOPLE'S BANK,HEAD OFFICE",
@@ -598,8 +598,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBK",
-    "bankCode": "LK",
+    "bankCode": "PSBK",
+    "countryCode": "LK",
     "branchCode": "023",
     "SWIFT Code": "PSBKLKLX023",
     "Bank Name": "PEOPLE'S BANK,HEAD OFFICE",
@@ -611,8 +611,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBBE",
-    "bankCode": "LK",
+    "bankCode": "PBBE",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "PBBELKLX",
     "Bank Name": "PUBLIC BANK BERHAD",
@@ -624,8 +624,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAM",
-    "bankCode": "LK",
+    "bankCode": "BSAM",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "BSAMLKLX",
     "Bank Name": "SAMPATH BANK PLC",
@@ -637,8 +637,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SENF",
-    "bankCode": "LK",
+    "bankCode": "SENF",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "SENFLKLX",
     "Bank Name": "SENKADAGALA FINANCE PLC",
@@ -650,8 +650,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEYB",
-    "bankCode": "LK",
+    "bankCode": "SEYB",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "SEYBLKLX",
     "Bank Name": "SEYLAN BANK PLC",
@@ -663,8 +663,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEYB",
-    "bankCode": "LK",
+    "bankCode": "SEYB",
+    "countryCode": "LK",
     "branchCode": "TRY",
     "SWIFT Code": "SEYBLKLXTRY",
     "Bank Name": "SEYLAN BANK PLC",
@@ -676,8 +676,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "LK",
+    "bankCode": "SCBL",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "SCBLLKLX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -689,8 +689,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "LK",
+    "bankCode": "SCBL",
+    "countryCode": "LK",
     "branchCode": "EQI",
     "SWIFT Code": "SCBLLKLXEQI",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -702,8 +702,8 @@ const sriLanka = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "LK",
+    "bankCode": "SBIN",
+    "countryCode": "LK",
     "branchCode": "KLX",
     "SWIFT Code": "SBINLKLX",
     "Bank Name": "STATE BANK OF INDIA",

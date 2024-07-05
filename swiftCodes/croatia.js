@@ -1,7 +1,7 @@
 const croatia = [
   {
-    "countryCode": "HAAB",
-    "bankCode": "HR",
+    "bankCode": "HAAB",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "HAABHR22",
     "Bank Name": "ADDIKO BANK D.D.",
@@ -13,8 +13,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAAB",
-    "bankCode": "HR",
+    "bankCode": "HAAB",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "HAABHR22CUS",
     "Bank Name": "ADDIKO BANK D.D.",
@@ -26,8 +26,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KREZ",
-    "bankCode": "HR",
+    "bankCode": "KREZ",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "KREZHR2X",
     "Bank Name": "AGRAM BANKA D.D.",
@@ -39,8 +39,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KREZ",
-    "bankCode": "HR",
+    "bankCode": "KREZ",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "KREZHR2XCUS",
     "Bank Name": "AGRAM BANKA D.D.",
@@ -52,8 +52,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KREZ",
-    "bankCode": "HR",
+    "bankCode": "KREZ",
+    "countryCode": "HR",
     "branchCode": "TRE",
     "SWIFT Code": "KREZHR2XTRE",
     "Bank Name": "AGRAM BANKA D.D.",
@@ -65,8 +65,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKOV",
-    "bankCode": "HR",
+    "bankCode": "SKOV",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "SKOVHR22",
     "Bank Name": "BANKA KOVANICA D.D.",
@@ -78,8 +78,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "HR",
+    "bankCode": "BFKK",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "BFKKHR22",
     "Bank Name": "BKS BANK AG, GLAVNA PODRUZNICA HRVATSKA",
@@ -91,8 +91,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COYD",
-    "bankCode": "HR",
+    "bankCode": "COYD",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "COYDHR22",
     "Bank Name": "CORVUS PAY D.O.O.",
@@ -104,8 +104,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CROA",
-    "bankCode": "HR",
+    "bankCode": "CROA",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "CROAHR2X",
     "Bank Name": "CROATIA BANKA D.D.",
@@ -118,8 +118,8 @@ const croatia = [
   },
   {},
   {
-    "countryCode": "CROA",
-    "bankCode": "HR",
+    "bankCode": "CROA",
+    "countryCode": "HR",
     "branchCode": "TRE",
     "SWIFT Code": "CROAHR2XTRE",
     "Bank Name": "CROATIA BANKA D.D.",
@@ -132,8 +132,8 @@ const croatia = [
   },
   {},
   {
-    "countryCode": "ESBC",
-    "bankCode": "HR",
+    "bankCode": "ESBC",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "ESBCHR22",
     "Bank Name": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
@@ -145,8 +145,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESBC",
-    "bankCode": "HR",
+    "bankCode": "ESBC",
+    "countryCode": "HR",
     "branchCode": "BRO",
     "SWIFT Code": "ESBCHR22BRO",
     "Bank Name": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
@@ -158,8 +158,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESBC",
-    "bankCode": "HR",
+    "bankCode": "ESBC",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "ESBCHR22CUS",
     "Bank Name": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
@@ -172,8 +172,8 @@ const croatia = [
   },
   {},
   {
-    "countryCode": "FNAG",
-    "bankCode": "HR",
+    "bankCode": "FNAG",
+    "countryCode": "HR",
     "branchCode": "FN1",
     "SWIFT Code": "FNAGHR22FN1",
     "Bank Name": "FINANCIJSKA AGENCIJA",
@@ -185,8 +185,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNAG",
-    "bankCode": "HR",
+    "bankCode": "FNAG",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "FNAGHR22",
     "Bank Name": "FINANCIJSKA AGENCIJA",
@@ -198,8 +198,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "RMS",
     "SWIFT Code": "NBHRHR2XRMS",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -211,8 +211,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "ECM",
     "SWIFT Code": "NBHRHR2XECM",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -224,8 +224,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "CCB",
     "SWIFT Code": "NBHRHR2XCCB",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -237,8 +237,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "NBHRHR2X",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -250,8 +250,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "BAC",
     "SWIFT Code": "NBHRHR2XBAC",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -263,8 +263,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "EUX",
     "SWIFT Code": "NBHRHR2XEUX",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -276,8 +276,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHR",
-    "bankCode": "HR",
+    "bankCode": "NBHR",
+    "countryCode": "HR",
     "branchCode": "R2D",
     "SWIFT Code": "NBHRHR2D",
     "Bank Name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
@@ -289,8 +289,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HPBZ",
-    "bankCode": "HR",
+    "bankCode": "HPBZ",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "HPBZHR2X",
     "Bank Name": "HRVATSKA POSTANSKA BANKA D.D.",
@@ -302,8 +302,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBCR",
-    "bankCode": "HR",
+    "bankCode": "VBCR",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "VBCRHR22",
     "Bank Name": "HRVATSKA POSTANSKA BANKA D.D. (FORMERLY NOVA HRVATSKA BANKA D.D.)",
@@ -315,8 +315,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMXX",
-    "bankCode": "HR",
+    "bankCode": "IMXX",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "IMXXHR22",
     "Bank Name": "IMEX BANKA LTD.",
@@ -328,8 +328,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INAH",
-    "bankCode": "HR",
+    "bankCode": "INAH",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "INAHHR22",
     "Bank Name": "INA-INDUSTRIJA NAFTE, D.D.",
@@ -341,8 +341,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INUI",
-    "bankCode": "HR",
+    "bankCode": "INUI",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "INUIHR22",
     "Bank Name": "INTERCAPITAL SECURITIES LTD.",
@@ -354,8 +354,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INUI",
-    "bankCode": "HR",
+    "bankCode": "INUI",
+    "countryCode": "HR",
     "branchCode": "BRO",
     "SWIFT Code": "INUIHR22BRO",
     "Bank Name": "INTERCAPITAL SECURITIES LTD.",
@@ -367,8 +367,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INUI",
-    "bankCode": "HR",
+    "bankCode": "INUI",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "INUIHR22CUS",
     "Bank Name": "INTERCAPITAL SECURITIES LTD.",
@@ -380,8 +380,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISKB",
-    "bankCode": "HR",
+    "bankCode": "ISKB",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "ISKBHR2X",
     "Bank Name": "ISTARSKA KREDITNA BANKA JOINT STOCK COMPANY",
@@ -393,8 +393,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBVZ",
-    "bankCode": "HR",
+    "bankCode": "VBVZ",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "VBVZHR22",
     "Bank Name": "J AND T BANKA D.D.",
@@ -406,8 +406,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KALC",
-    "bankCode": "HR",
+    "bankCode": "KALC",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "KALCHR2X",
     "Bank Name": "KARLOVACKA BANKA D.D.",
@@ -419,8 +419,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KENB",
-    "bankCode": "HR",
+    "bankCode": "KENB",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "KENBHR22",
     "Bank Name": "KENTBANK D.D.",
@@ -432,8 +432,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "DUB",
     "SWIFT Code": "OTPVHR2XDUB",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -445,8 +445,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "PUL",
     "SWIFT Code": "OTPVHR2XPUL",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -458,8 +458,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "RJK",
     "SWIFT Code": "OTPVHR2XRJK",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -472,8 +472,8 @@ const croatia = [
   },
   {},
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "SIS",
     "SWIFT Code": "OTPVHR2XSIS",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -485,8 +485,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "TRE",
     "SWIFT Code": "OTPVHR2XTRE",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -498,8 +498,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "OTPVHR2XCUS",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -511,8 +511,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "BRO",
     "SWIFT Code": "OTPVHR2XBRO",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -524,8 +524,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "SPL",
     "SWIFT Code": "OTPVHR2XSPL",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -537,8 +537,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "OTPVHR2X",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -550,8 +550,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "ZAD",
     "SWIFT Code": "OTPVHR2XZAD",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -563,8 +563,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HR",
+    "bankCode": "OTPV",
+    "countryCode": "HR",
     "branchCode": "ZAG",
     "SWIFT Code": "OTPVHR2XZAG",
     "Bank Name": "OTP BANKA HRVATSKA D.D.",
@@ -576,8 +576,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAZG",
-    "bankCode": "HR",
+    "bankCode": "PAZG",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "PAZGHR2X",
     "Bank Name": "PARTNER BANKA D.D. ZAGREB",
@@ -589,8 +589,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDKC",
-    "bankCode": "HR",
+    "bankCode": "PDKC",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "PDKCHR2X",
     "Bank Name": "PODRAVSKA BANKA D.D.",
@@ -602,8 +602,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDKC",
-    "bankCode": "HR",
+    "bankCode": "PDKC",
+    "countryCode": "HR",
     "branchCode": "BRO",
     "SWIFT Code": "PDKCHR2XBRO",
     "Bank Name": "PODRAVSKA BANKA D.D.",
@@ -615,8 +615,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDKC",
-    "bankCode": "HR",
+    "bankCode": "PDKC",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "PDKCHR2XCUS",
     "Bank Name": "PODRAVSKA BANKA D.D.",
@@ -628,8 +628,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDKC",
-    "bankCode": "HR",
+    "bankCode": "PDKC",
+    "countryCode": "HR",
     "branchCode": "TRE",
     "SWIFT Code": "PDKCHR2XTRE",
     "Bank Name": "PODRAVSKA BANKA D.D.",
@@ -641,8 +641,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZG",
-    "bankCode": "HR",
+    "bankCode": "PBZG",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "PBZGHR2X",
     "Bank Name": "PRIVREDNA BANKA ZAGREB D.D.",
@@ -654,8 +654,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZG",
-    "bankCode": "HR",
+    "bankCode": "PBZG",
+    "countryCode": "HR",
     "branchCode": "BTR",
     "SWIFT Code": "PBZGHR2XBTR",
     "Bank Name": "PRIVREDNA BANKA ZAGREB D.D.",
@@ -667,8 +667,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZG",
-    "bankCode": "HR",
+    "bankCode": "PBZG",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "PBZGHR2XCUS",
     "Bank Name": "PRIVREDNA BANKA ZAGREB D.D.",
@@ -680,8 +680,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZG",
-    "bankCode": "HR",
+    "bankCode": "PBZG",
+    "countryCode": "HR",
     "branchCode": "MPT",
     "SWIFT Code": "PBZGHR2XMPT",
     "Bank Name": "PRIVREDNA BANKA ZAGREB D.D.",
@@ -693,8 +693,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBH",
-    "bankCode": "HR",
+    "bankCode": "RZBH",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "RZBHHR2X",
     "Bank Name": "RAIFFEISENBANK AUSTRIA D.D.",
@@ -706,8 +706,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBH",
-    "bankCode": "HR",
+    "bankCode": "RZBH",
+    "countryCode": "HR",
     "branchCode": "BRO",
     "SWIFT Code": "RZBHHR2XBRO",
     "Bank Name": "RAIFFEISENBANK AUSTRIA D.D.",
@@ -719,8 +719,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBH",
-    "bankCode": "HR",
+    "bankCode": "RZBH",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "RZBHHR2XCUS",
     "Bank Name": "RAIFFEISENBANK AUSTRIA D.D.",
@@ -732,8 +732,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBR",
-    "bankCode": "HR",
+    "bankCode": "SMBR",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "SMBRHR22",
     "Bank Name": "SAMOBORSKA BANKA D.D.",
@@ -745,8 +745,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPH",
-    "bankCode": "HR",
+    "bankCode": "CCPH",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "CCPHHR22",
     "Bank Name": "SKDD-CCP SMART CLEAR D.D.",
@@ -758,8 +758,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPH",
-    "bankCode": "HR",
+    "bankCode": "CCPH",
+    "countryCode": "HR",
     "branchCode": "001",
     "SWIFT Code": "CCPHHR22001",
     "Bank Name": "SKDD-CCP SMART CLEAR D.D.",
@@ -771,8 +771,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPH",
-    "bankCode": "HR",
+    "bankCode": "CCPH",
+    "countryCode": "HR",
     "branchCode": "002",
     "SWIFT Code": "CCPHHR22002",
     "Bank Name": "SKDD-CCP SMART CLEAR D.D.",
@@ -784,8 +784,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBSL",
-    "bankCode": "HR",
+    "bankCode": "SBSL",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "SBSLHR2X",
     "Bank Name": "SLATINSKA BANKA DD",
@@ -797,8 +797,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDAH",
-    "bankCode": "HR",
+    "bankCode": "SDAH",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "SDAHHR22",
     "Bank Name": "SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D.",
@@ -810,8 +810,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDAH",
-    "bankCode": "HR",
+    "bankCode": "SDAH",
+    "countryCode": "HR",
     "branchCode": "002",
     "SWIFT Code": "SDAHHR22002",
     "Bank Name": "SREDISNJE KLIRINSKO DEPOZITARNO DRUSTVO D.D.",
@@ -823,8 +823,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "HR",
+    "bankCode": "VPAY",
+    "countryCode": "HR",
     "branchCode": "R22",
     "SWIFT Code": "VPAYHR22",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. PODRUZNICA ZAGREB",
@@ -836,8 +836,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZABA",
-    "bankCode": "HR",
+    "bankCode": "ZABA",
+    "countryCode": "HR",
     "branchCode": "R2X",
     "SWIFT Code": "ZABAHR2X",
     "Bank Name": "ZAGREBACKA BANKA DD",
@@ -849,8 +849,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZABA",
-    "bankCode": "HR",
+    "bankCode": "ZABA",
+    "countryCode": "HR",
     "branchCode": "CUS",
     "SWIFT Code": "ZABAHR2XCUS",
     "Bank Name": "ZAGREBACKA BANKA DD",
@@ -862,8 +862,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZABA",
-    "bankCode": "HR",
+    "bankCode": "ZABA",
+    "countryCode": "HR",
     "branchCode": "RIZ",
     "SWIFT Code": "ZABAHR2XRIZ",
     "Bank Name": "ZAGREBACKA BANKA DD",
@@ -875,8 +875,8 @@ const croatia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZABA",
-    "bankCode": "HR",
+    "bankCode": "ZABA",
+    "countryCode": "HR",
     "branchCode": "BRO",
     "SWIFT Code": "ZABAHR2XBRO",
     "Bank Name": "ZAGREBACKA BANKA DD",

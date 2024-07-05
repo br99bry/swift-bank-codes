@@ -1,7 +1,7 @@
 const reunion = [
   {
-    "countryCode": "BFCO",
-    "bankCode": "RE",
+    "bankCode": "BFCO",
+    "countryCode": "RE",
     "branchCode": "ERX",
     "SWIFT Code": "BFCORERX",
     "Bank Name": "BANQUE FRANCAISE COMMERCIALE OCEAN INDIEN",
@@ -13,8 +13,8 @@ const reunion = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "RE",
+    "bankCode": "BNPA",
+    "countryCode": "RE",
     "branchCode": "POR",
     "SWIFT Code": "BNPARERXPOR",
     "Bank Name": "BNP PARIBAS LA REUNION",
@@ -26,8 +26,8 @@ const reunion = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "RE",
+    "bankCode": "BNPA",
+    "countryCode": "RE",
     "branchCode": "ERX",
     "SWIFT Code": "BNPARERX",
     "Bank Name": "BNP PARIBAS LA REUNION",
@@ -39,8 +39,8 @@ const reunion = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "RE",
+    "bankCode": "AGRI",
+    "countryCode": "RE",
     "branchCode": "ERX",
     "SWIFT Code": "AGRIRERX",
     "Bank Name": "CREDIT AGRICOLE",

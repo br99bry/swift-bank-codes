@@ -1,7 +1,7 @@
 const tonga = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "TO",
+    "bankCode": "ANZB",
+    "countryCode": "TO",
     "branchCode": "ONN",
     "SWIFT Code": "ANZBTONN",
     "Bank Name": "ANZ BANKING GROUP LIMITED",
@@ -13,8 +13,8 @@ const tonga = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "TO",
+    "bankCode": "BOSP",
+    "countryCode": "TO",
     "branchCode": "ONU",
     "SWIFT Code": "BOSPTONU",
     "Bank Name": "BANK OF SOUTH PACIFIC TONGA LIMITED",
@@ -26,8 +26,8 @@ const tonga = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBFM",
-    "bankCode": "TO",
+    "bankCode": "MBFM",
+    "countryCode": "TO",
     "branchCode": "ONU",
     "SWIFT Code": "MBFMTONU",
     "Bank Name": "MBF BANK LIMITED",
@@ -39,8 +39,8 @@ const tonga = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBT",
-    "bankCode": "TO",
+    "bankCode": "NRBT",
+    "countryCode": "TO",
     "branchCode": "ONU",
     "SWIFT Code": "NRBTTONU",
     "Bank Name": "NATIONAL RESERVE BANK OF TONGA",
@@ -52,8 +52,8 @@ const tonga = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TODE",
-    "bankCode": "TO",
+    "bankCode": "TODE",
+    "countryCode": "TO",
     "branchCode": "ONU",
     "SWIFT Code": "TODETONU",
     "Bank Name": "TONGA DEVELOPMENT BANK",

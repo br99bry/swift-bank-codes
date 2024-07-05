@@ -1,7 +1,7 @@
 const jersey = [
   {
-    "countryCode": "ACTW",
-    "bankCode": "JE",
+    "bankCode": "ACTW",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "ACTWJESH",
     "Bank Name": "ACCURO TRUST (JERSEY) LTD",
@@ -13,8 +13,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFEE",
-    "bankCode": "JE",
+    "bankCode": "AFEE",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "AFEEJESH",
     "Bank Name": "AFEX OFFSHORE LIMITED",
@@ -26,8 +26,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANWG",
-    "bankCode": "JE",
+    "bankCode": "ANWG",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "ANWGJESH",
     "Bank Name": "ANGLIAN WATER GROUP LIMITED",
@@ -39,8 +39,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNLT",
-    "bankCode": "JE",
+    "bankCode": "SNLT",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SNLTJESH",
     "Bank Name": "APEX GROUP FIDUCIARY SERVICES LIMITED",
@@ -52,8 +52,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APWN",
-    "bankCode": "JE",
+    "bankCode": "APWN",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "APWNJESH",
     "Bank Name": "APW INVESTORS LIMITED",
@@ -65,8 +65,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFSJ",
-    "bankCode": "JE",
+    "bankCode": "AFSJ",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "AFSJJESH",
     "Bank Name": "AZTEC FINANCIAL SERVICES (JERSEY) LIMITED",
@@ -78,8 +78,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "JE",
+    "bankCode": "BARC",
+    "countryCode": "JE",
     "branchCode": "ESA",
     "SWIFT Code": "BARCJESA",
     "Bank Name": "BARCLAYS BANK PLC, JERSEY BRANCH",
@@ -91,8 +91,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "JE",
+    "bankCode": "PARB",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "PARBJESH",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES JERSEY",
@@ -104,8 +104,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "JE",
+    "bankCode": "PARB",
+    "countryCode": "JE",
     "branchCode": "ISI",
     "SWIFT Code": "PARBJESHISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES JERSEY",
@@ -117,8 +117,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "JE",
+    "bankCode": "PARB",
+    "countryCode": "JE",
     "branchCode": "FDA",
     "SWIFT Code": "PARBJESHFDA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES JERSEY",
@@ -130,8 +130,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DPHI",
-    "bankCode": "JE",
+    "bankCode": "DPHI",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "DPHIJESH",
     "Bank Name": "BORGWARNER JERSEY LIMITED",
@@ -143,8 +143,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTB",
-    "bankCode": "JE",
+    "bankCode": "BNTB",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "BNTBJESH",
     "Bank Name": "BUTTERFIELD BANK (JERSEY) LIMITED",
@@ -156,8 +156,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JE",
+    "bankCode": "CITI",
+    "countryCode": "JE",
     "branchCode": "ESX",
     "SWIFT Code": "CITIJESX",
     "Bank Name": "CITIBANK N.A.",
@@ -169,8 +169,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JE",
+    "bankCode": "CITI",
+    "countryCode": "JE",
     "branchCode": "EFX",
     "SWIFT Code": "CITIJESXEFX",
     "Bank Name": "CITIBANK N.A.",
@@ -182,8 +182,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JE",
+    "bankCode": "CITI",
+    "countryCode": "JE",
     "branchCode": "LPN",
     "SWIFT Code": "CITIJESXLPN",
     "Bank Name": "CITIBANK N.A.",
@@ -195,8 +195,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JE",
+    "bankCode": "CITI",
+    "countryCode": "JE",
     "branchCode": "EJX",
     "SWIFT Code": "CITIJEJX",
     "Bank Name": "CITIBANK N.A., JERSEY BRANCH (FORMERLY CITIGROUP (CHANNEL ISLANDS) LIMITED)",
@@ -208,8 +208,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JE",
+    "bankCode": "CITI",
+    "countryCode": "JE",
     "branchCode": "EHX",
     "SWIFT Code": "CITIJEHX",
     "Bank Name": "CITICORP BANKING CORPORATION",
@@ -221,8 +221,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "JE",
+    "bankCode": "EFGB",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "EFGBJESH",
     "Bank Name": "EFG PRIVATE BANK LIMITED, JERSEY BRANCH",
@@ -234,8 +234,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMIW",
-    "bankCode": "JE",
+    "bankCode": "SMIW",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SMIWJESH",
     "Bank Name": "EVELYN PARTNERS INTERNATIONAL LTD",
@@ -247,8 +247,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWGG",
-    "bankCode": "JE",
+    "bankCode": "EWGG",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "EWGGJESH",
     "Bank Name": "EWEALTHGLOBAL GROUP LIMITED",
@@ -260,8 +260,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRGS",
-    "bankCode": "JE",
+    "bankCode": "FRGS",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "FRGSJESH",
     "Bank Name": "FERGUSON PLC",
@@ -273,8 +273,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIUH",
-    "bankCode": "JE",
+    "bankCode": "FIUH",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "FIUHJESH",
     "Bank Name": "FIDUCHI LIMITED",
@@ -286,8 +286,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "JE",
+    "bankCode": "MIDL",
+    "countryCode": "JE",
     "branchCode": "01A",
     "SWIFT Code": "MIDLJESH01A",
     "Bank Name": "HSBC BANK PLC, JERSEY BRANCH",
@@ -299,8 +299,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "JE",
+    "bankCode": "MIDL",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "MIDLJESH",
     "Bank Name": "HSBC BANK PLC, JERSEY BRANCH",
@@ -312,8 +312,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JE",
+    "bankCode": "CHAS",
+    "countryCode": "JE",
     "branchCode": "ESX",
     "SWIFT Code": "CHASJESX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., JERSEY BRANCH",
@@ -325,8 +325,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JE",
+    "bankCode": "CHAS",
+    "countryCode": "JE",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASJESXENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., JERSEY BRANCH",
@@ -338,8 +338,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTCS",
-    "bankCode": "JE",
+    "bankCode": "MTCS",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "MTCSJESH",
     "Bank Name": "JTC (JERSEY) LIMITED",
@@ -351,8 +351,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHFM",
-    "bankCode": "JE",
+    "bankCode": "LHFM",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "LHFMJESH",
     "Bank Name": "LANGHAM HALL FUND MANAGEMENT (JERSEY) LIMITED",
@@ -364,8 +364,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOYD",
-    "bankCode": "JE",
+    "bankCode": "LOYD",
+    "countryCode": "JE",
     "branchCode": "E32",
     "SWIFT Code": "LOYDJE32",
     "Bank Name": "LLOYDS BANK CORPORATE MARKETS PLC JERSEY BRANCH",
@@ -377,8 +377,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOYD",
-    "bankCode": "JE",
+    "bankCode": "LOYD",
+    "countryCode": "JE",
     "branchCode": "EJJ",
     "SWIFT Code": "LOYDJEJJ",
     "Bank Name": "LLOYDS BANK CORPORATE MARKETS PLC JERSEY BRANCH",
@@ -390,8 +390,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOYD",
-    "bankCode": "JE",
+    "bankCode": "LOYD",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "LOYDJESH",
     "Bank Name": "LLOYDS BANK CORPORATE MARKETS PLC, JERSEY BRANCH",
@@ -403,8 +403,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLCM",
-    "bankCode": "JE",
+    "bankCode": "LLCM",
+    "countryCode": "JE",
     "branchCode": "MKT",
     "SWIFT Code": "LLCMJESHMKT",
     "Bank Name": "LLOYDS BANK CORPORATE MARKETS PLC, JERSEY BRANCH",
@@ -416,8 +416,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSAM",
-    "bankCode": "JE",
+    "bankCode": "HSAM",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "HSAMJESH",
     "Bank Name": "LLOYDS BANK CORPORATE MARKETS PLC, JERSEY BRANCH",
@@ -429,8 +429,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLCM",
-    "bankCode": "JE",
+    "bankCode": "LLCM",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "LLCMJESH",
     "Bank Name": "LLOYDS BANK CORPORATE MARKETS PLC, JERSEY BRANCH",
@@ -442,8 +442,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEIT",
-    "bankCode": "JE",
+    "bankCode": "PEIT",
+    "countryCode": "JE",
     "branchCode": "EJ2",
     "SWIFT Code": "PEITJEJ2",
     "Bank Name": "MORNINGSTAR WEALTH INTERNATIONAL LIMITED",
@@ -455,8 +455,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEIT",
-    "bankCode": "JE",
+    "bankCode": "PEIT",
+    "countryCode": "JE",
     "branchCode": "ES2",
     "SWIFT Code": "PEITJES2",
     "Bank Name": "MORNINGSTAR WEALTH INTERNATIONAL LIMITED",
@@ -468,8 +468,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFLC",
-    "bankCode": "JE",
+    "bankCode": "RFLC",
+    "countryCode": "JE",
     "branchCode": "ESX",
     "SWIFT Code": "RFLCJESX",
     "Bank Name": "NEDBANK PRIVATE WEALTH LTD",
@@ -481,8 +481,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEDL",
-    "bankCode": "JE",
+    "bankCode": "BEDL",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "BEDLJESH",
     "Bank Name": "OCORIAN LIMITED",
@@ -494,8 +494,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PERL",
-    "bankCode": "JE",
+    "bankCode": "PERL",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "PERLJESH",
     "Bank Name": "PERSHING (CHANNEL ISLANDS) LIMITED",
@@ -507,8 +507,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEFO",
-    "bankCode": "JE",
+    "bankCode": "PEFO",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "PEFOJESH",
     "Bank Name": "PETROFAC LIMITED",
@@ -520,8 +520,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLSN",
-    "bankCode": "JE",
+    "bankCode": "PLSN",
+    "countryCode": "JE",
     "branchCode": "EJ2",
     "SWIFT Code": "PLSNJEJ2",
     "Bank Name": "PLATFORM SECURITIES INTERNATIONAL LIMITED",
@@ -533,8 +533,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PXIS",
-    "bankCode": "JE",
+    "bankCode": "PXIS",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "PXISJESH",
     "Bank Name": "PRAXISIFM TRUST LIMITED",
@@ -546,8 +546,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "JE",
+    "bankCode": "RBOS",
+    "countryCode": "JE",
     "branchCode": "ESX",
     "SWIFT Code": "RBOSJESX",
     "Bank Name": "RBS INTERNATIONAL (JERSEY)",
@@ -559,8 +559,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "JE",
+    "bankCode": "RBOS",
+    "countryCode": "JE",
     "branchCode": "ESJ",
     "SWIFT Code": "RBOSJESJ",
     "Bank Name": "RBSI TRADING AS COUTTS CROWN DEPENDENCIES (JERSEY)",
@@ -572,8 +572,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "JE",
+    "bankCode": "RBOS",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "RBOSJESH",
     "Bank Name": "RBSI TRADING AS NATWEST INTERNATIONAL (JERSEY)",
@@ -585,8 +585,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "JE",
+    "bankCode": "ROYC",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "ROYCJESH",
     "Bank Name": "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
@@ -598,8 +598,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLTG",
-    "bankCode": "JE",
+    "bankCode": "SLTG",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SLTGJESH",
     "Bank Name": "SALTGATE LIMITED",
@@ -611,8 +611,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANIL",
-    "bankCode": "JE",
+    "bankCode": "ANIL",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "ANILJESH",
     "Bank Name": "SANTANDER FINANCIAL SERVICES PLC",
@@ -624,8 +624,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANIL",
-    "bankCode": "JE",
+    "bankCode": "ANIL",
+    "countryCode": "JE",
     "branchCode": "TSY",
     "SWIFT Code": "ANILJESHTSY",
     "Bank Name": "SANTANDER FINANCIAL SERVICES PLC",
@@ -637,8 +637,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMB",
-    "bankCode": "JE",
+    "bankCode": "HAMB",
+    "countryCode": "JE",
     "branchCode": "ESX",
     "SWIFT Code": "HAMBJESX",
     "Bank Name": "SG KLEINWORT HAMBROS BANK LIMITED - JERSEY BRANCH",
@@ -650,8 +650,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMB",
-    "bankCode": "JE",
+    "bankCode": "HAMB",
+    "countryCode": "JE",
     "branchCode": "OPS",
     "SWIFT Code": "HAMBJESXOPS",
     "Bank Name": "SG KLEINWORT HAMBROS BANK LIMITED - JERSEY BRANCH",
@@ -663,8 +663,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "JE",
+    "bankCode": "SBIC",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SBICJESH",
     "Bank Name": "STANDARD BANK JERSEY LTD.",
@@ -676,8 +676,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "JE",
+    "bankCode": "SCBL",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SCBLJESH",
     "Bank Name": "STANDARD CHARTERED BANK, JERSEY BRANCH",
@@ -689,8 +689,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDTS",
-    "bankCode": "JE",
+    "bankCode": "SDTS",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SDTSJESH",
     "Bank Name": "STONEHAGE FLEMING DEALING AND TREASURY SERVICES (JERSEY) LTD",
@@ -702,8 +702,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFSH",
-    "bankCode": "JE",
+    "bankCode": "SFSH",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "SFSHJESH",
     "Bank Name": "STONEHAGE FLEMING TRUST HOLDINGS (JERSEY) LIMITED",
@@ -715,8 +715,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCMJ",
-    "bankCode": "JE",
+    "bankCode": "TCMJ",
+    "countryCode": "JE",
     "branchCode": "ES2",
     "SWIFT Code": "TCMJJES2",
     "Bank Name": "TAULA CAPITAL MANAGEMENT (JERSEY) LIMITED",
@@ -728,8 +728,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "JE",
+    "bankCode": "UBSW",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "UBSWJESH",
     "Bank Name": "UBS AG JERSEY BRANCH",
@@ -741,8 +741,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "JE",
+    "bankCode": "UBPG",
+    "countryCode": "JE",
     "branchCode": "ESX",
     "SWIFT Code": "UBPGJESX",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -754,8 +754,8 @@ const jersey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIST",
-    "bankCode": "JE",
+    "bankCode": "VIST",
+    "countryCode": "JE",
     "branchCode": "ESH",
     "SWIFT Code": "VISTJESH",
     "Bank Name": "VISTRA (JERSEY) LIMITED",

@@ -1,7 +1,7 @@
 const liberia = [
   {
-    "countryCode": "ACLI",
-    "bankCode": "LR",
+    "bankCode": "ACLI",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "ACLILRLM",
     "Bank Name": "ACCESSBANK LIBERIA LIMITED",
@@ -14,8 +14,8 @@ const liberia = [
   },
   {},
   {
-    "countryCode": "CBLR",
-    "bankCode": "LR",
+    "bankCode": "CBLR",
+    "countryCode": "LR",
     "branchCode": "RLA",
     "SWIFT Code": "CBLRLRLA",
     "Bank Name": "CENTRAL BANK OF LIBERIA",
@@ -27,8 +27,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLR",
-    "bankCode": "LR",
+    "bankCode": "CBLR",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "CBLRLRLM",
     "Bank Name": "CENTRAL BANK OF LIBERIA",
@@ -40,8 +40,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "LR",
+    "bankCode": "ECOC",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "ECOCLRLM",
     "Bank Name": "ECOBANK LIBERIA LIMITED",
@@ -53,8 +53,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHBX",
-    "bankCode": "LR",
+    "bankCode": "PHBX",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "PHBXLRLM",
     "Bank Name": "GLOBAL BANK LIBERIA LIMITED (MEMBER BANKPHB GROUP)",
@@ -66,8 +66,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "LR",
+    "bankCode": "GTBI",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "GTBILRLM",
     "Bank Name": "GUARANTY TRUST BANK (LIBERIA) LIMITED",
@@ -79,8 +79,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLR",
-    "bankCode": "LR",
+    "bankCode": "IBLR",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "IBLRLRLM",
     "Bank Name": "INTERNATIONAL BANK (LIBERIA) LIMITED",
@@ -92,8 +92,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBDE",
-    "bankCode": "LR",
+    "bankCode": "LBDE",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "LBDELRLM",
     "Bank Name": "LIBERIAN BANK FOR DEVELOPMENT AND INVESTMENT",
@@ -105,8 +105,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNER",
-    "bankCode": "LR",
+    "bankCode": "GNER",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "GNERLRLM",
     "Bank Name": "SAPELLE INTERNATIONAL BANK LIBERIA LIMITED (SIBLL)",
@@ -118,8 +118,8 @@ const liberia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "LR",
+    "bankCode": "UNAF",
+    "countryCode": "LR",
     "branchCode": "RLM",
     "SWIFT Code": "UNAFLRLM",
     "Bank Name": "UNITED BANK FOR AFRICA (LIBERIA) LIMITED",

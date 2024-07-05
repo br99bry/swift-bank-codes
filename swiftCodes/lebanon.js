@@ -1,7 +1,7 @@
 const lebanon = [
   {
-    "countryCode": "CITI",
-    "bankCode": "LB",
+    "bankCode": "CITI",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "CITILBBE",
     "Bank Name": "CITIBANK NA-BEIRUT BRANCH",
@@ -13,8 +13,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLIB",
-    "bankCode": "LB",
+    "bankCode": "CLIB",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "CLIBLBBX",
     "Bank Name": "CREDIT LIBANAIS S.A.L.",
@@ -26,8 +26,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLIB",
-    "bankCode": "LB",
+    "bankCode": "CLIB",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "CLIBLBBXDLP",
     "Bank Name": "CREDIT LIBANAIS S.A.L.",
@@ -39,8 +39,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCB",
-    "bankCode": "LB",
+    "bankCode": "CBCB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "CBCBLBBE",
     "Bank Name": "CREDITBANK SAL",
@@ -52,8 +52,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCSC",
-    "bankCode": "LB",
+    "bankCode": "CCSC",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "CCSCLBBE",
     "Bank Name": "CSCBANK SAL",
@@ -65,8 +65,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELBK",
-    "bankCode": "LB",
+    "bankCode": "ELBK",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "ELBKLBBX",
     "Bank Name": "EMIRATES LEBANON BANK SAL",
@@ -78,8 +78,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBLE",
-    "bankCode": "LB",
+    "bankCode": "FBLE",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "FBLELBBX",
     "Bank Name": "FEDERAL BANK OF LEBANON S A L",
@@ -91,8 +91,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBLE",
-    "bankCode": "LB",
+    "bankCode": "FBLE",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "FBLELBBXDLP",
     "Bank Name": "FEDERAL BANK OF LEBANON S A L",
@@ -104,8 +104,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAW",
-    "bankCode": "LB",
+    "bankCode": "BKAW",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BKAWLBBE",
     "Bank Name": "FENICIA BANK S.A.L.",
@@ -117,8 +117,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIDR",
-    "bankCode": "LB",
+    "bankCode": "FIDR",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "FIDRLBBX",
     "Bank Name": "FIDUS SAL GROUPE SOCIETE GENERALE DE BANQUE AU LIBAN",
@@ -130,8 +130,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBLB",
-    "bankCode": "LB",
+    "bankCode": "FBLB",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "FBLBLBBX",
     "Bank Name": "FINANCE BANK",
@@ -143,8 +143,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINK",
-    "bankCode": "LB",
+    "bankCode": "FINK",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "FINKLBBE",
     "Bank Name": "FIRST NATIONAL BANK S.A.L.",
@@ -156,8 +156,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINK",
-    "bankCode": "LB",
+    "bankCode": "FINK",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "FINKLBBEDLP",
     "Bank Name": "FIRST NATIONAL BANK S.A.L.",
@@ -169,8 +169,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRAI",
-    "bankCode": "LB",
+    "bankCode": "FRAI",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "FRAILBBE",
     "Bank Name": "FRANSA INVEST BANK",
@@ -182,8 +182,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSAB",
-    "bankCode": "LB",
+    "bankCode": "FSAB",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "FSABLBBX",
     "Bank Name": "FRANSABANK SAL",
@@ -195,8 +195,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "LB",
+    "bankCode": "HABB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "HABBLBBE",
     "Bank Name": "HABIB BANK LIMITED",
@@ -208,8 +208,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INLE",
-    "bankCode": "LB",
+    "bankCode": "INLE",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "INLELBBE",
     "Bank Name": "IBL BANK S.A.L.(FORMERLY INTERCONTINENTAL BANK OF LEBANON S.A.L.)",
@@ -221,8 +221,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLV",
-    "bankCode": "LB",
+    "bankCode": "IBLV",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "IBLVLBBE",
     "Bank Name": "IBL INVESTMENT BANK SAL",
@@ -234,8 +234,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBTF",
-    "bankCode": "LB",
+    "bankCode": "IBTF",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "IBTFLBBE",
     "Bank Name": "INVEST BANK (P.S.C.)",
@@ -248,8 +248,8 @@ const lebanon = [
   },
   {},
   {
-    "countryCode": "FFAI",
-    "bankCode": "LB",
+    "bankCode": "FFAI",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "FFAILBBE",
     "Bank Name": "INVESTMENT AND CAPITAL BANK (I AND C) S.A.L",
@@ -261,8 +261,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBB",
-    "bankCode": "LB",
+    "bankCode": "LIBB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "LIBBLBBE",
     "Bank Name": "LEBANESE ISLAMIC BANK S.A.L.",
@@ -274,8 +274,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBB",
-    "bankCode": "LB",
+    "bankCode": "LIBB",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "LIBBLBBEDLP",
     "Bank Name": "LEBANESE ISLAMIC BANK S.A.L.",
@@ -287,8 +287,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEBS",
-    "bankCode": "LB",
+    "bankCode": "LEBS",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "LEBSLBBX",
     "Bank Name": "LEBANESE SWISS BANK SAL",
@@ -300,8 +300,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGBA",
-    "bankCode": "LB",
+    "bankCode": "LGBA",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "LGBALBBE",
     "Bank Name": "LGB BANK SAL",
@@ -313,8 +313,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBK",
-    "bankCode": "LB",
+    "bankCode": "LIBK",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "LIBKLBBE",
     "Bank Name": "LIBANK S.A.L. (LEVANT INVESTMENT BANK)",
@@ -326,8 +326,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBK",
-    "bankCode": "LB",
+    "bankCode": "LIBK",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "LIBKLBBEDLP",
     "Bank Name": "LIBANK S.A.L. (LEVANT INVESTMENT BANK)",
@@ -339,8 +339,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUCI",
-    "bankCode": "LB",
+    "bankCode": "LUCI",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "LUCILBBX",
     "Bank Name": "LUCID INVESTMENT BANK S.A.L.",
@@ -352,8 +352,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEAB",
-    "bankCode": "LB",
+    "bankCode": "MEAB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "MEABLBBE",
     "Bank Name": "MEAB BANK S.A.L.",
@@ -365,8 +365,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MECA",
-    "bankCode": "LB",
+    "bankCode": "MECA",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "MECALBBE",
     "Bank Name": "MECATTAF S.A.L",
@@ -378,8 +378,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIBL",
-    "bankCode": "LB",
+    "bankCode": "MIBL",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "MIBLLBBX",
     "Bank Name": "MEDINVESTMENT BANK SAL",
@@ -391,8 +391,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDR",
-    "bankCode": "LB",
+    "bankCode": "MIDR",
+    "countryCode": "LB",
     "branchCode": "ASA",
     "SWIFT Code": "MIDRLBBEASA",
     "Bank Name": "MIDCLEAR S.A.L.",
@@ -404,8 +404,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDR",
-    "bankCode": "LB",
+    "bankCode": "MIDR",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "MIDRLBBE",
     "Bank Name": "MIDCLEAR S.A.L.",
@@ -417,8 +417,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEAL",
-    "bankCode": "LB",
+    "bankCode": "MEAL",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "MEALLBBE",
     "Bank Name": "MIDDLE EAST AIRLINES-AIRLIBAN",
@@ -430,8 +430,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MINF",
-    "bankCode": "LB",
+    "bankCode": "MINF",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "MINFLBBE",
     "Bank Name": "MINISTRY OF FINANCE",
@@ -443,8 +443,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "LB",
+    "bankCode": "NBOK",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "NBOKLBBE",
     "Bank Name": "NATIONAL BANK OF KUWAIT (LEBANON) SAL",
@@ -456,8 +456,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACB",
-    "bankCode": "LB",
+    "bankCode": "NACB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "NACBLBBE",
     "Bank Name": "NORTH AFRICA COMMERCIAL BANK S.A.L.",
@@ -469,8 +469,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPTI",
-    "bankCode": "LB",
+    "bankCode": "OPTI",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "OPTILBBEDLP",
     "Bank Name": "OPTIMUM INVEST SAL",
@@ -482,8 +482,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPTI",
-    "bankCode": "LB",
+    "bankCode": "OPTI",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "OPTILBBE",
     "Bank Name": "OPTIMUM INVEST SAL",
@@ -495,8 +495,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "LB",
+    "bankCode": "QNBA",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "QNBALBBE",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -508,8 +508,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "LB",
+    "bankCode": "QNBA",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "QNBALBBEDLP",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -521,8 +521,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAFB",
-    "bankCode": "LB",
+    "bankCode": "RAFB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "RAFBLBBE",
     "Bank Name": "RAFIDAIN BANK",
@@ -534,8 +534,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTLV",
-    "bankCode": "LB",
+    "bankCode": "BTLV",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BTLVLBBE",
     "Bank Name": "SARADAR BANK S.A.L.",
@@ -547,8 +547,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLBL",
-    "bankCode": "LB",
+    "bankCode": "SLBL",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "SLBLLBBX",
     "Bank Name": "SAUDI LEBANESE BANK SAL.",
@@ -560,8 +560,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGLI",
-    "bankCode": "LB",
+    "bankCode": "SGLI",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "SGLILBBX",
     "Bank Name": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
@@ -573,8 +573,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYLC",
-    "bankCode": "LB",
+    "bankCode": "SYLC",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "SYLCLBBE",
     "Bank Name": "SYRIAN LEBANESE COMMERCIAL BANK SAL.",
@@ -586,8 +586,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALCV",
-    "bankCode": "LB",
+    "bankCode": "ALCV",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "ALCVLBBE",
     "Bank Name": "AL BARAKA BANK S.A.L.",
@@ -599,8 +599,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALCV",
-    "bankCode": "LB",
+    "bankCode": "ALCV",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "ALCVLBBEDLP",
     "Bank Name": "AL BARAKA BANK S.A.L.",
@@ -612,8 +612,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MABA",
-    "bankCode": "LB",
+    "bankCode": "MABA",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "MABALBBE",
     "Bank Name": "AM BANK S.A.L.",
@@ -625,8 +625,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MABA",
-    "bankCode": "LB",
+    "bankCode": "MABA",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "MABALBBEDLP",
     "Bank Name": "AM BANK S.A.L.",
@@ -638,8 +638,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "LB",
+    "bankCode": "ARAI",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "ARAILBBE",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -651,8 +651,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "LB",
+    "bankCode": "ARAI",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "ARAILBBEDLP",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -664,8 +664,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBV",
-    "bankCode": "LB",
+    "bankCode": "ARBV",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "ARBVLBBE",
     "Bank Name": "ARAB BANK (SWITZERLAND) LEBANON SAL",
@@ -677,8 +677,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "LB",
+    "bankCode": "ARAB",
+    "countryCode": "LB",
     "branchCode": "0B9",
     "SWIFT Code": "ARABLBBX0B9",
     "Bank Name": "ARAB BANK PLC",
@@ -690,8 +690,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "LB",
+    "bankCode": "ARAB",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "ARABLBBX",
     "Bank Name": "ARAB BANK PLC",
@@ -703,8 +703,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "LB",
+    "bankCode": "ARAB",
+    "countryCode": "LB",
     "branchCode": "TBO",
     "SWIFT Code": "ARABLBBXTBO",
     "Bank Name": "ARAB BANK PLC",
@@ -716,8 +716,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "LB",
+    "bankCode": "ARAB",
+    "countryCode": "LB",
     "branchCode": "0B7",
     "SWIFT Code": "ARABLBBX0B7",
     "Bank Name": "ARAB BANK PLC",
@@ -729,8 +729,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "LB",
+    "bankCode": "ARAB",
+    "countryCode": "LB",
     "branchCode": "0B8",
     "SWIFT Code": "ARABLBBX0B8",
     "Bank Name": "ARAB BANK PLC",
@@ -742,8 +742,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFCO",
-    "bankCode": "LB",
+    "bankCode": "AFCO",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "AFCOLBBE",
     "Bank Name": "ARAB FINANCE CORPORATION SAL",
@@ -755,8 +755,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFHO",
-    "bankCode": "LB",
+    "bankCode": "AFHO",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "AFHOLBBE",
     "Bank Name": "ARAB FINANCE HOUSE SAL (ISLAMIC BANK)",
@@ -768,8 +768,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEEB",
-    "bankCode": "LB",
+    "bankCode": "AEEB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "AEEBLBBE",
     "Bank Name": "AREEBA",
@@ -781,8 +781,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LICO",
-    "bankCode": "LB",
+    "bankCode": "LICO",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "LICOLBBX",
     "Bank Name": "B.L.C. BANK S.A.L.",
@@ -794,8 +794,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUDB",
-    "bankCode": "LB",
+    "bankCode": "AUDB",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "AUDBLBBX",
     "Bank Name": "BANK AUDI S.A.L.",
@@ -807,8 +807,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BABI",
-    "bankCode": "LB",
+    "bankCode": "BABI",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BABILBBE",
     "Bank Name": "BANK OF BAGHDAD",
@@ -820,8 +820,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOBP",
-    "bankCode": "LB",
+    "bankCode": "BOBP",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BOBPLBBE",
     "Bank Name": "BANK OF BEIRUT INVEST S.A.L",
@@ -833,8 +833,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BABE",
-    "bankCode": "LB",
+    "bankCode": "BABE",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BABELBBE",
     "Bank Name": "BANK OF BEIRUT S.A.L.",
@@ -846,8 +846,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BABE",
-    "bankCode": "LB",
+    "bankCode": "BABE",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "BABELBBEDLP",
     "Bank Name": "BANK OF BEIRUT S.A.L.",
@@ -859,8 +859,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEDL",
-    "bankCode": "LB",
+    "bankCode": "MEDL",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "MEDLLBBX",
     "Bank Name": "BANKMED,SAL",
@@ -872,8 +872,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUMO",
-    "bankCode": "LB",
+    "bankCode": "EUMO",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "EUMOLBBE",
     "Bank Name": "BANQUE BEMO SAL",
@@ -885,8 +885,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCNB",
-    "bankCode": "LB",
+    "bankCode": "BCNB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BCNBLBBE",
     "Bank Name": "BANQUE DE CREDIT NATIONAL S.A.L.",
@@ -898,8 +898,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCNB",
-    "bankCode": "LB",
+    "bankCode": "BCNB",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "BCNBLBBEDLP",
     "Bank Name": "BANQUE DE CREDIT NATIONAL S.A.L.",
@@ -911,8 +911,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHBA",
-    "bankCode": "LB",
+    "bankCode": "LHBA",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "LHBALBBX",
     "Bank Name": "BANQUE DE L'HABITAT S.A.L.",
@@ -924,8 +924,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHBA",
-    "bankCode": "LB",
+    "bankCode": "LHBA",
+    "countryCode": "LB",
     "branchCode": "DLP",
     "SWIFT Code": "LHBALBBXDLP",
     "Bank Name": "BANQUE DE L'HABITAT S.A.L.",
@@ -937,8 +937,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "BBG",
     "SWIFT Code": "BDLCLBBG",
     "Bank Name": "BANQUE DU LIBAN",
@@ -950,8 +950,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "BBF",
     "SWIFT Code": "BDLCLBBF",
     "Bank Name": "BANQUE DU LIBAN",
@@ -963,8 +963,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "BBA",
     "SWIFT Code": "BDLCLBBA",
     "Bank Name": "BANQUE DU LIBAN",
@@ -976,8 +976,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "BDLCLBBX",
     "Bank Name": "BANQUE DU LIBAN",
@@ -989,8 +989,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "TIA",
     "SWIFT Code": "BDLCLBBXTIA",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1002,8 +1002,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "ASA",
     "SWIFT Code": "BDLCLBBXASA",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1015,8 +1015,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "BBC",
     "SWIFT Code": "BDLCLBBC",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1028,8 +1028,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "ACD",
     "SWIFT Code": "BDLCLBBXACD",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1041,8 +1041,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "COD",
     "SWIFT Code": "BDLCLBBXCOD",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1054,8 +1054,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "FOD",
     "SWIFT Code": "BDLCLBBXFOD",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1067,8 +1067,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "FXD",
     "SWIFT Code": "BDLCLBBXFXD",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1080,8 +1080,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLC",
-    "bankCode": "LB",
+    "bankCode": "BDLC",
+    "countryCode": "LB",
     "branchCode": "MOF",
     "SWIFT Code": "BDLCLBBXMOF",
     "Bank Name": "BANQUE DU LIBAN",
@@ -1093,8 +1093,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFS",
-    "bankCode": "LB",
+    "bankCode": "BLFS",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "BLFSLBBX",
     "Bank Name": "BANQUE LIBANO FRANCAISE",
@@ -1106,8 +1106,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "LB",
+    "bankCode": "BMIS",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BMISLBBE",
     "Bank Name": "BANQUE MISR LIBAN S.A.L.",
@@ -1119,8 +1119,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBAC",
-    "bankCode": "LB",
+    "bankCode": "BBAC",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "BBACLBBX",
     "Bank Name": "BBAC SAL",
@@ -1132,8 +1132,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "LB",
+    "bankCode": "BLOM",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "BLOMLBBX",
     "Bank Name": "BLOM BANK S.A.L.",
@@ -1145,8 +1145,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDBL",
-    "bankCode": "LB",
+    "bankCode": "BDBL",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BDBLLBBE",
     "Bank Name": "BLOM DEVELOPMENT BANK S.A.L.",
@@ -1158,8 +1158,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIN",
-    "bankCode": "LB",
+    "bankCode": "BLIN",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "BLINLBBE",
     "Bank Name": "BLOMINVEST BANK S.A.L.",
@@ -1171,8 +1171,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONB",
-    "bankCode": "LB",
+    "bankCode": "SONB",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "SONBLBBE",
     "Bank Name": "BSL BANK S.A.L.",
@@ -1184,8 +1184,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYBA",
-    "bankCode": "LB",
+    "bankCode": "BYBA",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "BYBALBBX",
     "Bank Name": "BYBLOS BANK S.A.L.",
@@ -1197,8 +1197,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYBI",
-    "bankCode": "LB",
+    "bankCode": "BYBI",
+    "countryCode": "LB",
     "branchCode": "BBX",
     "SWIFT Code": "BYBILBBX",
     "Bank Name": "BYBLOS INVEST BANK S.A.L.",
@@ -1210,8 +1210,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDX",
-    "bankCode": "LB",
+    "bankCode": "CEDX",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "CEDXLBBE",
     "Bank Name": "CEDRUS BANK S.A.L.",
@@ -1223,8 +1223,8 @@ const lebanon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBX",
-    "bankCode": "LB",
+    "bankCode": "CIBX",
+    "countryCode": "LB",
     "branchCode": "BBE",
     "SWIFT Code": "CIBXLBBE",
     "Bank Name": "CEDRUS INVEST BANK S.A.L",

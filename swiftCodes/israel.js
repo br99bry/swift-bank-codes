@@ -1,7 +1,7 @@
 const israel = [
   {
-    "countryCode": "MIZB",
-    "bankCode": "IL",
+    "bankCode": "MIZB",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "MIZBILIT",
     "Bank Name": "MIZRAHI TEFAHOT BANK LTD.",
@@ -13,8 +13,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIZB",
-    "bankCode": "IL",
+    "bankCode": "MIZB",
+    "countryCode": "IL",
     "branchCode": "DMD",
     "SWIFT Code": "MIZBILITDMD",
     "Bank Name": "MIZRAHI TEFAHOT BANK LTD.",
@@ -26,8 +26,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSEU",
-    "bankCode": "IL",
+    "bankCode": "MSEU",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "MSEUILI2",
     "Bank Name": "MONTROSE SECURITIES LTD",
@@ -39,8 +39,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFCN",
-    "bankCode": "IL",
+    "bankCode": "OFCN",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "OFCNILIT",
     "Bank Name": "OFEK CREDIT UNION",
@@ -52,8 +52,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIGI",
-    "bankCode": "IL",
+    "bankCode": "DIGI",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "DIGIILIT",
     "Bank Name": "ONE ZERO DIGITAL BANK LTD",
@@ -65,8 +65,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPOA",
-    "bankCode": "IL",
+    "bankCode": "IPOA",
+    "countryCode": "IL",
     "branchCode": "LIJ",
     "SWIFT Code": "IPOAILIJ",
     "Bank Name": "POSTAL BANK COMPANY LTD",
@@ -78,8 +78,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STUN",
-    "bankCode": "IL",
+    "bankCode": "STUN",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "STUNILI2",
     "Bank Name": "S.T.B. UNION LTD",
@@ -91,8 +91,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "IL",
+    "bankCode": "SECT",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "SECTILI2",
     "Bank Name": "SAMSUNG ELECTRONICS ISRAEL LTD",
@@ -104,8 +104,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "IL",
+    "bankCode": "SBIN",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "SBINILIT",
     "Bank Name": "STATE BANK OF INDIA",
@@ -117,8 +117,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XTAE",
-    "bankCode": "IL",
+    "bankCode": "XTAE",
+    "countryCode": "IL",
     "branchCode": "LIC",
     "SWIFT Code": "XTAEILIC",
     "Bank Name": "TEL AVIV STOCK EXCHANGE",
@@ -130,8 +130,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XTAE",
-    "bankCode": "IL",
+    "bankCode": "XTAE",
+    "countryCode": "IL",
     "branchCode": "LIB",
     "SWIFT Code": "XTAEILIB",
     "Bank Name": "TEL AVIV STOCK EXCHANGE",
@@ -143,8 +143,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XTAE",
-    "bankCode": "IL",
+    "bankCode": "XTAE",
+    "countryCode": "IL",
     "branchCode": "LIM",
     "SWIFT Code": "XTAEILIM",
     "Bank Name": "TEL AVIV STOCK EXCHANGE",
@@ -156,8 +156,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XTAE",
-    "bankCode": "IL",
+    "bankCode": "XTAE",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "XTAEILIT",
     "Bank Name": "TEL-AVIV STOCK EXCHANGE CLEARING HOUSE",
@@ -169,8 +169,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEVP",
-    "bankCode": "IL",
+    "bankCode": "TEVP",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "TEVPILIT",
     "Bank Name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
@@ -182,8 +182,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WWOF",
-    "bankCode": "IL",
+    "bankCode": "WWOF",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "WWOFILI2",
     "Bank Name": "WIC WORLDCOM FINANCE LTD.",
@@ -195,8 +195,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOM",
-    "bankCode": "IL",
+    "bankCode": "ABOM",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "ABOMILI2",
     "Bank Name": "ALBERCOM LTD",
@@ -208,8 +208,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALTH",
-    "bankCode": "IL",
+    "bankCode": "ALTH",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "ALTHILI2",
     "Bank Name": "ALTSHULER SHAHAMM FINANCIAL SERVICES LTD",
@@ -221,8 +221,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASRI",
-    "bankCode": "IL",
+    "bankCode": "ASRI",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "ASRIILIT",
     "Bank Name": "AUTOMATIC BANK SERVICES LTD.",
@@ -234,8 +234,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASRI",
-    "bankCode": "IL",
+    "bankCode": "ASRI",
+    "countryCode": "IL",
     "branchCode": "LIC",
     "SWIFT Code": "ASRIILIC",
     "Bank Name": "AUTOMATIC BANK SERVICES LTD.",
@@ -247,8 +247,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASRI",
-    "bankCode": "IL",
+    "bankCode": "ASRI",
+    "countryCode": "IL",
     "branchCode": "LIM",
     "SWIFT Code": "ASRIILIM",
     "Bank Name": "AUTOMATIC BANK SERVICES LTD.",
@@ -260,8 +260,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTEE",
-    "bankCode": "IL",
+    "bankCode": "CTEE",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "CTEEILI2",
     "Bank Name": "BANK CLEARING CENTER LTD",
@@ -273,8 +273,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTEE",
-    "bankCode": "IL",
+    "bankCode": "CTEE",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "CTEEILIT",
     "Bank Name": "BANK CLEARING CENTER LTD",
@@ -286,8 +286,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIET",
-    "bankCode": "IL",
+    "bankCode": "EIET",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "EIETILIT",
     "Bank Name": "BANK ESH ISRAEL (IN SETUP) LTD.",
@@ -299,8 +299,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "POALILIT",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -312,8 +312,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "CLS",
     "SWIFT Code": "POALILITCLS",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -325,8 +325,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "GML",
     "SWIFT Code": "POALILITGML",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -338,8 +338,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "CMN",
     "SWIFT Code": "POALILITCMN",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -351,8 +351,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "FMT",
     "SWIFT Code": "POALILITFMT",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -364,8 +364,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "SEC",
     "SWIFT Code": "POALILITSEC",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -377,8 +377,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "FTD",
     "SWIFT Code": "POALILITFTD",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -390,8 +390,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "BKR",
     "SWIFT Code": "POALILITBKR",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -403,8 +403,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "DLR",
     "SWIFT Code": "POALILITDLR",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -416,8 +416,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAL",
-    "bankCode": "IL",
+    "bankCode": "POAL",
+    "countryCode": "IL",
     "branchCode": "CBS",
     "SWIFT Code": "POALILITCBS",
     "Bank Name": "BANK HAPOALIM B.M.",
@@ -429,8 +429,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "HAI",
     "SWIFT Code": "LUMIILITHAI",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -442,8 +442,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "JLM",
     "SWIFT Code": "LUMIILITJLM",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -455,8 +455,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "BSC",
     "SWIFT Code": "LUMIILITBSC",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -468,8 +468,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "TLV",
     "SWIFT Code": "LUMIILITTLV",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -481,8 +481,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "CLS",
     "SWIFT Code": "LUMIILITCLS",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -494,8 +494,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "LDB",
     "SWIFT Code": "LUMIILITLDB",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -507,8 +507,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMI",
-    "bankCode": "IL",
+    "bankCode": "LUMI",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "LUMIILIT",
     "Bank Name": "BANK LEUMI LE ISRAEL B.M.",
@@ -520,8 +520,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASB",
-    "bankCode": "IL",
+    "bankCode": "MASB",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "MASBILIT",
     "Bank Name": "BANK MASSAD LTD.",
@@ -533,8 +533,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISRA",
-    "bankCode": "IL",
+    "bankCode": "ISRA",
+    "countryCode": "IL",
     "branchCode": "LIJ",
     "SWIFT Code": "ISRAILIJ",
     "Bank Name": "BANK OF ISRAEL",
@@ -546,8 +546,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISRA",
-    "bankCode": "IL",
+    "bankCode": "ISRA",
+    "countryCode": "IL",
     "branchCode": "LIB",
     "SWIFT Code": "ISRAILIB",
     "Bank Name": "BANK OF ISRAEL",
@@ -559,8 +559,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISRA",
-    "bankCode": "IL",
+    "bankCode": "ISRA",
+    "countryCode": "IL",
     "branchCode": "LIR",
     "SWIFT Code": "ISRAILIR",
     "Bank Name": "BANK OF ISRAEL",
@@ -572,8 +572,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JERS",
-    "bankCode": "IL",
+    "bankCode": "JERS",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "JERSILIT",
     "Bank Name": "BANK OF JERUSALEM LTD. TEL-AVIV",
@@ -585,8 +585,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYAH",
-    "bankCode": "IL",
+    "bankCode": "BYAH",
+    "countryCode": "IL",
     "branchCode": "LIJ",
     "SWIFT Code": "BYAHILIJ",
     "Bank Name": "BANK YAHAV FOR GOVERMENT EMPLOYEES LTD",
@@ -598,8 +598,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IL",
+    "bankCode": "CITI",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "CITIILIT",
     "Bank Name": "CITIBANK N.A.",
@@ -611,8 +611,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IL",
+    "bankCode": "CITI",
+    "countryCode": "IL",
     "branchCode": "TRD",
     "SWIFT Code": "CITIILITTRD",
     "Bank Name": "CITIBANK N.A.",
@@ -624,8 +624,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRE",
-    "bankCode": "IL",
+    "bankCode": "CLRE",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "CLREILI2",
     "Bank Name": "CLEARSHIFT ISRAEL LTD",
@@ -637,8 +637,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSVE",
-    "bankCode": "IL",
+    "bankCode": "CSVE",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "CSVEILIT",
     "Bank Name": "CORRESPONDENT SERVICES LTD.",
@@ -650,8 +650,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENRE",
-    "bankCode": "IL",
+    "bankCode": "ENRE",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "ENREILIT",
     "Bank Name": "ENERGIX RENEWABLE ENERGIES LTD",
@@ -663,8 +663,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRB",
-    "bankCode": "IL",
+    "bankCode": "FIRB",
+    "countryCode": "IL",
     "branchCode": "DEX",
     "SWIFT Code": "FIRBILITDEX",
     "Bank Name": "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE",
@@ -676,8 +676,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRB",
-    "bankCode": "IL",
+    "bankCode": "FIRB",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "FIRBILIT",
     "Bank Name": "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE",
@@ -689,8 +689,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRB",
-    "bankCode": "IL",
+    "bankCode": "FIRB",
+    "countryCode": "IL",
     "branchCode": "CBR",
     "SWIFT Code": "FIRBILITCBR",
     "Bank Name": "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE",
@@ -702,8 +702,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GMTI",
-    "bankCode": "IL",
+    "bankCode": "GMTI",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "GMTIILI2",
     "Bank Name": "GMT TECH INNOVATION LTD",
@@ -715,8 +715,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAEH",
-    "bankCode": "IL",
+    "bankCode": "HAEH",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "HAEHILI2",
     "Bank Name": "HAAVAROT MEHIROT LTD.",
@@ -728,8 +728,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "IL",
+    "bankCode": "HSBC",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "HSBCILIT",
     "Bank Name": "HSBC BANK PLC",
@@ -741,8 +741,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDBL",
-    "bankCode": "IL",
+    "bankCode": "IDBL",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "IDBLILIT",
     "Bank Name": "ISRAEL DISCOUNT BANK LTD.",
@@ -754,8 +754,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISRT",
-    "bankCode": "IL",
+    "bankCode": "ISRT",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "ISRTILI2",
     "Bank Name": "ISRATRANSFER LTD",
@@ -767,8 +767,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARD",
-    "bankCode": "IL",
+    "bankCode": "BARD",
+    "countryCode": "IL",
     "branchCode": "LIT",
     "SWIFT Code": "BARDILIT",
     "Bank Name": "MERCANTILE DISCOUNT BANK LTD.",
@@ -780,8 +780,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPSI",
-    "bankCode": "IL",
+    "bankCode": "MPSI",
+    "countryCode": "IL",
     "branchCode": "LI2",
     "SWIFT Code": "MPSIILI2",
     "Bank Name": "MESHULAM PAYMENT SOLUTIONS LTD.",
@@ -793,8 +793,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIZB",
-    "bankCode": "IL",
+    "bankCode": "MIZB",
+    "countryCode": "IL",
     "branchCode": "BSV",
     "SWIFT Code": "MIZBILITBSV",
     "Bank Name": "MIZRAHI TEFAHOT BANK LTD.",
@@ -806,8 +806,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIZB",
-    "bankCode": "IL",
+    "bankCode": "MIZB",
+    "countryCode": "IL",
     "branchCode": "HAI",
     "SWIFT Code": "MIZBILITHAI",
     "Bank Name": "MIZRAHI TEFAHOT BANK LTD.",
@@ -819,8 +819,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIZB",
-    "bankCode": "IL",
+    "bankCode": "MIZB",
+    "countryCode": "IL",
     "branchCode": "JLM",
     "SWIFT Code": "MIZBILITJLM",
     "Bank Name": "MIZRAHI TEFAHOT BANK LTD.",
@@ -832,8 +832,8 @@ const israel = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIZB",
-    "bankCode": "IL",
+    "bankCode": "MIZB",
+    "countryCode": "IL",
     "branchCode": "TLV",
     "SWIFT Code": "MIZBILITTLV",
     "Bank Name": "MIZRAHI TEFAHOT BANK LTD.",

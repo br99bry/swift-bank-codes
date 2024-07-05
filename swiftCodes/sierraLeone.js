@@ -1,7 +1,7 @@
 const sierraLeone = [
   {
-    "countryCode": "ABSF",
-    "bankCode": "SL",
+    "bankCode": "ABSF",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "ABSFSLFR",
     "Bank Name": "ACCESS BANK SIERRA LEONE LIMITED",
@@ -13,8 +13,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLE",
-    "bankCode": "SL",
+    "bankCode": "BSLE",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "BSLESLFR",
     "Bank Name": "BANK OF SIERRA LEONE",
@@ -26,8 +26,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFCM",
-    "bankCode": "SL",
+    "bankCode": "HFCM",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "HFCMSLFR",
     "Bank Name": "COMMERCE AND MORTGAGE BANK (SL) PLC",
@@ -39,8 +39,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "SL",
+    "bankCode": "ECOC",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "ECOCSLFR",
     "Bank Name": "ECOBANK SIERRA LEONE LIMITED",
@@ -52,8 +52,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBZ",
-    "bankCode": "SL",
+    "bankCode": "ICBZ",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "ICBZSLFR",
     "Bank Name": "FIRSTBANK SIERRA LEONE LIMITED",
@@ -65,8 +65,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "SL",
+    "bankCode": "GTBI",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "GTBISLFR",
     "Bank Name": "GUARANTY TRUST BANK (SL) LTD",
@@ -78,8 +78,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHBX",
-    "bankCode": "SL",
+    "bankCode": "PHBX",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "PHBXSLFR",
     "Bank Name": "KEYSTONE BANK (SL) LIMITED",
@@ -91,8 +91,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBK",
-    "bankCode": "SL",
+    "bankCode": "RCBK",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "RCBKSLFR",
     "Bank Name": "ROKEL COMMERCIAL BANK (SIERRA LEONE) LTD.",
@@ -104,8 +104,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLCB",
-    "bankCode": "SL",
+    "bankCode": "SLCB",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "SLCBSLFR",
     "Bank Name": "SIERRA LEONE COMMERCIAL BANK LTD",
@@ -117,8 +117,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKYE",
-    "bankCode": "SL",
+    "bankCode": "SKYE",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "SKYESLFR",
     "Bank Name": "SKYE BANK (SL) LTD",
@@ -131,8 +131,8 @@ const sierraLeone = [
   },
   {},
   {
-    "countryCode": "UTBS",
-    "bankCode": "SL",
+    "bankCode": "UTBS",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "UTBSSLFR",
     "Bank Name": "UNION TRUST BANK LIMITED",
@@ -144,8 +144,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "SL",
+    "bankCode": "UNAF",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "UNAFSLFR",
     "Bank Name": "UNITED BANK FOR AFRICA (S/L) LTD",
@@ -157,8 +157,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSTI",
-    "bankCode": "SL",
+    "bankCode": "FSTI",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "FSTISLFR",
     "Bank Name": "VISTA BANK (SL) LIMITED",
@@ -170,8 +170,8 @@ const sierraLeone = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZESL",
-    "bankCode": "SL",
+    "bankCode": "ZESL",
+    "countryCode": "SL",
     "branchCode": "LFR",
     "SWIFT Code": "ZESLSLFR",
     "Bank Name": "ZENITH BANK (SIERRA LEONE) LIMITED",

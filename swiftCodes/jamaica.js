@@ -1,7 +1,7 @@
 const jamaica = [
   {
-    "countryCode": "AIFV",
-    "bankCode": "JM",
+    "bankCode": "AIFV",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "AIFVJMK2",
     "Bank Name": "ALLIANCE FINANCIAL SERVICES LIMITED",
@@ -13,8 +13,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAJA",
-    "bankCode": "JM",
+    "bankCode": "BAJA",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "BAJAJMKN",
     "Bank Name": "BANK OF JAMAICA",
@@ -26,8 +26,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FILB",
-    "bankCode": "JM",
+    "bankCode": "FILB",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "FILBJMKN",
     "Bank Name": "FIRST GLOBAL BANK LIMITED",
@@ -39,8 +39,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "JM",
+    "bankCode": "FCIB",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "FCIBJMKN",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA) LIMITED",
@@ -52,8 +52,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GKCM",
-    "bankCode": "JM",
+    "bankCode": "GKCM",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "GKCMJMK2",
     "Bank Name": "GK CAPITAL MANAGEMENT LIMITED",
@@ -65,8 +65,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCSD",
-    "bankCode": "JM",
+    "bankCode": "JCSD",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "JCSDJMKN",
     "Bank Name": "JAMAICA CENTRAL SECURITIES DEPOSITORY LTD",
@@ -78,8 +78,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCSD",
-    "bankCode": "JM",
+    "bankCode": "JCSD",
+    "countryCode": "JM",
     "branchCode": "JRR",
     "SWIFT Code": "JCSDJMKNJRR",
     "Bank Name": "JAMAICA CENTRAL SECURITIES DEPOSITORY LTD",
@@ -91,8 +91,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JMJA",
-    "bankCode": "JM",
+    "bankCode": "JMJA",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "JMJAJMKN",
     "Bank Name": "JMMB BANK (JAMAICA) LIMITED",
@@ -104,8 +104,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JMSE",
-    "bankCode": "JM",
+    "bankCode": "JMSE",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "JMSEJMK2",
     "Bank Name": "JMMB SECURITIES LIMITED",
@@ -117,8 +117,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JNBS",
-    "bankCode": "JM",
+    "bankCode": "JNBS",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "JNBSJMKN",
     "Bank Name": "JN BANK LIMITED",
@@ -130,8 +130,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAAV",
-    "bankCode": "JM",
+    "bankCode": "LAAV",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "LAAVJMK2",
     "Bank Name": "LASCO FINANCIAL SERVICES LIMITED",
@@ -143,8 +143,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTIN",
-    "bankCode": "JM",
+    "bankCode": "MTIN",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "MTINJMK2",
     "Bank Name": "M-TWENTYFOUR INVESTMENTS LIMITED",
@@ -156,8 +156,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFSF",
-    "bankCode": "JM",
+    "bankCode": "MFSF",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "MFSFJMK2",
     "Bank Name": "MICRO-FINANCING SOLUTIONS (MFS) LTD",
@@ -169,8 +169,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JNCB",
-    "bankCode": "JM",
+    "bankCode": "JNCB",
+    "countryCode": "JM",
     "branchCode": "MKX",
     "SWIFT Code": "JNCBJMKX",
     "Bank Name": "NATIONAL COMMERCIAL BANK JAMAICA LIMITED",
@@ -182,8 +182,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAEB",
-    "bankCode": "JM",
+    "bankCode": "NAEB",
+    "countryCode": "JM",
     "branchCode": "MKI",
     "SWIFT Code": "NAEBJMKI",
     "Bank Name": "NATIONAL EXPORT-IMPORT BANK OF JAMAICA LIMITED",
@@ -195,8 +195,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAJA",
-    "bankCode": "JM",
+    "bankCode": "SAJA",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "SAJAJMKN",
     "Bank Name": "SAGICOR BANK JAMAICA LIMITED",
@@ -208,8 +208,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNJ",
-    "bankCode": "JM",
+    "bankCode": "SCNJ",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "SCNJJMKN",
     "Bank Name": "SCOTIA INVESTMENTS JAMAICA LTD",
@@ -221,8 +221,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STJP",
-    "bankCode": "JM",
+    "bankCode": "STJP",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "STJPJMK2",
     "Bank Name": "ST. JAMES PLAZA DISTRIBUTORS LTD",
@@ -234,8 +234,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TARE",
-    "bankCode": "JM",
+    "bankCode": "TARE",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "TAREJMK2",
     "Bank Name": "TARCAP ENTERPRISES LTD",
@@ -247,8 +247,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "JM",
+    "bankCode": "NOSC",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "NOSCJMKN",
     "Bank Name": "THE BANK OF NOVA SCOTIA JAMAICA LTD",
@@ -260,8 +260,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VMBS",
-    "bankCode": "JM",
+    "bankCode": "VMBS",
+    "countryCode": "JM",
     "branchCode": "MKN",
     "SWIFT Code": "VMBSJMKN",
     "Bank Name": "VICTORIA MUTUAL BUILDING SOCIETY",
@@ -273,8 +273,8 @@ const jamaica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WITT",
-    "bankCode": "JM",
+    "bankCode": "WITT",
+    "countryCode": "JM",
     "branchCode": "MK2",
     "SWIFT Code": "WITTJMK2",
     "Bank Name": "WINTRADERS LIMITED",

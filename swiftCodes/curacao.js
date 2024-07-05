@@ -1,7 +1,7 @@
 const curacao = [
   {
-    "countryCode": "IRPP",
-    "bankCode": "CW",
+    "bankCode": "IRPP",
+    "countryCode": "CW",
     "branchCode": "WCW",
     "SWIFT Code": "IRPPCWCW",
     "Bank Name": "ADAMA IRVITA N.V.",
@@ -13,8 +13,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APCP",
-    "bankCode": "CW",
+    "bankCode": "APCP",
+    "countryCode": "CW",
     "branchCode": "WC2",
     "SWIFT Code": "APCPCWC2",
     "Bank Name": "APC BANK N.V.",
@@ -26,8 +26,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARA",
-    "bankCode": "CW",
+    "bankCode": "CARA",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "CARACWCU",
     "Bank Name": "BANCARIBE CURACAO BANK N.V.",
@@ -40,8 +40,8 @@ const curacao = [
   },
   {},
   {
-    "countryCode": "NCRT",
-    "bankCode": "CW",
+    "bankCode": "NCRT",
+    "countryCode": "CW",
     "branchCode": "WCA",
     "SWIFT Code": "NCRTCWCA",
     "Bank Name": "BANCO NACIONAL DE CREDITO, C.A. BANCO UNIVERSAL SUCURSAL CURACAO",
@@ -53,8 +53,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOC",
-    "bankCode": "CW",
+    "bankCode": "BPOC",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "BPOCCWCU",
     "Bank Name": "BANCO PROVINCIAL OVERSEAS N.V.",
@@ -66,8 +66,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFAN",
-    "bankCode": "CW",
+    "bankCode": "SFAN",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "SFANCWCU",
     "Bank Name": "BANESCO N.V.",
@@ -79,8 +79,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIC",
-    "bankCode": "CW",
+    "bankCode": "BBIC",
+    "countryCode": "CW",
     "branchCode": "WCW",
     "SWIFT Code": "BBICCWCW",
     "Bank Name": "BLUE BANK INTERNATIONAL N.V.",
@@ -92,8 +92,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCS",
-    "bankCode": "CW",
+    "bankCode": "CBCS",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "CBCSCWCU",
     "Bank Name": "CENTRALE BANK VAN CURACAO EN SINT MAARTEN",
@@ -105,8 +105,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "CW",
+    "bankCode": "CITC",
+    "countryCode": "CW",
     "branchCode": "DSK",
     "SWIFT Code": "CITCCWCUDSK",
     "Bank Name": "CITCO BANKING CORPORATION N.V.",
@@ -118,8 +118,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "CW",
+    "bankCode": "CITC",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "CITCCWCU",
     "Bank Name": "CITCO BANKING CORPORATION N.V.",
@@ -131,8 +131,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBNV",
-    "bankCode": "CW",
+    "bankCode": "EBNV",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "EBNVCWCU",
     "Bank Name": "EBNA BANK N.V.",
@@ -144,8 +144,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EINB",
-    "bankCode": "CW",
+    "bankCode": "EINB",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "EINBCWCU",
     "Bank Name": "EXPRINTER INTERNATIONAL BANK N.V.",
@@ -157,8 +157,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "CW",
+    "bankCode": "FCIB",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "FCIBCWCU",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD CURACAO BRANCH",
@@ -170,8 +170,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "CW",
+    "bankCode": "FCIB",
+    "countryCode": "CW",
     "branchCode": "WCD",
     "SWIFT Code": "FCIBCWCD",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD CURACAO BRANCH",
@@ -184,8 +184,8 @@ const curacao = [
   },
   {},
   {
-    "countryCode": "IBMS",
-    "bankCode": "CW",
+    "bankCode": "IBMS",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "IBMSCWCU",
     "Bank Name": "IBIS MANAGEMENT ASSOCIATES N.V.",
@@ -197,8 +197,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBK",
-    "bankCode": "CW",
+    "bankCode": "MCBK",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "MCBKCWCU",
     "Bank Name": "MADURO AND CURIEL'S BANK N.V.",
@@ -210,8 +210,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBA",
-    "bankCode": "CW",
+    "bankCode": "ORBA",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "ORBACWCU",
     "Bank Name": "ORCO BANK N.V.",
@@ -223,8 +223,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTT",
-    "bankCode": "CW",
+    "bankCode": "RBTT",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "RBTTCWCU",
     "Bank Name": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK N.V.)",
@@ -236,8 +236,8 @@ const curacao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIBK",
-    "bankCode": "CW",
+    "bankCode": "RIBK",
+    "countryCode": "CW",
     "branchCode": "WCU",
     "SWIFT Code": "RIBKCWCU",
     "Bank Name": "REPUBLIC INTERNATIONAL BANK, N.V.",
@@ -250,8 +250,8 @@ const curacao = [
   },
   {},
   {
-    "countryCode": "CITC",
-    "bankCode": "CW",
+    "bankCode": "CITC",
+    "countryCode": "CW",
     "branchCode": "WCC",
     "SWIFT Code": "CITCCWCC",
     "Bank Name": "VIDANOVA BANK N.V. (FORMERLY S.F.T. BANK)",

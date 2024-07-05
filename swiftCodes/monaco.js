@@ -1,7 +1,7 @@
 const monaco = [
   {
-    "countryCode": "BACA",
-    "bankCode": "MC",
+    "bankCode": "BACA",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "BACAMCMC",
     "Bank Name": "ANDBANC MONACO SAM",
@@ -13,8 +13,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "MC",
+    "bankCode": "BAER",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "BAERMCMC",
     "Bank Name": "BANK JULIUS BAER (MONACO) S.A.M.",
@@ -26,8 +26,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "MC",
+    "bankCode": "PICT",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "PICTMCMC",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG, SUCCURSALE DE MONACO",
@@ -39,8 +39,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "MC",
+    "bankCode": "PICT",
+    "countryCode": "MC",
     "branchCode": "COR",
     "SWIFT Code": "PICTMCMCCOR",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG, SUCCURSALE DE MONACO",
@@ -52,8 +52,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAVL",
-    "bankCode": "MC",
+    "bankCode": "HAVL",
+    "countryCode": "MC",
     "branchCode": "BDF",
     "SWIFT Code": "HAVLMCMXBDF",
     "Bank Name": "BANQUE HAVILLAND (MONACO) S.A.M.",
@@ -65,8 +65,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAVL",
-    "bankCode": "MC",
+    "bankCode": "HAVL",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "HAVLMCMX",
     "Bank Name": "BANQUE HAVILLAND (MONACO) S.A.M.",
@@ -78,8 +78,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJSB",
-    "bankCode": "MC",
+    "bankCode": "BJSB",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "BJSBMCMX",
     "Bank Name": "BANQUE J. SAFRA SARASIN (MONACO) SA",
@@ -91,8 +91,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJSB",
-    "bankCode": "MC",
+    "bankCode": "BJSB",
+    "countryCode": "MC",
     "branchCode": "LCO",
     "SWIFT Code": "BJSBMCMXLCO",
     "Bank Name": "BANQUE J. SAFRA SARASIN (MONACO) SA",
@@ -104,8 +104,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBLX",
-    "bankCode": "MC",
+    "bankCode": "KBLX",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "KBLXMCMC",
     "Bank Name": "BANQUE RICHELIEU MONACO",
@@ -117,8 +117,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "MC",
+    "bankCode": "BARC",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "BARCMCMX",
     "Bank Name": "BARCLAYS BANK PLC MONACO",
@@ -130,8 +130,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEHM",
-    "bankCode": "MC",
+    "bankCode": "BEHM",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "BEHMMCMC",
     "Bank Name": "BESINS HEALTHCARE MONACO SAM",
@@ -143,8 +143,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPPB",
-    "bankCode": "MC",
+    "bankCode": "BPPB",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "BPPBMCMC",
     "Bank Name": "BNP PARIBAS WEALTH MANAGEMENT MONACO",
@@ -156,8 +156,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFMO",
-    "bankCode": "MC",
+    "bankCode": "CFMO",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "CFMOMCMX",
     "Bank Name": "CFM INDOSUEZ WEALTH",
@@ -169,8 +169,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZFM",
-    "bankCode": "MC",
+    "bankCode": "AZFM",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "AZFMMCMC",
     "Bank Name": "CGM-AZIMUT MONACO",
@@ -182,8 +182,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBM",
-    "bankCode": "MC",
+    "bankCode": "CMBM",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "CMBMMCMX",
     "Bank Name": "CMB MONACO",
@@ -195,8 +195,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIET",
-    "bankCode": "MC",
+    "bankCode": "DIET",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "DIETMCMC",
     "Bank Name": "DIETSMANN MONTE CARLO SAM",
@@ -208,8 +208,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOAV",
-    "bankCode": "MC",
+    "bankCode": "DOAV",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "DOAVMCMC",
     "Bank Name": "DOXA ADVISORS S.A.M.",
@@ -221,8 +221,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BERL",
-    "bankCode": "MC",
+    "bankCode": "BERL",
+    "countryCode": "MC",
     "branchCode": "BDF",
     "SWIFT Code": "BERLMCMCBDF",
     "Bank Name": "EDMOND DE ROTHSCHILD-MONACO",
@@ -234,8 +234,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BERL",
-    "bankCode": "MC",
+    "bankCode": "BERL",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "BERLMCMC",
     "Bank Name": "EDMOND DE ROTHSCHILD-MONACO",
@@ -247,8 +247,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "MC",
+    "bankCode": "EFGB",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "EFGBMCMC",
     "Bank Name": "EFG BANK (MONACO)",
@@ -260,8 +260,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMMC",
-    "bankCode": "MC",
+    "bankCode": "PMMC",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "PMMCMCMC",
     "Bank Name": "PACIFIC MANAGEMENT SAM",
@@ -273,8 +273,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RTLD",
-    "bankCode": "MC",
+    "bankCode": "RTLD",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "RTLDMCMC",
     "Bank Name": "ROTHELAND S.A.M.",
@@ -286,8 +286,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBMM",
-    "bankCode": "MC",
+    "bankCode": "SBMM",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "SBMMMCMC",
     "Bank Name": "SOCIETE ANONYME DES BAINS DE MER ET DU CERCLE DES ETRANGERS A MONACO",
@@ -299,8 +299,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBM",
-    "bankCode": "MC",
+    "bankCode": "SDBM",
+    "countryCode": "MC",
     "branchCode": "CM2",
     "SWIFT Code": "SDBMMCM2",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE DE BANQUE MONACO)",
@@ -312,8 +312,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBM",
-    "bankCode": "MC",
+    "bankCode": "SDBM",
+    "countryCode": "MC",
     "branchCode": "TPS",
     "SWIFT Code": "SDBMMCM2TPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE DE BANQUE MONACO)",
@@ -325,8 +325,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGBT",
-    "bankCode": "MC",
+    "bankCode": "SGBT",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "SGBTMCMC",
     "Bank Name": "SOCIETE GENERALE PRIVATE BANKING (MONACO)",
@@ -338,8 +338,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "MC",
+    "bankCode": "UBSW",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "UBSWMCMX",
     "Bank Name": "UBS (MONACO) S.A.",
@@ -351,8 +351,8 @@ const monaco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "MC",
+    "bankCode": "UBPG",
+    "countryCode": "MC",
     "branchCode": "CMX",
     "SWIFT Code": "UBPGMCMX",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -365,8 +365,8 @@ const monaco = [
   },
   {},
   {
-    "countryCode": "VENU",
-    "bankCode": "MC",
+    "bankCode": "VENU",
+    "countryCode": "MC",
     "branchCode": "CMC",
     "SWIFT Code": "VENUMCMC",
     "Bank Name": "VENUS MANAGEMENT COMPANY S.A.M.",

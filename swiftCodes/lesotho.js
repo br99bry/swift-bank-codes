@@ -1,7 +1,7 @@
 const lesotho = [
   {
-    "countryCode": "CBLE",
-    "bankCode": "LS",
+    "bankCode": "CBLE",
+    "countryCode": "LS",
     "branchCode": "SMX",
     "SWIFT Code": "CBLELSMX",
     "Bank Name": "CENTRAL BANK OF LESOTHO",
@@ -13,8 +13,8 @@ const lesotho = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "LS",
+    "bankCode": "FIRN",
+    "countryCode": "LS",
     "branchCode": "SMX",
     "SWIFT Code": "FIRNLSMX",
     "Bank Name": "FIRST NATIONAL BANK OF LESOTHO",
@@ -26,8 +26,8 @@ const lesotho = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LESH",
-    "bankCode": "LS",
+    "bankCode": "LESH",
+    "countryCode": "LS",
     "branchCode": "SMM",
     "SWIFT Code": "LESHLSMM",
     "Bank Name": "LESOTHO POSTBANK",
@@ -39,8 +39,8 @@ const lesotho = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEDL",
-    "bankCode": "LS",
+    "bankCode": "NEDL",
+    "countryCode": "LS",
     "branchCode": "SMX",
     "SWIFT Code": "NEDLLSMX",
     "Bank Name": "NEDBANK (LESOTHO) LIMITED",
@@ -52,8 +52,8 @@ const lesotho = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "LS",
+    "bankCode": "SBIC",
+    "countryCode": "LS",
     "branchCode": "SMX",
     "SWIFT Code": "SBICLSMX",
     "Bank Name": "STANDARD LESOTHO BANK LTD.",

@@ -1,7 +1,7 @@
 const taiwan = [
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "UWCBTWTP019",
     "Bank Name": "CATHAY UNITED BANK",
@@ -13,8 +13,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "UWCBTWTP003",
     "Bank Name": "CATHAY UNITED BANK",
@@ -26,8 +26,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "033",
     "SWIFT Code": "UWCBTWTP033",
     "Bank Name": "CATHAY UNITED BANK",
@@ -39,8 +39,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "UWCBTWTP037",
     "Bank Name": "CATHAY UNITED BANK",
@@ -52,8 +52,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "UWCBTWTP028",
     "Bank Name": "CATHAY UNITED BANK",
@@ -65,8 +65,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "UWCBTWTP007",
     "Bank Name": "CATHAY UNITED BANK",
@@ -78,8 +78,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "UWCBTWTP012",
     "Bank Name": "CATHAY UNITED BANK",
@@ -91,8 +91,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "UWCBTWTP004",
     "Bank Name": "CATHAY UNITED BANK",
@@ -104,8 +104,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "053",
     "SWIFT Code": "UWCBTWTP053",
     "Bank Name": "CATHAY UNITED BANK",
@@ -117,8 +117,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "065",
     "SWIFT Code": "UWCBTWTP065",
     "Bank Name": "CATHAY UNITED BANK",
@@ -130,8 +130,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "UWCBTWTP034",
     "Bank Name": "CATHAY UNITED BANK",
@@ -143,8 +143,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "UWCBTWTP023",
     "Bank Name": "CATHAY UNITED BANK",
@@ -157,8 +157,8 @@ const taiwan = [
   },
   {},
   {
-    "countryCode": "CBCT",
-    "bankCode": "TW",
+    "bankCode": "CBCT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CBCTTWTP",
     "Bank Name": "CENTRAL BANK OF CHINA TAIPEI",
@@ -170,8 +170,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "590",
     "SWIFT Code": "CCBCTWTP590",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -183,8 +183,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "600",
     "SWIFT Code": "CCBCTWTP600",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -196,8 +196,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "609",
     "SWIFT Code": "CCBCTWTP609",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -209,8 +209,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "606",
     "SWIFT Code": "CCBCTWTP606",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -222,8 +222,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "601",
     "SWIFT Code": "CCBCTWTP601",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -235,8 +235,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "604",
     "SWIFT Code": "CCBCTWTP604",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -248,8 +248,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "602",
     "SWIFT Code": "CCBCTWTP602",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -261,8 +261,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "621",
     "SWIFT Code": "CCBCTWTP621",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -274,8 +274,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "961",
     "SWIFT Code": "CCBCTWTP961",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -287,8 +287,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "620",
     "SWIFT Code": "CCBCTWTP620",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -300,8 +300,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "622",
     "SWIFT Code": "CCBCTWTP622",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -313,8 +313,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "605",
     "SWIFT Code": "CCBCTWTP605",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -326,8 +326,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "612",
     "SWIFT Code": "CCBCTWTP612",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -339,8 +339,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "613",
     "SWIFT Code": "CCBCTWTP613",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -352,8 +352,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "610",
     "SWIFT Code": "CCBCTWTP610",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -365,8 +365,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "611",
     "SWIFT Code": "CCBCTWTP611",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -378,8 +378,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "952",
     "SWIFT Code": "CCBCTWTP952",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -391,8 +391,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "573",
     "SWIFT Code": "CCBCTWTP573",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -404,8 +404,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "603",
     "SWIFT Code": "CCBCTWTP603",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -417,8 +417,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "572",
     "SWIFT Code": "CCBCTWTP572",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -430,8 +430,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "575",
     "SWIFT Code": "CCBCTWTP575",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -443,8 +443,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "962",
     "SWIFT Code": "CCBCTWTP962",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -456,8 +456,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "840",
     "SWIFT Code": "CCBCTWTP840",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -469,8 +469,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "819",
     "SWIFT Code": "CCBCTWTP819",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -482,8 +482,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "812",
     "SWIFT Code": "CCBCTWTP812",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -495,8 +495,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "963",
     "SWIFT Code": "CCBCTWTP963",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -508,8 +508,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "650",
     "SWIFT Code": "CCBCTWTP650",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -521,8 +521,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "820",
     "SWIFT Code": "CCBCTWTP820",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -534,8 +534,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "652",
     "SWIFT Code": "CCBCTWTP652",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -547,8 +547,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "821",
     "SWIFT Code": "CCBCTWTP821",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -560,8 +560,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "651",
     "SWIFT Code": "CCBCTWTP651",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -573,8 +573,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "811",
     "SWIFT Code": "CCBCTWTP811",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -586,8 +586,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "822",
     "SWIFT Code": "CCBCTWTP822",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -599,8 +599,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "954",
     "SWIFT Code": "CCBCTWTP954",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -612,8 +612,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "815",
     "SWIFT Code": "CCBCTWTP815",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -625,8 +625,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "816",
     "SWIFT Code": "CCBCTWTP816",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -638,8 +638,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "132",
     "SWIFT Code": "LBOTTWTP132",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -651,8 +651,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "126",
     "SWIFT Code": "LBOTTWTP126",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -664,8 +664,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "125",
     "SWIFT Code": "LBOTTWTP125",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -677,8 +677,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "036",
     "SWIFT Code": "LBOTTWTP036",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -690,8 +690,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "122",
     "SWIFT Code": "LBOTTWTP122",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -703,8 +703,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "094",
     "SWIFT Code": "LBOTTWTP094",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -716,8 +716,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "150",
     "SWIFT Code": "LBOTTWTP150",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -729,8 +729,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "LBOTTWTP022",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -742,8 +742,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "055",
     "SWIFT Code": "LBOTTWTP055",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -755,8 +755,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "135",
     "SWIFT Code": "LBOTTWTP135",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -768,8 +768,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "101",
     "SWIFT Code": "LBOTTWTP101",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -781,8 +781,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "161",
     "SWIFT Code": "LBOTTWTP161",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -794,8 +794,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "077",
     "SWIFT Code": "LBOTTWTP077",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -807,8 +807,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "113",
     "SWIFT Code": "LBOTTWTP113",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -820,8 +820,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "144",
     "SWIFT Code": "LBOTTWTP144",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -833,8 +833,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "LBOTTWTP023",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -846,8 +846,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "LBOTTWTP024",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -859,8 +859,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "072",
     "SWIFT Code": "LBOTTWTP072",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -872,8 +872,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "119",
     "SWIFT Code": "LBOTTWTP119",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -885,8 +885,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "164",
     "SWIFT Code": "LBOTTWTP164",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -898,8 +898,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "147",
     "SWIFT Code": "LBOTTWTP147",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -911,8 +911,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "109",
     "SWIFT Code": "LBOTTWTP109",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -924,8 +924,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "151",
     "SWIFT Code": "LBOTTWTP151",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -937,8 +937,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "104",
     "SWIFT Code": "LBOTTWTP104",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -950,8 +950,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "030",
     "SWIFT Code": "LBOTTWTP030",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -963,8 +963,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "085",
     "SWIFT Code": "LBOTTWTP085",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -976,8 +976,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "089",
     "SWIFT Code": "LBOTTWTP089",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -989,8 +989,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "LBOTTWTP062",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1002,8 +1002,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "032",
     "SWIFT Code": "LBOTTWTP032",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1015,8 +1015,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "083",
     "SWIFT Code": "LBOTTWTP083",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1028,8 +1028,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "031",
     "SWIFT Code": "LBOTTWTP031",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1041,8 +1041,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "LBOTTWTP",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1054,8 +1054,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "008",
     "SWIFT Code": "LBOTTWTP008",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1067,8 +1067,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "102",
     "SWIFT Code": "LBOTTWTP102",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1080,8 +1080,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "140",
     "SWIFT Code": "LBOTTWTP140",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1093,8 +1093,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "LBOTTWTP003",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1106,8 +1106,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "058",
     "SWIFT Code": "LBOTTWTP058",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1119,8 +1119,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "106",
     "SWIFT Code": "LBOTTWTP106",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1132,8 +1132,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "123",
     "SWIFT Code": "LBOTTWTP123",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1145,8 +1145,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "160",
     "SWIFT Code": "LBOTTWTP160",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1158,8 +1158,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "041",
     "SWIFT Code": "LBOTTWTP041",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1171,8 +1171,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "090",
     "SWIFT Code": "LBOTTWTP090",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1184,8 +1184,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "045",
     "SWIFT Code": "LBOTTWTP045",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1197,8 +1197,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "115",
     "SWIFT Code": "LBOTTWTP115",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1210,8 +1210,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "079",
     "SWIFT Code": "LBOTTWTP079",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1223,8 +1223,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "107",
     "SWIFT Code": "LBOTTWTP107",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1236,8 +1236,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "057",
     "SWIFT Code": "LBOTTWTP057",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1249,8 +1249,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "129",
     "SWIFT Code": "LBOTTWTP129",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1262,8 +1262,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "LBOTTWTP007",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1275,8 +1275,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "LBOTTWTP006",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -1288,8 +1288,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "602",
     "SWIFT Code": "CTCBTWTP602",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1301,8 +1301,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "761",
     "SWIFT Code": "CTCBTWTP761",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1314,8 +1314,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "119",
     "SWIFT Code": "CTCBTWTP119",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1327,8 +1327,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "587",
     "SWIFT Code": "CTCBTWTP587",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1340,8 +1340,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "215",
     "SWIFT Code": "CTCBTWTP215",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1353,8 +1353,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "CTCBTWTP015",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1366,8 +1366,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "163",
     "SWIFT Code": "CTCBTWTP163",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1379,8 +1379,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "296",
     "SWIFT Code": "CTCBTWTP296",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1392,8 +1392,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "218",
     "SWIFT Code": "CTCBTWTP218",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1405,8 +1405,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "134",
     "SWIFT Code": "CTCBTWTP134",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1418,8 +1418,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "635",
     "SWIFT Code": "CTCBTWTP635",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1431,8 +1431,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "347",
     "SWIFT Code": "CTCBTWTP347",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1444,8 +1444,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "271",
     "SWIFT Code": "CTCBTWTP271",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1457,8 +1457,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "145",
     "SWIFT Code": "CTCBTWTP145",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1470,8 +1470,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "141",
     "SWIFT Code": "CTCBTWTP141",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1483,8 +1483,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "185",
     "SWIFT Code": "CTCBTWTP185",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1496,8 +1496,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "093",
     "SWIFT Code": "CTCBTWTP093",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1509,8 +1509,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "248",
     "SWIFT Code": "CTCBTWTP248",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1522,8 +1522,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "576",
     "SWIFT Code": "CTCBTWTP576",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1535,8 +1535,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "794",
     "SWIFT Code": "CTCBTWTP794",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1548,8 +1548,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "120",
     "SWIFT Code": "CTCBTWTP120",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1561,8 +1561,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "282",
     "SWIFT Code": "CTCBTWTP282",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1574,8 +1574,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "303",
     "SWIFT Code": "CTCBTWTP303",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1587,8 +1587,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "212",
     "SWIFT Code": "CTCBTWTP212",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1600,8 +1600,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "738",
     "SWIFT Code": "CTCBTWTP738",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1613,8 +1613,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "178",
     "SWIFT Code": "CTCBTWTP178",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1626,8 +1626,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "495",
     "SWIFT Code": "CTCBTWTP495",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1639,8 +1639,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "200",
     "SWIFT Code": "CTCBTWTP200",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1652,8 +1652,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "819",
     "SWIFT Code": "CTCBTWTP819",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1665,8 +1665,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "451",
     "SWIFT Code": "CTCBTWTP451",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1678,8 +1678,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "259",
     "SWIFT Code": "CTCBTWTP259",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1691,8 +1691,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "772",
     "SWIFT Code": "CTCBTWTP772",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1704,8 +1704,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "820",
     "SWIFT Code": "CTCBTWTP820",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1717,8 +1717,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "201",
     "SWIFT Code": "CTCBTWTP201",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1730,8 +1730,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "244",
     "SWIFT Code": "CTCBTWTP244",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1743,8 +1743,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "152",
     "SWIFT Code": "CTCBTWTP152",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1756,8 +1756,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "716",
     "SWIFT Code": "CTCBTWTP716",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1769,8 +1769,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "237",
     "SWIFT Code": "CTCBTWTP237",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1782,8 +1782,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "603",
     "SWIFT Code": "CTCBTWTP603",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1795,8 +1795,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "285",
     "SWIFT Code": "CTCBTWTP285",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1808,8 +1808,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "646",
     "SWIFT Code": "CTCBTWTP646",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1821,8 +1821,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "543",
     "SWIFT Code": "CTCBTWTP543",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1834,8 +1834,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "808",
     "SWIFT Code": "CTCBTWTP808",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1847,8 +1847,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "705",
     "SWIFT Code": "CTCBTWTP705",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1860,8 +1860,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "226",
     "SWIFT Code": "CTCBTWTP226",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1873,8 +1873,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "314",
     "SWIFT Code": "CTCBTWTP314",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1886,8 +1886,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "266",
     "SWIFT Code": "CTCBTWTP266",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1899,8 +1899,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "252",
     "SWIFT Code": "CTCBTWTP252",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1912,8 +1912,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "679",
     "SWIFT Code": "CTCBTWTP679",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1925,8 +1925,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "255",
     "SWIFT Code": "CTCBTWTP255",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -1938,8 +1938,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "647",
     "SWIFT Code": "HNBKTWTP647",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -1951,8 +1951,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "681",
     "SWIFT Code": "HNBKTWTP681",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -1964,8 +1964,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "621",
     "SWIFT Code": "HNBKTWTP621",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -1977,8 +1977,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "645",
     "SWIFT Code": "HNBKTWTP645",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -1990,8 +1990,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "644",
     "SWIFT Code": "HNBKTWTP644",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2003,8 +2003,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "643",
     "SWIFT Code": "HNBKTWTP643",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2016,8 +2016,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "648",
     "SWIFT Code": "HNBKTWTP648",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2029,8 +2029,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "640",
     "SWIFT Code": "HNBKTWTP640",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2042,8 +2042,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "642",
     "SWIFT Code": "HNBKTWTP642",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2055,8 +2055,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "620",
     "SWIFT Code": "HNBKTWTP620",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2068,8 +2068,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "622",
     "SWIFT Code": "HNBKTWTP622",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2081,8 +2081,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "HNBKTWTP",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2094,8 +2094,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "139",
     "SWIFT Code": "HNBKTWTP139",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2107,8 +2107,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "178",
     "SWIFT Code": "HNBKTWTP178",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2120,8 +2120,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "888",
     "SWIFT Code": "HNBKTWTP888",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2133,8 +2133,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "100",
     "SWIFT Code": "HNBKTWTP100",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2146,8 +2146,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "145",
     "SWIFT Code": "HNBKTWTP145",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2159,8 +2159,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "192",
     "SWIFT Code": "HNBKTWTP192",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2172,8 +2172,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "103",
     "SWIFT Code": "HNBKTWTP103",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2185,8 +2185,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "108",
     "SWIFT Code": "HNBKTWTP108",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2198,8 +2198,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "180",
     "SWIFT Code": "HNBKTWTP180",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2211,8 +2211,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "105",
     "SWIFT Code": "HNBKTWTP105",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2224,8 +2224,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "165",
     "SWIFT Code": "HNBKTWTP165",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2237,8 +2237,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "131",
     "SWIFT Code": "HNBKTWTP131",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2250,8 +2250,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "116",
     "SWIFT Code": "HNBKTWTP116",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2263,8 +2263,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "106",
     "SWIFT Code": "HNBKTWTP106",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2276,8 +2276,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "120",
     "SWIFT Code": "HNBKTWTP120",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2289,8 +2289,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "101",
     "SWIFT Code": "HNBKTWTP101",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2302,8 +2302,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "125",
     "SWIFT Code": "HNBKTWTP125",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2315,8 +2315,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "167",
     "SWIFT Code": "HNBKTWTP167",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2328,8 +2328,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "132",
     "SWIFT Code": "HNBKTWTP132",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2341,8 +2341,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "134",
     "SWIFT Code": "HNBKTWTP134",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2354,8 +2354,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "136",
     "SWIFT Code": "HNBKTWTP136",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2367,8 +2367,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "174",
     "SWIFT Code": "HNBKTWTP174",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2380,8 +2380,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "127",
     "SWIFT Code": "HNBKTWTP127",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2393,8 +2393,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "118",
     "SWIFT Code": "HNBKTWTP118",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2406,8 +2406,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "121",
     "SWIFT Code": "HNBKTWTP121",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2419,8 +2419,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "179",
     "SWIFT Code": "HNBKTWTP179",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2432,8 +2432,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "109",
     "SWIFT Code": "HNBKTWTP109",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2445,8 +2445,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "149",
     "SWIFT Code": "HNBKTWTP149",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2458,8 +2458,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "163",
     "SWIFT Code": "HNBKTWTP163",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2471,8 +2471,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "113",
     "SWIFT Code": "HNBKTWTP113",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2484,8 +2484,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "166",
     "SWIFT Code": "HNBKTWTP166",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2497,8 +2497,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "159",
     "SWIFT Code": "HNBKTWTP159",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2510,8 +2510,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "147",
     "SWIFT Code": "HNBKTWTP147",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2523,8 +2523,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "111",
     "SWIFT Code": "HNBKTWTP111",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2536,8 +2536,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "153",
     "SWIFT Code": "HNBKTWTP153",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2549,8 +2549,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "199",
     "SWIFT Code": "HNBKTWTP199",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2562,8 +2562,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "128",
     "SWIFT Code": "HNBKTWTP128",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2575,8 +2575,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "126",
     "SWIFT Code": "HNBKTWTP126",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -2588,8 +2588,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "ICBCTWTP005",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2601,8 +2601,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "ICBCTWTP015",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2614,8 +2614,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "043",
     "SWIFT Code": "ICBCTWTP043",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2627,8 +2627,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "210",
     "SWIFT Code": "ICBCTWTP210",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2640,8 +2640,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "067",
     "SWIFT Code": "ICBCTWTP067",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2653,8 +2653,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "226",
     "SWIFT Code": "ICBCTWTP226",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2666,8 +2666,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "ICBCTWTP007",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2679,8 +2679,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "240",
     "SWIFT Code": "ICBCTWTP240",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2692,8 +2692,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "048",
     "SWIFT Code": "ICBCTWTP048",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2705,8 +2705,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "ICBCTWTP010",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2718,8 +2718,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "036",
     "SWIFT Code": "ICBCTWTP036",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2731,8 +2731,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "074",
     "SWIFT Code": "ICBCTWTP074",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2744,8 +2744,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "ICBCTWTP070",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2757,8 +2757,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "051",
     "SWIFT Code": "ICBCTWTP051",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2770,8 +2770,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "237",
     "SWIFT Code": "ICBCTWTP237",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2783,8 +2783,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "ICBCTWTP025",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2796,8 +2796,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "915",
     "SWIFT Code": "ICBCTWTP915",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2809,8 +2809,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "ICBCTWTP012",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2822,8 +2822,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "238",
     "SWIFT Code": "ICBCTWTP238",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2835,8 +2835,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "ICBCTWTP027",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2848,8 +2848,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "219",
     "SWIFT Code": "ICBCTWTP219",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2861,8 +2861,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "030",
     "SWIFT Code": "ICBCTWTP030",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2874,8 +2874,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "042",
     "SWIFT Code": "ICBCTWTP042",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2887,8 +2887,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "235",
     "SWIFT Code": "ICBCTWTP235",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2900,8 +2900,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "057",
     "SWIFT Code": "ICBCTWTP057",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2913,8 +2913,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "229",
     "SWIFT Code": "ICBCTWTP229",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2926,8 +2926,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "055",
     "SWIFT Code": "ICBCTWTP055",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2939,8 +2939,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "202",
     "SWIFT Code": "ICBCTWTP202",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2952,8 +2952,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "008",
     "SWIFT Code": "ICBCTWTP008",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2965,8 +2965,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "ICBCTWTP021",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2978,8 +2978,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "ICBCTWTP011",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -2991,8 +2991,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "ICBCTWTP024",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3004,8 +3004,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "056",
     "SWIFT Code": "ICBCTWTP056",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3017,8 +3017,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "031",
     "SWIFT Code": "ICBCTWTP031",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3030,8 +3030,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "216",
     "SWIFT Code": "ICBCTWTP216",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3043,8 +3043,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "234",
     "SWIFT Code": "ICBCTWTP234",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3056,8 +3056,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "039",
     "SWIFT Code": "ICBCTWTP039",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3069,8 +3069,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "231",
     "SWIFT Code": "ICBCTWTP231",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3082,8 +3082,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "080",
     "SWIFT Code": "ICBCTWTP080",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3095,8 +3095,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "236",
     "SWIFT Code": "ICBCTWTP236",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3108,8 +3108,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "ICBCTWTP061",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3121,8 +3121,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "014",
     "SWIFT Code": "ICBCTWTP014",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3134,8 +3134,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "207",
     "SWIFT Code": "ICBCTWTP207",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3147,8 +3147,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "029",
     "SWIFT Code": "ICBCTWTP029",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3160,8 +3160,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "ICBCTWTP062",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3173,8 +3173,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "228",
     "SWIFT Code": "ICBCTWTP228",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3186,8 +3186,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "032",
     "SWIFT Code": "ICBCTWTP032",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -3199,8 +3199,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLTA",
-    "bankCode": "TW",
+    "bankCode": "MLTA",
+    "countryCode": "TW",
     "branchCode": "FFO",
     "SWIFT Code": "MLTATWTXFFO",
     "Bank Name": "MERRILL LYNCH SECURITIES (TAIWAN) LIMITED",
@@ -3212,8 +3212,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLTA",
-    "bankCode": "TW",
+    "bankCode": "MLTA",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "MLTATWTX",
     "Bank Name": "MERRILL LYNCH SECURITIES (TAIWAN) LIMITED",
@@ -3225,8 +3225,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTC",
-    "bankCode": "TW",
+    "bankCode": "MBTC",
+    "countryCode": "TW",
     "branchCode": "KAO",
     "SWIFT Code": "MBTCTWTPKAO",
     "Bank Name": "METROPOLITAN BANK AND TRUST COMPANY",
@@ -3238,8 +3238,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "128",
     "SWIFT Code": "TACBTWTP128",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3251,8 +3251,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "TACBTWTP018",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3264,8 +3264,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "TACBTWTP025",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3277,8 +3277,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "TACBTWTP011",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3290,8 +3290,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "531",
     "SWIFT Code": "TACBTWTP531",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3303,8 +3303,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "535",
     "SWIFT Code": "TACBTWTP535",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3316,8 +3316,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "098",
     "SWIFT Code": "TACBTWTP098",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3329,8 +3329,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "TACBTWTP062",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3342,8 +3342,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "532",
     "SWIFT Code": "TACBTWTP532",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3355,8 +3355,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "538",
     "SWIFT Code": "TACBTWTP538",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3368,8 +3368,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "TACBTWTP010",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3381,8 +3381,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "144",
     "SWIFT Code": "TACBTWTP144",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3394,8 +3394,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "049",
     "SWIFT Code": "TACBTWTP049",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3407,8 +3407,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "536",
     "SWIFT Code": "TACBTWTP536",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3420,8 +3420,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "145",
     "SWIFT Code": "TACBTWTP145",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3433,8 +3433,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "540",
     "SWIFT Code": "TACBTWTP540",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3446,8 +3446,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "122",
     "SWIFT Code": "TACBTWTP122",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3459,8 +3459,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "102",
     "SWIFT Code": "TACBTWTP102",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3472,8 +3472,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "554",
     "SWIFT Code": "TACBTWTP554",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3485,8 +3485,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "032",
     "SWIFT Code": "TACBTWTP032",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3498,8 +3498,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "TACBTWTP020",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3511,8 +3511,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "517",
     "SWIFT Code": "TACBTWTP517",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3524,8 +3524,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "TACBTWTP050",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3537,8 +3537,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "107",
     "SWIFT Code": "TACBTWTP107",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3550,8 +3550,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "TACBTWTP021",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3563,8 +3563,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "516",
     "SWIFT Code": "TACBTWTP516",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3576,8 +3576,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "TACBTWTP022",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3589,8 +3589,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "TACBTWTP069",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3602,8 +3602,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "031",
     "SWIFT Code": "TACBTWTP031",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3615,8 +3615,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "521",
     "SWIFT Code": "TACBTWTP521",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3628,8 +3628,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "570",
     "SWIFT Code": "TACBTWTP570",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3641,8 +3641,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "030",
     "SWIFT Code": "TACBTWTP030",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3654,8 +3654,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "153",
     "SWIFT Code": "TACBTWTP153",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3667,8 +3667,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "TACBTWTP",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3680,8 +3680,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "TACBTWTP003",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3693,8 +3693,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "508",
     "SWIFT Code": "TACBTWTP508",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3706,8 +3706,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "056",
     "SWIFT Code": "TACBTWTP056",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3719,8 +3719,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "088",
     "SWIFT Code": "TACBTWTP088",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3732,8 +3732,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "060",
     "SWIFT Code": "TACBTWTP060",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3745,8 +3745,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "076",
     "SWIFT Code": "TACBTWTP076",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3758,8 +3758,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "043",
     "SWIFT Code": "TACBTWTP043",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3771,8 +3771,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "067",
     "SWIFT Code": "TACBTWTP067",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3784,8 +3784,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "503",
     "SWIFT Code": "TACBTWTP503",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3797,8 +3797,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "158",
     "SWIFT Code": "TACBTWTP158",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3810,8 +3810,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "091",
     "SWIFT Code": "TACBTWTP091",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3823,8 +3823,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "TACBTWTP002",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3836,8 +3836,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "502",
     "SWIFT Code": "TACBTWTP502",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3849,8 +3849,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "045",
     "SWIFT Code": "TACBTWTP045",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3862,8 +3862,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "077",
     "SWIFT Code": "TACBTWTP077",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3875,8 +3875,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "093",
     "SWIFT Code": "TACBTWTP093",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -3888,8 +3888,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "123",
     "SWIFT Code": "CTCBTWTP123",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3901,8 +3901,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "749",
     "SWIFT Code": "CTCBTWTP749",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3914,8 +3914,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "112",
     "SWIFT Code": "CTCBTWTP112",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3927,8 +3927,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "278",
     "SWIFT Code": "CTCBTWTP278",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3940,8 +3940,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "060",
     "SWIFT Code": "CTCBTWTP060",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3953,8 +3953,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "130",
     "SWIFT Code": "CTCBTWTP130",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3966,8 +3966,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "783",
     "SWIFT Code": "CTCBTWTP783",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3979,8 +3979,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "369",
     "SWIFT Code": "CTCBTWTP369",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -3992,8 +3992,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "207",
     "SWIFT Code": "CTCBTWTP207",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4005,8 +4005,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "288",
     "SWIFT Code": "CTCBTWTP288",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4018,8 +4018,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "056",
     "SWIFT Code": "CTCBTWTP056",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4031,8 +4031,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "392",
     "SWIFT Code": "CTCBTWTP392",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4044,8 +4044,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "532",
     "SWIFT Code": "CTCBTWTP532",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4057,8 +4057,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "156",
     "SWIFT Code": "CTCBTWTP156",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4070,8 +4070,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "067",
     "SWIFT Code": "CTCBTWTP067",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4083,8 +4083,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "159",
     "SWIFT Code": "CTCBTWTP159",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4096,8 +4096,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "289",
     "SWIFT Code": "CTCBTWTP289",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4109,8 +4109,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "045",
     "SWIFT Code": "CTCBTWTP045",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4122,8 +4122,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "108",
     "SWIFT Code": "CTCBTWTP108",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4135,8 +4135,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "160",
     "SWIFT Code": "CTCBTWTP160",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4148,8 +4148,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "CTCBTWTP026",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4161,8 +4161,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "473",
     "SWIFT Code": "CTCBTWTP473",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4174,8 +4174,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "104",
     "SWIFT Code": "CTCBTWTP104",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4187,8 +4187,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "115",
     "SWIFT Code": "CTCBTWTP115",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4200,8 +4200,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "440",
     "SWIFT Code": "CTCBTWTP440",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4213,8 +4213,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "223",
     "SWIFT Code": "CTCBTWTP223",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4226,8 +4226,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "090",
     "SWIFT Code": "CTCBTWTP090",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4239,8 +4239,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "636",
     "SWIFT Code": "CTCBTWTP636",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4252,8 +4252,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "148",
     "SWIFT Code": "CTCBTWTP148",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4265,8 +4265,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "137",
     "SWIFT Code": "CTCBTWTP137",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4278,8 +4278,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "059",
     "SWIFT Code": "CTCBTWTP059",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4291,8 +4291,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "222",
     "SWIFT Code": "CTCBTWTP222",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4304,8 +4304,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "245",
     "SWIFT Code": "CTCBTWTP245",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4317,8 +4317,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "358",
     "SWIFT Code": "CTCBTWTP358",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4330,8 +4330,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CTCBTWTP",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4343,8 +4343,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "691",
     "SWIFT Code": "CTCBTWTP691",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4356,8 +4356,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "174",
     "SWIFT Code": "CTCBTWTP174",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4369,8 +4369,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "901",
     "SWIFT Code": "CTCBTWTP901",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4382,8 +4382,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "417",
     "SWIFT Code": "CTCBTWTP417",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4395,8 +4395,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "260",
     "SWIFT Code": "CTCBTWTP260",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4408,8 +4408,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "680",
     "SWIFT Code": "CTCBTWTP680",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4421,8 +4421,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "153",
     "SWIFT Code": "CTCBTWTP153",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4434,8 +4434,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "657",
     "SWIFT Code": "CTCBTWTP657",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4447,8 +4447,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "624",
     "SWIFT Code": "CTCBTWTP624",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4460,8 +4460,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "071",
     "SWIFT Code": "CTCBTWTP071",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4473,8 +4473,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "293",
     "SWIFT Code": "CTCBTWTP293",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4486,8 +4486,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "107",
     "SWIFT Code": "CTCBTWTP107",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4499,8 +4499,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "142",
     "SWIFT Code": "CTCBTWTP142",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4512,8 +4512,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "484",
     "SWIFT Code": "CTCBTWTP484",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4525,8 +4525,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "CTCBTWTP003",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -4538,8 +4538,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "045",
     "SWIFT Code": "ICBCTWTP045",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4551,8 +4551,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "ICBCTWTP013",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4564,8 +4564,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "052",
     "SWIFT Code": "ICBCTWTP052",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4577,8 +4577,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "205",
     "SWIFT Code": "ICBCTWTP205",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4590,8 +4590,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "066",
     "SWIFT Code": "ICBCTWTP066",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4603,8 +4603,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "ICBCTWTP002",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4616,8 +4616,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "016",
     "SWIFT Code": "ICBCTWTP016",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4629,8 +4629,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "059",
     "SWIFT Code": "ICBCTWTP059",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4642,8 +4642,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "ICBCTWTP003",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4655,8 +4655,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "072",
     "SWIFT Code": "ICBCTWTP072",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4668,8 +4668,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "103",
     "SWIFT Code": "ICBCTWTP103",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4681,8 +4681,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "040",
     "SWIFT Code": "ICBCTWTP040",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4694,8 +4694,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "ICBCTWTP038",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4707,8 +4707,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "227",
     "SWIFT Code": "ICBCTWTP227",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4720,8 +4720,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "049",
     "SWIFT Code": "ICBCTWTP049",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4733,8 +4733,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "079",
     "SWIFT Code": "ICBCTWTP079",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4746,8 +4746,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "058",
     "SWIFT Code": "ICBCTWTP058",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4759,8 +4759,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "075",
     "SWIFT Code": "ICBCTWTP075",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4772,8 +4772,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "064",
     "SWIFT Code": "ICBCTWTP064",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4785,8 +4785,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "041",
     "SWIFT Code": "ICBCTWTP041",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4798,8 +4798,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "046",
     "SWIFT Code": "ICBCTWTP046",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4811,8 +4811,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "206",
     "SWIFT Code": "ICBCTWTP206",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4824,8 +4824,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "ICBCTWTP034",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4837,8 +4837,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "053",
     "SWIFT Code": "ICBCTWTP053",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4850,8 +4850,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "204",
     "SWIFT Code": "ICBCTWTP204",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4863,8 +4863,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "076",
     "SWIFT Code": "ICBCTWTP076",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4876,8 +4876,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "241",
     "SWIFT Code": "ICBCTWTP241",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4889,8 +4889,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "077",
     "SWIFT Code": "ICBCTWTP077",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4902,8 +4902,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "071",
     "SWIFT Code": "ICBCTWTP071",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4915,8 +4915,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "ICBCTWTP035",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4928,8 +4928,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "232",
     "SWIFT Code": "ICBCTWTP232",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4941,8 +4941,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "ICBCTWTP037",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4954,8 +4954,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "214",
     "SWIFT Code": "ICBCTWTP214",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4967,8 +4967,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "060",
     "SWIFT Code": "ICBCTWTP060",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4980,8 +4980,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "044",
     "SWIFT Code": "ICBCTWTP044",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -4993,8 +4993,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "ICBCTWTP068",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5006,8 +5006,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "ICBCTWTP004",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5019,8 +5019,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "ICBCTWTP028",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5032,8 +5032,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "083",
     "SWIFT Code": "ICBCTWTP083",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5045,8 +5045,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "065",
     "SWIFT Code": "ICBCTWTP065",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5058,8 +5058,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "213",
     "SWIFT Code": "ICBCTWTP213",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5071,8 +5071,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "ICBCTWTP006",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5084,8 +5084,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "242",
     "SWIFT Code": "ICBCTWTP242",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5097,8 +5097,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "ICBCTWTP050",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5110,8 +5110,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "ICBCTWTP",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5123,8 +5123,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "ICBCTWTP019",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5136,8 +5136,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "936",
     "SWIFT Code": "ICBCTWTP936",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5149,8 +5149,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "201",
     "SWIFT Code": "ICBCTWTP201",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5162,8 +5162,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "017",
     "SWIFT Code": "ICBCTWTP017",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5175,8 +5175,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "ICBCTWTP069",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -5188,8 +5188,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTC",
-    "bankCode": "TW",
+    "bankCode": "MBTC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "MBTCTWTP",
     "Bank Name": "METROPOLITAN BANK AND TRUST COMPANY",
@@ -5201,8 +5201,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "TW",
+    "bankCode": "MHCB",
+    "countryCode": "TW",
     "branchCode": "KAO",
     "SWIFT Code": "MHCBTWTPKAO",
     "Bank Name": "MIZUHO BANK, LTD., KAOHSIUNG BRANCH",
@@ -5214,8 +5214,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "TW",
+    "bankCode": "MHCB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "MHCBTWTP",
     "Bank Name": "MIZUHO BANK, LTD.,TAIPEI BRANCH",
@@ -5227,8 +5227,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "TW",
+    "bankCode": "BOTK",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "BOTKTWTX",
     "Bank Name": "MUFG BANK, LTD., TAIPEI BRANCH",
@@ -5240,8 +5240,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "TW",
+    "bankCode": "NATX",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "NATXTWTP",
     "Bank Name": "NATIXIS TAIPEI BRANCH",
@@ -5253,8 +5253,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXC",
-    "bankCode": "TW",
+    "bankCode": "NEXC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "NEXCTWTP",
     "Bank Name": "NEXT COMMERCIAL BANK CO., LTD.",
@@ -5266,8 +5266,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOT",
-    "bankCode": "TW",
+    "bankCode": "IBOT",
+    "countryCode": "TW",
     "branchCode": "888",
     "SWIFT Code": "IBOTTWTP888",
     "Bank Name": "O-BANK CO., LTD.",
@@ -5279,8 +5279,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOT",
-    "bankCode": "TW",
+    "bankCode": "IBOT",
+    "countryCode": "TW",
     "branchCode": "999",
     "SWIFT Code": "IBOTTWTP999",
     "Bank Name": "O-BANK CO., LTD.",
@@ -5292,8 +5292,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOT",
-    "bankCode": "TW",
+    "bankCode": "IBOT",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "IBOTTWTPOBU",
     "Bank Name": "O-BANK CO., LTD.",
@@ -5305,8 +5305,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOT",
-    "bankCode": "TW",
+    "bankCode": "IBOT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "IBOTTWTP",
     "Bank Name": "O-BANK CO., LTD.",
@@ -5318,8 +5318,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "TW",
+    "bankCode": "OCBC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "OCBCTWTP",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, TAIPEI BRANCH",
@@ -5331,8 +5331,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PREE",
-    "bankCode": "TW",
+    "bankCode": "PREE",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "PREETWTP",
     "Bank Name": "PRESIDENT SECURITIES CORPORATION",
@@ -5344,8 +5344,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PREE",
-    "bankCode": "TW",
+    "bankCode": "PREE",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "PREETWT2",
     "Bank Name": "PRESIDENT SECURITIES CORPORATION",
@@ -5357,8 +5357,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRES",
-    "bankCode": "TW",
+    "bankCode": "PRES",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "PRESTWT2",
     "Bank Name": "PRESIDENT SECURITIES CORPORATION",
@@ -5370,8 +5370,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "TW",
+    "bankCode": "BRIN",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BRINTWTP",
     "Bank Name": "PT BANK RAKYAT INDONESIA (PERSERO) TBK, TAIPEI BRANCH",
@@ -5383,8 +5383,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "016",
     "SWIFT Code": "SCSBTWTP016",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5396,8 +5396,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "080",
     "SWIFT Code": "SCSBTWTP080",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5409,8 +5409,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "SCSBTWTP070",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5422,8 +5422,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "SCSBTWTP034",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5435,8 +5435,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "063",
     "SWIFT Code": "SCSBTWTP063",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5448,8 +5448,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "030",
     "SWIFT Code": "SCSBTWTP030",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5461,8 +5461,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "SCSBTWTP069",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5474,8 +5474,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "SCSBTWTP050",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5487,8 +5487,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "SCSBTWTP004",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5500,8 +5500,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "SCSBTWTP012",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5513,8 +5513,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "053",
     "SWIFT Code": "SCSBTWTP053",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5526,8 +5526,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "033",
     "SWIFT Code": "SCSBTWTP033",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5539,8 +5539,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "075",
     "SWIFT Code": "SCSBTWTP075",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5552,8 +5552,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "059",
     "SWIFT Code": "SCSBTWTP059",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5565,8 +5565,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "045",
     "SWIFT Code": "SCSBTWTP045",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5578,8 +5578,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "SCSBTWTP025",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5591,8 +5591,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "029",
     "SWIFT Code": "SCSBTWTP029",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5604,8 +5604,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "048",
     "SWIFT Code": "SCSBTWTP048",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5617,8 +5617,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "079",
     "SWIFT Code": "SCSBTWTP079",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5630,8 +5630,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "032",
     "SWIFT Code": "SCSBTWTP032",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5643,8 +5643,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "056",
     "SWIFT Code": "SCSBTWTP056",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5656,8 +5656,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "039",
     "SWIFT Code": "SCSBTWTP039",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5669,8 +5669,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "076",
     "SWIFT Code": "SCSBTWTP076",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5682,8 +5682,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "014",
     "SWIFT Code": "SCSBTWTP014",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5695,8 +5695,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "SCSBTWTP013",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5708,8 +5708,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "052",
     "SWIFT Code": "SCSBTWTP052",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5721,8 +5721,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "042",
     "SWIFT Code": "SCSBTWTP042",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5734,8 +5734,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "SCSBTWTP015",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5747,8 +5747,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "046",
     "SWIFT Code": "SCSBTWTP046",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5760,8 +5760,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "SCSBTWTP035",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5773,8 +5773,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "049",
     "SWIFT Code": "SCSBTWTP049",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5786,8 +5786,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "077",
     "SWIFT Code": "SCSBTWTP077",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5799,8 +5799,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "072",
     "SWIFT Code": "SCSBTWTP072",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5812,8 +5812,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "008",
     "SWIFT Code": "SCSBTWTP008",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5825,8 +5825,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "041",
     "SWIFT Code": "SCSBTWTP041",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -5838,8 +5838,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "TSIBTWTP010",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5851,8 +5851,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "TSIBTWTP",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5864,8 +5864,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "TSIBTWTP003",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5877,8 +5877,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "TSIBTWTP002",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5890,8 +5890,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "073",
     "SWIFT Code": "TSIBTWTP073",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5903,8 +5903,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "TSIBTWTP011",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5916,8 +5916,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "TSIBTWTP019",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -5929,8 +5929,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TONS",
-    "bankCode": "TW",
+    "bankCode": "TONS",
+    "countryCode": "TW",
     "branchCode": "W22",
     "SWIFT Code": "TONSTW22",
     "Bank Name": "TAISHIN SECURITIES CO., LTD.",
@@ -5942,8 +5942,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TONS",
-    "bankCode": "TW",
+    "bankCode": "TONS",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "TONSTWT2",
     "Bank Name": "TAISHIN SECURITIES CO., LTD.",
@@ -5955,8 +5955,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "540",
     "SWIFT Code": "MBBTTWTP540",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -5968,8 +5968,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "561",
     "SWIFT Code": "MBBTTWTP561",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -5981,8 +5981,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "541",
     "SWIFT Code": "MBBTTWTP541",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -5994,8 +5994,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "560",
     "SWIFT Code": "MBBTTWTP560",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6007,8 +6007,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "550",
     "SWIFT Code": "MBBTTWTP550",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6020,8 +6020,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "680",
     "SWIFT Code": "MBBTTWTP680",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6033,8 +6033,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "686",
     "SWIFT Code": "MBBTTWTP686",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6046,8 +6046,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "681",
     "SWIFT Code": "MBBTTWTP681",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6059,8 +6059,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "670",
     "SWIFT Code": "MBBTTWTP670",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6072,8 +6072,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "660",
     "SWIFT Code": "MBBTTWTP660",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6085,8 +6085,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "321",
     "SWIFT Code": "MBBTTWTP321",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6098,8 +6098,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "340",
     "SWIFT Code": "MBBTTWTP340",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6111,8 +6111,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "320",
     "SWIFT Code": "MBBTTWTP320",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6124,8 +6124,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "322",
     "SWIFT Code": "MBBTTWTP322",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6137,8 +6137,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "291",
     "SWIFT Code": "MBBTTWTP291",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6150,8 +6150,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "760",
     "SWIFT Code": "MBBTTWTP760",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6163,8 +6163,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "853",
     "SWIFT Code": "MBBTTWTP853",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6176,8 +6176,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "820",
     "SWIFT Code": "MBBTTWTP820",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6189,8 +6189,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "MBBTTWTP012",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6202,8 +6202,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "860",
     "SWIFT Code": "MBBTTWTP860",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6215,8 +6215,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "830",
     "SWIFT Code": "MBBTTWTP830",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6228,8 +6228,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "850",
     "SWIFT Code": "MBBTTWTP850",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6241,8 +6241,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "841",
     "SWIFT Code": "MBBTTWTP841",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6254,8 +6254,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "840",
     "SWIFT Code": "MBBTTWTP840",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6267,8 +6267,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "851",
     "SWIFT Code": "MBBTTWTP851",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6280,8 +6280,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "870",
     "SWIFT Code": "MBBTTWTP870",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6293,8 +6293,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "881",
     "SWIFT Code": "MBBTTWTP881",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6306,8 +6306,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "891",
     "SWIFT Code": "MBBTTWTP891",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6319,8 +6319,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "MBBTTWTP009",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6332,8 +6332,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "350",
     "SWIFT Code": "MBBTTWTP350",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6345,8 +6345,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "360",
     "SWIFT Code": "MBBTTWTP360",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6358,8 +6358,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "351",
     "SWIFT Code": "MBBTTWTP351",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6371,8 +6371,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "530",
     "SWIFT Code": "MBBTTWTP530",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6384,8 +6384,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "510",
     "SWIFT Code": "MBBTTWTP510",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6397,8 +6397,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "511",
     "SWIFT Code": "MBBTTWTP511",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6410,8 +6410,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "MBBTTWTP002",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6423,8 +6423,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "MBBTTWTP026",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6436,8 +6436,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "MBBTTWTP027",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6449,8 +6449,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "143",
     "SWIFT Code": "MBBTTWTP143",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6462,8 +6462,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "122",
     "SWIFT Code": "MBBTTWTP122",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6475,8 +6475,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "154",
     "SWIFT Code": "MBBTTWTP154",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -6488,8 +6488,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "095",
     "SWIFT Code": "SUNYTWTP095",
     "Bank Name": "SUNNY BANK LTD",
@@ -6501,8 +6501,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "086",
     "SWIFT Code": "SUNYTWTP086",
     "Bank Name": "SUNNY BANK LTD",
@@ -6514,8 +6514,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "SUNYTWTP026",
     "Bank Name": "SUNNY BANK LTD",
@@ -6527,8 +6527,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "032",
     "SWIFT Code": "SUNYTWTP032",
     "Bank Name": "SUNNY BANK LTD",
@@ -6540,8 +6540,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "SUNYTWTP027",
     "Bank Name": "SUNNY BANK LTD",
@@ -6553,8 +6553,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "SUNYTWTP025",
     "Bank Name": "SUNNY BANK LTD",
@@ -6566,8 +6566,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "076",
     "SWIFT Code": "SUNYTWTP076",
     "Bank Name": "SUNNY BANK LTD",
@@ -6579,8 +6579,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "SUNYTWTP062",
     "Bank Name": "SUNNY BANK LTD",
@@ -6592,8 +6592,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SUNYTWTP",
     "Bank Name": "SUNNY BANK LTD",
@@ -6605,8 +6605,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "SUNYTWTP037",
     "Bank Name": "SUNNY BANK LTD",
@@ -6618,8 +6618,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "SUNYTWTP022",
     "Bank Name": "SUNNY BANK LTD",
@@ -6631,8 +6631,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "SUNYTWTP007",
     "Bank Name": "SUNNY BANK LTD",
@@ -6644,8 +6644,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "SUNYTWTP001",
     "Bank Name": "SUNNY BANK LTD",
@@ -6657,8 +6657,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "SUNYTWTP013",
     "Bank Name": "SUNNY BANK LTD",
@@ -6670,8 +6670,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "SUNYTWTP023",
     "Bank Name": "SUNNY BANK LTD",
@@ -6683,8 +6683,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "SUNYTWTP021",
     "Bank Name": "SUNNY BANK LTD",
@@ -6696,8 +6696,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "017",
     "SWIFT Code": "SUNYTWTP017",
     "Bank Name": "SUNNY BANK LTD",
@@ -6709,8 +6709,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "078",
     "SWIFT Code": "SUNYTWTP078",
     "Bank Name": "SUNNY BANK LTD",
@@ -6722,8 +6722,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "008",
     "SWIFT Code": "SUNYTWTP008",
     "Bank Name": "SUNNY BANK LTD",
@@ -6735,8 +6735,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "SUNYTWTP002",
     "Bank Name": "SUNNY BANK LTD",
@@ -6748,8 +6748,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "SUNYTWTP038",
     "Bank Name": "SUNNY BANK LTD",
@@ -6761,8 +6761,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "055",
     "SWIFT Code": "TCBBTWTH055",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6774,8 +6774,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "TCBBTWTH061",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6787,8 +6787,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "TCBBTWTH062",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6800,8 +6800,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "TCBBTWTH068",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6813,8 +6813,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "134",
     "SWIFT Code": "TCBBTWTH134",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6826,8 +6826,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "103",
     "SWIFT Code": "TCBBTWTH103",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6839,8 +6839,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "118",
     "SWIFT Code": "TCBBTWTH118",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6852,8 +6852,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "WTH",
     "SWIFT Code": "TCBBTWTH",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6865,8 +6865,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "TCBBTWTH010",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6878,8 +6878,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "TCBBTWTH038",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6891,8 +6891,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "047",
     "SWIFT Code": "TCBBTWTH047",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6904,8 +6904,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "TCBBTWTH022",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6917,8 +6917,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "087",
     "SWIFT Code": "TCBBTWTH087",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6930,8 +6930,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "044",
     "SWIFT Code": "TCBBTWTH044",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6943,8 +6943,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "042",
     "SWIFT Code": "TCBBTWTH042",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6956,8 +6956,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "210",
     "SWIFT Code": "TCBBTWTH210",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6969,8 +6969,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "TMU",
     "SWIFT Code": "TCBBTWTHTMU",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6982,8 +6982,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "209",
     "SWIFT Code": "TCBBTWTH209",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -6995,8 +6995,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "TCBBTWTH015",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7008,8 +7008,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "130",
     "SWIFT Code": "TCBBTWTH130",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7021,8 +7021,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "147",
     "SWIFT Code": "TCBBTWTH147",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7034,8 +7034,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "101",
     "SWIFT Code": "TCBBTWTH101",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7047,8 +7047,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "092",
     "SWIFT Code": "TCBBTWTH092",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7060,8 +7060,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "129",
     "SWIFT Code": "TCBBTWTH129",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7073,8 +7073,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBB",
-    "bankCode": "TW",
+    "bankCode": "TCBB",
+    "countryCode": "TW",
     "branchCode": "067",
     "SWIFT Code": "TCBBTWTH067",
     "Bank Name": "TAICHUNG COMMERCIAL BANK CO.,LTD.",
@@ -7086,8 +7086,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "725",
     "SWIFT Code": "TPBKTWTP725",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -7099,8 +7099,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "660",
     "SWIFT Code": "TPBKTWTP660",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -7112,8 +7112,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "705",
     "SWIFT Code": "TPBKTWTP705",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -7125,8 +7125,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "672",
     "SWIFT Code": "TPBKTWTP672",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -7138,8 +7138,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "SINOTWTP003",
     "Bank Name": "BANK SINOPAC",
@@ -7151,8 +7151,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "SINOTWTP013",
     "Bank Name": "BANK SINOPAC",
@@ -7164,8 +7164,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SINOTWTP",
     "Bank Name": "BANK SINOPAC",
@@ -7177,8 +7177,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "SINOTWTP005",
     "Bank Name": "BANK SINOPAC",
@@ -7190,8 +7190,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "771",
     "SWIFT Code": "SINOTWTP771",
     "Bank Name": "BANK SINOPAC",
@@ -7203,8 +7203,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "SINOTWTP006",
     "Bank Name": "BANK SINOPAC",
@@ -7216,8 +7216,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "SINOTWTP020",
     "Bank Name": "BANK SINOPAC",
@@ -7229,8 +7229,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "SINOTWTP001",
     "Bank Name": "BANK SINOPAC",
@@ -7242,8 +7242,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "SINOTWTP021",
     "Bank Name": "BANK SINOPAC",
@@ -7255,8 +7255,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "SINOTWTP009",
     "Bank Name": "BANK SINOPAC",
@@ -7268,8 +7268,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "SINOTWTP002",
     "Bank Name": "BANK SINOPAC",
@@ -7281,8 +7281,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "SINOTWTP024",
     "Bank Name": "BANK SINOPAC",
@@ -7294,8 +7294,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "SINOTWTP011",
     "Bank Name": "BANK SINOPAC",
@@ -7307,8 +7307,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "TW",
+    "bankCode": "BARC",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "BARCTWT2",
     "Bank Name": "BARCLAYS SECURITIES TAIWAN LIMITED",
@@ -7320,8 +7320,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "TW",
+    "bankCode": "BNPA",
+    "countryCode": "TW",
     "branchCode": "KAO",
     "SWIFT Code": "BNPATWTPKAO",
     "Bank Name": "BNP PARIBAS, TAIPEI BRANCH",
@@ -7333,8 +7333,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "TW",
+    "bankCode": "BNPA",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BNPATWTP",
     "Bank Name": "BNP PARIBAS, TAIPEI BRANCH",
@@ -7346,8 +7346,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "TW",
+    "bankCode": "BNPA",
+    "countryCode": "TW",
     "branchCode": "WMB",
     "SWIFT Code": "BNPATWTPWMB",
     "Bank Name": "BNP PARIBAS, TAIPEI BRANCH",
@@ -7359,8 +7359,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTHY",
-    "bankCode": "TW",
+    "bankCode": "CTHY",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CTHYTWTP",
     "Bank Name": "CATHAY LIFE INSURANCE CO., LTD",
@@ -7372,8 +7372,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTHY",
-    "bankCode": "TW",
+    "bankCode": "CTHY",
+    "countryCode": "TW",
     "branchCode": "OIU",
     "SWIFT Code": "CTHYTWTPOIU",
     "Bank Name": "CATHAY LIFE INSURANCE CO., LTD",
@@ -7385,8 +7385,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTHY",
-    "bankCode": "TW",
+    "bankCode": "CTHY",
+    "countryCode": "TW",
     "branchCode": "SGL",
     "SWIFT Code": "CTHYTWTPSGL",
     "Bank Name": "CATHAY LIFE INSURANCE CO., LTD",
@@ -7398,8 +7398,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "047",
     "SWIFT Code": "UWCBTWTP047",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7411,8 +7411,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "036",
     "SWIFT Code": "UWCBTWTP036",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7424,8 +7424,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "040",
     "SWIFT Code": "UWCBTWTP040",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7437,8 +7437,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "UWCBTWTP038",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7450,8 +7450,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "014",
     "SWIFT Code": "UWCBTWTP014",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7463,8 +7463,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "052",
     "SWIFT Code": "UWCBTWTP052",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7476,8 +7476,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "UWCBTWTP005",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7489,8 +7489,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "029",
     "SWIFT Code": "UWCBTWTP029",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7502,8 +7502,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "017",
     "SWIFT Code": "UWCBTWTP017",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7515,8 +7515,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "UWCBTWTP021",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7528,8 +7528,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "UWCBTWTP009",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7541,8 +7541,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "UWCBTWTP006",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7554,8 +7554,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "046",
     "SWIFT Code": "UWCBTWTP046",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7567,8 +7567,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "UWCBTWTP035",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7580,8 +7580,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "UWCBTWTP013",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7593,8 +7593,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "UWCBTWTP050",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7606,8 +7606,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "UWCBTWTP010",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7619,8 +7619,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "063",
     "SWIFT Code": "UWCBTWTP063",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7632,8 +7632,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "041",
     "SWIFT Code": "UWCBTWTP041",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7645,8 +7645,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "UWCBTWTP",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7658,8 +7658,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "UWCBTWTP027",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7671,8 +7671,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "UWCBTWTP011",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7684,8 +7684,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "UWCBTWTP020",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7697,8 +7697,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "800",
     "SWIFT Code": "UWCBTWTP800",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7710,8 +7710,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "UWCBTWTP018",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7723,8 +7723,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "044",
     "SWIFT Code": "UWCBTWTP044",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7736,8 +7736,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "UWCBTWTP015",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7749,8 +7749,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "016",
     "SWIFT Code": "UWCBTWTP016",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7762,8 +7762,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "602",
     "SWIFT Code": "UWCBTWTP602",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7775,8 +7775,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "TW",
+    "bankCode": "UWCB",
+    "countryCode": "TW",
     "branchCode": "LAO",
     "SWIFT Code": "UWCBTWTPLAO",
     "Bank Name": "CATHAY UNITED BANK",
@@ -7788,8 +7788,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "834",
     "SWIFT Code": "CCBCTWTP834",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7801,8 +7801,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "930",
     "SWIFT Code": "CCBCTWTP930",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7814,8 +7814,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "830",
     "SWIFT Code": "CCBCTWTP830",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7827,8 +7827,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "831",
     "SWIFT Code": "CCBCTWTP831",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7840,8 +7840,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "582",
     "SWIFT Code": "CCBCTWTP582",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7853,8 +7853,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "981",
     "SWIFT Code": "CCBCTWTP981",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7866,8 +7866,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "607",
     "SWIFT Code": "CCBCTWTP607",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7879,8 +7879,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "586",
     "SWIFT Code": "CCBCTWTP586",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7892,8 +7892,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "583",
     "SWIFT Code": "CCBCTWTP583",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7905,8 +7905,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "933",
     "SWIFT Code": "CCBCTWTP933",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7918,8 +7918,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "401",
     "SWIFT Code": "CCBCTWTP401",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7931,8 +7931,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "404",
     "SWIFT Code": "CCBCTWTP404",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7944,8 +7944,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "400",
     "SWIFT Code": "CCBCTWTP400",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7957,8 +7957,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "402",
     "SWIFT Code": "CCBCTWTP402",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7970,8 +7970,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "587",
     "SWIFT Code": "CCBCTWTP587",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7983,8 +7983,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "403",
     "SWIFT Code": "CCBCTWTP403",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -7996,8 +7996,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "581",
     "SWIFT Code": "CCBCTWTP581",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8009,8 +8009,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "220",
     "SWIFT Code": "CCBCTWTP220",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8022,8 +8022,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "405",
     "SWIFT Code": "CCBCTWTP405",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8035,8 +8035,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "589",
     "SWIFT Code": "CCBCTWTP589",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8048,8 +8048,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "960",
     "SWIFT Code": "CCBCTWTP960",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8061,8 +8061,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "596",
     "SWIFT Code": "CCBCTWTP596",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8074,8 +8074,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "584",
     "SWIFT Code": "CCBCTWTP584",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8087,8 +8087,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "585",
     "SWIFT Code": "CCBCTWTP585",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8100,8 +8100,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "645",
     "SWIFT Code": "CCBCTWTP645",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8113,8 +8113,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "984",
     "SWIFT Code": "CCBCTWTP984",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8126,8 +8126,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "626",
     "SWIFT Code": "CCBCTWTP626",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8139,8 +8139,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "642",
     "SWIFT Code": "CCBCTWTP642",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8152,8 +8152,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "623",
     "SWIFT Code": "CCBCTWTP623",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8165,8 +8165,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "644",
     "SWIFT Code": "CCBCTWTP644",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8178,8 +8178,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "956",
     "SWIFT Code": "CCBCTWTP956",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8191,8 +8191,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "640",
     "SWIFT Code": "CCBCTWTP640",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8204,8 +8204,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "643",
     "SWIFT Code": "CCBCTWTP643",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8217,8 +8217,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "641",
     "SWIFT Code": "CCBCTWTP641",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8230,8 +8230,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "624",
     "SWIFT Code": "CCBCTWTP624",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8243,8 +8243,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CCBCTWTP",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8256,8 +8256,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "539",
     "SWIFT Code": "CCBCTWTP539",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8269,8 +8269,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "518",
     "SWIFT Code": "CCBCTWTP518",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8282,8 +8282,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "971",
     "SWIFT Code": "CCBCTWTP971",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8295,8 +8295,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "514",
     "SWIFT Code": "CCBCTWTP514",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8308,8 +8308,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "507",
     "SWIFT Code": "CCBCTWTP507",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8321,8 +8321,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "301",
     "SWIFT Code": "CCBCTWTP301",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8334,8 +8334,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "528",
     "SWIFT Code": "CCBCTWTP528",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8347,8 +8347,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "505",
     "SWIFT Code": "CCBCTWTP505",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8360,8 +8360,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "300",
     "SWIFT Code": "CCBCTWTP300",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8373,8 +8373,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "972",
     "SWIFT Code": "CCBCTWTP972",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8386,8 +8386,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "531",
     "SWIFT Code": "CCBCTWTP531",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8399,8 +8399,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "520",
     "SWIFT Code": "CCBCTWTP520",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8412,8 +8412,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "515",
     "SWIFT Code": "CCBCTWTP515",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8425,8 +8425,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "508",
     "SWIFT Code": "CCBCTWTP508",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -8438,8 +8438,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "FEINTWTP003",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -8451,8 +8451,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "FEINTWTP019",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -8464,8 +8464,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TWIP",
-    "bankCode": "TW",
+    "bankCode": "TWIP",
+    "countryCode": "TW",
     "branchCode": "WTB",
     "SWIFT Code": "TWIPTWTB",
     "Bank Name": "FINANCIAL INFORMATION SERVICE CO., LTD",
@@ -8477,8 +8477,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TWIP",
-    "bankCode": "TW",
+    "bankCode": "TWIP",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "TWIPTWTP",
     "Bank Name": "FINANCIAL INFORMATION SERVICE CO., LTD",
@@ -8490,8 +8490,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TWIP",
-    "bankCode": "TW",
+    "bankCode": "TWIP",
+    "countryCode": "TW",
     "branchCode": "W2P",
     "SWIFT Code": "TWIPTW2P",
     "Bank Name": "FINANCIAL INFORMATION SERVICE CO., LTD",
@@ -8503,8 +8503,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "TW",
+    "bankCode": "FCBK",
+    "countryCode": "TW",
     "branchCode": "301",
     "SWIFT Code": "FCBKTWTP301",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -8516,8 +8516,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "TW",
+    "bankCode": "FCBK",
+    "countryCode": "TW",
     "branchCode": "701",
     "SWIFT Code": "FCBKTWTP701",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -8529,8 +8529,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "TW",
+    "bankCode": "FCBK",
+    "countryCode": "TW",
     "branchCode": "401",
     "SWIFT Code": "FCBKTWTP401",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -8542,8 +8542,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "TW",
+    "bankCode": "FCBK",
+    "countryCode": "TW",
     "branchCode": "601",
     "SWIFT Code": "FCBKTWTP601",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -8555,8 +8555,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "TW",
+    "bankCode": "FCBK",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "FCBKTWTP",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -8568,8 +8568,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "TW",
+    "bankCode": "FCBK",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "FCBKTWTPOBU",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -8581,8 +8581,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIUI",
-    "bankCode": "TW",
+    "bankCode": "FIUI",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "FIUITWT2",
     "Bank Name": "FIRST SECURITIES INC.",
@@ -8594,8 +8594,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSS",
-    "bankCode": "TW",
+    "bankCode": "FTSS",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "FTSSTWT2",
     "Bank Name": "FRANKLIN TEMPLETON SINOAM SECURITIES INVESTMENT MANAGEMENT INC",
@@ -8607,8 +8607,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOSI",
-    "bankCode": "TW",
+    "bankCode": "HOSI",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "HOSITWT2",
     "Bank Name": "HORIZON SECURITIES CO., LTD",
@@ -8620,8 +8620,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOSU",
-    "bankCode": "TW",
+    "bankCode": "HOSU",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "HOSUTWT2",
     "Bank Name": "HORIZON SECURITIES CO., LTD",
@@ -8633,8 +8633,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TW",
+    "bankCode": "HSBC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "HSBCTWTP",
     "Bank Name": "HSBC BANK (TAIWAN) LIMITED",
@@ -8646,8 +8646,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TW",
+    "bankCode": "HSBC",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "HSBCTWTPOBU",
     "Bank Name": "HSBC BANK (TAIWAN) LIMITED",
@@ -8659,8 +8659,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "520",
     "SWIFT Code": "HNBKTWTP520",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8672,8 +8672,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "521",
     "SWIFT Code": "HNBKTWTP521",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8685,8 +8685,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "523",
     "SWIFT Code": "HNBKTWTP523",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8698,8 +8698,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "524",
     "SWIFT Code": "HNBKTWTP524",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8711,8 +8711,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "522",
     "SWIFT Code": "HNBKTWTP522",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8724,8 +8724,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "601",
     "SWIFT Code": "HNBKTWTP601",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8737,8 +8737,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "600",
     "SWIFT Code": "HNBKTWTP600",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8750,8 +8750,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "602",
     "SWIFT Code": "HNBKTWTP602",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8763,8 +8763,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "543",
     "SWIFT Code": "HNBKTWTP543",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8776,8 +8776,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "540",
     "SWIFT Code": "HNBKTWTP540",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8789,8 +8789,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "541",
     "SWIFT Code": "HNBKTWTP541",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8802,8 +8802,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "542",
     "SWIFT Code": "HNBKTWTP542",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8815,8 +8815,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "302",
     "SWIFT Code": "HNBKTWTP302",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8828,8 +8828,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "323",
     "SWIFT Code": "HNBKTWTP323",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8841,8 +8841,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "310",
     "SWIFT Code": "HNBKTWTP310",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8854,8 +8854,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "300",
     "SWIFT Code": "HNBKTWTP300",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8867,8 +8867,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "313",
     "SWIFT Code": "HNBKTWTP313",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8880,8 +8880,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "351",
     "SWIFT Code": "HNBKTWTP351",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8893,8 +8893,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "301",
     "SWIFT Code": "HNBKTWTP301",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8906,8 +8906,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "820",
     "SWIFT Code": "HNBKTWTP820",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8919,8 +8919,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "709",
     "SWIFT Code": "HNBKTWTP709",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8932,8 +8932,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "720",
     "SWIFT Code": "HNBKTWTP720",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8945,8 +8945,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "719",
     "SWIFT Code": "HNBKTWTP719",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8958,8 +8958,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "753",
     "SWIFT Code": "HNBKTWTP753",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8971,8 +8971,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "702",
     "SWIFT Code": "HNBKTWTP702",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8984,8 +8984,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "700",
     "SWIFT Code": "HNBKTWTP700",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -8997,8 +8997,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "765",
     "SWIFT Code": "HNBKTWTP765",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9010,8 +9010,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "706",
     "SWIFT Code": "HNBKTWTP706",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9023,8 +9023,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "703",
     "SWIFT Code": "HNBKTWTP703",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9036,8 +9036,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "751",
     "SWIFT Code": "HNBKTWTP751",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9049,8 +9049,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "704",
     "SWIFT Code": "HNBKTWTP704",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9062,8 +9062,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "721",
     "SWIFT Code": "HNBKTWTP721",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9075,8 +9075,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "707",
     "SWIFT Code": "HNBKTWTP707",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -9088,8 +9088,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "165",
     "SWIFT Code": "LBOTTWTP165",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9101,8 +9101,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "LBOTTWTP004",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9114,8 +9114,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "064",
     "SWIFT Code": "LBOTTWTP064",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9127,8 +9127,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "092",
     "SWIFT Code": "LBOTTWTP092",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9140,8 +9140,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "LBOTTWTP010",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9153,8 +9153,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "120",
     "SWIFT Code": "LBOTTWTP120",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9166,8 +9166,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "LBOTTWTP009",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9179,8 +9179,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "141",
     "SWIFT Code": "LBOTTWTP141",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9192,8 +9192,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "063",
     "SWIFT Code": "LBOTTWTP063",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9205,8 +9205,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "LBOTTWTP005",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9218,8 +9218,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "133",
     "SWIFT Code": "LBOTTWTP133",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9231,8 +9231,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "080",
     "SWIFT Code": "LBOTTWTP080",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9244,8 +9244,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "074",
     "SWIFT Code": "LBOTTWTP074",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9257,8 +9257,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "099",
     "SWIFT Code": "LBOTTWTP099",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9270,8 +9270,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "116",
     "SWIFT Code": "LBOTTWTP116",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9283,8 +9283,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "093",
     "SWIFT Code": "LBOTTWTP093",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9296,8 +9296,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "158",
     "SWIFT Code": "LBOTTWTP158",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9309,8 +9309,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "LBOTTWTP037",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9322,8 +9322,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "121",
     "SWIFT Code": "LBOTTWTP121",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9335,8 +9335,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "136",
     "SWIFT Code": "LBOTTWTP136",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9348,8 +9348,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "143",
     "SWIFT Code": "LBOTTWTP143",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9361,8 +9361,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "096",
     "SWIFT Code": "LBOTTWTP096",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9374,8 +9374,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "114",
     "SWIFT Code": "LBOTTWTP114",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9387,8 +9387,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "145",
     "SWIFT Code": "LBOTTWTP145",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9400,8 +9400,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "131",
     "SWIFT Code": "LBOTTWTP131",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9413,8 +9413,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "091",
     "SWIFT Code": "LBOTTWTP091",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9426,8 +9426,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "167",
     "SWIFT Code": "LBOTTWTP167",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9439,8 +9439,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "LBOTTWTP015",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9452,8 +9452,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "LBOTTWTP013",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9465,8 +9465,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "137",
     "SWIFT Code": "LBOTTWTP137",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9478,8 +9478,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "LBOTTWTP012",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9491,8 +9491,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "053",
     "SWIFT Code": "LBOTTWTP053",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9504,8 +9504,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "LBOTTWTP011",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9517,8 +9517,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "014",
     "SWIFT Code": "LBOTTWTP014",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9530,8 +9530,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "124",
     "SWIFT Code": "LBOTTWTP124",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -9543,8 +9543,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LITN",
-    "bankCode": "TW",
+    "bankCode": "LITN",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "LITNTWTP",
     "Bank Name": "LINE BANK TAIWAN LIMITED",
@@ -9556,8 +9556,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBFC",
-    "bankCode": "TW",
+    "bankCode": "MBFC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "MBFCTWTP",
     "Bank Name": "MEGA BILLS FINANCE CORPORATION",
@@ -9569,8 +9569,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "233",
     "SWIFT Code": "ICBCTWTP233",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9582,8 +9582,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "ICBCTWTP018",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9595,8 +9595,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "220",
     "SWIFT Code": "ICBCTWTP220",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9608,8 +9608,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "212",
     "SWIFT Code": "ICBCTWTP212",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9621,8 +9621,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "ICBCTWTP022",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9634,8 +9634,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "063",
     "SWIFT Code": "ICBCTWTP063",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9647,8 +9647,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "203",
     "SWIFT Code": "ICBCTWTP203",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9660,8 +9660,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "215",
     "SWIFT Code": "ICBCTWTP215",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9673,8 +9673,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "ICBCTWTP020",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9686,8 +9686,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "208",
     "SWIFT Code": "ICBCTWTP208",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9699,8 +9699,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "ICBCTWTP026",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9712,8 +9712,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "ICBCTWTP023",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9725,8 +9725,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TW",
+    "bankCode": "ICBC",
+    "countryCode": "TW",
     "branchCode": "047",
     "SWIFT Code": "ICBCTWTP047",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -9738,8 +9738,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "229",
     "SWIFT Code": "BKTWTWTP229",
     "Bank Name": "BANK OF TAIWAN",
@@ -9751,8 +9751,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "107",
     "SWIFT Code": "BKTWTWTP107",
     "Bank Name": "BANK OF TAIWAN",
@@ -9764,8 +9764,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "225",
     "SWIFT Code": "BKTWTWTP225",
     "Bank Name": "BANK OF TAIWAN",
@@ -9777,8 +9777,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "033",
     "SWIFT Code": "BKTWTWTP033",
     "Bank Name": "BANK OF TAIWAN",
@@ -9790,8 +9790,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "153",
     "SWIFT Code": "BKTWTWTP153",
     "Bank Name": "BANK OF TAIWAN",
@@ -9803,8 +9803,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "BKTWTWTP069",
     "Bank Name": "BANK OF TAIWAN",
@@ -9816,8 +9816,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "036",
     "SWIFT Code": "BKTWTWTP036",
     "Bank Name": "BANK OF TAIWAN",
@@ -9829,8 +9829,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "BKTWTWTP070",
     "Bank Name": "BANK OF TAIWAN",
@@ -9842,8 +9842,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "074",
     "SWIFT Code": "BKTWTWTP074",
     "Bank Name": "BANK OF TAIWAN",
@@ -9855,8 +9855,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "240",
     "SWIFT Code": "BKTWTWTP240",
     "Bank Name": "BANK OF TAIWAN",
@@ -9868,8 +9868,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "BKTWTWTP050",
     "Bank Name": "BANK OF TAIWAN",
@@ -9881,8 +9881,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "064",
     "SWIFT Code": "BKTWTWTP064",
     "Bank Name": "BANK OF TAIWAN",
@@ -9894,8 +9894,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "086",
     "SWIFT Code": "BKTWTWTP086",
     "Bank Name": "BANK OF TAIWAN",
@@ -9907,8 +9907,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "238",
     "SWIFT Code": "BKTWTWTP238",
     "Bank Name": "BANK OF TAIWAN",
@@ -9920,8 +9920,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "279",
     "SWIFT Code": "BKTWTWTP279",
     "Bank Name": "BANK OF TAIWAN",
@@ -9933,8 +9933,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "218",
     "SWIFT Code": "BKTWTWTP218",
     "Bank Name": "BANK OF TAIWAN",
@@ -9946,8 +9946,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "085",
     "SWIFT Code": "BKTWTWTP085",
     "Bank Name": "BANK OF TAIWAN",
@@ -9959,8 +9959,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "148",
     "SWIFT Code": "BKTWTWTP148",
     "Bank Name": "BANK OF TAIWAN",
@@ -9972,8 +9972,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "142",
     "SWIFT Code": "BKTWTWTP142",
     "Bank Name": "BANK OF TAIWAN",
@@ -9985,8 +9985,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "151",
     "SWIFT Code": "BKTWTWTP151",
     "Bank Name": "BANK OF TAIWAN",
@@ -9998,8 +9998,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "111",
     "SWIFT Code": "BKTWTWTP111",
     "Bank Name": "BANK OF TAIWAN",
@@ -10011,8 +10011,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "106",
     "SWIFT Code": "BKTWTWTP106",
     "Bank Name": "BANK OF TAIWAN",
@@ -10024,8 +10024,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "242",
     "SWIFT Code": "BKTWTWTP242",
     "Bank Name": "BANK OF TAIWAN",
@@ -10037,8 +10037,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "165",
     "SWIFT Code": "BKTWTWTP165",
     "Bank Name": "BANK OF TAIWAN",
@@ -10050,8 +10050,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "135",
     "SWIFT Code": "BKTWTWTP135",
     "Bank Name": "BANK OF TAIWAN",
@@ -10063,8 +10063,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "236",
     "SWIFT Code": "BKTWTWTP236",
     "Bank Name": "BANK OF TAIWAN",
@@ -10076,8 +10076,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "270",
     "SWIFT Code": "BKTWTWTP270",
     "Bank Name": "BANK OF TAIWAN",
@@ -10089,8 +10089,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "BKTWTWTP019",
     "Bank Name": "BANK OF TAIWAN",
@@ -10102,8 +10102,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "124",
     "SWIFT Code": "BKTWTWTP124",
     "Bank Name": "BANK OF TAIWAN",
@@ -10115,8 +10115,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "BKTWTWTP023",
     "Bank Name": "BANK OF TAIWAN",
@@ -10128,8 +10128,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "172",
     "SWIFT Code": "BKTWTWTP172",
     "Bank Name": "BANK OF TAIWAN",
@@ -10141,8 +10141,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "041",
     "SWIFT Code": "BKTWTWTP041",
     "Bank Name": "BANK OF TAIWAN",
@@ -10154,8 +10154,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "186",
     "SWIFT Code": "BKTWTWTP186",
     "Bank Name": "BANK OF TAIWAN",
@@ -10167,8 +10167,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "228",
     "SWIFT Code": "BKTWTWTP228",
     "Bank Name": "BANK OF TAIWAN",
@@ -10180,8 +10180,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "226",
     "SWIFT Code": "BKTWTWTP226",
     "Bank Name": "BANK OF TAIWAN",
@@ -10193,8 +10193,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "039",
     "SWIFT Code": "BKTWTWTP039",
     "Bank Name": "BANK OF TAIWAN",
@@ -10206,8 +10206,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "123",
     "SWIFT Code": "BKTWTWTP123",
     "Bank Name": "BANK OF TAIWAN",
@@ -10219,8 +10219,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "144",
     "SWIFT Code": "BKTWTWTP144",
     "Bank Name": "BANK OF TAIWAN",
@@ -10232,8 +10232,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "121",
     "SWIFT Code": "BKTWTWTP121",
     "Bank Name": "BANK OF TAIWAN",
@@ -10245,8 +10245,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "247",
     "SWIFT Code": "BKTWTWTP247",
     "Bank Name": "BANK OF TAIWAN",
@@ -10258,8 +10258,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "BKTWTWTP026",
     "Bank Name": "BANK OF TAIWAN",
@@ -10271,8 +10271,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "115",
     "SWIFT Code": "BKTWTWTP115",
     "Bank Name": "BANK OF TAIWAN",
@@ -10284,8 +10284,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "297",
     "SWIFT Code": "BKTWTWTP297",
     "Bank Name": "BANK OF TAIWAN",
@@ -10297,8 +10297,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "043",
     "SWIFT Code": "BKTWTWTP043",
     "Bank Name": "BANK OF TAIWAN",
@@ -10310,8 +10310,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "058",
     "SWIFT Code": "BKTWTWTP058",
     "Bank Name": "BANK OF TAIWAN",
@@ -10323,8 +10323,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "089",
     "SWIFT Code": "BKTWTWTP089",
     "Bank Name": "BANK OF TAIWAN",
@@ -10336,8 +10336,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "BKTWTWTP022",
     "Bank Name": "BANK OF TAIWAN",
@@ -10349,8 +10349,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "049",
     "SWIFT Code": "BKTWTWTP049",
     "Bank Name": "BANK OF TAIWAN",
@@ -10362,8 +10362,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "SINOTWTP018",
     "Bank Name": "BANK SINOPAC",
@@ -10375,8 +10375,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "TW",
+    "bankCode": "SINO",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "SINOTWTP004",
     "Bank Name": "BANK SINOPAC",
@@ -10388,8 +10388,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "824",
     "SWIFT Code": "CCBCTWTP824",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10401,8 +10401,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "817",
     "SWIFT Code": "CCBCTWTP817",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10414,8 +10414,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "934",
     "SWIFT Code": "CCBCTWTP934",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10427,8 +10427,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "823",
     "SWIFT Code": "CCBCTWTP823",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10440,8 +10440,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "814",
     "SWIFT Code": "CCBCTWTP814",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10453,8 +10453,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "813",
     "SWIFT Code": "CCBCTWTP813",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10466,8 +10466,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "825",
     "SWIFT Code": "CCBCTWTP825",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10479,8 +10479,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "411",
     "SWIFT Code": "CCBCTWTP411",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10492,8 +10492,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "410",
     "SWIFT Code": "CCBCTWTP410",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10505,8 +10505,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "412",
     "SWIFT Code": "CCBCTWTP412",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10518,8 +10518,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "421",
     "SWIFT Code": "CCBCTWTP421",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10531,8 +10531,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "574",
     "SWIFT Code": "CCBCTWTP574",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10544,8 +10544,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "591",
     "SWIFT Code": "CCBCTWTP591",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10557,8 +10557,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "592",
     "SWIFT Code": "CCBCTWTP592",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10570,8 +10570,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "593",
     "SWIFT Code": "CCBCTWTP593",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10583,8 +10583,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "969",
     "SWIFT Code": "CCBCTWTP969",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10596,8 +10596,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "965",
     "SWIFT Code": "CCBCTWTP965",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10609,8 +10609,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "564",
     "SWIFT Code": "CCBCTWTP564",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10622,8 +10622,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "559",
     "SWIFT Code": "CCBCTWTP559",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10635,8 +10635,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "566",
     "SWIFT Code": "CCBCTWTP566",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10648,8 +10648,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "565",
     "SWIFT Code": "CCBCTWTP565",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10661,8 +10661,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "555",
     "SWIFT Code": "CCBCTWTP555",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10674,8 +10674,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "552",
     "SWIFT Code": "CCBCTWTP552",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10687,8 +10687,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "554",
     "SWIFT Code": "CCBCTWTP554",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10700,8 +10700,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "560",
     "SWIFT Code": "CCBCTWTP560",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10713,8 +10713,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "546",
     "SWIFT Code": "CCBCTWTP546",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10726,8 +10726,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "968",
     "SWIFT Code": "CCBCTWTP968",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10739,8 +10739,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "983",
     "SWIFT Code": "CCBCTWTP983",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10752,8 +10752,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "549",
     "SWIFT Code": "CCBCTWTP549",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10765,8 +10765,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "563",
     "SWIFT Code": "CCBCTWTP563",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10778,8 +10778,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "936",
     "SWIFT Code": "CCBCTWTP936",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10791,8 +10791,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "557",
     "SWIFT Code": "CCBCTWTP557",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10804,8 +10804,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "562",
     "SWIFT Code": "CCBCTWTP562",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10817,8 +10817,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "551",
     "SWIFT Code": "CCBCTWTP551",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10830,8 +10830,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "964",
     "SWIFT Code": "CCBCTWTP964",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10843,8 +10843,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "550",
     "SWIFT Code": "CCBCTWTP550",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10856,8 +10856,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "558",
     "SWIFT Code": "CCBCTWTP558",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10869,8 +10869,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "517",
     "SWIFT Code": "CCBCTWTP517",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10882,8 +10882,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "567",
     "SWIFT Code": "CCBCTWTP567",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10895,8 +10895,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "556",
     "SWIFT Code": "CCBCTWTP556",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10908,8 +10908,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "926",
     "SWIFT Code": "CCBCTWTP926",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10921,8 +10921,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "545",
     "SWIFT Code": "CCBCTWTP545",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10934,8 +10934,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "547",
     "SWIFT Code": "CCBCTWTP547",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10947,8 +10947,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "568",
     "SWIFT Code": "CCBCTWTP568",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10960,8 +10960,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "928",
     "SWIFT Code": "CCBCTWTP928",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10973,8 +10973,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "561",
     "SWIFT Code": "CCBCTWTP561",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10986,8 +10986,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "548",
     "SWIFT Code": "CCBCTWTP548",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -10999,8 +10999,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "543",
     "SWIFT Code": "CCBCTWTP543",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -11012,8 +11012,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "553",
     "SWIFT Code": "CCBCTWTP553",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -11025,8 +11025,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "832",
     "SWIFT Code": "CCBCTWTP832",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -11038,8 +11038,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "721",
     "SWIFT Code": "TPBKTWTP721",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11051,8 +11051,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "677",
     "SWIFT Code": "TPBKTWTP677",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11064,8 +11064,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "671",
     "SWIFT Code": "TPBKTWTP671",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11077,8 +11077,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "770",
     "SWIFT Code": "TPBKTWTP770",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11090,8 +11090,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "707",
     "SWIFT Code": "TPBKTWTP707",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11103,8 +11103,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "711",
     "SWIFT Code": "TPBKTWTP711",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11116,8 +11116,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "674",
     "SWIFT Code": "TPBKTWTP674",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11129,8 +11129,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "TPBKTWTP",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11142,8 +11142,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "715",
     "SWIFT Code": "TPBKTWTP715",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11155,8 +11155,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "200",
     "SWIFT Code": "TPBKTWTP200",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11168,8 +11168,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "220",
     "SWIFT Code": "TPBKTWTP220",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11181,8 +11181,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "410",
     "SWIFT Code": "TPBKTWTP410",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11194,8 +11194,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "430",
     "SWIFT Code": "TPBKTWTP430",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11207,8 +11207,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "305",
     "SWIFT Code": "TPBKTWTP305",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11220,8 +11220,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "590",
     "SWIFT Code": "TPBKTWTP590",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11233,8 +11233,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "350",
     "SWIFT Code": "TPBKTWTP350",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11246,8 +11246,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "462",
     "SWIFT Code": "TPBKTWTP462",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11259,8 +11259,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "FMG",
     "SWIFT Code": "TPBKTWTPFMG",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11272,8 +11272,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "480",
     "SWIFT Code": "TPBKTWTP480",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11285,8 +11285,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "460",
     "SWIFT Code": "TPBKTWTP460",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11298,8 +11298,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "530",
     "SWIFT Code": "TPBKTWTP530",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11311,8 +11311,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "704",
     "SWIFT Code": "TPBKTWTP704",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11324,8 +11324,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "600",
     "SWIFT Code": "TPBKTWTP600",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11337,8 +11337,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "580",
     "SWIFT Code": "TPBKTWTP580",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11350,8 +11350,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "454",
     "SWIFT Code": "TPBKTWTP454",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11363,8 +11363,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "420",
     "SWIFT Code": "TPBKTWTP420",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11376,8 +11376,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "510",
     "SWIFT Code": "TPBKTWTP510",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11389,8 +11389,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "440",
     "SWIFT Code": "TPBKTWTP440",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11402,8 +11402,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "560",
     "SWIFT Code": "TPBKTWTP560",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11415,8 +11415,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "340",
     "SWIFT Code": "TPBKTWTP340",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11428,8 +11428,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "360",
     "SWIFT Code": "TPBKTWTP360",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11441,8 +11441,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "610",
     "SWIFT Code": "TPBKTWTP610",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11454,8 +11454,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "300",
     "SWIFT Code": "TPBKTWTP300",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11467,8 +11467,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "470",
     "SWIFT Code": "TPBKTWTP470",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11480,8 +11480,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "370",
     "SWIFT Code": "TPBKTWTP370",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11493,8 +11493,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "380",
     "SWIFT Code": "TPBKTWTP380",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11506,8 +11506,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "250",
     "SWIFT Code": "TPBKTWTP250",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11519,8 +11519,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "570",
     "SWIFT Code": "TPBKTWTP570",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11532,8 +11532,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "310",
     "SWIFT Code": "TPBKTWTP310",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11545,8 +11545,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "620",
     "SWIFT Code": "TPBKTWTP620",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11558,8 +11558,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "673",
     "SWIFT Code": "TPBKTWTP673",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11571,8 +11571,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "TW",
+    "bankCode": "TPBK",
+    "countryCode": "TW",
     "branchCode": "706",
     "SWIFT Code": "TPBKTWTP706",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD",
@@ -11584,8 +11584,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTP",
-    "bankCode": "TW",
+    "bankCode": "BOTP",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "BOTPTWTPOBU",
     "Bank Name": "TAIPEI STAR BANK",
@@ -11597,8 +11597,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTP",
-    "bankCode": "TW",
+    "bankCode": "BOTP",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BOTPTWTP",
     "Bank Name": "TAIPEI STAR BANK",
@@ -11610,8 +11610,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTP",
-    "bankCode": "TW",
+    "bankCode": "BOTP",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "BOTPTWTP002",
     "Bank Name": "TAIPEI STAR BANK",
@@ -11623,8 +11623,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "100",
     "SWIFT Code": "TSIBTWTP100",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -11636,8 +11636,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "TSIBTWTP015",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -11649,8 +11649,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "054",
     "SWIFT Code": "TSIBTWTP054",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -11662,8 +11662,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "105",
     "SWIFT Code": "TSIBTWTP105",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -11675,8 +11675,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "TW",
+    "bankCode": "TSIB",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "TSIBTWTP007",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.",
@@ -11688,8 +11688,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "143",
     "SWIFT Code": "MKTBTWTP143",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11701,8 +11701,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "MKTBTWTP028",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11714,8 +11714,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "851",
     "SWIFT Code": "MKTBTWTP851",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11727,8 +11727,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "110",
     "SWIFT Code": "MKTBTWTP110",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11740,8 +11740,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "189",
     "SWIFT Code": "MKTBTWTP189",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11753,8 +11753,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "152",
     "SWIFT Code": "MKTBTWTP152",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11766,8 +11766,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "MKTBTWTPOBU",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11779,8 +11779,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "134",
     "SWIFT Code": "MKTBTWTP134",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11792,8 +11792,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "523",
     "SWIFT Code": "MKTBTWTP523",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11805,8 +11805,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "596",
     "SWIFT Code": "MKTBTWTP596",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11818,8 +11818,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "231",
     "SWIFT Code": "MKTBTWTP231",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11831,8 +11831,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "392",
     "SWIFT Code": "MKTBTWTP392",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11844,8 +11844,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "222",
     "SWIFT Code": "MKTBTWTP222",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -11857,8 +11857,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "TW",
+    "bankCode": "BEAS",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BEASTWTP",
     "Bank Name": "THE BANK OF EAST ASIA LIMITED, TAIPEI BRANCH",
@@ -11870,8 +11870,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "TW",
+    "bankCode": "IRVT",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "IRVTTWTX",
     "Bank Name": "THE BANK OF NEW YORK MELLON, TAIPEI BRANCH",
@@ -11883,8 +11883,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EROC",
-    "bankCode": "TW",
+    "bankCode": "EROC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "EROCTWTP",
     "Bank Name": "THE EXPORT-IMPORT BANK OF THE REPUBLIC OF CHINA",
@@ -11896,8 +11896,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TW",
+    "bankCode": "HSBC",
+    "countryCode": "TW",
     "branchCode": "W2P",
     "SWIFT Code": "HSBCTW2P",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, TAIPEI BRANCH",
@@ -11909,8 +11909,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TW",
+    "bankCode": "HSBC",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "HSBCTW2POBU",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, TAIPEI BRANCH",
@@ -11922,8 +11922,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMTR",
-    "bankCode": "TW",
+    "bankCode": "UMTR",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "UMTRTWTP",
     "Bank Name": "U-MING MARINE TRANSPORT CORPORATION",
@@ -11935,8 +11935,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMTR",
-    "bankCode": "TW",
+    "bankCode": "UMTR",
+    "countryCode": "TW",
     "branchCode": "230",
     "SWIFT Code": "UMTRTWTP230",
     "Bank Name": "U-MING MARINE TRANSPORT CORPORATION",
@@ -11948,8 +11948,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMTR",
-    "bankCode": "TW",
+    "bankCode": "UMTR",
+    "countryCode": "TW",
     "branchCode": "300",
     "SWIFT Code": "UMTRTWTP300",
     "Bank Name": "U-MING MARINE TRANSPORT CORPORATION",
@@ -11961,8 +11961,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMTR",
-    "bankCode": "TW",
+    "bankCode": "UMTR",
+    "countryCode": "TW",
     "branchCode": "200",
     "SWIFT Code": "UMTRTWTP200",
     "Bank Name": "U-MING MARINE TRANSPORT CORPORATION",
@@ -11974,8 +11974,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "TW",
+    "bankCode": "UBSW",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "UBSWTWTP",
     "Bank Name": "UBS AG TAIPEI BRANCH",
@@ -11987,8 +11987,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSA",
-    "bankCode": "TW",
+    "bankCode": "UBSA",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "UBSATWTP",
     "Bank Name": "UBS ASSET MANAGEMENT (TAIWAN) LTD",
@@ -12000,8 +12000,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "UBOTTWTP010",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12013,8 +12013,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "UBOTTWTP062",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12026,8 +12026,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "UBOTTWTP",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12039,8 +12039,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "UBOTTWTP009",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12052,8 +12052,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "UBOTTWTP005",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12065,8 +12065,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "UBOTTWTP001",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12078,8 +12078,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "008",
     "SWIFT Code": "UBOTTWTP008",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12091,8 +12091,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOT",
-    "bankCode": "TW",
+    "bankCode": "UBOT",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "UBOTTWTP003",
     "Bank Name": "UNION BANK OF TAIWAN",
@@ -12104,8 +12104,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "TW",
+    "bankCode": "UOVB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "UOVBTWTP",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED",
@@ -12117,8 +12117,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "TW",
+    "bankCode": "UOVB",
+    "countryCode": "TW",
     "branchCode": "CMS",
     "SWIFT Code": "UOVBTWTPCMS",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED",
@@ -12130,8 +12130,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "TW",
+    "bankCode": "PNBP",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "PNBPTWTP",
     "Bank Name": "WELLS FARGO BANK, N.A., TAIPEI BRANCH",
@@ -12143,8 +12143,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APBK",
-    "bankCode": "TW",
+    "bankCode": "APBK",
+    "countryCode": "TW",
     "branchCode": "WTH",
     "SWIFT Code": "APBKTWTH",
     "Bank Name": "YUANTA COMMERCIAL BANK CO., LTD.",
@@ -12156,8 +12156,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YUTA",
-    "bankCode": "TW",
+    "bankCode": "YUTA",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "YUTATWTP",
     "Bank Name": "YUANTA SECURITIES CO., LTD.",
@@ -12169,8 +12169,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YUTA",
-    "bankCode": "TW",
+    "bankCode": "YUTA",
+    "countryCode": "TW",
     "branchCode": "888",
     "SWIFT Code": "YUTATWTP888",
     "Bank Name": "YUANTA SECURITIES CO., LTD.",
@@ -12182,8 +12182,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YUTA",
-    "bankCode": "TW",
+    "bankCode": "YUTA",
+    "countryCode": "TW",
     "branchCode": "168",
     "SWIFT Code": "YUTATWTP168",
     "Bank Name": "YUANTA SECURITIES CO., LTD.",
@@ -12195,8 +12195,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "541",
     "SWIFT Code": "CCBCTWTP541",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12208,8 +12208,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "525",
     "SWIFT Code": "CCBCTWTP525",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12221,8 +12221,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "534",
     "SWIFT Code": "CCBCTWTP534",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12234,8 +12234,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "540",
     "SWIFT Code": "CCBCTWTP540",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12247,8 +12247,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "979",
     "SWIFT Code": "CCBCTWTP979",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12260,8 +12260,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "524",
     "SWIFT Code": "CCBCTWTP524",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12273,8 +12273,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "503",
     "SWIFT Code": "CCBCTWTP503",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12286,8 +12286,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "521",
     "SWIFT Code": "CCBCTWTP521",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12299,8 +12299,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "532",
     "SWIFT Code": "CCBCTWTP532",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12312,8 +12312,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "511",
     "SWIFT Code": "CCBCTWTP511",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12325,8 +12325,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "523",
     "SWIFT Code": "CCBCTWTP523",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12338,8 +12338,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "535",
     "SWIFT Code": "CCBCTWTP535",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12351,8 +12351,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "980",
     "SWIFT Code": "CCBCTWTP980",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12364,8 +12364,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "538",
     "SWIFT Code": "CCBCTWTP538",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12377,8 +12377,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "529",
     "SWIFT Code": "CCBCTWTP529",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12390,8 +12390,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "212",
     "SWIFT Code": "CCBCTWTP212",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12403,8 +12403,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "500",
     "SWIFT Code": "CCBCTWTP500",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12416,8 +12416,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "516",
     "SWIFT Code": "CCBCTWTP516",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12429,8 +12429,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "536",
     "SWIFT Code": "CCBCTWTP536",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12442,8 +12442,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "975",
     "SWIFT Code": "CCBCTWTP975",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12455,8 +12455,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "519",
     "SWIFT Code": "CCBCTWTP519",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12468,8 +12468,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "513",
     "SWIFT Code": "CCBCTWTP513",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12481,8 +12481,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "973",
     "SWIFT Code": "CCBCTWTP973",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12494,8 +12494,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "501",
     "SWIFT Code": "CCBCTWTP501",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12507,8 +12507,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "526",
     "SWIFT Code": "CCBCTWTP526",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12520,8 +12520,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "506",
     "SWIFT Code": "CCBCTWTP506",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12533,8 +12533,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "530",
     "SWIFT Code": "CCBCTWTP530",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12546,8 +12546,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "109",
     "SWIFT Code": "CCBCTWTP109",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12559,8 +12559,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "522",
     "SWIFT Code": "CCBCTWTP522",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12572,8 +12572,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "537",
     "SWIFT Code": "CCBCTWTP537",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12585,8 +12585,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "510",
     "SWIFT Code": "CCBCTWTP510",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12598,8 +12598,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "527",
     "SWIFT Code": "CCBCTWTP527",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12611,8 +12611,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "502",
     "SWIFT Code": "CCBCTWTP502",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12624,8 +12624,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "512",
     "SWIFT Code": "CCBCTWTP512",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12637,8 +12637,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "533",
     "SWIFT Code": "CCBCTWTP533",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12650,8 +12650,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "504",
     "SWIFT Code": "CCBCTWTP504",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12663,8 +12663,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "850",
     "SWIFT Code": "CCBCTWTP850",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12676,8 +12676,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "577",
     "SWIFT Code": "CCBCTWTP577",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12689,8 +12689,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "571",
     "SWIFT Code": "CCBCTWTP571",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12702,8 +12702,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "542",
     "SWIFT Code": "CCBCTWTP542",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12715,8 +12715,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "579",
     "SWIFT Code": "CCBCTWTP579",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12728,8 +12728,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "576",
     "SWIFT Code": "CCBCTWTP576",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12741,8 +12741,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "929",
     "SWIFT Code": "CCBCTWTP929",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12754,8 +12754,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "931",
     "SWIFT Code": "CCBCTWTP931",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12767,8 +12767,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "597",
     "SWIFT Code": "CCBCTWTP597",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12780,8 +12780,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "570",
     "SWIFT Code": "CCBCTWTP570",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12793,8 +12793,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "935",
     "SWIFT Code": "CCBCTWTP935",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12806,8 +12806,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "569",
     "SWIFT Code": "CCBCTWTP569",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12819,8 +12819,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "420",
     "SWIFT Code": "CCBCTWTP420",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12832,8 +12832,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "955",
     "SWIFT Code": "CCBCTWTP955",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -12845,8 +12845,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "SCSBTWTP037",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12858,8 +12858,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "083",
     "SWIFT Code": "SCSBTWTP083",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12871,8 +12871,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "SCSBTWTP010",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12884,8 +12884,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "SCSBTWTP038",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12897,8 +12897,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SCSBTWTP",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12910,8 +12910,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "SCSBTWTP006",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12923,8 +12923,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "044",
     "SWIFT Code": "SCSBTWTP044",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12936,8 +12936,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "SCSBTWTP020",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12949,8 +12949,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "SCSBTWTP023",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12962,8 +12962,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "SCSBTWTP068",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12975,8 +12975,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "SCSBTWTP009",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -12988,8 +12988,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "057",
     "SWIFT Code": "SCSBTWTP057",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13001,8 +13001,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "SCSBTWTP018",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13014,8 +13014,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "SCSBTWTP024",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13027,8 +13027,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "SCSBTWTP021",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13040,8 +13040,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "SCSBTWTP019",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13053,8 +13053,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "SCSBTWTP062",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13066,8 +13066,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "040",
     "SWIFT Code": "SCSBTWTP040",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13079,8 +13079,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "SCSBTWTP022",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13092,8 +13092,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "055",
     "SWIFT Code": "SCSBTWTP055",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13105,8 +13105,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "SCSBTWTP027",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13118,8 +13118,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "047",
     "SWIFT Code": "SCSBTWTP047",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13131,8 +13131,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "SCSBTWTP003",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13144,8 +13144,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "036",
     "SWIFT Code": "SCSBTWTP036",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13157,8 +13157,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "071",
     "SWIFT Code": "SCSBTWTP071",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13170,8 +13170,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "031",
     "SWIFT Code": "SCSBTWTP031",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13183,8 +13183,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "SCSBTWTP028",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13196,8 +13196,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "051",
     "SWIFT Code": "SCSBTWTP051",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13209,8 +13209,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "066",
     "SWIFT Code": "SCSBTWTP066",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13222,8 +13222,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "043",
     "SWIFT Code": "SCSBTWTP043",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13235,8 +13235,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "081",
     "SWIFT Code": "SCSBTWTP081",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13248,8 +13248,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "SCSBTWTP026",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13261,8 +13261,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "073",
     "SWIFT Code": "SCSBTWTP073",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13274,8 +13274,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "SCSBTWTP061",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13287,8 +13287,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "074",
     "SWIFT Code": "SCSBTWTP074",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13300,8 +13300,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "SCSBTWTP011",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13313,8 +13313,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "054",
     "SWIFT Code": "SCSBTWTP054",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13326,8 +13326,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "060",
     "SWIFT Code": "SCSBTWTP060",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13339,8 +13339,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "TW",
+    "bankCode": "SCSB",
+    "countryCode": "TW",
     "branchCode": "065",
     "SWIFT Code": "SCSBTWTP065",
     "Bank Name": "SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., THE",
@@ -13352,8 +13352,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKLI",
-    "bankCode": "TW",
+    "bankCode": "SKLI",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SKLITWTP",
     "Bank Name": "SHIN KONG LIFE INSURANCE CO., LTD.",
@@ -13365,8 +13365,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNPS",
-    "bankCode": "TW",
+    "bankCode": "SNPS",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SNPSTWTP",
     "Bank Name": "SINOPAC SECURITIES CORPORATION",
@@ -13378,8 +13378,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "TW",
+    "bankCode": "SOGE",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SOGETWTP",
     "Bank Name": "SOCIETE GENERALE, TAIPEI BRANCH",
@@ -13391,8 +13391,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TW",
+    "bankCode": "SCBL",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SCBLTWTP",
     "Bank Name": "STANDARD CHARTERED BANK (TAIWAN) LIMITED",
@@ -13404,8 +13404,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TW",
+    "bankCode": "SCBL",
+    "countryCode": "TW",
     "branchCode": "CUS",
     "SWIFT Code": "SCBLTWTPCUS",
     "Bank Name": "STANDARD CHARTERED BANK (TAIWAN) LIMITED",
@@ -13417,8 +13417,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TW",
+    "bankCode": "SCBL",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "SCBLTWTX",
     "Bank Name": "STANDARD CHARTERED BANK, TAIPEI BRANCH",
@@ -13430,8 +13430,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "TW",
+    "bankCode": "SBOS",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SBOSTWTP",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY",
@@ -13443,8 +13443,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "TW",
+    "bankCode": "SMBC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "SMBCTWTP",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION TAIPEI BRANCH",
@@ -13456,8 +13456,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "081",
     "SWIFT Code": "SUNYTWTP081",
     "Bank Name": "SUNNY BANK LTD",
@@ -13469,8 +13469,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "082",
     "SWIFT Code": "SUNYTWTP082",
     "Bank Name": "SUNNY BANK LTD",
@@ -13482,8 +13482,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNY",
-    "bankCode": "TW",
+    "bankCode": "SUNY",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "SUNYTWTP061",
     "Bank Name": "SUNNY BANK LTD",
@@ -13495,8 +13495,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "580",
     "SWIFT Code": "CCBCTWTP580",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -13508,8 +13508,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "598",
     "SWIFT Code": "CCBCTWTP598",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -13521,8 +13521,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "TW",
+    "bankCode": "CCBC",
+    "countryCode": "TW",
     "branchCode": "578",
     "SWIFT Code": "CCBCTWTP578",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -13534,8 +13534,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBFC",
-    "bankCode": "TW",
+    "bankCode": "CBFC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CBFCTWTP",
     "Bank Name": "CHINA BILLS FINANCE CORP.",
@@ -13547,8 +13547,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "TW",
+    "bankCode": "PCBC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "PCBCTWTP",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION LTD. TAIPEI BRANCH",
@@ -13560,8 +13560,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHPY",
-    "bankCode": "TW",
+    "bankCode": "CHPY",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CHPYTWTP",
     "Bank Name": "CHUNGHWA POST COMPANY LIMITED",
@@ -13573,8 +13573,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TW",
+    "bankCode": "CITI",
+    "countryCode": "TW",
     "branchCode": "W2P",
     "SWIFT Code": "CITITW2P",
     "Bank Name": "CITIBANK N.A",
@@ -13586,8 +13586,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TW",
+    "bankCode": "CITI",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "CITITWTX",
     "Bank Name": "CITIBANK TAIWAN LIMITED",
@@ -13599,8 +13599,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TW",
+    "bankCode": "CITI",
+    "countryCode": "TW",
     "branchCode": "AGW",
     "SWIFT Code": "CITITWTXAGW",
     "Bank Name": "CITIBANK TAIWAN LIMITED",
@@ -13612,8 +13612,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CONE",
-    "bankCode": "TW",
+    "bankCode": "CONE",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "CONETWT2",
     "Bank Name": "CONCORD SECURITIES CORP",
@@ -13625,8 +13625,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CONE",
-    "bankCode": "TW",
+    "bankCode": "CONE",
+    "countryCode": "TW",
     "branchCode": "WTA",
     "SWIFT Code": "CONETWTA",
     "Bank Name": "CONCORD SECURITIES CORP",
@@ -13638,8 +13638,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBK",
-    "bankCode": "TW",
+    "bankCode": "COBK",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "COBKTWTP",
     "Bank Name": "COTA COMMERCIAL BANK",
@@ -13651,8 +13651,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "TW",
+    "bankCode": "CRLY",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CRLYTWTP",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -13664,8 +13664,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "TW",
+    "bankCode": "CSFB",
+    "countryCode": "TW",
     "branchCode": "WTE",
     "SWIFT Code": "CSFBTWTE",
     "Bank Name": "CREDIT SUISSE AG, TAIPEI SECURITIES BRANCH",
@@ -13677,8 +13677,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "428",
     "SWIFT Code": "CTCBTWTP428",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13690,8 +13690,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "082",
     "SWIFT Code": "CTCBTWTP082",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13703,8 +13703,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "462",
     "SWIFT Code": "CTCBTWTP462",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13716,8 +13716,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "190",
     "SWIFT Code": "CTCBTWTP190",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13729,8 +13729,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "336",
     "SWIFT Code": "CTCBTWTP336",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13742,8 +13742,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "267",
     "SWIFT Code": "CTCBTWTP267",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13755,8 +13755,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "299",
     "SWIFT Code": "CTCBTWTP299",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13768,8 +13768,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "875",
     "SWIFT Code": "CTCBTWTP875",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13781,8 +13781,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "CTCBTWTP034",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13794,8 +13794,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "554",
     "SWIFT Code": "CTCBTWTP554",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13807,8 +13807,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "189",
     "SWIFT Code": "CTCBTWTP189",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13820,8 +13820,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "197",
     "SWIFT Code": "CTCBTWTP197",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13833,8 +13833,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "234",
     "SWIFT Code": "CTCBTWTP234",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13846,8 +13846,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "509",
     "SWIFT Code": "CTCBTWTP509",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13859,8 +13859,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "263",
     "SWIFT Code": "CTCBTWTP263",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13872,8 +13872,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "439",
     "SWIFT Code": "CTCBTWTP439",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13885,8 +13885,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "229",
     "SWIFT Code": "CTCBTWTP229",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13898,8 +13898,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "274",
     "SWIFT Code": "CTCBTWTP274",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13911,8 +13911,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "193",
     "SWIFT Code": "CTCBTWTP193",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13924,8 +13924,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "CTCBTWTP037",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13937,8 +13937,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "171",
     "SWIFT Code": "CTCBTWTP171",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13950,8 +13950,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "613",
     "SWIFT Code": "CTCBTWTP613",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13963,8 +13963,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "118",
     "SWIFT Code": "CTCBTWTP118",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13976,8 +13976,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "196",
     "SWIFT Code": "CTCBTWTP196",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -13989,8 +13989,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "182",
     "SWIFT Code": "CTCBTWTP182",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14002,8 +14002,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "230",
     "SWIFT Code": "CTCBTWTP230",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14015,8 +14015,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "565",
     "SWIFT Code": "CTCBTWTP565",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14028,8 +14028,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "381",
     "SWIFT Code": "CTCBTWTP381",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14041,8 +14041,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "164",
     "SWIFT Code": "CTCBTWTP164",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14054,8 +14054,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "370",
     "SWIFT Code": "CTCBTWTP370",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14067,8 +14067,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "078",
     "SWIFT Code": "CTCBTWTP078",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14080,8 +14080,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "186",
     "SWIFT Code": "CTCBTWTP186",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14093,8 +14093,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "750",
     "SWIFT Code": "CTCBTWTP750",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14106,8 +14106,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "101",
     "SWIFT Code": "CTCBTWTP101",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14119,8 +14119,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "614",
     "SWIFT Code": "CTCBTWTP614",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14132,8 +14132,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "167",
     "SWIFT Code": "CTCBTWTP167",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -14145,8 +14145,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "MBBTTWTP023",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14158,8 +14158,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "141",
     "SWIFT Code": "MBBTTWTP141",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14171,8 +14171,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "MBBTTWTP061",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14184,8 +14184,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "040",
     "SWIFT Code": "MBBTTWTP040",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14197,8 +14197,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "110",
     "SWIFT Code": "MBBTTWTP110",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14210,8 +14210,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "MBBTTWTP021",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14223,8 +14223,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "120",
     "SWIFT Code": "MBBTTWTP120",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14236,8 +14236,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "MBBTTWTP050",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14249,8 +14249,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "142",
     "SWIFT Code": "MBBTTWTP142",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14262,8 +14262,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "060",
     "SWIFT Code": "MBBTTWTP060",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14275,8 +14275,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "130",
     "SWIFT Code": "MBBTTWTP130",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14288,8 +14288,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "103",
     "SWIFT Code": "MBBTTWTP103",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14301,8 +14301,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "102",
     "SWIFT Code": "MBBTTWTP102",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14314,8 +14314,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "132",
     "SWIFT Code": "MBBTTWTP132",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14327,8 +14327,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "313",
     "SWIFT Code": "MBBTTWTP313",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14340,8 +14340,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "312",
     "SWIFT Code": "MBBTTWTP312",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14353,8 +14353,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "332",
     "SWIFT Code": "MBBTTWTP332",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14366,8 +14366,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "MBBTTWTP005",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14379,8 +14379,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "311",
     "SWIFT Code": "MBBTTWTP311",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14392,8 +14392,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "MBBTTWTP004",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14405,8 +14405,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "330",
     "SWIFT Code": "MBBTTWTP330",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14418,8 +14418,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "302",
     "SWIFT Code": "MBBTTWTP302",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14431,8 +14431,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "301",
     "SWIFT Code": "MBBTTWTP301",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14444,8 +14444,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "300",
     "SWIFT Code": "MBBTTWTP300",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14457,8 +14457,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "290",
     "SWIFT Code": "MBBTTWTP290",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14470,8 +14470,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "160",
     "SWIFT Code": "MBBTTWTP160",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14483,8 +14483,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "310",
     "SWIFT Code": "MBBTTWTP310",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -14496,8 +14496,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "TACBTWTP023",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14509,8 +14509,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "560",
     "SWIFT Code": "TACBTWTP560",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14522,8 +14522,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "TACBTWTP028",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14535,8 +14535,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "584",
     "SWIFT Code": "TACBTWTP584",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14548,8 +14548,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "124",
     "SWIFT Code": "TACBTWTP124",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14561,8 +14561,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "157",
     "SWIFT Code": "TACBTWTP157",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14574,8 +14574,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "017",
     "SWIFT Code": "TACBTWTP017",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14587,8 +14587,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "564",
     "SWIFT Code": "TACBTWTP564",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14600,8 +14600,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "131",
     "SWIFT Code": "TACBTWTP131",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14613,8 +14613,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "563",
     "SWIFT Code": "TACBTWTP563",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14626,8 +14626,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "065",
     "SWIFT Code": "TACBTWTP065",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14639,8 +14639,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "551",
     "SWIFT Code": "TACBTWTP551",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14652,8 +14652,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "AAB",
     "SWIFT Code": "TACBTWTPAAB",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14665,8 +14665,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "525",
     "SWIFT Code": "TACBTWTP525",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14678,8 +14678,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "524",
     "SWIFT Code": "TACBTWTP524",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14691,8 +14691,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "033",
     "SWIFT Code": "TACBTWTP033",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14704,8 +14704,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "146",
     "SWIFT Code": "TACBTWTP146",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14717,8 +14717,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "TACBTWTP034",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14730,8 +14730,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "352",
     "SWIFT Code": "TACBTWTP352",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14743,8 +14743,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "AAC",
     "SWIFT Code": "TACBTWTPAAC",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14756,8 +14756,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "059",
     "SWIFT Code": "TACBTWTP059",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14769,8 +14769,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "527",
     "SWIFT Code": "TACBTWTP527",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14782,8 +14782,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "TACBTWTP035",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14795,8 +14795,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "090",
     "SWIFT Code": "TACBTWTP090",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14808,8 +14808,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "041",
     "SWIFT Code": "TACBTWTP041",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14821,8 +14821,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "156",
     "SWIFT Code": "TACBTWTP156",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14834,8 +14834,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "106",
     "SWIFT Code": "TACBTWTP106",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14847,8 +14847,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "085",
     "SWIFT Code": "TACBTWTP085",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14860,8 +14860,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "510",
     "SWIFT Code": "TACBTWTP510",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14873,8 +14873,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "083",
     "SWIFT Code": "TACBTWTP083",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14886,8 +14886,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "095",
     "SWIFT Code": "TACBTWTP095",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14899,8 +14899,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "054",
     "SWIFT Code": "TACBTWTP054",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14912,8 +14912,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "505",
     "SWIFT Code": "TACBTWTP505",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14925,8 +14925,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "AAA",
     "SWIFT Code": "TACBTWTPAAA",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14938,8 +14938,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "TACBTWTP004",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14951,8 +14951,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "501",
     "SWIFT Code": "TACBTWTP501",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14964,8 +14964,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "543",
     "SWIFT Code": "TACBTWTP543",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14977,8 +14977,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "545",
     "SWIFT Code": "TACBTWTP545",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -14990,8 +14990,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "TACBTWTP015",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -15003,8 +15003,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "541",
     "SWIFT Code": "TACBTWTP541",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -15016,8 +15016,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "TACBTWTP024",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -15029,8 +15029,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "566",
     "SWIFT Code": "TACBTWTP566",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -15042,8 +15042,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "TW",
+    "bankCode": "TACB",
+    "countryCode": "TW",
     "branchCode": "544",
     "SWIFT Code": "TACBTWTP544",
     "Bank Name": "TAIWAN COOPERATIVE BANK LTD",
@@ -15055,8 +15055,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBF",
-    "bankCode": "TW",
+    "bankCode": "TCBF",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "TCBFTWTP",
     "Bank Name": "TAIWAN COOPERATIVE BILLS FINANCE CORPORATION",
@@ -15068,8 +15068,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDCC",
-    "bankCode": "TW",
+    "bankCode": "TDCC",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "TDCCTWTP001",
     "Bank Name": "TAIWAN DEPOSITORY CLEARING CORPORATION",
@@ -15081,8 +15081,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDCC",
-    "bankCode": "TW",
+    "bankCode": "TDCC",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "TDCCTWTP002",
     "Bank Name": "TAIWAN DEPOSITORY CLEARING CORPORATION",
@@ -15094,8 +15094,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDCC",
-    "bankCode": "TW",
+    "bankCode": "TDCC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "TDCCTWTP",
     "Bank Name": "TAIWAN DEPOSITORY CLEARING CORPORATION",
@@ -15107,8 +15107,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "444",
     "SWIFT Code": "MKTBTWTP444",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15120,8 +15120,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "620",
     "SWIFT Code": "MKTBTWTP620",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15133,8 +15133,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "213",
     "SWIFT Code": "MKTBTWTP213",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15146,8 +15146,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "648",
     "SWIFT Code": "MKTBTWTP648",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15159,8 +15159,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "985",
     "SWIFT Code": "MKTBTWTP985",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15172,8 +15172,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "806",
     "SWIFT Code": "MKTBTWTP806",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15185,8 +15185,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "505",
     "SWIFT Code": "MKTBTWTP505",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15198,8 +15198,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "569",
     "SWIFT Code": "MKTBTWTP569",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15211,8 +15211,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "338",
     "SWIFT Code": "MKTBTWTP338",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15224,8 +15224,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "958",
     "SWIFT Code": "MKTBTWTP958",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15237,8 +15237,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "356",
     "SWIFT Code": "MKTBTWTP356",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15250,8 +15250,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "383",
     "SWIFT Code": "MKTBTWTP383",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15263,8 +15263,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "426",
     "SWIFT Code": "MKTBTWTP426",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15276,8 +15276,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "930",
     "SWIFT Code": "MKTBTWTP930",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15289,8 +15289,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "106",
     "SWIFT Code": "MKTBTWTP106",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15302,8 +15302,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "921",
     "SWIFT Code": "MKTBTWTP921",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15315,8 +15315,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "912",
     "SWIFT Code": "MKTBTWTP912",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15328,8 +15328,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "347",
     "SWIFT Code": "MKTBTWTP347",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15341,8 +15341,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "833",
     "SWIFT Code": "MKTBTWTP833",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15354,8 +15354,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "417",
     "SWIFT Code": "MKTBTWTP417",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15367,8 +15367,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "657",
     "SWIFT Code": "MKTBTWTP657",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15380,8 +15380,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "MKTBTWTP",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15393,8 +15393,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "499",
     "SWIFT Code": "MKTBTWTP499",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15406,8 +15406,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "611",
     "SWIFT Code": "MKTBTWTP611",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15419,8 +15419,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "842",
     "SWIFT Code": "MKTBTWTP842",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15432,8 +15432,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "TW",
+    "bankCode": "MKTB",
+    "countryCode": "TW",
     "branchCode": "116",
     "SWIFT Code": "MKTBTWTP116",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD.",
@@ -15445,8 +15445,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "019",
     "SWIFT Code": "LBOTTWTP019",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15458,8 +15458,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "LBOTTWTP069",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15471,8 +15471,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "097",
     "SWIFT Code": "LBOTTWTP097",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15484,8 +15484,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "059",
     "SWIFT Code": "LBOTTWTP059",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15497,8 +15497,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "048",
     "SWIFT Code": "LBOTTWTP048",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15510,8 +15510,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "LBOTTWTP038",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15523,8 +15523,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "153",
     "SWIFT Code": "LBOTTWTP153",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15536,8 +15536,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "051",
     "SWIFT Code": "LBOTTWTP051",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15549,8 +15549,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "054",
     "SWIFT Code": "LBOTTWTP054",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15562,8 +15562,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "LBOTTWTP034",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15575,8 +15575,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "033",
     "SWIFT Code": "LBOTTWTP033",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15588,8 +15588,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "078",
     "SWIFT Code": "LBOTTWTP078",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15601,8 +15601,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "LBOTTWTP070",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15614,8 +15614,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "LBOTTWTP035",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15627,8 +15627,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "149",
     "SWIFT Code": "LBOTTWTP149",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15640,8 +15640,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "105",
     "SWIFT Code": "LBOTTWTP105",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15653,8 +15653,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "166",
     "SWIFT Code": "LBOTTWTP166",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15666,8 +15666,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "065",
     "SWIFT Code": "LBOTTWTP065",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15679,8 +15679,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "067",
     "SWIFT Code": "LBOTTWTP067",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15692,8 +15692,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "071",
     "SWIFT Code": "LBOTTWTP071",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15705,8 +15705,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "117",
     "SWIFT Code": "LBOTTWTP117",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15718,8 +15718,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "130",
     "SWIFT Code": "LBOTTWTP130",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15731,8 +15731,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "073",
     "SWIFT Code": "LBOTTWTP073",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15744,8 +15744,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "LBOTTWTP002",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15757,8 +15757,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "128",
     "SWIFT Code": "LBOTTWTP128",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15770,8 +15770,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "039",
     "SWIFT Code": "LBOTTWTP039",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15783,8 +15783,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "040",
     "SWIFT Code": "LBOTTWTP040",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15796,8 +15796,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "146",
     "SWIFT Code": "LBOTTWTP146",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15809,8 +15809,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "LBOTTWTP020",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15822,8 +15822,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "LBOTTWTP021",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15835,8 +15835,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "084",
     "SWIFT Code": "LBOTTWTP084",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15848,8 +15848,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "LBOTTWTP025",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15861,8 +15861,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "082",
     "SWIFT Code": "LBOTTWTP082",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15874,8 +15874,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "163",
     "SWIFT Code": "LBOTTWTP163",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15887,8 +15887,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "157",
     "SWIFT Code": "LBOTTWTP157",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15900,8 +15900,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "086",
     "SWIFT Code": "LBOTTWTP086",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15913,8 +15913,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "LBOTTWTP061",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15926,8 +15926,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "100",
     "SWIFT Code": "LBOTTWTP100",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15939,8 +15939,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "076",
     "SWIFT Code": "LBOTTWTP076",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15952,8 +15952,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "111",
     "SWIFT Code": "LBOTTWTP111",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15965,8 +15965,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "050",
     "SWIFT Code": "LBOTTWTP050",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15978,8 +15978,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "112",
     "SWIFT Code": "LBOTTWTP112",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -15991,8 +15991,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "098",
     "SWIFT Code": "LBOTTWTP098",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16004,8 +16004,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "087",
     "SWIFT Code": "LBOTTWTP087",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16017,8 +16017,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "134",
     "SWIFT Code": "LBOTTWTP134",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16030,8 +16030,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "081",
     "SWIFT Code": "LBOTTWTP081",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16043,8 +16043,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "095",
     "SWIFT Code": "LBOTTWTP095",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16056,8 +16056,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "148",
     "SWIFT Code": "LBOTTWTP148",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16069,8 +16069,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "049",
     "SWIFT Code": "LBOTTWTP049",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16082,8 +16082,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "046",
     "SWIFT Code": "LBOTTWTP046",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -16095,8 +16095,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "138",
     "SWIFT Code": "HNBKTWTP138",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16108,8 +16108,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "158",
     "SWIFT Code": "HNBKTWTP158",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16121,8 +16121,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "183",
     "SWIFT Code": "HNBKTWTP183",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16134,8 +16134,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "110",
     "SWIFT Code": "HNBKTWTP110",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16147,8 +16147,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "169",
     "SWIFT Code": "HNBKTWTP169",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16160,8 +16160,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "143",
     "SWIFT Code": "HNBKTWTP143",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16173,8 +16173,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "112",
     "SWIFT Code": "HNBKTWTP112",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16186,8 +16186,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "117",
     "SWIFT Code": "HNBKTWTP117",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16199,8 +16199,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "190",
     "SWIFT Code": "HNBKTWTP190",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16212,8 +16212,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "HNBKTWTP070",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16225,8 +16225,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "160",
     "SWIFT Code": "HNBKTWTP160",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16238,8 +16238,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "187",
     "SWIFT Code": "HNBKTWTP187",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16251,8 +16251,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "162",
     "SWIFT Code": "HNBKTWTP162",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16264,8 +16264,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "137",
     "SWIFT Code": "HNBKTWTP137",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16277,8 +16277,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "151",
     "SWIFT Code": "HNBKTWTP151",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16290,8 +16290,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "170",
     "SWIFT Code": "HNBKTWTP170",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16303,8 +16303,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "156",
     "SWIFT Code": "HNBKTWTP156",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16316,8 +16316,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "152",
     "SWIFT Code": "HNBKTWTP152",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16329,8 +16329,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "123",
     "SWIFT Code": "HNBKTWTP123",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16342,8 +16342,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "122",
     "SWIFT Code": "HNBKTWTP122",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16355,8 +16355,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "191",
     "SWIFT Code": "HNBKTWTP191",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16368,8 +16368,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "119",
     "SWIFT Code": "HNBKTWTP119",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16381,8 +16381,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "115",
     "SWIFT Code": "HNBKTWTP115",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16394,8 +16394,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "193",
     "SWIFT Code": "HNBKTWTP193",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16407,8 +16407,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "154",
     "SWIFT Code": "HNBKTWTP154",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16420,8 +16420,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "177",
     "SWIFT Code": "HNBKTWTP177",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16433,8 +16433,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "104",
     "SWIFT Code": "HNBKTWTP104",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16446,8 +16446,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "114",
     "SWIFT Code": "HNBKTWTP114",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16459,8 +16459,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "189",
     "SWIFT Code": "HNBKTWTP189",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16472,8 +16472,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "HNBKTWTP069",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16485,8 +16485,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "133",
     "SWIFT Code": "HNBKTWTP133",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16498,8 +16498,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "124",
     "SWIFT Code": "HNBKTWTP124",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16511,8 +16511,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "130",
     "SWIFT Code": "HNBKTWTP130",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16524,8 +16524,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "157",
     "SWIFT Code": "HNBKTWTP157",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16537,8 +16537,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "195",
     "SWIFT Code": "HNBKTWTP195",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16550,8 +16550,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "176",
     "SWIFT Code": "HNBKTWTP176",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16563,8 +16563,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "168",
     "SWIFT Code": "HNBKTWTP168",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16576,8 +16576,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "129",
     "SWIFT Code": "HNBKTWTP129",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16589,8 +16589,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "107",
     "SWIFT Code": "HNBKTWTP107",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16602,8 +16602,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "164",
     "SWIFT Code": "HNBKTWTP164",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16615,8 +16615,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "148",
     "SWIFT Code": "HNBKTWTP148",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16628,8 +16628,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "830",
     "SWIFT Code": "HNBKTWTP830",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16641,8 +16641,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "250",
     "SWIFT Code": "HNBKTWTP250",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16654,8 +16654,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "262",
     "SWIFT Code": "HNBKTWTP262",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16667,8 +16667,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "260",
     "SWIFT Code": "HNBKTWTP260",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16680,8 +16680,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "248",
     "SWIFT Code": "HNBKTWTP248",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16693,8 +16693,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "243",
     "SWIFT Code": "HNBKTWTP243",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16706,8 +16706,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "252",
     "SWIFT Code": "HNBKTWTP252",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16719,8 +16719,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "249",
     "SWIFT Code": "HNBKTWTP249",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16732,8 +16732,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "245",
     "SWIFT Code": "HNBKTWTP245",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -16745,8 +16745,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBT",
-    "bankCode": "TW",
+    "bankCode": "AGBT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "AGBTTWTP",
     "Bank Name": "AGRICULTURAL BANK OF TAIWAN",
@@ -16758,8 +16758,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "TW",
+    "bankCode": "AIAC",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "AIACTWTP",
     "Bank Name": "AIA INTERNATIONAL LIMITED TAIWAN BRANCH",
@@ -16771,8 +16771,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGIW",
-    "bankCode": "TW",
+    "bankCode": "AGIW",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "AGIWTWT2",
     "Bank Name": "ALLIANZ GLOBAL INVESTORS TAIWAN LIMITED",
@@ -16784,8 +16784,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "TW",
+    "bankCode": "ANZB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "ANZBTWTP",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED, TAIPEI BRANCH",
@@ -16797,8 +16797,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "TW",
+    "bankCode": "BBVA",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BBVATWTP",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A",
@@ -16810,8 +16810,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "TW",
+    "bankCode": "BKKB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BKKBTWTP",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED TAIPEI BRANCH",
@@ -16823,8 +16823,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "TW",
+    "bankCode": "BKKB",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "BKKBTWTPOBU",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED TAIPEI BRANCH",
@@ -16836,8 +16836,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "TW",
+    "bankCode": "BOFA",
+    "countryCode": "TW",
     "branchCode": "GRA",
     "SWIFT Code": "BOFATW2XGRA",
     "Bank Name": "BANK OF AMERICA, N.A. TAIPEI",
@@ -16849,8 +16849,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "TW",
+    "bankCode": "BOFA",
+    "countryCode": "TW",
     "branchCode": "W2X",
     "SWIFT Code": "BOFATW2X",
     "Bank Name": "BANK OF AMERICA, N.A. TAIPEI",
@@ -16862,8 +16862,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "TW",
+    "bankCode": "BOFA",
+    "countryCode": "TW",
     "branchCode": "TOB",
     "SWIFT Code": "BOFATW2XTOB",
     "Bank Name": "BANK OF AMERICA, N.A. TAIPEI",
@@ -16875,8 +16875,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "TW",
+    "bankCode": "BKCH",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BKCHTWTP",
     "Bank Name": "BANK OF CHINA LIMITED TAIPEI BRANCH",
@@ -16888,8 +16888,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "TW",
+    "bankCode": "BKCH",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "BKCHTWTPOBU",
     "Bank Name": "BANK OF CHINA LIMITED TAIPEI BRANCH",
@@ -16901,8 +16901,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "TW",
+    "bankCode": "BKCH",
+    "countryCode": "TW",
     "branchCode": "888",
     "SWIFT Code": "BKCHTWTP888",
     "Bank Name": "BANK OF CHINA LIMITED TAIPEI BRANCH",
@@ -16914,8 +16914,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "TW",
+    "bankCode": "COMM",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "COMMTWTP",
     "Bank Name": "BANK OF COMMUNICATIONS, TAIPEI BRANCH",
@@ -16927,8 +16927,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "234",
     "SWIFT Code": "BKAOTWTK234",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -16940,8 +16940,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "101",
     "SWIFT Code": "BKAOTWTK101",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -16953,8 +16953,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "BKAOTWTK068",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -16966,8 +16966,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "WTK",
     "SWIFT Code": "BKAOTWTK",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -16979,8 +16979,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "210",
     "SWIFT Code": "BKAOTWTK210",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -16992,8 +16992,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "BKAOTWTKOBU",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17005,8 +17005,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "218",
     "SWIFT Code": "BKAOTWTK218",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17018,8 +17018,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "224",
     "SWIFT Code": "BKAOTWTK224",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17031,8 +17031,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "237",
     "SWIFT Code": "BKAOTWTK237",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17044,8 +17044,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "229",
     "SWIFT Code": "BKAOTWTK229",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17057,8 +17057,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "225",
     "SWIFT Code": "BKAOTWTK225",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17070,8 +17070,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "245",
     "SWIFT Code": "BKAOTWTK245",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17083,8 +17083,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "228",
     "SWIFT Code": "BKAOTWTK228",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17096,8 +17096,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "238",
     "SWIFT Code": "BKAOTWTK238",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17109,8 +17109,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "212",
     "SWIFT Code": "BKAOTWTK212",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17122,8 +17122,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "211",
     "SWIFT Code": "BKAOTWTK211",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17135,8 +17135,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAO",
-    "bankCode": "TW",
+    "bankCode": "BKAO",
+    "countryCode": "TW",
     "branchCode": "222",
     "SWIFT Code": "BKAOTWTK222",
     "Bank Name": "BANK OF KAOHSIUNG",
@@ -17148,8 +17148,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBBK",
-    "bankCode": "TW",
+    "bankCode": "BBBK",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BBBKTWTP",
     "Bank Name": "BANK OF PANHSIN",
@@ -17161,8 +17161,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBBK",
-    "bankCode": "TW",
+    "bankCode": "BBBK",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "BBBKTWTP035",
     "Bank Name": "BANK OF PANHSIN",
@@ -17174,8 +17174,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "016",
     "SWIFT Code": "BKTWTWTP016",
     "Bank Name": "BANK OF TAIWAN",
@@ -17187,8 +17187,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "143",
     "SWIFT Code": "BKTWTWTP143",
     "Bank Name": "BANK OF TAIWAN",
@@ -17200,8 +17200,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "154",
     "SWIFT Code": "BKTWTWTP154",
     "Bank Name": "BANK OF TAIWAN",
@@ -17213,8 +17213,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "014",
     "SWIFT Code": "BKTWTWTP014",
     "Bank Name": "BANK OF TAIWAN",
@@ -17226,8 +17226,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "252",
     "SWIFT Code": "BKTWTWTP252",
     "Bank Name": "BANK OF TAIWAN",
@@ -17239,8 +17239,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "067",
     "SWIFT Code": "BKTWTWTP067",
     "Bank Name": "BANK OF TAIWAN",
@@ -17252,8 +17252,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "147",
     "SWIFT Code": "BKTWTWTP147",
     "Bank Name": "BANK OF TAIWAN",
@@ -17265,8 +17265,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "031",
     "SWIFT Code": "BKTWTWTP031",
     "Bank Name": "BANK OF TAIWAN",
@@ -17278,8 +17278,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "015",
     "SWIFT Code": "BKTWTWTP015",
     "Bank Name": "BANK OF TAIWAN",
@@ -17291,8 +17291,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "BKTWTWTP068",
     "Bank Name": "BANK OF TAIWAN",
@@ -17304,8 +17304,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "248",
     "SWIFT Code": "BKTWTWTP248",
     "Bank Name": "BANK OF TAIWAN",
@@ -17317,8 +17317,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "164",
     "SWIFT Code": "BKTWTWTP164",
     "Bank Name": "BANK OF TAIWAN",
@@ -17330,8 +17330,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "073",
     "SWIFT Code": "BKTWTWTP073",
     "Bank Name": "BANK OF TAIWAN",
@@ -17343,8 +17343,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "BKTWTWTP018",
     "Bank Name": "BANK OF TAIWAN",
@@ -17356,8 +17356,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "257",
     "SWIFT Code": "BKTWTWTP257",
     "Bank Name": "BANK OF TAIWAN",
@@ -17369,8 +17369,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "119",
     "SWIFT Code": "BKTWTWTP119",
     "Bank Name": "BANK OF TAIWAN",
@@ -17382,8 +17382,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "256",
     "SWIFT Code": "BKTWTWTP256",
     "Bank Name": "BANK OF TAIWAN",
@@ -17395,8 +17395,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "152",
     "SWIFT Code": "MBBTTWTP152",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17408,8 +17408,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "151",
     "SWIFT Code": "MBBTTWTP151",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17421,8 +17421,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "148",
     "SWIFT Code": "MBBTTWTP148",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17434,8 +17434,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "121",
     "SWIFT Code": "MBBTTWTP121",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17447,8 +17447,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "153",
     "SWIFT Code": "MBBTTWTP153",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17460,8 +17460,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "MBBTTWTP024",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17473,8 +17473,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "MBBTTWTP007",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17486,8 +17486,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "460",
     "SWIFT Code": "MBBTTWTP460",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17499,8 +17499,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "500",
     "SWIFT Code": "MBBTTWTP500",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17512,8 +17512,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "491",
     "SWIFT Code": "MBBTTWTP491",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17525,8 +17525,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "501",
     "SWIFT Code": "MBBTTWTP501",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17538,8 +17538,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "482",
     "SWIFT Code": "MBBTTWTP482",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17551,8 +17551,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "MBBTTWTP006",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17564,8 +17564,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "480",
     "SWIFT Code": "MBBTTWTP480",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17577,8 +17577,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "MBBTTWTP011",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17590,8 +17590,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "470",
     "SWIFT Code": "MBBTTWTP470",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17603,8 +17603,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "490",
     "SWIFT Code": "MBBTTWTP490",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17616,8 +17616,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "521",
     "SWIFT Code": "MBBTTWTP521",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17629,8 +17629,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "483",
     "SWIFT Code": "MBBTTWTP483",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17642,8 +17642,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "730",
     "SWIFT Code": "MBBTTWTP730",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17655,8 +17655,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "720",
     "SWIFT Code": "MBBTTWTP720",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17668,8 +17668,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "721",
     "SWIFT Code": "MBBTTWTP721",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17681,8 +17681,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "690",
     "SWIFT Code": "MBBTTWTP690",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17694,8 +17694,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "711",
     "SWIFT Code": "MBBTTWTP711",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17707,8 +17707,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "691",
     "SWIFT Code": "MBBTTWTP691",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17720,8 +17720,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "702",
     "SWIFT Code": "MBBTTWTP702",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17733,8 +17733,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "701",
     "SWIFT Code": "MBBTTWTP701",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17746,8 +17746,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "710",
     "SWIFT Code": "MBBTTWTP710",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17759,8 +17759,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "700",
     "SWIFT Code": "MBBTTWTP700",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17772,8 +17772,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "703",
     "SWIFT Code": "MBBTTWTP703",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17785,8 +17785,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "MBBTTWTP",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17798,8 +17798,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "MBBTTWTP010",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17811,8 +17811,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "MBBTTWTP001",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17824,8 +17824,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "022",
     "SWIFT Code": "MBBTTWTP022",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17837,8 +17837,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "081",
     "SWIFT Code": "MBBTTWTP081",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17850,8 +17850,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "100",
     "SWIFT Code": "MBBTTWTP100",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17863,8 +17863,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "080",
     "SWIFT Code": "MBBTTWTP080",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17876,8 +17876,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "111",
     "SWIFT Code": "MBBTTWTP111",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17889,8 +17889,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "101",
     "SWIFT Code": "MBBTTWTP101",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17902,8 +17902,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "MBBTTWTP070",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17915,8 +17915,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "144",
     "SWIFT Code": "MBBTTWTP144",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17928,8 +17928,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "MBBTTWTP025",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17941,8 +17941,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "MBBTTWTP020",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17954,8 +17954,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "131",
     "SWIFT Code": "MBBTTWTP131",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17967,8 +17967,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "082",
     "SWIFT Code": "MBBTTWTP082",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17980,8 +17980,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "105",
     "SWIFT Code": "MBBTTWTP105",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -17993,8 +17993,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "090",
     "SWIFT Code": "MBBTTWTP090",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -18006,8 +18006,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "893",
     "SWIFT Code": "MBBTTWTP893",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -18019,8 +18019,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "140",
     "SWIFT Code": "MBBTTWTP140",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -18032,8 +18032,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "TW",
+    "bankCode": "MBBT",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "MBBTTWTP035",
     "Bank Name": "TAIWAN BUSINESS BANK",
@@ -18045,8 +18045,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "711",
     "SWIFT Code": "HNBKTWTP711",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18058,8 +18058,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "710",
     "SWIFT Code": "HNBKTWTP710",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18071,8 +18071,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "705",
     "SWIFT Code": "HNBKTWTP705",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18084,8 +18084,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "722",
     "SWIFT Code": "HNBKTWTP722",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18097,8 +18097,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "701",
     "SWIFT Code": "HNBKTWTP701",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18110,8 +18110,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "708",
     "SWIFT Code": "HNBKTWTP708",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18123,8 +18123,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "752",
     "SWIFT Code": "HNBKTWTP752",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18136,8 +18136,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "760",
     "SWIFT Code": "HNBKTWTP760",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18149,8 +18149,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "712",
     "SWIFT Code": "HNBKTWTP712",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18162,8 +18162,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "200",
     "SWIFT Code": "HNBKTWTP200",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18175,8 +18175,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "201",
     "SWIFT Code": "HNBKTWTP201",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18188,8 +18188,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "211",
     "SWIFT Code": "HNBKTWTP211",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18201,8 +18201,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "320",
     "SWIFT Code": "HNBKTWTP320",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18214,8 +18214,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "322",
     "SWIFT Code": "HNBKTWTP322",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18227,8 +18227,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "321",
     "SWIFT Code": "HNBKTWTP321",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18240,8 +18240,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "500",
     "SWIFT Code": "HNBKTWTP500",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18253,8 +18253,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "501",
     "SWIFT Code": "HNBKTWTP501",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18266,8 +18266,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "182",
     "SWIFT Code": "HNBKTWTP182",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18279,8 +18279,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "173",
     "SWIFT Code": "HNBKTWTP173",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18292,8 +18292,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "185",
     "SWIFT Code": "HNBKTWTP185",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18305,8 +18305,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "171",
     "SWIFT Code": "HNBKTWTP171",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18318,8 +18318,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "197",
     "SWIFT Code": "HNBKTWTP197",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18331,8 +18331,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "175",
     "SWIFT Code": "HNBKTWTP175",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18344,8 +18344,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "184",
     "SWIFT Code": "HNBKTWTP184",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18357,8 +18357,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "198",
     "SWIFT Code": "HNBKTWTP198",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18370,8 +18370,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "194",
     "SWIFT Code": "HNBKTWTP194",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18383,8 +18383,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "161",
     "SWIFT Code": "HNBKTWTP161",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18396,8 +18396,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "172",
     "SWIFT Code": "HNBKTWTP172",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18409,8 +18409,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "186",
     "SWIFT Code": "HNBKTWTP186",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18422,8 +18422,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "196",
     "SWIFT Code": "HNBKTWTP196",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18435,8 +18435,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "802",
     "SWIFT Code": "HNBKTWTP802",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18448,8 +18448,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "813",
     "SWIFT Code": "HNBKTWTP813",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18461,8 +18461,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "801",
     "SWIFT Code": "HNBKTWTP801",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18474,8 +18474,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "800",
     "SWIFT Code": "HNBKTWTP800",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18487,8 +18487,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "402",
     "SWIFT Code": "HNBKTWTP402",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18500,8 +18500,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "425",
     "SWIFT Code": "HNBKTWTP425",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18513,8 +18513,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "400",
     "SWIFT Code": "HNBKTWTP400",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18526,8 +18526,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "422",
     "SWIFT Code": "HNBKTWTP422",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18539,8 +18539,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "423",
     "SWIFT Code": "HNBKTWTP423",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18552,8 +18552,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "451",
     "SWIFT Code": "HNBKTWTP451",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18565,8 +18565,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "403",
     "SWIFT Code": "HNBKTWTP403",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18578,8 +18578,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "426",
     "SWIFT Code": "HNBKTWTP426",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18591,8 +18591,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "429",
     "SWIFT Code": "HNBKTWTP429",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18604,8 +18604,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "420",
     "SWIFT Code": "HNBKTWTP420",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18617,8 +18617,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "424",
     "SWIFT Code": "HNBKTWTP424",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18630,8 +18630,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "430",
     "SWIFT Code": "HNBKTWTP430",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18643,8 +18643,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "401",
     "SWIFT Code": "HNBKTWTP401",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18656,8 +18656,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "427",
     "SWIFT Code": "HNBKTWTP427",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18669,8 +18669,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "431",
     "SWIFT Code": "HNBKTWTP431",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18682,8 +18682,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "646",
     "SWIFT Code": "HNBKTWTP646",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -18695,8 +18695,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "406",
     "SWIFT Code": "CTCBTWTP406",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18708,8 +18708,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "CTCBTWTP004",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18721,8 +18721,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "211",
     "SWIFT Code": "CTCBTWTP211",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18734,8 +18734,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "668",
     "SWIFT Code": "CTCBTWTP668",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18747,8 +18747,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "300",
     "SWIFT Code": "CTCBTWTP300",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18760,8 +18760,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "290",
     "SWIFT Code": "CTCBTWTP290",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18773,8 +18773,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "241",
     "SWIFT Code": "CTCBTWTP241",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18786,8 +18786,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "521",
     "SWIFT Code": "CTCBTWTP521",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18799,8 +18799,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "126",
     "SWIFT Code": "CTCBTWTP126",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18812,8 +18812,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "647",
     "SWIFT Code": "CTCBTWTP647",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18825,8 +18825,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "CTCBTWTP012",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18838,8 +18838,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "CTCBTWTP023",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18851,8 +18851,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "175",
     "SWIFT Code": "CTCBTWTP175",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18864,8 +18864,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "510",
     "SWIFT Code": "CTCBTWTP510",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18877,8 +18877,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "131",
     "SWIFT Code": "CTCBTWTP131",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18890,8 +18890,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "864",
     "SWIFT Code": "CTCBTWTP864",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18903,8 +18903,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "853",
     "SWIFT Code": "CTCBTWTP853",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18916,8 +18916,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "277",
     "SWIFT Code": "CTCBTWTP277",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18929,8 +18929,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "204",
     "SWIFT Code": "CTCBTWTP204",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18942,8 +18942,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "727",
     "SWIFT Code": "CTCBTWTP727",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18955,8 +18955,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "325",
     "SWIFT Code": "CTCBTWTP325",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18968,8 +18968,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "129",
     "SWIFT Code": "CTCBTWTP129",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18981,8 +18981,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "TW",
+    "bankCode": "CTCB",
+    "countryCode": "TW",
     "branchCode": "598",
     "SWIFT Code": "CTCBTWTP598",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -18994,8 +18994,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTSU",
-    "bankCode": "TW",
+    "bankCode": "CTSU",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "CTSUTWT2",
     "Bank Name": "CTBC SECURITIES CO., LTD.",
@@ -19007,8 +19007,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "TW",
+    "bankCode": "DBSS",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "DBSSTWTP",
     "Bank Name": "DBS BANK (TAIWAN) LTD",
@@ -19020,8 +19020,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "TW",
+    "bankCode": "DBSS",
+    "countryCode": "TW",
     "branchCode": "IBD",
     "SWIFT Code": "DBSSTWTPIBD",
     "Bank Name": "DBS BANK (TAIWAN) LTD",
@@ -19033,8 +19033,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "TW",
+    "bankCode": "DBSS",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "DBSSTWTX",
     "Bank Name": "DBS BANK LTD, TAIPEI BRANCH",
@@ -19046,8 +19046,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "TW",
+    "bankCode": "DBSS",
+    "countryCode": "TW",
     "branchCode": "IBD",
     "SWIFT Code": "DBSSTWTXIBD",
     "Bank Name": "DBS BANK LTD, TAIPEI BRANCH",
@@ -19059,8 +19059,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TW",
+    "bankCode": "DEUT",
+    "countryCode": "TW",
     "branchCode": "GMO",
     "SWIFT Code": "DEUTTWTPGMO",
     "Bank Name": "DEUTSCHE BANK AG, TAIPEI BRANCH",
@@ -19072,8 +19072,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TW",
+    "bankCode": "DEUT",
+    "countryCode": "TW",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTTWTPCUS",
     "Bank Name": "DEUTSCHE BANK AG, TAIPEI BRANCH",
@@ -19085,8 +19085,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TW",
+    "bankCode": "DEUT",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "DEUTTWTP",
     "Bank Name": "DEUTSCHE BANK AG, TAIPEI BRANCH",
@@ -19098,8 +19098,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "TW",
+    "bankCode": "ESUN",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "ESUNTWTP",
     "Bank Name": "E. SUN COMMERCIAL BANK LTD.",
@@ -19111,8 +19111,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "TW",
+    "bankCode": "ESUN",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "ESUNTWTPOBU",
     "Bank Name": "E. SUN COMMERCIAL BANK LTD.",
@@ -19124,8 +19124,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSO",
-    "bankCode": "TW",
+    "bankCode": "ESSO",
+    "countryCode": "TW",
     "branchCode": "WT2",
     "SWIFT Code": "ESSOTWT2",
     "Bank Name": "E.SUN SECURITIES CO.,LTD",
@@ -19137,8 +19137,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSO",
-    "bankCode": "TW",
+    "bankCode": "ESSO",
+    "countryCode": "TW",
     "branchCode": "WTA",
     "SWIFT Code": "ESSOTWTA",
     "Bank Name": "E.SUN SECURITIES CO.,LTD",
@@ -19150,8 +19150,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESVT",
-    "bankCode": "TW",
+    "bankCode": "ESVT",
+    "countryCode": "TW",
     "branchCode": "WTA",
     "SWIFT Code": "ESVTTWTA",
     "Bank Name": "EASTSPRING SECURITIES INVESTMENT TRUST CO. LTD.",
@@ -19163,8 +19163,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENTI",
-    "bankCode": "TW",
+    "bankCode": "ENTI",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "ENTITWTP",
     "Bank Name": "ENTIE COMMERCIAL BANK",
@@ -19176,8 +19176,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "FEINTWTP010",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19189,8 +19189,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "023",
     "SWIFT Code": "FEINTWTP023",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19202,8 +19202,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "FEINTWTP011",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19215,8 +19215,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "FEINTWTP007",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19228,8 +19228,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "005",
     "SWIFT Code": "FEINTWTP005",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19241,8 +19241,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "FEINTWTP",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19254,8 +19254,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "FEINTWTP001",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19267,8 +19267,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "OBU",
     "SWIFT Code": "FEINTWTPOBU",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19280,8 +19280,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "FEINTWTP027",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19293,8 +19293,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "006",
     "SWIFT Code": "FEINTWTP006",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19306,8 +19306,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "002",
     "SWIFT Code": "FEINTWTP002",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19319,8 +19319,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "FEINTWTP004",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19332,8 +19332,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "TW",
+    "bankCode": "FEIN",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "FEINTWTP012",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK",
@@ -19345,8 +19345,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "251",
     "SWIFT Code": "HNBKTWTP251",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19358,8 +19358,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "247",
     "SWIFT Code": "HNBKTWTP247",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19371,8 +19371,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "244",
     "SWIFT Code": "HNBKTWTP244",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19384,8 +19384,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "246",
     "SWIFT Code": "HNBKTWTP246",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19397,8 +19397,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "240",
     "SWIFT Code": "HNBKTWTP240",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19410,8 +19410,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "242",
     "SWIFT Code": "HNBKTWTP242",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19423,8 +19423,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "220",
     "SWIFT Code": "HNBKTWTP220",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19436,8 +19436,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "221",
     "SWIFT Code": "HNBKTWTP221",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19449,8 +19449,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "TW",
+    "bankCode": "HNBK",
+    "countryCode": "TW",
     "branchCode": "241",
     "SWIFT Code": "HNBKTWTP241",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -19462,8 +19462,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HTBK",
-    "bankCode": "TW",
+    "bankCode": "HTBK",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "HTBKTWTP",
     "Bank Name": "HWATAI BANK",
@@ -19475,8 +19475,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TW",
+    "bankCode": "INGB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "INGBTWTP",
     "Bank Name": "ING BANK N.V.",
@@ -19488,8 +19488,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBFO",
-    "bankCode": "TW",
+    "bankCode": "IBFO",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "IBFOTWTP",
     "Bank Name": "INTERNATIONAL BILLS FINANCE CORPORATION",
@@ -19501,8 +19501,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TW",
+    "bankCode": "CHAS",
+    "countryCode": "TW",
     "branchCode": "WTX",
     "SWIFT Code": "CHASTWTX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TAIPEI BRANCH",
@@ -19514,8 +19514,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TW",
+    "bankCode": "CHAS",
+    "countryCode": "TW",
     "branchCode": "STL",
     "SWIFT Code": "CHASTWTXSTL",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TAIPEI BRANCH",
@@ -19527,8 +19527,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TW",
+    "bankCode": "CHAS",
+    "countryCode": "TW",
     "branchCode": "MTS",
     "SWIFT Code": "CHASTWTXMTS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TAIPEI BRANCH",
@@ -19540,8 +19540,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TW",
+    "bankCode": "CHAS",
+    "countryCode": "TW",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASTWTXENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TAIPEI BRANCH",
@@ -19553,8 +19553,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TW",
+    "bankCode": "CHAS",
+    "countryCode": "TW",
     "branchCode": "TSD",
     "SWIFT Code": "CHASTWTXTSD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TAIPEI BRANCH",
@@ -19566,8 +19566,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "TW",
+    "bankCode": "KOEX",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "KOEXTWTP",
     "Bank Name": "KEB HANA BANK TAIPEI BRANCH",
@@ -19579,8 +19579,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDIB",
-    "bankCode": "TW",
+    "bankCode": "CDIB",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "CDIBTWTP",
     "Bank Name": "KGI BANK CO., LTD.",
@@ -19592,8 +19592,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGIS",
-    "bankCode": "TW",
+    "bankCode": "KGIS",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "KGISTWTP",
     "Bank Name": "KGI SECURITIES CO. LTD.",
@@ -19605,8 +19605,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGIS",
-    "bankCode": "TW",
+    "bankCode": "KGIS",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "KGISTWTP003",
     "Bank Name": "KGI SECURITIES CO. LTD.",
@@ -19618,8 +19618,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGIS",
-    "bankCode": "TW",
+    "bankCode": "KGIS",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "KGISTWTP068",
     "Bank Name": "KGI SECURITIES CO. LTD.",
@@ -19631,8 +19631,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "004",
     "SWIFT Code": "TNBBTWTN004",
     "Bank Name": "KING'S TOWN BANK",
@@ -19644,8 +19644,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "TNBBTWTN007",
     "Bank Name": "KING'S TOWN BANK",
@@ -19657,8 +19657,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "077",
     "SWIFT Code": "TNBBTWTN077",
     "Bank Name": "KING'S TOWN BANK",
@@ -19670,8 +19670,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "069",
     "SWIFT Code": "TNBBTWTN069",
     "Bank Name": "KING'S TOWN BANK",
@@ -19683,8 +19683,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "070",
     "SWIFT Code": "TNBBTWTN070",
     "Bank Name": "KING'S TOWN BANK",
@@ -19696,8 +19696,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "WTN",
     "SWIFT Code": "TNBBTWTN",
     "Bank Name": "KING'S TOWN BANK",
@@ -19709,8 +19709,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "001",
     "SWIFT Code": "TNBBTWTN001",
     "Bank Name": "KING'S TOWN BANK",
@@ -19722,8 +19722,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "029",
     "SWIFT Code": "TNBBTWTN029",
     "Bank Name": "KING'S TOWN BANK",
@@ -19735,8 +19735,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "068",
     "SWIFT Code": "TNBBTWTN068",
     "Bank Name": "KING'S TOWN BANK",
@@ -19748,8 +19748,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "083",
     "SWIFT Code": "TNBBTWTN083",
     "Bank Name": "KING'S TOWN BANK",
@@ -19761,8 +19761,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBB",
-    "bankCode": "TW",
+    "bankCode": "TNBB",
+    "countryCode": "TW",
     "branchCode": "053",
     "SWIFT Code": "TNBBTWTN053",
     "Bank Name": "KING'S TOWN BANK",
@@ -19774,8 +19774,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "047",
     "SWIFT Code": "LBOTTWTP047",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19787,8 +19787,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "142",
     "SWIFT Code": "LBOTTWTP142",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19800,8 +19800,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "026",
     "SWIFT Code": "LBOTTWTP026",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19813,8 +19813,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "110",
     "SWIFT Code": "LBOTTWTP110",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19826,8 +19826,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "029",
     "SWIFT Code": "LBOTTWTP029",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19839,8 +19839,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "066",
     "SWIFT Code": "LBOTTWTP066",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19852,8 +19852,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "056",
     "SWIFT Code": "LBOTTWTP056",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19865,8 +19865,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "LBOTTWTP028",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19878,8 +19878,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "LBOTTWTP027",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19891,8 +19891,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "108",
     "SWIFT Code": "LBOTTWTP108",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19904,8 +19904,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "017",
     "SWIFT Code": "LBOTTWTP017",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19917,8 +19917,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "016",
     "SWIFT Code": "LBOTTWTP016",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19930,8 +19930,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "118",
     "SWIFT Code": "LBOTTWTP118",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19943,8 +19943,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "052",
     "SWIFT Code": "LBOTTWTP052",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19956,8 +19956,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "156",
     "SWIFT Code": "LBOTTWTP156",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19969,8 +19969,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "103",
     "SWIFT Code": "LBOTTWTP103",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19982,8 +19982,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "TW",
+    "bankCode": "LBOT",
+    "countryCode": "TW",
     "branchCode": "018",
     "SWIFT Code": "LBOTTWTP018",
     "Bank Name": "LAND BANK OF TAIWAN",
@@ -19995,8 +19995,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "109",
     "SWIFT Code": "BKTWTWTP109",
     "Bank Name": "BANK OF TAIWAN",
@@ -20008,8 +20008,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "136",
     "SWIFT Code": "BKTWTWTP136",
     "Bank Name": "BANK OF TAIWAN",
@@ -20021,8 +20021,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "072",
     "SWIFT Code": "BKTWTWTP072",
     "Bank Name": "BANK OF TAIWAN",
@@ -20034,8 +20034,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "010",
     "SWIFT Code": "BKTWTWTP010",
     "Bank Name": "BANK OF TAIWAN",
@@ -20047,8 +20047,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "057",
     "SWIFT Code": "BKTWTWTP057",
     "Bank Name": "BANK OF TAIWAN",
@@ -20060,8 +20060,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "092",
     "SWIFT Code": "BKTWTWTP092",
     "Bank Name": "BANK OF TAIWAN",
@@ -20073,8 +20073,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "289",
     "SWIFT Code": "BKTWTWTP289",
     "Bank Name": "BANK OF TAIWAN",
@@ -20086,8 +20086,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "290",
     "SWIFT Code": "BKTWTWTP290",
     "Bank Name": "BANK OF TAIWAN",
@@ -20099,8 +20099,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "220",
     "SWIFT Code": "BKTWTWTP220",
     "Bank Name": "BANK OF TAIWAN",
@@ -20112,8 +20112,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "170",
     "SWIFT Code": "BKTWTWTP170",
     "Bank Name": "BANK OF TAIWAN",
@@ -20125,8 +20125,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "047",
     "SWIFT Code": "BKTWTWTP047",
     "Bank Name": "BANK OF TAIWAN",
@@ -20138,8 +20138,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "090",
     "SWIFT Code": "BKTWTWTP090",
     "Bank Name": "BANK OF TAIWAN",
@@ -20151,8 +20151,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "157",
     "SWIFT Code": "BKTWTWTP157",
     "Bank Name": "BANK OF TAIWAN",
@@ -20164,8 +20164,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "037",
     "SWIFT Code": "BKTWTWTP037",
     "Bank Name": "BANK OF TAIWAN",
@@ -20177,8 +20177,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "137",
     "SWIFT Code": "BKTWTWTP137",
     "Bank Name": "BANK OF TAIWAN",
@@ -20190,8 +20190,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "040",
     "SWIFT Code": "BKTWTWTP040",
     "Bank Name": "BANK OF TAIWAN",
@@ -20203,8 +20203,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "028",
     "SWIFT Code": "BKTWTWTP028",
     "Bank Name": "BANK OF TAIWAN",
@@ -20216,8 +20216,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "272",
     "SWIFT Code": "BKTWTWTP272",
     "Bank Name": "BANK OF TAIWAN",
@@ -20229,8 +20229,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "253",
     "SWIFT Code": "BKTWTWTP253",
     "Bank Name": "BANK OF TAIWAN",
@@ -20242,8 +20242,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "227",
     "SWIFT Code": "BKTWTWTP227",
     "Bank Name": "BANK OF TAIWAN",
@@ -20255,8 +20255,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "009",
     "SWIFT Code": "BKTWTWTP009",
     "Bank Name": "BANK OF TAIWAN",
@@ -20268,8 +20268,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "230",
     "SWIFT Code": "BKTWTWTP230",
     "Bank Name": "BANK OF TAIWAN",
@@ -20281,8 +20281,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "146",
     "SWIFT Code": "BKTWTWTP146",
     "Bank Name": "BANK OF TAIWAN",
@@ -20294,8 +20294,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "081",
     "SWIFT Code": "BKTWTWTP081",
     "Bank Name": "BANK OF TAIWAN",
@@ -20307,8 +20307,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "WTP",
     "SWIFT Code": "BKTWTWTP",
     "Bank Name": "BANK OF TAIWAN",
@@ -20320,8 +20320,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "243",
     "SWIFT Code": "BKTWTWTP243",
     "Bank Name": "BANK OF TAIWAN",
@@ -20333,8 +20333,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "045",
     "SWIFT Code": "BKTWTWTP045",
     "Bank Name": "BANK OF TAIWAN",
@@ -20346,8 +20346,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "110",
     "SWIFT Code": "BKTWTWTP110",
     "Bank Name": "BANK OF TAIWAN",
@@ -20359,8 +20359,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "020",
     "SWIFT Code": "BKTWTWTP020",
     "Bank Name": "BANK OF TAIWAN",
@@ -20372,8 +20372,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "053",
     "SWIFT Code": "BKTWTWTP053",
     "Bank Name": "BANK OF TAIWAN",
@@ -20385,8 +20385,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "003",
     "SWIFT Code": "BKTWTWTP003",
     "Bank Name": "BANK OF TAIWAN",
@@ -20398,8 +20398,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "076",
     "SWIFT Code": "BKTWTWTP076",
     "Bank Name": "BANK OF TAIWAN",
@@ -20411,8 +20411,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "008",
     "SWIFT Code": "BKTWTWTP008",
     "Bank Name": "BANK OF TAIWAN",
@@ -20424,8 +20424,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "223",
     "SWIFT Code": "BKTWTWTP223",
     "Bank Name": "BANK OF TAIWAN",
@@ -20437,8 +20437,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "CUS",
     "SWIFT Code": "BKTWTWTPCUS",
     "Bank Name": "BANK OF TAIWAN",
@@ -20450,8 +20450,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "007",
     "SWIFT Code": "BKTWTWTP007",
     "Bank Name": "BANK OF TAIWAN",
@@ -20463,8 +20463,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "HDO",
     "SWIFT Code": "BKTWTWTPHDO",
     "Bank Name": "BANK OF TAIWAN",
@@ -20476,8 +20476,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "108",
     "SWIFT Code": "BKTWTWTP108",
     "Bank Name": "BANK OF TAIWAN",
@@ -20489,8 +20489,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "156",
     "SWIFT Code": "BKTWTWTP156",
     "Bank Name": "BANK OF TAIWAN",
@@ -20502,8 +20502,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "075",
     "SWIFT Code": "BKTWTWTP075",
     "Bank Name": "BANK OF TAIWAN",
@@ -20515,8 +20515,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "054",
     "SWIFT Code": "BKTWTWTP054",
     "Bank Name": "BANK OF TAIWAN",
@@ -20528,8 +20528,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "087",
     "SWIFT Code": "BKTWTWTP087",
     "Bank Name": "BANK OF TAIWAN",
@@ -20541,8 +20541,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "122",
     "SWIFT Code": "BKTWTWTP122",
     "Bank Name": "BANK OF TAIWAN",
@@ -20554,8 +20554,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "241",
     "SWIFT Code": "BKTWTWTP241",
     "Bank Name": "BANK OF TAIWAN",
@@ -20567,8 +20567,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "239",
     "SWIFT Code": "BKTWTWTP239",
     "Bank Name": "BANK OF TAIWAN",
@@ -20580,8 +20580,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "034",
     "SWIFT Code": "BKTWTWTP034",
     "Bank Name": "BANK OF TAIWAN",
@@ -20593,8 +20593,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "187",
     "SWIFT Code": "BKTWTWTP187",
     "Bank Name": "BANK OF TAIWAN",
@@ -20606,8 +20606,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "052",
     "SWIFT Code": "BKTWTWTP052",
     "Bank Name": "BANK OF TAIWAN",
@@ -20619,8 +20619,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "080",
     "SWIFT Code": "BKTWTWTP080",
     "Bank Name": "BANK OF TAIWAN",
@@ -20632,8 +20632,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "046",
     "SWIFT Code": "BKTWTWTP046",
     "Bank Name": "BANK OF TAIWAN",
@@ -20645,8 +20645,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "044",
     "SWIFT Code": "BKTWTWTP044",
     "Bank Name": "BANK OF TAIWAN",
@@ -20658,8 +20658,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "120",
     "SWIFT Code": "BKTWTWTP120",
     "Bank Name": "BANK OF TAIWAN",
@@ -20671,8 +20671,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "116",
     "SWIFT Code": "BKTWTWTP116",
     "Bank Name": "BANK OF TAIWAN",
@@ -20684,8 +20684,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "224",
     "SWIFT Code": "BKTWTWTP224",
     "Bank Name": "BANK OF TAIWAN",
@@ -20697,8 +20697,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "159",
     "SWIFT Code": "BKTWTWTP159",
     "Bank Name": "BANK OF TAIWAN",
@@ -20710,8 +20710,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "061",
     "SWIFT Code": "BKTWTWTP061",
     "Bank Name": "BANK OF TAIWAN",
@@ -20723,8 +20723,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "060",
     "SWIFT Code": "BKTWTWTP060",
     "Bank Name": "BANK OF TAIWAN",
@@ -20736,8 +20736,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "191",
     "SWIFT Code": "BKTWTWTP191",
     "Bank Name": "BANK OF TAIWAN",
@@ -20749,8 +20749,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "011",
     "SWIFT Code": "BKTWTWTP011",
     "Bank Name": "BANK OF TAIWAN",
@@ -20762,8 +20762,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "021",
     "SWIFT Code": "BKTWTWTP021",
     "Bank Name": "BANK OF TAIWAN",
@@ -20775,8 +20775,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "221",
     "SWIFT Code": "BKTWTWTP221",
     "Bank Name": "BANK OF TAIWAN",
@@ -20788,8 +20788,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "051",
     "SWIFT Code": "BKTWTWTP051",
     "Bank Name": "BANK OF TAIWAN",
@@ -20801,8 +20801,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "062",
     "SWIFT Code": "BKTWTWTP062",
     "Bank Name": "BANK OF TAIWAN",
@@ -20814,8 +20814,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "091",
     "SWIFT Code": "BKTWTWTP091",
     "Bank Name": "BANK OF TAIWAN",
@@ -20827,8 +20827,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "255",
     "SWIFT Code": "BKTWTWTP255",
     "Bank Name": "BANK OF TAIWAN",
@@ -20840,8 +20840,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "283",
     "SWIFT Code": "BKTWTWTP283",
     "Bank Name": "BANK OF TAIWAN",
@@ -20853,8 +20853,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "082",
     "SWIFT Code": "BKTWTWTP082",
     "Bank Name": "BANK OF TAIWAN",
@@ -20866,8 +20866,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "056",
     "SWIFT Code": "BKTWTWTP056",
     "Bank Name": "BANK OF TAIWAN",
@@ -20879,8 +20879,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "035",
     "SWIFT Code": "BKTWTWTP035",
     "Bank Name": "BANK OF TAIWAN",
@@ -20892,8 +20892,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "118",
     "SWIFT Code": "BKTWTWTP118",
     "Bank Name": "BANK OF TAIWAN",
@@ -20905,8 +20905,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "271",
     "SWIFT Code": "BKTWTWTP271",
     "Bank Name": "BANK OF TAIWAN",
@@ -20918,8 +20918,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "012",
     "SWIFT Code": "BKTWTWTP012",
     "Bank Name": "BANK OF TAIWAN",
@@ -20931,8 +20931,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "038",
     "SWIFT Code": "BKTWTWTP038",
     "Bank Name": "BANK OF TAIWAN",
@@ -20944,8 +20944,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "024",
     "SWIFT Code": "BKTWTWTP024",
     "Bank Name": "BANK OF TAIWAN",
@@ -20957,8 +20957,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "029",
     "SWIFT Code": "BKTWTWTP029",
     "Bank Name": "BANK OF TAIWAN",
@@ -20970,8 +20970,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "013",
     "SWIFT Code": "BKTWTWTP013",
     "Bank Name": "BANK OF TAIWAN",
@@ -20983,8 +20983,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "032",
     "SWIFT Code": "BKTWTWTP032",
     "Bank Name": "BANK OF TAIWAN",
@@ -20996,8 +20996,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "059",
     "SWIFT Code": "BKTWTWTP059",
     "Bank Name": "BANK OF TAIWAN",
@@ -21009,8 +21009,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "066",
     "SWIFT Code": "BKTWTWTP066",
     "Bank Name": "BANK OF TAIWAN",
@@ -21022,8 +21022,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "071",
     "SWIFT Code": "BKTWTWTP071",
     "Bank Name": "BANK OF TAIWAN",
@@ -21035,8 +21035,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "048",
     "SWIFT Code": "BKTWTWTP048",
     "Bank Name": "BANK OF TAIWAN",
@@ -21048,8 +21048,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "245",
     "SWIFT Code": "BKTWTWTP245",
     "Bank Name": "BANK OF TAIWAN",
@@ -21061,8 +21061,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "027",
     "SWIFT Code": "BKTWTWTP027",
     "Bank Name": "BANK OF TAIWAN",
@@ -21074,8 +21074,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "042",
     "SWIFT Code": "BKTWTWTP042",
     "Bank Name": "BANK OF TAIWAN",
@@ -21087,8 +21087,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "244",
     "SWIFT Code": "BKTWTWTP244",
     "Bank Name": "BANK OF TAIWAN",
@@ -21100,8 +21100,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "280",
     "SWIFT Code": "BKTWTWTP280",
     "Bank Name": "BANK OF TAIWAN",
@@ -21113,8 +21113,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "088",
     "SWIFT Code": "BKTWTWTP088",
     "Bank Name": "BANK OF TAIWAN",
@@ -21126,8 +21126,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "160",
     "SWIFT Code": "BKTWTWTP160",
     "Bank Name": "BANK OF TAIWAN",
@@ -21139,8 +21139,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "155",
     "SWIFT Code": "BKTWTWTP155",
     "Bank Name": "BANK OF TAIWAN",
@@ -21152,8 +21152,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "176",
     "SWIFT Code": "BKTWTWTP176",
     "Bank Name": "BANK OF TAIWAN",
@@ -21165,8 +21165,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "017",
     "SWIFT Code": "BKTWTWTP017",
     "Bank Name": "BANK OF TAIWAN",
@@ -21178,8 +21178,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "065",
     "SWIFT Code": "BKTWTWTP065",
     "Bank Name": "BANK OF TAIWAN",
@@ -21191,8 +21191,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "278",
     "SWIFT Code": "BKTWTWTP278",
     "Bank Name": "BANK OF TAIWAN",
@@ -21204,8 +21204,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "171",
     "SWIFT Code": "BKTWTWTP171",
     "Bank Name": "BANK OF TAIWAN",
@@ -21217,8 +21217,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "025",
     "SWIFT Code": "BKTWTWTP025",
     "Bank Name": "BANK OF TAIWAN",
@@ -21230,8 +21230,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "030",
     "SWIFT Code": "BKTWTWTP030",
     "Bank Name": "BANK OF TAIWAN",
@@ -21243,8 +21243,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "055",
     "SWIFT Code": "BKTWTWTP055",
     "Bank Name": "BANK OF TAIWAN",
@@ -21256,8 +21256,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "141",
     "SWIFT Code": "BKTWTWTP141",
     "Bank Name": "BANK OF TAIWAN",
@@ -21269,8 +21269,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "079",
     "SWIFT Code": "BKTWTWTP079",
     "Bank Name": "BANK OF TAIWAN",
@@ -21282,8 +21282,8 @@ const taiwan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "TW",
+    "bankCode": "BKTW",
+    "countryCode": "TW",
     "branchCode": "249",
     "SWIFT Code": "BKTWTWTP249",
     "Bank Name": "BANK OF TAIWAN",

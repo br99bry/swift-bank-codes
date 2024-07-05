@@ -1,7 +1,7 @@
 const palestine = [
   {
-    "countryCode": "ALXC",
-    "bankCode": "PS",
+    "bankCode": "ALXC",
+    "countryCode": "PS",
     "branchCode": "S2J",
     "SWIFT Code": "ALXCPS2J",
     "Bank Name": "ALKHALEJ EXCHANGE COMPANY",
@@ -13,8 +13,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "030",
     "SWIFT Code": "ARABPS22030",
     "Bank Name": "ARAB BANK PLC",
@@ -26,8 +26,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "110",
     "SWIFT Code": "ARABPS22110",
     "Bank Name": "ARAB BANK PLC",
@@ -39,8 +39,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "100",
     "SWIFT Code": "ARABPS22100",
     "Bank Name": "ARAB BANK PLC",
@@ -52,8 +52,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "050",
     "SWIFT Code": "ARABPS22050",
     "Bank Name": "ARAB BANK PLC",
@@ -65,8 +65,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "500",
     "SWIFT Code": "ARABPS22500",
     "Bank Name": "ARAB BANK PLC",
@@ -78,8 +78,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "600",
     "SWIFT Code": "ARABPS22600",
     "Bank Name": "ARAB BANK PLC",
@@ -91,8 +91,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "040",
     "SWIFT Code": "ARABPS22040",
     "Bank Name": "ARAB BANK PLC",
@@ -104,8 +104,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "060",
     "SWIFT Code": "ARABPS22060",
     "Bank Name": "ARAB BANK PLC",
@@ -117,8 +117,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "550",
     "SWIFT Code": "ARABPS22550",
     "Bank Name": "ARAB BANK PLC",
@@ -130,8 +130,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "650",
     "SWIFT Code": "ARABPS22650",
     "Bank Name": "ARAB BANK PLC",
@@ -143,8 +143,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "020",
     "SWIFT Code": "ARABPS22020",
     "Bank Name": "ARAB BANK PLC",
@@ -156,8 +156,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "080",
     "SWIFT Code": "ARABPS22080",
     "Bank Name": "ARAB BANK PLC",
@@ -169,8 +169,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "ARABPS22",
     "Bank Name": "ARAB BANK PLC",
@@ -182,8 +182,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "DLR",
     "SWIFT Code": "ARABPS22DLR",
     "Bank Name": "ARAB BANK PLC",
@@ -195,8 +195,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "090",
     "SWIFT Code": "ARABPS22090",
     "Bank Name": "ARAB BANK PLC",
@@ -208,8 +208,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "COU",
     "SWIFT Code": "ARABPS22COU",
     "Bank Name": "ARAB BANK PLC",
@@ -221,8 +221,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "COT",
     "SWIFT Code": "ARABPS22COT",
     "Bank Name": "ARAB BANK PLC",
@@ -234,8 +234,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "PS",
+    "bankCode": "ARAB",
+    "countryCode": "PS",
     "branchCode": "070",
     "SWIFT Code": "ARABPS22070",
     "Bank Name": "ARAB BANK PLC",
@@ -247,8 +247,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AISB",
-    "bankCode": "PS",
+    "bankCode": "AISB",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "AISBPS22",
     "Bank Name": "ARAB ISLAMIC BANK",
@@ -260,8 +260,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJOR",
-    "bankCode": "PS",
+    "bankCode": "BJOR",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "BJORPS22",
     "Bank Name": "BANK OF JORDAN PLC",
@@ -273,8 +273,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PALS",
-    "bankCode": "PS",
+    "bankCode": "PALS",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "PALSPS22",
     "Bank Name": "BANK OF PALESTINE PLC",
@@ -286,8 +286,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAAB",
-    "bankCode": "PS",
+    "bankCode": "CAAB",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "CAABPS22",
     "Bank Name": "CAIRO AMMAN BANK",
@@ -299,8 +299,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "PS",
+    "bankCode": "ARLB",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "ARLBPS22",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -312,8 +312,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JONB",
-    "bankCode": "PS",
+    "bankCode": "JONB",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "JONBPS22",
     "Bank Name": "JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY",
@@ -325,8 +325,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PINV",
-    "bankCode": "PS",
+    "bankCode": "PINV",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "PINVPS22",
     "Bank Name": "PALESTINE INVESTMENT BANK",
@@ -338,8 +338,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIBC",
-    "bankCode": "PS",
+    "bankCode": "PIBC",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "PIBCPS22",
     "Bank Name": "PALESTINE ISLAMIC BANK",
@@ -351,8 +351,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "S2P",
     "SWIFT Code": "PMAPPS2P",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -364,8 +364,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "PMAPPS22",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -377,8 +377,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "PEX",
     "SWIFT Code": "PMAPPS22PEX",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -390,8 +390,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "ECC",
     "SWIFT Code": "PMAPPS22ECC",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -403,8 +403,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "ACH",
     "SWIFT Code": "PMAPPS22ACH",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -416,8 +416,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "ASA",
     "SWIFT Code": "PMAPPS22ASA",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -429,8 +429,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAP",
-    "bankCode": "PS",
+    "bankCode": "PMAP",
+    "countryCode": "PS",
     "branchCode": "TIA",
     "SWIFT Code": "PMAPPS22TIA",
     "Bank Name": "PALESTINE MONETARY AUTHORITY",
@@ -442,8 +442,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALDN",
-    "bankCode": "PS",
+    "bankCode": "ALDN",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "ALDNPS22",
     "Bank Name": "QUDS BANK",
@@ -455,8 +455,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFK",
-    "bankCode": "PS",
+    "bankCode": "SAFK",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "SAFKPS22",
     "Bank Name": "SAFA BANK",
@@ -468,8 +468,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBHO",
-    "bankCode": "PS",
+    "bankCode": "HBHO",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "HBHOPS22",
     "Bank Name": "THE HOUSING BANK FOR TRADE AND FINANCE/RAMALLAH",
@@ -481,8 +481,8 @@ const palestine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNBC",
-    "bankCode": "PS",
+    "bankCode": "TNBC",
+    "countryCode": "PS",
     "branchCode": "S22",
     "SWIFT Code": "TNBCPS22",
     "Bank Name": "THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)",

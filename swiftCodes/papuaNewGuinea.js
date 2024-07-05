@@ -1,7 +1,7 @@
 const papuaNewGuinea = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "PG",
+    "bankCode": "ANZB",
+    "countryCode": "PG",
     "branchCode": "GPX",
     "SWIFT Code": "ANZBPGPX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG) LTD.",
@@ -13,8 +13,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPNG",
-    "bankCode": "PG",
+    "bankCode": "BPNG",
+    "countryCode": "PG",
     "branchCode": "GPM",
     "SWIFT Code": "BPNGPGPM",
     "Bank Name": "BANK OF PAPUA NEW GUINEA",
@@ -26,8 +26,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "PG",
+    "bankCode": "BOSP",
+    "countryCode": "PG",
     "branchCode": "GPM",
     "SWIFT Code": "BOSPPGPM",
     "Bank Name": "BSP FINANCIAL GROUP LIMITED",
@@ -39,8 +39,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPFN",
-    "bankCode": "PG",
+    "bankCode": "CPFN",
+    "countryCode": "PG",
     "branchCode": "GPM",
     "SWIFT Code": "CPFNPGPM",
     "Bank Name": "CREDIT CORPORATION FINANCE LIMITED",
@@ -52,8 +52,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIVF",
-    "bankCode": "PG",
+    "bankCode": "FIVF",
+    "countryCode": "PG",
     "branchCode": "GPM",
     "SWIFT Code": "FIVFPGPM",
     "Bank Name": "FIRST INVESTMENT FINANCE LIMITED",
@@ -65,8 +65,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KINI",
-    "bankCode": "PG",
+    "bankCode": "KINI",
+    "countryCode": "PG",
     "branchCode": "GPG",
     "SWIFT Code": "KINIPGPG",
     "Bank Name": "KINA SECURITIES LIMITED",
@@ -78,8 +78,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSLS",
-    "bankCode": "PG",
+    "bankCode": "TSLS",
+    "countryCode": "PG",
     "branchCode": "GPP",
     "SWIFT Code": "TSLSPGPP",
     "Bank Name": "TEACHERS SAVINGS AND LOAN SOCIETY LIMITED",
@@ -91,8 +91,8 @@ const papuaNewGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "PG",
+    "bankCode": "WPAC",
+    "countryCode": "PG",
     "branchCode": "GPM",
     "SWIFT Code": "WPACPGPM",
     "Bank Name": "WESTPAC BANK - PNG - LIMITED",

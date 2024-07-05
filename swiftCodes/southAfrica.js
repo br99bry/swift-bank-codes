@@ -1,7 +1,7 @@
 const southAfrica = [
   {
-    "countryCode": "SILC",
-    "bankCode": "ZA",
+    "bankCode": "SILC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SILCZAJJ",
     "Bank Name": "SILICA ADMINISTRATION SERVICES PTY LTD",
@@ -13,8 +13,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIOC",
-    "bankCode": "ZA",
+    "bankCode": "SIOC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SIOCZAJJ",
     "Bank Name": "SISHEN IRON ORE COMPANY (PTY) LTD",
@@ -26,8 +26,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJ6",
     "SWIFT Code": "SARBZAJ6",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -39,8 +39,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJH",
     "SWIFT Code": "SARBZAJH",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -52,8 +52,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJS",
     "SWIFT Code": "SARBZAJS",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -65,8 +65,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJ4",
     "SWIFT Code": "SARBZAJ4",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -78,8 +78,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJP",
     "SWIFT Code": "SARBZAJP",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -91,8 +91,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJ8",
     "SWIFT Code": "SARBZAJ8",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -104,8 +104,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJ7",
     "SWIFT Code": "SARBZAJ7",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -117,8 +117,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJT",
     "SWIFT Code": "SARBZAJT",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -130,8 +130,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJ9",
     "SWIFT Code": "SARBZAJ9",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -143,8 +143,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARB",
-    "bankCode": "ZA",
+    "bankCode": "SARB",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "SARBZAJ2",
     "Bank Name": "SOUTH AFRICAN RESERVE BANK",
@@ -156,8 +156,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIVM",
-    "bankCode": "ZA",
+    "bankCode": "SIVM",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "SIVMZAJ2",
     "Bank Name": "SOUTHCHESTER INVESTMENT MANAGERS",
@@ -169,8 +169,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "ATG",
     "SWIFT Code": "SBZAZAJJATG",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -182,8 +182,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "SAL",
     "SWIFT Code": "SBZAZAJJSAL",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -195,8 +195,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "CNR",
     "SWIFT Code": "SBZAZAJJCNR",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -208,8 +208,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "AFR",
     "SWIFT Code": "SBZAZAJJAFR",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -221,8 +221,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "BOL",
     "SWIFT Code": "SBZAZAJJBOL",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -235,8 +235,8 @@ const southAfrica = [
   },
   {},
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "SCM",
     "SWIFT Code": "SBZAZAJJSCM",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -248,8 +248,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SBZAZAJJ",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -261,8 +261,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "PLM",
     "SWIFT Code": "SBZAZAJJPLM",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -274,8 +274,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "ZA",
+    "bankCode": "SBZA",
+    "countryCode": "ZA",
     "branchCode": "FSL",
     "SWIFT Code": "SBZAZAJJFSL",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
@@ -287,8 +287,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZA",
+    "bankCode": "SCBL",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SCBLZAJJ",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -300,8 +300,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZA",
+    "bankCode": "SCBL",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "SCBLZAJ2",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -313,8 +313,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZA",
+    "bankCode": "SCBL",
+    "countryCode": "ZA",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLZAJJSSU",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -326,8 +326,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBAM",
-    "bankCode": "ZA",
+    "bankCode": "LBAM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "LBAMZAJJ",
     "Bank Name": "STANLIB ASSET MANAGEMENT",
@@ -339,8 +339,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "ZA",
+    "bankCode": "SBIN",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SBINZAJJ",
     "Bank Name": "STATE BANK OF INDIA",
@@ -352,8 +352,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "STRAZAJ2",
     "Bank Name": "STRATE",
@@ -365,8 +365,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "MTE",
     "SWIFT Code": "STRAZAJ2MTE",
     "Bank Name": "STRATE",
@@ -378,8 +378,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "STRAZAJJ",
     "Bank Name": "STRATE (PTY) LTD",
@@ -391,8 +391,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "CDX",
     "SWIFT Code": "STRAZAJJCDX",
     "Bank Name": "STRATE (PTY) LTD",
@@ -404,8 +404,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "REG",
     "SWIFT Code": "STRAZAJJREG",
     "Bank Name": "STRATE (PTY) LTD",
@@ -417,8 +417,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "TFS",
     "SWIFT Code": "STRAZAJJTFS",
     "Bank Name": "STRATE (PTY) LTD",
@@ -430,8 +430,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRA",
-    "bankCode": "ZA",
+    "bankCode": "STRA",
+    "countryCode": "ZA",
     "branchCode": "UNX",
     "SWIFT Code": "STRAZAJJUNX",
     "Bank Name": "STRATE (PTY) LTD",
@@ -443,8 +443,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRE",
-    "bankCode": "ZA",
+    "bankCode": "SWRE",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SWREZAJJ",
     "Bank Name": "SWISS RE AFRICA LTD",
@@ -456,8 +456,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYSY",
-    "bankCode": "ZA",
+    "bankCode": "SYSY",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "SYSYZAJ2",
     "Bank Name": "SYGNIA SECURITIES (PTY) LTD",
@@ -469,8 +469,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TELK",
-    "bankCode": "ZA",
+    "bankCode": "TELK",
+    "countryCode": "ZA",
     "branchCode": "AJP",
     "SWIFT Code": "TELKZAJP",
     "Bank Name": "TELKOM SA LIMITED",
@@ -482,8 +482,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPSV",
-    "bankCode": "ZA",
+    "bankCode": "TPSV",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "TPSVZAJJ",
     "Bank Name": "TERRA PAYMENT SERVICES SOUTH AFRICA (RF) (PTY) LTD",
@@ -495,8 +495,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THMN",
-    "bankCode": "ZA",
+    "bankCode": "THMN",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "THMNZAJ2",
     "Bank Name": "THARISA MINERALS",
@@ -508,8 +508,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOHG",
-    "bankCode": "ZA",
+    "bankCode": "FOHG",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "FOHGZAJC",
     "Bank Name": "THE FOSCHINI GROUP LIMITED",
@@ -521,8 +521,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TALM",
-    "bankCode": "ZA",
+    "bankCode": "TALM",
+    "countryCode": "ZA",
     "branchCode": "AJP",
     "SWIFT Code": "TALMZAJP",
     "Bank Name": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
@@ -534,8 +534,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TALM",
-    "bankCode": "ZA",
+    "bankCode": "TALM",
+    "countryCode": "ZA",
     "branchCode": "GEH",
     "SWIFT Code": "TALMZAJPGEH",
     "Bank Name": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
@@ -547,8 +547,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TALM",
-    "bankCode": "ZA",
+    "bankCode": "TALM",
+    "countryCode": "ZA",
     "branchCode": "OAG",
     "SWIFT Code": "TALMZAJPOAG",
     "Bank Name": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
@@ -560,8 +560,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNET",
-    "bankCode": "ZA",
+    "bankCode": "TNET",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "TNETZAJJ",
     "Bank Name": "TRANSNET SOC LIMITED",
@@ -573,8 +573,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "LINKZAJJ",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -586,8 +586,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "ENG",
     "SWIFT Code": "LINKZAJJENG",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -599,8 +599,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "TFG",
     "SWIFT Code": "LINKZAJJTFG",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -613,8 +613,8 @@ const southAfrica = [
   },
   {},
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PEP",
     "SWIFT Code": "LINKZAJJPEP",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -626,8 +626,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFEP",
-    "bankCode": "ZA",
+    "bankCode": "AFEP",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "AFEPZAJ2",
     "Bank Name": "4 AFRICA EXCHANGE PTY LTD",
@@ -639,8 +639,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFEP",
-    "bankCode": "ZA",
+    "bankCode": "AFEP",
+    "countryCode": "ZA",
     "branchCode": "CLO",
     "SWIFT Code": "AFEPZAJ2CLO",
     "Bank Name": "4 AFRICA EXCHANGE PTY LTD",
@@ -652,8 +652,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFEP",
-    "bankCode": "ZA",
+    "bankCode": "AFEP",
+    "countryCode": "ZA",
     "branchCode": "OPE",
     "SWIFT Code": "AFEPZAJ2OPE",
     "Bank Name": "4 AFRICA EXCHANGE PTY LTD",
@@ -665,8 +665,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AERP",
-    "bankCode": "ZA",
+    "bankCode": "AERP",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "AERPZAJ2",
     "Bank Name": "4 AFRICA EXCHANGE REGISTRY PROPRIETARY LIMITED",
@@ -678,8 +678,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOPY",
-    "bankCode": "ZA",
+    "bankCode": "NOPY",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "NOPYZAJ2",
     "Bank Name": "4AX NOMINEES RF PTY LTD",
@@ -691,8 +691,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOPY",
-    "bankCode": "ZA",
+    "bankCode": "NOPY",
+    "countryCode": "ZA",
     "branchCode": "4AX",
     "SWIFT Code": "NOPYZAJ24AX",
     "Bank Name": "4AX NOMINEES RF PTY LTD",
@@ -704,8 +704,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABVS",
-    "bankCode": "ZA",
+    "bankCode": "ABVS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ABVSZAJJ",
     "Bank Name": "ABSA ASSET MANAGEMENT (PTY) LTD",
@@ -717,8 +717,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CBF",
     "SWIFT Code": "ABSAZAJJCBF",
     "Bank Name": "ABSA BANK LIMITED",
@@ -730,8 +730,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CCT",
     "SWIFT Code": "ABSAZAJJCCT",
     "Bank Name": "ABSA BANK LIMITED",
@@ -743,8 +743,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CDB",
     "SWIFT Code": "ABSAZAJJCDB",
     "Bank Name": "ABSA BANK LIMITED",
@@ -756,8 +756,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "TRS",
     "SWIFT Code": "ABSAZAJJTRS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -769,8 +769,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "ACS",
     "SWIFT Code": "ABSAZAJJACS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -782,8 +782,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "MG3",
     "SWIFT Code": "ABSAZAJJMG3",
     "Bank Name": "ABSA BANK LIMITED",
@@ -795,8 +795,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "AIS",
     "SWIFT Code": "ABSAZAJJAIS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -808,8 +808,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "2AI",
     "SWIFT Code": "ABSAZAJJ2AI",
     "Bank Name": "ABSA BANK LIMITED",
@@ -821,8 +821,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "MG1",
     "SWIFT Code": "ABSAZAJJMG1",
     "Bank Name": "ABSA BANK LIMITED",
@@ -834,8 +834,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "REK",
     "SWIFT Code": "ABSAZAJJREK",
     "Bank Name": "ABSA BANK LIMITED",
@@ -847,8 +847,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "MG2",
     "SWIFT Code": "ABSAZAJJMG2",
     "Bank Name": "ABSA BANK LIMITED",
@@ -860,8 +860,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ABSAZAJJ",
     "Bank Name": "ABSA BANK LIMITED",
@@ -873,8 +873,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CLS",
     "SWIFT Code": "ABSAZAJJCLS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -886,8 +886,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CWI",
     "SWIFT Code": "ABSAZAJJCWI",
     "Bank Name": "ABSA BANK LIMITED",
@@ -899,8 +899,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "FI1",
     "SWIFT Code": "ABSAZAJJFI1",
     "Bank Name": "ABSA BANK LIMITED",
@@ -912,8 +912,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "FI2",
     "SWIFT Code": "ABSAZAJJFI2",
     "Bank Name": "ABSA BANK LIMITED",
@@ -925,8 +925,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "JAS",
     "SWIFT Code": "ABSAZAJJJAS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -938,8 +938,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "SLB",
     "SWIFT Code": "ABSAZAJJSLB",
     "Bank Name": "ABSA BANK LIMITED",
@@ -951,8 +951,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "MMD",
     "SWIFT Code": "ABSAZAJJMMD",
     "Bank Name": "ABSA BANK LIMITED",
@@ -964,8 +964,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "TMS",
     "SWIFT Code": "ABSAZAJJTMS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -977,8 +977,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "NRS",
     "SWIFT Code": "ABSAZAJJNRS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -990,8 +990,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "TPC",
     "SWIFT Code": "ABSAZAJJTPC",
     "Bank Name": "ABSA BANK LIMITED",
@@ -1003,8 +1003,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "VOS",
     "SWIFT Code": "ABSAZAJJVOS",
     "Bank Name": "ABSA BANK LIMITED",
@@ -1016,8 +1016,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CNE",
     "SWIFT Code": "ABSAZAJJCNE",
     "Bank Name": "ABSA BANK LIMITED",
@@ -1029,8 +1029,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CPE",
     "SWIFT Code": "ABSAZAJJCPE",
     "Bank Name": "ABSA BANK LIMITED",
@@ -1042,8 +1042,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CPT",
     "SWIFT Code": "ABSAZAJJCPT",
     "Bank Name": "ABSA BANK LIMITED",
@@ -1055,8 +1055,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "CRD",
     "SWIFT Code": "ABSAZAJJCRD",
     "Bank Name": "ABSA BANK LIMITED",
@@ -1068,8 +1068,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "AJ3",
     "SWIFT Code": "ABSAZAJ3",
     "Bank Name": "ABSA CAPITAL SECURITIES PROPRIETARY LIMITED",
@@ -1081,8 +1081,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSA",
-    "bankCode": "ZA",
+    "bankCode": "ABSA",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "ABSAZAJ2",
     "Bank Name": "ABSA STOCKBROKERS AND PORTFOLIO MANAGEMENT (PTY) LTD",
@@ -1094,8 +1094,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BATH",
-    "bankCode": "ZA",
+    "bankCode": "BATH",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BATHZAJJ",
     "Bank Name": "ACCESS BANK (SOUTH AFRICA) LIMITED",
@@ -1107,8 +1107,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRC",
-    "bankCode": "ZA",
+    "bankCode": "AFRC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "AFRCZAJJ",
     "Bank Name": "AFRICAN BANK LIMITED",
@@ -1120,8 +1120,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRF",
-    "bankCode": "ZA",
+    "bankCode": "AFRF",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "AFRFZAJJ",
     "Bank Name": "AFRIFOCUS SECURITIES (PTY) LTD",
@@ -1133,8 +1133,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBR",
-    "bankCode": "ZA",
+    "bankCode": "ALBR",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ALBRZAJJ",
     "Bank Name": "ALBARAKA BANK",
@@ -1146,8 +1146,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFGS",
-    "bankCode": "ZA",
+    "bankCode": "AFGS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "AFGSZAJJ",
     "Bank Name": "ALEXANDER FORBES GROUP SERVICES (PTY) LTD",
@@ -1159,8 +1159,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRAY",
-    "bankCode": "ZA",
+    "bankCode": "GRAY",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "GRAYZAJC",
     "Bank Name": "ALLAN GRAY LIMITED",
@@ -1172,8 +1172,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALTF",
-    "bankCode": "ZA",
+    "bankCode": "ALTF",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ALTFZAJJ",
     "Bank Name": "ALTRON FINANCE (PTY) LTD",
@@ -1185,8 +1185,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASTY",
-    "bankCode": "ZA",
+    "bankCode": "ASTY",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ASTYZAJJ",
     "Bank Name": "ANCHOR STOCKBROKERS (PTY) LTD",
@@ -1198,8 +1198,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDS",
-    "bankCode": "ZA",
+    "bankCode": "ANDS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ANDSZAJJ",
     "Bank Name": "ANDISA CAPITAL (PTY) LTD",
@@ -1211,8 +1211,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDS",
-    "bankCode": "ZA",
+    "bankCode": "ANDS",
+    "countryCode": "ZA",
     "branchCode": "H01",
     "SWIFT Code": "ANDSZAJJH01",
     "Bank Name": "ANDISA CAPITAL (PTY) LTD",
@@ -1224,8 +1224,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDS",
-    "bankCode": "ZA",
+    "bankCode": "ANDS",
+    "countryCode": "ZA",
     "branchCode": "T01",
     "SWIFT Code": "ANDSZAJJT01",
     "Bank Name": "ANDISA CAPITAL (PTY) LTD",
@@ -1237,8 +1237,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AACL",
-    "bankCode": "ZA",
+    "bankCode": "AACL",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "AACLZAJJ",
     "Bank Name": "ANGLO AMERICAN SA FINANCE LIMITED",
@@ -1250,8 +1250,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AONS",
-    "bankCode": "ZA",
+    "bankCode": "AONS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "AONSZAJJ",
     "Bank Name": "ARGON SECURITIES (PTY) LTD",
@@ -1263,8 +1263,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WWSE",
-    "bankCode": "ZA",
+    "bankCode": "WWSE",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "WWSEZAJJ",
     "Bank Name": "ATISA SECURITIES (PTY) LTD",
@@ -1276,8 +1276,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDPT",
-    "bankCode": "ZA",
+    "bankCode": "GDPT",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "GDPTZAJJ",
     "Bank Name": "AVIOR RESEARCH (PTY) LTD",
@@ -1289,8 +1289,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXSP",
-    "bankCode": "ZA",
+    "bankCode": "AXSP",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "AXSPZAJ2",
     "Bank Name": "AXON SECLEND (PTY) LTD",
@@ -1302,8 +1302,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BERN",
-    "bankCode": "ZA",
+    "bankCode": "BERN",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BERNZAJJ",
     "Bank Name": "B.P. BERNSTEIN",
@@ -1315,8 +1315,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "ZA",
+    "bankCode": "BKCH",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BKCHZAJJ",
     "Bank Name": "BANK OF CHINA JOHANNESBURG BRANCH",
@@ -1328,8 +1328,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "ZA",
+    "bankCode": "COMM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "COMMZAJJ",
     "Bank Name": "BANK OF COMMUNICATIONS CO., LTD. JOHANNESBURG BRANCH",
@@ -1341,8 +1341,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "ZA",
+    "bankCode": "BKTW",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BKTWZAJJ",
     "Bank Name": "BANK OF TAIWAN, SOUTH AFRICA BRANCH",
@@ -1354,8 +1354,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSV",
-    "bankCode": "ZA",
+    "bankCode": "BKSV",
+    "countryCode": "ZA",
     "branchCode": "AJS",
     "SWIFT Code": "BKSVZAJS",
     "Bank Name": "BANK SERV LIMITED",
@@ -1367,8 +1367,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZERM",
-    "bankCode": "ZA",
+    "bankCode": "ZERM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ZERMZAJJ",
     "Bank Name": "BANK ZERO MUTUAL BANK",
@@ -1380,8 +1380,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSV",
-    "bankCode": "ZA",
+    "bankCode": "BKSV",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BKSVZAJJ",
     "Bank Name": "BANKSERVAFRICA",
@@ -1393,8 +1393,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSV",
-    "bankCode": "ZA",
+    "bankCode": "BKSV",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "BKSVZAJ2",
     "Bank Name": "BANKSERVAFRICA",
@@ -1406,8 +1406,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIDB",
-    "bankCode": "ZA",
+    "bankCode": "BIDB",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BIDBZAJJ",
     "Bank Name": "BIDVEST BANK LTD",
@@ -1419,8 +1419,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIVT",
-    "bankCode": "ZA",
+    "bankCode": "BIVT",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BIVTZAJJ",
     "Bank Name": "BIDVEST TREASURY SERVICES (PTY) LTD",
@@ -1432,8 +1432,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CABL",
-    "bankCode": "ZA",
+    "bankCode": "CABL",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "CABLZAJJ",
     "Bank Name": "CAPITEC BANK LIMITED",
@@ -1445,8 +1445,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "ZA",
+    "bankCode": "PCBC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "PCBCZAJJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION JOHANNESBURG BRANCH",
@@ -1458,8 +1458,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ZA",
+    "bankCode": "CITI",
+    "countryCode": "ZA",
     "branchCode": "AJX",
     "SWIFT Code": "CITIZAJX",
     "Bank Name": "CITIBANK SOUTH AFRICA",
@@ -1471,8 +1471,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ZA",
+    "bankCode": "CITI",
+    "countryCode": "ZA",
     "branchCode": "HUB",
     "SWIFT Code": "CITIZAJXHUB",
     "Bank Name": "CITIBANK SOUTH AFRICA",
@@ -1484,8 +1484,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ZA",
+    "bankCode": "CITI",
+    "countryCode": "ZA",
     "branchCode": "FIC",
     "SWIFT Code": "CITIZAJXFIC",
     "Bank Name": "CITIBANK SOUTH AFRICA",
@@ -1497,8 +1497,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ZA",
+    "bankCode": "CITI",
+    "countryCode": "ZA",
     "branchCode": "TRD",
     "SWIFT Code": "CITIZAJXTRD",
     "Bank Name": "CITIBANK SOUTH AFRICA",
@@ -1510,8 +1510,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSBS",
-    "bankCode": "ZA",
+    "bankCode": "SSBS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SSBSZAJJ",
     "Bank Name": "CITIGROUP GLOBAL MARKETS (PTY) LTD",
@@ -1523,8 +1523,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSEV",
-    "bankCode": "ZA",
+    "bankCode": "CSEV",
+    "countryCode": "ZA",
     "branchCode": "100",
     "SWIFT Code": "CSEVZAJJ100",
     "Bank Name": "COMPUTERSHARE PROPRIETARY LIMITED",
@@ -1536,8 +1536,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSEV",
-    "bankCode": "ZA",
+    "bankCode": "CSEV",
+    "countryCode": "ZA",
     "branchCode": "200",
     "SWIFT Code": "CSEVZAJJ200",
     "Bank Name": "COMPUTERSHARE PROPRIETARY LIMITED",
@@ -1549,8 +1549,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSEV",
-    "bankCode": "ZA",
+    "bankCode": "CSEV",
+    "countryCode": "ZA",
     "branchCode": "300",
     "SWIFT Code": "CSEVZAJJ300",
     "Bank Name": "COMPUTERSHARE PROPRIETARY LIMITED",
@@ -1562,8 +1562,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSEV",
-    "bankCode": "ZA",
+    "bankCode": "CSEV",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "CSEVZAJJ",
     "Bank Name": "COMPUTERSHARE PROPRIETARY LIMITED",
@@ -1575,8 +1575,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COCP",
-    "bankCode": "ZA",
+    "bankCode": "COCP",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "COCPZAJJ",
     "Bank Name": "CONSILIUM CAPITAL (SA) (PTY) LTD.",
@@ -1588,8 +1588,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COUG",
-    "bankCode": "ZA",
+    "bankCode": "COUG",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "COUGZAJC",
     "Bank Name": "CORONATION ASSET MANAGEMENT (PTY) LTD",
@@ -1601,8 +1601,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAFA",
-    "bankCode": "ZA",
+    "bankCode": "TAFA",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "TAFAZAJC",
     "Bank Name": "CURO FUND SERVICES (PTY) LTD",
@@ -1614,8 +1614,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ZA",
+    "bankCode": "DEUT",
+    "countryCode": "ZA",
     "branchCode": "AJX",
     "SWIFT Code": "DEUTZAJX",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1627,8 +1627,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ZA",
+    "bankCode": "DEUT",
+    "countryCode": "ZA",
     "branchCode": "GFX",
     "SWIFT Code": "DEUTZAJXGFX",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1640,8 +1640,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DESF",
-    "bankCode": "ZA",
+    "bankCode": "DESF",
+    "countryCode": "ZA",
     "branchCode": "AJM",
     "SWIFT Code": "DESFZAJM",
     "Bank Name": "DEVELOPMENT BANK OF SOUTHERN AFRICA LIMITED",
@@ -1653,8 +1653,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DISC",
-    "bankCode": "ZA",
+    "bankCode": "DISC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "DISCZAJJ",
     "Bank Name": "DISCOVERY BANK LIMITED",
@@ -1666,8 +1666,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENDE",
-    "bankCode": "ZA",
+    "bankCode": "ENDE",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ENDEZAJJ",
     "Bank Name": "ENEL GREEN POWER RSA (PTY) LTD",
@@ -1679,8 +1679,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENGZ",
-    "bankCode": "ZA",
+    "bankCode": "ENGZ",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "ENGZZAJC",
     "Bank Name": "ENGEN PETROLEUM LTD",
@@ -1692,8 +1692,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESKO",
-    "bankCode": "ZA",
+    "bankCode": "ESKO",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ESKOZAJJ",
     "Bank Name": "ESKOM TREASURY",
@@ -1705,8 +1705,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFOS",
-    "bankCode": "ZA",
+    "bankCode": "FFOS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "FFOSZAJJ",
     "Bank Name": "FFO SECURITIES (PTY) LTD",
@@ -1718,8 +1718,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBMB",
-    "bankCode": "ZA",
+    "bankCode": "FBMB",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "FBMBZAJJ",
     "Bank Name": "FINBOND MUTUAL BANK",
@@ -1731,8 +1731,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "RSL",
     "SWIFT Code": "FIRNZAJJRSL",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1744,8 +1744,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "AJB",
     "SWIFT Code": "FIRNZAJB",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1757,8 +1757,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "896",
     "SWIFT Code": "FIRNZAJJ896",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1770,8 +1770,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "DCL",
     "SWIFT Code": "FIRNZAJJDCL",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1783,8 +1783,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "CLS",
     "SWIFT Code": "FIRNZAJJCLS",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1796,8 +1796,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "GLM",
     "SWIFT Code": "FIRNZAJJGLM",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1809,8 +1809,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "FIRNZAJJ",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1822,8 +1822,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "INT",
     "SWIFT Code": "FIRNZAJJINT",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1835,8 +1835,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "RBS",
     "SWIFT Code": "FIRNZAJJRBS",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1848,8 +1848,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "KYE",
     "SWIFT Code": "FIRNZAJJKYE",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1861,8 +1861,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZA",
+    "bankCode": "FIRN",
+    "countryCode": "ZA",
     "branchCode": "GLO",
     "SWIFT Code": "FIRNZAJJGLO",
     "Bank Name": "FIRSTRAND BANK LIMITED",
@@ -1874,8 +1874,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJMR",
-    "bankCode": "ZA",
+    "bankCode": "BJMR",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "BJMRZAJJ",
     "Bank Name": "FNB STOCKBROKING AND PORTFOLIO MANAGEMENT (PTY) LTD",
@@ -1887,8 +1887,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRDG",
-    "bankCode": "ZA",
+    "bankCode": "FRDG",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "FRDGZAJJ",
     "Bank Name": "FOORD ASSET MANAGEMENT (PROPRIETARY) LIMITED",
@@ -1900,8 +1900,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FORM",
-    "bankCode": "ZA",
+    "bankCode": "FORM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "FORMZAJJ",
     "Bank Name": "FOUR M TRADERS (PTY) LTD",
@@ -1913,8 +1913,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOSN",
-    "bankCode": "ZA",
+    "bankCode": "GOSN",
+    "countryCode": "ZA",
     "branchCode": "AJS",
     "SWIFT Code": "GOSNZAJS",
     "Bank Name": "GOLDMAN SACHS INTERNATIONAL BANK, JOHANNESBURG BRANCH",
@@ -1926,8 +1926,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCSO",
-    "bankCode": "ZA",
+    "bankCode": "GCSO",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "GCSOZAJ2",
     "Bank Name": "GRANITE CENTRAL SECURITIES DEPOSITORY",
@@ -1939,8 +1939,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRID",
-    "bankCode": "ZA",
+    "bankCode": "GRID",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "GRIDZAJJ",
     "Bank Name": "GRINDROD BANK LIMITED",
@@ -1952,8 +1952,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOBL",
-    "bankCode": "ZA",
+    "bankCode": "HOBL",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "HOBLZAJJ",
     "Bank Name": "HABIB OVERSEAS BANK LIMITED",
@@ -1965,8 +1965,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBZH",
-    "bankCode": "ZA",
+    "bankCode": "HBZH",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "HBZHZAJJ",
     "Bank Name": "HBZ BANK LIMITED",
@@ -1978,8 +1978,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ZA",
+    "bankCode": "HSBC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "HSBCZAJJ",
     "Bank Name": "HSBC BANK PLC",
@@ -1991,8 +1991,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMJC",
-    "bankCode": "ZA",
+    "bankCode": "SMJC",
+    "countryCode": "ZA",
     "branchCode": "022",
     "SWIFT Code": "SMJCZAJC022",
     "Bank Name": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
@@ -2004,8 +2004,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMJC",
-    "bankCode": "ZA",
+    "bankCode": "SMJC",
+    "countryCode": "ZA",
     "branchCode": "011",
     "SWIFT Code": "SMJCZAJC011",
     "Bank Name": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
@@ -2017,8 +2017,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMJC",
-    "bankCode": "ZA",
+    "bankCode": "SMJC",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "SMJCZAJC",
     "Bank Name": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
@@ -2030,8 +2030,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMJC",
-    "bankCode": "ZA",
+    "bankCode": "SMJC",
+    "countryCode": "ZA",
     "branchCode": "WHK",
     "SWIFT Code": "SMJCZAJCWHK",
     "Bank Name": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
@@ -2043,8 +2043,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISEC",
-    "bankCode": "ZA",
+    "bankCode": "ISEC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ISECZAJJ",
     "Bank Name": "INDEPENDENT SECURITIES (PTY) LTD",
@@ -2056,8 +2056,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDCF",
-    "bankCode": "ZA",
+    "bankCode": "IDCF",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "IDCFZAJJ",
     "Bank Name": "INDUSTRIAL DEVELOPMENT CORPORATION OF SOUTH AFRICA LIMITED",
@@ -2069,8 +2069,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INTA",
-    "bankCode": "ZA",
+    "bankCode": "INTA",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "INTAZAJC",
     "Bank Name": "INTEMBEKO INVESTMENT ADMINISTRATORS (PTY) LTD",
@@ -2082,8 +2082,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "ZA",
+    "bankCode": "IVES",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "IVESZAJJ",
     "Bank Name": "INVESTEC BANK LTD.",
@@ -2095,8 +2095,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "ZA",
+    "bankCode": "IVES",
+    "countryCode": "ZA",
     "branchCode": "AJS",
     "SWIFT Code": "IVESZAJS",
     "Bank Name": "INVESTEC MARKETS(PROPRIETARY)LIMITED",
@@ -2108,8 +2108,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "ZA",
+    "bankCode": "IVES",
+    "countryCode": "ZA",
     "branchCode": "011",
     "SWIFT Code": "IVESZAJ2011",
     "Bank Name": "INVESTEC WEALTH AND INVESTMENT INTERNATIONAL PTY LTD",
@@ -2121,8 +2121,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "ZA",
+    "bankCode": "IVES",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "IVESZAJ2",
     "Bank Name": "INVESTEC WEALTH AND INVESTMENT INTERNATIONAL PTY LTD",
@@ -2134,8 +2134,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IWII",
-    "bankCode": "ZA",
+    "bankCode": "IWII",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "IWIIZAJJ",
     "Bank Name": "INVESTEC WEALTH AND INVESTMENT INTERNATIONAL PTY LTD",
@@ -2147,8 +2147,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPME",
-    "bankCode": "ZA",
+    "bankCode": "JPME",
+    "countryCode": "ZA",
     "branchCode": "011",
     "SWIFT Code": "JPMEZAJJ011",
     "Bank Name": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
@@ -2160,8 +2160,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPME",
-    "bankCode": "ZA",
+    "bankCode": "JPME",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "JPMEZAJJ",
     "Bank Name": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
@@ -2173,8 +2173,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPME",
-    "bankCode": "ZA",
+    "bankCode": "JPME",
+    "countryCode": "ZA",
     "branchCode": "022",
     "SWIFT Code": "JPMEZAJJ022",
     "Bank Name": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
@@ -2186,8 +2186,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPME",
-    "bankCode": "ZA",
+    "bankCode": "JPME",
+    "countryCode": "ZA",
     "branchCode": "033",
     "SWIFT Code": "JPMEZAJJ033",
     "Bank Name": "J.P. MORGAN EQUITIES SOUTH AFRICA PROPRIETARY LIMITED",
@@ -2199,8 +2199,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMS",
-    "bankCode": "ZA",
+    "bankCode": "JPMS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "JPMSZAJJ",
     "Bank Name": "J.P. MORGAN SECURITIES SOUTH AFRICA PROPRIETARY LIMITED",
@@ -2212,8 +2212,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "ZA",
+    "bankCode": "MGTC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "MGTCZAJJ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A",
@@ -2225,8 +2225,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ULTR",
-    "bankCode": "ZA",
+    "bankCode": "ULTR",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "ULTRZAJC",
     "Bank Name": "JSE INVESTOR SERVICES PTY LTD",
@@ -2238,8 +2238,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "XJSEZAJJ",
     "Bank Name": "JSE LIMITED",
@@ -2251,8 +2251,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "ETP",
     "SWIFT Code": "XJSEZAJJETP",
     "Bank Name": "JSE LIMITED",
@@ -2264,8 +2264,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "SFX",
     "SWIFT Code": "XJSEZAJJSFX",
     "Bank Name": "JSE LIMITED",
@@ -2277,8 +2277,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "SAT",
     "SWIFT Code": "XJSEZAJJSAT",
     "Bank Name": "JSE LIMITED",
@@ -2290,8 +2290,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "MRG",
     "SWIFT Code": "XJSEZAJJMRG",
     "Bank Name": "JSE LIMITED",
@@ -2303,8 +2303,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "ISN",
     "SWIFT Code": "XJSEZAJJISN",
     "Bank Name": "JSE LIMITED",
@@ -2316,8 +2316,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XJSE",
-    "bankCode": "ZA",
+    "bankCode": "XJSE",
+    "countryCode": "ZA",
     "branchCode": "SLB",
     "SWIFT Code": "XJSEZAJJSLB",
     "Bank Name": "JSE LIMITED",
@@ -2329,8 +2329,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KESY",
-    "bankCode": "ZA",
+    "bankCode": "KESY",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "KESYZAJJ",
     "Bank Name": "KELA SECURITIES PTY LTD",
@@ -2342,8 +2342,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENS",
-    "bankCode": "ZA",
+    "bankCode": "GENS",
+    "countryCode": "ZA",
     "branchCode": "AJA",
     "SWIFT Code": "GENSZAJA",
     "Bank Name": "KHUMO SECURITIES (PTY) LTD.",
@@ -2355,8 +2355,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEST",
-    "bankCode": "ZA",
+    "bankCode": "LEST",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "LESTZAJJ",
     "Bank Name": "LEFIKA SECURITIES (PTY)LTD",
@@ -2368,8 +2368,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LSPR",
-    "bankCode": "ZA",
+    "bankCode": "LSPR",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "LSPRZAJJ",
     "Bank Name": "LIBERTY SECURITIES PROPRIETARY LIMITED",
@@ -2381,8 +2381,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARSY",
-    "bankCode": "ZA",
+    "bankCode": "ARSY",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "ARSYZAJJ",
     "Bank Name": "LONGMARK SECURITIES (PTY) LTD",
@@ -2394,8 +2394,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNSO",
-    "bankCode": "ZA",
+    "bankCode": "FNSO",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "FNSOZAJC",
     "Bank Name": "MAITLAND GROUP SOUTH AFRICA LTD",
@@ -2407,8 +2407,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPMT",
-    "bankCode": "ZA",
+    "bankCode": "PPMT",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "PPMTZAJC",
     "Bank Name": "MANDG INVESTMENT MANAGERS (PTY) LTD",
@@ -2420,8 +2420,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMF",
-    "bankCode": "ZA",
+    "bankCode": "MSMF",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "MSMFZAJJ",
     "Bank Name": "MASSMART MANAGEMENT AND FINANCE COMPANY (PTY) LTD",
@@ -2433,8 +2433,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBKH",
-    "bankCode": "ZA",
+    "bankCode": "SBKH",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SBKHZAJJ",
     "Bank Name": "MERRILL LYNCH SOUTH AFRICA (PROPRIETARY) LIMITED",
@@ -2446,8 +2446,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REMA",
-    "bankCode": "ZA",
+    "bankCode": "REMA",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "REMAZAJJ",
     "Bank Name": "MOMENTUM SECURITIES (PTY) LTD.",
@@ -2459,8 +2459,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGFY",
-    "bankCode": "ZA",
+    "bankCode": "MGFY",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "MGFYZAJJ",
     "Bank Name": "MTN GROUP FINTECH (PTY) LTD",
@@ -2472,8 +2472,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMV",
-    "bankCode": "ZA",
+    "bankCode": "NAMV",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "NAMVZAJ2",
     "Bank Name": "NAMPAK MANAGEMENT SERVICES",
@@ -2485,8 +2485,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAVG",
-    "bankCode": "ZA",
+    "bankCode": "NAVG",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "NAVGZAJJ",
     "Bank Name": "NAVIGARE SECURITIES PTY LTD",
@@ -2498,8 +2498,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEDS",
-    "bankCode": "ZA",
+    "bankCode": "NEDS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "NEDSZAJJ",
     "Bank Name": "NEDBANK LIMITED",
@@ -2511,8 +2511,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEDS",
-    "bankCode": "ZA",
+    "bankCode": "NEDS",
+    "countryCode": "ZA",
     "branchCode": "CLS",
     "SWIFT Code": "NEDSZAJJCLS",
     "Bank Name": "NEDBANK LIMITED",
@@ -2524,8 +2524,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEDS",
-    "bankCode": "ZA",
+    "bankCode": "NEDS",
+    "countryCode": "ZA",
     "branchCode": "TSP",
     "SWIFT Code": "NEDSZAJJTSP",
     "Bank Name": "NEDBANK LIMITED",
@@ -2537,8 +2537,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "022",
     "SWIFT Code": "NBOEZAJ2022",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2550,8 +2550,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "033",
     "SWIFT Code": "NBOEZAJ2033",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2563,8 +2563,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "044",
     "SWIFT Code": "NBOEZAJ2044",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2576,8 +2576,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "NBOEZAJ2",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2589,8 +2589,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "INT",
     "SWIFT Code": "NBOEZAJ2INT",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2602,8 +2602,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "PVT",
     "SWIFT Code": "NBOEZAJ2PVT",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2615,8 +2615,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "ZA",
+    "bankCode": "NBOE",
+    "countryCode": "ZA",
     "branchCode": "011",
     "SWIFT Code": "NBOEZAJ2011",
     "Bank Name": "NEDGROUP SECURITIES (PTY) LTD",
@@ -2628,8 +2628,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NITN",
-    "bankCode": "ZA",
+    "bankCode": "NITN",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "NITNZAJ2",
     "Bank Name": "NITENSO",
@@ -2641,8 +2641,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METL",
-    "bankCode": "ZA",
+    "bankCode": "METL",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "METLZAJJ",
     "Bank Name": "NOAH FINANCIAL INNOVATION (PROPRIETARY) LIMITED",
@@ -2654,8 +2654,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NVSE",
-    "bankCode": "ZA",
+    "bankCode": "NVSE",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "NVSEZAJC",
     "Bank Name": "NVEST SECURITIES (PTY) LTD",
@@ -2667,8 +2667,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMAM",
-    "bankCode": "ZA",
+    "bankCode": "OMAM",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "OMAMZAJC",
     "Bank Name": "OLD MUTUAL INVESTMENT GROUP(SA) PTY LTD",
@@ -2680,8 +2680,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "PEPKZAJC",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2693,8 +2693,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE1",
     "SWIFT Code": "PEPKZAJCPE1",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2706,8 +2706,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE2",
     "SWIFT Code": "PEPKZAJCPE2",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2719,8 +2719,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE3",
     "SWIFT Code": "PEPKZAJCPE3",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2732,8 +2732,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE4",
     "SWIFT Code": "PEPKZAJCPE4",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2745,8 +2745,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE5",
     "SWIFT Code": "PEPKZAJCPE5",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2758,8 +2758,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE6",
     "SWIFT Code": "PEPKZAJCPE6",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2771,8 +2771,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE7",
     "SWIFT Code": "PEPKZAJCPE7",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2784,8 +2784,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE8",
     "SWIFT Code": "PEPKZAJCPE8",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2797,8 +2797,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PE9",
     "SWIFT Code": "PEPKZAJCPE9",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2810,8 +2810,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "PEP",
     "SWIFT Code": "PEPKZAJCPEP",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2823,8 +2823,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "JDC",
     "SWIFT Code": "PEPKZAJCJDC",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2836,8 +2836,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPK",
-    "bankCode": "ZA",
+    "bankCode": "PEPK",
+    "countryCode": "ZA",
     "branchCode": "P10",
     "SWIFT Code": "PEPKZAJCP10",
     "Bank Name": "PEPKOR TRADING (PTY) LTD",
@@ -2849,8 +2849,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRSM",
-    "bankCode": "ZA",
+    "bankCode": "PRSM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "PRSMZAJJ",
     "Bank Name": "PERESEC PRIME BROKERS (PTY) LIMITED",
@@ -2862,8 +2862,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIMO",
-    "bankCode": "ZA",
+    "bankCode": "WIMO",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "WIMOZAJJ",
     "Bank Name": "PHILIPPUS DE WITT (PTY) LTD",
@@ -2875,8 +2875,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIMO",
-    "bankCode": "ZA",
+    "bankCode": "WIMO",
+    "countryCode": "ZA",
     "branchCode": "PRE",
     "SWIFT Code": "WIMOZAJJPRE",
     "Bank Name": "PHILIPPUS DE WITT (PTY) LTD",
@@ -2888,8 +2888,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPCP",
-    "bankCode": "ZA",
+    "bankCode": "PPCP",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "PPCPZAJJ",
     "Bank Name": "PPC LTD",
@@ -2901,8 +2901,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRVG",
-    "bankCode": "ZA",
+    "bankCode": "PRVG",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "PRVGZAJC",
     "Bank Name": "PRESCIENT FUND SERVICES",
@@ -2914,8 +2914,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCNT",
-    "bankCode": "ZA",
+    "bankCode": "PCNT",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "PCNTZAJC",
     "Bank Name": "PRESCIENT SECURITIES PTY LTD",
@@ -2927,8 +2927,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSSY",
-    "bankCode": "ZA",
+    "bankCode": "PSSY",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "PSSYZAJJ",
     "Bank Name": "PSG SECURITIES LIMITED",
@@ -2940,8 +2940,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RRPL",
-    "bankCode": "ZA",
+    "bankCode": "RRPL",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "RRPLZAJJ",
     "Bank Name": "RAND REFINERY LIMITED",
@@ -2953,8 +2953,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBJM",
-    "bankCode": "ZA",
+    "bankCode": "SBJM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SBJMZAJJ",
     "Bank Name": "RENCAP SECURITIES (PTY) LTD",
@@ -2966,8 +2966,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMBS",
-    "bankCode": "ZA",
+    "bankCode": "RMBS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "RMBSZAJJ",
     "Bank Name": "RMB SECURITIES (PTY) LIMITED",
@@ -2979,8 +2979,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMBS",
-    "bankCode": "ZA",
+    "bankCode": "RMBS",
+    "countryCode": "ZA",
     "branchCode": "JSE",
     "SWIFT Code": "RMBSZAJJJSE",
     "Bank Name": "RMB SECURITIES (PTY) LIMITED",
@@ -2992,8 +2992,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNEQ",
-    "bankCode": "ZA",
+    "bankCode": "FNEQ",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "FNEQZAJJ",
     "Bank Name": "RMB STOCKBROKING (PTY) LTD",
@@ -3005,8 +3005,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBPT",
-    "bankCode": "ZA",
+    "bankCode": "SBPT",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SBPTZAJJ",
     "Bank Name": "SA STOCK BROKERS (PTY) LTD",
@@ -3018,8 +3018,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SANL",
-    "bankCode": "ZA",
+    "bankCode": "SANL",
+    "countryCode": "ZA",
     "branchCode": "AJC",
     "SWIFT Code": "SANLZAJC",
     "Bank Name": "SANLAM INVESTMENT MANAGEMENT",
@@ -3031,8 +3031,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBSE",
-    "bankCode": "ZA",
+    "bankCode": "GBSE",
+    "countryCode": "ZA",
     "branchCode": "AJ3",
     "SWIFT Code": "GBSEZAJ3",
     "Bank Name": "SANLAM PRIVATE WEALTH (PTY) LTD",
@@ -3044,8 +3044,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBSE",
-    "bankCode": "ZA",
+    "bankCode": "GBSE",
+    "countryCode": "ZA",
     "branchCode": "GPC",
     "SWIFT Code": "GBSEZAJ3GPC",
     "Bank Name": "SANLAM PRIVATE WEALTH (PTY) LTD",
@@ -3057,8 +3057,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBSE",
-    "bankCode": "ZA",
+    "bankCode": "GBSE",
+    "countryCode": "ZA",
     "branchCode": "AJ2",
     "SWIFT Code": "GBSEZAJ2",
     "Bank Name": "SANLAM SPECIALISED FINANCE PROPRIETARY LIMITED",
@@ -3070,8 +3070,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SASF",
-    "bankCode": "ZA",
+    "bankCode": "SASF",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SASFZAJJ",
     "Bank Name": "SASFIN BANK LIMITED",
@@ -3083,8 +3083,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SASF",
-    "bankCode": "ZA",
+    "bankCode": "SASF",
+    "countryCode": "ZA",
     "branchCode": "TSY",
     "SWIFT Code": "SASFZAJJTSY",
     "Bank Name": "SASFIN BANK LIMITED",
@@ -3096,8 +3096,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "044",
     "SWIFT Code": "SFPSZAJJ044",
     "Bank Name": "SASFIN SECURITIES (PTY) LTD",
@@ -3109,8 +3109,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "055",
     "SWIFT Code": "SFPSZAJJ055",
     "Bank Name": "SASFIN SECURITIES (PTY) LTD",
@@ -3122,8 +3122,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "066",
     "SWIFT Code": "SFPSZAJJ066",
     "Bank Name": "SASFIN SECURITIES (PTY) LTD",
@@ -3135,8 +3135,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "022",
     "SWIFT Code": "SFPSZAJJ022",
     "Bank Name": "SASFIN SECURITIES (PTY) LTD",
@@ -3148,8 +3148,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "033",
     "SWIFT Code": "SFPSZAJJ033",
     "Bank Name": "SASFIN SECURITIES (PTY) LTD",
@@ -3161,8 +3161,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SFPSZAJJ",
     "Bank Name": "SASFIN SECURITIES (PTY) LTD",
@@ -3174,8 +3174,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBEQ",
-    "bankCode": "ZA",
+    "bankCode": "SBEQ",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SBEQZAJJ",
     "Bank Name": "SBG SECURITIES (PTY) LIMITED",
@@ -3187,8 +3187,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCDP",
-    "bankCode": "ZA",
+    "bankCode": "SCDP",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SCDPZAJJ",
     "Bank Name": "SCM DMA (PTY) LTD",
@@ -3200,8 +3200,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHY",
-    "bankCode": "ZA",
+    "bankCode": "SCHY",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "SCHYZAJJ",
     "Bank Name": "SERITI POWER (PTY) LTD",
@@ -3213,8 +3213,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPS",
-    "bankCode": "ZA",
+    "bankCode": "SFPS",
+    "countryCode": "ZA",
     "branchCode": "011",
     "SWIFT Code": "SFPSZAJJ011",
     "Bank Name": "SG FRANKEL POLLAK SECURITIES",
@@ -3226,8 +3226,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PRC",
     "SWIFT Code": "LINKZAJJPRC",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3239,8 +3239,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "DRA",
     "SWIFT Code": "LINKZAJJDRA",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3252,8 +3252,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "UNO",
     "SWIFT Code": "LINKZAJJUNO",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3265,8 +3265,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE1",
     "SWIFT Code": "LINKZAJJPE1",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3278,8 +3278,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE2",
     "SWIFT Code": "LINKZAJJPE2",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3291,8 +3291,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE3",
     "SWIFT Code": "LINKZAJJPE3",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3304,8 +3304,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE4",
     "SWIFT Code": "LINKZAJJPE4",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3317,8 +3317,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE5",
     "SWIFT Code": "LINKZAJJPE5",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3330,8 +3330,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE6",
     "SWIFT Code": "LINKZAJJPE6",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3343,8 +3343,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE7",
     "SWIFT Code": "LINKZAJJPE7",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3356,8 +3356,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE8",
     "SWIFT Code": "LINKZAJJPE8",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3369,8 +3369,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "PE9",
     "SWIFT Code": "LINKZAJJPE9",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3382,8 +3382,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINK",
-    "bankCode": "ZA",
+    "bankCode": "LINK",
+    "countryCode": "ZA",
     "branchCode": "P10",
     "SWIFT Code": "LINKZAJJP10",
     "Bank Name": "TRUSTLINK (PTY) LTD",
@@ -3395,8 +3395,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLRP",
-    "bankCode": "ZA",
+    "bankCode": "PLRP",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "PLRPZAJJ",
     "Bank Name": "TSB SECURITIES (PTY) LTD",
@@ -3408,8 +3408,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBZA",
-    "bankCode": "ZA",
+    "bankCode": "CBZA",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "CBZAZAJJ",
     "Bank Name": "TYMEBANK",
@@ -3421,8 +3421,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOUB",
-    "bankCode": "ZA",
+    "bankCode": "YOUB",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "YOUBZAJJ",
     "Bank Name": "UBANK LIMITED",
@@ -3434,8 +3434,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "ZA",
+    "bankCode": "UBSW",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "UBSWZAJJ",
     "Bank Name": "UBS SOUTH AFRICA (PROPRIETARY) LIMITED",
@@ -3447,8 +3447,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBSM",
-    "bankCode": "ZA",
+    "bankCode": "VBSM",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "VBSMZAJJ",
     "Bank Name": "VBS MUTUAL BANK",
@@ -3460,8 +3460,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VMGC",
-    "bankCode": "ZA",
+    "bankCode": "VMGC",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "VMGCZAJJ",
     "Bank Name": "VISIO FUND MANAGEMENT PTY LTD",
@@ -3473,8 +3473,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VGRP",
-    "bankCode": "ZA",
+    "bankCode": "VGRP",
+    "countryCode": "ZA",
     "branchCode": "AJM",
     "SWIFT Code": "VGRPZAJM",
     "Bank Name": "VODACOM GROUP LTD",
@@ -3486,8 +3486,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VWAG",
-    "bankCode": "ZA",
+    "bankCode": "VWAG",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "VWAGZAJJ",
     "Bank Name": "VOLKSWAGEN OF SOUTH AFRICA (PTY) LTD",
@@ -3499,8 +3499,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCMT",
-    "bankCode": "ZA",
+    "bankCode": "VCMT",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "VCMTZAJJ",
     "Bank Name": "VUNANI CAPITAL MARKETS(PTY)LTD",
@@ -3512,8 +3512,8 @@ const southAfrica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEQP",
-    "bankCode": "ZA",
+    "bankCode": "CEQP",
+    "countryCode": "ZA",
     "branchCode": "AJJ",
     "SWIFT Code": "CEQPZAJJ",
     "Bank Name": "VUNANI SECURITIES (PROPRIETARY) LIMITED",

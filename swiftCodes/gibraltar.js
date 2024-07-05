@@ -1,7 +1,7 @@
 const gibraltar = [
   {
-    "countryCode": "BJSB",
-    "bankCode": "GI",
+    "bankCode": "BJSB",
+    "countryCode": "GI",
     "branchCode": "IGX",
     "SWIFT Code": "BJSBGIGX",
     "Bank Name": "BANK J. SAFRA SARASIN (GIBRALTAR) LTD",
@@ -13,8 +13,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVSE",
-    "bankCode": "GI",
+    "bankCode": "GVSE",
+    "countryCode": "GI",
     "branchCode": "IGG",
     "SWIFT Code": "GVSEGIGG",
     "Bank Name": "ENTAIN OPERATIONS LIMITED",
@@ -26,8 +26,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBK",
-    "bankCode": "GI",
+    "bankCode": "GIBK",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "GIBKGIGI",
     "Bank Name": "GIBRALTAR INTERNATIONAL BANK LIMITED",
@@ -39,8 +39,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBNK",
-    "bankCode": "GI",
+    "bankCode": "JBNK",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "JBNKGIGI",
     "Bank Name": "JUSTBANK",
@@ -52,8 +52,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOYP",
-    "bankCode": "GI",
+    "bankCode": "MOYP",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "MOYPGIGI",
     "Bank Name": "MONEYCORP BANK",
@@ -65,8 +65,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "GI",
+    "bankCode": "RBOS",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "RBOSGIGI",
     "Bank Name": "RBSI TRADING AS NATWEST INTERNATIONAL (GIBRALTAR)",
@@ -78,8 +78,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBBO",
-    "bankCode": "GI",
+    "bankCode": "RBBO",
+    "countryCode": "GI",
     "branchCode": "IG2",
     "SWIFT Code": "RBBOGIG2",
     "Bank Name": "RIBBON PLC",
@@ -91,8 +91,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMB",
-    "bankCode": "GI",
+    "bankCode": "HAMB",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "HAMBGIGI",
     "Bank Name": "SG KLEINWORT HAMBROS BANK LIMITED GIBRALTAR BRANCH",
@@ -104,8 +104,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRYA",
-    "bankCode": "GI",
+    "bankCode": "TRYA",
+    "countryCode": "GI",
     "branchCode": "IG2",
     "SWIFT Code": "TRYAGIG2",
     "Bank Name": "TRANSACT PAYMENTS LTD",
@@ -117,8 +117,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TNOV",
-    "bankCode": "GI",
+    "bankCode": "TNOV",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "TNOVGIGI",
     "Bank Name": "TRUSTED NOVUS BANK LIMITED",
@@ -130,8 +130,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TURC",
-    "bankCode": "GI",
+    "bankCode": "TURC",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "TURCGIGI",
     "Bank Name": "TURICUM PRIVATE BANK LIMITED",
@@ -143,8 +143,8 @@ const gibraltar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XAPO",
-    "bankCode": "GI",
+    "bankCode": "XAPO",
+    "countryCode": "GI",
     "branchCode": "IGI",
     "SWIFT Code": "XAPOGIGI",
     "Bank Name": "XAPO BANK LIMITED",

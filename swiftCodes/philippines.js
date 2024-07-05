@@ -1,7 +1,7 @@
 const philippines = [
   {
-    "countryCode": "WERA",
-    "bankCode": "PH",
+    "bankCode": "WERA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "WERAPHM2",
     "Bank Name": "WELCOME BANK, RURAL BANK INC.",
@@ -13,8 +13,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TYBK",
-    "bankCode": "PH",
+    "bankCode": "TYBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "TYBKPHMM",
     "Bank Name": "YUANTA SAVINGS BANK (FORMERLY TONGYANG SAVINGS BANK)",
@@ -26,8 +26,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBTE",
-    "bankCode": "PH",
+    "bankCode": "ZBTE",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "ZBTEPHM2",
     "Bank Name": "ZYBI TECH INC.",
@@ -39,8 +39,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLTE",
-    "bankCode": "PH",
+    "bankCode": "GLTE",
+    "countryCode": "PH",
     "branchCode": "HMT",
     "SWIFT Code": "GLTEPHMT",
     "Bank Name": "GLOBE TELECOM, INC.",
@@ -52,8 +52,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LURR",
-    "bankCode": "PH",
+    "bankCode": "LURR",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "LURRPHM2",
     "Bank Name": "GM BANK OF LUZON, INC. (A RURAL BANK)",
@@ -65,8 +65,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOTY",
-    "bankCode": "PH",
+    "bankCode": "GOTY",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "GOTYPHM2",
     "Bank Name": "GOTYME BANK CORPORATION",
@@ -78,8 +78,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPNE",
-    "bankCode": "PH",
+    "bankCode": "GPNE",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "GPNEPHM2",
     "Bank Name": "GPAY NETWORK PH, INC.",
@@ -91,8 +91,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBPH",
-    "bankCode": "PH",
+    "bankCode": "HBPH",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "HBPHPHMM",
     "Bank Name": "HSBC SAVINGS BANK (PHILIPINES) INC.",
@@ -104,8 +104,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "PH",
+    "bankCode": "HNBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "HNBKPHMM",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD. MANILA BRANCH",
@@ -117,8 +117,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IREM",
-    "bankCode": "PH",
+    "bankCode": "IREM",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "IREMPHM2",
     "Bank Name": "I-REMIT, INC.",
@@ -130,8 +130,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "PH",
+    "bankCode": "ICBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "ICBKPHMM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, MANILA BRANCH",
@@ -143,8 +143,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "PH",
+    "bankCode": "IBKO",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "IBKOPHMM",
     "Bank Name": "INDUSTRIAL BANK OF KOREA, MANILA BRANCH",
@@ -156,8 +156,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIP",
-    "bankCode": "PH",
+    "bankCode": "IFIP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "IFIPPHM2",
     "Bank Name": "INFOSERVE INCORPORATED",
@@ -169,8 +169,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "PH",
+    "bankCode": "INGB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "INGBPHMM",
     "Bank Name": "ING BANK N.V.",
@@ -182,8 +182,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITDE",
-    "bankCode": "PH",
+    "bankCode": "ITDE",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "ITDEPHM2",
     "Bank Name": "INTER-ASIA DEVELOPMENT BANK",
@@ -195,8 +195,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "PH",
+    "bankCode": "CHAS",
+    "countryCode": "PH",
     "branchCode": "OBU",
     "SWIFT Code": "CHASPHMMOBU",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
@@ -208,8 +208,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "PH",
+    "bankCode": "CHAS",
+    "countryCode": "PH",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASPHMMENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
@@ -221,8 +221,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "PH",
+    "bankCode": "CHAS",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "CHASPHMM",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
@@ -234,8 +234,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KACU",
-    "bankCode": "PH",
+    "bankCode": "KACU",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "KACUPHM2",
     "Bank Name": "KATIPUNAN BANKING CORPORATION 'A RURAL BANK'",
@@ -247,8 +247,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "PH",
+    "bankCode": "KOEX",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "KOEXPHMM",
     "Bank Name": "KEB HANA BANK",
@@ -260,8 +260,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPCR",
-    "bankCode": "PH",
+    "bankCode": "LPCR",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "LPCRPHM2",
     "Bank Name": "LAGUNA PRESTIGE BANKING CORPORATION A RURAL BANK",
@@ -273,8 +273,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLBP",
-    "bankCode": "PH",
+    "bankCode": "TLBP",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "TLBPPHMM",
     "Bank Name": "LAND BANK OF THE PHILIPPINES",
@@ -286,8 +286,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIRA",
-    "bankCode": "PH",
+    "bankCode": "LIRA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "LIRAPHM2",
     "Bank Name": "LIFEBANK-A RURAL BANK",
@@ -299,8 +299,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOLP",
-    "bankCode": "PH",
+    "bankCode": "LOLP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "LOLPPHM2",
     "Bank Name": "LOLC BANK PHILIPPINES INC",
@@ -312,8 +312,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSH",
-    "bankCode": "PH",
+    "bankCode": "LFSH",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "LFSHPHM2",
     "Bank Name": "LULU FINANCIAL SERVICES (PHILS) INC",
@@ -325,8 +325,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRLC",
-    "bankCode": "PH",
+    "bankCode": "MRLC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MRLCPHM2",
     "Bank Name": "MACTAN RURAL BANK (LAPU-LAPU CITY) INC",
@@ -338,8 +338,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKDC",
-    "bankCode": "PH",
+    "bankCode": "MKDC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MKDCPHM2",
     "Bank Name": "MAKILING DEVELOPMENT BANK CORPORATION",
@@ -351,8 +351,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLRU",
-    "bankCode": "PH",
+    "bankCode": "MLRU",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MLRUPHM2",
     "Bank Name": "MALARAYAT RURAL BANK, INC.",
@@ -364,8 +364,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRAL",
-    "bankCode": "PH",
+    "bankCode": "MRAL",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "MRALPHMM",
     "Bank Name": "MANILA ELECTRIC COMPANY",
@@ -377,8 +377,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAYC",
-    "bankCode": "PH",
+    "bankCode": "MAYC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MAYCPHM2",
     "Bank Name": "MARCOPAY INC.",
@@ -390,8 +390,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYYA",
-    "bankCode": "PH",
+    "bankCode": "MYYA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MYYAPHM2",
     "Bank Name": "MAYA BANK, INC.",
@@ -403,8 +403,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "PH",
+    "bankCode": "MBBE",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "MBBEPHMM",
     "Bank Name": "MAYBANK PHILIPPINES, INC",
@@ -416,8 +416,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "PH",
+    "bankCode": "ICBC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "ICBCPHMM",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH",
@@ -429,8 +429,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCCT",
-    "bankCode": "PH",
+    "bankCode": "MCCT",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "MCCTPHMM",
     "Bank Name": "MEGAWIDE CONSTRUCTION CORPORATION",
@@ -442,8 +442,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEOP",
-    "bankCode": "PH",
+    "bankCode": "MEOP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MEOPPHM2",
     "Bank Name": "METRO SOUTH COOPERATIVE BANK",
@@ -455,8 +455,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTC",
-    "bankCode": "PH",
+    "bankCode": "MBTC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "MBTCPHMM",
     "Bank Name": "METROPOLITAN BANK AND TRUST CO.",
@@ -468,8 +468,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "PH",
+    "bankCode": "MHCB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "MHCBPHMM",
     "Bank Name": "MIZUHO BANK, LTD., MANILA BRANCH",
@@ -481,8 +481,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOML",
-    "bankCode": "PH",
+    "bankCode": "MOML",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MOMLPHM2",
     "Bank Name": "MONEY MALL RURAL BANK, INC.",
@@ -494,8 +494,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "PH",
+    "bankCode": "BOTK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BOTKPHMM",
     "Bank Name": "MUFG BANK, LTD., MANILA BRANCH",
@@ -507,8 +507,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MVRS",
-    "bankCode": "PH",
+    "bankCode": "MVRS",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MVRSPHM2",
     "Bank Name": "MVSM BANK (A RURAL BANK SINCE 1953)",
@@ -520,8 +520,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESN",
-    "bankCode": "PH",
+    "bankCode": "NESN",
+    "countryCode": "PH",
     "branchCode": "HMN",
     "SWIFT Code": "NESNPHMN",
     "Bank Name": "NESTLE BUSINESS SERVICES AOA INC",
@@ -533,8 +533,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMNP",
-    "bankCode": "PH",
+    "bankCode": "OMNP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "OMNPPHM2",
     "Bank Name": "OMNIPAY, INC.",
@@ -546,8 +546,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OWNO",
-    "bankCode": "PH",
+    "bankCode": "OWNO",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "OWNOPHM2",
     "Bank Name": "OWN BANK THE RURAL BANK OF CAVITE CITY INC.",
@@ -559,8 +559,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAEY",
-    "bankCode": "PH",
+    "bankCode": "PAEY",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "PAEYPHM2",
     "Bank Name": "PAYMONGO PAYMENTS, INC.",
@@ -572,8 +572,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAHC",
-    "bankCode": "PH",
+    "bankCode": "PAHC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "PAHCPHM2",
     "Bank Name": "PAYNAMICS TECHNOLOGIES INC",
@@ -585,8 +585,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPHI",
-    "bankCode": "PH",
+    "bankCode": "CPHI",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "CPHIPHMM",
     "Bank Name": "PHILIPPINE BANK OF COMMUNICATIONS",
@@ -598,8 +598,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPBU",
-    "bankCode": "PH",
+    "bankCode": "PPBU",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PPBUPHMM",
     "Bank Name": "PHILIPPINE BUSINESS BANK",
@@ -611,8 +611,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDAX",
-    "bankCode": "PH",
+    "bankCode": "PDAX",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "PDAXPHM2",
     "Bank Name": "PHILIPPINE DIGITAL ASSET EXCHANGE, INC. (PDAX)",
@@ -624,8 +624,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBM",
-    "bankCode": "PH",
+    "bankCode": "PNBM",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PNBMPHMM",
     "Bank Name": "PHILIPPINE NATIONAL BANK",
@@ -637,8 +637,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBM",
-    "bankCode": "PH",
+    "bankCode": "PNBM",
+    "countryCode": "PH",
     "branchCode": "TOD",
     "SWIFT Code": "PNBMPHMMTOD",
     "Bank Name": "PHILIPPINE NATIONAL BANK",
@@ -650,8 +650,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHSB",
-    "bankCode": "PH",
+    "bankCode": "PHSB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PHSBPHMM",
     "Bank Name": "PHILIPPINE SAVINGS BANK",
@@ -663,8 +663,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHVB",
-    "bankCode": "PH",
+    "bankCode": "PHVB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PHVBPHMM",
     "Bank Name": "PHILIPPINE VETERANS BANK",
@@ -676,8 +676,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHTB",
-    "bankCode": "PH",
+    "bankCode": "PHTB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PHTBPHMM",
     "Bank Name": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
@@ -689,8 +689,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "PH",
+    "bankCode": "AIAC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "AIACPHMM",
     "Bank Name": "AIA PHILIPPINES",
@@ -702,8 +702,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIIP",
-    "bankCode": "PH",
+    "bankCode": "AIIP",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "AIIPPHMM",
     "Bank Name": "AL-AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
@@ -715,8 +715,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APHI",
-    "bankCode": "PH",
+    "bankCode": "APHI",
+    "countryCode": "PH",
     "branchCode": "HM3",
     "SWIFT Code": "APHIPHM3",
     "Bank Name": "ALIPAY PHILIPPINES INC.",
@@ -728,8 +728,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APHI",
-    "bankCode": "PH",
+    "bankCode": "APHI",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "APHIPHM2",
     "Bank Name": "ALIPAY PHILIPPINES INC.",
@@ -741,8 +741,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALKB",
-    "bankCode": "PH",
+    "bankCode": "ALKB",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "ALKBPHM2",
     "Bank Name": "ALLBANK (A THRIFT BANK) INC",
@@ -754,8 +754,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBK",
-    "bankCode": "PH",
+    "bankCode": "AUBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "AUBKPHMM",
     "Bank Name": "ASIA UNITED BANK CORPORATION",
@@ -767,8 +767,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASDB",
-    "bankCode": "PH",
+    "bankCode": "ASDB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "ASDBPHMM",
     "Bank Name": "ASIAN DEVELOPMENT BANK",
@@ -780,8 +780,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "PH",
+    "bankCode": "ANZB",
+    "countryCode": "PH",
     "branchCode": "HMX",
     "SWIFT Code": "ANZBPHMX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -793,8 +793,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AYCO",
-    "bankCode": "PH",
+    "bankCode": "AYCO",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "AYCOPHMM",
     "Bank Name": "AYALA CORPORATION",
@@ -806,8 +806,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFSR",
-    "bankCode": "PH",
+    "bankCode": "BFSR",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "BFSRPHM2",
     "Bank Name": "BANANA FINTECH SERVICES CORPORATION",
@@ -819,8 +819,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNNN",
-    "bankCode": "PH",
+    "bankCode": "BNNN",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "BNNNPHM2",
     "Bank Name": "BANCNET, INC.",
@@ -832,8 +832,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNNN",
-    "bankCode": "PH",
+    "bankCode": "BNNN",
+    "countryCode": "PH",
     "branchCode": "H22",
     "SWIFT Code": "BNNNPH22",
     "Bank Name": "BANCNET, INC.",
@@ -845,8 +845,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOUA",
-    "bankCode": "PH",
+    "bankCode": "MOUA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "MOUAPHM2",
     "Bank Name": "BANGKO MONTANOSA, INC. A RURAL BANK",
@@ -858,8 +858,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCB",
-    "bankCode": "PH",
+    "bankCode": "PHCB",
+    "countryCode": "PH",
     "branchCode": "HMB",
     "SWIFT Code": "PHCBPHMB",
     "Bank Name": "BANGKO SENTRAL NG PILIPINAS",
@@ -871,8 +871,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCB",
-    "bankCode": "PH",
+    "bankCode": "PHCB",
+    "countryCode": "PH",
     "branchCode": "HMA",
     "SWIFT Code": "PHCBPHMA",
     "Bank Name": "BANGKO SENTRAL NG PILIPINAS",
@@ -884,8 +884,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCB",
-    "bankCode": "PH",
+    "bankCode": "PHCB",
+    "countryCode": "PH",
     "branchCode": "HMD",
     "SWIFT Code": "PHCBPHMD",
     "Bank Name": "BANGKO SENTRAL NG PILIPINAS",
@@ -897,8 +897,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCB",
-    "bankCode": "PH",
+    "bankCode": "PHCB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PHCBPHMM",
     "Bank Name": "BANGKO SENTRAL NG PILIPINAS",
@@ -910,8 +910,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCB",
-    "bankCode": "PH",
+    "bankCode": "PHCB",
+    "countryCode": "PH",
     "branchCode": "HMC",
     "SWIFT Code": "PHCBPHMC",
     "Bank Name": "BANGKO SENTRAL NG PILIPINAS",
@@ -923,8 +923,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "PH",
+    "bankCode": "BKKB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BKKBPHMM",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH",
@@ -936,8 +936,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "PH",
+    "bankCode": "BOFA",
+    "countryCode": "PH",
     "branchCode": "H2X",
     "SWIFT Code": "BOFAPH2X",
     "Bank Name": "BANK OF AMERICA, N.A. MANILA",
@@ -949,8 +949,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PH",
+    "bankCode": "BKCH",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BKCHPHMM",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH",
@@ -962,8 +962,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PH",
+    "bankCode": "BKCH",
+    "countryCode": "PH",
     "branchCode": "RTS",
     "SWIFT Code": "BKCHPHMMRTS",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED - MANILA BRANCH",
@@ -975,8 +975,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PABI",
-    "bankCode": "PH",
+    "bankCode": "PABI",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "PABIPHMM",
     "Bank Name": "BANK OF COMMERCE",
@@ -988,8 +988,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOPI",
-    "bankCode": "PH",
+    "bankCode": "BOPI",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BOPIPHMM",
     "Bank Name": "BANK OF THE PHILIPPINE ISLANDS",
@@ -1001,8 +1001,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOPI",
-    "bankCode": "PH",
+    "bankCode": "BOPI",
+    "countryCode": "PH",
     "branchCode": "TRY",
     "SWIFT Code": "BOPIPHMMTRY",
     "Bank Name": "BANK OF THE PHILIPPINE ISLANDS",
@@ -1014,8 +1014,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RURL",
-    "bankCode": "PH",
+    "bankCode": "RURL",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RURLPHM2",
     "Bank Name": "BANKWAYS, INC. (A RURAL BANK)",
@@ -1027,8 +1027,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOPB",
-    "bankCode": "PH",
+    "bankCode": "BOPB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BOPBPHMM",
     "Bank Name": "BDO PRIVATE BANK INC.",
@@ -1040,8 +1040,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNOR",
-    "bankCode": "PH",
+    "bankCode": "BNOR",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BNORPHMM",
     "Bank Name": "BDO UNIBANK, INC.",
@@ -1053,8 +1053,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIUR",
-    "bankCode": "PH",
+    "bankCode": "BIUR",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "BIURPHM2",
     "Bank Name": "BINAN RURAL BANK, INC.",
@@ -1066,8 +1066,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "PH",
+    "bankCode": "BNPA",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "BNPAPHMM",
     "Bank Name": "BNP PARIBAS, MANILA OFFSHORE BRANCH",
@@ -1079,8 +1079,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAMZ",
-    "bankCode": "PH",
+    "bankCode": "CAMZ",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "CAMZPHM2",
     "Bank Name": "CARD MRI RIZAL BANK, INC.",
@@ -1092,8 +1092,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "PH",
+    "bankCode": "UWCB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "UWCBPHMM",
     "Bank Name": "CATHAY UNITED BANK CO., LTD. MANILA BRANCH",
@@ -1105,8 +1105,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "PH",
+    "bankCode": "CCBC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "CCBCPHMM",
     "Bank Name": "CHANG HWA COMMERCIAL BANK,LTD. MANILA BRANCH",
@@ -1118,8 +1118,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBK",
-    "bankCode": "PH",
+    "bankCode": "CHBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "CHBKPHMM",
     "Bank Name": "CHINA BANKING CORPORATION",
@@ -1131,8 +1131,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIPH",
-    "bankCode": "PH",
+    "bankCode": "CIPH",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "CIPHPHMM",
     "Bank Name": "CIMB BANK PHILIPPINES INC.",
@@ -1144,8 +1144,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYC",
-    "bankCode": "PH",
+    "bankCode": "CIYC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "CIYCPHM2",
     "Bank Name": "CIS BAYAD CENTER, INC.",
@@ -1157,8 +1157,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PH",
+    "bankCode": "CITI",
+    "countryCode": "PH",
     "branchCode": "CBU",
     "SWIFT Code": "CITIPHMXCBU",
     "Bank Name": "CITIBANK,N.A., MANILA BRANCH",
@@ -1170,8 +1170,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PH",
+    "bankCode": "CITI",
+    "countryCode": "PH",
     "branchCode": "TSU",
     "SWIFT Code": "CITIPHMXTSU",
     "Bank Name": "CITIBANK,N.A., MANILA BRANCH",
@@ -1183,8 +1183,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PH",
+    "bankCode": "CITI",
+    "countryCode": "PH",
     "branchCode": "HMX",
     "SWIFT Code": "CITIPHMX",
     "Bank Name": "CITIBANK,N.A., MANILA BRANCH",
@@ -1196,8 +1196,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUOB",
-    "bankCode": "PH",
+    "bankCode": "CUOB",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "CUOBPHM2",
     "Bank Name": "COMMUNITY RURAL BANK OF ROMBLON (ROMBLON), INC",
@@ -1209,8 +1209,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COYA",
-    "bankCode": "PH",
+    "bankCode": "COYA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "COYAPHM2",
     "Bank Name": "COOPERATIVE BANK OF CAGAYAN",
@@ -1222,8 +1222,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "PH",
+    "bankCode": "CTCB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "CTCBPHMM",
     "Bank Name": "CTBC BANK (PHILIPPINES) CORP.",
@@ -1235,8 +1235,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PH",
+    "bankCode": "DEUT",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "DEUTPHMM",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1248,8 +1248,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBPH",
-    "bankCode": "PH",
+    "bankCode": "DBPH",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "DBPHPHMM",
     "Bank Name": "DEVELOPMENT BANK OF THE PHILIPPINES",
@@ -1261,8 +1261,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWBC",
-    "bankCode": "PH",
+    "bankCode": "EWBC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "EWBCPHMM",
     "Bank Name": "EAST WEST BANKING CORPORATION",
@@ -1274,8 +1274,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAWR",
-    "bankCode": "PH",
+    "bankCode": "EAWR",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "EAWRPHM2",
     "Bank Name": "EAST WEST RURAL BANK, INC.",
@@ -1287,8 +1287,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAGM",
-    "bankCode": "PH",
+    "bankCode": "EAGM",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "EAGMPHM2",
     "Bank Name": "EASYPAY GLOBAL EMI CORP.",
@@ -1300,8 +1300,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECAS",
-    "bankCode": "PH",
+    "bankCode": "ECAS",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "ECASPHM2",
     "Bank Name": "ECASHPAY ASIA INC",
@@ -1313,8 +1313,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "PH",
+    "bankCode": "FCBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "FCBKPHMM",
     "Bank Name": "FIRST COMMERCIAL BANK, LTD., MANILA BRANCH",
@@ -1326,8 +1326,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GXCH",
-    "bankCode": "PH",
+    "bankCode": "GXCH",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "GXCHPHM2",
     "Bank Name": "G-XCHANGE, INC.",
@@ -1339,8 +1339,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPSF",
-    "bankCode": "PH",
+    "bankCode": "PPSF",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "PPSFPHM2",
     "Bank Name": "PPS-PEPP FINANCIAL SERVICES CORPORATION",
@@ -1352,8 +1352,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POUA",
-    "bankCode": "PH",
+    "bankCode": "POUA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "POUAPHM2",
     "Bank Name": "PROVIDENCE RURAL BANK INC.",
@@ -1365,8 +1365,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QWBS",
-    "bankCode": "PH",
+    "bankCode": "QWBS",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "QWBSPHM2",
     "Bank Name": "QWIKWIRE BILLING SYSTEMS INC",
@@ -1378,8 +1378,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBRU",
-    "bankCode": "PH",
+    "bankCode": "RBRU",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RBRUPHM2",
     "Bank Name": "RBT BANK, INC., A RURAL BANK",
@@ -1391,8 +1391,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBC",
-    "bankCode": "PH",
+    "bankCode": "RCBC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "RCBCPHMM",
     "Bank Name": "RIZAL COMMERCIAL BANKING CORPORATION",
@@ -1404,8 +1404,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROBP",
-    "bankCode": "PH",
+    "bankCode": "ROBP",
+    "countryCode": "PH",
     "branchCode": "HMQ",
     "SWIFT Code": "ROBPPHMQ",
     "Bank Name": "ROBINSONS BANK CORPORATION",
@@ -1417,8 +1417,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUBC",
-    "bankCode": "PH",
+    "bankCode": "RUBC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUBCPHM2",
     "Bank Name": "RURAL BANK OF BACOLOD CITY, INC.",
@@ -1430,8 +1430,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUBU",
-    "bankCode": "PH",
+    "bankCode": "RUBU",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUBUPHM2",
     "Bank Name": "RURAL BANK OF BAUANG INC",
@@ -1443,8 +1443,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUBY",
-    "bankCode": "PH",
+    "bankCode": "RUBY",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUBYPHM2",
     "Bank Name": "RURAL BANK OF BAY, INC.",
@@ -1456,8 +1456,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUHL",
-    "bankCode": "PH",
+    "bankCode": "RUHL",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUHLPHM2",
     "Bank Name": "RURAL BANK OF HILONGOS (LEYTE), INC",
@@ -1469,8 +1469,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUIE",
-    "bankCode": "PH",
+    "bankCode": "RUIE",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUIEPHM2",
     "Bank Name": "RURAL BANK OF ITOGON (BENGUET), INC",
@@ -1482,8 +1482,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPZ",
-    "bankCode": "PH",
+    "bankCode": "RUPZ",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUPZPHM2",
     "Bank Name": "RURAL BANK OF LA PAZ, INC.",
@@ -1495,8 +1495,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLSU",
-    "bankCode": "PH",
+    "bankCode": "RLSU",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RLSUPHM2",
     "Bank Name": "RURAL BANK OF LANUZA (SURIGAO DEL SUR), INC.",
@@ -1508,8 +1508,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUMT",
-    "bankCode": "PH",
+    "bankCode": "RUMT",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUMTPHM2",
     "Bank Name": "RURAL BANK OF MONTALBAN, INC.",
@@ -1521,8 +1521,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPP",
-    "bankCode": "PH",
+    "bankCode": "RUPP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUPPPHM2",
     "Bank Name": "RURAL BANK OF PORAC (PAMP), INC.",
@@ -1534,8 +1534,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RURU",
-    "bankCode": "PH",
+    "bankCode": "RURU",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RURUPHM2",
     "Bank Name": "RURAL BANK OF ROSARIO (LA UNION)INC",
@@ -1547,8 +1547,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUSY",
-    "bankCode": "PH",
+    "bankCode": "RUSY",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUSYPHM2",
     "Bank Name": "RURAL BANK OF SAGAY, INC.",
@@ -1560,8 +1560,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSMS",
-    "bankCode": "PH",
+    "bankCode": "RSMS",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RSMSPHM2",
     "Bank Name": "RURAL BANK OF SAN MATEO (ISABELA) INC",
@@ -1573,8 +1573,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSNA",
-    "bankCode": "PH",
+    "bankCode": "RSNA",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RSNAPHM2",
     "Bank Name": "RURAL BANK OF SAN NARCISO, INC.",
@@ -1586,8 +1586,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSMC",
-    "bankCode": "PH",
+    "bankCode": "RSMC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RSMCPHM2",
     "Bank Name": "RURAL BANK OF SANCHEZ MIRA CAGAYAN INC.",
@@ -1599,8 +1599,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUST",
-    "bankCode": "PH",
+    "bankCode": "RUST",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUSTPHM2",
     "Bank Name": "RURAL BANK OF SILAY CITY, INC.",
@@ -1612,8 +1612,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUSN",
-    "bankCode": "PH",
+    "bankCode": "RUSN",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "RUSNPHM2",
     "Bank Name": "RURAL BANK OF SOLANO (N.V.),INC.",
@@ -1625,8 +1625,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAUI",
-    "bankCode": "PH",
+    "bankCode": "LAUI",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "LAUIPHM2",
     "Bank Name": "SEABANK PHILIPPINES",
@@ -1638,8 +1638,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SETC",
-    "bankCode": "PH",
+    "bankCode": "SETC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "SETCPHMM",
     "Bank Name": "SECURITY BANK CORPORATION",
@@ -1651,8 +1651,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "PH",
+    "bankCode": "SHBK",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "SHBKPHMM",
     "Bank Name": "SHINHAN BANK MANILA BRANCH",
@@ -1664,8 +1664,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHPH",
-    "bankCode": "PH",
+    "bankCode": "SHPH",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "SHPHPHM2",
     "Bank Name": "SHOPEEPAY PHILIPPINES, INC.",
@@ -1677,8 +1677,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPEY",
-    "bankCode": "PH",
+    "bankCode": "SPEY",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "SPEYPHM2",
     "Bank Name": "SPEEDYPAY INC.",
@@ -1690,8 +1690,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PH",
+    "bankCode": "SCBL",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "SCBLPHMM",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -1703,8 +1703,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PH",
+    "bankCode": "SCBL",
+    "countryCode": "PH",
     "branchCode": "EQI",
     "SWIFT Code": "SCBLPHMMEQI",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -1716,8 +1716,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRCP",
-    "bankCode": "PH",
+    "bankCode": "SRCP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "SRCPPHM2",
     "Bank Name": "STARPAY CORPORATION",
@@ -1729,8 +1729,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STLA",
-    "bankCode": "PH",
+    "bankCode": "STLA",
+    "countryCode": "PH",
     "branchCode": "H22",
     "SWIFT Code": "STLAPH22",
     "Bank Name": "STERLING BANK OF ASIA INC.(A SAVINGS BANK)",
@@ -1742,8 +1742,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "PH",
+    "bankCode": "SMBC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "SMBCPHMM",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH",
@@ -1755,8 +1755,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAGC",
-    "bankCode": "PH",
+    "bankCode": "TAGC",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "TAGCPHM2",
     "Bank Name": "TAGCASH LTD. INC.",
@@ -1768,8 +1768,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "PH",
+    "bankCode": "TACB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "TACBPHMM",
     "Bank Name": "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
@@ -1781,8 +1781,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAYO",
-    "bankCode": "PH",
+    "bankCode": "TAYO",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "TAYOPHM2",
     "Bank Name": "TAYOCASH INC.",
@@ -1794,8 +1794,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "PH",
+    "bankCode": "HSBC",
+    "countryCode": "PH",
     "branchCode": "CEB",
     "SWIFT Code": "HSBCPHMMCEB",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
@@ -1807,8 +1807,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "PH",
+    "bankCode": "HSBC",
+    "countryCode": "PH",
     "branchCode": "TRY",
     "SWIFT Code": "HSBCPHMMTRY",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
@@ -1820,8 +1820,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "PH",
+    "bankCode": "HSBC",
+    "countryCode": "PH",
     "branchCode": "SEC",
     "SWIFT Code": "HSBCPHMMSEC",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
@@ -1833,8 +1833,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "PH",
+    "bankCode": "HSBC",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "HSBCPHMM",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD - PHILIPPINE BRANCH",
@@ -1846,8 +1846,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "PH",
+    "bankCode": "MFCT",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "MFCTPHMM",
     "Bank Name": "THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC.",
@@ -1859,8 +1859,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOKT",
-    "bankCode": "PH",
+    "bankCode": "TOKT",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "TOKTPHM2",
     "Bank Name": "TOKTOKWALLET INC.",
@@ -1872,8 +1872,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TODG",
-    "bankCode": "PH",
+    "bankCode": "TODG",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "TODGPHM2",
     "Bank Name": "TONIK DIGITAL BANK, INC.",
@@ -1885,8 +1885,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOPJ",
-    "bankCode": "PH",
+    "bankCode": "TOPJ",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "TOPJPHM2",
     "Bank Name": "TOPJUAN TECH CORPORATION",
@@ -1898,8 +1898,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRXP",
-    "bankCode": "PH",
+    "bankCode": "TRXP",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "TRXPPHM2",
     "Bank Name": "TRAXION PAY INC",
@@ -1911,8 +1911,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPH",
-    "bankCode": "PH",
+    "bankCode": "UBPH",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "UBPHPHMM",
     "Bank Name": "UNION BANK OF THE PHILIPPINES",
@@ -1924,8 +1924,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNOD",
-    "bankCode": "PH",
+    "bankCode": "UNOD",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "UNODPHM2",
     "Bank Name": "UNIONDIGITAL BANK INC.",
@@ -1937,8 +1937,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "PH",
+    "bankCode": "UOVB",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "UOVBPHMM",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED - MANILA BRANCH",
@@ -1950,8 +1950,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNRP",
-    "bankCode": "PH",
+    "bankCode": "UNRP",
+    "countryCode": "PH",
     "branchCode": "HMM",
     "SWIFT Code": "UNRPPHMM",
     "Bank Name": "UNIVERSAL ROBINA CORPORATION",
@@ -1963,8 +1963,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNOB",
-    "bankCode": "PH",
+    "bankCode": "UNOB",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "UNOBPHM2",
     "Bank Name": "UNOBANK INC.",
@@ -1976,8 +1976,8 @@ const philippines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USME",
-    "bankCode": "PH",
+    "bankCode": "USME",
+    "countryCode": "PH",
     "branchCode": "HM2",
     "SWIFT Code": "USMEPHM2",
     "Bank Name": "USSC MONEY SERVICES INC",

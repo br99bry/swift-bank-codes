@@ -1,7 +1,7 @@
 const martinique = [
   {
-    "countryCode": "BNPA",
-    "bankCode": "MQ",
+    "bankCode": "BNPA",
+    "countryCode": "MQ",
     "branchCode": "QMX",
     "SWIFT Code": "BNPAMQMX",
     "Bank Name": "BANQUE NATIONALE DE PARIS SUCCURSALE DE FORT DE FRANCE",
@@ -13,8 +13,8 @@ const martinique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "MQ",
+    "bankCode": "AGRI",
+    "countryCode": "MQ",
     "branchCode": "QMX",
     "SWIFT Code": "AGRIMQMX",
     "Bank Name": "CREDIT AGRICOLE",
@@ -26,8 +26,8 @@ const martinique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBHA",
-    "bankCode": "MQ",
+    "bankCode": "GBHA",
+    "countryCode": "MQ",
     "branchCode": "QMM",
     "SWIFT Code": "GBHAMQMM",
     "Bank Name": "GBH",

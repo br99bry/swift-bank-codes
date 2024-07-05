@@ -1,7 +1,7 @@
 const uruguay = [
   {
-    "countryCode": "BBVA",
-    "bankCode": "UY",
+    "bankCode": "BBVA",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "BBVAUYMM",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A.",
@@ -13,8 +13,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCU",
-    "bankCode": "UY",
+    "bankCode": "CBCU",
+    "countryCode": "UY",
     "branchCode": "FGD",
     "SWIFT Code": "CBCUUYMMFGD",
     "Bank Name": "BANCO CENTRAL DEL URUGUAY",
@@ -26,8 +26,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCU",
-    "bankCode": "UY",
+    "bankCode": "CBCU",
+    "countryCode": "UY",
     "branchCode": "GPA",
     "SWIFT Code": "CBCUUYMMGPA",
     "Bank Name": "BANCO CENTRAL DEL URUGUAY",
@@ -39,8 +39,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCU",
-    "bankCode": "UY",
+    "bankCode": "CBCU",
+    "countryCode": "UY",
     "branchCode": "YMF",
     "SWIFT Code": "CBCUUYMF",
     "Bank Name": "BANCO CENTRAL DEL URUGUAY",
@@ -52,8 +52,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCU",
-    "bankCode": "UY",
+    "bankCode": "CBCU",
+    "countryCode": "UY",
     "branchCode": "YMD",
     "SWIFT Code": "CBCUUYMD",
     "Bank Name": "BANCO CENTRAL DEL URUGUAY",
@@ -65,8 +65,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCU",
-    "bankCode": "UY",
+    "bankCode": "CBCU",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "CBCUUYMM",
     "Bank Name": "BANCO CENTRAL DEL URUGUAY",
@@ -78,8 +78,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "UY",
+    "bankCode": "NACN",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "NACNUYMM",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -91,8 +91,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BROU",
-    "bankCode": "UY",
+    "bankCode": "BROU",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "BROUUYMM",
     "Bank Name": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
@@ -104,8 +104,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "UY",
+    "bankCode": "ITAU",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "ITAUUYMM",
     "Bank Name": "BANCO ITAU",
@@ -117,8 +117,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "UY",
+    "bankCode": "BSCH",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "BSCHUYMM",
     "Bank Name": "BANCO SANTANDER",
@@ -130,8 +130,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFAC",
-    "bankCode": "UY",
+    "bankCode": "CFAC",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "CFACUYMM",
     "Bank Name": "BANDES URUGUAY S.A.",
@@ -143,8 +143,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SURI",
-    "bankCode": "UY",
+    "bankCode": "SURI",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "SURIUYMM",
     "Bank Name": "BANQUE HERITAGE (URUGUAY) S.A.",
@@ -156,8 +156,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "UY",
+    "bankCode": "CITI",
+    "countryCode": "UY",
     "branchCode": "COL",
     "SWIFT Code": "CITIUYMMCOL",
     "Bank Name": "CITIBANK N.A. URUGUAY",
@@ -169,8 +169,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "UY",
+    "bankCode": "CITI",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "CITIUYMM",
     "Bank Name": "CITIBANK N.A. URUGUAY",
@@ -182,8 +182,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "UY",
+    "bankCode": "CITI",
+    "countryCode": "UY",
     "branchCode": "PDE",
     "SWIFT Code": "CITIUYMMPDE",
     "Bank Name": "CITIBANK N.A. URUGUAY",
@@ -195,8 +195,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEU",
-    "bankCode": "UY",
+    "bankCode": "CBEU",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "CBEUUYMM",
     "Bank Name": "EUROCAM SA",
@@ -208,8 +208,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEU",
-    "bankCode": "UY",
+    "bankCode": "CBEU",
+    "countryCode": "UY",
     "branchCode": "0ME",
     "SWIFT Code": "CBEUUYMM0ME",
     "Bank Name": "EUROCAM SA",
@@ -221,8 +221,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEU",
-    "bankCode": "UY",
+    "bankCode": "CBEU",
+    "countryCode": "UY",
     "branchCode": "0MG",
     "SWIFT Code": "CBEUUYMM0MG",
     "Bank Name": "EUROCAM SA",
@@ -234,8 +234,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "UY",
+    "bankCode": "BLIC",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "BLICUYMM",
     "Bank Name": "HSBC BANK (URUGUAY) S.A.",
@@ -248,8 +248,8 @@ const uruguay = [
   },
   {},
   {
-    "countryCode": "COME",
-    "bankCode": "UY",
+    "bankCode": "COME",
+    "countryCode": "UY",
     "branchCode": "YMM",
     "SWIFT Code": "COMEUYMM",
     "Bank Name": "SCOTIABANK URUGUAY S.A.",
@@ -261,8 +261,8 @@ const uruguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COME",
-    "bankCode": "UY",
+    "bankCode": "COME",
+    "countryCode": "UY",
     "branchCode": "ALL",
     "SWIFT Code": "COMEUYMMALL",
     "Bank Name": "SCOTIABANK URUGUAY S.A.",

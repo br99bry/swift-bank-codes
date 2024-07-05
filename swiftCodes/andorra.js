@@ -1,7 +1,7 @@
 const andorra = [
   {
-    "countryCode": "BACA",
-    "bankCode": "AD",
+    "bankCode": "BACA",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "BACAADAD",
     "Bank Name": "ANDORRA BANC AGRICOL REIG S.A.",
@@ -13,8 +13,8 @@ const andorra = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAMA",
-    "bankCode": "AD",
+    "bankCode": "AAMA",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "AAMAADAD",
     "Bank Name": "ANDORRA GESTIO AGRICOL REIG SAU SGOIC",
@@ -26,8 +26,8 @@ const andorra = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFAD",
-    "bankCode": "AD",
+    "bankCode": "AFAD",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "AFADADAD",
     "Bank Name": "AUTORITAT FINANCERA ANDORRANA",
@@ -39,8 +39,8 @@ const andorra = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CASB",
-    "bankCode": "AD",
+    "bankCode": "CASB",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "CASBADAD",
     "Bank Name": "BANCA PRIVADA D'ANDORRA S.A.",
@@ -52,8 +52,8 @@ const andorra = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRDA",
-    "bankCode": "AD",
+    "bankCode": "CRDA",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "CRDAADAD",
     "Bank Name": "CREDIT ANDORRA,S.A.",
@@ -65,8 +65,8 @@ const andorra = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINA",
-    "bankCode": "AD",
+    "bankCode": "BINA",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "BINAADAD",
     "Bank Name": "MORA BANC GRUP SA",
@@ -78,8 +78,8 @@ const andorra = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAN",
-    "bankCode": "AD",
+    "bankCode": "BSAN",
+    "countryCode": "AD",
     "branchCode": "DAD",
     "SWIFT Code": "BSANADAD",
     "Bank Name": "MORA BANC GRUP, SA (FORMERLY BANC SABADELL D'ANDORRA)",

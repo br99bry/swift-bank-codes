@@ -1,7 +1,7 @@
 const peru = [
   {
-    "countryCode": "AIFN",
-    "bankCode": "PE",
+    "bankCode": "AIFN",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "AIFNPEPL",
     "Bank Name": "ALFIN BANCO S.A.",
@@ -13,8 +13,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCON",
-    "bankCode": "PE",
+    "bankCode": "BCON",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BCONPEPL",
     "Bank Name": "BANCO BBVA PERU",
@@ -26,8 +26,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRED",
-    "bankCode": "PE",
+    "bankCode": "CRED",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CREDPEPL",
     "Bank Name": "BANCO BCI PERU S.A.",
@@ -39,8 +39,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRPE",
-    "bankCode": "PE",
+    "bankCode": "CRPE",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CRPEPEPL",
     "Bank Name": "BANCO CENTRAL DE RESERVA DEL PERU",
@@ -52,8 +52,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDCM",
-    "bankCode": "PE",
+    "bankCode": "BDCM",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BDCMPEPL",
     "Bank Name": "BANCO DE COMERCIO",
@@ -65,8 +65,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPL",
-    "bankCode": "PE",
+    "bankCode": "BCPL",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BCPLPEPL",
     "Bank Name": "BANCO DE CREDITO DEL PERU",
@@ -78,8 +78,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANC",
-    "bankCode": "PE",
+    "bankCode": "BANC",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BANCPEPL",
     "Bank Name": "BANCO DE LA NACION",
@@ -91,8 +91,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBPE",
-    "bankCode": "PE",
+    "bankCode": "HBPE",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "HBPEPEPL",
     "Bank Name": "BANCO GNB PERU SA",
@@ -104,8 +104,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIFS",
-    "bankCode": "PE",
+    "bankCode": "BIFS",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BIFSPEPL",
     "Bank Name": "BANCO INTERAMERICANO DE FINANZAS",
@@ -117,8 +117,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINP",
-    "bankCode": "PE",
+    "bankCode": "BINP",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BINPPEPL",
     "Bank Name": "BANCO INTERNACIONAL DEL PERU (INTERBANK)",
@@ -130,8 +130,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINA",
-    "bankCode": "PE",
+    "bankCode": "FINA",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "FINAPEPL",
     "Bank Name": "BANCO PICHINCHA",
@@ -143,8 +143,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAP",
-    "bankCode": "PE",
+    "bankCode": "BSAP",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BSAPPEPL",
     "Bank Name": "BANCO SANTANDER PERU S.A.",
@@ -156,8 +156,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PE",
+    "bankCode": "BKCH",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BKCHPEPL",
     "Bank Name": "BANK OF CHINA (PERU) S.A.",
@@ -169,8 +169,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAPO",
-    "bankCode": "PE",
+    "bankCode": "CAPO",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CAPOPEPL",
     "Bank Name": "CAMPOSOL",
@@ -182,8 +182,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVLI",
-    "bankCode": "PE",
+    "bankCode": "CVLI",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CVLIPEPL",
     "Bank Name": "CAVALI S.A. I.C.L.V.",
@@ -195,8 +195,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BELP",
-    "bankCode": "PE",
+    "bankCode": "BELP",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BELPPEPL",
     "Bank Name": "CETCO S.A.",
@@ -208,8 +208,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PE",
+    "bankCode": "CITI",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CITIPEPL",
     "Bank Name": "CITIBANK DEL PERU S.A.",
@@ -221,8 +221,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPDC",
-    "bankCode": "PE",
+    "bankCode": "CPDC",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CPDCPEPL",
     "Bank Name": "COOPAC MASCAPITAL",
@@ -234,8 +234,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFC",
-    "bankCode": "PE",
+    "bankCode": "CAFC",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CAFCPEPL",
     "Bank Name": "CORPORACION ANDINA DE FOMENTO",
@@ -247,8 +247,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFC",
-    "bankCode": "PE",
+    "bankCode": "CAFC",
+    "countryCode": "PE",
     "branchCode": "EPB",
     "SWIFT Code": "CAFCPEPB",
     "Bank Name": "CORPORACION ANDINA DE FOMENTO",
@@ -260,8 +260,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COFD",
-    "bankCode": "PE",
+    "bankCode": "COFD",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "COFDPEPL",
     "Bank Name": "CORPORACION FINANCIERA DE DESARROLLO S.A. - COFIDE",
@@ -273,8 +273,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGPS",
-    "bankCode": "PE",
+    "bankCode": "EGPS",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "EGPSPEPL",
     "Bank Name": "ENEL GENERACION PERU S.A.A.",
@@ -286,8 +286,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "PE",
+    "bankCode": "ICBK",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "ICBKPEPL",
     "Bank Name": "ICBC PERU BANK",
@@ -299,8 +299,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "PE",
+    "bankCode": "CHAS",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "CHASPEPL",
     "Bank Name": "JP MORGAN BANCO DE INVERSION",
@@ -312,8 +312,8 @@ const peru = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "PE",
+    "bankCode": "BSUD",
+    "countryCode": "PE",
     "branchCode": "EPL",
     "SWIFT Code": "BSUDPEPL",
     "Bank Name": "SCOTIABANK PERU S.A.A.",

@@ -1,7 +1,7 @@
 const vietnam = [
   {
-    "countryCode": "UOVB",
-    "bankCode": "VN",
+    "bankCode": "UOVB",
+    "countryCode": "VN",
     "branchCode": "CMS",
     "SWIFT Code": "UOVBVNVXCMS",
     "Bank Name": "UNITED OVERSEAS BANK (VIETNAM) LIMITED",
@@ -13,8 +13,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCBC",
-    "bankCode": "VN",
+    "bankCode": "VCBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VCBCVNVX",
     "Bank Name": "VIET CAPITAL COMMERCIAL JOINT STOCK BANK",
@@ -26,8 +26,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VDSC",
-    "bankCode": "VN",
+    "bankCode": "VDSC",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "VDSCVNV2",
     "Bank Name": "VIET DRAGON SECURITIES CORPORATION",
@@ -39,8 +39,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VNTT",
-    "bankCode": "VN",
+    "bankCode": "VNTT",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VNTTVNVX",
     "Bank Name": "VIET NAM THUONG TIN COMMERCIAL JOINT STOCK BANK",
@@ -52,8 +52,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIEE",
-    "bankCode": "VN",
+    "bankCode": "VIEE",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "VIEEVNV2",
     "Bank Name": "VIETCOMBANK SECURITIES CO. LTD",
@@ -65,8 +65,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "640",
     "SWIFT Code": "VBAAVNVX640",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -78,8 +78,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "240",
     "SWIFT Code": "VBAAVNVX240",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -91,8 +91,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "245",
     "SWIFT Code": "VBAAVNVX245",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -104,8 +104,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "296",
     "SWIFT Code": "VBAAVNVX296",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -117,8 +117,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "781",
     "SWIFT Code": "VBAAVNVX781",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -130,8 +130,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "241",
     "SWIFT Code": "VBAAVNVX241",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -143,8 +143,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "242",
     "SWIFT Code": "VBAAVNVX242",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -156,8 +156,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "243",
     "SWIFT Code": "VBAAVNVX243",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -169,8 +169,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "246",
     "SWIFT Code": "VBAAVNVX246",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -182,8 +182,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "322",
     "SWIFT Code": "VBAAVNVX322",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -195,8 +195,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "631",
     "SWIFT Code": "VBAAVNVX631",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -208,8 +208,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "721",
     "SWIFT Code": "VBAAVNVX721",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -221,8 +221,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "750",
     "SWIFT Code": "VBAAVNVX750",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -234,8 +234,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "905",
     "SWIFT Code": "VBAAVNVX905",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -247,8 +247,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "610",
     "SWIFT Code": "VBAAVNVX610",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -260,8 +260,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "615",
     "SWIFT Code": "VBAAVNVX615",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -273,8 +273,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "612",
     "SWIFT Code": "VBAAVNVX612",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -286,8 +286,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "613",
     "SWIFT Code": "VBAAVNVX613",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -299,8 +299,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "611",
     "SWIFT Code": "VBAAVNVX611",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -313,8 +313,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "655",
     "SWIFT Code": "VBAAVNVX655",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -326,8 +326,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "502",
     "SWIFT Code": "VBAAVNVX502",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -339,8 +339,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "500",
     "SWIFT Code": "VBAAVNVX500",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -352,8 +352,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "780",
     "SWIFT Code": "VBAAVNVX780",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -366,8 +366,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "715",
     "SWIFT Code": "VBAAVNVX715",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -379,8 +379,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "220",
     "SWIFT Code": "VBAAVNVX220",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -392,8 +392,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "740",
     "SWIFT Code": "VBAAVNVX740",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -405,8 +405,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "630",
     "SWIFT Code": "VBAAVNVX630",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -418,8 +418,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "635",
     "SWIFT Code": "VBAAVNVX635",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -431,8 +431,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "523",
     "SWIFT Code": "VBAAVNVX523",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -444,8 +444,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "524",
     "SWIFT Code": "VBAAVNVX524",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -457,8 +457,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "517",
     "SWIFT Code": "VBAAVNVX517",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -470,8 +470,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "512",
     "SWIFT Code": "VBAAVNVX512",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -483,8 +483,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "522",
     "SWIFT Code": "VBAAVNVX522",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -496,8 +496,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "521",
     "SWIFT Code": "VBAAVNVX521",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -509,8 +509,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "511",
     "SWIFT Code": "VBAAVNVX511",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -522,8 +522,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "652",
     "SWIFT Code": "VBAAVNVX652",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -535,8 +535,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "297",
     "SWIFT Code": "VBAAVNVX297",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -548,8 +548,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "533",
     "SWIFT Code": "VBAAVNVX533",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -561,8 +561,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "531",
     "SWIFT Code": "VBAAVNVX531",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -574,8 +574,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "530",
     "SWIFT Code": "VBAAVNVX530",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -587,8 +587,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "525",
     "SWIFT Code": "VBAAVNVX525",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -600,8 +600,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "520",
     "SWIFT Code": "VBAAVNVX520",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -613,8 +613,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "616",
     "SWIFT Code": "VBAAVNVX616",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -626,8 +626,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "295",
     "SWIFT Code": "VBAAVNVX295",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -639,8 +639,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "250",
     "SWIFT Code": "VBAAVNVX250",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -652,8 +652,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "252",
     "SWIFT Code": "VBAAVNVX252",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -665,8 +665,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "200",
     "SWIFT Code": "VBAAVNVX200",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -678,8 +678,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "202",
     "SWIFT Code": "VBAAVNVX202",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -691,8 +691,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "760",
     "SWIFT Code": "VBAAVNVX760",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -704,8 +704,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "331",
     "SWIFT Code": "VBAAVNVX331",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -717,8 +717,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "730",
     "SWIFT Code": "VBAAVNVX730",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -730,8 +730,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "349",
     "SWIFT Code": "VBAAVNVX349",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -743,8 +743,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "350",
     "SWIFT Code": "VBAAVNVX350",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -756,8 +756,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "382",
     "SWIFT Code": "VBAAVNVX382",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -769,8 +769,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "580",
     "SWIFT Code": "VBAAVNVX580",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -782,8 +782,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "581",
     "SWIFT Code": "VBAAVNVX581",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -795,8 +795,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "301",
     "SWIFT Code": "VBAAVNVX301",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -808,8 +808,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "300",
     "SWIFT Code": "VBAAVNVX300",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -821,8 +821,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "680",
     "SWIFT Code": "VBAAVNVX680",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -834,8 +834,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "620",
     "SWIFT Code": "VBAAVNVX620",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -847,8 +847,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "622",
     "SWIFT Code": "VBAAVNVX622",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -860,8 +860,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "351",
     "SWIFT Code": "VBAAVNVX351",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -873,8 +873,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "355",
     "SWIFT Code": "VBAAVNVX355",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -886,8 +886,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "775",
     "SWIFT Code": "VBAAVNVX775",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -899,8 +899,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "212",
     "SWIFT Code": "VBAAVNVX212",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -912,8 +912,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "590",
     "SWIFT Code": "VBAAVNVX590",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -925,8 +925,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "596",
     "SWIFT Code": "VBAAVNVX596",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -938,8 +938,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "550",
     "SWIFT Code": "VBAAVNVX550",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -951,8 +951,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "561",
     "SWIFT Code": "VBAAVNVX561",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -964,8 +964,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "771",
     "SWIFT Code": "VBAAVNVX771",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -977,8 +977,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "770",
     "SWIFT Code": "VBAAVNVX770",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -990,8 +990,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "371",
     "SWIFT Code": "VBAAVNVX371",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1003,8 +1003,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "790",
     "SWIFT Code": "VBAAVNVX790",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1016,8 +1016,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "290",
     "SWIFT Code": "VBAAVNVX290",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1029,8 +1029,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "515",
     "SWIFT Code": "VBAAVNVX515",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1042,8 +1042,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "510",
     "SWIFT Code": "VBAAVNVX510",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1055,8 +1055,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "720",
     "SWIFT Code": "VBAAVNVX720",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1068,8 +1068,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "660",
     "SWIFT Code": "VBAAVNVX660",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1081,8 +1081,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "365",
     "SWIFT Code": "VBAAVNVX365",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1094,8 +1094,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "362",
     "SWIFT Code": "VBAAVNVX362",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1107,8 +1107,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "361",
     "SWIFT Code": "VBAAVNVX361",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1120,8 +1120,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "363",
     "SWIFT Code": "VBAAVNVX363",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1133,8 +1133,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "360",
     "SWIFT Code": "VBAAVNVX360",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1146,8 +1146,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "281",
     "SWIFT Code": "VBAAVNVX281",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1159,8 +1159,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "280",
     "SWIFT Code": "VBAAVNVX280",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1172,8 +1172,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "385",
     "SWIFT Code": "VBAAVNVX385",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1185,8 +1185,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "375",
     "SWIFT Code": "VBAAVNVX375",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1198,8 +1198,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "370",
     "SWIFT Code": "VBAAVNVX370",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1211,8 +1211,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "650",
     "SWIFT Code": "VBAAVNVX650",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1224,8 +1224,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "653",
     "SWIFT Code": "VBAAVNVX653",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1237,8 +1237,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "654",
     "SWIFT Code": "VBAAVNVX654",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1250,8 +1250,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "436",
     "SWIFT Code": "VBAAVNVX436",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1263,8 +1263,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "910",
     "SWIFT Code": "VBAAVNVX910",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -1276,8 +1276,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "470",
     "SWIFT Code": "ICBVVNVX470",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1289,8 +1289,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "680",
     "SWIFT Code": "ICBVVNVX680",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1302,8 +1302,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "681",
     "SWIFT Code": "ICBVVNVX681",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1315,8 +1315,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "504",
     "SWIFT Code": "ICBVVNVX504",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1328,8 +1328,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "506",
     "SWIFT Code": "ICBVVNVX506",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1341,8 +1341,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "444",
     "SWIFT Code": "ICBVVNVX444",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1354,8 +1354,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "430",
     "SWIFT Code": "ICBVVNVX430",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1368,8 +1368,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "340",
     "SWIFT Code": "ICBVVNVX340",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1381,8 +1381,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "346",
     "SWIFT Code": "ICBVVNVX346",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1394,8 +1394,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "162",
     "SWIFT Code": "ICBVVNVX162",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1407,8 +1407,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "160",
     "SWIFT Code": "ICBVVNVX160",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1420,8 +1420,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "166",
     "SWIFT Code": "ICBVVNVX166",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1433,8 +1433,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "169",
     "SWIFT Code": "ICBVVNVX169",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1447,8 +1447,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "168",
     "SWIFT Code": "ICBVVNVX168",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1460,8 +1460,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "161",
     "SWIFT Code": "ICBVVNVX161",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1473,8 +1473,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "300",
     "SWIFT Code": "ICBVVNVX300",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1487,8 +1487,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "128",
     "SWIFT Code": "ICBVVNVX128",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1500,8 +1500,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "322",
     "SWIFT Code": "ICBVVNVX322",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1513,8 +1513,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "126",
     "SWIFT Code": "ICBVVNVX126",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1526,8 +1526,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "144",
     "SWIFT Code": "ICBVVNVX144",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1539,8 +1539,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "131",
     "SWIFT Code": "ICBVVNVX131",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1552,8 +1552,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "096",
     "SWIFT Code": "ICBVVNVX096",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1565,8 +1565,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "188",
     "SWIFT Code": "ICBVVNVX188",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1578,8 +1578,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "142",
     "SWIFT Code": "ICBVVNVX142",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1591,8 +1591,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "106",
     "SWIFT Code": "ICBVVNVX106",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1604,8 +1604,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ICBVVNVX",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1617,8 +1617,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "122",
     "SWIFT Code": "ICBVVNVX122",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1630,8 +1630,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "136",
     "SWIFT Code": "ICBVVNVX136",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1643,8 +1643,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "140",
     "SWIFT Code": "ICBVVNVX140",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1656,8 +1656,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "129",
     "SWIFT Code": "ICBVVNVX129",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1669,8 +1669,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "145",
     "SWIFT Code": "ICBVVNVX145",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1682,8 +1682,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "264",
     "SWIFT Code": "ICBVVNVX264",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1696,8 +1696,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "328",
     "SWIFT Code": "ICBVVNVX328",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1709,8 +1709,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "326",
     "SWIFT Code": "ICBVVNVX326",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1722,8 +1722,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "320",
     "SWIFT Code": "ICBVVNVX320",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1735,8 +1735,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "127",
     "SWIFT Code": "ICBVVNVX127",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1748,8 +1748,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "189",
     "SWIFT Code": "ICBVVNVX189",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1762,8 +1762,8 @@ const vietnam = [
   },
   {},
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "902",
     "SWIFT Code": "ICBVVNVX902",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1775,8 +1775,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "908",
     "SWIFT Code": "ICBVVNVX908",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1788,8 +1788,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "924",
     "SWIFT Code": "ICBVVNVX924",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1801,8 +1801,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "926",
     "SWIFT Code": "ICBVVNVX926",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1814,8 +1814,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "928",
     "SWIFT Code": "ICBVVNVX928",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1827,8 +1827,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "940",
     "SWIFT Code": "ICBVVNVX940",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1840,8 +1840,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "942",
     "SWIFT Code": "ICBVVNVX942",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1853,8 +1853,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "904",
     "SWIFT Code": "ICBVVNVX904",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -1866,8 +1866,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "090",
     "SWIFT Code": "BFTVVNVX090",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1879,8 +1879,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "109",
     "SWIFT Code": "BFTVVNVX109",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1892,8 +1892,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "105",
     "SWIFT Code": "BFTVVNVX105",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1905,8 +1905,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "029",
     "SWIFT Code": "BFTVVNVX029",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1918,8 +1918,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "057",
     "SWIFT Code": "BFTVVNVX057",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1931,8 +1931,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "027",
     "SWIFT Code": "BFTVVNVX027",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1944,8 +1944,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "005",
     "SWIFT Code": "BFTVVNVX005",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1957,8 +1957,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "043",
     "SWIFT Code": "BFTVVNVX043",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1970,8 +1970,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "009",
     "SWIFT Code": "BFTVVNVX009",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1983,8 +1983,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "101",
     "SWIFT Code": "BFTVVNVX101",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -1996,8 +1996,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "032",
     "SWIFT Code": "BFTVVNVX032",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2009,8 +2009,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "126",
     "SWIFT Code": "BFTVVNVX126",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2022,8 +2022,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "065",
     "SWIFT Code": "BFTVVNVX065",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2035,8 +2035,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "132",
     "SWIFT Code": "BFTVVNVX132",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2048,8 +2048,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "070",
     "SWIFT Code": "BFTVVNVX070",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2061,8 +2061,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "021",
     "SWIFT Code": "BFTVVNVX021",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2074,8 +2074,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "082",
     "SWIFT Code": "BFTVVNVX082",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2087,8 +2087,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "111",
     "SWIFT Code": "BFTVVNVX111",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2100,8 +2100,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "078",
     "SWIFT Code": "BFTVVNVX078",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2113,8 +2113,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "131",
     "SWIFT Code": "BFTVVNVX131",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2126,8 +2126,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "028",
     "SWIFT Code": "BFTVVNVX028",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2139,8 +2139,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "107",
     "SWIFT Code": "BFTVVNVX107",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2152,8 +2152,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "041",
     "SWIFT Code": "BFTVVNVX041",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2165,8 +2165,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "074",
     "SWIFT Code": "BFTVVNVX074",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2178,8 +2178,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "075",
     "SWIFT Code": "BFTVVNVX075",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2191,8 +2191,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "112",
     "SWIFT Code": "BFTVVNVX112",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2204,8 +2204,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "127",
     "SWIFT Code": "BFTVVNVX127",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2217,8 +2217,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "080",
     "SWIFT Code": "BFTVVNVX080",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2230,8 +2230,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "010",
     "SWIFT Code": "BFTVVNVX010",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2243,8 +2243,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "086",
     "SWIFT Code": "BFTVVNVX086",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2256,8 +2256,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "079",
     "SWIFT Code": "BFTVVNVX079",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2269,8 +2269,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "036",
     "SWIFT Code": "BFTVVNVX036",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2282,8 +2282,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "008",
     "SWIFT Code": "BFTVVNVX008",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2295,8 +2295,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "120",
     "SWIFT Code": "BFTVVNVX120",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -2308,8 +2308,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIDV",
-    "bankCode": "VN",
+    "bankCode": "BIDV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BIDVVNVX",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM",
@@ -2321,8 +2321,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "CHASVNVX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2334,8 +2334,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "DEP",
     "SWIFT Code": "CHASVNVXDEP",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2347,8 +2347,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "SFX",
     "SWIFT Code": "CHASVNVXSFX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2360,8 +2360,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASVNVXTRO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2373,8 +2373,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "AGY",
     "SWIFT Code": "CHASVNVXAGY",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2386,8 +2386,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASVNVXMTS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2399,8 +2399,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASVNVXTSD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2412,8 +2412,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "VN",
+    "bankCode": "CHAS",
+    "countryCode": "VN",
     "branchCode": "WCS",
     "SWIFT Code": "CHASVNVXWCS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
@@ -2425,8 +2425,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "VN",
+    "bankCode": "KASI",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "KASIVNVX",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED - HO CHI MINH CITY BRANCH.",
@@ -2438,8 +2438,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "VN",
+    "bankCode": "KOEX",
+    "countryCode": "VN",
     "branchCode": "N2X",
     "SWIFT Code": "KOEXVN2X",
     "Bank Name": "KEB HANA BANK HO CHI MINH CITY BRANCH",
@@ -2451,8 +2451,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "VN",
+    "bankCode": "KOEX",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "KOEXVNVX",
     "Bank Name": "KEB HANA BANK, HANOI BRANCH",
@@ -2464,8 +2464,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLBK",
-    "bankCode": "VN",
+    "bankCode": "KLBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "KLBKVNVX",
     "Bank Name": "KIEN LONG COMMERCIAL JOINT STOCK BANK",
@@ -2477,8 +2477,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KVFM",
-    "bankCode": "VN",
+    "bankCode": "KVFM",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "KVFMVNV2",
     "Bank Name": "KIM VIETNAM FUND MANAGEMENT CO. LTD",
@@ -2490,8 +2490,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "VN",
+    "bankCode": "CZNB",
+    "countryCode": "VN",
     "branchCode": "N2X",
     "SWIFT Code": "CZNBVN2X",
     "Bank Name": "KOOKMIN BANK - HANOI BRANCH",
@@ -2503,8 +2503,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "VN",
+    "bankCode": "CZNB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "CZNBVNVX",
     "Bank Name": "KOOKMIN BANK / HO CHI MINH CITY BRANCH",
@@ -2516,8 +2516,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "VN",
+    "bankCode": "ABOC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ABOCVNVX",
     "Bank Name": "AGRICULTURAL BANK OF CHINA LIMITED - HANOI BRANCH",
@@ -2529,8 +2529,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "VN",
+    "bankCode": "AIAC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "AIACVNVX",
     "Bank Name": "AIA (VIETNAM)LIFE INSURANCE COMPANY LIMITED",
@@ -2542,8 +2542,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "VN",
+    "bankCode": "AIAC",
+    "countryCode": "VN",
     "branchCode": "GIO",
     "SWIFT Code": "AIACVNVXGIO",
     "Bank Name": "AIA (VIETNAM)LIFE INSURANCE COMPANY LIMITED",
@@ -2555,8 +2555,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBK",
-    "bankCode": "VN",
+    "bankCode": "ABBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ABBKVNVX",
     "Bank Name": "AN BINH COMMERCIAL JOINT STOCK BANK",
@@ -2568,8 +2568,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "VN",
+    "bankCode": "ANZB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ANZBVNVX",
     "Bank Name": "ANZ BANK(VIETNAM) LIMITED",
@@ -2581,8 +2581,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "VN",
+    "bankCode": "ANZB",
+    "countryCode": "VN",
     "branchCode": "472",
     "SWIFT Code": "ANZBVNVX472",
     "Bank Name": "ANZ BANK(VIETNAM) LIMITED",
@@ -2594,8 +2594,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCB",
-    "bankCode": "VN",
+    "bankCode": "ASCB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ASCBVNVX",
     "Bank Name": "ASIA COMMERCIAL BANK",
@@ -2607,8 +2607,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NASC",
-    "bankCode": "VN",
+    "bankCode": "NASC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "NASCVNVX",
     "Bank Name": "BAC A COMMERCIAL JOINT STOCK BANK",
@@ -2620,8 +2620,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "VN",
+    "bankCode": "BKKB",
+    "countryCode": "VN",
     "branchCode": "HAN",
     "SWIFT Code": "BKKBVNVXHAN",
     "Bank Name": "BANGKOK BANK PCL",
@@ -2633,8 +2633,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "VN",
+    "bankCode": "BKKB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BKKBVNVX",
     "Bank Name": "BANGKOK BANK PCL",
@@ -2646,8 +2646,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "VN",
+    "bankCode": "BKCH",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BKCHVNVX",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED-HO CHI MINH CITY BRANCH",
@@ -2659,8 +2659,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "VN",
+    "bankCode": "COMM",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "COMMVNVX",
     "Bank Name": "BANK OF COMMUNICATIONS CO.,LTD HO CHI MINH CITY BRANCH",
@@ -2672,8 +2672,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "VN",
+    "bankCode": "BKID",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BKIDVNVX",
     "Bank Name": "BANK OF INDIA HO CHI MINH CITY BRANCH",
@@ -2685,8 +2685,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "VN",
+    "bankCode": "SINO",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SINOVNVX",
     "Bank Name": "BANK SINOPAC HO CHI MINH CITY BRANCH",
@@ -2698,8 +2698,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BVBV",
-    "bankCode": "VN",
+    "bankCode": "BVBV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BVBVVNVX",
     "Bank Name": "BAOVIET JOINT STOCK COMMERCIAL BANK",
@@ -2711,8 +2711,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSJS",
-    "bankCode": "VN",
+    "bankCode": "BSJS",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "BSJSVNV2",
     "Bank Name": "BIDV SECURITIES JOINT STOCK COMPANY",
@@ -2724,8 +2724,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "VN",
+    "bankCode": "BNPA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BNPAVNVX",
     "Bank Name": "BNP PARIBAS HANOI BRANCH",
@@ -2737,8 +2737,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "VN",
+    "bankCode": "BNPA",
+    "countryCode": "VN",
     "branchCode": "NVN",
     "SWIFT Code": "BNPAVNVN",
     "Bank Name": "BNP PARIBAS VIETNAM - HO CHI MINH CITY BRANCH",
@@ -2750,8 +2750,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFCE",
-    "bankCode": "VN",
+    "bankCode": "BFCE",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BFCEVNVX",
     "Bank Name": "BPCE IOM - HO CHI MINH CITY BRANCH (FORMERLY NATIXIS BRANCH IN HO CHI MINH CITY)",
@@ -2763,8 +2763,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BVJV",
-    "bankCode": "VN",
+    "bankCode": "BVJV",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "BVJVVNV2",
     "Bank Name": "BRANCH OF VINA-BAT JOINT VENTURE COMPANY LIMITED AT HO CHI MINH CITY",
@@ -2776,8 +2776,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "VN",
+    "bankCode": "UWCB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "UWCBVNVX",
     "Bank Name": "CATHAY UNITED BANK - HO CHI MINH CITY BRANCH",
@@ -2789,8 +2789,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "VN",
+    "bankCode": "PCBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "PCBCVNVX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION HO CHI MINH CITY BRANCH",
@@ -2802,8 +2802,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "VN",
+    "bankCode": "CIBB",
+    "countryCode": "VN",
     "branchCode": "NVN",
     "SWIFT Code": "CIBBVNVN",
     "Bank Name": "CIMB BANK (VIETNAM) LIMITED",
@@ -2815,8 +2815,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "VN",
+    "bankCode": "CITI",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "CITIVNVX",
     "Bank Name": "CITIBANK N.A.",
@@ -2828,8 +2828,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "VN",
+    "bankCode": "CITI",
+    "countryCode": "VN",
     "branchCode": "HCM",
     "SWIFT Code": "CITIVNVXHCM",
     "Bank Name": "CITIBANK N.A.",
@@ -2841,8 +2841,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBA",
-    "bankCode": "VN",
+    "bankCode": "GTBA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "GTBAVNVX",
     "Bank Name": "CONSTRUCTION BANK",
@@ -2854,8 +2854,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "VN",
+    "bankCode": "CTCB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "CTCBVNVX",
     "Bank Name": "CTBC BANK CO., LTD HOCHI MINH CITY BRANCH",
@@ -2867,8 +2867,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAEB",
-    "bankCode": "VN",
+    "bankCode": "DAEB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "DAEBVNVX",
     "Bank Name": "DAEGU BANK - HO CHI MINH CITY BRANCH",
@@ -2880,8 +2880,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "VN",
+    "bankCode": "DBSS",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "DBSSVNVX",
     "Bank Name": "DBS BANK LTD.- HO CHI MINH CITY BRANCH",
@@ -2893,8 +2893,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "VN",
+    "bankCode": "DEUT",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "DEUTVNVX",
     "Bank Name": "DEUTSCHE BANK AG, HO CHI MINH CITY BRANCH",
@@ -2906,8 +2906,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPCK",
-    "bankCode": "VN",
+    "bankCode": "CPCK",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "CPCKVNV2",
     "Bank Name": "DNSE SECURITIES JOINT STOCK COMPANY",
@@ -2919,8 +2919,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EACB",
-    "bankCode": "VN",
+    "bankCode": "EACB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "EACBVNVX",
     "Bank Name": "DONGA BANK",
@@ -2932,8 +2932,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCVM",
-    "bankCode": "VN",
+    "bankCode": "DCVM",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "DCVMVNV2",
     "Bank Name": "DRAGON CAPITAL VIETFUND MANAGEMENT JOINT STOCK COMPANY",
@@ -2945,8 +2945,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "VN",
+    "bankCode": "ESUN",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ESUNVNVX",
     "Bank Name": "E.SUN COMMERCIAL BANK LTD DONG NAI BRANCH",
@@ -2958,8 +2958,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAAS",
-    "bankCode": "VN",
+    "bankCode": "EAAS",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "EAASVNV2",
     "Bank Name": "EAST ASIA AREA SERVICES COMPANY LIMITED",
@@ -2971,8 +2971,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "VN",
+    "bankCode": "FCBK",
+    "countryCode": "VN",
     "branchCode": "HAN",
     "SWIFT Code": "FCBKVNVXHAN",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -2984,8 +2984,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "VN",
+    "bankCode": "FCBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "FCBKVNVX",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -2997,8 +2997,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBNK",
-    "bankCode": "VN",
+    "bankCode": "GBNK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "GBNKVNVX",
     "Bank Name": "GLOBAL PETRO SOLE MEMBER LIMITED COMMERCIAL BANK (GPBANK)",
@@ -3010,8 +3010,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDBC",
-    "bankCode": "VN",
+    "bankCode": "HDBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "HDBCVNVX",
     "Bank Name": "HOCHIMINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK",
@@ -3023,8 +3023,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "VN",
+    "bankCode": "HLBB",
+    "countryCode": "VN",
     "branchCode": "002",
     "SWIFT Code": "HLBBVNVX002",
     "Bank Name": "HONG LEONG BANK VIETNAM LIMITED",
@@ -3036,8 +3036,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "VN",
+    "bankCode": "HLBB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "HLBBVNVX",
     "Bank Name": "HONG LEONG BANK VIETNAM LIMITED",
@@ -3049,8 +3049,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "003",
     "SWIFT Code": "HSBCVNVX003",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3062,8 +3062,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "005",
     "SWIFT Code": "HSBCVNVX005",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3075,8 +3075,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "VHN",
     "SWIFT Code": "HSBCVNVXVHN",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3088,8 +3088,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "HSBCVNVX",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3101,8 +3101,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "008",
     "SWIFT Code": "HSBCVNVX008",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3114,8 +3114,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "009",
     "SWIFT Code": "HSBCVNVX009",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3127,8 +3127,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "021",
     "SWIFT Code": "HSBCVNVX021",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3140,8 +3140,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "013",
     "SWIFT Code": "HSBCVNVX013",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3153,8 +3153,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "VN",
+    "bankCode": "HSBC",
+    "countryCode": "VN",
     "branchCode": "004",
     "SWIFT Code": "HSBCVNVX004",
     "Bank Name": "HSBC BANK (VIETNAM) LTD.",
@@ -3166,8 +3166,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "VN",
+    "bankCode": "HNBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "HNBKVNVX",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD. HOCHIMINH CITY BRANCH",
@@ -3179,8 +3179,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "VN",
+    "bankCode": "ICBK",
+    "countryCode": "VN",
     "branchCode": "NVN",
     "SWIFT Code": "ICBKVNVN",
     "Bank Name": "ICBC HANOI BRANCH",
@@ -3192,8 +3192,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IABB",
-    "bankCode": "VN",
+    "bankCode": "IABB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "IABBVNVX",
     "Bank Name": "INDOVINA BANK LTD.",
@@ -3205,8 +3205,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "VN",
+    "bankCode": "IBKO",
+    "countryCode": "VN",
     "branchCode": "HAN",
     "SWIFT Code": "IBKOVNVXHAN",
     "Bank Name": "INDUSTRIAL BANK OF KOREA, VIETNAM",
@@ -3218,8 +3218,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "VN",
+    "bankCode": "IBKO",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "IBKOVNVX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA, VIETNAM",
@@ -3231,8 +3231,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "115",
     "SWIFT Code": "BFTVVNVX115",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3244,8 +3244,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "073",
     "SWIFT Code": "BFTVVNVX073",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3257,8 +3257,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "129",
     "SWIFT Code": "BFTVVNVX129",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3270,8 +3270,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "089",
     "SWIFT Code": "BFTVVNVX089",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3283,8 +3283,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "035",
     "SWIFT Code": "BFTVVNVX035",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3296,8 +3296,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "110",
     "SWIFT Code": "BFTVVNVX110",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3309,8 +3309,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "114",
     "SWIFT Code": "BFTVVNVX114",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3322,8 +3322,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "063",
     "SWIFT Code": "BFTVVNVX063",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3335,8 +3335,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "024",
     "SWIFT Code": "BFTVVNVX024",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3348,8 +3348,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "048",
     "SWIFT Code": "BFTVVNVX048",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3361,8 +3361,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "012",
     "SWIFT Code": "BFTVVNVX012",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3374,8 +3374,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "040",
     "SWIFT Code": "BFTVVNVX040",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3387,8 +3387,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "084",
     "SWIFT Code": "BFTVVNVX084",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3400,8 +3400,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "123",
     "SWIFT Code": "BFTVVNVX123",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3413,8 +3413,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "023",
     "SWIFT Code": "BFTVVNVX023",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3426,8 +3426,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "019",
     "SWIFT Code": "BFTVVNVX019",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3439,8 +3439,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "121",
     "SWIFT Code": "BFTVVNVX121",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3452,8 +3452,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "058",
     "SWIFT Code": "BFTVVNVX058",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3465,8 +3465,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "011",
     "SWIFT Code": "BFTVVNVX011",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3478,8 +3478,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "039",
     "SWIFT Code": "BFTVVNVX039",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3491,8 +3491,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "060",
     "SWIFT Code": "BFTVVNVX060",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3504,8 +3504,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "047",
     "SWIFT Code": "BFTVVNVX047",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3517,8 +3517,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "116",
     "SWIFT Code": "BFTVVNVX116",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3530,8 +3530,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "056",
     "SWIFT Code": "BFTVVNVX056",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3543,8 +3543,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "004",
     "SWIFT Code": "BFTVVNVX004",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3556,8 +3556,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "100",
     "SWIFT Code": "BFTVVNVX100",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3569,8 +3569,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "124",
     "SWIFT Code": "BFTVVNVX124",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3582,8 +3582,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "046",
     "SWIFT Code": "BFTVVNVX046",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3595,8 +3595,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "077",
     "SWIFT Code": "BFTVVNVX077",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3608,8 +3608,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "031",
     "SWIFT Code": "BFTVVNVX031",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3621,8 +3621,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "130",
     "SWIFT Code": "BFTVVNVX130",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3634,8 +3634,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "104",
     "SWIFT Code": "BFTVVNVX104",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3647,8 +3647,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "119",
     "SWIFT Code": "BFTVVNVX119",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3660,8 +3660,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "014",
     "SWIFT Code": "BFTVVNVX014",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3673,8 +3673,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "020",
     "SWIFT Code": "BFTVVNVX020",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3686,8 +3686,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "034",
     "SWIFT Code": "BFTVVNVX034",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3699,8 +3699,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "003",
     "SWIFT Code": "BFTVVNVX003",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3712,8 +3712,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "103",
     "SWIFT Code": "BFTVVNVX103",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3725,8 +3725,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "125",
     "SWIFT Code": "BFTVVNVX125",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3738,8 +3738,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "052",
     "SWIFT Code": "BFTVVNVX052",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3751,8 +3751,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "061",
     "SWIFT Code": "BFTVVNVX061",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3764,8 +3764,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "108",
     "SWIFT Code": "BFTVVNVX108",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3777,8 +3777,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "054",
     "SWIFT Code": "BFTVVNVX054",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3790,8 +3790,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "096",
     "SWIFT Code": "BFTVVNVX096",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3803,8 +3803,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "069",
     "SWIFT Code": "BFTVVNVX069",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -3816,8 +3816,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "906",
     "SWIFT Code": "ICBVVNVX906",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3829,8 +3829,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "920",
     "SWIFT Code": "ICBVVNVX920",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3842,8 +3842,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "922",
     "SWIFT Code": "ICBVVNVX922",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3855,8 +3855,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "944",
     "SWIFT Code": "ICBVVNVX944",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3868,8 +3868,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "932",
     "SWIFT Code": "ICBVVNVX932",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3881,8 +3881,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "946",
     "SWIFT Code": "ICBVVNVX946",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3894,8 +3894,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "930",
     "SWIFT Code": "ICBVVNVX930",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3907,8 +3907,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "900",
     "SWIFT Code": "ICBVVNVX900",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3920,8 +3920,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "948",
     "SWIFT Code": "ICBVVNVX948",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3933,8 +3933,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "912",
     "SWIFT Code": "ICBVVNVX912",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3946,8 +3946,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "910",
     "SWIFT Code": "ICBVVNVX910",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3959,8 +3959,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "945",
     "SWIFT Code": "ICBVVNVX945",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3972,8 +3972,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "947",
     "SWIFT Code": "ICBVVNVX947",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3985,8 +3985,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "903",
     "SWIFT Code": "ICBVVNVX903",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -3998,8 +3998,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "923",
     "SWIFT Code": "ICBVVNVX923",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4011,8 +4011,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "250",
     "SWIFT Code": "ICBVVNVX250",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4024,8 +4024,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "484",
     "SWIFT Code": "ICBVVNVX484",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4037,8 +4037,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "460",
     "SWIFT Code": "ICBVVNVX460",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4050,8 +4050,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "343",
     "SWIFT Code": "ICBVVNVX343",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4063,8 +4063,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "342",
     "SWIFT Code": "ICBVVNVX342",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4076,8 +4076,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "510",
     "SWIFT Code": "ICBVVNVX510",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4089,8 +4089,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "182",
     "SWIFT Code": "ICBVVNVX182",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4102,8 +4102,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "200",
     "SWIFT Code": "ICBVVNVX200",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4115,8 +4115,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "180",
     "SWIFT Code": "ICBVVNVX180",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4128,8 +4128,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "740",
     "SWIFT Code": "ICBVVNVX740",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4141,8 +4141,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "308",
     "SWIFT Code": "ICBVVNVX308",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4154,8 +4154,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "760",
     "SWIFT Code": "ICBVVNVX760",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4167,8 +4167,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "380",
     "SWIFT Code": "ICBVVNVX380",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4180,8 +4180,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "382",
     "SWIFT Code": "ICBVVNVX382",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4193,8 +4193,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "580",
     "SWIFT Code": "ICBVVNVX580",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4206,8 +4206,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "400",
     "SWIFT Code": "ICBVVNVX400",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4219,8 +4219,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "402",
     "SWIFT Code": "ICBVVNVX402",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4232,8 +4232,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "610",
     "SWIFT Code": "ICBVVNVX610",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4245,8 +4245,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "600",
     "SWIFT Code": "ICBVVNVX600",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4258,8 +4258,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "384",
     "SWIFT Code": "ICBVVNVX384",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4271,8 +4271,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "242",
     "SWIFT Code": "ICBVVNVX242",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4284,8 +4284,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "240",
     "SWIFT Code": "ICBVVNVX240",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4297,8 +4297,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "244",
     "SWIFT Code": "ICBVVNVX244",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4310,8 +4310,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "262",
     "SWIFT Code": "ICBVVNVX262",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4323,8 +4323,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "260",
     "SWIFT Code": "ICBVVNVX260",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4336,8 +4336,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "500",
     "SWIFT Code": "ICBVVNVX500",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4349,8 +4349,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "520",
     "SWIFT Code": "ICBVVNVX520",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4362,8 +4362,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "540",
     "SWIFT Code": "ICBVVNVX540",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4375,8 +4375,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "542",
     "SWIFT Code": "ICBVVNVX542",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4388,8 +4388,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "840",
     "SWIFT Code": "ICBVVNVX840",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4401,8 +4401,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "842",
     "SWIFT Code": "ICBVVNVX842",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4414,8 +4414,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "822",
     "SWIFT Code": "ICBVVNVX822",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4427,8 +4427,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "190",
     "SWIFT Code": "ICBVVNVX190",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4440,8 +4440,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "482",
     "SWIFT Code": "ICBVVNVX482",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4453,8 +4453,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "662",
     "SWIFT Code": "ICBVVNVX662",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -4466,8 +4466,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "406",
     "SWIFT Code": "VBAAVNVX406",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4479,8 +4479,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "429",
     "SWIFT Code": "VBAAVNVX429",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4492,8 +4492,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "848",
     "SWIFT Code": "VBAAVNVX848",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4505,8 +4505,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "834",
     "SWIFT Code": "VBAAVNVX834",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4518,8 +4518,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "831",
     "SWIFT Code": "VBAAVNVX831",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4531,8 +4531,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "845",
     "SWIFT Code": "VBAAVNVX845",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4544,8 +4544,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "846",
     "SWIFT Code": "VBAAVNVX846",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4557,8 +4557,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "840",
     "SWIFT Code": "VBAAVNVX840",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4570,8 +4570,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "827",
     "SWIFT Code": "VBAAVNVX827",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4583,8 +4583,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "822",
     "SWIFT Code": "VBAAVNVX822",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4596,8 +4596,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "851",
     "SWIFT Code": "VBAAVNVX851",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4609,8 +4609,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "813",
     "SWIFT Code": "VBAAVNVX813",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4622,8 +4622,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "833",
     "SWIFT Code": "VBAAVNVX833",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4635,8 +4635,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "810",
     "SWIFT Code": "VBAAVNVX810",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4648,8 +4648,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "818",
     "SWIFT Code": "VBAAVNVX818",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4661,8 +4661,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "820",
     "SWIFT Code": "VBAAVNVX820",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4674,8 +4674,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "821",
     "SWIFT Code": "VBAAVNVX821",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4687,8 +4687,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "805",
     "SWIFT Code": "VBAAVNVX805",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4700,8 +4700,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "815",
     "SWIFT Code": "VBAAVNVX815",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4713,8 +4713,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "809",
     "SWIFT Code": "VBAAVNVX809",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4726,8 +4726,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "802",
     "SWIFT Code": "VBAAVNVX802",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4739,8 +4739,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "814",
     "SWIFT Code": "VBAAVNVX814",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4752,8 +4752,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "850",
     "SWIFT Code": "VBAAVNVX850",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4765,8 +4765,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "801",
     "SWIFT Code": "VBAAVNVX801",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4778,8 +4778,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "812",
     "SWIFT Code": "VBAAVNVX812",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4791,8 +4791,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "837",
     "SWIFT Code": "VBAAVNVX837",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4804,8 +4804,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "841",
     "SWIFT Code": "VBAAVNVX841",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4817,8 +4817,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "807",
     "SWIFT Code": "VBAAVNVX807",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4830,8 +4830,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "808",
     "SWIFT Code": "VBAAVNVX808",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4843,8 +4843,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "816",
     "SWIFT Code": "VBAAVNVX816",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4856,8 +4856,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "835",
     "SWIFT Code": "VBAAVNVX835",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4869,8 +4869,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "825",
     "SWIFT Code": "VBAAVNVX825",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4882,8 +4882,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "826",
     "SWIFT Code": "VBAAVNVX826",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4895,8 +4895,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "824",
     "SWIFT Code": "VBAAVNVX824",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4908,8 +4908,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "849",
     "SWIFT Code": "VBAAVNVX849",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4921,8 +4921,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "806",
     "SWIFT Code": "VBAAVNVX806",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4934,8 +4934,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "819",
     "SWIFT Code": "VBAAVNVX819",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4947,8 +4947,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "817",
     "SWIFT Code": "VBAAVNVX817",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4960,8 +4960,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "838",
     "SWIFT Code": "VBAAVNVX838",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4973,8 +4973,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "804",
     "SWIFT Code": "VBAAVNVX804",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4986,8 +4986,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "843",
     "SWIFT Code": "VBAAVNVX843",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -4999,8 +4999,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "803",
     "SWIFT Code": "VBAAVNVX803",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5012,8 +5012,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "811",
     "SWIFT Code": "VBAAVNVX811",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5025,8 +5025,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "839",
     "SWIFT Code": "VBAAVNVX839",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5038,8 +5038,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "836",
     "SWIFT Code": "VBAAVNVX836",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5051,8 +5051,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "847",
     "SWIFT Code": "VBAAVNVX847",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5064,8 +5064,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "231",
     "SWIFT Code": "VBAAVNVX231",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5077,8 +5077,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "540",
     "SWIFT Code": "VBAAVNVX540",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5090,8 +5090,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "321",
     "SWIFT Code": "VBAAVNVX321",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5103,8 +5103,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "600",
     "SWIFT Code": "VBAAVNVX600",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5116,8 +5116,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "332",
     "SWIFT Code": "VBAAVNVX332",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5129,8 +5129,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "670",
     "SWIFT Code": "VBAAVNVX670",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5142,8 +5142,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "675",
     "SWIFT Code": "VBAAVNVX675",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5155,8 +5155,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "505",
     "SWIFT Code": "VBAAVNVX505",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5168,8 +5168,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "340",
     "SWIFT Code": "VBAAVNVX340",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5181,8 +5181,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "230",
     "SWIFT Code": "VBAAVNVX230",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5194,8 +5194,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "330",
     "SWIFT Code": "VBAAVNVX330",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5207,8 +5207,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "390",
     "SWIFT Code": "VBAAVNVX390",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5220,8 +5220,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "395",
     "SWIFT Code": "VBAAVNVX395",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5233,8 +5233,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "323",
     "SWIFT Code": "VBAAVNVX323",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5246,8 +5246,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "320",
     "SWIFT Code": "VBAAVNVX320",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5259,8 +5259,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "316",
     "SWIFT Code": "VBAAVNVX316",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5272,8 +5272,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "311",
     "SWIFT Code": "VBAAVNVX311",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5285,8 +5285,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "310",
     "SWIFT Code": "VBAAVNVX310",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5298,8 +5298,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "313",
     "SWIFT Code": "VBAAVNVX313",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5311,8 +5311,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "314",
     "SWIFT Code": "VBAAVNVX314",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5324,8 +5324,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "312",
     "SWIFT Code": "VBAAVNVX312",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5337,8 +5337,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "315",
     "SWIFT Code": "VBAAVNVX315",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5350,8 +5350,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VBAAVNVX",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5363,8 +5363,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "413",
     "SWIFT Code": "VBAAVNVX413",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5376,8 +5376,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "420",
     "SWIFT Code": "VBAAVNVX420",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5389,8 +5389,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "408",
     "SWIFT Code": "VBAAVNVX408",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5402,8 +5402,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "428",
     "SWIFT Code": "VBAAVNVX428",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5415,8 +5415,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "410",
     "SWIFT Code": "VBAAVNVX410",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5428,8 +5428,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "407",
     "SWIFT Code": "VBAAVNVX407",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5441,8 +5441,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "401",
     "SWIFT Code": "VBAAVNVX401",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5454,8 +5454,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "432",
     "SWIFT Code": "VBAAVNVX432",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5467,8 +5467,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "435",
     "SWIFT Code": "VBAAVNVX435",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5480,8 +5480,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "341",
     "SWIFT Code": "VBAAVNVX341",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5493,8 +5493,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "404",
     "SWIFT Code": "VBAAVNVX404",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5506,8 +5506,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "418",
     "SWIFT Code": "VBAAVNVX418",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5519,8 +5519,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "425",
     "SWIFT Code": "VBAAVNVX425",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5532,8 +5532,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "417",
     "SWIFT Code": "VBAAVNVX417",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5545,8 +5545,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "419",
     "SWIFT Code": "VBAAVNVX419",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5558,8 +5558,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "402",
     "SWIFT Code": "VBAAVNVX402",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5571,8 +5571,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "416",
     "SWIFT Code": "VBAAVNVX416",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5584,8 +5584,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "213",
     "SWIFT Code": "VBAAVNVX213",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5597,8 +5597,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "421",
     "SWIFT Code": "VBAAVNVX421",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5610,8 +5610,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "409",
     "SWIFT Code": "VBAAVNVX409",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5623,8 +5623,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "415",
     "SWIFT Code": "VBAAVNVX415",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5636,8 +5636,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "405",
     "SWIFT Code": "VBAAVNVX405",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5649,8 +5649,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "430",
     "SWIFT Code": "VBAAVNVX430",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5662,8 +5662,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "426",
     "SWIFT Code": "VBAAVNVX426",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5675,8 +5675,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "412",
     "SWIFT Code": "VBAAVNVX412",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5688,8 +5688,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "434",
     "SWIFT Code": "VBAAVNVX434",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5701,8 +5701,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "403",
     "SWIFT Code": "VBAAVNVX403",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5714,8 +5714,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "414",
     "SWIFT Code": "VBAAVNVX414",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5727,8 +5727,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "423",
     "SWIFT Code": "VBAAVNVX423",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5740,8 +5740,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "427",
     "SWIFT Code": "VBAAVNVX427",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5753,8 +5753,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "422",
     "SWIFT Code": "VBAAVNVX422",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -5766,8 +5766,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "002",
     "SWIFT Code": "BFTVVNVX002",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5779,8 +5779,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BFTVVNVX",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5792,8 +5792,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "030",
     "SWIFT Code": "BFTVVNVX030",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5805,8 +5805,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "093",
     "SWIFT Code": "BFTVVNVX093",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5818,8 +5818,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "097",
     "SWIFT Code": "BFTVVNVX097",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5831,8 +5831,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "001",
     "SWIFT Code": "BFTVVNVX001",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5844,8 +5844,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "085",
     "SWIFT Code": "BFTVVNVX085",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5857,8 +5857,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "094",
     "SWIFT Code": "BFTVVNVX094",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5870,8 +5870,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "099",
     "SWIFT Code": "BFTVVNVX099",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5883,8 +5883,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "049",
     "SWIFT Code": "BFTVVNVX049",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5896,8 +5896,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "045",
     "SWIFT Code": "BFTVVNVX045",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5909,8 +5909,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "071",
     "SWIFT Code": "BFTVVNVX071",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5922,8 +5922,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "128",
     "SWIFT Code": "BFTVVNVX128",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5935,8 +5935,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "033",
     "SWIFT Code": "BFTVVNVX033",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5948,8 +5948,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "025",
     "SWIFT Code": "BFTVVNVX025",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5961,8 +5961,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "106",
     "SWIFT Code": "BFTVVNVX106",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5974,8 +5974,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "051",
     "SWIFT Code": "BFTVVNVX051",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -5987,8 +5987,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "088",
     "SWIFT Code": "BFTVVNVX088",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6000,8 +6000,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "007",
     "SWIFT Code": "BFTVVNVX007",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6013,8 +6013,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "072",
     "SWIFT Code": "BFTVVNVX072",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6026,8 +6026,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "092",
     "SWIFT Code": "BFTVVNVX092",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6039,8 +6039,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "042",
     "SWIFT Code": "BFTVVNVX042",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6052,8 +6052,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "053",
     "SWIFT Code": "BFTVVNVX053",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6065,8 +6065,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "050",
     "SWIFT Code": "BFTVVNVX050",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6078,8 +6078,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "018",
     "SWIFT Code": "BFTVVNVX018",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6091,8 +6091,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "044",
     "SWIFT Code": "BFTVVNVX044",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6104,8 +6104,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "037",
     "SWIFT Code": "BFTVVNVX037",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6117,8 +6117,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "117",
     "SWIFT Code": "BFTVVNVX117",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6130,8 +6130,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "091",
     "SWIFT Code": "BFTVVNVX091",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6143,8 +6143,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "017",
     "SWIFT Code": "BFTVVNVX017",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6156,8 +6156,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "038",
     "SWIFT Code": "BFTVVNVX038",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6169,8 +6169,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "026",
     "SWIFT Code": "BFTVVNVX026",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6182,8 +6182,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "118",
     "SWIFT Code": "BFTVVNVX118",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6195,8 +6195,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "122",
     "SWIFT Code": "BFTVVNVX122",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6208,8 +6208,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "064",
     "SWIFT Code": "BFTVVNVX064",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6221,8 +6221,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "016",
     "SWIFT Code": "BFTVVNVX016",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6234,8 +6234,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "059",
     "SWIFT Code": "BFTVVNVX059",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6247,8 +6247,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "102",
     "SWIFT Code": "BFTVVNVX102",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6260,8 +6260,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "076",
     "SWIFT Code": "BFTVVNVX076",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6273,8 +6273,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "098",
     "SWIFT Code": "BFTVVNVX098",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6286,8 +6286,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "095",
     "SWIFT Code": "BFTVVNVX095",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6299,8 +6299,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "087",
     "SWIFT Code": "BFTVVNVX087",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6312,8 +6312,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "015",
     "SWIFT Code": "BFTVVNVX015",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6325,8 +6325,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "055",
     "SWIFT Code": "BFTVVNVX055",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6338,8 +6338,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "067",
     "SWIFT Code": "BFTVVNVX067",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6351,8 +6351,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "083",
     "SWIFT Code": "BFTVVNVX083",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6364,8 +6364,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "006",
     "SWIFT Code": "BFTVVNVX006",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6377,8 +6377,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "022",
     "SWIFT Code": "BFTVVNVX022",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6390,8 +6390,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "081",
     "SWIFT Code": "BFTVVNVX081",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6403,8 +6403,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "VN",
+    "bankCode": "BFTV",
+    "countryCode": "VN",
     "branchCode": "062",
     "SWIFT Code": "BFTVVNVX062",
     "Bank Name": "JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM",
@@ -6416,8 +6416,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "660",
     "SWIFT Code": "ICBVVNVX660",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6429,8 +6429,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "664",
     "SWIFT Code": "ICBVVNVX664",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6442,8 +6442,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "360",
     "SWIFT Code": "ICBVVNVX360",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6455,8 +6455,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "224",
     "SWIFT Code": "ICBVVNVX224",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6468,8 +6468,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "222",
     "SWIFT Code": "ICBVVNVX222",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6481,8 +6481,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "220",
     "SWIFT Code": "ICBVVNVX220",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6494,8 +6494,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "424",
     "SWIFT Code": "ICBVVNVX424",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6507,8 +6507,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "422",
     "SWIFT Code": "ICBVVNVX422",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6520,8 +6520,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "420",
     "SWIFT Code": "ICBVVNVX420",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6533,8 +6533,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "462",
     "SWIFT Code": "ICBVVNVX462",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6546,8 +6546,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "980",
     "SWIFT Code": "ICBVVNVX980",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6559,8 +6559,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "560",
     "SWIFT Code": "ICBVVNVX560",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6572,8 +6572,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "174",
     "SWIFT Code": "ICBVVNVX174",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6585,8 +6585,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "304",
     "SWIFT Code": "ICBVVNVX304",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6598,8 +6598,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "821",
     "SWIFT Code": "ICBVVNVX821",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6611,8 +6611,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "195",
     "SWIFT Code": "ICBVVNVX195",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6624,8 +6624,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "248",
     "SWIFT Code": "ICBVVNVX248",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6637,8 +6637,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "440",
     "SWIFT Code": "ICBVVNVX440",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6650,8 +6650,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "442",
     "SWIFT Code": "ICBVVNVX442",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6663,8 +6663,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "800",
     "SWIFT Code": "ICBVVNVX800",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6676,8 +6676,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "246",
     "SWIFT Code": "ICBVVNVX246",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6689,8 +6689,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "880",
     "SWIFT Code": "ICBVVNVX880",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6702,8 +6702,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "170",
     "SWIFT Code": "ICBVVNVX170",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -6715,8 +6715,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "006",
     "SWIFT Code": "MCOBVNVX006",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6728,8 +6728,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "005",
     "SWIFT Code": "MCOBVNVX005",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6741,8 +6741,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "009",
     "SWIFT Code": "MCOBVNVX009",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6754,8 +6754,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "004",
     "SWIFT Code": "MCOBVNVX004",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6767,8 +6767,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "001",
     "SWIFT Code": "MCOBVNVX001",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6780,8 +6780,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "008",
     "SWIFT Code": "MCOBVNVX008",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6793,8 +6793,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "002",
     "SWIFT Code": "MCOBVNVX002",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6806,8 +6806,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "MCOBVNVX",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6819,8 +6819,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "003",
     "SWIFT Code": "MCOBVNVX003",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6832,8 +6832,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "010",
     "SWIFT Code": "MCOBVNVX010",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6845,8 +6845,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "011",
     "SWIFT Code": "MCOBVNVX011",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6858,8 +6858,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOB",
-    "bankCode": "VN",
+    "bankCode": "MCOB",
+    "countryCode": "VN",
     "branchCode": "007",
     "SWIFT Code": "MCOBVNVX007",
     "Bank Name": "VIETNAM MARITIME COMMERCIAL JOINT STOCK BANK",
@@ -6871,8 +6871,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPBK",
-    "bankCode": "VN",
+    "bankCode": "VPBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VPBKVNVX",
     "Bank Name": "VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK (FORMERLY:VIETNAM JSC BK FOR PRIVATE ENTERPRISES)",
@@ -6884,8 +6884,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBVN",
-    "bankCode": "VN",
+    "bankCode": "WBVN",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "WBVNVNVX",
     "Bank Name": "VIETNAM PUBLIC JOINT STOCK COMMERCIAL BANK (PVCOMBANK)",
@@ -6897,8 +6897,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTCB",
-    "bankCode": "VN",
+    "bankCode": "VTCB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VTCBVNVX",
     "Bank Name": "VIETNAM TECHNOLOGICAL AND COMMERCIAL JOINT STOCK BANK",
@@ -6910,8 +6910,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VNAC",
-    "bankCode": "VN",
+    "bankCode": "VNAC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VNACVNVX",
     "Bank Name": "VIETNAM-ASIA COMMERCIAL JOINT-STOCK BANK, HA NOI CITY",
@@ -6923,8 +6923,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VJVC",
-    "bankCode": "VN",
+    "bankCode": "VJVC",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "VJVCVNV2",
     "Bank Name": "VINA-BAT JOINT VENTURE COMPANY LIMITED",
@@ -6936,8 +6936,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "VN",
+    "bankCode": "HVBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "HVBKVNVX",
     "Bank Name": "WOORI BANK VIETNAM LIMITED",
@@ -6949,8 +6949,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YSVC",
-    "bankCode": "VN",
+    "bankCode": "YSVC",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "YSVCVNV2",
     "Bank Name": "YUANTA SECURITIES VIETNAM LIMITED COMPANY",
@@ -6962,8 +6962,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LVBK",
-    "bankCode": "VN",
+    "bankCode": "LVBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "LVBKVNVX",
     "Bank Name": "LIEN VIET POST JOINT STOCK COMMERCIAL BANK",
@@ -6975,8 +6975,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "VN",
+    "bankCode": "MBBE",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "MBBEVNVX",
     "Bank Name": "MALAYAN BANKING BERHAD",
@@ -6988,8 +6988,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "VN",
+    "bankCode": "MBBE",
+    "countryCode": "VN",
     "branchCode": "HCM",
     "SWIFT Code": "MBBEVNVXHCM",
     "Bank Name": "MALAYAN BANKING BERHAD",
@@ -7001,8 +7001,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "VN",
+    "bankCode": "ICBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ICBCVNVX",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -7014,8 +7014,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABE",
-    "bankCode": "VN",
+    "bankCode": "DABE",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "DABEVNVX",
     "Bank Name": "MERCEDES-BENZ VIETNAM LTD.",
@@ -7027,8 +7027,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "007",
     "SWIFT Code": "MSCBVNVX007",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7040,8 +7040,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "004",
     "SWIFT Code": "MSCBVNVX004",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7053,8 +7053,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "003",
     "SWIFT Code": "MSCBVNVX003",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7066,8 +7066,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "MSCBVNVX",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7079,8 +7079,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "005",
     "SWIFT Code": "MSCBVNVX005",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7092,8 +7092,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "001",
     "SWIFT Code": "MSCBVNVX001",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7105,8 +7105,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "006",
     "SWIFT Code": "MSCBVNVX006",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7118,8 +7118,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "002",
     "SWIFT Code": "MSCBVNVX002",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7131,8 +7131,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCB",
-    "bankCode": "VN",
+    "bankCode": "MSCB",
+    "countryCode": "VN",
     "branchCode": "008",
     "SWIFT Code": "MSCBVNVX008",
     "Bank Name": "MILITARY COMMERCIAL JOINT STOCK BANK",
@@ -7144,8 +7144,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "VN",
+    "bankCode": "MHCB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "MHCBVNVX",
     "Bank Name": "MIZUHO BANK, LTD.",
@@ -7157,8 +7157,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "VN",
+    "bankCode": "MHCB",
+    "countryCode": "VN",
     "branchCode": "HCM",
     "SWIFT Code": "MHCBVNVXHCM",
     "Bank Name": "MIZUHO BANK, LTD.",
@@ -7170,8 +7170,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "VN",
+    "bankCode": "BOTK",
+    "countryCode": "VN",
     "branchCode": "NV5",
     "SWIFT Code": "BOTKVNV5",
     "Bank Name": "MUFG BANK, LTD., HANOI BRANCH",
@@ -7183,8 +7183,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "VN",
+    "bankCode": "BOTK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "BOTKVNVX",
     "Bank Name": "MUFG BANK, LTD., HO CHI MINH CITY BRANCH",
@@ -7196,8 +7196,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMA",
-    "bankCode": "VN",
+    "bankCode": "NAMA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "NAMAVNVX",
     "Bank Name": "NAM A COMMERCIAL JOINT STOCK BANK",
@@ -7209,8 +7209,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NVBA",
-    "bankCode": "VN",
+    "bankCode": "NVBA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "NVBAVNVX",
     "Bank Name": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
@@ -7222,8 +7222,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACF",
-    "bankCode": "VN",
+    "bankCode": "NACF",
+    "countryCode": "VN",
     "branchCode": "NVH",
     "SWIFT Code": "NACFVNVH",
     "Bank Name": "NONGHYUP BANK HANOI BRANCH",
@@ -7235,8 +7235,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OJBA",
-    "bankCode": "VN",
+    "bankCode": "OJBA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "OJBAVNVX",
     "Bank Name": "OCEAN COMMERCIAL ONE MEMBER LIMITED LIABILITY BANK",
@@ -7248,8 +7248,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORCO",
-    "bankCode": "VN",
+    "bankCode": "ORCO",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "ORCOVNVX",
     "Bank Name": "ORIENT COMMERCIAL JOINT STOCK BANK",
@@ -7261,8 +7261,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "VN",
+    "bankCode": "OCBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "OCBCVNVX",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
@@ -7274,8 +7274,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHST",
-    "bankCode": "VN",
+    "bankCode": "PHST",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "PHSTVNV2",
     "Bank Name": "PHU HUNG SECURITIES CORPORATION",
@@ -7287,8 +7287,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGBL",
-    "bankCode": "VN",
+    "bankCode": "PGBL",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "PGBLVNVX",
     "Bank Name": "PROSPERITY AND GROWTH COMMERCIAL JOINT STOCK BANK",
@@ -7300,8 +7300,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIDP",
-    "bankCode": "VN",
+    "bankCode": "VIDP",
+    "countryCode": "VN",
     "branchCode": "NV5",
     "SWIFT Code": "VIDPVNV5",
     "Bank Name": "PUBLIC BANK VIETNAM LIMITED",
@@ -7313,8 +7313,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBA",
-    "bankCode": "VN",
+    "bankCode": "SHBA",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SHBAVNVX",
     "Bank Name": "SAI GON-HA NOI COMMERCIAL JOINT STOCK BANK",
@@ -7326,8 +7326,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIT",
-    "bankCode": "VN",
+    "bankCode": "SBIT",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SBITVNVX",
     "Bank Name": "SAIGON BANK FOR INDUSTRY AND TRADE, THE",
@@ -7339,8 +7339,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIT",
-    "bankCode": "VN",
+    "bankCode": "SBIT",
+    "countryCode": "VN",
     "branchCode": "0V2",
     "SWIFT Code": "SBITVNVX0V2",
     "Bank Name": "SAIGON BANK FOR INDUSTRY AND TRADE, THE",
@@ -7352,8 +7352,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIT",
-    "bankCode": "VN",
+    "bankCode": "SBIT",
+    "countryCode": "VN",
     "branchCode": "0V3",
     "SWIFT Code": "SBITVNVX0V3",
     "Bank Name": "SAIGON BANK FOR INDUSTRY AND TRADE, THE",
@@ -7365,8 +7365,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIT",
-    "bankCode": "VN",
+    "bankCode": "SBIT",
+    "countryCode": "VN",
     "branchCode": "0V4",
     "SWIFT Code": "SBITVNVX0V4",
     "Bank Name": "SAIGON BANK FOR INDUSTRY AND TRADE, THE",
@@ -7378,8 +7378,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SACL",
-    "bankCode": "VN",
+    "bankCode": "SACL",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SACLVNVX",
     "Bank Name": "SAIGON COMMERCIAL BANK",
@@ -7391,8 +7391,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGTT",
-    "bankCode": "VN",
+    "bankCode": "SGTT",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SGTTVNVX",
     "Bank Name": "SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK (SACOMBANK)",
@@ -7404,8 +7404,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "VN",
+    "bankCode": "SHBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SHBKVNVX",
     "Bank Name": "SHINHAN BANK VIETNAM LIMITED",
@@ -7417,8 +7417,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "VN",
+    "bankCode": "SHBK",
+    "countryCode": "VN",
     "branchCode": "CUS",
     "SWIFT Code": "SHBKVNVXCUS",
     "Bank Name": "SHINHAN BANK VIETNAM LIMITED",
@@ -7430,8 +7430,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEAV",
-    "bankCode": "VN",
+    "bankCode": "SEAV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SEAVVNVX",
     "Bank Name": "SOUTHEAST ASIA COMMERCIAL JOINT STOCK BANK",
@@ -7443,8 +7443,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "VN",
+    "bankCode": "SCBL",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SCBLVNVX",
     "Bank Name": "STANDARD CHARTERED BANK (VIETNAM) LIMITED",
@@ -7456,8 +7456,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBV",
-    "bankCode": "VN",
+    "bankCode": "STBV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "STBVVNVX",
     "Bank Name": "STATE BANK OF VIETNAM",
@@ -7469,8 +7469,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "VN",
+    "bankCode": "SMBC",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SMBCVNVX",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -7482,8 +7482,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "VN",
+    "bankCode": "TPBK",
+    "countryCode": "VN",
     "branchCode": "962",
     "SWIFT Code": "TPBKVNVX962",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK",
@@ -7495,8 +7495,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "VN",
+    "bankCode": "TPBK",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "TPBKVNVX",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK",
@@ -7508,8 +7508,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "VN",
+    "bankCode": "TPBK",
+    "countryCode": "VN",
     "branchCode": "963",
     "SWIFT Code": "TPBKVNVX963",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK",
@@ -7521,8 +7521,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "VN",
+    "bankCode": "TPBK",
+    "countryCode": "VN",
     "branchCode": "960",
     "SWIFT Code": "TPBKVNVX960",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK",
@@ -7534,8 +7534,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVST",
-    "bankCode": "VN",
+    "bankCode": "TVST",
+    "countryCode": "VN",
     "branchCode": "NV2",
     "SWIFT Code": "TVSTVNV2",
     "Bank Name": "TAN VIET SECURITIES JOINT STOCK COMPANY",
@@ -7547,8 +7547,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "VN",
+    "bankCode": "PUSB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "PUSBVNVX",
     "Bank Name": "THE BUSAN BANK CO., LTD. HO CHI MINH CITY BRANCH",
@@ -7560,8 +7560,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "VN",
+    "bankCode": "SCSB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SCSBVNVX",
     "Bank Name": "THE SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD., DONG NAI BRANCH",
@@ -7573,8 +7573,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "VN",
+    "bankCode": "SICO",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "SICOVNVX",
     "Bank Name": "THE SIAM COMMERCIAL BANK PCL.,HO CHI MINH CITY BR ANCH",
@@ -7586,8 +7586,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBV",
-    "bankCode": "VN",
+    "bankCode": "TPBV",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "TPBVVNVX",
     "Bank Name": "TIENPHONG COMMERCIAL JOINT STOCK BANK",
@@ -7599,8 +7599,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "VN",
+    "bankCode": "UOVB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "UOVBVNVX",
     "Bank Name": "UNITED OVERSEAS BANK (VIETNAM) LIMITED",
@@ -7612,8 +7612,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "570",
     "SWIFT Code": "VBAAVNVX570",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7625,8 +7625,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "260",
     "SWIFT Code": "VBAAVNVX260",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7638,8 +7638,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "900",
     "SWIFT Code": "VBAAVNVX900",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7651,8 +7651,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "210",
     "SWIFT Code": "VBAAVNVX210",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7664,8 +7664,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "215",
     "SWIFT Code": "VBAAVNVX215",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7677,8 +7677,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "381",
     "SWIFT Code": "VBAAVNVX381",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7690,8 +7690,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "380",
     "SWIFT Code": "VBAAVNVX380",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7703,8 +7703,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "700",
     "SWIFT Code": "VBAAVNVX700",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7716,8 +7716,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "705",
     "SWIFT Code": "VBAAVNVX705",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7729,8 +7729,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "211",
     "SWIFT Code": "VBAAVNVX211",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7742,8 +7742,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "641",
     "SWIFT Code": "VBAAVNVX641",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7755,8 +7755,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "645",
     "SWIFT Code": "VBAAVNVX645",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7768,8 +7768,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "271",
     "SWIFT Code": "VBAAVNVX271",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7781,8 +7781,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "VN",
+    "bankCode": "VBAA",
+    "countryCode": "VN",
     "branchCode": "270",
     "SWIFT Code": "VBAAVNVX270",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
@@ -7794,8 +7794,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBVI",
-    "bankCode": "VN",
+    "bankCode": "EBVI",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "EBVIVNVX",
     "Bank Name": "VIETNAM EXPORT IMPORT COMMERCIAL JOINT-STOCK BANK",
@@ -7807,8 +7807,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VNIB",
-    "bankCode": "VN",
+    "bankCode": "VNIB",
+    "countryCode": "VN",
     "branchCode": "NVX",
     "SWIFT Code": "VNIBVNVX",
     "Bank Name": "VIETNAM INTERNATIONAL COMMERCIAL JOINT STOCK BANK",
@@ -7820,8 +7820,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "280",
     "SWIFT Code": "ICBVVNVX280",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7833,8 +7833,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "172",
     "SWIFT Code": "ICBVVNVX172",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7846,8 +7846,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "862",
     "SWIFT Code": "ICBVVNVX862",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7859,8 +7859,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "289",
     "SWIFT Code": "ICBVVNVX289",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7872,8 +7872,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "282",
     "SWIFT Code": "ICBVVNVX282",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7885,8 +7885,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "284",
     "SWIFT Code": "ICBVVNVX284",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7898,8 +7898,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "285",
     "SWIFT Code": "ICBVVNVX285",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7911,8 +7911,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "306",
     "SWIFT Code": "ICBVVNVX306",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7924,8 +7924,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "622",
     "SWIFT Code": "ICBVVNVX622",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7937,8 +7937,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "704",
     "SWIFT Code": "ICBVVNVX704",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7950,8 +7950,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "700",
     "SWIFT Code": "ICBVVNVX700",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7963,8 +7963,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "780",
     "SWIFT Code": "ICBVVNVX780",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7976,8 +7976,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "682",
     "SWIFT Code": "ICBVVNVX682",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -7989,8 +7989,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "640",
     "SWIFT Code": "ICBVVNVX640",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8002,8 +8002,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "901",
     "SWIFT Code": "ICBVVNVX901",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8015,8 +8015,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "502",
     "SWIFT Code": "ICBVVNVX502",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8028,8 +8028,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "860",
     "SWIFT Code": "ICBVVNVX860",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8041,8 +8041,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "762",
     "SWIFT Code": "ICBVVNVX762",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8054,8 +8054,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "316",
     "SWIFT Code": "ICBVVNVX316",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8067,8 +8067,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "302",
     "SWIFT Code": "ICBVVNVX302",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8080,8 +8080,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "820",
     "SWIFT Code": "ICBVVNVX820",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8093,8 +8093,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "824",
     "SWIFT Code": "ICBVVNVX824",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8106,8 +8106,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "186",
     "SWIFT Code": "ICBVVNVX186",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8119,8 +8119,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "720",
     "SWIFT Code": "ICBVVNVX720",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8132,8 +8132,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "724",
     "SWIFT Code": "ICBVVNVX724",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8145,8 +8145,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "742",
     "SWIFT Code": "ICBVVNVX742",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8158,8 +8158,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "441",
     "SWIFT Code": "ICBVVNVX441",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8171,8 +8171,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "620",
     "SWIFT Code": "ICBVVNVX620",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8184,8 +8184,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "480",
     "SWIFT Code": "ICBVVNVX480",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8197,8 +8197,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "486",
     "SWIFT Code": "ICBVVNVX486",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8210,8 +8210,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "488",
     "SWIFT Code": "ICBVVNVX488",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8223,8 +8223,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "490",
     "SWIFT Code": "ICBVVNVX490",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8236,8 +8236,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "184",
     "SWIFT Code": "ICBVVNVX184",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",
@@ -8249,8 +8249,8 @@ const vietnam = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "VN",
+    "bankCode": "ICBV",
+    "countryCode": "VN",
     "branchCode": "450",
     "SWIFT Code": "ICBVVNVX450",
     "Bank Name": "VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE",

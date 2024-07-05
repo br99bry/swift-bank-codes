@@ -1,7 +1,7 @@
 const tunisia = [
   {
-    "countryCode": "BEIT",
-    "bankCode": "TN",
+    "bankCode": "BEIT",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BEITTNTT",
     "Bank Name": "AL BARAKA BANK TUNISIA",
@@ -13,8 +13,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALUB",
-    "bankCode": "TN",
+    "bankCode": "ALUB",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "ALUBTNTT",
     "Bank Name": "ALUBAF INTERNATIONAL BANK TUNIS",
@@ -26,8 +26,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFCT",
-    "bankCode": "TN",
+    "bankCode": "CFCT",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "CFCTTNTT",
     "Bank Name": "AMEN BANK",
@@ -39,8 +39,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCO",
-    "bankCode": "TN",
+    "bankCode": "ABCO",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "ABCOTNTT",
     "Bank Name": "ARAB BANKING CORPORATION",
@@ -52,8 +52,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCO",
-    "bankCode": "TN",
+    "bankCode": "ABCO",
+    "countryCode": "TN",
     "branchCode": "001",
     "SWIFT Code": "ABCOTNTT001",
     "Bank Name": "ARAB BANKING CORPORATION",
@@ -65,8 +65,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATBK",
-    "bankCode": "TN",
+    "bankCode": "ATBK",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "ATBKTNTT",
     "Bank Name": "ARAB TUNISIAN BANK",
@@ -78,8 +78,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTU",
-    "bankCode": "TN",
+    "bankCode": "BSTU",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BSTUTNTT",
     "Bank Name": "ATTIJARI BANK",
@@ -91,8 +91,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTU",
-    "bankCode": "TN",
+    "bankCode": "BSTU",
+    "countryCode": "TN",
     "branchCode": "AIN",
     "SWIFT Code": "BSTUTNTTAIN",
     "Bank Name": "ATTIJARI BANK",
@@ -104,8 +104,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTU",
-    "bankCode": "TN",
+    "bankCode": "BSTU",
+    "countryCode": "TN",
     "branchCode": "TIT",
     "SWIFT Code": "BSTUTNTTTIT",
     "Bank Name": "ATTIJARI BANK",
@@ -117,8 +117,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTU",
-    "bankCode": "TN",
+    "bankCode": "BSTU",
+    "countryCode": "TN",
     "branchCode": "INT",
     "SWIFT Code": "BSTUTNTTINT",
     "Bank Name": "ATTIJARI BANK",
@@ -130,8 +130,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTN",
-    "bankCode": "TN",
+    "bankCode": "BCTN",
+    "countryCode": "TN",
     "branchCode": "VGM",
     "SWIFT Code": "BCTNTNTTVGM",
     "Bank Name": "BANQUE CENTRALE DE TUNISIE",
@@ -143,8 +143,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTN",
-    "bankCode": "TN",
+    "bankCode": "BCTN",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BCTNTNTT",
     "Bank Name": "BANQUE CENTRALE DE TUNISIE",
@@ -156,8 +156,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFPM",
-    "bankCode": "TN",
+    "bankCode": "BFPM",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BFPMTNTT",
     "Bank Name": "BANQUE DE FINANCEMENT DES PME",
@@ -169,8 +169,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTBK",
-    "bankCode": "TN",
+    "bankCode": "BTBK",
+    "countryCode": "TN",
     "branchCode": "VGM",
     "SWIFT Code": "BTBKTNTTVGM",
     "Bank Name": "BANQUE DE TUNISIE",
@@ -182,8 +182,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTBK",
-    "bankCode": "TN",
+    "bankCode": "BTBK",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BTBKTNTT",
     "Bank Name": "BANQUE DE TUNISIE",
@@ -195,8 +195,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTEX",
-    "bankCode": "TN",
+    "bankCode": "BTEX",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BTEXTNTT",
     "Bank Name": "BANQUE DE TUNISIE ET DES EMIRATS",
@@ -208,8 +208,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTN",
-    "bankCode": "TN",
+    "bankCode": "BFTN",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BFTNTNTT",
     "Bank Name": "BANQUE FRANCO TUNISIENNE",
@@ -221,8 +221,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTN",
-    "bankCode": "TN",
+    "bankCode": "BFTN",
+    "countryCode": "TN",
     "branchCode": "TRS",
     "SWIFT Code": "BFTNTNTTTRS",
     "Bank Name": "BANQUE FRANCO TUNISIENNE",
@@ -234,8 +234,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "SFX",
     "SWIFT Code": "BIATTNTTSFX",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -247,8 +247,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "DXS",
     "SWIFT Code": "BIATTNTTDXS",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -261,8 +261,8 @@ const tunisia = [
   },
   {},
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "RXS",
     "SWIFT Code": "BIATTNTTRXS",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -274,8 +274,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "RMS",
     "SWIFT Code": "BIATTNTTRMS",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -287,8 +287,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "TES",
     "SWIFT Code": "BIATTNTTTES",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -300,8 +300,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "TRS",
     "SWIFT Code": "BIATTNTTTRS",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -313,8 +313,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BIATTNTT",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -326,8 +326,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "DXT",
     "SWIFT Code": "BIATTNTTDXT",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -340,8 +340,8 @@ const tunisia = [
   },
   {},
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "ECI",
     "SWIFT Code": "BIATTNTTECI",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -353,8 +353,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "FDE",
     "SWIFT Code": "BIATTNTTFDE",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -366,8 +366,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "FDI",
     "SWIFT Code": "BIATTNTTFDI",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -379,8 +379,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "GIE",
     "SWIFT Code": "BIATTNTTGIE",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -392,8 +392,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "GIR",
     "SWIFT Code": "BIATTNTTGIR",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -405,8 +405,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "PCI",
     "SWIFT Code": "BIATTNTTPCI",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -418,8 +418,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "RXT",
     "SWIFT Code": "BIATTNTTRXT",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -431,8 +431,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "RMT",
     "SWIFT Code": "BIATTNTTRMT",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -444,8 +444,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "TET",
     "SWIFT Code": "BIATTNTTTET",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -457,8 +457,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAT",
-    "bankCode": "TN",
+    "bankCode": "BIAT",
+    "countryCode": "TN",
     "branchCode": "TRT",
     "SWIFT Code": "BIATTNTTTRT",
     "Bank Name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
@@ -470,8 +470,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIE",
-    "bankCode": "TN",
+    "bankCode": "BMIE",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BMIETNTT",
     "Bank Name": "BANQUE MAGHREBINE D'INVESTISSEMENT ET DE COMMERCE EXTERIEUR",
@@ -483,8 +483,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTE",
-    "bankCode": "TN",
+    "bankCode": "BNTE",
+    "countryCode": "TN",
     "branchCode": "SFX",
     "SWIFT Code": "BNTETNTTSFX",
     "Bank Name": "BANQUE NATIONALE AGRICOLE",
@@ -496,8 +496,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTE",
-    "bankCode": "TN",
+    "bankCode": "BNTE",
+    "countryCode": "TN",
     "branchCode": "SSE",
     "SWIFT Code": "BNTETNTTSSE",
     "Bank Name": "BANQUE NATIONALE AGRICOLE",
@@ -509,8 +509,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTE",
-    "bankCode": "TN",
+    "bankCode": "BNTE",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BNTETNTT",
     "Bank Name": "BANQUE NATIONALE AGRICOLE",
@@ -522,8 +522,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTKO",
-    "bankCode": "TN",
+    "bankCode": "BTKO",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BTKOTNTT",
     "Bank Name": "BANQUE TUNISO-KOWEITIENNE",
@@ -535,8 +535,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATLD",
-    "bankCode": "TN",
+    "bankCode": "ATLD",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "ATLDTNTT",
     "Bank Name": "BANQUE TUNISO-LIBYENNE",
@@ -548,8 +548,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZIT",
-    "bankCode": "TN",
+    "bankCode": "BZIT",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BZITTNTT",
     "Bank Name": "BANQUE ZITOUNA",
@@ -561,8 +561,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZIT",
-    "bankCode": "TN",
+    "bankCode": "BZIT",
+    "countryCode": "TN",
     "branchCode": "SDM",
     "SWIFT Code": "BZITTNTTSDM",
     "Bank Name": "BANQUE ZITOUNA",
@@ -574,8 +574,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZIT",
-    "bankCode": "TN",
+    "bankCode": "BZIT",
+    "countryCode": "TN",
     "branchCode": "VGM",
     "SWIFT Code": "BZITTNTTVGM",
     "Bank Name": "BANQUE ZITOUNA",
@@ -587,8 +587,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHBK",
-    "bankCode": "TN",
+    "bankCode": "BHBK",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BHBKTNTT",
     "Bank Name": "BH BANK",
@@ -600,8 +600,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TN",
+    "bankCode": "CITI",
+    "countryCode": "TN",
     "branchCode": "NTX",
     "SWIFT Code": "CITITNTX",
     "Bank Name": "CITIBANK N.A.",
@@ -613,8 +613,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TN",
+    "bankCode": "CITI",
+    "countryCode": "TN",
     "branchCode": "ONS",
     "SWIFT Code": "CITITNTXONS",
     "Bank Name": "CITIBANK N.A.",
@@ -626,8 +626,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPTN",
-    "bankCode": "TN",
+    "bankCode": "LPTN",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "LPTNTNTT",
     "Bank Name": "LA POSTE TUNISIENNE",
@@ -639,8 +639,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOAF",
-    "bankCode": "TN",
+    "bankCode": "NOAF",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "NOAFTNTT",
     "Bank Name": "NORTH AFRICA INTERNATIONAL BANK",
@@ -652,8 +652,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTQI",
-    "bankCode": "TN",
+    "bankCode": "BTQI",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "BTQITNTT",
     "Bank Name": "QATAR NATIONAL BANK-TUNISIA",
@@ -665,8 +665,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBK",
-    "bankCode": "TN",
+    "bankCode": "STBK",
+    "countryCode": "TN",
     "branchCode": "017",
     "SWIFT Code": "STBKTNTT017",
     "Bank Name": "SOCIETE TUNISIENNE DE BANQUE",
@@ -678,8 +678,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBK",
-    "bankCode": "TN",
+    "bankCode": "STBK",
+    "countryCode": "TN",
     "branchCode": "925",
     "SWIFT Code": "STBKTNTT925",
     "Bank Name": "SOCIETE TUNISIENNE DE BANQUE",
@@ -691,8 +691,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBK",
-    "bankCode": "TN",
+    "bankCode": "STBK",
+    "countryCode": "TN",
     "branchCode": "940",
     "SWIFT Code": "STBKTNTT940",
     "Bank Name": "SOCIETE TUNISIENNE DE BANQUE",
@@ -704,8 +704,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBK",
-    "bankCode": "TN",
+    "bankCode": "STBK",
+    "countryCode": "TN",
     "branchCode": "930",
     "SWIFT Code": "STBKTNTT930",
     "Bank Name": "SOCIETE TUNISIENNE DE BANQUE",
@@ -717,8 +717,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBK",
-    "bankCode": "TN",
+    "bankCode": "STBK",
+    "countryCode": "TN",
     "branchCode": "000",
     "SWIFT Code": "STBKTNTT000",
     "Bank Name": "SOCIETE TUNISIENNE DE BANQUE",
@@ -730,8 +730,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBK",
-    "bankCode": "TN",
+    "bankCode": "STBK",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "STBKTNTT",
     "Bank Name": "SOCIETE TUNISIENNE DE BANQUE",
@@ -743,8 +743,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUIB",
-    "bankCode": "TN",
+    "bankCode": "TUIB",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "TUIBTNTT",
     "Bank Name": "TUNIS INTERNATIONAL BANK",
@@ -756,8 +756,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "TN",
+    "bankCode": "UTUB",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "UTUBTNTT",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -769,8 +769,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSID",
-    "bankCode": "TN",
+    "bankCode": "TSID",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "TSIDTNTT",
     "Bank Name": "TUNISIAN SAUDI BANK",
@@ -782,8 +782,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "NBL",
     "SWIFT Code": "UBCITNTTNBL",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -795,8 +795,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "SFX",
     "SWIFT Code": "UBCITNTTSFX",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -808,8 +808,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "SSE",
     "SWIFT Code": "UBCITNTTSSE",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -821,8 +821,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "TCE",
     "SWIFT Code": "UBCITNTTTCE",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -834,8 +834,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "PST",
     "SWIFT Code": "UBCITNTTPST",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -847,8 +847,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "CHG",
     "SWIFT Code": "UBCITNTTCHG",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -860,8 +860,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "UBCITNTT",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -873,8 +873,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "ENG",
     "SWIFT Code": "UBCITNTTENG",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -886,8 +886,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "SDM",
     "SWIFT Code": "UBCITNTTSDM",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -899,8 +899,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCI",
-    "bankCode": "TN",
+    "bankCode": "UBCI",
+    "countryCode": "TN",
     "branchCode": "VGM",
     "SWIFT Code": "UBCITNTTVGM",
     "Bank Name": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -912,8 +912,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UIBK",
-    "bankCode": "TN",
+    "bankCode": "UIBK",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "UIBKTNTT",
     "Bank Name": "UNION INTERNATIONALE DE BANQUES",
@@ -925,8 +925,8 @@ const tunisia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WKIB",
-    "bankCode": "TN",
+    "bankCode": "WKIB",
+    "countryCode": "TN",
     "branchCode": "NTT",
     "SWIFT Code": "WKIBTNTT",
     "Bank Name": "WIFACK INTERNATIONAL BANK",

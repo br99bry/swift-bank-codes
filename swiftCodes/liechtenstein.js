@@ -1,7 +1,7 @@
 const liechtenstein = [
   {
-    "countryCode": "AMNS",
-    "bankCode": "LI",
+    "bankCode": "AMNS",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "AMNSLI22",
     "Bank Name": "AMNIS EUROPE AG",
@@ -13,8 +13,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFRI",
-    "bankCode": "LI",
+    "bankCode": "BFRI",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "BFRILI22",
     "Bank Name": "BANK FRICK AND CO AKTIENGESELLSCHAFT",
@@ -26,8 +26,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFBA",
-    "bankCode": "LI",
+    "bankCode": "SFBA",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "SFBALI22",
     "Bank Name": "BANQUE HAVILLAND (LIECHTENSTEIN) AG",
@@ -39,8 +39,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYIB",
-    "bankCode": "LI",
+    "bankCode": "HYIB",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "HYIBLI22",
     "Bank Name": "BENDURA BANK AG",
@@ -52,8 +52,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "LI",
+    "bankCode": "EFGB",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "EFGBLI22",
     "Bank Name": "EFG BANK VON ERNST AG",
@@ -65,8 +65,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDSF",
-    "bankCode": "LI",
+    "bankCode": "FDSF",
+    "countryCode": "LI",
     "branchCode": "ASM",
     "SWIFT Code": "FDSFLI22ASM",
     "Bank Name": "FDS FINANCIAL DATA SERVICES AG",
@@ -78,8 +78,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDSF",
-    "bankCode": "LI",
+    "bankCode": "FDSF",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "FDSFLI22",
     "Bank Name": "FDS FINANCIAL DATA SERVICES AG",
@@ -91,8 +91,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDSF",
-    "bankCode": "LI",
+    "bankCode": "FDSF",
+    "countryCode": "LI",
     "branchCode": "LV1",
     "SWIFT Code": "FDSFLI22LV1",
     "Bank Name": "FDS FINANCIAL DATA SERVICES AG",
@@ -104,8 +104,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HILT",
-    "bankCode": "LI",
+    "bankCode": "HILT",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "HILTLI22",
     "Bank Name": "HILTI CORPORATION",
@@ -117,8 +117,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SERB",
-    "bankCode": "LI",
+    "bankCode": "SERB",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "SERBLI22",
     "Bank Name": "KAISER PARTNER PRIVATBANK AG",
@@ -130,8 +130,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "I2X",
     "SWIFT Code": "BLFLLI2X",
     "Bank Name": "LGT BANK AG",
@@ -143,8 +143,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "AGX",
     "SWIFT Code": "BLFLLI2XAGX",
     "Bank Name": "LGT BANK AG",
@@ -156,8 +156,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "224",
     "SWIFT Code": "BLFLLI2X224",
     "Bank Name": "LGT BANK AG",
@@ -169,8 +169,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "225",
     "SWIFT Code": "BLFLLI2X225",
     "Bank Name": "LGT BANK AG",
@@ -182,8 +182,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "EXC",
     "SWIFT Code": "BLFLLI2XEXC",
     "Bank Name": "LGT BANK AG",
@@ -195,8 +195,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "275",
     "SWIFT Code": "BLFLLI2X275",
     "Bank Name": "LGT BANK AG",
@@ -208,8 +208,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "276",
     "SWIFT Code": "BLFLLI2X276",
     "Bank Name": "LGT BANK AG",
@@ -222,8 +222,8 @@ const liechtenstein = [
   },
   {},
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "281",
     "SWIFT Code": "BLFLLI2X281",
     "Bank Name": "LGT BANK AG",
@@ -235,8 +235,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "283",
     "SWIFT Code": "BLFLLI2X283",
     "Bank Name": "LGT BANK AG",
@@ -248,8 +248,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "314",
     "SWIFT Code": "BLFLLI2X314",
     "Bank Name": "LGT BANK AG",
@@ -261,8 +261,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "315",
     "SWIFT Code": "BLFLLI2X315",
     "Bank Name": "LGT BANK AG",
@@ -274,8 +274,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "252",
     "SWIFT Code": "BLFLLI2X252",
     "Bank Name": "LGT BANK AG",
@@ -287,8 +287,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "253",
     "SWIFT Code": "BLFLLI2X253",
     "Bank Name": "LGT BANK AG",
@@ -300,8 +300,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "496",
     "SWIFT Code": "BLFLLI2X496",
     "Bank Name": "LGT BANK AG",
@@ -313,8 +313,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "LI",
+    "bankCode": "BLFL",
+    "countryCode": "LI",
     "branchCode": "495",
     "SWIFT Code": "BLFLLI2X495",
     "Bank Name": "LGT BANK AG",
@@ -326,8 +326,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LILA",
-    "bankCode": "LI",
+    "bankCode": "LILA",
+    "countryCode": "LI",
     "branchCode": "I2X",
     "SWIFT Code": "LILALI2X",
     "Bank Name": "LIECHTENSTEINISCHE LANDESBANK AKTIENGESELLSCHAFT",
@@ -339,8 +339,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAN",
-    "bankCode": "LI",
+    "bankCode": "NBAN",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "NBANLI22",
     "Bank Name": "NEUE BANK AG",
@@ -352,8 +352,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OICE",
-    "bankCode": "LI",
+    "bankCode": "OICE",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "OICELI22",
     "Bank Name": "OLAYAN INVESTMENTS COMPANY ESTABLISHMENT",
@@ -365,8 +365,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOAG",
-    "bankCode": "LI",
+    "bankCode": "VOAG",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "VOAGLI22",
     "Bank Name": "SIGMA BANK AG",
@@ -378,8 +378,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALP",
-    "bankCode": "LI",
+    "bankCode": "BALP",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "BALPLI22",
     "Bank Name": "SORA BANK AG",
@@ -391,8 +391,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWLC",
-    "bankCode": "LI",
+    "bankCode": "SWLC",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "SWLCLI22",
     "Bank Name": "SWISS LIFE (LIECHTENSTEIN) AG",
@@ -404,8 +404,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TANT",
-    "bankCode": "LI",
+    "bankCode": "TANT",
+    "countryCode": "LI",
     "branchCode": "I22",
     "SWIFT Code": "TANTLI22",
     "Bank Name": "TANTUM AG",
@@ -417,8 +417,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPBV",
-    "bankCode": "LI",
+    "bankCode": "VPBV",
+    "countryCode": "LI",
     "branchCode": "I2X",
     "SWIFT Code": "VPBVLI2X",
     "Bank Name": "VP BANK AG",
@@ -430,8 +430,8 @@ const liechtenstein = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPBV",
-    "bankCode": "LI",
+    "bankCode": "VPBV",
+    "countryCode": "LI",
     "branchCode": "LIC",
     "SWIFT Code": "VPBVLI2XLIC",
     "Bank Name": "VP BANK AG",

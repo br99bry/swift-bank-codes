@@ -1,7 +1,7 @@
 const ukraine = [
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "KIE",
     "SWIFT Code": "FUIBUA2XKIE",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -13,8 +13,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "LVO",
     "SWIFT Code": "FUIBUA2XLVO",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -26,8 +26,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "MPL",
     "SWIFT Code": "FUIBUA2XMPL",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -39,8 +39,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "NIC",
     "SWIFT Code": "FUIBUA2XNIC",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -52,8 +52,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "ODE",
     "SWIFT Code": "FUIBUA2XODE",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -65,8 +65,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "ZAP",
     "SWIFT Code": "FUIBUA2XZAP",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -78,8 +78,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOLL",
-    "bankCode": "UA",
+    "bankCode": "FOLL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FOLLUAU2",
     "Bank Name": "FOND-MARKET, LLC",
@@ -91,8 +91,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKEC",
-    "bankCode": "UA",
+    "bankCode": "FKEC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FKECUA22",
     "Bank Name": "FONDOVA KOMPANIIA EMISIIA, LLC",
@@ -105,8 +105,8 @@ const ukraine = [
   },
   {},
   {
-    "countryCode": "GAVC",
-    "bankCode": "UA",
+    "bankCode": "GAVC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "GAVCUA22",
     "Bank Name": "GARANT INVEST LLC",
@@ -118,8 +118,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITLC",
-    "bankCode": "UA",
+    "bankCode": "ITLC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ITLCUAU2",
     "Bank Name": "GLOBAL IDC LLC",
@@ -131,8 +131,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLIB",
-    "bankCode": "UA",
+    "bankCode": "GLIB",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "GLIBUA22",
     "Bank Name": "GLOBUS BANK",
@@ -144,8 +144,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLL",
-    "bankCode": "UA",
+    "bankCode": "GOLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "GOLLUA22",
     "Bank Name": "GOODWILL-BROKE, LLC",
@@ -157,8 +157,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVLC",
-    "bankCode": "UA",
+    "bankCode": "IVLC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "IVLCUAU2",
     "Bank Name": "I-NVEST, LLC",
@@ -170,8 +170,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBCP",
-    "bankCode": "UA",
+    "bankCode": "IBCP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "IBCPUAU2",
     "Bank Name": "IB CAPITAL, LIMITED",
@@ -183,8 +183,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITPR",
-    "bankCode": "UA",
+    "bankCode": "ITPR",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ITPRUAU2",
     "Bank Name": "IC 'ITT-INVEST' PRJSC",
@@ -196,8 +196,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "UA",
+    "bankCode": "INGB",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "INGBUAUK",
     "Bank Name": "ING BANK UKRAINE",
@@ -209,8 +209,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDTL",
-    "bankCode": "UA",
+    "bankCode": "MDTL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "MDTLUA22",
     "Bank Name": "INTER-INDUSTRY DEPOSITORY CENTER LIMITED LIABILITYCOMPANY",
@@ -222,8 +222,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INLB",
-    "bankCode": "UA",
+    "bankCode": "INLB",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "INLBUA22",
     "Bank Name": "INTER-SERVIS-REGISTER LIMITED LIABILITY",
@@ -235,8 +235,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVIL",
-    "bankCode": "UA",
+    "bankCode": "IVIL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "IVILUA22",
     "Bank Name": "INVEST INSITI, LLC",
@@ -248,8 +248,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IECL",
-    "bankCode": "UA",
+    "bankCode": "IECL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "IECLUAU2",
     "Bank Name": "INVEST-M, LLC",
@@ -261,8 +261,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IELC",
-    "bankCode": "UA",
+    "bankCode": "IELC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "IELCUA22",
     "Bank Name": "INVEST-TREID 2007, LLC",
@@ -274,8 +274,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICUL",
-    "bankCode": "UA",
+    "bankCode": "ICUL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ICULUAU2",
     "Bank Name": "INVESTMENT CAPITAL UKRAINE, LLC",
@@ -287,8 +287,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICGC",
-    "bankCode": "UA",
+    "bankCode": "ICGC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ICGCUAU2",
     "Bank Name": "INVESTMENT COMPANYC GOOD CAPITAL, LLC",
@@ -300,8 +300,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISGL",
-    "bankCode": "UA",
+    "bankCode": "ISGL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "ISGLUA22",
     "Bank Name": "INVESTMENT STANDARD GROUP LLC",
@@ -313,8 +313,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IILL",
-    "bankCode": "UA",
+    "bankCode": "IILL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "IILLUAU2",
     "Bank Name": "INVINTUM, LLC",
@@ -326,8 +326,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPLL",
-    "bankCode": "UA",
+    "bankCode": "IPLL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "IPLLUAU2",
     "Bank Name": "IP SECURITIES, LLC",
@@ -339,8 +339,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JESL",
-    "bankCode": "UA",
+    "bankCode": "JESL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "JESLUAU2",
     "Bank Name": "JEROME SECURITIES, LLC",
@@ -352,8 +352,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UKCB",
-    "bankCode": "UA",
+    "bankCode": "UKCB",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UKCBUAUK",
     "Bank Name": "JOINT STOCK COMPANY 'ACCENT-BANK'",
@@ -365,8 +365,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASTR",
-    "bankCode": "UA",
+    "bankCode": "ASTR",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "ASTRUAUK",
     "Bank Name": "JOINT STOCK COMPANY 'AGROPROSPERIS BANK'",
@@ -378,8 +378,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "UA",
+    "bankCode": "CITI",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "CITIUAUK",
     "Bank Name": "JOINT STOCK COMPANY 'CITIBANK'",
@@ -391,8 +391,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTLG",
-    "bankCode": "UA",
+    "bankCode": "MTLG",
+    "countryCode": "UA",
     "branchCode": "A2N",
     "SWIFT Code": "MTLGUA2N",
     "Bank Name": "JOINT STOCK COMPANY 'METABANK'",
@@ -404,8 +404,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "CHK",
     "SWIFT Code": "COSBUAUKCHK",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -417,8 +417,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "CHG",
     "SWIFT Code": "COSBUAUKCHG",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -430,8 +430,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "CHV",
     "SWIFT Code": "COSBUAUKCHV",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -443,8 +443,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "DNI",
     "SWIFT Code": "COSBUAUKDNI",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -456,8 +456,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "DON",
     "SWIFT Code": "COSBUAUKDON",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -469,8 +469,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "IVF",
     "SWIFT Code": "COSBUAUKIVF",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -482,8 +482,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "KHA",
     "SWIFT Code": "COSBUAUKKHA",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -495,8 +495,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "KHE",
     "SWIFT Code": "COSBUAUKKHE",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -508,8 +508,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "KHM",
     "SWIFT Code": "COSBUAUKKHM",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -521,8 +521,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "KIR",
     "SWIFT Code": "COSBUAUKKIR",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -534,8 +534,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "COSBUAUK",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -547,8 +547,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "CRI",
     "SWIFT Code": "COSBUAUKCRI",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -560,8 +560,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "KIE",
     "SWIFT Code": "COSBUAUKKIE",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -573,8 +573,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "LUH",
     "SWIFT Code": "COSBUAUKLUH",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -586,8 +586,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "VOL",
     "SWIFT Code": "COSBUAUKVOL",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -599,8 +599,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "LVI",
     "SWIFT Code": "COSBUAUKLVI",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -612,8 +612,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "MYK",
     "SWIFT Code": "COSBUAUKMYK",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -625,8 +625,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "ODE",
     "SWIFT Code": "COSBUAUKODE",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -638,8 +638,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "KRI",
     "SWIFT Code": "PBANUA2XKRI",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -651,8 +651,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "PBANUA2X",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -664,8 +664,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "KIE",
     "SWIFT Code": "PBANUA2XKIE",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -677,8 +677,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "K3F",
     "SWIFT Code": "PBANUA2XK3F",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -690,8 +690,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "K2F",
     "SWIFT Code": "PBANUA2XK2F",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -703,8 +703,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "LGF",
     "SWIFT Code": "PBANUA2XLGF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -716,8 +716,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "LUT",
     "SWIFT Code": "PBANUA2XLUT",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -729,8 +729,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "LVI",
     "SWIFT Code": "PBANUA2XLVI",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -742,8 +742,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "MRF",
     "SWIFT Code": "PBANUA2XMRF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -755,8 +755,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "MKR",
     "SWIFT Code": "PBANUA2XMKR",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -768,8 +768,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "MYK",
     "SWIFT Code": "PBANUA2XMYK",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -781,8 +781,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "NIF",
     "SWIFT Code": "PBANUA2XNIF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -794,8 +794,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "NVF",
     "SWIFT Code": "PBANUA2XNVF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -807,8 +807,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "ODF",
     "SWIFT Code": "PBANUA2XODF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -820,8 +820,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "PAV",
     "SWIFT Code": "PBANUA2XPAV",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -833,8 +833,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "POL",
     "SWIFT Code": "PBANUA2XPOL",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -846,8 +846,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "RIV",
     "SWIFT Code": "PBANUA2XRIV",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -859,8 +859,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "VIZ",
     "SWIFT Code": "PBANUA2XVIZ",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -872,8 +872,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "SUF",
     "SWIFT Code": "PBANUA2XSUF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -885,8 +885,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "TEF",
     "SWIFT Code": "PBANUA2XTEF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -898,8 +898,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "VIF",
     "SWIFT Code": "PBANUA2XVIF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -911,8 +911,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "ZAP",
     "SWIFT Code": "PBANUA2XZAP",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -924,8 +924,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "ZHO",
     "SWIFT Code": "PBANUA2XZHO",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -937,8 +937,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "ZHF",
     "SWIFT Code": "PBANUA2XZHF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -950,8 +950,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "ZRR",
     "SWIFT Code": "PBANUA2XZRR",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -963,8 +963,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CREW",
-    "bankCode": "UA",
+    "bankCode": "CREW",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "CREWUAUK",
     "Bank Name": "JSC CREDITWEST BANK",
@@ -976,8 +976,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "UA",
+    "bankCode": "DEUT",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "DEUTUAUK",
     "Bank Name": "JSC DEUTSCHE BANK DBU",
@@ -989,8 +989,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOAK",
-    "bankCode": "UA",
+    "bankCode": "FOAK",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FOAKUA22",
     "Bank Name": "JSC FAID EAST-INVEST",
@@ -1002,8 +1002,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDBA",
-    "bankCode": "UA",
+    "bankCode": "IDBA",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "IDBAUAUK",
     "Bank Name": "JSC IDEA BANK",
@@ -1015,8 +1015,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUCB",
-    "bankCode": "UA",
+    "bankCode": "WUCB",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "WUCBUA2X",
     "Bank Name": "JSC KREDOBANK (FORMERLY JSC KREDYT BANK(UKRAINA))",
@@ -1028,8 +1028,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RWSP",
-    "bankCode": "UA",
+    "bankCode": "RWSP",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "RWSPUAUK",
     "Bank Name": "JSC RWS BANK",
@@ -1041,8 +1041,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "UA",
+    "bankCode": "ESSE",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "ESSEUAUK",
     "Bank Name": "JSC SEB CORPORATE BANK",
@@ -1054,8 +1054,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SENS",
-    "bankCode": "UA",
+    "bankCode": "SENS",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "SENSUAUK",
     "Bank Name": "JSC SENSE BANK",
@@ -1067,8 +1067,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRSU",
-    "bankCode": "UA",
+    "bankCode": "IRSU",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "IRSUUAUK",
     "Bank Name": "JSC SETTLEMENT CENTER",
@@ -1080,8 +1080,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBS",
-    "bankCode": "UA",
+    "bankCode": "EXBS",
+    "countryCode": "UA",
     "branchCode": "AUX",
     "SWIFT Code": "EXBSUAUX",
     "Bank Name": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE - JSC UKREXIMBANK",
@@ -1093,8 +1093,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "DNI",
     "SWIFT Code": "IJSOUA2NDNI",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1106,8 +1106,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "KHE",
     "SWIFT Code": "IJSOUA2NKHE",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1119,8 +1119,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "KRE",
     "SWIFT Code": "IJSOUA2NKRE",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1132,8 +1132,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "A2N",
     "SWIFT Code": "IJSOUA2N",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1145,8 +1145,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "KIE",
     "SWIFT Code": "IJSOUA2NKIE",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1158,8 +1158,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "LUH",
     "SWIFT Code": "IJSOUA2NLUH",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1171,8 +1171,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "LVI",
     "SWIFT Code": "IJSOUA2NLVI",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1184,8 +1184,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "RIV",
     "SWIFT Code": "IJSOUA2NRIV",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1197,8 +1197,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "SUM",
     "SWIFT Code": "IJSOUA2NSUM",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1210,8 +1210,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJSO",
-    "bankCode": "UA",
+    "bankCode": "IJSO",
+    "countryCode": "UA",
     "branchCode": "ZAP",
     "SWIFT Code": "IJSOUA2NZAP",
     "Bank Name": "JSCB INDUSTRIALBANK UKRAINE",
@@ -1223,8 +1223,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IELL",
-    "bankCode": "UA",
+    "bankCode": "IELL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "IELLUAU2",
     "Bank Name": "K2 INVEST, LLC",
@@ -1236,8 +1236,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KINO",
-    "bankCode": "UA",
+    "bankCode": "KINO",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "KINOUAU2",
     "Bank Name": "KINTO, LIMITED",
@@ -1249,8 +1249,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRLL",
-    "bankCode": "UA",
+    "bankCode": "KRLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "KRLLUA22",
     "Bank Name": "KRAZ-CAPITAL, LLC",
@@ -1262,8 +1262,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRBR",
-    "bankCode": "UA",
+    "bankCode": "KRBR",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "KRBRUA22",
     "Bank Name": "KREMIN' BROK,LLC",
@@ -1275,8 +1275,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCCP",
-    "bankCode": "UA",
+    "bankCode": "LCCP",
+    "countryCode": "UA",
     "branchCode": "AUU",
     "SWIFT Code": "LCCPUAUU",
     "Bank Name": "LIMITED LIABILITY COMPANY 'COMMERCE CREDIT PROFIT'",
@@ -1288,8 +1288,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITDC",
-    "bankCode": "UA",
+    "bankCode": "ITDC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ITDCUAU2",
     "Bank Name": "LIMITED LIABILITY COMPANY DEPOSITARY-CONSULTING COMPANY INTELLECT-INVESTMENTS",
@@ -1301,8 +1301,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCFC",
-    "bankCode": "UA",
+    "bankCode": "LCFC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "LCFCUAU2",
     "Bank Name": "LIMITED LIABILITY COMPANY FINANCIA L COMPANY KIEV INVEST CAPITAL",
@@ -1314,8 +1314,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCST",
-    "bankCode": "UA",
+    "bankCode": "LCST",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "LCSTUA22",
     "Bank Name": "LIMITED LIABILITY COMPANY STOCK TRADING FIRST GLOBAL INITIATIVE",
@@ -1327,8 +1327,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVRK",
-    "bankCode": "UA",
+    "bankCode": "AVRK",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "AVRKUA22",
     "Bank Name": "LLC 'ABC-REGISTER'",
@@ -1340,8 +1340,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRAL",
-    "bankCode": "UA",
+    "bankCode": "NRAL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "NRALUA22",
     "Bank Name": "LLC 'HP' AVERS'",
@@ -1353,8 +1353,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSPR",
-    "bankCode": "UA",
+    "bankCode": "TSPR",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "TSPRUA22",
     "Bank Name": "LLC 'STOCK COMPANY' TCST-KSTL RST",
@@ -1366,8 +1366,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUSV",
-    "bankCode": "UA",
+    "bankCode": "BUSV",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "BUSVUA22",
     "Bank Name": "LLC IC 'BUSINESS-INVEST'",
@@ -1379,8 +1379,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LVIV",
-    "bankCode": "UA",
+    "bankCode": "LVIV",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "LVIVUA2X",
     "Bank Name": "LVIV BANK",
@@ -1392,8 +1392,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAHN",
-    "bankCode": "UA",
+    "bankCode": "MAHN",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "MAHNUA22",
     "Bank Name": "MANAGEMENT TECHNOLOGIES, LIMITED",
@@ -1405,8 +1405,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAUG",
-    "bankCode": "UA",
+    "bankCode": "MAUG",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "MAUGUA22",
     "Bank Name": "MANAGEMENT TRADE TRADING LIMITED",
@@ -1418,8 +1418,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IINB",
-    "bankCode": "UA",
+    "bankCode": "IINB",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "IINBUAUK",
     "Bank Name": "MIZHNARODNYI INVESTYTSIINYI BANK",
@@ -1431,8 +1431,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBA",
-    "bankCode": "UA",
+    "bankCode": "MTBA",
+    "countryCode": "UA",
     "branchCode": "A2D",
     "SWIFT Code": "MTBAUA2D",
     "Bank Name": "MTB BANK",
@@ -1444,8 +1444,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NALL",
-    "bankCode": "UA",
+    "bankCode": "NALL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "NALLUA22",
     "Bank Name": "NAFTA-INVEST, LLC",
@@ -1457,8 +1457,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBUA",
-    "bankCode": "UA",
+    "bankCode": "NBUA",
+    "countryCode": "UA",
     "branchCode": "AUX",
     "SWIFT Code": "NBUAUAUX",
     "Bank Name": "NATIONAL BANK OF UKRAINE",
@@ -1470,8 +1470,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NADU",
-    "bankCode": "UA",
+    "bankCode": "NADU",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "NADUUAUK",
     "Bank Name": "NATIONAL DEPOSITORY OF UKRAINE",
@@ -1483,8 +1483,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAVO",
-    "bankCode": "UA",
+    "bankCode": "NAVO",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "NAVOUAU2",
     "Bank Name": "NAVIGATOR-INVEST, LIMITED",
@@ -1496,8 +1496,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLC",
-    "bankCode": "UA",
+    "bankCode": "NOLC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "NOLCUAU2",
     "Bank Name": "NOVAVEST, LIMITED LIABILITY COMPANY",
@@ -1509,8 +1509,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NVML",
-    "bankCode": "UA",
+    "bankCode": "NVML",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "NVMLUAU2",
     "Bank Name": "NVP MAHISTR,  LLC",
@@ -1522,8 +1522,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKCI",
-    "bankCode": "UA",
+    "bankCode": "OKCI",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "OKCIUA2X",
     "Bank Name": "OKCI BANK, JSC",
@@ -1535,8 +1535,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPJS",
-    "bankCode": "UA",
+    "bankCode": "OPJS",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "OPJSUAU2",
     "Bank Name": "OKMA, PRIVATE JOINT STOCK COMPANY",
@@ -1548,8 +1548,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONCA",
-    "bankCode": "UA",
+    "bankCode": "ONCA",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ONCAUAU2",
     "Bank Name": "ON-LINE CAPITAL LIMITED LIABILITY COMPANY (ONLINE CAPITAL LLC)",
@@ -1561,8 +1561,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONLC",
-    "bankCode": "UA",
+    "bankCode": "ONLC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "ONLCUA22",
     "Bank Name": "ONIKS-IVA,  LLC",
@@ -1574,8 +1574,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSSE",
-    "bankCode": "UA",
+    "bankCode": "OSSE",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "OSSEUAU2",
     "Bank Name": "OSNOVA-TSP LLC",
@@ -1587,8 +1587,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PALY",
-    "bankCode": "UA",
+    "bankCode": "PALY",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "PALYUAU2",
     "Bank Name": "PARUSOND, LIMITED LIABILITY COMPANY",
@@ -1600,8 +1600,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDUL",
-    "bankCode": "UA",
+    "bankCode": "PDUL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "PDULUAU2",
     "Bank Name": "PERSHA DEPOZYTARNA USTANOVA, LLC",
@@ -1613,8 +1613,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEBL",
-    "bankCode": "UA",
+    "bankCode": "PEBL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PEBLUA22",
     "Bank Name": "PERSHE REIESTRATSIINE BYURO, LLC",
@@ -1626,8 +1626,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDAL",
-    "bankCode": "UA",
+    "bankCode": "PDAL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "PDALUAU2",
     "Bank Name": "PERSHYI DEPOZYTARNYI ALLIANCE, LLC",
@@ -1639,8 +1639,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBI",
-    "bankCode": "UA",
+    "bankCode": "ICBI",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "ICBIUAUK",
     "Bank Name": "PIRAEUS BANK ICB, JSC",
@@ -1652,8 +1652,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACJC",
-    "bankCode": "UA",
+    "bankCode": "ACJC",
+    "countryCode": "UA",
     "branchCode": "A2N",
     "SWIFT Code": "ACJCUA2N",
     "Bank Name": "PJSC 'BANK VOSTOK'",
@@ -1665,8 +1665,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MABP",
-    "bankCode": "UA",
+    "bankCode": "MABP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "MABPUAU2",
     "Bank Name": "PJSC 'MASTER BROK'",
@@ -1678,8 +1678,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EACP",
-    "bankCode": "UA",
+    "bankCode": "EACP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "EACPUAU2",
     "Bank Name": "PJSC IVEX CAPITAL",
@@ -1691,8 +1691,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTPL",
-    "bankCode": "UA",
+    "bankCode": "PTPL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "PTPLUAU2",
     "Bank Name": "PKTB-SECURITIES LLC",
@@ -1704,8 +1704,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POEC",
-    "bankCode": "UA",
+    "bankCode": "POEC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "POECUAU2",
     "Bank Name": "POLAR REGISTER LLC",
@@ -1717,8 +1717,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLIC",
-    "bankCode": "UA",
+    "bankCode": "PLIC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PLICUA22",
     "Bank Name": "POLICOMBANK JSCB",
@@ -1730,8 +1730,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POEL",
-    "bankCode": "UA",
+    "bankCode": "POEL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "POELUA22",
     "Bank Name": "POLOHIVSKYI REIESTRATOR, LLC",
@@ -1743,8 +1743,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POLT",
-    "bankCode": "UA",
+    "bankCode": "POLT",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "POLTUA2X",
     "Bank Name": "POLTAVA-BANK JOINT STOCK COMPANY",
@@ -1756,8 +1756,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POIV",
-    "bankCode": "UA",
+    "bankCode": "POIV",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "POIVUA22",
     "Bank Name": "PORTFOLIO INVESTOR LLC",
@@ -1769,8 +1769,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFLC",
-    "bankCode": "UA",
+    "bankCode": "PFLC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PFLCUA22",
     "Bank Name": "PRFD LLC",
@@ -1782,8 +1782,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOBY",
-    "bankCode": "UA",
+    "bankCode": "DOBY",
+    "countryCode": "UA",
     "branchCode": "A2T",
     "SWIFT Code": "DOBYUA2T",
     "Bank Name": "PRIVATE JOINT STOCK COMPANY 'BANK FAMILNY'",
@@ -1795,8 +1795,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPJS",
-    "bankCode": "UA",
+    "bankCode": "EPJS",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "EPJSUA22",
     "Bank Name": "PRIVATE JOINT STOCK COMPANY 'EXPERT-CAPITAL' (PJSC'EXPERT-CAPITAL')",
@@ -1808,8 +1808,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCSL",
-    "bankCode": "UA",
+    "bankCode": "PCSL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "PCSLUAU2",
     "Bank Name": "PRO CAPITAL SECURITIES, LLC",
@@ -1821,8 +1821,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIFC",
-    "bankCode": "UA",
+    "bankCode": "MIFC",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "MIFCUAUK",
     "Bank Name": "PROCREDIT BANK JOINT STOCK COMPANY",
@@ -1834,8 +1834,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POUC",
-    "bankCode": "UA",
+    "bankCode": "POUC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "POUCUAU2",
     "Bank Name": "PROFIT PLUS, LLC",
@@ -1847,8 +1847,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBX",
-    "bankCode": "UA",
+    "bankCode": "FIBX",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "FIBXUAUK",
     "Bank Name": "PUBLIC JOINT STOCK COMPANY FIRST INVESTMENT BANK",
@@ -1860,8 +1860,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGAS",
-    "bankCode": "UA",
+    "bankCode": "UGAS",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UGASUAUK",
     "Bank Name": "PUBLIC JOINT-STOCK COMPANY JOINT STOCK BANK 'UKRGASBANK'",
@@ -1873,8 +1873,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVAL",
-    "bankCode": "UA",
+    "bankCode": "AVAL",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "AVALUAUK",
     "Bank Name": "RAIFFEISEN BANK JOINT STOCK COMPANY",
@@ -1886,8 +1886,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RACL",
-    "bankCode": "UA",
+    "bankCode": "RACL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "RACLUA22",
     "Bank Name": "REAKOMP-INVEST, LLC",
@@ -1899,8 +1899,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RELO",
-    "bankCode": "UA",
+    "bankCode": "RELO",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "RELOUA22",
     "Bank Name": "REGRAN, LIMITED LIABILITY COMPANY",
@@ -1912,8 +1912,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPP",
-    "bankCode": "UA",
+    "bankCode": "REPP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "REPPUAU2",
     "Bank Name": "REVIVAL CAPITAL LIMITED",
@@ -1925,8 +1925,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RILC",
-    "bankCode": "UA",
+    "bankCode": "RILC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "RILCUA22",
     "Bank Name": "RIF-NR, LIMITED LIABILITY COMPANY",
@@ -1938,8 +1938,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RADA",
-    "bankCode": "UA",
+    "bankCode": "RADA",
+    "countryCode": "UA",
     "branchCode": "A2N",
     "SWIFT Code": "RADAUA2N",
     "Bank Name": "'RADABANK' JOINT STOCK BANK",
@@ -1951,8 +1951,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACDC",
-    "bankCode": "UA",
+    "bankCode": "ACDC",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "ACDCUAUK",
     "Bank Name": "ACCORDBANK COMMERCIAL BANK",
@@ -1964,8 +1964,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFLL",
-    "bankCode": "UA",
+    "bankCode": "AFLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "AFLLUA22",
     "Bank Name": "AFT LLC",
@@ -1977,8 +1977,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGSK",
-    "bankCode": "UA",
+    "bankCode": "AGSK",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "AGSKUA22",
     "Bank Name": "AGENCY OF SECURITIES KREDO-INVEST LIMITED",
@@ -1990,8 +1990,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AALC",
-    "bankCode": "UA",
+    "bankCode": "AALC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "AALCUA22",
     "Bank Name": "ALAN-REGISTER LLC",
@@ -2003,8 +2003,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADLC",
-    "bankCode": "UA",
+    "bankCode": "ADLC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ADLCUAU2",
     "Bank Name": "ALDARIS-INVEST, LLC",
@@ -2016,8 +2016,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALCJ",
-    "bankCode": "UA",
+    "bankCode": "ALCJ",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ALCJUAU2",
     "Bank Name": "ALTANA CAPITAL, PJSC",
@@ -2029,8 +2029,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFJ",
-    "bankCode": "UA",
+    "bankCode": "ALFJ",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ALFJUAU2",
     "Bank Name": "ALTERA FINANCE PJSC",
@@ -2042,8 +2042,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARUL",
-    "bankCode": "UA",
+    "bankCode": "ARUL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ARULUAU2",
     "Bank Name": "ART-CAPITAL CUSTODY, LLC",
@@ -2055,8 +2055,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLL",
-    "bankCode": "UA",
+    "bankCode": "ARLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "ARLLUA22",
     "Bank Name": "ARTEL-FINANCE, LLC",
@@ -2068,8 +2068,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIO",
-    "bankCode": "UA",
+    "bankCode": "ABIO",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "ABIOUA22",
     "Bank Name": "AZOV-BLACK SEA INVESTMENT COMPANY IN THE FORM OF A LIMITED LIABILITY COMPANY",
@@ -2081,8 +2081,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFGL",
-    "bankCode": "UA",
+    "bankCode": "BFGL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "BFGLUA22",
     "Bank Name": "BALTIC FINANCE GROUP, LLC",
@@ -2094,8 +2094,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIS",
-    "bankCode": "UA",
+    "bankCode": "BFIS",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "BFISUAUK",
     "Bank Name": "BANK FOR INVESTMENTS AND SAVINGS",
@@ -2107,8 +2107,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIVD",
-    "bankCode": "UA",
+    "bankCode": "PIVD",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PIVDUA22",
     "Bank Name": "BANK PIVDENNYI",
@@ -2120,8 +2120,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRT",
-    "bankCode": "UA",
+    "bankCode": "BPRT",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "BPRTUAUK",
     "Bank Name": "BANK PORTAL JOINT STOCK COMPANY",
@@ -2133,8 +2133,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICH",
-    "bankCode": "UA",
+    "bankCode": "SICH",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "SICHUAUK",
     "Bank Name": "BANK SICH",
@@ -2146,8 +2146,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBLP",
-    "bankCode": "UA",
+    "bankCode": "BBLP",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "BBLPUA22",
     "Bank Name": "BENEFIT BROK LIMITED LIABILITY COMPANY (BENEFIT BROK LLC)",
@@ -2159,8 +2159,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTOL",
-    "bankCode": "UA",
+    "bankCode": "BTOL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "BTOLUAU2",
     "Bank Name": "BTC BROKER, LLC",
@@ -2172,8 +2172,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUCC",
-    "bankCode": "UA",
+    "bankCode": "BUCC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "BUCCUA22",
     "Bank Name": "BUL-SPRED, LLC",
@@ -2185,8 +2185,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUIT",
-    "bankCode": "UA",
+    "bankCode": "BUIT",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "BUITUAU2",
     "Bank Name": "BUREAU OF INVESTMENT TECHNOLOGIES, LIMITED",
@@ -2198,8 +2198,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKTI",
-    "bankCode": "UA",
+    "bankCode": "FKTI",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FKTIUA22",
     "Bank Name": "CENTER-INVEST STOCK COMPANY LLC",
@@ -2211,8 +2211,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CESU",
-    "bankCode": "UA",
+    "bankCode": "CESU",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "CESUUAU2",
     "Bank Name": "COMEX SECURITIES LLC",
@@ -2224,8 +2224,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXLL",
-    "bankCode": "UA",
+    "bankCode": "CXLL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "CXLLUAU2",
     "Bank Name": "COMEX-FINANCE, LLC",
@@ -2237,8 +2237,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "UA",
+    "bankCode": "AGRI",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "AGRIUAUK",
     "Bank Name": "CREDIT AGRICOLE BANK JSC",
@@ -2250,8 +2250,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "UA",
+    "bankCode": "AGRI",
+    "countryCode": "UA",
     "branchCode": "CIB",
     "SWIFT Code": "AGRIUAUKCIB",
     "Bank Name": "CREDIT AGRICOLE BANK JSC",
@@ -2263,8 +2263,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBHL",
-    "bankCode": "UA",
+    "bankCode": "FBHL",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "FBHLUAUK",
     "Bank Name": "CREDIT EUROPE BANK JSC",
@@ -2276,8 +2276,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUGL",
-    "bankCode": "UA",
+    "bankCode": "CUGL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "CUGLUA22",
     "Bank Name": "CUSTODIAN GARANT, LLC",
@@ -2289,8 +2289,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTLC",
-    "bankCode": "UA",
+    "bankCode": "CTLC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "CTLCUAU2",
     "Bank Name": "CUSTODY-BROK, LLC",
@@ -2302,8 +2302,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKDC",
-    "bankCode": "UA",
+    "bankCode": "FKDC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FKDCUAU2",
     "Bank Name": "DALIZ-FINANCE FC LLC",
@@ -2315,8 +2315,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRYD",
-    "bankCode": "UA",
+    "bankCode": "PRYD",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PRYDUA22",
     "Bank Name": "DC PRYDNIPROVYA, LIMITED",
@@ -2328,8 +2328,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKDL",
-    "bankCode": "UA",
+    "bankCode": "FKDL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FKDLUA22",
     "Bank Name": "DEKRA FINANCIAL COMPANY LIMITED LIABILITY COMPANY (FC DEKRA LLC)",
@@ -2341,8 +2341,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKEL",
-    "bankCode": "UA",
+    "bankCode": "FKEL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FKELUA22",
     "Bank Name": "DELTA FC LLC",
@@ -2354,8 +2354,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOTA",
-    "bankCode": "UA",
+    "bankCode": "DOTA",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "DOTAUAU2",
     "Bank Name": "DOMINANT TRAIDE, LIMITED",
@@ -2367,8 +2367,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELCL",
-    "bankCode": "UA",
+    "bankCode": "ELCL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ELCLUAU2",
     "Bank Name": "ELLIOTT CAPITAL, LLC",
@@ -2380,8 +2380,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERKL",
-    "bankCode": "UA",
+    "bankCode": "ERKL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ERKLUAU2",
     "Bank Name": "ENERGY REGISTRATION COMPANY LLC",
@@ -2393,8 +2393,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAIP",
-    "bankCode": "UA",
+    "bankCode": "FAIP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FAIPUAU2",
     "Bank Name": "FAVORIT FOUNDATION COMPANY LLC",
@@ -2406,8 +2406,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKLL",
-    "bankCode": "UA",
+    "bankCode": "FKLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FKLLUA22",
     "Bank Name": "FC LIVADIA LLC",
@@ -2419,8 +2419,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKSL",
-    "bankCode": "UA",
+    "bankCode": "FKSL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FKSLUAU2",
     "Bank Name": "FC SOCRATES LLC",
@@ -2432,8 +2432,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUOZ",
-    "bankCode": "UA",
+    "bankCode": "FUOZ",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FUOZUAU2",
     "Bank Name": "FC ZENIT-DT LLC",
@@ -2445,8 +2445,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGIF",
-    "bankCode": "UA",
+    "bankCode": "FGIF",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FGIFUA22",
     "Bank Name": "FGI LLC",
@@ -2458,8 +2458,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCPC",
-    "bankCode": "UA",
+    "bankCode": "FCPC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FCPCUAU2",
     "Bank Name": "FINANCIAL COMPANY PROFFINANCE, LLC",
@@ -2471,8 +2471,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSLC",
-    "bankCode": "UA",
+    "bankCode": "FSLC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FSLCUA22",
     "Bank Name": "FINANCYST LLC",
@@ -2484,8 +2484,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIKU",
-    "bankCode": "UA",
+    "bankCode": "FIKU",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FIKUUAU2",
     "Bank Name": "FINANSOVA KOMPANIIA KUB, LIMITED",
@@ -2497,8 +2497,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIKL",
-    "bankCode": "UA",
+    "bankCode": "FIKL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FIKLUA22",
     "Bank Name": "FINANSOVA KOMPANIYA-OBERIG, LLC",
@@ -2510,8 +2510,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBM",
-    "bankCode": "UA",
+    "bankCode": "FIBM",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FIBMUAU2",
     "Bank Name": "FINASTA, LIMITED LIABILITY COMPANY",
@@ -2523,8 +2523,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNLC",
-    "bankCode": "UA",
+    "bankCode": "FNLC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FNLCUAU2",
     "Bank Name": "FINTAIM, LLC",
@@ -2536,8 +2536,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FROL",
-    "bankCode": "UA",
+    "bankCode": "FROL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "FROLUA22",
     "Bank Name": "FIRM MOTOR-DILER, LLC",
@@ -2549,8 +2549,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "DNI",
     "SWIFT Code": "FUIBUA2XDNI",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -2562,8 +2562,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "KHA",
     "SWIFT Code": "FUIBUA2XKHA",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -2575,8 +2575,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUIB",
-    "bankCode": "UA",
+    "bankCode": "FUIB",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "FUIBUA2X",
     "Bank Name": "FIRST UKRAINIAN INTERNATIONAL BANK",
@@ -2588,8 +2588,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "POL",
     "SWIFT Code": "COSBUAUKPOL",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2601,8 +2601,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "RIV",
     "SWIFT Code": "COSBUAUKRIV",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2614,8 +2614,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "SUM",
     "SWIFT Code": "COSBUAUKSUM",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2627,8 +2627,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "TER",
     "SWIFT Code": "COSBUAUKTER",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2640,8 +2640,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "ZAK",
     "SWIFT Code": "COSBUAUKZAK",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2653,8 +2653,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "VIN",
     "SWIFT Code": "COSBUAUKVIN",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2666,8 +2666,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "ZAP",
     "SWIFT Code": "COSBUAUKZAP",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2679,8 +2679,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSB",
-    "bankCode": "UA",
+    "bankCode": "COSB",
+    "countryCode": "UA",
     "branchCode": "ZHI",
     "SWIFT Code": "COSBUAUKZHI",
     "Bank Name": "JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
@@ -2692,8 +2692,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALJS",
-    "bankCode": "UA",
+    "bankCode": "ALJS",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "ALJSUAUK",
     "Bank Name": "JOINT STOCK COMPANY BANK ALLIANCE",
@@ -2705,8 +2705,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNJT",
-    "bankCode": "UA",
+    "bankCode": "UNJT",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UNJTUAUK",
     "Bank Name": "JOINT STOCK COMPANY UNEX BANK",
@@ -2718,8 +2718,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRBP",
-    "bankCode": "UA",
+    "bankCode": "CRBP",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "CRBPUAUK",
     "Bank Name": "JOINT-STOCK COMPANY 'CRYSTALBANK'",
@@ -2731,8 +2731,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRAV",
-    "bankCode": "UA",
+    "bankCode": "PRAV",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "PRAVUAUK",
     "Bank Name": "JOINT-STOCK COMPANY COMMERCIAL BANK 'PRAVEX-BANK'",
@@ -2744,8 +2744,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "UA",
+    "bankCode": "OTPV",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "OTPVUAUK",
     "Bank Name": "JOINT-STOCK COMPANY OTP BANK",
@@ -2757,8 +2757,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLHS",
-    "bankCode": "UA",
+    "bankCode": "CLHS",
+    "countryCode": "UA",
     "branchCode": "AUX",
     "SWIFT Code": "CLHSUAUX",
     "Bank Name": "JSB 'CLEARING HOUSE'",
@@ -2770,8 +2770,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALPA",
-    "bankCode": "UA",
+    "bankCode": "ALPA",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "ALPAUAUK",
     "Bank Name": "JSC 'ALPARI BANK'",
@@ -2783,8 +2783,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UKCA",
-    "bankCode": "UA",
+    "bankCode": "UKCA",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UKCAUAUK",
     "Bank Name": "JSC 'BANK 'UKRAINIAN CAPITAL'",
@@ -2796,8 +2796,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKVK",
-    "bankCode": "UA",
+    "bankCode": "BKVK",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "BKVKUAUK",
     "Bank Name": "JSC 'BANK 3/4'",
@@ -2809,8 +2809,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRDE",
-    "bankCode": "UA",
+    "bankCode": "CRDE",
+    "countryCode": "UA",
     "branchCode": "A2N",
     "SWIFT Code": "CRDEUA2N",
     "Bank Name": "JSC 'BANK CREDIT DNIPRO' (HEAD OFFICE)",
@@ -2822,8 +2822,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBF",
-    "bankCode": "UA",
+    "bankCode": "CIBF",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "CIBFUAUK",
     "Bank Name": "JSC 'COMINBANK'",
@@ -2835,8 +2835,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOOP",
-    "bankCode": "UA",
+    "bankCode": "KOOP",
+    "countryCode": "UA",
     "branchCode": "AUX",
     "SWIFT Code": "KOOPUAUX",
     "Bank Name": "JSC 'COMINVESTBANK' (FORMERLY KOOPINVESTBANK LTD COMMERCIAL BANK)",
@@ -2848,8 +2848,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUOM",
-    "bankCode": "UA",
+    "bankCode": "EUOM",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "EUOMUA2X",
     "Bank Name": "JSC 'EIB'",
@@ -2861,8 +2861,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOOJ",
-    "bankCode": "UA",
+    "bankCode": "MOOJ",
+    "countryCode": "UA",
     "branchCode": "A2Z",
     "SWIFT Code": "MOOJUA2Z",
     "Bank Name": "JSC 'MOTOR-BANK'",
@@ -2874,8 +2874,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVTO",
-    "bankCode": "UA",
+    "bankCode": "AVTO",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "AVTOUA22",
     "Bank Name": "JSC ALTBANK",
@@ -2887,8 +2887,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASVB",
-    "bankCode": "UA",
+    "bankCode": "ASVB",
+    "countryCode": "UA",
     "branchCode": "A2C",
     "SWIFT Code": "ASVBUA2C",
     "Bank Name": "JSC ASVIO BANK",
@@ -2900,8 +2900,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVGD",
-    "bankCode": "UA",
+    "bankCode": "AVGD",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "AVGDUAUK",
     "Bank Name": "JSC BANK AVANGARD",
@@ -2913,8 +2913,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRBK",
-    "bankCode": "UA",
+    "bankCode": "GRBK",
+    "countryCode": "UA",
     "branchCode": "A2X",
     "SWIFT Code": "GRBKUA2X",
     "Bank Name": "JSC BANK GRANT",
@@ -2926,8 +2926,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRBK",
-    "bankCode": "UA",
+    "bankCode": "GRBK",
+    "countryCode": "UA",
     "branchCode": "011",
     "SWIFT Code": "GRBKUA2X011",
     "Bank Name": "JSC BANK GRANT",
@@ -2939,8 +2939,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRBK",
-    "bankCode": "UA",
+    "bankCode": "GRBK",
+    "countryCode": "UA",
     "branchCode": "012",
     "SWIFT Code": "GRBKUA2X012",
     "Bank Name": "JSC BANK GRANT",
@@ -2952,8 +2952,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRBK",
-    "bankCode": "UA",
+    "bankCode": "GRBK",
+    "countryCode": "UA",
     "branchCode": "KIE",
     "SWIFT Code": "GRBKUA2XKIE",
     "Bank Name": "JSC BANK GRANT",
@@ -2965,8 +2965,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBN",
-    "bankCode": "UA",
+    "bankCode": "TCBN",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "TCBNUAUK",
     "Bank Name": "JSC BANK TRUST-CAPITAL",
@@ -2978,8 +2978,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCTB",
-    "bankCode": "UA",
+    "bankCode": "UCTB",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UCTBUAUK",
     "Bank Name": "JSC BTA BANK",
@@ -2991,8 +2991,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "GA1",
     "SWIFT Code": "PBANUA2XGA1",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3004,8 +3004,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "GA2",
     "SWIFT Code": "PBANUA2XGA2",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3017,8 +3017,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "CHK",
     "SWIFT Code": "PBANUA2XCHK",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3030,8 +3030,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "CHR",
     "SWIFT Code": "PBANUA2XCHR",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3043,8 +3043,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "CVF",
     "SWIFT Code": "PBANUA2XCVF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3056,8 +3056,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "CGF",
     "SWIFT Code": "PBANUA2XCGF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3069,8 +3069,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "DON",
     "SWIFT Code": "PBANUA2XDON",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3082,8 +3082,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "GR1",
     "SWIFT Code": "PBANUA2XGR1",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3095,8 +3095,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "GRL",
     "SWIFT Code": "PBANUA2XGRL",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3108,8 +3108,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "IFF",
     "SWIFT Code": "PBANUA2XIFF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3121,8 +3121,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "DZF",
     "SWIFT Code": "PBANUA2XDZF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3134,8 +3134,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "HAF",
     "SWIFT Code": "PBANUA2XHAF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3147,8 +3147,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "GKH",
     "SWIFT Code": "PBANUA2XGKH",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3160,8 +3160,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "HRN",
     "SWIFT Code": "PBANUA2XHRN",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3173,8 +3173,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "HMF",
     "SWIFT Code": "PBANUA2XHMF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3186,8 +3186,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "KOF",
     "SWIFT Code": "PBANUA2XKOF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3199,8 +3199,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "KTF",
     "SWIFT Code": "PBANUA2XKTF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3212,8 +3212,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "KMF",
     "SWIFT Code": "PBANUA2XKMF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3225,8 +3225,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "UA",
+    "bankCode": "PBAN",
+    "countryCode": "UA",
     "branchCode": "KGF",
     "SWIFT Code": "PBANUA2XKGF",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -3238,8 +3238,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYLL",
-    "bankCode": "UA",
+    "bankCode": "PYLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PYLLUA22",
     "Bank Name": "RK PRYDNIPROVIE, LLC",
@@ -3251,8 +3251,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INYP",
-    "bankCode": "UA",
+    "bankCode": "INYP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "INYPUAU2",
     "Bank Name": "ROMEKS-INVEST INVESTMENT COMPANY",
@@ -3264,8 +3264,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIOL",
-    "bankCode": "UA",
+    "bankCode": "PIOL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PIOLUA22",
     "Bank Name": "ROSAN-SECURITIES ENTERPRISE LIMITED LIABILTY COMPANY",
@@ -3277,8 +3277,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROIC",
-    "bankCode": "UA",
+    "bankCode": "ROIC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "ROICUAU2",
     "Bank Name": "ROYAL CAPITAL, LLC",
@@ -3290,8 +3290,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "UA",
+    "bankCode": "SECT",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "SECTUAU2",
     "Bank Name": "SAMSUNG R AND D INSTITUTE UKRAINE, LLC",
@@ -3303,8 +3303,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGLL",
-    "bankCode": "UA",
+    "bankCode": "SGLL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "SGLLUAU2",
     "Bank Name": "SIGNIFER, LLC",
@@ -3316,8 +3316,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REGB",
-    "bankCode": "UA",
+    "bankCode": "REGB",
+    "countryCode": "UA",
     "branchCode": "A2K",
     "SWIFT Code": "REGBUA2K",
     "Bank Name": "SKY BANK, JOINT STOCK COMPANY",
@@ -3329,8 +3329,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKSL",
-    "bankCode": "UA",
+    "bankCode": "DKSL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "DKSLUA22",
     "Bank Name": "SLAVUTYCH-CAPITAL LLC                             LC",
@@ -3342,8 +3342,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SODC",
-    "bankCode": "UA",
+    "bankCode": "SODC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "SODCUA22",
     "Bank Name": "SOLID DNIPRO, LLC",
@@ -3355,8 +3355,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRDK",
-    "bankCode": "UA",
+    "bankCode": "PRDK",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "PRDKUA22",
     "Bank Name": "SOUTHERN REGIONAL DEPOSITORY AND TRADE STOCK CENTER LIMITED LIABILITY COMPANY",
@@ -3368,8 +3368,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDE",
-    "bankCode": "UA",
+    "bankCode": "SPDE",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "SPDEUA22",
     "Bank Name": "SPRED, LIMITED",
@@ -3381,8 +3381,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STLO",
-    "bankCode": "UA",
+    "bankCode": "STLO",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "STLOUAU2",
     "Bank Name": "STANDART, LIMITED LIABILITY COMPANY",
@@ -3394,8 +3394,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNLL",
-    "bankCode": "UA",
+    "bankCode": "SNLL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "SNLLUAU2",
     "Bank Name": "STANDART-REGISTER, LLC",
@@ -3407,8 +3407,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUFT",
-    "bankCode": "UA",
+    "bankCode": "SUFT",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "SUFTUA22",
     "Bank Name": "SUMSKYI FONDOVYI TSENTR,LLC",
@@ -3420,8 +3420,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TANC",
-    "bankCode": "UA",
+    "bankCode": "TANC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TANCUAU2",
     "Bank Name": "T AND C, LIMITED",
@@ -3433,8 +3433,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUNI",
-    "bankCode": "UA",
+    "bankCode": "MUNI",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "MUNIUA22",
     "Bank Name": "TASCOMBANK JSC (FORMERLY BANK BUSINESS STANDARD)",
@@ -3446,8 +3446,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TALC",
-    "bankCode": "UA",
+    "bankCode": "TALC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TALCUAU2",
     "Bank Name": "TASK-BROKER, LLC",
@@ -3459,8 +3459,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TATP",
-    "bankCode": "UA",
+    "bankCode": "TATP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TATPUAU2",
     "Bank Name": "TAVRIYS'KI TSINNI PAPERY,LLC",
@@ -3472,8 +3472,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCNC",
-    "bankCode": "UA",
+    "bankCode": "TCNC",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TCNCUAU2",
     "Bank Name": "TESLA CAPITAL MANAGEMENT, LLC",
@@ -3485,8 +3485,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFIF",
-    "bankCode": "UA",
+    "bankCode": "FFIF",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "FFIFUAU2",
     "Bank Name": "THE FIRST FINANCIAL INTERMEDIARY FINANC.COMP.,LLC",
@@ -3498,8 +3498,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TILL",
-    "bankCode": "UA",
+    "bankCode": "TILL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TILLUAU2",
     "Bank Name": "TI-INVEST, LLC",
@@ -3511,8 +3511,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOVT",
-    "bankCode": "UA",
+    "bankCode": "TOVT",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TOVTUAU2",
     "Bank Name": "TOV ANALITIK-REGISTRATOR",
@@ -3524,8 +3524,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRFO",
-    "bankCode": "UA",
+    "bankCode": "TRFO",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TRFOUAU2",
     "Bank Name": "TRANSFERT STOCK COMPANY LLC",
@@ -3537,8 +3537,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSFK",
-    "bankCode": "UA",
+    "bankCode": "TSFK",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "TSFKUAU2",
     "Bank Name": "TSENTRALNO-SKHIDNA FINANSOVA KOMPANIYA, LIMITED",
@@ -3550,8 +3550,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UKLC",
-    "bankCode": "UA",
+    "bankCode": "UKLC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "UKLCUA22",
     "Bank Name": "UKRAINA-CAPITAL, LLC",
@@ -3563,8 +3563,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UKRD",
-    "bankCode": "UA",
+    "bankCode": "UKRD",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UKRDUAUK",
     "Bank Name": "UKRAINIAN BANK OF RECONSTRUCTION AND DEVELOPMENT",
@@ -3576,8 +3576,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UICL",
-    "bankCode": "UA",
+    "bankCode": "UICL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "UICLUA22",
     "Bank Name": "UKRAINSKII INVESTYTSIINYI CLUB, LLC",
@@ -3589,8 +3589,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UKRE",
-    "bankCode": "UA",
+    "bankCode": "UKRE",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "UKREUAU2",
     "Bank Name": "UKREKOBUDINVEST,LLC",
@@ -3602,8 +3602,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UFCP",
-    "bankCode": "UA",
+    "bankCode": "UFCP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "UFCPUAU2",
     "Bank Name": "UKRNAFTOGAZ FINANCIAL COMPANY PRIVATE JSC",
@@ -3615,8 +3615,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "URKR",
-    "bankCode": "UA",
+    "bankCode": "URKR",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "URKRUA22",
     "Bank Name": "UKRREESTR-KHARKIV LLC",
@@ -3628,8 +3628,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHAB",
-    "bankCode": "UA",
+    "bankCode": "KHAB",
+    "countryCode": "UA",
     "branchCode": "A2K",
     "SWIFT Code": "KHABUA2K",
     "Bank Name": "UKRSIBBANK",
@@ -3641,8 +3641,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNNL",
-    "bankCode": "UA",
+    "bankCode": "UNNL",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "UNNLUAU2",
     "Bank Name": "UNIBUD FINANCE, LLC",
@@ -3654,8 +3654,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JORC",
-    "bankCode": "UA",
+    "bankCode": "JORC",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "JORCUA22",
     "Bank Name": "UNITED REGISTRATION COMPANY LLC",
@@ -3667,8 +3667,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAP",
-    "bankCode": "UA",
+    "bankCode": "UNAP",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "UNAPUAU2",
     "Bank Name": "UNIVER CAPITAL, LIMITED",
@@ -3680,8 +3680,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNJS",
-    "bankCode": "UA",
+    "bankCode": "UNJS",
+    "countryCode": "UA",
     "branchCode": "AUK",
     "SWIFT Code": "UNJSUAUK",
     "Bank Name": "UNIVERSAL BANK JSC",
@@ -3693,8 +3693,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UPRF",
-    "bankCode": "UA",
+    "bankCode": "UPRF",
+    "countryCode": "UA",
     "branchCode": "AU2",
     "SWIFT Code": "UPRFUAU2",
     "Bank Name": "UPR-FINANCE,LLC",
@@ -3706,8 +3706,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOPJ",
-    "bankCode": "UA",
+    "bankCode": "VOPJ",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "VOPJUA22",
     "Bank Name": "VOSTOK-INVEST, PJSC",
@@ -3719,8 +3719,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFCL",
-    "bankCode": "UA",
+    "bankCode": "WFCL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "WFCLUA22",
     "Bank Name": "WESTINVEST FINANCIAL COMPANY LLC",
@@ -3732,8 +3732,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAPJ",
-    "bankCode": "UA",
+    "bankCode": "ZAPJ",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "ZAPJUA22",
     "Bank Name": "ZAPORIZHSTAL-AG, PJSC",
@@ -3745,8 +3745,8 @@ const ukraine = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBLL",
-    "bankCode": "UA",
+    "bankCode": "ZBLL",
+    "countryCode": "UA",
     "branchCode": "A22",
     "SWIFT Code": "ZBLLUA22",
     "Bank Name": "ZBERIGACH-KAPITAL, LLC",

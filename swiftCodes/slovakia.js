@@ -1,7 +1,7 @@
 const slovakia = [
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "NIT",
     "SWIFT Code": "KOMASK2XNIT",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -13,8 +13,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "PBY",
     "SWIFT Code": "KOMASK2XPBY",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -26,8 +26,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "SNV",
     "SWIFT Code": "KOMASK2XSNV",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -39,8 +39,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "TRE",
     "SWIFT Code": "KOMASK2XTRE",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -52,8 +52,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "TNA",
     "SWIFT Code": "KOMASK2XTNA",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -65,8 +65,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUBA",
-    "bankCode": "SK",
+    "bankCode": "LUBA",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "LUBASKBX",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -78,8 +78,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "K2X",
     "SWIFT Code": "KOMASK2X",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -91,8 +91,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "ZIL",
     "SWIFT Code": "KOMASK2XZIL",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -104,8 +104,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLO",
-    "bankCode": "SK",
+    "bankCode": "BSLO",
+    "countryCode": "SK",
     "branchCode": "K22",
     "SWIFT Code": "BSLOSK22",
     "Bank Name": "PRIVATBANKA, A.S.",
@@ -117,8 +117,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRVA",
-    "bankCode": "SK",
+    "bankCode": "PRVA",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "PRVASKBA",
     "Bank Name": "PRVA STAVEBNA SPORITELNA, A.S.",
@@ -130,8 +130,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDXX",
-    "bankCode": "SK",
+    "bankCode": "FDXX",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "FDXXSKBA",
     "Bank Name": "SIA CENTRAL EUROPE, A.S.",
@@ -143,8 +143,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "SK",
+    "bankCode": "GIBA",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "GIBASKBX",
     "Bank Name": "SLOVENSKA SPORITELNA, A.S.",
@@ -156,8 +156,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLZB",
-    "bankCode": "SK",
+    "bankCode": "SLZB",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "SLZBSKBA",
     "Bank Name": "SLOVENSKA ZARUCNA A ROZVOJOVA BANKA, A.S.",
@@ -169,8 +169,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPSR",
-    "bankCode": "SK",
+    "bankCode": "SPSR",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "SPSRSKBA",
     "Bank Name": "STATNA POKLADNICA",
@@ -182,8 +182,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPSR",
-    "bankCode": "SK",
+    "bankCode": "SPSR",
+    "countryCode": "SK",
     "branchCode": "ARD",
     "SWIFT Code": "SPSRSKBAARD",
     "Bank Name": "STATNA POKLADNICA",
@@ -195,8 +195,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TATR",
-    "bankCode": "SK",
+    "bankCode": "TATR",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "TATRSKBX",
     "Bank Name": "TATRA BANKA A.S.",
@@ -208,8 +208,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPAY",
-    "bankCode": "SK",
+    "bankCode": "TPAY",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "TPAYSKBX",
     "Bank Name": "TRUST PAY, A.S.",
@@ -221,8 +221,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKSO",
-    "bankCode": "SK",
+    "bankCode": "SKSO",
+    "countryCode": "SK",
     "branchCode": "K2X",
     "SWIFT Code": "SKSOSK2X",
     "Bank Name": "U. S. STEEL KOSICE, S.R.O.",
@@ -234,8 +234,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "SK",
+    "bankCode": "UNCR",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "UNCRSKBX",
     "Bank Name": "UNICREDIT BANK CZ AND SK, SK BRANCH",
@@ -247,8 +247,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "SK",
+    "bankCode": "UNCR",
+    "countryCode": "SK",
     "branchCode": "FAR",
     "SWIFT Code": "UNCRSKBXFAR",
     "Bank Name": "UNICREDIT BANK CZ AND SK, SK BRANCH",
@@ -260,8 +260,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "SK",
+    "bankCode": "UNCR",
+    "countryCode": "SK",
     "branchCode": "OWN",
     "SWIFT Code": "UNCRSKBXOWN",
     "Bank Name": "UNICREDIT BANK CZ AND SK, SK BRANCH",
@@ -273,8 +273,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "SK",
+    "bankCode": "PANX",
+    "countryCode": "SK",
     "branchCode": "K22",
     "SWIFT Code": "PANXSK22",
     "Bank Name": "UNIFIEDPOST PAYMENTS, ORGANIZACNA ZLOZKA",
@@ -286,8 +286,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUBA",
-    "bankCode": "SK",
+    "bankCode": "SUBA",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "SUBASKBX",
     "Bank Name": "VSEOBECNA UVEROVA BANKA A.S.",
@@ -299,8 +299,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUST",
-    "bankCode": "SK",
+    "bankCode": "WUST",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "WUSTSKBA",
     "Bank Name": "WUSTENROT STAVEBNA SPORITELNA, A.S.",
@@ -312,8 +312,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POBN",
-    "bankCode": "SK",
+    "bankCode": "POBN",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "POBNSKBA",
     "Bank Name": "365.BANK, A. S.",
@@ -325,8 +325,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "SK",
+    "bankCode": "BFKK",
+    "countryCode": "SK",
     "branchCode": "KBB",
     "SWIFT Code": "BFKKSKBB",
     "Bank Name": "BKS BANK AG, POBOCKA ZAHRANICNEJ BANKY V SR",
@@ -338,8 +338,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDS",
-    "bankCode": "SK",
+    "bankCode": "CSDS",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "CSDSSKBA",
     "Bank Name": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
@@ -351,8 +351,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDS",
-    "bankCode": "SK",
+    "bankCode": "CSDS",
+    "countryCode": "SK",
     "branchCode": "SYS",
     "SWIFT Code": "CSDSSKBASYS",
     "Bank Name": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
@@ -364,8 +364,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDS",
-    "bankCode": "SK",
+    "bankCode": "CSDS",
+    "countryCode": "SK",
     "branchCode": "DTA",
     "SWIFT Code": "CSDSSKBADTA",
     "Bank Name": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
@@ -377,8 +377,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEKO",
-    "bankCode": "SK",
+    "bankCode": "CEKO",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "CEKOSKBX",
     "Bank Name": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
@@ -390,8 +390,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSP",
-    "bankCode": "SK",
+    "bankCode": "KBSP",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "KBSPSKBX",
     "Bank Name": "CESKOSLOVENSKA OBCHODNA BANKA, A.S. (FORMERLY CSOB STAVEBNA SPORITELNA, A.S.)",
@@ -403,8 +403,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SK",
+    "bankCode": "CITI",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "CITISKBA",
     "Bank Name": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
@@ -416,8 +416,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SK",
+    "bankCode": "CITI",
+    "countryCode": "SK",
     "branchCode": "SEC",
     "SWIFT Code": "CITISKBASEC",
     "Bank Name": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
@@ -429,8 +429,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXSK",
-    "bankCode": "SK",
+    "bankCode": "EXSK",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "EXSKSKBX",
     "Bank Name": "EXPORT-IMPORT BANK OF SLOVAK REPUBLIC",
@@ -442,8 +442,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIOZ",
-    "bankCode": "SK",
+    "bankCode": "FIOZ",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "FIOZSKBA",
     "Bank Name": "FIO BANKA, A.S., POBOCKA ZAHRANICNEJ BANKY",
@@ -455,8 +455,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "SK",
+    "bankCode": "INGB",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "INGBSKBX",
     "Bank Name": "ING BANK N.V., POBOCKA ZAHR, BANKY",
@@ -468,8 +468,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTBP",
-    "bankCode": "SK",
+    "bankCode": "JTBP",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "JTBPSKBA",
     "Bank Name": "J AND T BANKA, A.S.,POBOCKA ZAHRANICNEJ BANKY",
@@ -481,8 +481,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KPAY",
-    "bankCode": "SK",
+    "bankCode": "KPAY",
+    "countryCode": "SK",
     "branchCode": "K22",
     "SWIFT Code": "KPAYSK22",
     "Bank Name": "K-PAY A.S.",
@@ -494,8 +494,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "SK",
+    "bankCode": "KODB",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "KODBSKBX",
     "Bank Name": "KDB BANK EUROPE LTD SLOVAKIAN BRANCH OFFICE",
@@ -507,8 +507,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMB",
-    "bankCode": "SK",
+    "bankCode": "KOMB",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "KOMBSKBA",
     "Bank Name": "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY",
@@ -520,8 +520,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMB",
-    "bankCode": "SK",
+    "bankCode": "KOMB",
+    "countryCode": "SK",
     "branchCode": "TGT",
     "SWIFT Code": "KOMBSKBATGT",
     "Bank Name": "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY",
@@ -533,8 +533,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "SK",
+    "bankCode": "BREX",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "BREXSKBX",
     "Bank Name": "MBANK S.A., POBOCKA ZAHRANICNEJ BANKY",
@@ -546,8 +546,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRAF",
-    "bankCode": "SK",
+    "bankCode": "KRAF",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "KRAFSKBA",
     "Bank Name": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
@@ -559,8 +559,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRAF",
-    "bankCode": "SK",
+    "bankCode": "KRAF",
+    "countryCode": "SK",
     "branchCode": "PYL",
     "SWIFT Code": "KRAFSKBAPYL",
     "Bank Name": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
@@ -572,8 +572,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRAF",
-    "bankCode": "SK",
+    "bankCode": "KRAF",
+    "countryCode": "SK",
     "branchCode": "SSC",
     "SWIFT Code": "KRAFSKBASSC",
     "Bank Name": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
@@ -585,8 +585,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRAF",
-    "bankCode": "SK",
+    "bankCode": "KRAF",
+    "countryCode": "SK",
     "branchCode": "TSY",
     "SWIFT Code": "KRAFSKBATSY",
     "Bank Name": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
@@ -598,8 +598,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "KBX",
     "SWIFT Code": "NBSBSKBX",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -611,8 +611,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "EBA",
     "SWIFT Code": "NBSBSKBXEBA",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -624,8 +624,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "FE1",
     "SWIFT Code": "NBSBSKBXFE1",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -637,8 +637,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "IN1",
     "SWIFT Code": "NBSBSKBXIN1",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -650,8 +650,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "SIP",
     "SWIFT Code": "NBSBSKBXSIP",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -663,8 +663,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "BIL",
     "SWIFT Code": "NBSBSKBXBIL",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -676,8 +676,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "CCB",
     "SWIFT Code": "NBSBSKBXCCB",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -689,8 +689,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "EUX",
     "SWIFT Code": "NBSBSKBXEUX",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -702,8 +702,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "TGT",
     "SWIFT Code": "NBSBSKBXTGT",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -715,8 +715,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "ECM",
     "SWIFT Code": "NBSBSKBXECM",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -728,8 +728,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "200",
     "SWIFT Code": "NBSBSKBX200",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -741,8 +741,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSB",
-    "bankCode": "SK",
+    "bankCode": "NBSB",
+    "countryCode": "SK",
     "branchCode": "100",
     "SWIFT Code": "NBSBSKBX100",
     "Bank Name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
@@ -754,8 +754,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSSO",
-    "bankCode": "SK",
+    "bankCode": "DSSO",
+    "countryCode": "SK",
     "branchCode": "KBB",
     "SWIFT Code": "DSSOSKBB",
     "Bank Name": "NN DOCHODKOVA SPRAVCOVSKA SPOLOCNOST, A.S.",
@@ -767,8 +767,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNTS",
-    "bankCode": "SK",
+    "bankCode": "NNTS",
+    "countryCode": "SK",
     "branchCode": "KB2",
     "SWIFT Code": "NNTSSKB2",
     "Bank Name": "NN TATRY - SYMPATIA, D.D.S., A.S.",
@@ -780,8 +780,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "SK",
+    "bankCode": "OBKL",
+    "countryCode": "SK",
     "branchCode": "KBA",
     "SWIFT Code": "OBKLSKBA",
     "Bank Name": "OBERBANK AG",
@@ -793,8 +793,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAMV",
-    "bankCode": "SK",
+    "bankCode": "PAMV",
+    "countryCode": "SK",
     "branchCode": "KB2",
     "SWIFT Code": "PAMVSKB2",
     "Bank Name": "PARTNERS ASSET MANAGEMENT, SPRAV. SPOL., A.S.",
@@ -806,8 +806,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAVO",
-    "bankCode": "SK",
+    "bankCode": "PAVO",
+    "countryCode": "SK",
     "branchCode": "KB2",
     "SWIFT Code": "PAVOSKB2",
     "Bank Name": "PARTNERS INVESTMENTS, O.C.P, A.S.",
@@ -819,8 +819,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "SK",
+    "bankCode": "BPKO",
+    "countryCode": "SK",
     "branchCode": "KBB",
     "SWIFT Code": "BPKOSKBB",
     "Bank Name": "PKO BP S.A., POBOCKA ZAHRANICNEJ BANKY",
@@ -832,8 +832,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "SK",
+    "bankCode": "BPKO",
+    "countryCode": "SK",
     "branchCode": "KB2",
     "SWIFT Code": "BPKOSKB2",
     "Bank Name": "PKO BP S.A., POBOCKA ZAHRANICNEJ BANKY",
@@ -845,8 +845,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "BBY",
     "SWIFT Code": "KOMASK2XBBY",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -858,8 +858,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "BST",
     "SWIFT Code": "KOMASK2XBST",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -871,8 +871,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "BRA",
     "SWIFT Code": "KOMASK2XBRA",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -884,8 +884,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "BRE",
     "SWIFT Code": "KOMASK2XBRE",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -897,8 +897,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "KOS",
     "SWIFT Code": "KOMASK2XKOS",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -910,8 +910,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "LHR",
     "SWIFT Code": "KOMASK2XLHR",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -923,8 +923,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "LCN",
     "SWIFT Code": "KOMASK2XLCN",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -936,8 +936,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "MAL",
     "SWIFT Code": "KOMASK2XMAL",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",
@@ -949,8 +949,8 @@ const slovakia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMA",
-    "bankCode": "SK",
+    "bankCode": "KOMA",
+    "countryCode": "SK",
     "branchCode": "MCH",
     "SWIFT Code": "KOMASK2XMCH",
     "Bank Name": "PRIMA BANKA SLOVENSKO, A.S.",

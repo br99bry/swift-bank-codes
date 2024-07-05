@@ -1,7 +1,7 @@
 const saintHelena = [
   {
-    "countryCode": "BHEL",
-    "bankCode": "SH",
+    "bankCode": "BHEL",
+    "countryCode": "SH",
     "branchCode": "HJJ",
     "SWIFT Code": "BHELSHJJ",
     "Bank Name": "BANK OF ST. HELENA",

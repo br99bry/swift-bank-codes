@@ -1,7 +1,7 @@
 const palau = [
   {
-    "countryCode": "PAVT",
-    "bankCode": "PW",
+    "bankCode": "PAVT",
+    "countryCode": "PW",
     "branchCode": "W22",
     "SWIFT Code": "PAVTPW22",
     "Bank Name": "PALAU INVESTMENT BANK, LTD.",

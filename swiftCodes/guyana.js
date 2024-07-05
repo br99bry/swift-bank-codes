@@ -1,7 +1,7 @@
 const guyana = [
   {
-    "countryCode": "BARB",
-    "bankCode": "GY",
+    "bankCode": "BARB",
+    "countryCode": "GY",
     "branchCode": "YGE",
     "SWIFT Code": "BARBGYGE",
     "Bank Name": "BANK OF BARODA (GUYANA) INC.",
@@ -13,8 +13,8 @@ const guyana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUBA",
-    "bankCode": "GY",
+    "bankCode": "GUBA",
+    "countryCode": "GY",
     "branchCode": "YGG",
     "SWIFT Code": "GUBAGYGG",
     "Bank Name": "BANK OF GUYANA",
@@ -26,8 +26,8 @@ const guyana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "GY",
+    "bankCode": "NOSC",
+    "countryCode": "GY",
     "branchCode": "YGE",
     "SWIFT Code": "NOSCGYGE",
     "Bank Name": "BANK OF NOVA SCOTIA,THE",
@@ -39,8 +39,8 @@ const guyana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBGI",
-    "bankCode": "GY",
+    "bankCode": "CBGI",
+    "countryCode": "GY",
     "branchCode": "YGG",
     "SWIFT Code": "CBGIGYGG",
     "Bank Name": "CITIZENS BANK GUYANA INC",
@@ -52,8 +52,8 @@ const guyana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DMBK",
-    "bankCode": "GY",
+    "bankCode": "DMBK",
+    "countryCode": "GY",
     "branchCode": "YGT",
     "SWIFT Code": "DMBKGYGT",
     "Bank Name": "DEMERARA BANK LIMITED",
@@ -65,8 +65,8 @@ const guyana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUTI",
-    "bankCode": "GY",
+    "bankCode": "GUTI",
+    "countryCode": "GY",
     "branchCode": "YGE",
     "SWIFT Code": "GUTIGYGE",
     "Bank Name": "GUYANA BANK FOR TRADE AND INDUSTRY LTD.",
@@ -78,8 +78,8 @@ const guyana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBGL",
-    "bankCode": "GY",
+    "bankCode": "RBGL",
+    "countryCode": "GY",
     "branchCode": "YGG",
     "SWIFT Code": "RBGLGYGG",
     "Bank Name": "REPUBLIC BANK (GUYANA) LIMITED",

@@ -1,7 +1,7 @@
 const finland = [
   {
-    "countryCode": "AHOJ",
-    "bankCode": "FI",
+    "bankCode": "AHOJ",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "AHOJFIHH",
     "Bank Name": "AHLSTROM OYJ",
@@ -13,8 +13,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HELS",
-    "bankCode": "FI",
+    "bankCode": "HELS",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "HELSFIHH",
     "Bank Name": "AKTIA BANK P.L.C.",
@@ -26,8 +26,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HELS",
-    "bankCode": "FI",
+    "bankCode": "HELS",
+    "countryCode": "FI",
     "branchCode": "HAM",
     "SWIFT Code": "HELSFIHHHAM",
     "Bank Name": "AKTIA BANK P.L.C.",
@@ -39,8 +39,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HELS",
-    "bankCode": "FI",
+    "bankCode": "HELS",
+    "countryCode": "FI",
     "branchCode": "TIP",
     "SWIFT Code": "HELSFIHHTIP",
     "Bank Name": "AKTIA BANK P.L.C.",
@@ -52,8 +52,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVSE",
-    "bankCode": "FI",
+    "bankCode": "EVSE",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "EVSEFIH2",
     "Bank Name": "ALISA BANK PLC",
@@ -65,8 +65,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVSE",
-    "bankCode": "FI",
+    "bankCode": "EVSE",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "EVSEFIHH",
     "Bank Name": "ALISA BANK PLC",
@@ -78,8 +78,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVSE",
-    "bankCode": "FI",
+    "bankCode": "EVSE",
+    "countryCode": "FI",
     "branchCode": "FND",
     "SWIFT Code": "EVSEFIHHFND",
     "Bank Name": "ALISA BANK PLC",
@@ -91,8 +91,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABA",
-    "bankCode": "FI",
+    "bankCode": "AABA",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "AABAFI22",
     "Bank Name": "BANK OF ALAND PLC",
@@ -104,8 +104,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABA",
-    "bankCode": "FI",
+    "bankCode": "AABA",
+    "countryCode": "FI",
     "branchCode": "TET",
     "SWIFT Code": "AABAFI22TET",
     "Bank Name": "BANK OF ALAND PLC",
@@ -117,8 +117,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABA",
-    "bankCode": "FI",
+    "bankCode": "AABA",
+    "countryCode": "FI",
     "branchCode": "TMS",
     "SWIFT Code": "AABAFI22TMS",
     "Bank Name": "BANK OF ALAND PLC",
@@ -130,8 +130,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPFN",
-    "bankCode": "FI",
+    "bankCode": "BPFN",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "BPFNFI22",
     "Bank Name": "BLUESTEP BANK AB (PUBL), FILIAL I FINLAND",
@@ -143,8 +143,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPF",
-    "bankCode": "FI",
+    "bankCode": "POPF",
+    "countryCode": "FI",
     "branchCode": "TIP",
     "SWIFT Code": "POPFFI22TIP",
     "Bank Name": "BONUM BANK PLC",
@@ -156,8 +156,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPF",
-    "bankCode": "FI",
+    "bankCode": "POPF",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "POPFFI22",
     "Bank Name": "BONUM BANK PLC",
@@ -169,8 +169,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KALM",
-    "bankCode": "FI",
+    "bankCode": "KALM",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "KALMFIHH",
     "Bank Name": "CARGOTEC OYJ",
@@ -182,8 +182,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTEC",
-    "bankCode": "FI",
+    "bankCode": "CTEC",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "CTECFIHH",
     "Bank Name": "CARGOTEC OYJ",
@@ -195,8 +195,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITEL",
-    "bankCode": "FI",
+    "bankCode": "ITEL",
+    "countryCode": "FI",
     "branchCode": "TIP",
     "SWIFT Code": "ITELFIHHTIP",
     "Bank Name": "CENTRAL BANK OF SAVINGS BANKS FINLAND PLC",
@@ -209,8 +209,8 @@ const finland = [
   },
   {},
   {
-    "countryCode": "CITI",
-    "bankCode": "FI",
+    "bankCode": "CITI",
+    "countryCode": "FI",
     "branchCode": "IHX",
     "SWIFT Code": "CITIFIHX",
     "Bank Name": "CITIBANK EUROPE PLC FINLAND BRANCH",
@@ -222,8 +222,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FI",
+    "bankCode": "BSUI",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "BSUIFIHH",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -235,8 +235,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "DABAFIHH",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -248,8 +248,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "CLS",
     "SWIFT Code": "DABAFIHHCLS",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -261,8 +261,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "CAP",
     "SWIFT Code": "DABAFIHHCAP",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -274,8 +274,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "HAM",
     "SWIFT Code": "DABAFIHHHAM",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -287,8 +287,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "DCA",
     "SWIFT Code": "DABAFIHHDCA",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -300,8 +300,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "ST2",
     "SWIFT Code": "DABAFIHHST2",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -313,8 +313,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "FI",
+    "bankCode": "DABA",
+    "countryCode": "FI",
     "branchCode": "SD2",
     "SWIFT Code": "DABAFIHHSD2",
     "Bank Name": "DANSKE BANK A/S, FINLAND BRANCH",
@@ -326,8 +326,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAKO",
-    "bankCode": "FI",
+    "bankCode": "DAKO",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "DAKOFIHH",
     "Bank Name": "DANSKE KIINNITYSLUOTTOPANKKI OYJ",
@@ -339,8 +339,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "FI",
+    "bankCode": "DNBA",
+    "countryCode": "FI",
     "branchCode": "IHX",
     "SWIFT Code": "DNBAFIHX",
     "Bank Name": "DNB BANK ASA, FILIAL FINLAND",
@@ -352,8 +352,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMPN",
-    "bankCode": "FI",
+    "bankCode": "EMPN",
+    "countryCode": "FI",
     "branchCode": "I2E",
     "SWIFT Code": "EMPNFI2E",
     "Bank Name": "ELO MUTUAL PENSION INSURANCE COMPANY",
@@ -365,8 +365,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APKE",
-    "bankCode": "FI",
+    "bankCode": "APKE",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "APKEFIHH",
     "Bank Name": "EUROCLEAR FINLAND LTD",
@@ -378,8 +378,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APKE",
-    "bankCode": "FI",
+    "bankCode": "APKE",
+    "countryCode": "FI",
     "branchCode": "MIG",
     "SWIFT Code": "APKEFIHHMIG",
     "Bank Name": "EUROCLEAR FINLAND LTD",
@@ -391,8 +391,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APKE",
-    "bankCode": "FI",
+    "bankCode": "APKE",
+    "countryCode": "FI",
     "branchCode": "CLP",
     "SWIFT Code": "APKEFIHHCLP",
     "Bank Name": "EUROCLEAR FINLAND LTD",
@@ -404,8 +404,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APKE",
-    "bankCode": "FI",
+    "bankCode": "APKE",
+    "countryCode": "FI",
     "branchCode": "ATP",
     "SWIFT Code": "APKEFIHHATP",
     "Bank Name": "EUROCLEAR FINLAND LTD",
@@ -417,8 +417,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVII",
-    "bankCode": "FI",
+    "bankCode": "EVII",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "EVIIFIHH",
     "Bank Name": "EVLI PLC",
@@ -430,8 +430,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOLV",
-    "bankCode": "FI",
+    "bankCode": "HOLV",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "HOLVFIHH",
     "Bank Name": "HOLVI PAYMENT SERVICES LTD",
@@ -443,8 +443,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPML",
-    "bankCode": "FI",
+    "bankCode": "JPML",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "JPMLFIH2",
     "Bank Name": "J.P. MORGAN AG HELSINGIN SIVULIIKE",
@@ -456,8 +456,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEMI",
-    "bankCode": "FI",
+    "bankCode": "KEMI",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "KEMIFIHH",
     "Bank Name": "KEMIRA OYJ",
@@ -469,8 +469,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KONE",
-    "bankCode": "FI",
+    "bankCode": "KONE",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "KONEFI22",
     "Bank Name": "KONE CORPORATION",
@@ -482,8 +482,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LTAP",
-    "bankCode": "FI",
+    "bankCode": "LTAP",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "LTAPFI22",
     "Bank Name": "LOCALTAPIOLA ASSET MANAGEMENT LTD",
@@ -495,8 +495,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "MUL",
     "SWIFT Code": "MNAGFIH2MUL",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -508,8 +508,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "MLI",
     "SWIFT Code": "MNAGFIH2MLI",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -521,8 +521,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "MNAGFIH2",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -534,8 +534,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "KUL",
     "SWIFT Code": "MNAGFIH2KUL",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -547,8 +547,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "MNS",
     "SWIFT Code": "MNAGFIH2MNS",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -560,8 +560,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "KVA",
     "SWIFT Code": "MNAGFIH2KVA",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -573,8 +573,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAG",
-    "bankCode": "FI",
+    "bankCode": "MNAG",
+    "countryCode": "FI",
     "branchCode": "MAM",
     "SWIFT Code": "MNAGFIH2MAM",
     "Bank Name": "MANDATUM ASSET MANAGEMENT LTD",
@@ -586,8 +586,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGRP",
-    "bankCode": "FI",
+    "bankCode": "MGRP",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "MGRPFI22",
     "Bank Name": "METSA GROUP TREASURY OY",
@@ -599,8 +599,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OUTC",
-    "bankCode": "FI",
+    "bankCode": "OUTC",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "OUTCFI22",
     "Bank Name": "METSO OYJ",
@@ -612,8 +612,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTSO",
-    "bankCode": "FI",
+    "bankCode": "MTSO",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "MTSOFIHH",
     "Bank Name": "METSO OYJ",
@@ -625,8 +625,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOUT",
-    "bankCode": "FI",
+    "bankCode": "MOUT",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "MOUTFIHH",
     "Bank Name": "METSO OYJ",
@@ -638,8 +638,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUFI",
-    "bankCode": "FI",
+    "bankCode": "MUFI",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "MUFIFIHH",
     "Bank Name": "MUNICIPALITY FINANCE PLC",
@@ -651,8 +651,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NARY",
-    "bankCode": "FI",
+    "bankCode": "NARY",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "NARYFIH2",
     "Bank Name": "NARVI PAYMENTS OY AB",
@@ -664,8 +664,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAPY",
-    "bankCode": "FI",
+    "bankCode": "NAPY",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "NAPYFIH2",
     "Bank Name": "NARVI PAYMENTS OY AB",
@@ -677,8 +677,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSTE",
-    "bankCode": "FI",
+    "bankCode": "NSTE",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "NSTEFI22",
     "Bank Name": "NESTE OYJ",
@@ -690,8 +690,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPUS",
-    "bankCode": "FI",
+    "bankCode": "OPUS",
+    "countryCode": "FI",
     "branchCode": "I2H",
     "SWIFT Code": "OPUSFI2H",
     "Bank Name": "NOMENTIA OY",
@@ -703,8 +703,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "NCL",
     "SWIFT Code": "NDEAFIHHNCL",
     "Bank Name": "NORDEA BANK ABP",
@@ -716,8 +716,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "TRI",
     "SWIFT Code": "NDEAFIHHTRI",
     "Bank Name": "NORDEA BANK ABP",
@@ -729,8 +729,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "NDEAFIHH",
     "Bank Name": "NORDEA BANK ABP",
@@ -742,8 +742,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "ISA",
     "SWIFT Code": "NDEAFIHHISA",
     "Bank Name": "NORDEA BANK ABP",
@@ -755,8 +755,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "NMB",
     "SWIFT Code": "NDEAFIHHNMB",
     "Bank Name": "NORDEA BANK ABP",
@@ -768,8 +768,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "IPL",
     "SWIFT Code": "NDEAFIHHIPL",
     "Bank Name": "NORDEA BANK ABP",
@@ -781,8 +781,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "HAM",
     "SWIFT Code": "NDEAFIHHHAM",
     "Bank Name": "NORDEA BANK ABP",
@@ -794,8 +794,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "NFC",
     "SWIFT Code": "NDEAFIHHNFC",
     "Bank Name": "NORDEA BANK ABP",
@@ -807,8 +807,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "030",
     "SWIFT Code": "NDEAFIHH030",
     "Bank Name": "NORDEA BANK ABP",
@@ -820,8 +820,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "NFH",
     "SWIFT Code": "NDEAFIHHNFH",
     "Bank Name": "NORDEA BANK ABP",
@@ -833,8 +833,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "NFF",
     "SWIFT Code": "NDEAFIHHNFF",
     "Bank Name": "NORDEA BANK ABP",
@@ -846,8 +846,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "FI",
+    "bankCode": "NDEA",
+    "countryCode": "FI",
     "branchCode": "NSL",
     "SWIFT Code": "NDEAFIHHNSL",
     "Bank Name": "NORDEA BANK ABP",
@@ -859,8 +859,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "NOHOFIH2",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -872,8 +872,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "B65",
     "SWIFT Code": "NOHOFIH2B65",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -885,8 +885,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "B66",
     "SWIFT Code": "NOHOFIH2B66",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -898,8 +898,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "E90",
     "SWIFT Code": "NOHOFIH2E90",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -911,8 +911,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "E91",
     "SWIFT Code": "NOHOFIH2E91",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -924,8 +924,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "I24",
     "SWIFT Code": "NOHOFIH2I24",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -937,8 +937,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "I25",
     "SWIFT Code": "NOHOFIH2I25",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -950,8 +950,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "Q67",
     "SWIFT Code": "NOHOFIH2Q67",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -963,8 +963,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V03",
     "SWIFT Code": "NOHOFIH2V03",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -976,8 +976,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V04",
     "SWIFT Code": "NOHOFIH2V04",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -989,8 +989,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V75",
     "SWIFT Code": "NOHOFIH2V75",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1002,8 +1002,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V76",
     "SWIFT Code": "NOHOFIH2V76",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1015,8 +1015,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V77",
     "SWIFT Code": "NOHOFIH2V77",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1028,8 +1028,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V78",
     "SWIFT Code": "NOHOFIH2V78",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1041,8 +1041,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V79",
     "SWIFT Code": "NOHOFIH2V79",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1054,8 +1054,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V80",
     "SWIFT Code": "NOHOFIH2V80",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1067,8 +1067,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V81",
     "SWIFT Code": "NOHOFIH2V81",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1080,8 +1080,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V82",
     "SWIFT Code": "NOHOFIH2V82",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1093,8 +1093,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHO",
-    "bankCode": "FI",
+    "bankCode": "NOHO",
+    "countryCode": "FI",
     "branchCode": "V83",
     "SWIFT Code": "NOHOFIH2V83",
     "Bank Name": "NORDEA HENKIVAKUUTUS SUOMI OY",
@@ -1106,8 +1106,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOIN",
-    "bankCode": "FI",
+    "bankCode": "NOIN",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "NOINFIHH",
     "Bank Name": "NORDIC INVESTMENT BANK",
@@ -1119,8 +1119,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLF",
-    "bankCode": "FI",
+    "bankCode": "NOLF",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "NOLFFIH2",
     "Bank Name": "NORTHMILL BANK AB, FILIAL I FINLAND",
@@ -1132,8 +1132,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMSA",
-    "bankCode": "FI",
+    "bankCode": "OMSA",
+    "countryCode": "FI",
     "branchCode": "I2S",
     "SWIFT Code": "OMSAFI2S",
     "Bank Name": "OMA SAASTOPANKKI OY",
@@ -1145,8 +1145,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKOY",
-    "bankCode": "FI",
+    "bankCode": "OKOY",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "OKOYFIHH",
     "Bank Name": "OP CORPORATE BANK PLC",
@@ -1158,8 +1158,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKOY",
-    "bankCode": "FI",
+    "bankCode": "OKOY",
+    "countryCode": "FI",
     "branchCode": "DCA",
     "SWIFT Code": "OKOYFIHHDCA",
     "Bank Name": "OP CORPORATE BANK PLC",
@@ -1171,8 +1171,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKOY",
-    "bankCode": "FI",
+    "bankCode": "OKOY",
+    "countryCode": "FI",
     "branchCode": "TRX",
     "SWIFT Code": "OKOYFIHHTRX",
     "Bank Name": "OP CORPORATE BANK PLC",
@@ -1184,8 +1184,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSFF",
-    "bankCode": "FI",
+    "bankCode": "PSFF",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "PSFFFIH2",
     "Bank Name": "PAYEX SVERIGE AB FILIAL I FINLAND",
@@ -1197,8 +1197,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCMO",
-    "bankCode": "FI",
+    "bankCode": "PCMO",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "PCMOFIH2",
     "Bank Name": "PCKT MONEY OYJ",
@@ -1210,8 +1210,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPSI",
-    "bankCode": "FI",
+    "bankCode": "PPSI",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "PPSIFI22",
     "Bank Name": "PPS EU SA -SUOMEN SIVULIIKE",
@@ -1223,8 +1223,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMRT",
-    "bankCode": "FI",
+    "bankCode": "RMRT",
+    "countryCode": "FI",
     "branchCode": "I22",
     "SWIFT Code": "RMRTFI22",
     "Bank Name": "RAMIRENT LTD",
@@ -1236,8 +1236,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FISE",
-    "bankCode": "FI",
+    "bankCode": "FISE",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "FISEFIHH",
     "Bank Name": "S-BANK PLC",
@@ -1249,8 +1249,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAN",
-    "bankCode": "FI",
+    "bankCode": "SBAN",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "SBANFIHH",
     "Bank Name": "S-BANK PLC",
@@ -1262,8 +1262,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAN",
-    "bankCode": "FI",
+    "bankCode": "SBAN",
+    "countryCode": "FI",
     "branchCode": "TIP",
     "SWIFT Code": "SBANFIHHTIP",
     "Bank Name": "S-BANK PLC",
@@ -1275,8 +1275,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UASN",
-    "bankCode": "FI",
+    "bankCode": "UASN",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "UASNFIH2",
     "Bank Name": "SALDO BANK UAB SUOMEN SIVULIIKE",
@@ -1288,8 +1288,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAWS",
-    "bankCode": "FI",
+    "bankCode": "SAWS",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "SAWSFIHH",
     "Bank Name": "SANOMA CORPORATION",
@@ -1301,8 +1301,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNF",
-    "bankCode": "FI",
+    "bankCode": "SCNF",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "SCNFFIHH",
     "Bank Name": "SANTANDER CONSUMER FINANCE OY",
@@ -1314,8 +1314,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAHF",
-    "bankCode": "FI",
+    "bankCode": "SAHF",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "SAHFFIH2",
     "Bank Name": "SAXO BANK A/S BRANCH IN FINLAND",
@@ -1327,8 +1327,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "FI",
+    "bankCode": "ESSE",
+    "countryCode": "FI",
     "branchCode": "IHX",
     "SWIFT Code": "ESSEFIHX",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -1340,8 +1340,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "FI",
+    "bankCode": "ESSE",
+    "countryCode": "FI",
     "branchCode": "APX",
     "SWIFT Code": "ESSEFIHXAPX",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -1353,8 +1353,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "FI",
+    "bankCode": "ESSE",
+    "countryCode": "FI",
     "branchCode": "HAM",
     "SWIFT Code": "ESSEFIHXHAM",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -1366,8 +1366,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "FI",
+    "bankCode": "ESSE",
+    "countryCode": "FI",
     "branchCode": "TIP",
     "SWIFT Code": "ESSEFIHXTIP",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -1379,8 +1379,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VKSK",
-    "bankCode": "FI",
+    "bankCode": "VKSK",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "VKSKFIHH",
     "Bank Name": "STATE TREASURY",
@@ -1392,8 +1392,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VKSK",
-    "bankCode": "FI",
+    "bankCode": "VKSK",
+    "countryCode": "FI",
     "branchCode": "STF",
     "SWIFT Code": "VKSKFIHHSTF",
     "Bank Name": "STATE TREASURY",
@@ -1405,8 +1405,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAHP",
-    "bankCode": "FI",
+    "bankCode": "SAHP",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "SAHPFIH2",
     "Bank Name": "SUOMEN ASUNTOHYPOPANKKI OY",
@@ -1418,8 +1418,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "CON",
     "SWIFT Code": "SPFBFIHHCON",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1431,8 +1431,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "SPFBFIHH",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1444,8 +1444,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "1A3",
     "SWIFT Code": "SPFBFIHH1A3",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1457,8 +1457,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "INT",
     "SWIFT Code": "SPFBFIHHINT",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1470,8 +1470,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "RPO",
     "SWIFT Code": "SPFBFIHHRPO",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1483,8 +1483,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "CMS",
     "SWIFT Code": "SPFBFIHHCMS",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1496,8 +1496,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "ECB",
     "SWIFT Code": "SPFBFIHHECB",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1509,8 +1509,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "ECM",
     "SWIFT Code": "SPFBFIHHECM",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1522,8 +1522,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "EUX",
     "SWIFT Code": "SPFBFIHHEUX",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1535,8 +1535,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "1A1",
     "SWIFT Code": "SPFBFIHH1A1",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1548,8 +1548,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "ASI",
     "SWIFT Code": "SPFBFIHHASI",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1561,8 +1561,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "1A2",
     "SWIFT Code": "SPFBFIHH1A2",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1574,8 +1574,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "RMA",
     "SWIFT Code": "SPFBFIHHRMA",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1587,8 +1587,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "SFA",
     "SWIFT Code": "SPFBFIHHSFA",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1600,8 +1600,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFB",
-    "bankCode": "FI",
+    "bankCode": "SPFB",
+    "countryCode": "FI",
     "branchCode": "SFM",
     "SWIFT Code": "SPFBFIHHSFM",
     "Bank Name": "SUOMEN PANKKI - FINLANDS BANK",
@@ -1613,8 +1613,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVEA",
-    "bankCode": "FI",
+    "bankCode": "SVEA",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "SVEAFIH2",
     "Bank Name": "SVEA BANK AB, FILIAL I FINLAND",
@@ -1626,8 +1626,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "FI",
+    "bankCode": "HAND",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "HANDFIHH",
     "Bank Name": "SVENSKA HANDELSBANKEN",
@@ -1639,8 +1639,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "FI",
+    "bankCode": "HAND",
+    "countryCode": "FI",
     "branchCode": "CUS",
     "SWIFT Code": "HANDFIHHCUS",
     "Bank Name": "SVENSKA HANDELSBANKEN",
@@ -1652,8 +1652,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "FI",
+    "bankCode": "HAND",
+    "countryCode": "FI",
     "branchCode": "TIP",
     "SWIFT Code": "HANDFIHHTIP",
     "Bank Name": "SVENSKA HANDELSBANKEN",
@@ -1665,8 +1665,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWED",
-    "bankCode": "FI",
+    "bankCode": "SWED",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "SWEDFIHH",
     "Bank Name": "SWEDBANK AB",
@@ -1678,8 +1678,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAAL",
-    "bankCode": "FI",
+    "bankCode": "TAAL",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "TAALFIHH",
     "Bank Name": "TAALERI OYJ",
@@ -1691,8 +1691,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TICO",
-    "bankCode": "FI",
+    "bankCode": "TICO",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "TICOFIHH",
     "Bank Name": "TIETOEVRY OYJ",
@@ -1704,8 +1704,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TICO",
-    "bankCode": "FI",
+    "bankCode": "TICO",
+    "countryCode": "FI",
     "branchCode": "IHE",
     "SWIFT Code": "TICOFIHE",
     "Bank Name": "TIETOEVRY OYJ",
@@ -1717,8 +1717,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRYE",
-    "bankCode": "FI",
+    "bankCode": "TRYE",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "TRYEFIH2",
     "Bank Name": "TRUELAYER (IRELAND) LIMITED, SUOMEN SIVULIIKE",
@@ -1730,8 +1730,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UPMK",
-    "bankCode": "FI",
+    "bankCode": "UPMK",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "UPMKFIHH",
     "Bank Name": "UPM-KYMMENE CORPORATION",
@@ -1743,8 +1743,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VLMT",
-    "bankCode": "FI",
+    "bankCode": "VLMT",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "VLMTFIHH",
     "Bank Name": "VALMET CORPORATION",
@@ -1756,8 +1756,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLES",
-    "bankCode": "FI",
+    "bankCode": "NLES",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "NLESFIHH",
     "Bank Name": "VALMET CORPORATION (FORMERLY NELES CORPORATION)",
@@ -1769,8 +1769,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "FI",
+    "bankCode": "VPAY",
+    "countryCode": "FI",
     "branchCode": "IH2",
     "SWIFT Code": "VPAYFIH2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. SUOMEN SIVULIIKE",
@@ -1782,8 +1782,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WRTC",
-    "bankCode": "FI",
+    "bankCode": "WRTC",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "WRTCFIHH",
     "Bank Name": "WARTSILA OYJ ABP",
@@ -1795,8 +1795,8 @@ const finland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIHU",
-    "bankCode": "FI",
+    "bankCode": "WIHU",
+    "countryCode": "FI",
     "branchCode": "IHH",
     "SWIFT Code": "WIHUFIHH",
     "Bank Name": "WIHURI INTERNATIONAL OY",

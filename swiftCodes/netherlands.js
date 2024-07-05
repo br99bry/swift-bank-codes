@@ -1,7 +1,7 @@
 const netherlands = [
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RDT",
     "SWIFT Code": "RGVMNL2RRDT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13,8 +13,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SAB",
     "SWIFT Code": "RGVMNL2RSAB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -27,8 +27,8 @@ const netherlands = [
   },
   {},
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TRU",
     "SWIFT Code": "RGVMNL2RTRU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -40,8 +40,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "COV",
     "SWIFT Code": "RGVMNL2RCOV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -53,8 +53,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "JEJ",
     "SWIFT Code": "RGVMNL2RJEJ",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -66,8 +66,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PFA",
     "SWIFT Code": "RGVMNL2RPFA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -79,8 +79,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PIT",
     "SWIFT Code": "RGVMNL2RPIT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -92,8 +92,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MEG",
     "SWIFT Code": "RGVMNL2RMEG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -105,8 +105,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BON",
     "SWIFT Code": "RGVMNL2RBON",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -118,8 +118,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CER",
     "SWIFT Code": "RGVMNL2RCER",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -131,8 +131,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CLL",
     "SWIFT Code": "RGVMNL2RCLL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -144,8 +144,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OK3",
     "SWIFT Code": "RGVMNL2ROK3",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -157,8 +157,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "051",
     "SWIFT Code": "RGVMNL2R051",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -170,8 +170,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "052",
     "SWIFT Code": "RGVMNL2R052",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -184,8 +184,8 @@ const netherlands = [
   },
   {},
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "054",
     "SWIFT Code": "RGVMNL2R054",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -197,8 +197,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "055",
     "SWIFT Code": "RGVMNL2R055",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -210,8 +210,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "056",
     "SWIFT Code": "RGVMNL2R056",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -223,8 +223,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "057",
     "SWIFT Code": "RGVMNL2R057",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -236,8 +236,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "058",
     "SWIFT Code": "RGVMNL2R058",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -249,8 +249,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "059",
     "SWIFT Code": "RGVMNL2R059",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -262,8 +262,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "060",
     "SWIFT Code": "RGVMNL2R060",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -275,8 +275,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CRS",
     "SWIFT Code": "RGVMNL2RCRS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -289,8 +289,8 @@ const netherlands = [
   },
   {},
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BUC",
     "SWIFT Code": "RGVMNL2RBUC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -302,8 +302,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TRC",
     "SWIFT Code": "RGVMNL2RTRC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -315,8 +315,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CLE",
     "SWIFT Code": "RGVMNL2RCLE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -328,8 +328,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "REE",
     "SWIFT Code": "RGVMNL2RREE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -341,8 +341,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CFW",
     "SWIFT Code": "RGVMNL2RCFW",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -354,8 +354,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CLI",
     "SWIFT Code": "RGVMNL2RCLI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -367,8 +367,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CLM",
     "SWIFT Code": "RGVMNL2RCLM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -380,8 +380,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EN2",
     "SWIFT Code": "RGVMNL2REN2",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -393,8 +393,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ENE",
     "SWIFT Code": "RGVMNL2RENE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -406,8 +406,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GCS",
     "SWIFT Code": "RGVMNL2RGCS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -419,8 +419,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GFR",
     "SWIFT Code": "RGVMNL2RGFR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -432,8 +432,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GLF",
     "SWIFT Code": "RGVMNL2RGLF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -445,8 +445,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GLK",
     "SWIFT Code": "RGVMNL2RGLK",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -458,8 +458,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HAL",
     "SWIFT Code": "RGVMNL2RHAL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -471,8 +471,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "KAI",
     "SWIFT Code": "RGVMNL2RKAI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -484,8 +484,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MLT",
     "SWIFT Code": "RGVMNL2RMLT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -498,8 +498,8 @@ const netherlands = [
   },
   {},
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MSA",
     "SWIFT Code": "RGVMNL2RMSA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -511,8 +511,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NIK",
     "SWIFT Code": "RGVMNL2RNIK",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -524,8 +524,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NOM",
     "SWIFT Code": "RGVMNL2RNOM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -537,8 +537,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PRR",
     "SWIFT Code": "RGVMNL2RPRR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -550,8 +550,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "WAD",
     "SWIFT Code": "RGVMNL2RWAD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -563,8 +563,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "WDS",
     "SWIFT Code": "RGVMNL2RWDS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -576,8 +576,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "WTS",
     "SWIFT Code": "RGVMNL2RWTS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -589,8 +589,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "WTV",
     "SWIFT Code": "RGVMNL2RWTV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -602,8 +602,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "265",
     "SWIFT Code": "RGVMNL2R265",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -615,8 +615,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "266",
     "SWIFT Code": "RGVMNL2R266",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -628,8 +628,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "267",
     "SWIFT Code": "RGVMNL2R267",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -641,8 +641,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "268",
     "SWIFT Code": "RGVMNL2R268",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -654,8 +654,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "269",
     "SWIFT Code": "RGVMNL2R269",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -667,8 +667,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "270",
     "SWIFT Code": "RGVMNL2R270",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -680,8 +680,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "271",
     "SWIFT Code": "RGVMNL2R271",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -693,8 +693,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "272",
     "SWIFT Code": "RGVMNL2R272",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -706,8 +706,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "273",
     "SWIFT Code": "RGVMNL2R273",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -719,8 +719,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "274",
     "SWIFT Code": "RGVMNL2R274",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -732,8 +732,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "275",
     "SWIFT Code": "RGVMNL2R275",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -745,8 +745,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "276",
     "SWIFT Code": "RGVMNL2R276",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -758,8 +758,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "277",
     "SWIFT Code": "RGVMNL2R277",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -771,8 +771,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "278",
     "SWIFT Code": "RGVMNL2R278",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -784,8 +784,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "279",
     "SWIFT Code": "RGVMNL2R279",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -797,8 +797,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "280",
     "SWIFT Code": "RGVMNL2R280",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -810,8 +810,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "281",
     "SWIFT Code": "RGVMNL2R281",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -823,8 +823,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "282",
     "SWIFT Code": "RGVMNL2R282",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -836,8 +836,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "283",
     "SWIFT Code": "RGVMNL2R283",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -849,8 +849,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "284",
     "SWIFT Code": "RGVMNL2R284",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -862,8 +862,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "285",
     "SWIFT Code": "RGVMNL2R285",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -875,8 +875,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "286",
     "SWIFT Code": "RGVMNL2R286",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -888,8 +888,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "287",
     "SWIFT Code": "RGVMNL2R287",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -901,8 +901,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "288",
     "SWIFT Code": "RGVMNL2R288",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -914,8 +914,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "289",
     "SWIFT Code": "RGVMNL2R289",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -927,8 +927,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "290",
     "SWIFT Code": "RGVMNL2R290",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -940,8 +940,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "291",
     "SWIFT Code": "RGVMNL2R291",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -953,8 +953,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "292",
     "SWIFT Code": "RGVMNL2R292",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -966,8 +966,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "293",
     "SWIFT Code": "RGVMNL2R293",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -979,8 +979,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "294",
     "SWIFT Code": "RGVMNL2R294",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -992,8 +992,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "295",
     "SWIFT Code": "RGVMNL2R295",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1005,8 +1005,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "296",
     "SWIFT Code": "RGVMNL2R296",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1018,8 +1018,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "297",
     "SWIFT Code": "RGVMNL2R297",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1031,8 +1031,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "298",
     "SWIFT Code": "RGVMNL2R298",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1044,8 +1044,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "299",
     "SWIFT Code": "RGVMNL2R299",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1057,8 +1057,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "300",
     "SWIFT Code": "RGVMNL2R300",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1070,8 +1070,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "301",
     "SWIFT Code": "RGVMNL2R301",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1083,8 +1083,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "302",
     "SWIFT Code": "RGVMNL2R302",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1096,8 +1096,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "303",
     "SWIFT Code": "RGVMNL2R303",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1109,8 +1109,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "304",
     "SWIFT Code": "RGVMNL2R304",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1122,8 +1122,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "305",
     "SWIFT Code": "RGVMNL2R305",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1135,8 +1135,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "306",
     "SWIFT Code": "RGVMNL2R306",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1148,8 +1148,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "307",
     "SWIFT Code": "RGVMNL2R307",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1161,8 +1161,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "308",
     "SWIFT Code": "RGVMNL2R308",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1174,8 +1174,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "309",
     "SWIFT Code": "RGVMNL2R309",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1187,8 +1187,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "310",
     "SWIFT Code": "RGVMNL2R310",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1200,8 +1200,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "311",
     "SWIFT Code": "RGVMNL2R311",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1213,8 +1213,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "312",
     "SWIFT Code": "RGVMNL2R312",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1226,8 +1226,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "313",
     "SWIFT Code": "RGVMNL2R313",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1239,8 +1239,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "314",
     "SWIFT Code": "RGVMNL2R314",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1252,8 +1252,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HON",
     "SWIFT Code": "RGVMNL2RHON",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1265,8 +1265,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HY0",
     "SWIFT Code": "RGVMNL2RHY0",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1278,8 +1278,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HYA",
     "SWIFT Code": "RGVMNL2RHYA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1291,8 +1291,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IEH",
     "SWIFT Code": "RGVMNL2RIEH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1304,8 +1304,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IFD",
     "SWIFT Code": "RGVMNL2RIFD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1317,8 +1317,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IGB",
     "SWIFT Code": "RGVMNL2RIGB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1330,8 +1330,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IGC",
     "SWIFT Code": "RGVMNL2RIGC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1343,8 +1343,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IGH",
     "SWIFT Code": "RGVMNL2RIGH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1356,8 +1356,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IH1",
     "SWIFT Code": "RGVMNL2RIH1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1369,8 +1369,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "INF",
     "SWIFT Code": "RGVMNL2RINF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1382,8 +1382,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "IUI",
     "SWIFT Code": "RGVMNL2RIUI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1395,8 +1395,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LCD",
     "SWIFT Code": "RGVMNL2RLCD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1408,8 +1408,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LCE",
     "SWIFT Code": "RGVMNL2RLCE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1421,8 +1421,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LCX",
     "SWIFT Code": "RGVMNL2RLCX",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1434,8 +1434,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LFH",
     "SWIFT Code": "RGVMNL2RLFH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1447,8 +1447,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LGH",
     "SWIFT Code": "RGVMNL2RLGH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1460,8 +1460,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LUD",
     "SWIFT Code": "RGVMNL2RLUD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1473,8 +1473,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LUF",
     "SWIFT Code": "RGVMNL2RLUF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1486,8 +1486,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MOM",
     "SWIFT Code": "RGVMNL2RMOM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1499,8 +1499,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NEM",
     "SWIFT Code": "RGVMNL2RNEM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1512,8 +1512,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NSE",
     "SWIFT Code": "RGVMNL2RNSE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1525,8 +1525,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OFF",
     "SWIFT Code": "RGVMNL2ROFF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1538,8 +1538,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OIU",
     "SWIFT Code": "RGVMNL2ROIU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1551,8 +1551,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OMH",
     "SWIFT Code": "RGVMNL2ROMH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1564,8 +1564,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OMI",
     "SWIFT Code": "RGVMNL2ROMI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1577,8 +1577,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ONY",
     "SWIFT Code": "RGVMNL2RONY",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1590,8 +1590,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P10",
     "SWIFT Code": "RGVMNL2RP10",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1603,8 +1603,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P11",
     "SWIFT Code": "RGVMNL2RP11",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1616,8 +1616,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P12",
     "SWIFT Code": "RGVMNL2RP12",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1629,8 +1629,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P13",
     "SWIFT Code": "RGVMNL2RP13",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1642,8 +1642,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P14",
     "SWIFT Code": "RGVMNL2RP14",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1655,8 +1655,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P15",
     "SWIFT Code": "RGVMNL2RP15",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1668,8 +1668,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "P16",
     "SWIFT Code": "RGVMNL2RP16",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1681,8 +1681,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB1",
     "SWIFT Code": "RGVMNL2RPB1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1694,8 +1694,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB2",
     "SWIFT Code": "RGVMNL2RPB2",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1707,8 +1707,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB3",
     "SWIFT Code": "RGVMNL2RPB3",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1720,8 +1720,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB4",
     "SWIFT Code": "RGVMNL2RPB4",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1733,8 +1733,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB5",
     "SWIFT Code": "RGVMNL2RPB5",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1746,8 +1746,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB6",
     "SWIFT Code": "RGVMNL2RPB6",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1759,8 +1759,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB7",
     "SWIFT Code": "RGVMNL2RPB7",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1772,8 +1772,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB8",
     "SWIFT Code": "RGVMNL2RPB8",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1785,8 +1785,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PB9",
     "SWIFT Code": "RGVMNL2RPB9",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1798,8 +1798,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PIH",
     "SWIFT Code": "RGVMNL2RPIH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1811,8 +1811,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "QE5",
     "SWIFT Code": "RGVMNL2RQE5",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1824,8 +1824,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "QEI",
     "SWIFT Code": "RGVMNL2RQEI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1837,8 +1837,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "QEM",
     "SWIFT Code": "RGVMNL2RQEM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1850,8 +1850,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "QSG",
     "SWIFT Code": "RGVMNL2RQSG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1863,8 +1863,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R01",
     "SWIFT Code": "RGVMNL2RR01",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1876,8 +1876,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R02",
     "SWIFT Code": "RGVMNL2RR02",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1889,8 +1889,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R03",
     "SWIFT Code": "RGVMNL2RR03",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1902,8 +1902,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "215",
     "SWIFT Code": "RGVMNL2R215",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1915,8 +1915,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "216",
     "SWIFT Code": "RGVMNL2R216",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1928,8 +1928,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "217",
     "SWIFT Code": "RGVMNL2R217",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1941,8 +1941,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "218",
     "SWIFT Code": "RGVMNL2R218",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1954,8 +1954,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "219",
     "SWIFT Code": "RGVMNL2R219",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1967,8 +1967,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "220",
     "SWIFT Code": "RGVMNL2R220",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1980,8 +1980,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "221",
     "SWIFT Code": "RGVMNL2R221",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -1993,8 +1993,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "222",
     "SWIFT Code": "RGVMNL2R222",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2006,8 +2006,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "223",
     "SWIFT Code": "RGVMNL2R223",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2019,8 +2019,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "224",
     "SWIFT Code": "RGVMNL2R224",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2032,8 +2032,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "225",
     "SWIFT Code": "RGVMNL2R225",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2045,8 +2045,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "226",
     "SWIFT Code": "RGVMNL2R226",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2058,8 +2058,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "227",
     "SWIFT Code": "RGVMNL2R227",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2071,8 +2071,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "228",
     "SWIFT Code": "RGVMNL2R228",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2084,8 +2084,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "229",
     "SWIFT Code": "RGVMNL2R229",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2097,8 +2097,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "230",
     "SWIFT Code": "RGVMNL2R230",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2110,8 +2110,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "231",
     "SWIFT Code": "RGVMNL2R231",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2123,8 +2123,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "232",
     "SWIFT Code": "RGVMNL2R232",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2136,8 +2136,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "233",
     "SWIFT Code": "RGVMNL2R233",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2149,8 +2149,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "234",
     "SWIFT Code": "RGVMNL2R234",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2162,8 +2162,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "235",
     "SWIFT Code": "RGVMNL2R235",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2175,8 +2175,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "236",
     "SWIFT Code": "RGVMNL2R236",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2188,8 +2188,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "237",
     "SWIFT Code": "RGVMNL2R237",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2201,8 +2201,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "238",
     "SWIFT Code": "RGVMNL2R238",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2214,8 +2214,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "239",
     "SWIFT Code": "RGVMNL2R239",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2227,8 +2227,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "240",
     "SWIFT Code": "RGVMNL2R240",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2240,8 +2240,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "241",
     "SWIFT Code": "RGVMNL2R241",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2253,8 +2253,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "242",
     "SWIFT Code": "RGVMNL2R242",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2266,8 +2266,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "243",
     "SWIFT Code": "RGVMNL2R243",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2279,8 +2279,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "244",
     "SWIFT Code": "RGVMNL2R244",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2292,8 +2292,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "245",
     "SWIFT Code": "RGVMNL2R245",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2305,8 +2305,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "246",
     "SWIFT Code": "RGVMNL2R246",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2318,8 +2318,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "247",
     "SWIFT Code": "RGVMNL2R247",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2331,8 +2331,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "248",
     "SWIFT Code": "RGVMNL2R248",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2344,8 +2344,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "249",
     "SWIFT Code": "RGVMNL2R249",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2357,8 +2357,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "250",
     "SWIFT Code": "RGVMNL2R250",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2370,8 +2370,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "251",
     "SWIFT Code": "RGVMNL2R251",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2383,8 +2383,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "252",
     "SWIFT Code": "RGVMNL2R252",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2396,8 +2396,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "253",
     "SWIFT Code": "RGVMNL2R253",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2409,8 +2409,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "254",
     "SWIFT Code": "RGVMNL2R254",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2422,8 +2422,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "255",
     "SWIFT Code": "RGVMNL2R255",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2435,8 +2435,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "256",
     "SWIFT Code": "RGVMNL2R256",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2448,8 +2448,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "257",
     "SWIFT Code": "RGVMNL2R257",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2461,8 +2461,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "258",
     "SWIFT Code": "RGVMNL2R258",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2474,8 +2474,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "259",
     "SWIFT Code": "RGVMNL2R259",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2487,8 +2487,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "260",
     "SWIFT Code": "RGVMNL2R260",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2500,8 +2500,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "261",
     "SWIFT Code": "RGVMNL2R261",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2513,8 +2513,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "262",
     "SWIFT Code": "RGVMNL2R262",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2526,8 +2526,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "263",
     "SWIFT Code": "RGVMNL2R263",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2539,8 +2539,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "264",
     "SWIFT Code": "RGVMNL2R264",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -2552,8 +2552,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROCH",
-    "bankCode": "NL",
+    "bankCode": "ROCH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "ROCHNL22",
     "Bank Name": "ROCHE PHARMHOLDING B.V.",
@@ -2565,8 +2565,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBBV",
-    "bankCode": "NL",
+    "bankCode": "SBBV",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SBBVNL2A",
     "Bank Name": "SABIC CAPITAL BV",
@@ -2578,8 +2578,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPMF",
-    "bankCode": "NL",
+    "bankCode": "SPMF",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SPMFNL2A",
     "Bank Name": "SAIPEM FINANCE INTERNATIONAL B.V.",
@@ -2591,8 +2591,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAHD",
-    "bankCode": "NL",
+    "bankCode": "SAHD",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "SAHDNL2R",
     "Bank Name": "SAMSKIP HOLDING B.V.",
@@ -2604,8 +2604,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHI",
-    "bankCode": "NL",
+    "bankCode": "SCHI",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SCHINL2A",
     "Bank Name": "SCHIPHOL NEDERLAND B.V.",
@@ -2617,8 +2617,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFBV",
-    "bankCode": "NL",
+    "bankCode": "SFBV",
+    "countryCode": "NL",
     "branchCode": "L2D",
     "SWIFT Code": "SFBVNL2D",
     "Bank Name": "SCHLUMBERGER FINANCE BV",
@@ -2630,8 +2630,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFBV",
-    "bankCode": "NL",
+    "bankCode": "SFBV",
+    "countryCode": "NL",
     "branchCode": "SHB",
     "SWIFT Code": "SFBVNL2GSHB",
     "Bank Name": "SCHLUMBERGER FINANCE BV",
@@ -2643,8 +2643,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFBV",
-    "bankCode": "NL",
+    "bankCode": "SFBV",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "SFBVNL2G",
     "Bank Name": "SCHLUMBERGER FINANCE BV",
@@ -2656,8 +2656,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHEL",
-    "bankCode": "NL",
+    "bankCode": "SHEL",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "SHELNL2G",
     "Bank Name": "SHELL ASSET MANAGEMENT COMPANY B.V.",
@@ -2669,8 +2669,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHHP",
-    "bankCode": "NL",
+    "bankCode": "SHHP",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SHHPNL22",
     "Bank Name": "SHPP CAPITAL B.V.",
@@ -2682,8 +2682,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHVU",
-    "bankCode": "NL",
+    "bankCode": "SHVU",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "SHVUNL2U",
     "Bank Name": "SHV HOLDINGS NV",
@@ -2695,8 +2695,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LSOL",
-    "bankCode": "NL",
+    "bankCode": "LSOL",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "LSOLNL2E",
     "Bank Name": "SIGNIFY HOLDING B.V.",
@@ -2708,8 +2708,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIRV",
-    "bankCode": "NL",
+    "bankCode": "SIRV",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SIRVNL22",
     "Bank Name": "SIRE SERVICES B.V.",
@@ -2721,8 +2721,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOVE",
-    "bankCode": "NL",
+    "bankCode": "SOVE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SOVENL22",
     "Bank Name": "SOCIALE VERZEKERINGSBANK",
@@ -2734,8 +2734,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "NL",
+    "bankCode": "SOGE",
+    "countryCode": "NL",
     "branchCode": "CTI",
     "SWIFT Code": "SOGENL2ACTI",
     "Bank Name": "SOCIETE GENERALE",
@@ -2747,8 +2747,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "NL",
+    "bankCode": "SOGE",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SOGENL2A",
     "Bank Name": "SOCIETE GENERALE",
@@ -2760,8 +2760,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "NL",
+    "bankCode": "SOGE",
+    "countryCode": "NL",
     "branchCode": "TRA",
     "SWIFT Code": "SOGENL2ATRA",
     "Bank Name": "SOCIETE GENERALE",
@@ -2773,8 +2773,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "NL",
+    "bankCode": "SOGE",
+    "countryCode": "NL",
     "branchCode": "TPS",
     "SWIFT Code": "SOGENL2ATPS",
     "Bank Name": "SOCIETE GENERALE",
@@ -2786,8 +2786,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REIF",
-    "bankCode": "NL",
+    "bankCode": "REIF",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "REIFNL2R",
     "Bank Name": "SPECIALTY CHEMICALS HOLDING II B.V.",
@@ -2799,8 +2799,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "NL",
+    "bankCode": "SBOS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SBOSNL2A",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH AMSTERDAM BRANCH",
@@ -2812,8 +2812,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "NL",
+    "bankCode": "MODR",
+    "countryCode": "NL",
     "branchCode": "LN2",
     "SWIFT Code": "MODRNLN2",
     "Bank Name": "STICHTING CUSTODIAN MODULR FINANCE",
@@ -2825,8 +2825,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSPH",
-    "bankCode": "NL",
+    "bankCode": "SSPH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SSPHNL22",
     "Bank Name": "STICHTING DE SAMENWERKING, PENSIOEN FONDS VOOR HET SLAGERSBEDRIJF",
@@ -2838,8 +2838,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHNC",
-    "bankCode": "NL",
+    "bankCode": "SHNC",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SHNCNL22",
     "Bank Name": "STICHTING HET NEDERLANDSE PENSIOENFONDS COLLECTIVITEITSKEING 1",
@@ -2851,8 +2851,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHNI",
-    "bankCode": "NL",
+    "bankCode": "SHNI",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SHNINL22",
     "Bank Name": "STICHTING HET NEDERLANDSE PENSIOENFONDS PENSIOENKRING OWASE",
@@ -2864,8 +2864,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHNO",
-    "bankCode": "NL",
+    "bankCode": "SHNO",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SHNONL22",
     "Bank Name": "STICHTING HET NEDERLANDSE PENSIOENFONDS PENSIOENKRING RANDSTAD GROEP",
@@ -2877,8 +2877,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHNF",
-    "bankCode": "NL",
+    "bankCode": "SHNF",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SHNFNL22",
     "Bank Name": "STICHTING HET NEDERLANDSE PENSIOENFONDS PENSIOENKRING SWECO",
@@ -2890,8 +2890,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHWP",
-    "bankCode": "NL",
+    "bankCode": "SHWP",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SHWPNL2A",
     "Bank Name": "STICHTING NHP INVESTMENTS",
@@ -2903,8 +2903,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEAH",
-    "bankCode": "NL",
+    "bankCode": "PEAH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PEAHNL22",
     "Bank Name": "STICHTING PENSIOENFONDS ACHMEA",
@@ -2916,8 +2916,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STEY",
-    "bankCode": "NL",
+    "bankCode": "STEY",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "STEYNL22",
     "Bank Name": "STICHTING PENSIOENFONDS VOOR FYSIOTHERAPEUTEN",
@@ -2929,8 +2929,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STOP",
-    "bankCode": "NL",
+    "bankCode": "STOP",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "STOPNL22",
     "Bank Name": "STICHTING PENSIOENFONDS VOOR PERSON EELSDIENSTEN",
@@ -2942,8 +2942,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STXC",
-    "bankCode": "NL",
+    "bankCode": "STXC",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "STXCNL2A",
     "Bank Name": "STX COMMODITIES B.V.",
@@ -2955,8 +2955,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "NL",
+    "bankCode": "HAND",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "HANDNL2A",
     "Bank Name": "SVENSKA HANDELSBANKEN (PUBL) AB",
@@ -2968,8 +2968,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWNB",
-    "bankCode": "NL",
+    "bankCode": "SWNB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SWNBNL22",
     "Bank Name": "SWAN NETHERLANDS",
@@ -2981,8 +2981,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "LNL",
     "SWIFT Code": "SWHQNLNL",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -2994,8 +2994,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CRD",
     "SWIFT Code": "SWHQNLNWCRD",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3007,8 +3007,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "DEB",
     "SWIFT Code": "SWHQNLNWDEB",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3020,8 +3020,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "IN1",
     "SWIFT Code": "SWHQNLNWIN1",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3033,8 +3033,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "IN2",
     "SWIFT Code": "SWHQNLNWIN2",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3046,8 +3046,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CLN",
     "SWIFT Code": "SWHQNLNWCLN",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3059,8 +3059,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CLU",
     "SWIFT Code": "SWHQNLNWCLU",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3072,8 +3072,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CCN",
     "SWIFT Code": "SWHQNLNWCCN",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3085,8 +3085,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CCU",
     "SWIFT Code": "SWHQNLNWCCU",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3098,8 +3098,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CFN",
     "SWIFT Code": "SWHQNLNWCFN",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3111,8 +3111,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "CFU",
     "SWIFT Code": "SWHQNLNWCFU",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3124,8 +3124,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "NL",
+    "bankCode": "SWHQ",
+    "countryCode": "NL",
     "branchCode": "SVC",
     "SWIFT Code": "SWHQNLNLSVC",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE EUROPE",
@@ -3137,8 +3137,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKWY",
-    "bankCode": "NL",
+    "bankCode": "TKWY",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "TKWYNL2A",
     "Bank Name": "TAKEAWAY.COM CENTRAL CORE B.V.",
@@ -3150,8 +3150,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIPP",
-    "bankCode": "NL",
+    "bankCode": "TIPP",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "TIPPNL2A",
     "Bank Name": "TIP TRAILER SERVICES MANAGEMENT BV",
@@ -3163,8 +3163,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMFA",
-    "bankCode": "NL",
+    "bankCode": "TMFA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "TMFANL2A",
     "Bank Name": "TMF GROUP B.V.",
@@ -3176,8 +3176,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRLP",
-    "bankCode": "NL",
+    "bankCode": "TRLP",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "TRLPNL22",
     "Bank Name": "TOWER RESEARCH CAPITAL EUROPE BV",
@@ -3189,8 +3189,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPVI",
-    "bankCode": "NL",
+    "bankCode": "TPVI",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "TPVINL2E",
     "Bank Name": "TPV EUROPE HOLDING B.V.",
@@ -3202,8 +3202,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCCS",
-    "bankCode": "NL",
+    "bankCode": "FCCS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FCCSNL2A",
     "Bank Name": "FCC SECURITIES B.V.",
@@ -3215,8 +3215,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSX",
-    "bankCode": "NL",
+    "bankCode": "CBSX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CBSXNL2A",
     "Bank Name": "FINANCIAL TRANSACTION SERVICES BV COBASE",
@@ -3228,8 +3228,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNOM",
-    "bankCode": "NL",
+    "bankCode": "FNOM",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "FNOMNL22",
     "Bank Name": "FINOM PAYMENTS BV",
@@ -3241,8 +3241,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRGP",
-    "bankCode": "NL",
+    "bankCode": "FRGP",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FRGPNL2A",
     "Bank Name": "FR GROUP B.V.",
@@ -3254,8 +3254,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRNX",
-    "bankCode": "NL",
+    "bankCode": "FRNX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FRNXNL2A",
     "Bank Name": "FRANX B.V.",
@@ -3267,8 +3267,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRIG",
-    "bankCode": "NL",
+    "bankCode": "FRIG",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FRIGNL2A",
     "Bank Name": "FRIGOGLASS FINANCE BV",
@@ -3280,8 +3280,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCLR",
-    "bankCode": "NL",
+    "bankCode": "FCLR",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FCLRNL2A",
     "Bank Name": "FRONTIER CLEARING CORPORATION B.V.",
@@ -3293,8 +3293,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUGR",
-    "bankCode": "NL",
+    "bankCode": "FUGR",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "FUGRNL22",
     "Bank Name": "FUGRO FINANCIAL RESOURCES B.V.",
@@ -3306,8 +3306,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGBI",
-    "bankCode": "NL",
+    "bankCode": "UGBI",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "UGBINL2A",
     "Bank Name": "GARANTIBANK INTERNATIONAL N.V.",
@@ -3319,8 +3319,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBTI",
-    "bankCode": "NL",
+    "bankCode": "GBTI",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "GBTINL2A",
     "Bank Name": "GBT III, B.V.",
@@ -3332,8 +3332,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLOO",
-    "bankCode": "NL",
+    "bankCode": "GLOO",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "GLOONL2A",
     "Bank Name": "GLOBAL COLLECT SERVICES B.V.",
@@ -3345,8 +3345,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRFX",
-    "bankCode": "NL",
+    "bankCode": "GRFX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "GRFXNL2A",
     "Bank Name": "GLOBAL REACH FX B.V.",
@@ -3358,8 +3358,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "NL",
+    "bankCode": "GOLD",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "GOLDNL2A",
     "Bank Name": "GOLDMAN SACHS BANK EUROPE SE, AMSTERDAM BRANCH",
@@ -3371,8 +3371,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "NL",
+    "bankCode": "GOLD",
+    "countryCode": "NL",
     "branchCode": "TXB",
     "SWIFT Code": "GOLDNL2ATXB",
     "Bank Name": "GOLDMAN SACHS BANK EUROPE SE, AMSTERDAM BRANCH",
@@ -3384,8 +3384,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "NL",
+    "bankCode": "GOLD",
+    "countryCode": "NL",
     "branchCode": "MB1",
     "SWIFT Code": "GOLDNL2AMB1",
     "Bank Name": "GOLDMAN SACHS BANK EUROPE SE, AMSTERDAM BRANCH",
@@ -3397,8 +3397,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVIS",
-    "bankCode": "NL",
+    "bankCode": "GVIS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "GVISNL2A",
     "Bank Name": "GRANDVISION FINANCE B.V.",
@@ -3410,8 +3410,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTSF",
-    "bankCode": "NL",
+    "bankCode": "GTSF",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "GTSFNL22",
     "Bank Name": "GTS FI B.V.",
@@ -3423,8 +3423,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POFR",
-    "bankCode": "NL",
+    "bankCode": "POFR",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "POFRNL2R",
     "Bank Name": "HAVENBEDRIJF ROTTERDAM (PORT OF ROTTERDAM)",
@@ -3436,8 +3436,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HETE",
-    "bankCode": "NL",
+    "bankCode": "HETE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "HETENL22",
     "Bank Name": "HEADLANDS TECHNOLOGIES EUROPE B.V.",
@@ -3449,8 +3449,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMCF",
-    "bankCode": "NL",
+    "bankCode": "HMCF",
+    "countryCode": "NL",
     "branchCode": "L2L",
     "SWIFT Code": "HMCFNL2L",
     "Bank Name": "HEEREMA MARINE CONTRACTORS FINANCE BV",
@@ -3462,8 +3462,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN2",
     "SWIFT Code": "HNKNNL2AVN2",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3475,8 +3475,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN3",
     "SWIFT Code": "HNKNNL2AVN3",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3488,8 +3488,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN4",
     "SWIFT Code": "HNKNNL2AVN4",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3501,8 +3501,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN5",
     "SWIFT Code": "HNKNNL2AVN5",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3514,8 +3514,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN6",
     "SWIFT Code": "HNKNNL2AVN6",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3527,8 +3527,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN7",
     "SWIFT Code": "HNKNNL2AVN7",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3540,8 +3540,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "NC1",
     "SWIFT Code": "HNKNNL2ANC1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3553,8 +3553,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "CI1",
     "SWIFT Code": "HNKNNL2ACI1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3566,8 +3566,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "TL1",
     "SWIFT Code": "HNKNNL2ATL1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3579,8 +3579,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "MM1",
     "SWIFT Code": "HNKNNL2AMM1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3592,8 +3592,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "LK1",
     "SWIFT Code": "HNKNNL2ALK1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3605,8 +3605,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "LA1",
     "SWIFT Code": "HNKNNL2ALA1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3618,8 +3618,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "ET1",
     "SWIFT Code": "HNKNNL2AET1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3631,8 +3631,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "MY3",
     "SWIFT Code": "HNKNNL2AMY3",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3644,8 +3644,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "MZ1",
     "SWIFT Code": "HNKNNL2AMZ1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3657,8 +3657,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "MY2",
     "SWIFT Code": "HNKNNL2AMY2",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3670,8 +3670,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "SG1",
     "SWIFT Code": "HNKNNL2ASG1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3683,8 +3683,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "JM1",
     "SWIFT Code": "HNKNNL2AJM1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3696,8 +3696,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "KH1",
     "SWIFT Code": "HNKNNL2AKH1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3709,8 +3709,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "PG1",
     "SWIFT Code": "HNKNNL2APG1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3722,8 +3722,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "VN1",
     "SWIFT Code": "HNKNNL2AVN1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3735,8 +3735,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "HNKNNL2A",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3748,8 +3748,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "ID1",
     "SWIFT Code": "HNKNNL2AID1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3761,8 +3761,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "MX1",
     "SWIFT Code": "HNKNNL2AMX1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3774,8 +3774,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "MY1",
     "SWIFT Code": "HNKNNL2AMY1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3787,8 +3787,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "NG1",
     "SWIFT Code": "HNKNNL2ANG1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3800,8 +3800,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "NZ1",
     "SWIFT Code": "HNKNNL2ANZ1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3813,8 +3813,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "US1",
     "SWIFT Code": "HNKNNL2AUS1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3826,8 +3826,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "ZA1",
     "SWIFT Code": "HNKNNL2AZA1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3839,8 +3839,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "EG1",
     "SWIFT Code": "HNKNNL2AEG1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -3852,8 +3852,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "165",
     "SWIFT Code": "RGVMNL2R165",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3865,8 +3865,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "166",
     "SWIFT Code": "RGVMNL2R166",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3878,8 +3878,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "167",
     "SWIFT Code": "RGVMNL2R167",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3891,8 +3891,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "168",
     "SWIFT Code": "RGVMNL2R168",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3904,8 +3904,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "169",
     "SWIFT Code": "RGVMNL2R169",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3917,8 +3917,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "170",
     "SWIFT Code": "RGVMNL2R170",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3930,8 +3930,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "171",
     "SWIFT Code": "RGVMNL2R171",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3943,8 +3943,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "172",
     "SWIFT Code": "RGVMNL2R172",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3956,8 +3956,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "173",
     "SWIFT Code": "RGVMNL2R173",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3969,8 +3969,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "174",
     "SWIFT Code": "RGVMNL2R174",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3982,8 +3982,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "175",
     "SWIFT Code": "RGVMNL2R175",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -3995,8 +3995,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "176",
     "SWIFT Code": "RGVMNL2R176",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4008,8 +4008,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "177",
     "SWIFT Code": "RGVMNL2R177",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4021,8 +4021,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "178",
     "SWIFT Code": "RGVMNL2R178",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4034,8 +4034,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "179",
     "SWIFT Code": "RGVMNL2R179",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4047,8 +4047,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "180",
     "SWIFT Code": "RGVMNL2R180",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4060,8 +4060,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "181",
     "SWIFT Code": "RGVMNL2R181",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4073,8 +4073,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "182",
     "SWIFT Code": "RGVMNL2R182",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4086,8 +4086,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "183",
     "SWIFT Code": "RGVMNL2R183",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4099,8 +4099,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "184",
     "SWIFT Code": "RGVMNL2R184",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4112,8 +4112,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "185",
     "SWIFT Code": "RGVMNL2R185",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4125,8 +4125,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "186",
     "SWIFT Code": "RGVMNL2R186",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4138,8 +4138,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "187",
     "SWIFT Code": "RGVMNL2R187",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4151,8 +4151,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "188",
     "SWIFT Code": "RGVMNL2R188",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4164,8 +4164,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "189",
     "SWIFT Code": "RGVMNL2R189",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4177,8 +4177,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "190",
     "SWIFT Code": "RGVMNL2R190",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4190,8 +4190,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "191",
     "SWIFT Code": "RGVMNL2R191",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4203,8 +4203,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "192",
     "SWIFT Code": "RGVMNL2R192",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4216,8 +4216,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "193",
     "SWIFT Code": "RGVMNL2R193",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4229,8 +4229,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "194",
     "SWIFT Code": "RGVMNL2R194",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4242,8 +4242,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "195",
     "SWIFT Code": "RGVMNL2R195",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4255,8 +4255,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "196",
     "SWIFT Code": "RGVMNL2R196",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4268,8 +4268,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "197",
     "SWIFT Code": "RGVMNL2R197",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4281,8 +4281,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "198",
     "SWIFT Code": "RGVMNL2R198",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4294,8 +4294,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "199",
     "SWIFT Code": "RGVMNL2R199",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4307,8 +4307,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "200",
     "SWIFT Code": "RGVMNL2R200",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4320,8 +4320,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "201",
     "SWIFT Code": "RGVMNL2R201",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4333,8 +4333,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "202",
     "SWIFT Code": "RGVMNL2R202",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4346,8 +4346,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "203",
     "SWIFT Code": "RGVMNL2R203",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4359,8 +4359,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "204",
     "SWIFT Code": "RGVMNL2R204",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4372,8 +4372,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "205",
     "SWIFT Code": "RGVMNL2R205",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4385,8 +4385,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "206",
     "SWIFT Code": "RGVMNL2R206",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4398,8 +4398,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "207",
     "SWIFT Code": "RGVMNL2R207",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4411,8 +4411,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "208",
     "SWIFT Code": "RGVMNL2R208",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4424,8 +4424,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "209",
     "SWIFT Code": "RGVMNL2R209",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4437,8 +4437,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "210",
     "SWIFT Code": "RGVMNL2R210",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4450,8 +4450,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "211",
     "SWIFT Code": "RGVMNL2R211",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4463,8 +4463,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "212",
     "SWIFT Code": "RGVMNL2R212",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4476,8 +4476,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "213",
     "SWIFT Code": "RGVMNL2R213",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4489,8 +4489,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "214",
     "SWIFT Code": "RGVMNL2R214",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4502,8 +4502,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "315",
     "SWIFT Code": "RGVMNL2R315",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4515,8 +4515,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "316",
     "SWIFT Code": "RGVMNL2R316",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4528,8 +4528,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "317",
     "SWIFT Code": "RGVMNL2R317",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4541,8 +4541,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "318",
     "SWIFT Code": "RGVMNL2R318",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4554,8 +4554,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "319",
     "SWIFT Code": "RGVMNL2R319",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4567,8 +4567,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "320",
     "SWIFT Code": "RGVMNL2R320",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4580,8 +4580,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "331",
     "SWIFT Code": "RGVMNL2R331",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4593,8 +4593,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "332",
     "SWIFT Code": "RGVMNL2R332",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4606,8 +4606,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "333",
     "SWIFT Code": "RGVMNL2R333",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4619,8 +4619,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "334",
     "SWIFT Code": "RGVMNL2R334",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4632,8 +4632,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "335",
     "SWIFT Code": "RGVMNL2R335",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4645,8 +4645,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "336",
     "SWIFT Code": "RGVMNL2R336",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4658,8 +4658,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "337",
     "SWIFT Code": "RGVMNL2R337",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4671,8 +4671,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "338",
     "SWIFT Code": "RGVMNL2R338",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4684,8 +4684,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "339",
     "SWIFT Code": "RGVMNL2R339",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4697,8 +4697,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "340",
     "SWIFT Code": "RGVMNL2R340",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4710,8 +4710,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "321",
     "SWIFT Code": "RGVMNL2R321",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4723,8 +4723,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "322",
     "SWIFT Code": "RGVMNL2R322",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4736,8 +4736,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "323",
     "SWIFT Code": "RGVMNL2R323",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4749,8 +4749,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "324",
     "SWIFT Code": "RGVMNL2R324",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4762,8 +4762,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "325",
     "SWIFT Code": "RGVMNL2R325",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4775,8 +4775,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "326",
     "SWIFT Code": "RGVMNL2R326",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4788,8 +4788,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "327",
     "SWIFT Code": "RGVMNL2R327",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4801,8 +4801,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "328",
     "SWIFT Code": "RGVMNL2R328",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4814,8 +4814,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "329",
     "SWIFT Code": "RGVMNL2R329",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4827,8 +4827,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "330",
     "SWIFT Code": "RGVMNL2R330",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4840,8 +4840,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "341",
     "SWIFT Code": "RGVMNL2R341",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4853,8 +4853,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "342",
     "SWIFT Code": "RGVMNL2R342",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4866,8 +4866,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "343",
     "SWIFT Code": "RGVMNL2R343",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4879,8 +4879,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "344",
     "SWIFT Code": "RGVMNL2R344",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4892,8 +4892,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "345",
     "SWIFT Code": "RGVMNL2R345",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4905,8 +4905,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "346",
     "SWIFT Code": "RGVMNL2R346",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4918,8 +4918,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "347",
     "SWIFT Code": "RGVMNL2R347",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4931,8 +4931,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "348",
     "SWIFT Code": "RGVMNL2R348",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4944,8 +4944,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "349",
     "SWIFT Code": "RGVMNL2R349",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4957,8 +4957,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "350",
     "SWIFT Code": "RGVMNL2R350",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4970,8 +4970,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "351",
     "SWIFT Code": "RGVMNL2R351",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4983,8 +4983,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "352",
     "SWIFT Code": "RGVMNL2R352",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -4996,8 +4996,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "353",
     "SWIFT Code": "RGVMNL2R353",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5009,8 +5009,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "354",
     "SWIFT Code": "RGVMNL2R354",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5022,8 +5022,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "355",
     "SWIFT Code": "RGVMNL2R355",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5035,8 +5035,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "356",
     "SWIFT Code": "RGVMNL2R356",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5048,8 +5048,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "357",
     "SWIFT Code": "RGVMNL2R357",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5061,8 +5061,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "358",
     "SWIFT Code": "RGVMNL2R358",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5074,8 +5074,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "359",
     "SWIFT Code": "RGVMNL2R359",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5087,8 +5087,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "360",
     "SWIFT Code": "RGVMNL2R360",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5100,8 +5100,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "361",
     "SWIFT Code": "RGVMNL2R361",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5113,8 +5113,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "362",
     "SWIFT Code": "RGVMNL2R362",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5126,8 +5126,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "363",
     "SWIFT Code": "RGVMNL2R363",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5139,8 +5139,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "364",
     "SWIFT Code": "RGVMNL2R364",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5152,8 +5152,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "014",
     "SWIFT Code": "ESESNL2A014",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -5165,8 +5165,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "EII",
     "SWIFT Code": "ESESNL2AEII",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -5178,8 +5178,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "T2X",
     "SWIFT Code": "ESESNL2AT2X",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -5191,8 +5191,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMS",
-    "bankCode": "NL",
+    "bankCode": "ECMS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ECMSNL2A",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5204,8 +5204,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CON",
     "SWIFT Code": "FLORNL2ACON",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5217,8 +5217,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FLORNL2A",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5230,8 +5230,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CAR",
     "SWIFT Code": "FLORNL2ACAR",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5243,8 +5243,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMS",
-    "bankCode": "NL",
+    "bankCode": "ECMS",
+    "countryCode": "NL",
     "branchCode": "CCB",
     "SWIFT Code": "ECMSNL2ACCB",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5256,8 +5256,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "AMD",
     "SWIFT Code": "FLORNL2AAMD",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5269,8 +5269,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CCB",
     "SWIFT Code": "FLORNL2ACCB",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5282,8 +5282,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "ECM",
     "SWIFT Code": "FLORNL2AECM",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5295,8 +5295,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "FEB",
     "SWIFT Code": "FLORNL2AFEB",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5308,8 +5308,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CSM",
     "SWIFT Code": "FLORNL2ACSM",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5321,8 +5321,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CUR",
     "SWIFT Code": "FLORNL2ACUR",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5334,8 +5334,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CUS",
     "SWIFT Code": "FLORNL2ACUS",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5347,8 +5347,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "CAC",
     "SWIFT Code": "FLORNL2ACAC",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5360,8 +5360,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "FRX",
     "SWIFT Code": "FLORNL2AFRX",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5373,8 +5373,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "BEX",
     "SWIFT Code": "FLORNL2ABEX",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5386,8 +5386,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "ECL",
     "SWIFT Code": "FLORNL2AECL",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5399,8 +5399,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "EUR",
     "SWIFT Code": "FLORNL2AEUR",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5412,8 +5412,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "FEX",
     "SWIFT Code": "FLORNL2AFEX",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5425,8 +5425,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "FDI",
     "SWIFT Code": "FLORNL2AFDI",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5438,8 +5438,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "GFT",
     "SWIFT Code": "FLORNL2AGFT",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5451,8 +5451,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "EUX",
     "SWIFT Code": "FLORNL2AEUX",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5464,8 +5464,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOR",
-    "bankCode": "NL",
+    "bankCode": "FLOR",
+    "countryCode": "NL",
     "branchCode": "THL",
     "SWIFT Code": "FLORNL2ATHL",
     "Bank Name": "NEDERLANDSCHE BANK (DE) N.V.",
@@ -5477,8 +5477,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFMO",
-    "bankCode": "NL",
+    "bankCode": "NFMO",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "NFMONL2G",
     "Bank Name": "NEDERLANDSE FINANCIERINGS-MAATSCHAPPIJ VOOR ONTWIKKELINGSLANDEN N.V.",
@@ -5490,8 +5490,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NWAB",
-    "bankCode": "NL",
+    "bankCode": "NWAB",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "NWABNL2G",
     "Bank Name": "NEDERLANDSE WATERSCHAPSBANK N.V.",
@@ -5503,8 +5503,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NWAB",
-    "bankCode": "NL",
+    "bankCode": "NWAB",
+    "countryCode": "NL",
     "branchCode": "NMC",
     "SWIFT Code": "NWABNL2GNMC",
     "Bank Name": "NEDERLANDSE WATERSCHAPSBANK N.V.",
@@ -5516,8 +5516,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNIB",
-    "bankCode": "NL",
+    "bankCode": "DNIB",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "DNIBNL2G",
     "Bank Name": "NIBC BANK N.V.",
@@ -5529,8 +5529,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBQ",
-    "bankCode": "NL",
+    "bankCode": "NIBQ",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "NIBQNL2A",
     "Bank Name": "NIBC BANK N.V.",
@@ -5542,8 +5542,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBQ",
-    "bankCode": "NL",
+    "bankCode": "NIBQ",
+    "countryCode": "NL",
     "branchCode": "SHS",
     "SWIFT Code": "NIBQNL2ASHS",
     "Bank Name": "NIBC BANK N.V.",
@@ -5555,8 +5555,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBQ",
-    "bankCode": "NL",
+    "bankCode": "NIBQ",
+    "countryCode": "NL",
     "branchCode": "FIX",
     "SWIFT Code": "NIBQNL2AFIX",
     "Bank Name": "NIBC BANK N.V.",
@@ -5568,8 +5568,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNIB",
-    "bankCode": "NL",
+    "bankCode": "DNIB",
+    "countryCode": "NL",
     "branchCode": "TG2",
     "SWIFT Code": "DNIBNL2GTG2",
     "Bank Name": "NIBC BANK N.V.",
@@ -5581,8 +5581,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNIB",
-    "bankCode": "NL",
+    "bankCode": "DNIB",
+    "countryCode": "NL",
     "branchCode": "MAR",
     "SWIFT Code": "DNIBNL2GMAR",
     "Bank Name": "NIBC BANK N.V.",
@@ -5594,8 +5594,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNIB",
-    "bankCode": "NL",
+    "bankCode": "DNIB",
+    "countryCode": "NL",
     "branchCode": "RM1",
     "SWIFT Code": "DNIBNL2GRM1",
     "Bank Name": "NIBC BANK N.V.",
@@ -5607,8 +5607,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIKE",
-    "bankCode": "NL",
+    "bankCode": "NIKE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "NIKENL22",
     "Bank Name": "NIKE RETAIL BV",
@@ -5620,8 +5620,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNGR",
-    "bankCode": "NL",
+    "bankCode": "NNGR",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "NNGRNL2G",
     "Bank Name": "NN GROUP N.V.",
@@ -5633,8 +5633,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGI",
-    "bankCode": "NL",
+    "bankCode": "INGI",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "INGINL2G",
     "Bank Name": "NN INVESTMENT PARTNERS",
@@ -5646,8 +5646,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGI",
-    "bankCode": "NL",
+    "bankCode": "INGI",
+    "countryCode": "NL",
     "branchCode": "L2H",
     "SWIFT Code": "INGINL2H",
     "Bank Name": "NN INVESTMENT PARTNERS",
@@ -5659,8 +5659,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCU",
-    "bankCode": "NL",
+    "bankCode": "NOCU",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "NOCUNL2A",
     "Bank Name": "NORINCHUKIN BANK EUROPE N.V.",
@@ -5672,8 +5672,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KMIK",
-    "bankCode": "NL",
+    "bankCode": "KMIK",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "KMIKNL22",
     "Bank Name": "NOURYON CHEMICALS FINANCE B.V.",
@@ -5685,8 +5685,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNL",
-    "bankCode": "NL",
+    "bankCode": "SBNL",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SBNLNL2A",
     "Bank Name": "NV SETTLEMENT BANK OF THE NETHERLANDS",
@@ -5698,8 +5698,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODEF",
-    "bankCode": "NL",
+    "bankCode": "ODEF",
+    "countryCode": "NL",
     "branchCode": "L2V",
     "SWIFT Code": "ODEFNL2V",
     "Bank Name": "OFFICE DEPOT FINANCE B.V.",
@@ -5711,8 +5711,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OLXG",
-    "bankCode": "NL",
+    "bankCode": "OLXG",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "OLXGNL2A",
     "Bank Name": "OLX GLOBAL B.V.",
@@ -5724,8 +5724,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCH",
-    "bankCode": "NL",
+    "bankCode": "OSCH",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "OSCHNL2A",
     "Bank Name": "ORANGINA SCHWEPPES HOLDING B.V.",
@@ -5737,8 +5737,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELE",
-    "bankCode": "NL",
+    "bankCode": "DELE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "DELENL22",
     "Bank Name": "OYENS AND VAN EEGHEN PART OF DELEN PRIVATE BANK",
@@ -5750,8 +5750,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANA",
-    "bankCode": "NL",
+    "bankCode": "PANA",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PANANL22",
     "Bank Name": "PANASONIC GLOBAL TREASURY CENTER B.V.",
@@ -5763,8 +5763,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANA",
-    "bankCode": "NL",
+    "bankCode": "PANA",
+    "countryCode": "NL",
     "branchCode": "LN2",
     "SWIFT Code": "PANANLN2",
     "Bank Name": "PANASONIC HOLDING (NETHERLANDS) B.V.",
@@ -5776,8 +5776,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIHO",
-    "bankCode": "NL",
+    "bankCode": "PIHO",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "PIHONL2A",
     "Bank Name": "PAREXEL INTERNATIONAL HOLDING B.V.",
@@ -5789,8 +5789,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYYE",
-    "bankCode": "NL",
+    "bankCode": "PYYE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PYYENL22",
     "Bank Name": "PAYPORTER B.V.",
@@ -5802,8 +5802,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "113",
     "SWIFT Code": "RGVMNL2R113",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5815,8 +5815,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "114",
     "SWIFT Code": "RGVMNL2R114",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5828,8 +5828,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "115",
     "SWIFT Code": "RGVMNL2R115",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5841,8 +5841,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "116",
     "SWIFT Code": "RGVMNL2R116",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5854,8 +5854,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "117",
     "SWIFT Code": "RGVMNL2R117",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5867,8 +5867,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "118",
     "SWIFT Code": "RGVMNL2R118",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5880,8 +5880,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "119",
     "SWIFT Code": "RGVMNL2R119",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5893,8 +5893,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "120",
     "SWIFT Code": "RGVMNL2R120",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5906,8 +5906,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "121",
     "SWIFT Code": "RGVMNL2R121",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5919,8 +5919,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "122",
     "SWIFT Code": "RGVMNL2R122",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5932,8 +5932,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "123",
     "SWIFT Code": "RGVMNL2R123",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5945,8 +5945,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "124",
     "SWIFT Code": "RGVMNL2R124",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5958,8 +5958,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "125",
     "SWIFT Code": "RGVMNL2R125",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5971,8 +5971,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "126",
     "SWIFT Code": "RGVMNL2R126",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5984,8 +5984,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "127",
     "SWIFT Code": "RGVMNL2R127",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -5997,8 +5997,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "128",
     "SWIFT Code": "RGVMNL2R128",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6010,8 +6010,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "129",
     "SWIFT Code": "RGVMNL2R129",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6023,8 +6023,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "130",
     "SWIFT Code": "RGVMNL2R130",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6036,8 +6036,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "131",
     "SWIFT Code": "RGVMNL2R131",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6049,8 +6049,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "132",
     "SWIFT Code": "RGVMNL2R132",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6062,8 +6062,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "133",
     "SWIFT Code": "RGVMNL2R133",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6075,8 +6075,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "134",
     "SWIFT Code": "RGVMNL2R134",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6088,8 +6088,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "135",
     "SWIFT Code": "RGVMNL2R135",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6101,8 +6101,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "136",
     "SWIFT Code": "RGVMNL2R136",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6114,8 +6114,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "137",
     "SWIFT Code": "RGVMNL2R137",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6127,8 +6127,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "138",
     "SWIFT Code": "RGVMNL2R138",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6140,8 +6140,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "139",
     "SWIFT Code": "RGVMNL2R139",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6153,8 +6153,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "140",
     "SWIFT Code": "RGVMNL2R140",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6166,8 +6166,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "141",
     "SWIFT Code": "RGVMNL2R141",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6179,8 +6179,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ABA",
     "SWIFT Code": "RGVMNL2RABA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6192,8 +6192,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AVE",
     "SWIFT Code": "RGVMNL2RAVE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6205,8 +6205,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BBK",
     "SWIFT Code": "RGVMNL2RBBK",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6218,8 +6218,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BLT",
     "SWIFT Code": "RGVMNL2RBLT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6231,8 +6231,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BOO",
     "SWIFT Code": "RGVMNL2RBOO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6244,8 +6244,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CAL",
     "SWIFT Code": "RGVMNL2RCAL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6257,8 +6257,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CAT",
     "SWIFT Code": "RGVMNL2RCAT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6270,8 +6270,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CLF",
     "SWIFT Code": "RGVMNL2RCLF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6283,8 +6283,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CON",
     "SWIFT Code": "RGVMNL2RCON",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6296,8 +6296,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CRE",
     "SWIFT Code": "RGVMNL2RCRE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6309,8 +6309,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CRL",
     "SWIFT Code": "RGVMNL2RCRL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6322,8 +6322,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CYG",
     "SWIFT Code": "RGVMNL2RCYG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6335,8 +6335,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DAK",
     "SWIFT Code": "RGVMNL2RDAK",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6348,8 +6348,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DAR",
     "SWIFT Code": "RGVMNL2RDAR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6361,8 +6361,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DCO",
     "SWIFT Code": "RGVMNL2RDCO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6374,8 +6374,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DIE",
     "SWIFT Code": "RGVMNL2RDIE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6387,8 +6387,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DIS",
     "SWIFT Code": "RGVMNL2RDIS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6400,8 +6400,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DUN",
     "SWIFT Code": "RGVMNL2RDUN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6413,8 +6413,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ELR",
     "SWIFT Code": "RGVMNL2RELR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6426,8 +6426,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EQA",
     "SWIFT Code": "RGVMNL2REQA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6439,8 +6439,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FAT",
     "SWIFT Code": "RGVMNL2RFAT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -6452,8 +6452,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNQ",
-    "bankCode": "NL",
+    "bankCode": "BUNQ",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BUNQNL2A",
     "Bank Name": "BUNQ B.V.",
@@ -6465,8 +6465,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNQ",
-    "bankCode": "NL",
+    "bankCode": "BUNQ",
+    "countryCode": "NL",
     "branchCode": "HDO",
     "SWIFT Code": "BUNQNL2AHDO",
     "Bank Name": "BUNQ B.V.",
@@ -6478,8 +6478,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUXB",
-    "bankCode": "NL",
+    "bankCode": "BUXB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BUXBNL22",
     "Bank Name": "BUX B.V.",
@@ -6491,8 +6491,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "NL",
+    "bankCode": "ISAE",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ISAENL2A",
     "Bank Name": "CACEIS BANK, NETHERLANDS BRANCH",
@@ -6504,8 +6504,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "NL",
+    "bankCode": "ISAE",
+    "countryCode": "NL",
     "branchCode": "DIM",
     "SWIFT Code": "ISAENL2ADIM",
     "Bank Name": "CACEIS BANK, NETHERLANDS BRANCH",
@@ -6517,8 +6517,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRKR",
-    "bankCode": "NL",
+    "bankCode": "CRKR",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "CRKRNL2R",
     "Bank Name": "CARDANO RISK MANAGEMENT B.V.",
@@ -6530,8 +6530,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "EUI",
     "SWIFT Code": "EMCFNL2AEUI",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6543,8 +6543,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "SEA",
     "SWIFT Code": "EMCFNL2ASEA",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6556,8 +6556,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "SPR",
     "SWIFT Code": "EMCFNL2ASPR",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6569,8 +6569,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "IOF",
     "SWIFT Code": "EMCFNL2AIOF",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6582,8 +6582,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "EQD",
     "SWIFT Code": "EMCFNL2AEQD",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6595,8 +6595,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "EMCFNL22",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6608,8 +6608,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "EMCFNL2A",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6621,8 +6621,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "AGN",
     "SWIFT Code": "EMCFNL2AAGN",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6634,8 +6634,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "CLF",
     "SWIFT Code": "EMCFNL2ACLF",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6647,8 +6647,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "COL",
     "SWIFT Code": "EMCFNL2ACOL",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6660,8 +6660,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "CAP",
     "SWIFT Code": "EMCFNL2ACAP",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6673,8 +6673,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "DKK",
     "SWIFT Code": "EMCFNL2ADKK",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6686,8 +6686,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "EUR",
     "SWIFT Code": "EMCFNL2AEUR",
     "Bank Name": "CBOE CLEAR EUROPE N.V.",
@@ -6699,8 +6699,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGGV",
-    "bankCode": "NL",
+    "bankCode": "CGGV",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CGGVNL2A",
     "Bank Name": "CGG HOLDING B.V .",
@@ -6712,8 +6712,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "NL",
+    "bankCode": "PCBC",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "PCBCNL2A",
     "Bank Name": "CHINA CONSTRUCTION BANK (EUROPE) S.A., AMSTERDAM BRANCH",
@@ -6725,8 +6725,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "NL",
+    "bankCode": "CITC",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CITCNL2A",
     "Bank Name": "CITCO BANK NEDERLAND N.V.",
@@ -6738,8 +6738,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCAT",
-    "bankCode": "NL",
+    "bankCode": "CCAT",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CCATNL2A",
     "Bank Name": "CITCO NEDERLAND B.V.",
@@ -6751,8 +6751,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NL",
+    "bankCode": "CITI",
+    "countryCode": "NL",
     "branchCode": "CB2",
     "SWIFT Code": "CITINL2XCB2",
     "Bank Name": "CITIBANK EUROPE PLC NETHERLANDS BRANCH",
@@ -6764,8 +6764,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NL",
+    "bankCode": "CITI",
+    "countryCode": "NL",
     "branchCode": "SEC",
     "SWIFT Code": "CITINL2XSEC",
     "Bank Name": "CITIBANK EUROPE PLC NETHERLANDS BRANCH",
@@ -6777,8 +6777,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NL",
+    "bankCode": "CITI",
+    "countryCode": "NL",
     "branchCode": "TFT",
     "SWIFT Code": "CITINL2XTFT",
     "Bank Name": "CITIBANK EUROPE PLC NETHERLANDS BRANCH",
@@ -6790,8 +6790,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NL",
+    "bankCode": "CITI",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "CITINL2X",
     "Bank Name": "CITIBANK EUROPE PLC NETHERLANDS BRANCH",
@@ -6803,8 +6803,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CLRBNL2A",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6816,8 +6816,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "003",
     "SWIFT Code": "CLRBNL2A003",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6829,8 +6829,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "004",
     "SWIFT Code": "CLRBNL2A004",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6842,8 +6842,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "002",
     "SWIFT Code": "CLRBNL2A002",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6855,8 +6855,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "001",
     "SWIFT Code": "CLRBNL2A001",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6868,8 +6868,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "005",
     "SWIFT Code": "CLRBNL2A005",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6881,8 +6881,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "006",
     "SWIFT Code": "CLRBNL2A006",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6894,8 +6894,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "007",
     "SWIFT Code": "CLRBNL2A007",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6907,8 +6907,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "008",
     "SWIFT Code": "CLRBNL2A008",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6920,8 +6920,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "009",
     "SWIFT Code": "CLRBNL2A009",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6933,8 +6933,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "010",
     "SWIFT Code": "CLRBNL2A010",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6946,8 +6946,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "011",
     "SWIFT Code": "CLRBNL2A011",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6959,8 +6959,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "012",
     "SWIFT Code": "CLRBNL2A012",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6972,8 +6972,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "013",
     "SWIFT Code": "CLRBNL2A013",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6985,8 +6985,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "014",
     "SWIFT Code": "CLRBNL2A014",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -6998,8 +6998,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRB",
-    "bankCode": "NL",
+    "bankCode": "CLRB",
+    "countryCode": "NL",
     "branchCode": "015",
     "SWIFT Code": "CLRBNL2A015",
     "Bank Name": "CLEARBANK EUROPE N.V.",
@@ -7011,8 +7011,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CWIS",
-    "bankCode": "NL",
+    "bankCode": "CWIS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CWISNL2A",
     "Bank Name": "CLEVERSOFT FORENSIC DETECTION B.V.",
@@ -7024,8 +7024,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHB",
-    "bankCode": "NL",
+    "bankCode": "CCHB",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CCHBNL2A",
     "Bank Name": "COCA-COLA HBC FINANCE B.V.",
@@ -7037,8 +7037,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHB",
-    "bankCode": "NL",
+    "bankCode": "CCHB",
+    "countryCode": "NL",
     "branchCode": "520",
     "SWIFT Code": "CCHBNL2A520",
     "Bank Name": "COCA-COLA HBC FINANCE B.V.",
@@ -7050,8 +7050,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHB",
-    "bankCode": "NL",
+    "bankCode": "CCHB",
+    "countryCode": "NL",
     "branchCode": "424",
     "SWIFT Code": "CCHBNL2A424",
     "Bank Name": "COCA-COLA HBC FINANCE B.V.",
@@ -7063,8 +7063,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHB",
-    "bankCode": "NL",
+    "bankCode": "CCHB",
+    "countryCode": "NL",
     "branchCode": "425",
     "SWIFT Code": "CCHBNL2A425",
     "Bank Name": "COCA-COLA HBC FINANCE B.V.",
@@ -7076,8 +7076,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHB",
-    "bankCode": "NL",
+    "bankCode": "CCHB",
+    "countryCode": "NL",
     "branchCode": "470",
     "SWIFT Code": "CCHBNL2A470",
     "Bank Name": "COCA-COLA HBC FINANCE B.V.",
@@ -7089,8 +7089,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIHA",
-    "bankCode": "NL",
+    "bankCode": "NIHA",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "NIHANL2R",
     "Bank Name": "COFCO INTERNATIONAL NETHERLANDS B.V",
@@ -7102,8 +7102,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPLN",
-    "bankCode": "NL",
+    "bankCode": "LPLN",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "LPLNNL2A",
     "Bank Name": "LEASEPLAN CORPORATION N.V.",
@@ -7115,8 +7115,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPLN",
-    "bankCode": "NL",
+    "bankCode": "LPLN",
+    "countryCode": "NL",
     "branchCode": "LPB",
     "SWIFT Code": "LPLNNL2ALPB",
     "Bank Name": "LEASEPLAN CORPORATION N.V.",
@@ -7128,8 +7128,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPLN",
-    "bankCode": "NL",
+    "bankCode": "LPLN",
+    "countryCode": "NL",
     "branchCode": "L2F",
     "SWIFT Code": "LPLNNL2F",
     "Bank Name": "LEASEPLAN CORPORATION N.V.(REF LEASEPLAN BANK)",
@@ -7141,8 +7141,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGF",
-    "bankCode": "NL",
+    "bankCode": "EFGF",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "EFGFNL2A",
     "Bank Name": "LEONTEQ SECURITIES AG, AMSTERDAM BRANCH",
@@ -7154,8 +7154,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBTY",
-    "bankCode": "NL",
+    "bankCode": "LBTY",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "LBTYNL2A",
     "Bank Name": "LIBERTY GLOBAL EUROPE HOLDING BV",
@@ -7167,8 +7167,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBTY",
-    "bankCode": "NL",
+    "bankCode": "LBTY",
+    "countryCode": "NL",
     "branchCode": "AET",
     "SWIFT Code": "LBTYNL2AAET",
     "Bank Name": "LIBERTY GLOBAL EUROPE HOLDING BV",
@@ -7180,8 +7180,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBTY",
-    "bankCode": "NL",
+    "bankCode": "LBTY",
+    "countryCode": "NL",
     "branchCode": "TIF",
     "SWIFT Code": "LBTYNL2ATIF",
     "Bank Name": "LIBERTY GLOBAL EUROPE HOLDING BV",
@@ -7193,8 +7193,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBTY",
-    "bankCode": "NL",
+    "bankCode": "LBTY",
+    "countryCode": "NL",
     "branchCode": "VMO",
     "SWIFT Code": "LBTYNL2AVMO",
     "Bank Name": "LIBERTY GLOBAL EUROPE HOLDING BV",
@@ -7206,8 +7206,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINO",
-    "bankCode": "NL",
+    "bankCode": "LINO",
+    "countryCode": "NL",
     "branchCode": "L2D",
     "SWIFT Code": "LINONL2D",
     "Bank Name": "LINET GROUP SE",
@@ -7219,8 +7219,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFS",
-    "bankCode": "NL",
+    "bankCode": "BOFS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BOFSNL2A",
     "Bank Name": "LLOYDS BANK GMBH",
@@ -7232,8 +7232,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LULE",
-    "bankCode": "NL",
+    "bankCode": "LULE",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "LULENL2E",
     "Bank Name": "LUMILEDS HOLDING B.V.",
@@ -7245,8 +7245,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAVD",
-    "bankCode": "NL",
+    "bankCode": "MAVD",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "MAVDNL22",
     "Bank Name": "MAKO DERIVATIVES AMSTERDAM B.V",
@@ -7258,8 +7258,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TWIX",
-    "bankCode": "NL",
+    "bankCode": "TWIX",
+    "countryCode": "NL",
     "branchCode": "LNL",
     "SWIFT Code": "TWIXNLNL",
     "Bank Name": "MARS NEDERLAND B.V.",
@@ -7271,8 +7271,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "NL",
+    "bankCode": "ICBC",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ICBCNL2A",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO, LTD.",
@@ -7284,8 +7284,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAIX",
-    "bankCode": "NL",
+    "bankCode": "DAIX",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "DAIXNL2X",
     "Bank Name": "MERCEDES-BENZ INTERNATIONAL FINANCE B.V.",
@@ -7297,8 +7297,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MILY",
-    "bankCode": "NL",
+    "bankCode": "MILY",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "MILYNL2A",
     "Bank Name": "MILEWAY B.V.",
@@ -7310,8 +7310,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DMFA",
-    "bankCode": "NL",
+    "bankCode": "DMFA",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "DMFANL2G",
     "Bank Name": "MINISTERIE VAN BUITENLANDSE ZAKEN",
@@ -7323,8 +7323,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "NL",
+    "bankCode": "MHCB",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "MHCBNL2A",
     "Bank Name": "MIZUHO BANK EUROPE N.V.",
@@ -7336,8 +7336,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "NL",
+    "bankCode": "MHCB",
+    "countryCode": "NL",
     "branchCode": "DNB",
     "SWIFT Code": "MHCBNL2ADNB",
     "Bank Name": "MIZUHO BANK EUROPE N.V.",
@@ -7349,8 +7349,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNSN",
-    "bankCode": "NL",
+    "bankCode": "MNSN",
+    "countryCode": "NL",
     "branchCode": "PAY",
     "SWIFT Code": "MNSNNL2APAY",
     "Bank Name": "MN SERVICES NV (INVESTMENT MANAGE MENT)",
@@ -7362,8 +7362,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNSN",
-    "bankCode": "NL",
+    "bankCode": "MNSN",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "MNSNNL2A",
     "Bank Name": "MN SERVICES NV (INVESTMENT MANAGE MENT)",
@@ -7375,8 +7375,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNSN",
-    "bankCode": "NL",
+    "bankCode": "MNSN",
+    "countryCode": "NL",
     "branchCode": "CLE",
     "SWIFT Code": "MNSNNL2ACLE",
     "Bank Name": "MN SERVICES NV (INVESTMENT MANAGE MENT)",
@@ -7388,8 +7388,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNSN",
-    "bankCode": "NL",
+    "bankCode": "MNSN",
+    "countryCode": "NL",
     "branchCode": "CLT",
     "SWIFT Code": "MNSNNL2ACLT",
     "Bank Name": "MN SERVICES NV (INVESTMENT MANAGE MENT)",
@@ -7401,8 +7401,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNSN",
-    "bankCode": "NL",
+    "bankCode": "MNSN",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "MNSNNL22",
     "Bank Name": "MN SERVICES NV (INVESTMENT MANAGEMENT)",
@@ -7414,8 +7414,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "NL",
+    "bankCode": "MODR",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "MODRNL22",
     "Bank Name": "MODULR FINANCE B.V.",
@@ -7427,8 +7427,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "NL",
+    "bankCode": "MODR",
+    "countryCode": "NL",
     "branchCode": "L23",
     "SWIFT Code": "MODRNL23",
     "Bank Name": "MODULR FINANCE B.V.",
@@ -7440,8 +7440,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "NL",
+    "bankCode": "BOTK",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "BOTKNL2X",
     "Bank Name": "MUFG BANK (EUROPE) N.V. AMSTERDAM (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)",
@@ -7453,8 +7453,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFIL",
-    "bankCode": "NL",
+    "bankCode": "MFIL",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "MFILNL2A",
     "Bank Name": "MUFG SECURITIES (EUROPE) N.V.",
@@ -7466,8 +7466,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNBA",
-    "bankCode": "NL",
+    "bankCode": "NNBA",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "NNBANL2G",
     "Bank Name": "NATIONALE-NEDERLANDEN BANK N.V.",
@@ -7479,8 +7479,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNBA",
-    "bankCode": "NL",
+    "bankCode": "NNBA",
+    "countryCode": "NL",
     "branchCode": "TRY",
     "SWIFT Code": "NNBANL2GTRY",
     "Bank Name": "NATIONALE-NEDERLANDEN BANK N.V.",
@@ -7492,8 +7492,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNLM",
-    "bankCode": "NL",
+    "bankCode": "NNLM",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "NNLMNL2R",
     "Bank Name": "NATIONALE-NEDERLANDEN LEVENSVERZEKERING MAATSCHAPPIJ N.V.",
@@ -7505,8 +7505,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "RBOSNL2R",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7518,8 +7518,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "LNV",
     "SWIFT Code": "RBOSNLNV",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7531,8 +7531,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "RBOSNL2X",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7544,8 +7544,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "EQT",
     "SWIFT Code": "RBOSNL2XEQT",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7557,8 +7557,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "TCM",
     "SWIFT Code": "RBOSNL2RTCM",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7570,8 +7570,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "GLO",
     "SWIFT Code": "RBOSNL2RGLO",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7583,8 +7583,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "NL",
+    "bankCode": "RBOS",
+    "countryCode": "NL",
     "branchCode": "TCM",
     "SWIFT Code": "RBOSNL2XTCM",
     "Bank Name": "NATWEST MARKETS N.V.",
@@ -7596,8 +7596,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "777",
     "SWIFT Code": "ESESNL2A777",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7609,8 +7609,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "INT",
     "SWIFT Code": "ESESNL2AINT",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7622,8 +7622,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "LE1",
     "SWIFT Code": "ESESNL2ALE1",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7635,8 +7635,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "LE2",
     "SWIFT Code": "ESESNL2ALE2",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7648,8 +7648,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ESESNL2A",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7661,8 +7661,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "ISS",
     "SWIFT Code": "ESESNL2AISS",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7674,8 +7674,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "FDB",
     "SWIFT Code": "ESESNL2AFDB",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7687,8 +7687,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "CSD",
     "SWIFT Code": "ESESNL2ACSD",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7700,8 +7700,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "PEN",
     "SWIFT Code": "ESESNL2APEN",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7713,8 +7713,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "CPE",
     "SWIFT Code": "ESESNL2ACPE",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7726,8 +7726,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "017",
     "SWIFT Code": "ESESNL2A017",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7739,8 +7739,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "NL",
+    "bankCode": "ESES",
+    "countryCode": "NL",
     "branchCode": "MIG",
     "SWIFT Code": "ESESNL2AMIG",
     "Bank Name": "NEDERLANDS CENTRAAL INSTITUUT VOOR GIRAAL EFFECTENVERKEER",
@@ -7752,8 +7752,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "P18",
     "SWIFT Code": "ABPTNL2HP18",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -7765,8 +7765,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "P20",
     "SWIFT Code": "ABPTNL2HP20",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -7778,8 +7778,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "P16",
     "SWIFT Code": "ABPTNL2HP16",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -7791,8 +7791,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACDI",
-    "bankCode": "NL",
+    "bankCode": "ACDI",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "ACDINL22",
     "Bank Name": "ARCADIS N.V.",
@@ -7804,8 +7804,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBV",
-    "bankCode": "NL",
+    "bankCode": "ADBV",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ADBVNL2A",
     "Bank Name": "ARCOS DORADOS BV",
@@ -7817,8 +7817,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARTX",
-    "bankCode": "NL",
+    "bankCode": "ARTX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ARTXNL2A",
     "Bank Name": "ARGENTEX B.V.",
@@ -7830,8 +7830,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIX",
-    "bankCode": "NL",
+    "bankCode": "ASIX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ASIXNL2A",
     "Bank Name": "ASICS EUROPE B.V.",
@@ -7843,8 +7843,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSI",
-    "bankCode": "NL",
+    "bankCode": "FTSI",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "FTSINL2U",
     "Bank Name": "ASR VERMOGENSBEHEER N.V.",
@@ -7856,8 +7856,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSI",
-    "bankCode": "NL",
+    "bankCode": "FTSI",
+    "countryCode": "NL",
     "branchCode": "FIT",
     "SWIFT Code": "FTSINL2UFIT",
     "Bank Name": "ASR VERMOGENSBEHEER N.V.",
@@ -7869,8 +7869,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSI",
-    "bankCode": "NL",
+    "bankCode": "FTSI",
+    "countryCode": "NL",
     "branchCode": "DAM",
     "SWIFT Code": "FTSINL2UDAM",
     "Bank Name": "ASR VERMOGENSBEHEER N.V.",
@@ -7882,8 +7882,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASRV",
-    "bankCode": "NL",
+    "bankCode": "ASRV",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "ASRVNL2U",
     "Bank Name": "ASR VERMOGENSBEHEER N.V. (TREASURY DEBT)",
@@ -7895,8 +7895,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCD",
-    "bankCode": "NL",
+    "bankCode": "ATCD",
+    "countryCode": "NL",
     "branchCode": "252",
     "SWIFT Code": "ATCDNL22252",
     "Bank Name": "ATLAS CONCORD B.V.",
@@ -7908,8 +7908,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCD",
-    "bankCode": "NL",
+    "bankCode": "ATCD",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "ATCDNL22",
     "Bank Name": "ATLAS CONCORD B.V.",
@@ -7921,8 +7921,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCD",
-    "bankCode": "NL",
+    "bankCode": "ATCD",
+    "countryCode": "NL",
     "branchCode": "DEU",
     "SWIFT Code": "ATCDNL22DEU",
     "Bank Name": "ATLAS CONCORD B.V.",
@@ -7934,8 +7934,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCD",
-    "bankCode": "NL",
+    "bankCode": "ATCD",
+    "countryCode": "NL",
     "branchCode": "ABN",
     "SWIFT Code": "ATCDNL22ABN",
     "Bank Name": "ATLAS CONCORD B.V.",
@@ -7947,8 +7947,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSIN",
-    "bankCode": "NL",
+    "bankCode": "BSIN",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BSINNL22",
     "Bank Name": "B AND S INTERNATIONAL B.V.",
@@ -7960,8 +7960,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSGR",
-    "bankCode": "NL",
+    "bankCode": "DSGR",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "DSGRNL2G",
     "Bank Name": "B.V. HOLDING MAATSCHAPPIJ DAMEN",
@@ -7973,8 +7973,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGLA",
-    "bankCode": "NL",
+    "bankCode": "BGLA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BGLANL2A",
     "Bank Name": "BA GLASS B.V.",
@@ -7986,8 +7986,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKMG",
-    "bankCode": "NL",
+    "bankCode": "BKMG",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BKMGNL2A",
     "Bank Name": "BANK MENDES GANS N.V.",
@@ -7999,8 +7999,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "NL",
+    "bankCode": "BOFA",
+    "countryCode": "NL",
     "branchCode": "LNX",
     "SWIFT Code": "BOFANLNX",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, AMSTERDAM BRANCH",
@@ -8012,8 +8012,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "NL",
+    "bankCode": "BOFA",
+    "countryCode": "NL",
     "branchCode": "VAM",
     "SWIFT Code": "BOFANLNXVAM",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, AMSTERDAM BRANCH",
@@ -8025,8 +8025,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "NL",
+    "bankCode": "BKCH",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "BKCHNL2R",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A., ROTTERDAM BRANCH",
@@ -8038,8 +8038,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "NL",
+    "bankCode": "BNYM",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BNYMNL22",
     "Bank Name": "BANK OF NEW YORK MELLON SA/NV, AMSTERDAM BRANCH",
@@ -8051,8 +8051,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "NL",
+    "bankCode": "BNYM",
+    "countryCode": "NL",
     "branchCode": "DNB",
     "SWIFT Code": "BNYMNL22DNB",
     "Bank Name": "BANK OF NEW YORK MELLON SA/NV, AMSTERDAM BRANCH",
@@ -8064,8 +8064,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDM",
-    "bankCode": "NL",
+    "bankCode": "BCDM",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BCDMNL22",
     "Bank Name": "BANQUE CHAABI DU MAROC",
@@ -8077,8 +8077,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMK",
-    "bankCode": "NL",
+    "bankCode": "BCMK",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BCMKNL22",
     "Bank Name": "BARAK CAPITAL MARKET MAKING B.V.",
@@ -8090,8 +8090,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "NL",
+    "bankCode": "BARC",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BARCNL22",
     "Bank Name": "BARCLAYS BANK IRELAND PLC, NETHERLANDS BRANCH",
@@ -8103,8 +8103,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDTG",
-    "bankCode": "NL",
+    "bankCode": "BDTG",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BDTGNL22",
     "Bank Name": "BDR THERMEA GROUP B.V.",
@@ -8116,8 +8116,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEFA",
-    "bankCode": "NL",
+    "bankCode": "BEFA",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BEFANL22",
     "Bank Name": "BEJO TREASURY B.V.",
@@ -8129,8 +8129,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTCA",
-    "bankCode": "NL",
+    "bankCode": "DTCA",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "DTCANL22",
     "Bank Name": "BELASTINGDIENST",
@@ -8142,8 +8142,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICK",
-    "bankCode": "NL",
+    "bankCode": "BICK",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BICKNL22",
     "Bank Name": "BINCKBANK N.V.",
@@ -8155,8 +8155,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICK",
-    "bankCode": "NL",
+    "bankCode": "BICK",
+    "countryCode": "NL",
     "branchCode": "SAX",
     "SWIFT Code": "BICKNL22SAX",
     "Bank Name": "BINCKBANK N.V.",
@@ -8168,8 +8168,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICK",
-    "bankCode": "NL",
+    "bankCode": "BICK",
+    "countryCode": "NL",
     "branchCode": "LN2",
     "SWIFT Code": "BICKNLN2",
     "Bank Name": "BINCKBANK N.V.",
@@ -8181,8 +8181,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICK",
-    "bankCode": "NL",
+    "bankCode": "BICK",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BICKNL2A",
     "Bank Name": "BINCKBANK N.V.",
@@ -8194,8 +8194,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICK",
-    "bankCode": "NL",
+    "bankCode": "BICK",
+    "countryCode": "NL",
     "branchCode": "TG2",
     "SWIFT Code": "BICKNL2ATG2",
     "Bank Name": "BINCKBANK N.V.",
@@ -8207,8 +8207,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BITS",
-    "bankCode": "NL",
+    "bankCode": "BITS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BITSNL2A",
     "Bank Name": "BITSAFE PAYMENTS",
@@ -8220,8 +8220,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGH",
-    "bankCode": "NL",
+    "bankCode": "BNGH",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "BNGHNL2G",
     "Bank Name": "BNG BANK N.V.",
@@ -8233,8 +8233,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGH",
-    "bankCode": "NL",
+    "bankCode": "BNGH",
+    "countryCode": "NL",
     "branchCode": "NMC",
     "SWIFT Code": "BNGHNL2GNMC",
     "Bank Name": "BNG BANK N.V.",
@@ -8246,8 +8246,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGH",
-    "bankCode": "NL",
+    "bankCode": "BNGH",
+    "countryCode": "NL",
     "branchCode": "LCH",
     "SWIFT Code": "BNGHNL2GLCH",
     "Bank Name": "BNG BANK N.V.",
@@ -8259,8 +8259,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPTN",
-    "bankCode": "NL",
+    "bankCode": "BPTN",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BPTNNL22",
     "Bank Name": "BNP PARIBAS ASSET MANAGEMENT FRANCE, NETHERLANDS BRANCH",
@@ -8272,8 +8272,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NL",
+    "bankCode": "BNPA",
+    "countryCode": "NL",
     "branchCode": "LNP",
     "SWIFT Code": "BNPANLNP",
     "Bank Name": "BNP PARIBAS S.A.",
@@ -8285,8 +8285,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NL",
+    "bankCode": "BNPA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BNPANL2A",
     "Bank Name": "BNP PARIBAS S.A. - THE NETHERLANDS BRANCH",
@@ -8298,8 +8298,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NL",
+    "bankCode": "BNPA",
+    "countryCode": "NL",
     "branchCode": "L2H",
     "SWIFT Code": "BNPANL2H",
     "Bank Name": "BNP PARIBAS S.A.-THE NETHERLANDS BRANCH",
@@ -8311,8 +8311,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NL",
+    "bankCode": "BNPA",
+    "countryCode": "NL",
     "branchCode": "NMC",
     "SWIFT Code": "BNPANL2HNMC",
     "Bank Name": "BNP PARIBAS S.A.-THE NETHERLANDS BRANCH",
@@ -8324,8 +8324,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOVR",
-    "bankCode": "NL",
+    "bankCode": "BOVR",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BOVRNL22",
     "Bank Name": "BOELS VERHUUR B.V.",
@@ -8337,8 +8337,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOOK",
-    "bankCode": "NL",
+    "bankCode": "BOOK",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BOOKNL2A",
     "Bank Name": "BOOKING.COM",
@@ -8350,8 +8350,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDA",
-    "bankCode": "NL",
+    "bankCode": "BNDA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BNDANL2A",
     "Bank Name": "BRAND NEW DAY BANK N.V.",
@@ -8363,8 +8363,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDA",
-    "bankCode": "NL",
+    "bankCode": "BNDA",
+    "countryCode": "NL",
     "branchCode": "CMA",
     "SWIFT Code": "BNDANL2ACMA",
     "Bank Name": "BRAND NEW DAY BANK N.V.",
@@ -8376,8 +8376,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDA",
-    "bankCode": "NL",
+    "bankCode": "BNDA",
+    "countryCode": "NL",
     "branchCode": "TRY",
     "SWIFT Code": "BNDANL2ATRY",
     "Bank Name": "BRAND NEW DAY BANK N.V.",
@@ -8389,8 +8389,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUKK",
-    "bankCode": "NL",
+    "bankCode": "BUKK",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BUKKNL22",
     "Bank Name": "BUCKAROO B.V.",
@@ -8402,8 +8402,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "COB",
     "SWIFT Code": "RGVMNL2RCOB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8415,8 +8415,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "COO",
     "SWIFT Code": "RGVMNL2RCOO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8428,8 +8428,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CPE",
     "SWIFT Code": "RGVMNL2RCPE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8441,8 +8441,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CUB",
     "SWIFT Code": "RGVMNL2RCUB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8454,8 +8454,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CUU",
     "SWIFT Code": "RGVMNL2RCUU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8467,8 +8467,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DEF",
     "SWIFT Code": "RGVMNL2RDEF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8480,8 +8480,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DHC",
     "SWIFT Code": "RGVMNL2RDHC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8493,8 +8493,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DNE",
     "SWIFT Code": "RGVMNL2RDNE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8506,8 +8506,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DUU",
     "SWIFT Code": "RGVMNL2RDUU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8519,8 +8519,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DYN",
     "SWIFT Code": "RGVMNL2RDYN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8532,8 +8532,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "E13",
     "SWIFT Code": "RGVMNL2RE13",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8545,8 +8545,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EBN",
     "SWIFT Code": "RGVMNL2REBN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8558,8 +8558,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EC1",
     "SWIFT Code": "RGVMNL2REC1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8571,8 +8571,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EC7",
     "SWIFT Code": "RGVMNL2REC7",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8584,8 +8584,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EC8",
     "SWIFT Code": "RGVMNL2REC8",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8597,8 +8597,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ECB",
     "SWIFT Code": "RGVMNL2RECB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8610,8 +8610,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EFG",
     "SWIFT Code": "RGVMNL2REFG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8623,8 +8623,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EGB",
     "SWIFT Code": "RGVMNL2REGB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8636,8 +8636,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ELD",
     "SWIFT Code": "RGVMNL2RELD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8649,8 +8649,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EM1",
     "SWIFT Code": "RGVMNL2REM1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8662,8 +8662,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EMN",
     "SWIFT Code": "RGVMNL2REMN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8675,8 +8675,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EMQ",
     "SWIFT Code": "RGVMNL2REMQ",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8688,8 +8688,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EMS",
     "SWIFT Code": "RGVMNL2REMS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8701,8 +8701,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EMT",
     "SWIFT Code": "RGVMNL2REMT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8714,8 +8714,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EMV",
     "SWIFT Code": "RGVMNL2REMV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8727,8 +8727,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ESC",
     "SWIFT Code": "RGVMNL2RESC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8740,8 +8740,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EUN",
     "SWIFT Code": "RGVMNL2REUN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8753,8 +8753,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EXC",
     "SWIFT Code": "RGVMNL2REXC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8766,8 +8766,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FCD",
     "SWIFT Code": "RGVMNL2RFCD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8779,8 +8779,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FCI",
     "SWIFT Code": "RGVMNL2RFCI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8792,8 +8792,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FEU",
     "SWIFT Code": "RGVMNL2RFEU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8805,8 +8805,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FIB",
     "SWIFT Code": "RGVMNL2RFIB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8818,8 +8818,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FIE",
     "SWIFT Code": "RGVMNL2RFIE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8831,8 +8831,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FII",
     "SWIFT Code": "RGVMNL2RFII",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8844,8 +8844,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FIP",
     "SWIFT Code": "RGVMNL2RFIP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8857,8 +8857,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GCE",
     "SWIFT Code": "RGVMNL2RGCE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8870,8 +8870,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GGT",
     "SWIFT Code": "RGVMNL2RGGT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8883,8 +8883,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DHO",
     "SWIFT Code": "RGVMNL2RDHO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8896,8 +8896,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "RGVMNL2R",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8909,8 +8909,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GLV",
     "SWIFT Code": "RGVMNL2RGLV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8922,8 +8922,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GSR",
     "SWIFT Code": "RGVMNL2RGSR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8935,8 +8935,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GTA",
     "SWIFT Code": "RGVMNL2RGTA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8948,8 +8948,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "H13",
     "SWIFT Code": "RGVMNL2RH13",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8961,8 +8961,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HB0",
     "SWIFT Code": "RGVMNL2RHB0",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8974,8 +8974,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HBH",
     "SWIFT Code": "RGVMNL2RHBH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -8987,8 +8987,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HBU",
     "SWIFT Code": "RGVMNL2RHBU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9000,8 +9000,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HBZ",
     "SWIFT Code": "RGVMNL2RHBZ",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9013,8 +9013,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HCI",
     "SWIFT Code": "RGVMNL2RHCI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9026,8 +9026,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HIF",
     "SWIFT Code": "RGVMNL2RHIF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9039,8 +9039,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HOF",
     "SWIFT Code": "RGVMNL2RHOF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9052,8 +9052,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LED",
     "SWIFT Code": "RGVMNL2RLED",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9065,8 +9065,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TIN",
     "SWIFT Code": "RGVMNL2RTIN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9078,8 +9078,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TEL",
     "SWIFT Code": "RGVMNL2RTEL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9091,8 +9091,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HYF",
     "SWIFT Code": "RGVMNL2RHYF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9104,8 +9104,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "VLV",
     "SWIFT Code": "RGVMNL2RVLV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9117,8 +9117,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MAG",
     "SWIFT Code": "RGVMNL2RMAG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9130,8 +9130,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NIS",
     "SWIFT Code": "RGVMNL2RNIS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9143,8 +9143,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AKI",
     "SWIFT Code": "RGVMNL2RAKI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9156,8 +9156,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AUG",
     "SWIFT Code": "RGVMNL2RAUG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9169,8 +9169,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HFG",
     "SWIFT Code": "RGVMNL2RHFG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9182,8 +9182,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ROS",
     "SWIFT Code": "RGVMNL2RROS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9195,8 +9195,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "001",
     "SWIFT Code": "RGVMNL2R001",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9208,8 +9208,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "002",
     "SWIFT Code": "RGVMNL2R002",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9221,8 +9221,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "003",
     "SWIFT Code": "RGVMNL2R003",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9234,8 +9234,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "004",
     "SWIFT Code": "RGVMNL2R004",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9247,8 +9247,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "005",
     "SWIFT Code": "RGVMNL2R005",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9260,8 +9260,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "006",
     "SWIFT Code": "RGVMNL2R006",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9273,8 +9273,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "007",
     "SWIFT Code": "RGVMNL2R007",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9286,8 +9286,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "008",
     "SWIFT Code": "RGVMNL2R008",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9299,8 +9299,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "009",
     "SWIFT Code": "RGVMNL2R009",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9312,8 +9312,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "010",
     "SWIFT Code": "RGVMNL2R010",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9325,8 +9325,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "011",
     "SWIFT Code": "RGVMNL2R011",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9338,8 +9338,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "012",
     "SWIFT Code": "RGVMNL2R012",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9351,8 +9351,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "013",
     "SWIFT Code": "RGVMNL2R013",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9364,8 +9364,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "014",
     "SWIFT Code": "RGVMNL2R014",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9377,8 +9377,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "015",
     "SWIFT Code": "RGVMNL2R015",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9390,8 +9390,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "016",
     "SWIFT Code": "RGVMNL2R016",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9403,8 +9403,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "017",
     "SWIFT Code": "RGVMNL2R017",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9416,8 +9416,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "018",
     "SWIFT Code": "RGVMNL2R018",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9429,8 +9429,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "019",
     "SWIFT Code": "RGVMNL2R019",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9442,8 +9442,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "020",
     "SWIFT Code": "RGVMNL2R020",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9455,8 +9455,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MIR",
     "SWIFT Code": "RGVMNL2RMIR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9468,8 +9468,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "10L",
     "SWIFT Code": "RGVMNL2R10L",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9481,8 +9481,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "40L",
     "SWIFT Code": "RGVMNL2R40L",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9494,8 +9494,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "A15",
     "SWIFT Code": "RGVMNL2RA15",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9507,8 +9507,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "A20",
     "SWIFT Code": "RGVMNL2RA20",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9520,8 +9520,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "A25",
     "SWIFT Code": "RGVMNL2RA25",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9533,8 +9533,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "A30",
     "SWIFT Code": "RGVMNL2RA30",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9546,8 +9546,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "A35",
     "SWIFT Code": "RGVMNL2RA35",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9559,8 +9559,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "A40",
     "SWIFT Code": "RGVMNL2RA40",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9572,8 +9572,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ACG",
     "SWIFT Code": "RGVMNL2RACG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9585,8 +9585,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AGA",
     "SWIFT Code": "RGVMNL2RAGA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9598,8 +9598,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AGB",
     "SWIFT Code": "RGVMNL2RAGB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9611,8 +9611,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AMA",
     "SWIFT Code": "RGVMNL2RAMA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9624,8 +9624,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AMI",
     "SWIFT Code": "RGVMNL2RAMI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9637,8 +9637,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "APN",
     "SWIFT Code": "RGVMNL2RAPN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9650,8 +9650,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ARE",
     "SWIFT Code": "RGVMNL2RARE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9663,8 +9663,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PFR",
     "SWIFT Code": "RGVMNL2RPFR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9676,8 +9676,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SAM",
     "SWIFT Code": "RGVMNL2RSAM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9689,8 +9689,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RODC",
-    "bankCode": "NL",
+    "bankCode": "RODC",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "RODCNL22",
     "Bank Name": "ROCHE DIABETES CARE NEDERLAND B.V.",
@@ -9702,8 +9702,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "063",
     "SWIFT Code": "RGVMNL2R063",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9715,8 +9715,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "064",
     "SWIFT Code": "RGVMNL2R064",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9728,8 +9728,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "065",
     "SWIFT Code": "RGVMNL2R065",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9741,8 +9741,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "066",
     "SWIFT Code": "RGVMNL2R066",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9754,8 +9754,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "067",
     "SWIFT Code": "RGVMNL2R067",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9767,8 +9767,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "068",
     "SWIFT Code": "RGVMNL2R068",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9780,8 +9780,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "069",
     "SWIFT Code": "RGVMNL2R069",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9793,8 +9793,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "070",
     "SWIFT Code": "RGVMNL2R070",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9806,8 +9806,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "071",
     "SWIFT Code": "RGVMNL2R071",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9819,8 +9819,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "072",
     "SWIFT Code": "RGVMNL2R072",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9832,8 +9832,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "073",
     "SWIFT Code": "RGVMNL2R073",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9845,8 +9845,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "074",
     "SWIFT Code": "RGVMNL2R074",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9858,8 +9858,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "075",
     "SWIFT Code": "RGVMNL2R075",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9871,8 +9871,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "076",
     "SWIFT Code": "RGVMNL2R076",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9884,8 +9884,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "077",
     "SWIFT Code": "RGVMNL2R077",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9897,8 +9897,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "078",
     "SWIFT Code": "RGVMNL2R078",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9910,8 +9910,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "079",
     "SWIFT Code": "RGVMNL2R079",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9923,8 +9923,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "080",
     "SWIFT Code": "RGVMNL2R080",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9936,8 +9936,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "081",
     "SWIFT Code": "RGVMNL2R081",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9949,8 +9949,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "082",
     "SWIFT Code": "RGVMNL2R082",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9962,8 +9962,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "083",
     "SWIFT Code": "RGVMNL2R083",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9975,8 +9975,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "084",
     "SWIFT Code": "RGVMNL2R084",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -9988,8 +9988,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "085",
     "SWIFT Code": "RGVMNL2R085",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10001,8 +10001,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "086",
     "SWIFT Code": "RGVMNL2R086",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10014,8 +10014,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "087",
     "SWIFT Code": "RGVMNL2R087",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10027,8 +10027,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "088",
     "SWIFT Code": "RGVMNL2R088",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10040,8 +10040,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "089",
     "SWIFT Code": "RGVMNL2R089",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10053,8 +10053,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "090",
     "SWIFT Code": "RGVMNL2R090",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10066,8 +10066,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "091",
     "SWIFT Code": "RGVMNL2R091",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10079,8 +10079,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "092",
     "SWIFT Code": "RGVMNL2R092",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10092,8 +10092,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "093",
     "SWIFT Code": "RGVMNL2R093",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10105,8 +10105,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "094",
     "SWIFT Code": "RGVMNL2R094",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10118,8 +10118,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "095",
     "SWIFT Code": "RGVMNL2R095",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10131,8 +10131,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "096",
     "SWIFT Code": "RGVMNL2R096",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10144,8 +10144,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "097",
     "SWIFT Code": "RGVMNL2R097",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10157,8 +10157,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "098",
     "SWIFT Code": "RGVMNL2R098",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10170,8 +10170,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "099",
     "SWIFT Code": "RGVMNL2R099",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10183,8 +10183,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "100",
     "SWIFT Code": "RGVMNL2R100",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10196,8 +10196,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "101",
     "SWIFT Code": "RGVMNL2R101",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10209,8 +10209,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "102",
     "SWIFT Code": "RGVMNL2R102",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10222,8 +10222,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "103",
     "SWIFT Code": "RGVMNL2R103",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10235,8 +10235,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "104",
     "SWIFT Code": "RGVMNL2R104",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10248,8 +10248,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "105",
     "SWIFT Code": "RGVMNL2R105",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10261,8 +10261,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "106",
     "SWIFT Code": "RGVMNL2R106",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10274,8 +10274,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "107",
     "SWIFT Code": "RGVMNL2R107",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10287,8 +10287,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "108",
     "SWIFT Code": "RGVMNL2R108",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10300,8 +10300,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "109",
     "SWIFT Code": "RGVMNL2R109",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10313,8 +10313,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "110",
     "SWIFT Code": "RGVMNL2R110",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10326,8 +10326,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "111",
     "SWIFT Code": "RGVMNL2R111",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10339,8 +10339,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "112",
     "SWIFT Code": "RGVMNL2R112",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -10352,8 +10352,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "NL",
+    "bankCode": "COBA",
+    "countryCode": "NL",
     "branchCode": "TAM",
     "SWIFT Code": "COBANL2XTAM",
     "Bank Name": "COMMERZBANK AG BENELUX BRANCH",
@@ -10365,8 +10365,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "NL",
+    "bankCode": "COBA",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "COBANL2X",
     "Bank Name": "COMMERZBANK AG BENELUX BRANCH",
@@ -10378,8 +10378,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "NL",
+    "bankCode": "COBA",
+    "countryCode": "NL",
     "branchCode": "MCA",
     "SWIFT Code": "COBANL2XMCA",
     "Bank Name": "COMMERZBANK AG BENELUX BRANCH",
@@ -10391,8 +10391,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "NL",
+    "bankCode": "CTBA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CTBANL2A",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA (EUROPE) N.V.",
@@ -10404,8 +10404,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLHO",
-    "bankCode": "NL",
+    "bankCode": "FLHO",
+    "countryCode": "NL",
     "branchCode": "L2H",
     "SWIFT Code": "FLHONL2H",
     "Bank Name": "COOPERATIE ROYAL FLORAHOLLAND U.A.",
@@ -10417,8 +10417,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBHL",
-    "bankCode": "NL",
+    "bankCode": "FBHL",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FBHLNL2A",
     "Bank Name": "CREDIT EUROPE BANK N.V.",
@@ -10430,8 +10430,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBV",
-    "bankCode": "NL",
+    "bankCode": "CCBV",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CCBVNL2A",
     "Bank Name": "CURRENCYCLOUD",
@@ -10443,8 +10443,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DALI",
-    "bankCode": "NL",
+    "bankCode": "DALI",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "DALINL22",
     "Bank Name": "DARLING INGREDIENTS INTERNATIONAL HOLDING BV",
@@ -10456,8 +10456,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLLI",
-    "bankCode": "NL",
+    "bankCode": "DLLI",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "DLLINL2E",
     "Bank Name": "DE LAGE LANDEN INTERNATIONAL B.V",
@@ -10469,8 +10469,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNSB",
-    "bankCode": "NL",
+    "bankCode": "SNSB",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SNSBNL2A",
     "Bank Name": "DE VOLKSBANK N.V.",
@@ -10482,8 +10482,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNSB",
-    "bankCode": "NL",
+    "bankCode": "SNSB",
+    "countryCode": "NL",
     "branchCode": "SFM",
     "SWIFT Code": "SNSBNL2ASFM",
     "Bank Name": "DE VOLKSBANK N.V.",
@@ -10495,8 +10495,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGFA",
-    "bankCode": "NL",
+    "bankCode": "DGFA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "DGFANL2A",
     "Bank Name": "DEPOSITO GARANTIE FONDS",
@@ -10508,8 +10508,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "NL",
+    "bankCode": "DEUT",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "DEUTNL2A",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -10521,8 +10521,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "NL",
+    "bankCode": "DEUT",
+    "countryCode": "NL",
     "branchCode": "ABF",
     "SWIFT Code": "DEUTNL2AABF",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -10534,8 +10534,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "NL",
+    "bankCode": "DEUT",
+    "countryCode": "NL",
     "branchCode": "002",
     "SWIFT Code": "DEUTNL2A002",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -10547,8 +10547,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "NL",
+    "bankCode": "DEUT",
+    "countryCode": "NL",
     "branchCode": "SSS",
     "SWIFT Code": "DEUTNL2ASSS",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -10560,8 +10560,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "NL",
+    "bankCode": "DEUT",
+    "countryCode": "NL",
     "branchCode": "SEC",
     "SWIFT Code": "DEUTNL2ASEC",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -10573,8 +10573,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBN",
-    "bankCode": "NL",
+    "bankCode": "DHBN",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "DHBNNL2R",
     "Bank Name": "DHB BANK N.V.",
@@ -10586,8 +10586,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBN",
-    "bankCode": "NL",
+    "bankCode": "DHBN",
+    "countryCode": "NL",
     "branchCode": "COL",
     "SWIFT Code": "DHBNNL2RCOL",
     "Bank Name": "DHB BANK N.V.",
@@ -10599,8 +10599,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIFM",
-    "bankCode": "NL",
+    "bankCode": "DIFM",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "DIFMNL2A",
     "Bank Name": "DIF MANAGEMENT B.V.",
@@ -10612,8 +10612,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSMH",
-    "bankCode": "NL",
+    "bankCode": "DSMH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "DSMHNL22",
     "Bank Name": "DSM PENSION SERVICES B.V.",
@@ -10625,8 +10625,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIFI",
-    "bankCode": "NL",
+    "bankCode": "MIFI",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "MIFINL2G",
     "Bank Name": "DUTCH MINISTRY OF FINANCE",
@@ -10638,8 +10638,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSTA",
-    "bankCode": "NL",
+    "bankCode": "DSTA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "DSTANL2A",
     "Bank Name": "DUTCH STATE TREASURY AGENCY",
@@ -10651,8 +10651,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSTA",
-    "bankCode": "NL",
+    "bankCode": "DSTA",
+    "countryCode": "NL",
     "branchCode": "CCP",
     "SWIFT Code": "DSTANL2ACCP",
     "Bank Name": "DUTCH STATE TREASURY AGENCY",
@@ -10664,8 +10664,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBPB",
-    "bankCode": "NL",
+    "bankCode": "EBPB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "EBPBNL22",
     "Bank Name": "EBURY PARTNERS BELGIUM",
@@ -10677,8 +10677,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGFI",
-    "bankCode": "NL",
+    "bankCode": "EGFI",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "EGFINL2R",
     "Bank Name": "EKATERRA GROUP FINANCE B.V.",
@@ -10690,8 +10690,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENEL",
-    "bankCode": "NL",
+    "bankCode": "ENEL",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ENELNL2A",
     "Bank Name": "ENEL FINANCE INTERNATIONAL N.V.",
@@ -10703,8 +10703,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "DDE",
     "SWIFT Code": "INNDNL2UDDE",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10716,8 +10716,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "EBA",
     "SWIFT Code": "INNDNL2UEBA",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10729,8 +10729,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "EQU",
     "SWIFT Code": "INNDNL2UEQU",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10742,8 +10742,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "RAB",
     "SWIFT Code": "INNDNL2URAB",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10755,8 +10755,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "INNDNL2U",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10768,8 +10768,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "FIN",
     "SWIFT Code": "INNDNL2UFIN",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10781,8 +10781,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "IPC",
     "SWIFT Code": "INNDNL2UIPC",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10794,8 +10794,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "CGB",
     "SWIFT Code": "INNDNL2UCGB",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10807,8 +10807,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "CGC",
     "SWIFT Code": "INNDNL2UCGC",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10820,8 +10820,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "CGD",
     "SWIFT Code": "INNDNL2UCGD",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10833,8 +10833,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INND",
-    "bankCode": "NL",
+    "bankCode": "INND",
+    "countryCode": "NL",
     "branchCode": "B2B",
     "SWIFT Code": "INNDNL2UB2B",
     "Bank Name": "EQUENSWORLDLINE NV",
@@ -10846,8 +10846,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "320",
     "SWIFT Code": "NECINL2A320",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10859,8 +10859,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "NECINL2A",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10872,8 +10872,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "FEN",
     "SWIFT Code": "NECINL2AFEN",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10885,8 +10885,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "EII",
     "SWIFT Code": "NECINL2AEII",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10898,8 +10898,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "206",
     "SWIFT Code": "NECINL2A206",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10911,8 +10911,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "207",
     "SWIFT Code": "NECINL2A207",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10924,8 +10924,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "730",
     "SWIFT Code": "NECINL2A730",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10937,8 +10937,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "775",
     "SWIFT Code": "NECINL2A775",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10950,8 +10950,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECI",
-    "bankCode": "NL",
+    "bankCode": "NECI",
+    "countryCode": "NL",
     "branchCode": "777",
     "SWIFT Code": "NECINL2A777",
     "Bank Name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
@@ -10963,8 +10963,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "LKE",
     "SWIFT Code": "EMCFNLKE",
     "Bank Name": "EUROPEAN MULTILATERAL CLEARING FACILITY (EMCF) NV",
@@ -10976,8 +10976,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMCF",
-    "bankCode": "NL",
+    "bankCode": "EMCF",
+    "countryCode": "NL",
     "branchCode": "LKF",
     "SWIFT Code": "EMCFNLKF",
     "Bank Name": "EUROPEAN MULTILATERAL CLEARING FACILITY (EMCF) NV",
@@ -10989,8 +10989,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBV",
-    "bankCode": "NL",
+    "bankCode": "FSBV",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "FSBVNL22",
     "Bank Name": "F AND S CAPITAL I B.V.",
@@ -11002,8 +11002,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "GMK",
     "SWIFT Code": "ABNCNL2AGMK",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -11015,8 +11015,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "SFS",
     "SWIFT Code": "ABNCNL2ASFS",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -11028,8 +11028,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBN",
-    "bankCode": "NL",
+    "bankCode": "ARBN",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "ARBNNL22",
     "Bank Name": "ACHMEA BANK NV",
@@ -11041,8 +11041,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHBK",
-    "bankCode": "NL",
+    "bankCode": "AHBK",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "AHBKNL2G",
     "Bank Name": "ACHMEA BANK NV",
@@ -11054,8 +11054,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBN",
-    "bankCode": "NL",
+    "bankCode": "ARBN",
+    "countryCode": "NL",
     "branchCode": "BOT",
     "SWIFT Code": "ARBNNL22BOT",
     "Bank Name": "ACHMEA BANK NV",
@@ -11067,8 +11067,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYAV",
-    "bankCode": "NL",
+    "bankCode": "SYAV",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "SYAVNL22",
     "Bank Name": "ACHMEA INVESTMENT MANAGEMENT",
@@ -11080,8 +11080,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACTG",
-    "bankCode": "NL",
+    "bankCode": "ACTG",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ACTGNL2A",
     "Bank Name": "ACT COMMODITIES GROUP B.V.",
@@ -11093,8 +11093,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADYE",
-    "bankCode": "NL",
+    "bankCode": "ADYE",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ADYENL2A",
     "Bank Name": "ADYEN INTERNATIONAL B.V.",
@@ -11106,8 +11106,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADYB",
-    "bankCode": "NL",
+    "bankCode": "ADYB",
+    "countryCode": "NL",
     "branchCode": "TBE",
     "SWIFT Code": "ADYBNL2ATBE",
     "Bank Name": "ADYEN N.V.",
@@ -11119,8 +11119,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADYB",
-    "bankCode": "NL",
+    "bankCode": "ADYB",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ADYBNL2A",
     "Bank Name": "ADYEN N.V.",
@@ -11132,8 +11132,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEGO",
-    "bankCode": "NL",
+    "bankCode": "AEGO",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "AEGONL2U",
     "Bank Name": "AEGON BANK N.V.",
@@ -11145,8 +11145,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEGO",
-    "bankCode": "NL",
+    "bankCode": "AEGO",
+    "countryCode": "NL",
     "branchCode": "100",
     "SWIFT Code": "AEGONL2U100",
     "Bank Name": "AEGON BANK N.V.",
@@ -11158,8 +11158,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEIM",
-    "bankCode": "NL",
+    "bankCode": "AEIM",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "AEIMNL2G",
     "Bank Name": "AEGON INVESTMENT MANAGEMENT B.V.",
@@ -11171,8 +11171,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AENL",
-    "bankCode": "NL",
+    "bankCode": "AENL",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "AENLNL2G",
     "Bank Name": "AEGON N.V.",
@@ -11184,8 +11184,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AENV",
-    "bankCode": "NL",
+    "bankCode": "AENV",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "AENVNL2G",
     "Bank Name": "AEGON NV",
@@ -11197,8 +11197,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGIU",
-    "bankCode": "NL",
+    "bankCode": "AGIU",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "AGIUNL22",
     "Bank Name": "AGRIFIRM GROUP B.V.",
@@ -11210,8 +11210,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRB",
-    "bankCode": "NL",
+    "bankCode": "AIRB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "AIRBNL22",
     "Bank Name": "AIRBUS SE",
@@ -11223,8 +11223,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AINH",
-    "bankCode": "NL",
+    "bankCode": "AINH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "AINHNL22",
     "Bank Name": "AIRWALLEX (NETHERLANDS) B.V.",
@@ -11236,8 +11236,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AINS",
-    "bankCode": "NL",
+    "bankCode": "AINS",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "AINSNL22",
     "Bank Name": "AIRWALLEX NETHERLANDS STICHTING",
@@ -11249,8 +11249,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKZO",
-    "bankCode": "NL",
+    "bankCode": "AKZO",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "AKZONL2A",
     "Bank Name": "AKZO NOBEL N.V.",
@@ -11262,8 +11262,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGI",
-    "bankCode": "NL",
+    "bankCode": "INGI",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "INGINL2R",
     "Bank Name": "ALTIS INVESTMENT MANAGEMENT B.V.",
@@ -11275,8 +11275,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDL",
-    "bankCode": "NL",
+    "bankCode": "ANDL",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ANDLNL2A",
     "Bank Name": "ANADOLUBANK NEDERLAND N.V.",
@@ -11288,8 +11288,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "L2H",
     "SWIFT Code": "ABPTNL2H",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11301,8 +11301,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "DMA",
     "SWIFT Code": "ABPTNL2HDMA",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11314,8 +11314,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "CTM",
     "SWIFT Code": "ABPTNL2HCTM",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11327,8 +11327,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "EMC",
     "SWIFT Code": "ABPTNL2HEMC",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11340,8 +11340,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "P22",
     "SWIFT Code": "ABPTNL2HP22",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11353,8 +11353,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "AAB",
     "SWIFT Code": "ABPTNL2HAAB",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11366,8 +11366,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "AOS",
     "SWIFT Code": "ABPTNL2HAOS",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11379,8 +11379,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "AOT",
     "SWIFT Code": "ABPTNL2HAOT",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11392,8 +11392,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "LOS",
     "SWIFT Code": "ABPTNL2HLOS",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11405,8 +11405,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "LOT",
     "SWIFT Code": "ABPTNL2HLOT",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11418,8 +11418,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "ACP",
     "SWIFT Code": "ABPTNL2HACP",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11431,8 +11431,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "AIP",
     "SWIFT Code": "ABPTNL2HAIP",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11444,8 +11444,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "DCP",
     "SWIFT Code": "ABPTNL2HDCP",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11457,8 +11457,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "DEM",
     "SWIFT Code": "ABPTNL2HDEM",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11470,8 +11470,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "DME",
     "SWIFT Code": "ABPTNL2HDME",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11483,8 +11483,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "EMD",
     "SWIFT Code": "ABPTNL2HEMD",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11496,8 +11496,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "EME",
     "SWIFT Code": "ABPTNL2HEME",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11509,8 +11509,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "EPT",
     "SWIFT Code": "ABPTNL2HEPT",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11522,8 +11522,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "FIC",
     "SWIFT Code": "ABPTNL2HFIC",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11535,8 +11535,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "HFP",
     "SWIFT Code": "ABPTNL2HHFP",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11548,8 +11548,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "ILB",
     "SWIFT Code": "ABPTNL2HILB",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11561,8 +11561,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "LDT",
     "SWIFT Code": "ABPTNL2HLDT",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11574,8 +11574,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "SRE",
     "SWIFT Code": "ABPTNL2HSRE",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11587,8 +11587,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "TRE",
     "SWIFT Code": "ABPTNL2HTRE",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11600,8 +11600,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "ABP",
     "SWIFT Code": "ABPTNL2HABP",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11613,8 +11613,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "BPF",
     "SWIFT Code": "ABPTNL2HBPF",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11626,8 +11626,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "PPF",
     "SWIFT Code": "ABPTNL2HPPF",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11639,8 +11639,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPT",
-    "bankCode": "NL",
+    "bankCode": "ABPT",
+    "countryCode": "NL",
     "branchCode": "SPW",
     "SWIFT Code": "ABPTNL2HSPW",
     "Bank Name": "APG ASSET MANAGEMENT N.V.",
@@ -11652,8 +11652,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "365",
     "SWIFT Code": "RGVMNL2R365",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11665,8 +11665,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "366",
     "SWIFT Code": "RGVMNL2R366",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11678,8 +11678,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "367",
     "SWIFT Code": "RGVMNL2R367",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11691,8 +11691,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "368",
     "SWIFT Code": "RGVMNL2R368",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11704,8 +11704,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "369",
     "SWIFT Code": "RGVMNL2R369",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11717,8 +11717,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "370",
     "SWIFT Code": "RGVMNL2R370",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11730,8 +11730,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "371",
     "SWIFT Code": "RGVMNL2R371",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11743,8 +11743,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "372",
     "SWIFT Code": "RGVMNL2R372",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11756,8 +11756,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "373",
     "SWIFT Code": "RGVMNL2R373",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11769,8 +11769,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "374",
     "SWIFT Code": "RGVMNL2R374",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11782,8 +11782,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "375",
     "SWIFT Code": "RGVMNL2R375",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11795,8 +11795,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "376",
     "SWIFT Code": "RGVMNL2R376",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11808,8 +11808,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "377",
     "SWIFT Code": "RGVMNL2R377",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11821,8 +11821,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "378",
     "SWIFT Code": "RGVMNL2R378",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11834,8 +11834,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "379",
     "SWIFT Code": "RGVMNL2R379",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11847,8 +11847,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "380",
     "SWIFT Code": "RGVMNL2R380",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11860,8 +11860,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "381",
     "SWIFT Code": "RGVMNL2R381",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11873,8 +11873,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "382",
     "SWIFT Code": "RGVMNL2R382",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11886,8 +11886,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "383",
     "SWIFT Code": "RGVMNL2R383",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11899,8 +11899,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "384",
     "SWIFT Code": "RGVMNL2R384",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11912,8 +11912,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "385",
     "SWIFT Code": "RGVMNL2R385",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11925,8 +11925,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "386",
     "SWIFT Code": "RGVMNL2R386",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11938,8 +11938,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "387",
     "SWIFT Code": "RGVMNL2R387",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11951,8 +11951,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "388",
     "SWIFT Code": "RGVMNL2R388",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11964,8 +11964,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "389",
     "SWIFT Code": "RGVMNL2R389",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11977,8 +11977,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "390",
     "SWIFT Code": "RGVMNL2R390",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -11990,8 +11990,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "KPL",
     "SWIFT Code": "RGVMNL2RKPL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12003,8 +12003,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MEN",
     "SWIFT Code": "RGVMNL2RMEN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12016,8 +12016,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "STB",
     "SWIFT Code": "RGVMNL2RSTB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12029,8 +12029,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "STS",
     "SWIFT Code": "RGVMNL2RSTS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12042,8 +12042,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DOM",
     "SWIFT Code": "RGVMNL2RDOM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12055,8 +12055,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TR2",
     "SWIFT Code": "RGVMNL2RTR2",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12068,8 +12068,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TRI",
     "SWIFT Code": "RGVMNL2RTRI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12081,8 +12081,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "EVO",
     "SWIFT Code": "RGVMNL2REVO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12094,8 +12094,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BAK",
     "SWIFT Code": "RGVMNL2RBAK",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12107,8 +12107,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PEP",
     "SWIFT Code": "RGVMNL2RPEP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12120,8 +12120,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "VL4",
     "SWIFT Code": "RGVMNL2RVL4",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12133,8 +12133,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ATE",
     "SWIFT Code": "RGVMNL2RATE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12146,8 +12146,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DST",
     "SWIFT Code": "RGVMNL2RDST",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12159,8 +12159,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ABL",
     "SWIFT Code": "RGVMNL2RABL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12172,8 +12172,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ANA",
     "SWIFT Code": "RGVMNL2RANA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12185,8 +12185,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LAT",
     "SWIFT Code": "RGVMNL2RLAT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12198,8 +12198,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OBE",
     "SWIFT Code": "RGVMNL2ROBE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12211,8 +12211,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SIO",
     "SWIFT Code": "RGVMNL2RSIO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12224,8 +12224,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SPD",
     "SWIFT Code": "RGVMNL2RSPD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12237,8 +12237,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TRV",
     "SWIFT Code": "RGVMNL2RTRV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12250,8 +12250,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NEW",
     "SWIFT Code": "RGVMNL2RNEW",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12263,8 +12263,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "POP",
     "SWIFT Code": "RGVMNL2RPOP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12276,8 +12276,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AU1",
     "SWIFT Code": "RGVMNL2RAU1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12289,8 +12289,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AU2",
     "SWIFT Code": "RGVMNL2RAU2",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12302,8 +12302,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "NL",
+    "bankCode": "TRIO",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "TRIONL2U",
     "Bank Name": "TRIODOS BANK N.V.",
@@ -12315,8 +12315,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "NL",
+    "bankCode": "TRIO",
+    "countryCode": "NL",
     "branchCode": "L2B",
     "SWIFT Code": "TRIONL2B",
     "Bank Name": "TRIODOS BANK N.V.",
@@ -12328,8 +12328,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "NL",
+    "bankCode": "TRIO",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "TRIONL22",
     "Bank Name": "TRIODOS INVESTMENT MANAGEMENT B.V.",
@@ -12341,8 +12341,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "NL",
+    "bankCode": "TRIO",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "TRIONL2G",
     "Bank Name": "TRIODOS INVESTMENT MANAGEMENT B.V.",
@@ -12354,8 +12354,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGRH",
-    "bankCode": "NL",
+    "bankCode": "TGRH",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "TGRHNL2A",
     "Bank Name": "TSH GROUP HOLDING B.V.",
@@ -12367,8 +12367,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGIH",
-    "bankCode": "NL",
+    "bankCode": "UGIH",
+    "countryCode": "NL",
     "branchCode": "L2G",
     "SWIFT Code": "UGIHNL2G",
     "Bank Name": "UGI INTERNATIONAL HOLDINGS B.V.",
@@ -12380,8 +12380,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "NL",
+    "bankCode": "PANX",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PANXNL22",
     "Bank Name": "UNIFIEDPOST PAYMENTS",
@@ -12393,8 +12393,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFOF",
-    "bankCode": "NL",
+    "bankCode": "BFOF",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "BFOFNL2R",
     "Bank Name": "UNILEVER FINANCE NETHERLANDS B.V.",
@@ -12406,8 +12406,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAT",
-    "bankCode": "NL",
+    "bankCode": "SGAT",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SGATNL2A",
     "Bank Name": "UPFIELD TREASURY B.V.",
@@ -12419,8 +12419,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KECA",
-    "bankCode": "NL",
+    "bankCode": "KECA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "KECANL2A",
     "Bank Name": "VAN LANSCHOT KEMPEN INVESTMENT MANAGEMENT",
@@ -12432,8 +12432,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FVLB",
-    "bankCode": "NL",
+    "bankCode": "FVLB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "FVLBNL22",
     "Bank Name": "VAN LANSCHOT KEMPEN N.V",
@@ -12445,8 +12445,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FVLB",
-    "bankCode": "NL",
+    "bankCode": "FVLB",
+    "countryCode": "NL",
     "branchCode": "AMS",
     "SWIFT Code": "FVLBNL22AMS",
     "Bank Name": "VAN LANSCHOT KEMPEN N.V",
@@ -12458,8 +12458,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEMP",
-    "bankCode": "NL",
+    "bankCode": "KEMP",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "KEMPNL2A",
     "Bank Name": "VAN LANSCHOT KEMPEN N.V.",
@@ -12471,8 +12471,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OORD",
-    "bankCode": "NL",
+    "bankCode": "OORD",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "OORDNL2R",
     "Bank Name": "VAN OORD FINANCE B.V.",
@@ -12484,8 +12484,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAND",
-    "bankCode": "NL",
+    "bankCode": "VAND",
+    "countryCode": "NL",
     "branchCode": "L2V",
     "SWIFT Code": "VANDNL2V",
     "Bank Name": "VANDERLANDE INDUSTRIES B.V.",
@@ -12497,8 +12497,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VELH",
-    "bankCode": "NL",
+    "bankCode": "VELH",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "VELHNL2A",
     "Bank Name": "VELCRO HOLDINGS B.V.",
@@ -12510,8 +12510,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCOS",
-    "bankCode": "NL",
+    "bankCode": "VCOS",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "VCOSNL2A",
     "Bank Name": "VISTRA",
@@ -12523,8 +12523,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCOS",
-    "bankCode": "NL",
+    "bankCode": "VCOS",
+    "countryCode": "NL",
     "branchCode": "DNL",
     "SWIFT Code": "VCOSNL2ADNL",
     "Bank Name": "VISTRA",
@@ -12536,8 +12536,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCOS",
-    "bankCode": "NL",
+    "bankCode": "VCOS",
+    "countryCode": "NL",
     "branchCode": "ESC",
     "SWIFT Code": "VCOSNL2AESC",
     "Bank Name": "VISTRA",
@@ -12549,8 +12549,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTPS",
-    "bankCode": "NL",
+    "bankCode": "VTPS",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "VTPSNL2R",
     "Bank Name": "VITESSE PSP B.V.",
@@ -12562,8 +12562,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "NL",
+    "bankCode": "VPAY",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "VPAYNL22",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. NETHERLANDS BRANCH",
@@ -12575,8 +12575,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VWFS",
-    "bankCode": "NL",
+    "bankCode": "VWFS",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "VWFSNL2R",
     "Bank Name": "VOLKER WESSELS STEVIN FINANCIAL SERVICES BV",
@@ -12588,8 +12588,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTCE",
-    "bankCode": "NL",
+    "bankCode": "VTCE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "VTCENL22",
     "Bank Name": "VTC EUROPE B.V.",
@@ -12601,8 +12601,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTTI",
-    "bankCode": "NL",
+    "bankCode": "VTTI",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "VTTINL2R",
     "Bank Name": "VTTI B.V.",
@@ -12614,8 +12614,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEEH",
-    "bankCode": "NL",
+    "bankCode": "WEEH",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "WEEHNL2R",
     "Bank Name": "WESTLAKE EPOXY HOLDING B.V.",
@@ -12627,8 +12627,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOFT",
-    "bankCode": "NL",
+    "bankCode": "WOFT",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "WOFTNL22",
     "Bank Name": "WORLD FIRST NETHERLANDS B.V.",
@@ -12640,8 +12640,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTSS",
-    "bankCode": "NL",
+    "bankCode": "WTSS",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "WTSSNL2R",
     "Bank Name": "WTSS B.V.",
@@ -12653,8 +12653,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIFX",
-    "bankCode": "NL",
+    "bankCode": "HIFX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "HIFXNL2A",
     "Bank Name": "XE EUROPE B.V.",
@@ -12666,8 +12666,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YABN",
-    "bankCode": "NL",
+    "bankCode": "YABN",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "YABNNL22",
     "Bank Name": "YABANDPAY B.V.",
@@ -12679,8 +12679,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KABA",
-    "bankCode": "NL",
+    "bankCode": "KABA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "KABANL2A",
     "Bank Name": "YAPI KREDI BANK NEDERLAND N.V.",
@@ -12692,8 +12692,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOUR",
-    "bankCode": "NL",
+    "bankCode": "YOUR",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "YOURNL2A",
     "Bank Name": "YOURSAFE B.V.",
@@ -12705,8 +12705,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FROM",
-    "bankCode": "NL",
+    "bankCode": "FROM",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "FROMNL2A",
     "Bank Name": "YOURSAFE B.V.",
@@ -12718,8 +12718,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUSH",
-    "bankCode": "NL",
+    "bankCode": "HUSH",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "HUSHNL2A",
     "Bank Name": "YOURSAFE B.V.",
@@ -12731,8 +12731,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNOW",
-    "bankCode": "NL",
+    "bankCode": "PNOW",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "PNOWNL2A",
     "Bank Name": "YOURSAFE B.V.",
@@ -12744,8 +12744,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GAZ",
     "SWIFT Code": "RGVMNL2RGAZ",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12757,8 +12757,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GEO",
     "SWIFT Code": "RGVMNL2RGEO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12770,8 +12770,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HEL",
     "SWIFT Code": "RGVMNL2RHEL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12783,8 +12783,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "KAM",
     "SWIFT Code": "RGVMNL2RKAM",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12796,8 +12796,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "KAR",
     "SWIFT Code": "RGVMNL2RKAR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12809,8 +12809,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "KOW",
     "SWIFT Code": "RGVMNL2RKOW",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12822,8 +12822,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LEO",
     "SWIFT Code": "RGVMNL2RLEO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12835,8 +12835,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LOT",
     "SWIFT Code": "RGVMNL2RLOT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12848,8 +12848,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MAP",
     "SWIFT Code": "RGVMNL2RMAP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12861,8 +12861,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MIN",
     "SWIFT Code": "RGVMNL2RMIN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12874,8 +12874,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "MOT",
     "SWIFT Code": "RGVMNL2RMOT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12887,8 +12887,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ORB",
     "SWIFT Code": "RGVMNL2RORB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12900,8 +12900,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ORL",
     "SWIFT Code": "RGVMNL2RORL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12913,8 +12913,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PA2",
     "SWIFT Code": "RGVMNL2RPA2",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12926,8 +12926,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PRO",
     "SWIFT Code": "RGVMNL2RPRO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12939,8 +12939,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PVL",
     "SWIFT Code": "RGVMNL2RPVL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12952,8 +12952,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RIN",
     "SWIFT Code": "RGVMNL2RRIN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12965,8 +12965,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RUY",
     "SWIFT Code": "RGVMNL2RRUY",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12978,8 +12978,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SAL",
     "SWIFT Code": "RGVMNL2RSAL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -12991,8 +12991,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SFN",
     "SWIFT Code": "RGVMNL2RSFN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13004,8 +13004,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SUW",
     "SWIFT Code": "RGVMNL2RSUW",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13017,8 +13017,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TAA",
     "SWIFT Code": "RGVMNL2RTAA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13030,8 +13030,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TAN",
     "SWIFT Code": "RGVMNL2RTAN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13043,8 +13043,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UMT",
     "SWIFT Code": "RGVMNL2RUMT",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13056,8 +13056,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "VET",
     "SWIFT Code": "RGVMNL2RVET",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13069,8 +13069,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "VLE",
     "SWIFT Code": "RGVMNL2RVLE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13082,8 +13082,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "VUV",
     "SWIFT Code": "RGVMNL2RVUV",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13095,8 +13095,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "WOO",
     "SWIFT Code": "RGVMNL2RWOO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13108,8 +13108,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "YUC",
     "SWIFT Code": "RGVMNL2RYUC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13121,8 +13121,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "PLS",
     "SWIFT Code": "RGVMNL2RPLS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13134,8 +13134,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ANN",
     "SWIFT Code": "RGVMNL2RANN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13147,8 +13147,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "DIN",
     "SWIFT Code": "RGVMNL2RDIN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13160,8 +13160,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "GAS",
     "SWIFT Code": "RGVMNL2RGAS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13173,8 +13173,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HAU",
     "SWIFT Code": "RGVMNL2RHAU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13186,8 +13186,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "REI",
     "SWIFT Code": "RGVMNL2RREI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13199,8 +13199,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SYC",
     "SWIFT Code": "RGVMNL2RSYC",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13212,8 +13212,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ZEU",
     "SWIFT Code": "RGVMNL2RZEU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13225,8 +13225,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CIN",
     "SWIFT Code": "RGVMNL2RCIN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13238,8 +13238,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "HIP",
     "SWIFT Code": "RGVMNL2RHIP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13251,8 +13251,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CAE",
     "SWIFT Code": "RGVMNL2RCAE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13264,8 +13264,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RRU",
     "SWIFT Code": "RGVMNL2RRRU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13277,8 +13277,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "FLY",
     "SWIFT Code": "RGVMNL2RFLY",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13290,8 +13290,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TRA",
     "SWIFT Code": "RGVMNL2RTRA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13303,8 +13303,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SAA",
     "SWIFT Code": "RGVMNL2RSAA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13316,8 +13316,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ALE",
     "SWIFT Code": "RGVMNL2RALE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13329,8 +13329,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "NEK",
     "SWIFT Code": "RGVMNL2RNEK",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13342,8 +13342,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "REJ",
     "SWIFT Code": "RGVMNL2RREJ",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13355,8 +13355,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RFE",
     "SWIFT Code": "RGVMNL2RRFE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13368,8 +13368,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RFU",
     "SWIFT Code": "RGVMNL2RRFU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13381,8 +13381,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RRE",
     "SWIFT Code": "RGVMNL2RRRE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13394,8 +13394,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R04",
     "SWIFT Code": "RGVMNL2RR04",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13407,8 +13407,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R05",
     "SWIFT Code": "RGVMNL2RR05",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13420,8 +13420,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R06",
     "SWIFT Code": "RGVMNL2RR06",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13433,8 +13433,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R07",
     "SWIFT Code": "RGVMNL2RR07",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13446,8 +13446,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R08",
     "SWIFT Code": "RGVMNL2RR08",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13459,8 +13459,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R45",
     "SWIFT Code": "RGVMNL2RR45",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13472,8 +13472,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R50",
     "SWIFT Code": "RGVMNL2RR50",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13485,8 +13485,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R55",
     "SWIFT Code": "RGVMNL2RR55",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13498,8 +13498,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "R60",
     "SWIFT Code": "RGVMNL2RR60",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13511,8 +13511,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RAF",
     "SWIFT Code": "RGVMNL2RRAF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13524,8 +13524,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RAG",
     "SWIFT Code": "RGVMNL2RRAG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13537,8 +13537,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RBN",
     "SWIFT Code": "RGVMNL2RRBN",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13550,8 +13550,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RCP",
     "SWIFT Code": "RGVMNL2RRCP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13563,8 +13563,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RMI",
     "SWIFT Code": "RGVMNL2RRMI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13576,8 +13576,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RNL",
     "SWIFT Code": "RGVMNL2RRNL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13589,8 +13589,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RO1",
     "SWIFT Code": "RGVMNL2RRO1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13602,8 +13602,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RO3",
     "SWIFT Code": "RGVMNL2RRO3",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13615,8 +13615,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RO4",
     "SWIFT Code": "RGVMNL2RRO4",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13628,8 +13628,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RO5",
     "SWIFT Code": "RGVMNL2RRO5",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13641,8 +13641,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ROB",
     "SWIFT Code": "RGVMNL2RROB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13654,8 +13654,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ROF",
     "SWIFT Code": "RGVMNL2RROF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13667,8 +13667,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ROL",
     "SWIFT Code": "RGVMNL2RROL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13680,8 +13680,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ROP",
     "SWIFT Code": "RGVMNL2RROP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13693,8 +13693,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ROR",
     "SWIFT Code": "RGVMNL2RROR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13706,8 +13706,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RSL",
     "SWIFT Code": "RGVMNL2RRSL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13719,8 +13719,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RTS",
     "SWIFT Code": "RGVMNL2RRTS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13732,8 +13732,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RUB",
     "SWIFT Code": "RGVMNL2RRUB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13745,8 +13745,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RUH",
     "SWIFT Code": "RGVMNL2RRUH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13758,8 +13758,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "RUS",
     "SWIFT Code": "RGVMNL2RRUS",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13771,8 +13771,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SAF",
     "SWIFT Code": "RGVMNL2RSAF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13784,8 +13784,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SC1",
     "SWIFT Code": "RGVMNL2RSC1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13797,8 +13797,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SKA",
     "SWIFT Code": "RGVMNL2RSKA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13810,8 +13810,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SMA",
     "SWIFT Code": "RGVMNL2RSMA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13823,8 +13823,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SPG",
     "SWIFT Code": "RGVMNL2RSPG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13836,8 +13836,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "SUB",
     "SWIFT Code": "RGVMNL2RSUB",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13849,8 +13849,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "TOP",
     "SWIFT Code": "RGVMNL2RTOP",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13862,8 +13862,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UBX",
     "SWIFT Code": "RGVMNL2RUBX",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13875,8 +13875,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UDH",
     "SWIFT Code": "RGVMNL2RUDH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13888,8 +13888,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UIE",
     "SWIFT Code": "RGVMNL2RUIE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13901,8 +13901,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UIH",
     "SWIFT Code": "RGVMNL2RUIH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13914,8 +13914,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UIL",
     "SWIFT Code": "RGVMNL2RUIL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13927,8 +13927,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UMH",
     "SWIFT Code": "RGVMNL2RUMH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13940,8 +13940,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "UPE",
     "SWIFT Code": "RGVMNL2RUPE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13953,8 +13953,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "US3",
     "SWIFT Code": "RGVMNL2RUS3",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13966,8 +13966,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "USF",
     "SWIFT Code": "RGVMNL2RUSF",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13979,8 +13979,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "USL",
     "SWIFT Code": "RGVMNL2RUSL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -13992,8 +13992,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "WOR",
     "SWIFT Code": "RGVMNL2RWOR",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14005,8 +14005,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "YBH",
     "SWIFT Code": "RGVMNL2RYBH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14018,8 +14018,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "061",
     "SWIFT Code": "RGVMNL2R061",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14031,8 +14031,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "062",
     "SWIFT Code": "RGVMNL2R062",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14044,8 +14044,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AU3",
     "SWIFT Code": "RGVMNL2RAU3",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14057,8 +14057,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ERA",
     "SWIFT Code": "RGVMNL2RERA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14070,8 +14070,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OR2",
     "SWIFT Code": "RGVMNL2ROR2",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14083,8 +14083,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OR3",
     "SWIFT Code": "RGVMNL2ROR3",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14096,8 +14096,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "OR4",
     "SWIFT Code": "RGVMNL2ROR4",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14109,8 +14109,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "LON",
     "SWIFT Code": "RGVMNL2RLON",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14122,8 +14122,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "021",
     "SWIFT Code": "RGVMNL2R021",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14135,8 +14135,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "022",
     "SWIFT Code": "RGVMNL2R022",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14148,8 +14148,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "023",
     "SWIFT Code": "RGVMNL2R023",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14161,8 +14161,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "024",
     "SWIFT Code": "RGVMNL2R024",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14174,8 +14174,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "025",
     "SWIFT Code": "RGVMNL2R025",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14187,8 +14187,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "026",
     "SWIFT Code": "RGVMNL2R026",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14200,8 +14200,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "027",
     "SWIFT Code": "RGVMNL2R027",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14213,8 +14213,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "028",
     "SWIFT Code": "RGVMNL2R028",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14226,8 +14226,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "029",
     "SWIFT Code": "RGVMNL2R029",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14239,8 +14239,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "030",
     "SWIFT Code": "RGVMNL2R030",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14252,8 +14252,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "031",
     "SWIFT Code": "RGVMNL2R031",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14265,8 +14265,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "032",
     "SWIFT Code": "RGVMNL2R032",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14278,8 +14278,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "033",
     "SWIFT Code": "RGVMNL2R033",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14291,8 +14291,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "034",
     "SWIFT Code": "RGVMNL2R034",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14304,8 +14304,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "035",
     "SWIFT Code": "RGVMNL2R035",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14317,8 +14317,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "036",
     "SWIFT Code": "RGVMNL2R036",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14330,8 +14330,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "037",
     "SWIFT Code": "RGVMNL2R037",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14343,8 +14343,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "038",
     "SWIFT Code": "RGVMNL2R038",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14356,8 +14356,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "039",
     "SWIFT Code": "RGVMNL2R039",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14369,8 +14369,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "040",
     "SWIFT Code": "RGVMNL2R040",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14382,8 +14382,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "041",
     "SWIFT Code": "RGVMNL2R041",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14395,8 +14395,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "042",
     "SWIFT Code": "RGVMNL2R042",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14408,8 +14408,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "043",
     "SWIFT Code": "RGVMNL2R043",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14421,8 +14421,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "044",
     "SWIFT Code": "RGVMNL2R044",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14434,8 +14434,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "045",
     "SWIFT Code": "RGVMNL2R045",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14447,8 +14447,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "046",
     "SWIFT Code": "RGVMNL2R046",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14460,8 +14460,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "047",
     "SWIFT Code": "RGVMNL2R047",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14473,8 +14473,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "048",
     "SWIFT Code": "RGVMNL2R048",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14486,8 +14486,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "049",
     "SWIFT Code": "RGVMNL2R049",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14499,8 +14499,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "050",
     "SWIFT Code": "RGVMNL2R050",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14512,8 +14512,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "AS1",
     "SWIFT Code": "RGVMNL2RAS1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14525,8 +14525,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ASG",
     "SWIFT Code": "RGVMNL2RASG",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14538,8 +14538,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "ASU",
     "SWIFT Code": "RGVMNL2RASU",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14551,8 +14551,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BAL",
     "SWIFT Code": "RGVMNL2RBAL",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14564,8 +14564,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BLA",
     "SWIFT Code": "RGVMNL2RBLA",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14577,8 +14577,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "BPD",
     "SWIFT Code": "RGVMNL2RBPD",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14590,8 +14590,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CCE",
     "SWIFT Code": "RGVMNL2RCCE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14603,8 +14603,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CCO",
     "SWIFT Code": "RGVMNL2RCCO",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14616,8 +14616,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CDE",
     "SWIFT Code": "RGVMNL2RCDE",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14629,8 +14629,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CE1",
     "SWIFT Code": "RGVMNL2RCE1",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14642,8 +14642,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CE7",
     "SWIFT Code": "RGVMNL2RCE7",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14655,8 +14655,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CE8",
     "SWIFT Code": "RGVMNL2RCE8",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14668,8 +14668,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CEH",
     "SWIFT Code": "RGVMNL2RCEH",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14681,8 +14681,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "CGI",
     "SWIFT Code": "RGVMNL2RCGI",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -14694,8 +14694,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLU",
-    "bankCode": "NL",
+    "bankCode": "MOLU",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "MOLUNL22",
     "Bank Name": "3S MONEY CLUB LIMITED",
@@ -14707,8 +14707,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AALB",
-    "bankCode": "NL",
+    "bankCode": "AALB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "AALBNL22",
     "Bank Name": "AALBERTS N.V.",
@@ -14720,8 +14720,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "PIP",
     "SWIFT Code": "ABNANL2APIP",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14733,8 +14733,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "SFI",
     "SWIFT Code": "ABNANL2ASFI",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14746,8 +14746,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "MEL",
     "SWIFT Code": "ABNANL2AMEL",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14759,8 +14759,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "SOB",
     "SWIFT Code": "ABNANL2ASOB",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14772,8 +14772,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "WSS",
     "SWIFT Code": "ABNANL2AWSS",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14785,8 +14785,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ABNANL2A",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14798,8 +14798,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "CIT",
     "SWIFT Code": "ABNANL2ACIT",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14811,8 +14811,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "ALC",
     "SWIFT Code": "ABNANL2AALC",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14824,8 +14824,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "RET",
     "SWIFT Code": "ABNANL2ARET",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14837,8 +14837,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "COL",
     "SWIFT Code": "ABNANL2ACOL",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14850,8 +14850,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "MAR",
     "SWIFT Code": "ABNANL2AMAR",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14863,8 +14863,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "NL",
+    "bankCode": "ABNA",
+    "countryCode": "NL",
     "branchCode": "AGS",
     "SWIFT Code": "ABNANL2AAGS",
     "Bank Name": "ABN AMRO BANK N.V.",
@@ -14876,8 +14876,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ABNCNL2A",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14889,8 +14889,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "RA1",
     "SWIFT Code": "ABNCNL2ARA1",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14902,8 +14902,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "BIN",
     "SWIFT Code": "ABNCNL2ABIN",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14915,8 +14915,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "ECP",
     "SWIFT Code": "ABNCNL2AECP",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14928,8 +14928,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "FLR",
     "SWIFT Code": "ABNCNL2AFLR",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14941,8 +14941,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "BUX",
     "SWIFT Code": "ABNCNL2ABUX",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14954,8 +14954,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "NL",
+    "bankCode": "GEBA",
+    "countryCode": "NL",
     "branchCode": "LKA",
     "SWIFT Code": "GEBANLKA",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14967,8 +14967,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "COI",
     "SWIFT Code": "ABNCNL2ACOI",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14980,8 +14980,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "COO",
     "SWIFT Code": "ABNCNL2ACOO",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -14993,8 +14993,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "JFD",
     "SWIFT Code": "ABNCNL2AJFD",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15006,8 +15006,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "JFB",
     "SWIFT Code": "ABNCNL2AJFB",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15019,8 +15019,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "NL",
+    "bankCode": "GEBA",
+    "countryCode": "NL",
     "branchCode": "LKB",
     "SWIFT Code": "GEBANLKB",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15032,8 +15032,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "NL",
+    "bankCode": "GEBA",
+    "countryCode": "NL",
     "branchCode": "LKC",
     "SWIFT Code": "GEBANLKC",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15045,8 +15045,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "NL",
+    "bankCode": "GEBA",
+    "countryCode": "NL",
     "branchCode": "LKG",
     "SWIFT Code": "GEBANLKG",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15058,8 +15058,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "NL",
+    "bankCode": "GEBA",
+    "countryCode": "NL",
     "branchCode": "LKH",
     "SWIFT Code": "GEBANLKH",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15071,8 +15071,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "SYD",
     "SWIFT Code": "ABNCNL2ASYD",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15084,8 +15084,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "USA",
     "SWIFT Code": "ABNCNL2AUSA",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15097,8 +15097,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "FGI",
     "SWIFT Code": "ABNCNL2AFGI",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15110,8 +15110,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "LIG",
     "SWIFT Code": "ABNCNL2ALIG",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15123,8 +15123,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "SYN",
     "SWIFT Code": "ABNCNL2ASYN",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15136,8 +15136,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "FLA",
     "SWIFT Code": "ABNCNL2AFLA",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15149,8 +15149,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "INV",
     "SWIFT Code": "ABNCNL2AINV",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15162,8 +15162,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "SBL",
     "SWIFT Code": "ABNCNL2ASBL",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15175,8 +15175,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "COL",
     "SWIFT Code": "ABNCNL2ACOL",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15188,8 +15188,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "CBC",
     "SWIFT Code": "ABNCNL2ACBC",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15201,8 +15201,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "CUS",
     "SWIFT Code": "ABNCNL2ACUS",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15214,8 +15214,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "ENE",
     "SWIFT Code": "ABNCNL2AENE",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15227,8 +15227,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "FND",
     "SWIFT Code": "ABNCNL2AFND",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15240,8 +15240,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "ISA",
     "SWIFT Code": "ABNCNL2AISA",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15253,8 +15253,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "FOR",
     "SWIFT Code": "ABNCNL2AFOR",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15266,8 +15266,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "NPL",
     "SWIFT Code": "ABNCNL2ANPL",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15279,8 +15279,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "TBD",
     "SWIFT Code": "ABNCNL2ATBD",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15292,8 +15292,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "ABC",
     "SWIFT Code": "ABNCNL2AABC",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15305,8 +15305,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "GIR",
     "SWIFT Code": "ABNCNL2AGIR",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15318,8 +15318,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "HCH",
     "SWIFT Code": "ABNCNL2AHCH",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15331,8 +15331,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "NL",
+    "bankCode": "ABNC",
+    "countryCode": "NL",
     "branchCode": "LLX",
     "SWIFT Code": "ABNCNL2ALLX",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -15344,8 +15344,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGLO",
-    "bankCode": "NL",
+    "bankCode": "PGLO",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "PGLONL2A",
     "Bank Name": "PAYU GLOBAL B.V.",
@@ -15357,8 +15357,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFE",
-    "bankCode": "NL",
+    "bankCode": "SPFE",
+    "countryCode": "NL",
     "branchCode": "SPF",
     "SWIFT Code": "SPFENL2USPF",
     "Bank Name": "PENSIOENFONDS RAIL AND OV",
@@ -15370,8 +15370,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFE",
-    "bankCode": "NL",
+    "bankCode": "SPFE",
+    "countryCode": "NL",
     "branchCode": "SPV",
     "SWIFT Code": "SPFENL2USPV",
     "Bank Name": "PENSIOENFONDS RAIL AND OV",
@@ -15383,8 +15383,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFE",
-    "bankCode": "NL",
+    "bankCode": "SPFE",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "SPFENL2U",
     "Bank Name": "PENSIOENFONDS RAIL AND OV",
@@ -15396,8 +15396,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEAI",
-    "bankCode": "NL",
+    "bankCode": "PEAI",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PEAINL22",
     "Bank Name": "PENSIOENFONDS VOOR DE ARCHITECTENBU",
@@ -15409,8 +15409,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEMH",
-    "bankCode": "NL",
+    "bankCode": "PEMH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PEMHNL22",
     "Bank Name": "PERFETTI VAN MELLE HOLDING B.V.",
@@ -15422,8 +15422,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGGM",
-    "bankCode": "NL",
+    "bankCode": "PGGM",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PGGMNL22",
     "Bank Name": "PGGM VERMOGENSBEHEER B.V.",
@@ -15435,8 +15435,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDAH",
-    "bankCode": "NL",
+    "bankCode": "PDAH",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "PDAHNL2E",
     "Bank Name": "PHILIPS DOMESTIC APPLIANCES HOLDING B.V.",
@@ -15448,8 +15448,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLCA",
-    "bankCode": "NL",
+    "bankCode": "PLCA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "PLCANL2A",
     "Bank Name": "PLAYA CARIBE HOLDING I BV",
@@ -15461,8 +15461,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PONH",
-    "bankCode": "NL",
+    "bankCode": "PONH",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PONHNL22",
     "Bank Name": "PON HOLDINGS B.V.",
@@ -15474,8 +15474,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPGI",
-    "bankCode": "NL",
+    "bankCode": "PPGI",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "PPGINL22",
     "Bank Name": "PPG FINANCE B.V.",
@@ -15487,8 +15487,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PVHE",
-    "bankCode": "NL",
+    "bankCode": "PVHE",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "PVHENL2A",
     "Bank Name": "PVH EUROPE B.V.",
@@ -15500,8 +15500,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QPAK",
-    "bankCode": "NL",
+    "bankCode": "QPAK",
+    "countryCode": "NL",
     "branchCode": "L2M",
     "SWIFT Code": "QPAKNL2M",
     "Bank Name": "Q-PARK B.V.",
@@ -15513,8 +15513,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "L2U",
     "SWIFT Code": "RABONL2U",
     "Bank Name": "RABOBANK",
@@ -15526,8 +15526,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "CLS",
     "SWIFT Code": "RABONL2UCLS",
     "Bank Name": "RABOBANK",
@@ -15539,8 +15539,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "BRO",
     "SWIFT Code": "RABONL2UBRO",
     "Bank Name": "RABOBANK",
@@ -15552,8 +15552,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "IBS",
     "SWIFT Code": "RABONL2UIBS",
     "Bank Name": "RABOBANK",
@@ -15565,8 +15565,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "PBO",
     "SWIFT Code": "RABONL2UPBO",
     "Bank Name": "RABOBANK",
@@ -15578,8 +15578,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "SCR",
     "SWIFT Code": "RABONL2USCR",
     "Bank Name": "RABOBANK",
@@ -15591,8 +15591,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "CLT",
     "SWIFT Code": "RABONL2UCLT",
     "Bank Name": "RABOBANK",
@@ -15604,8 +15604,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "RSA",
     "SWIFT Code": "RABONL2URSA",
     "Bank Name": "RABOBANK",
@@ -15617,8 +15617,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "UEF",
     "SWIFT Code": "RABONL2UUEF",
     "Bank Name": "RABOBANK",
@@ -15630,8 +15630,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NL",
+    "bankCode": "RABO",
+    "countryCode": "NL",
     "branchCode": "MKT",
     "SWIFT Code": "RABONL2UMKT",
     "Bank Name": "RABOBANK",
@@ -15643,8 +15643,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RADT",
-    "bankCode": "NL",
+    "bankCode": "RADT",
+    "countryCode": "NL",
     "branchCode": "L2D",
     "SWIFT Code": "RADTNL2D",
     "Bank Name": "RANDSTAD N.V.",
@@ -15656,8 +15656,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VGWG",
-    "bankCode": "NL",
+    "bankCode": "VGWG",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "VGWGNL2E",
     "Bank Name": "RENEWI SUPPORT BV",
@@ -15669,8 +15669,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "NL",
+    "bankCode": "REVO",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "REVONL22",
     "Bank Name": "REVOLUT BANK UAB NETHERLANDS BRANCH",
@@ -15682,8 +15682,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIWL",
-    "bankCode": "NL",
+    "bankCode": "RIWL",
+    "countryCode": "NL",
     "branchCode": "L2D",
     "SWIFT Code": "RIWLNL2D",
     "Bank Name": "RIWAL FINANCE B.V.",
@@ -15695,8 +15695,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "142",
     "SWIFT Code": "RGVMNL2R142",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15708,8 +15708,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "143",
     "SWIFT Code": "RGVMNL2R143",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15721,8 +15721,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "144",
     "SWIFT Code": "RGVMNL2R144",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15734,8 +15734,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "145",
     "SWIFT Code": "RGVMNL2R145",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15747,8 +15747,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "146",
     "SWIFT Code": "RGVMNL2R146",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15760,8 +15760,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "147",
     "SWIFT Code": "RGVMNL2R147",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15773,8 +15773,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "148",
     "SWIFT Code": "RGVMNL2R148",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15786,8 +15786,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "149",
     "SWIFT Code": "RGVMNL2R149",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15799,8 +15799,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "150",
     "SWIFT Code": "RGVMNL2R150",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15812,8 +15812,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "151",
     "SWIFT Code": "RGVMNL2R151",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15825,8 +15825,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "152",
     "SWIFT Code": "RGVMNL2R152",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15838,8 +15838,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "153",
     "SWIFT Code": "RGVMNL2R153",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15851,8 +15851,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "154",
     "SWIFT Code": "RGVMNL2R154",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15864,8 +15864,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "155",
     "SWIFT Code": "RGVMNL2R155",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15877,8 +15877,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "156",
     "SWIFT Code": "RGVMNL2R156",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15890,8 +15890,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "157",
     "SWIFT Code": "RGVMNL2R157",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15903,8 +15903,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "158",
     "SWIFT Code": "RGVMNL2R158",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15916,8 +15916,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "159",
     "SWIFT Code": "RGVMNL2R159",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15929,8 +15929,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "160",
     "SWIFT Code": "RGVMNL2R160",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15942,8 +15942,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "161",
     "SWIFT Code": "RGVMNL2R161",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15955,8 +15955,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "162",
     "SWIFT Code": "RGVMNL2R162",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15968,8 +15968,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "163",
     "SWIFT Code": "RGVMNL2R163",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15981,8 +15981,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGVM",
-    "bankCode": "NL",
+    "bankCode": "RGVM",
+    "countryCode": "NL",
     "branchCode": "164",
     "SWIFT Code": "RGVMNL2R164",
     "Bank Name": "ROBECO INSTITUTIONAL ASSET MANAGEMENT B.V.",
@@ -15994,8 +15994,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNKN",
-    "bankCode": "NL",
+    "bankCode": "HNKN",
+    "countryCode": "NL",
     "branchCode": "RW1",
     "SWIFT Code": "HNKNNL2ARW1",
     "Bank Name": "HEINEKEN INTERNATIONAL B.V.",
@@ -16007,8 +16007,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBIG",
-    "bankCode": "NL",
+    "bankCode": "CBIG",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "CBIGNL2A",
     "Bank Name": "HITACHI ASTEMO NETHERLANDS B.V.",
@@ -16020,8 +16020,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOGR",
-    "bankCode": "NL",
+    "bankCode": "HOGR",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "HOGRNL22",
     "Bank Name": "HOOGWEGT GROUP B.V.",
@@ -16033,8 +16033,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NL",
+    "bankCode": "HSBC",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "HSBCNL2A",
     "Bank Name": "HSBC CONTINENTAL EUROPE, THE NETHERLANDS",
@@ -16046,8 +16046,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NL",
+    "bankCode": "HSBC",
+    "countryCode": "NL",
     "branchCode": "SDD",
     "SWIFT Code": "HSBCNL2ASDD",
     "Bank Name": "HSBC CONTINENTAL EUROPE, THE NETHERLANDS",
@@ -16059,8 +16059,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDOH",
-    "bankCode": "NL",
+    "bankCode": "HDOH",
+    "countryCode": "NL",
     "branchCode": "L2R",
     "SWIFT Code": "HDOHNL2R",
     "Bank Name": "HUNTER DOUGLAS HOLDING B.V.",
@@ -16072,8 +16072,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPE",
-    "bankCode": "NL",
+    "bankCode": "HYPE",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "HYPENL22",
     "Bank Name": "HYPERWORKX B.V.",
@@ -16085,8 +16085,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FXBB",
-    "bankCode": "NL",
+    "bankCode": "FXBB",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "FXBBNL22",
     "Bank Name": "IBANFIRST",
@@ -16098,8 +16098,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCHA",
-    "bankCode": "NL",
+    "bankCode": "HCHA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "HCHANL2A",
     "Bank Name": "ICE CLEAR NETHERLANDS B.V.",
@@ -16111,8 +16111,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCHA",
-    "bankCode": "NL",
+    "bankCode": "HCHA",
+    "countryCode": "NL",
     "branchCode": "L2B",
     "SWIFT Code": "HCHANL2B",
     "Bank Name": "ICE CLEAR NETHERLANDS B.V.",
@@ -16124,8 +16124,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICFN",
-    "bankCode": "NL",
+    "bankCode": "ICFN",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ICFNNL2A",
     "Bank Name": "ICL FINANCE BV",
@@ -16137,8 +16137,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "NL",
+    "bankCode": "ICBK",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ICBKNL2A",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A. AMSTERDAM BRANCH",
@@ -16150,8 +16150,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "CLS",
     "SWIFT Code": "INGBNL2ACLS",
     "Bank Name": "ING BANK N.V.",
@@ -16163,8 +16163,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "INGBNL2A",
     "Bank Name": "ING BANK N.V.",
@@ -16176,8 +16176,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "BTA",
     "SWIFT Code": "INGBNL2ABTA",
     "Bank Name": "ING BANK N.V.",
@@ -16189,8 +16189,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "L2S",
     "SWIFT Code": "INGBNL2S",
     "Bank Name": "ING BANK N.V.",
@@ -16202,8 +16202,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "L2C",
     "SWIFT Code": "INGBNL2C",
     "Bank Name": "ING BANK N.V.",
@@ -16215,8 +16215,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "FSS",
     "SWIFT Code": "INGBNL2SFSS",
     "Bank Name": "ING BANK N.V.",
@@ -16228,8 +16228,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "ICM",
     "SWIFT Code": "INGBNL2AICM",
     "Bank Name": "ING BANK N.V.",
@@ -16241,8 +16241,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "WIA",
     "SWIFT Code": "INGBNL2SWIA",
     "Bank Name": "ING BANK N.V.",
@@ -16254,8 +16254,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "PAS",
     "SWIFT Code": "INGBNL2SPAS",
     "Bank Name": "ING BANK N.V.",
@@ -16267,8 +16267,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "SMK",
     "SWIFT Code": "INGBNL2SSMK",
     "Bank Name": "ING BANK N.V.",
@@ -16280,8 +16280,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "LMI",
     "SWIFT Code": "INGBNL2ALMI",
     "Bank Name": "ING BANK N.V.",
@@ -16293,8 +16293,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "GPC",
     "SWIFT Code": "INGBNL2AGPC",
     "Bank Name": "ING BANK N.V.",
@@ -16306,8 +16306,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "NL",
+    "bankCode": "INGB",
+    "countryCode": "NL",
     "branchCode": "TSU",
     "SWIFT Code": "INGBNL2ATSU",
     "Bank Name": "ING BANK N.V.",
@@ -16319,8 +16319,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GILL",
-    "bankCode": "NL",
+    "bankCode": "GILL",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "GILLNL2A",
     "Bank Name": "INSINGERGILISSEN, A QUINTET PRIVATE BANK (EUROPE) S.A. BRANCH",
@@ -16332,8 +16332,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIKT",
-    "bankCode": "NL",
+    "bankCode": "IIKT",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "IIKTNL22",
     "Bank Name": "INTER IKEA TREASURY B.V.",
@@ -16345,8 +16345,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITFH",
-    "bankCode": "NL",
+    "bankCode": "ITFH",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "ITFHNL2E",
     "Bank Name": "INTERFOOD HOLDING B.V.",
@@ -16358,8 +16358,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INTT",
-    "bankCode": "NL",
+    "bankCode": "INTT",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "INTTNL2A",
     "Bank Name": "INTERTRUST (NETHERLANDS) B.V.",
@@ -16371,8 +16371,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGRP",
-    "bankCode": "NL",
+    "bankCode": "IGRP",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "IGRPNL2A",
     "Bank Name": "INTERTRUST GROUP B.V.",
@@ -16384,8 +16384,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "NL",
+    "bankCode": "BCIT",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "BCITNL2A",
     "Bank Name": "INTESA SANPAOLO S.P.A. AMSTERDAM BRANCH",
@@ -16397,8 +16397,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGGA",
-    "bankCode": "NL",
+    "bankCode": "SGGA",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "SGGANL2A",
     "Bank Name": "IQ EQ NETHERLANDS N.V.",
@@ -16410,8 +16410,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "NL",
+    "bankCode": "ISBK",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "ISBKNL2A",
     "Bank Name": "ISBANK AG, AMSTERDAM BRANCH",
@@ -16423,8 +16423,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "NL",
+    "bankCode": "ISBK",
+    "countryCode": "NL",
     "branchCode": "AMS",
     "SWIFT Code": "ISBKNL2AAMS",
     "Bank Name": "ISBANK AG, AMSTERDAM BRANCH",
@@ -16436,8 +16436,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "NL",
+    "bankCode": "CHAS",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "CHASNL2X",
     "Bank Name": "J.P. MORGAN SE AMSTERDAM BRANCH",
@@ -16449,8 +16449,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "NL",
+    "bankCode": "CHAS",
+    "countryCode": "NL",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASNL2XENQ",
     "Bank Name": "J.P. MORGAN SE AMSTERDAM BRANCH",
@@ -16462,8 +16462,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JUTE",
-    "bankCode": "NL",
+    "bankCode": "JUTE",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "JUTENL2A",
     "Bank Name": "JUMP TRADING EUROPE B.V.",
@@ -16475,8 +16475,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JUTU",
-    "bankCode": "NL",
+    "bankCode": "JUTU",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "JUTUNL22",
     "Bank Name": "JUMP TRADING EUROPE B.V.",
@@ -16488,8 +16488,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JUTR",
-    "bankCode": "NL",
+    "bankCode": "JUTR",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "JUTRNL22",
     "Bank Name": "JUMP TRADING EUROPE B.V.",
@@ -16501,8 +16501,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "NL",
+    "bankCode": "KRED",
+    "countryCode": "NL",
     "branchCode": "L2X",
     "SWIFT Code": "KREDNL2X",
     "Bank Name": "KBC BANK NV NEDERLAND",
@@ -16514,8 +16514,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "NL",
+    "bankCode": "KOEX",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "KOEXNL2A",
     "Bank Name": "KEB HANA BANK, AMSTERDAM BRANCH",
@@ -16527,8 +16527,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLMT",
-    "bankCode": "NL",
+    "bankCode": "KLMT",
+    "countryCode": "NL",
     "branchCode": "L2A",
     "SWIFT Code": "KLMTNL2A",
     "Bank Name": "KLM ROYAL DUTCH AIRLINES",
@@ -16540,8 +16540,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KNAB",
-    "bankCode": "NL",
+    "bankCode": "KNAB",
+    "countryCode": "NL",
     "branchCode": "L2H",
     "SWIFT Code": "KNABNL2H",
     "Bank Name": "KNAB",
@@ -16553,8 +16553,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHOL",
-    "bankCode": "NL",
+    "bankCode": "AHOL",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "AHOLNL22",
     "Bank Name": "KONINKLIJKE AHOLD DELHAIZE N.V.",
@@ -16566,8 +16566,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOKA",
-    "bankCode": "NL",
+    "bankCode": "BOKA",
+    "countryCode": "NL",
     "branchCode": "L22",
     "SWIFT Code": "BOKANL22",
     "Bank Name": "KONINKLIJKE BOSKALIS WESTMINSTER N.V.",
@@ -16579,8 +16579,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDSM",
-    "bankCode": "NL",
+    "bankCode": "KDSM",
+    "countryCode": "NL",
     "branchCode": "BEL",
     "SWIFT Code": "KDSMNL2HBEL",
     "Bank Name": "KONINKLIJKE DSM N.V.",
@@ -16592,8 +16592,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDSM",
-    "bankCode": "NL",
+    "bankCode": "KDSM",
+    "countryCode": "NL",
     "branchCode": "NLD",
     "SWIFT Code": "KDSMNL2HNLD",
     "Bank Name": "KONINKLIJKE DSM N.V.",
@@ -16605,8 +16605,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDSM",
-    "bankCode": "NL",
+    "bankCode": "KDSM",
+    "countryCode": "NL",
     "branchCode": "L2H",
     "SWIFT Code": "KDSMNL2H",
     "Bank Name": "KONINKLIJKE DSM N.V.",
@@ -16618,8 +16618,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOPL",
-    "bankCode": "NL",
+    "bankCode": "KOPL",
+    "countryCode": "NL",
     "branchCode": "L2E",
     "SWIFT Code": "KOPLNL2E",
     "Bank Name": "KONINKLIJKE PHILIPS N.V.",
@@ -16631,8 +16631,8 @@ const netherlands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPLN",
-    "bankCode": "NL",
+    "bankCode": "LPLN",
+    "countryCode": "NL",
     "branchCode": "L2L",
     "SWIFT Code": "LPLNNL2L",
     "Bank Name": "LEASEPLAN CORPORATION N.V.",

@@ -1,7 +1,7 @@
 const angola = [
   {
-    "countryCode": "BAIP",
-    "bankCode": "AO",
+    "bankCode": "BAIP",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BAIPAOLU",
     "Bank Name": "BANCO ANGOLANO DE INVESTIMENTOS, SA",
@@ -13,8 +13,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANCE",
-    "bankCode": "AO",
+    "bankCode": "ANCE",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "ANCEAOLU",
     "Bank Name": "BANCO ANGOLANO NEGOCIOS E COMERCIO",
@@ -26,8 +26,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCB",
-    "bankCode": "AO",
+    "bankCode": "BCCB",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BCCBAOLU",
     "Bank Name": "BANCO BIC, S.A.",
@@ -39,8 +39,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCGA",
-    "bankCode": "AO",
+    "bankCode": "BCGA",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BCGAAOLU",
     "Bank Name": "BANCO CAIXA GERAL DE ANGOLA",
@@ -52,8 +52,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COML",
-    "bankCode": "AO",
+    "bankCode": "COML",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "COMLAOLU",
     "Bank Name": "BANCO COMERCIAL ANGOLANO",
@@ -65,8 +65,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCHU",
-    "bankCode": "AO",
+    "bankCode": "BCHU",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BCHUAOLU",
     "Bank Name": "BANCO COMERCIAL DO HUAMBO",
@@ -78,8 +78,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAA",
-    "bankCode": "AO",
+    "bankCode": "BDAA",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BDAAAOLU",
     "Bank Name": "BANCO DE DESENVOLVIMENTO DE ANGOLA",
@@ -91,8 +91,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFMX",
-    "bankCode": "AO",
+    "bankCode": "BFMX",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BFMXAOLU",
     "Bank Name": "BANCO DE FOMENTO ANGOLA, S.A.",
@@ -104,8 +104,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIRV",
-    "bankCode": "AO",
+    "bankCode": "BIRV",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BIRVAOLU",
     "Bank Name": "BANCO DE INVESTIMENTO RURAL, S.A.",
@@ -117,8 +117,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIC",
-    "bankCode": "AO",
+    "bankCode": "BNIC",
+    "countryCode": "AO",
     "branchCode": "052",
     "SWIFT Code": "BNICAOLU052",
     "Bank Name": "BANCO DE NEGOCIOS INTERNACIONAL",
@@ -130,8 +130,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIC",
-    "bankCode": "AO",
+    "bankCode": "BNIC",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BNICAOLU",
     "Bank Name": "BANCO DE NEGOCIOS INTERNACIONAL",
@@ -143,8 +143,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "AO",
+    "bankCode": "BESC",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BESCAOLU",
     "Bank Name": "BANCO ECONOMICO, S.A.",
@@ -156,8 +156,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRDK",
-    "bankCode": "AO",
+    "bankCode": "BRDK",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BRDKAOLU",
     "Bank Name": "BANCO KEVE, SA",
@@ -169,8 +169,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUAD",
-    "bankCode": "AO",
+    "bankCode": "PUAD",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "PUADAOLU",
     "Bank Name": "BANCO MAIS, S.A.",
@@ -182,8 +182,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRTL",
-    "bankCode": "AO",
+    "bankCode": "PRTL",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "PRTLAOLU",
     "Bank Name": "BANCO MILLENNIUM ATLANTICO, S.A.",
@@ -195,8 +195,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAN",
-    "bankCode": "AO",
+    "bankCode": "BNAN",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BNANAOLU",
     "Bank Name": "BANCO NACIONAL DE ANGOLA",
@@ -208,8 +208,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAN",
-    "bankCode": "AO",
+    "bankCode": "BNAN",
+    "countryCode": "AO",
     "branchCode": "OLD",
     "SWIFT Code": "BNANAOLD",
     "Bank Name": "BANCO NACIONAL DE ANGOLA",
@@ -221,8 +221,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAN",
-    "bankCode": "AO",
+    "bankCode": "BNAN",
+    "countryCode": "AO",
     "branchCode": "975",
     "SWIFT Code": "BNANAOLU975",
     "Bank Name": "BANCO NACIONAL DE ANGOLA",
@@ -234,8 +234,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POTA",
-    "bankCode": "AO",
+    "bankCode": "POTA",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "POTAAOLU",
     "Bank Name": "BANCO POSTAL, S.A.",
@@ -247,8 +247,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRTS",
-    "bankCode": "AO",
+    "bankCode": "PRTS",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "PRTSAOLU",
     "Bank Name": "BANCO PRESTIGIO, SA.",
@@ -260,8 +260,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOLO",
-    "bankCode": "AO",
+    "bankCode": "SOLO",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "SOLOAOLU",
     "Bank Name": "BANCO SOL, S.A.",
@@ -273,8 +273,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BVBX",
-    "bankCode": "AO",
+    "bankCode": "BVBX",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BVBXAOLU",
     "Bank Name": "BANCO VALOR BANK",
@@ -286,8 +286,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTBL",
-    "bankCode": "AO",
+    "bankCode": "VTBL",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "VTBLAOLU",
     "Bank Name": "BANCO VTB AFRICA, S.A.",
@@ -299,8 +299,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YETU",
-    "bankCode": "AO",
+    "bankCode": "YETU",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "YETUAOLU",
     "Bank Name": "BANCO YETU, S.A.",
@@ -312,8 +312,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AO",
+    "bankCode": "BKCH",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BKCHAOLU",
     "Bank Name": "BANK OF CHINA LIMITED LUANDA BRANCH",
@@ -325,8 +325,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCID",
-    "bankCode": "AO",
+    "bankCode": "BCID",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BCIDAOLU",
     "Bank Name": "BCI - BANCO DE COMERCIO E INDUSTRIA",
@@ -338,8 +338,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDTS",
-    "bankCode": "AO",
+    "bankCode": "CDTS",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "CDTSAOLU",
     "Bank Name": "BCS - BANCO DE CREDITO DO SUL, S.A.",
@@ -351,8 +351,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDVA",
-    "bankCode": "AO",
+    "bankCode": "BDVA",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BDVAAOLU",
     "Bank Name": "BOLSA DE DIVIDA E VALORES DE ANGOLA BODIVA SOCIEDADE GESTORA DE MERCADOS REGULAMENTADOS SA",
@@ -364,8 +364,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCL",
-    "bankCode": "AO",
+    "bankCode": "BPCL",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "BPCLAOLU",
     "Bank Name": "BPC-BANCO DE POUPANCA E CREDITO",
@@ -377,8 +377,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBCO",
-    "bankCode": "AO",
+    "bankCode": "FBCO",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "FBCOAOLU",
     "Bank Name": "FINIBANCO ANGOLA S.A",
@@ -390,8 +390,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "AO",
+    "bankCode": "SBIC",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "SBICAOLU",
     "Bank Name": "STANDARD BANK DE ANGOLA S.A.",
@@ -403,8 +403,8 @@ const angola = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AO",
+    "bankCode": "SCBL",
+    "countryCode": "AO",
     "branchCode": "OLU",
     "SWIFT Code": "SCBLAOLU",
     "Bank Name": "STANDARD CHARTERED BANK ANGOLA SA",

@@ -1,7 +1,7 @@
 const namibia = [
   {
-    "countryCode": "BAPA",
-    "bankCode": "NA",
+    "bankCode": "BAPA",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "BAPANANX",
     "Bank Name": "BANCO PRIVADO ATLANTICO - EUROPA S.A., NAMIBIA BRANCH",
@@ -13,8 +13,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBNL",
-    "bankCode": "NA",
+    "bankCode": "BBNL",
+    "countryCode": "NA",
     "branchCode": "ANA",
     "SWIFT Code": "BBNLNANA",
     "Bank Name": "BANK BIC NAMIBIA LIMITED",
@@ -26,8 +26,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKN",
-    "bankCode": "NA",
+    "bankCode": "CBKN",
+    "countryCode": "NA",
     "branchCode": "ANB",
     "SWIFT Code": "CBKNNANB",
     "Bank Name": "BANK OF NAMIBIA",
@@ -39,8 +39,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKN",
-    "bankCode": "NA",
+    "bankCode": "CBKN",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "CBKNNANX",
     "Bank Name": "BANK OF NAMIBIA",
@@ -52,8 +52,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKN",
-    "bankCode": "NA",
+    "bankCode": "CBKN",
+    "countryCode": "NA",
     "branchCode": "ANA",
     "SWIFT Code": "CBKNNANA",
     "Bank Name": "BANK OF NAMIBIA",
@@ -65,8 +65,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKN",
-    "bankCode": "NA",
+    "bankCode": "CBKN",
+    "countryCode": "NA",
     "branchCode": "PCH",
     "SWIFT Code": "CBKNNANAPCH",
     "Bank Name": "BANK OF NAMIBIA",
@@ -78,8 +78,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BWLI",
-    "bankCode": "NA",
+    "bankCode": "BWLI",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "BWLINANX",
     "Bank Name": "BANK WINDHOEK LIMITED",
@@ -91,8 +91,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BWLI",
-    "bankCode": "NA",
+    "bankCode": "BWLI",
+    "countryCode": "NA",
     "branchCode": "CHM",
     "SWIFT Code": "BWLINANXCHM",
     "Bank Name": "BANK WINDHOEK LIMITED",
@@ -104,8 +104,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOE",
-    "bankCode": "NA",
+    "bankCode": "NBOE",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "NBOENANX",
     "Bank Name": "CIRRUS SECURITIES (PTY) LTD",
@@ -117,8 +117,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "NA",
+    "bankCode": "FIRN",
+    "countryCode": "NA",
     "branchCode": "CUS",
     "SWIFT Code": "FIRNNANXCUS",
     "Bank Name": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
@@ -130,8 +130,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "NA",
+    "bankCode": "FIRN",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "FIRNNANX",
     "Bank Name": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
@@ -143,8 +143,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IJGL",
-    "bankCode": "NA",
+    "bankCode": "IJGL",
+    "countryCode": "NA",
     "branchCode": "ANA",
     "SWIFT Code": "IJGLNANA",
     "Bank Name": "IJG SECURITIES (PTY) LTD",
@@ -156,8 +156,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IHNA",
-    "bankCode": "NA",
+    "bankCode": "IHNA",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "IHNANANX",
     "Bank Name": "INVESTMENT HOUSE NAMIBIA (PTY) LTD",
@@ -169,8 +169,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSG",
-    "bankCode": "NA",
+    "bankCode": "LFSG",
+    "countryCode": "NA",
     "branchCode": "ANA",
     "SWIFT Code": "LFSGNANA",
     "Bank Name": "LETSHEGO BANK NAMIBIA LIMITED",
@@ -182,8 +182,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMC",
-    "bankCode": "NA",
+    "bankCode": "NAMC",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "NAMCNANX",
     "Bank Name": "NAMCLEAR (PTY) LIMITED",
@@ -195,8 +195,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABB",
-    "bankCode": "NA",
+    "bankCode": "NABB",
+    "countryCode": "NA",
     "branchCode": "AN2",
     "SWIFT Code": "NABBNAN2",
     "Bank Name": "NAMIBIA POST LTD",
@@ -208,8 +208,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEDS",
-    "bankCode": "NA",
+    "bankCode": "NEDS",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "NEDSNANX",
     "Bank Name": "NEDBANK NAMIBIA LIMITED",
@@ -221,8 +221,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLMS",
-    "bankCode": "NA",
+    "bankCode": "FLMS",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "FLMSNANX",
     "Bank Name": "SIMONIS STORM SECURITIES (PTY) LTD",
@@ -234,8 +234,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNM",
-    "bankCode": "NA",
+    "bankCode": "SBNM",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "SBNMNANX",
     "Bank Name": "STANDARD BANK NAMIBIA LIMITED",
@@ -247,8 +247,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNM",
-    "bankCode": "NA",
+    "bankCode": "SBNM",
+    "countryCode": "NA",
     "branchCode": "LIB",
     "SWIFT Code": "SBNMNANXLIB",
     "Bank Name": "STANDARD BANK NAMIBIA LIMITED",
@@ -260,8 +260,8 @@ const namibia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRNA",
-    "bankCode": "NA",
+    "bankCode": "TRNA",
+    "countryCode": "NA",
     "branchCode": "ANX",
     "SWIFT Code": "TRNANANX",
     "Bank Name": "TRUSTCO BANK NAMIBIA",

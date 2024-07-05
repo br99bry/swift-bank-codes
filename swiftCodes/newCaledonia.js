@@ -1,7 +1,7 @@
 const newCaledonia = [
   {
-    "countryCode": "BCAD",
-    "bankCode": "NC",
+    "bankCode": "BCAD",
+    "countryCode": "NC",
     "branchCode": "CNN",
     "SWIFT Code": "BCADNCNN",
     "Bank Name": "BANQUE CALEDONIENNE D'INVESTISSEMENT",
@@ -13,8 +13,8 @@ const newCaledonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "NC",
+    "bankCode": "CEPA",
+    "countryCode": "NC",
     "branchCode": "CNM",
     "SWIFT Code": "CEPANCNM",
     "Bank Name": "BANQUE DE NOUVELLE CALEDONIE",
@@ -26,8 +26,8 @@ const newCaledonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NC",
+    "bankCode": "BNPA",
+    "countryCode": "NC",
     "branchCode": "KOU",
     "SWIFT Code": "BNPANCNXKOU",
     "Bank Name": "BNP PARIBAS NOUVELLE CALEDONIE S.A.",
@@ -39,8 +39,8 @@ const newCaledonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NC",
+    "bankCode": "BNPA",
+    "countryCode": "NC",
     "branchCode": "CNX",
     "SWIFT Code": "BNPANCNX",
     "Bank Name": "BNP PARIBAS NOUVELLE CALEDONIE S.A.",
@@ -52,8 +52,8 @@ const newCaledonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "NC",
+    "bankCode": "CDCG",
+    "countryCode": "NC",
     "branchCode": "CNN",
     "SWIFT Code": "CDCGNCNN",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -65,8 +65,8 @@ const newCaledonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "NC",
+    "bankCode": "SOGE",
+    "countryCode": "NC",
     "branchCode": "CNN",
     "SWIFT Code": "SOGENCNN",
     "Bank Name": "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B",

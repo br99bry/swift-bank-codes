@@ -1,7 +1,7 @@
 const laos = [
   {
-    "countryCode": "ACLB",
-    "bankCode": "LA",
+    "bankCode": "ACLB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "ACLBLALA",
     "Bank Name": "ACLEDA BANK (LAO) LTD",
@@ -13,8 +13,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGPB",
-    "bankCode": "LA",
+    "bankCode": "AGPB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "AGPBLALA",
     "Bank Name": "AGRICULTURAL PROMOTION BANK CO.,LTD",
@@ -26,8 +26,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "LA",
+    "bankCode": "ANZB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "ANZBLALA",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED, LAO BRANCH",
@@ -39,8 +39,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "LA",
+    "bankCode": "BKKB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "BKKBLALA",
     "Bank Name": "BANGKOK BANK PUBLIC CO. LTD, VIENTIANE BRANCH",
@@ -52,8 +52,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AYUD",
-    "bankCode": "LA",
+    "bankCode": "AYUD",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "AYUDLALA",
     "Bank Name": "BANK OF AYUDHYA PCL VIENTIANE BRANCH",
@@ -65,8 +65,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "LA",
+    "bankCode": "BKCH",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "BKCHLALA",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED VIENTIANE BRANCH",
@@ -78,8 +78,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPDR",
-    "bankCode": "LA",
+    "bankCode": "LPDR",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "LPDRLALA",
     "Bank Name": "BANK OF THE LAO P.D.R.",
@@ -91,8 +91,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFLL",
-    "bankCode": "LA",
+    "bankCode": "BFLL",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "BFLLLALA",
     "Bank Name": "BANQUE FRANCO-LAO LTD",
@@ -104,8 +104,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "SVN",
     "SWIFT Code": "COEBLALASVN",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -117,8 +117,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "LNT",
     "SWIFT Code": "COEBLALALNT",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -130,8 +130,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "LBP",
     "SWIFT Code": "COEBLALALBP",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -143,8 +143,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "ODX",
     "SWIFT Code": "COEBLALAODX",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -156,8 +156,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "CPS",
     "SWIFT Code": "COEBLALACPS",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -169,8 +169,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "KMN",
     "SWIFT Code": "COEBLALAKMN",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -182,8 +182,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COEB",
-    "bankCode": "LA",
+    "bankCode": "COEB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "COEBLALA",
     "Bank Name": "BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC",
@@ -195,8 +195,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LICB",
-    "bankCode": "LA",
+    "bankCode": "LICB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "LICBLALA",
     "Bank Name": "BIC BANK LAO CO.,LTD",
@@ -208,8 +208,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CADI",
-    "bankCode": "LA",
+    "bankCode": "CADI",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "CADILALA",
     "Bank Name": "CANADIA BANK LAO CO LTD.",
@@ -221,8 +221,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "LA",
+    "bankCode": "FCBK",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "FCBKLALA",
     "Bank Name": "FIRST COMMERCIAL BANK LTD, VIENTIANE BRANCH",
@@ -234,8 +234,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDCB",
-    "bankCode": "LA",
+    "bankCode": "IDCB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "IDCBLALA",
     "Bank Name": "INDOCHINA BANK LTD",
@@ -247,8 +247,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "LA",
+    "bankCode": "ICBK",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "ICBKLALA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED VIENTIANE BRANCH",
@@ -260,8 +260,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "LA",
+    "bankCode": "ICBK",
+    "countryCode": "LA",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKLALACLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED VIENTIANE BRANCH",
@@ -273,8 +273,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JDBK",
-    "bankCode": "LA",
+    "bankCode": "JDBK",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "JDBKLALA",
     "Bank Name": "JOINT DEVELOPMENT BANK",
@@ -286,8 +286,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "LA",
+    "bankCode": "KASI",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "KASILALA",
     "Bank Name": "KASIKORNTHAI BANK SOLE LIMITED",
@@ -299,8 +299,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCNB",
-    "bankCode": "LA",
+    "bankCode": "LCNB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "LCNBLALA",
     "Bank Name": "LAO CHINA BANK CO., LTD.",
@@ -312,8 +312,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCBV",
-    "bankCode": "LA",
+    "bankCode": "LCBV",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "LCBVLALA",
     "Bank Name": "LAO CONSTRUCTION BANK",
@@ -325,8 +325,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDBB",
-    "bankCode": "LA",
+    "bankCode": "LDBB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "LDBBLALA",
     "Bank Name": "LAO DEVELOPMENT BANK CO.,LTD",
@@ -338,8 +338,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAOV",
-    "bankCode": "LA",
+    "bankCode": "LAOV",
+    "countryCode": "LA",
     "branchCode": "CPS",
     "SWIFT Code": "LAOVLALACPS",
     "Bank Name": "LAO-VIET BANK CO,LTD",
@@ -351,8 +351,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAOV",
-    "bankCode": "LA",
+    "bankCode": "LAOV",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "LAOVLALA",
     "Bank Name": "LAO-VIET BANK CO,LTD",
@@ -364,8 +364,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MJBL",
-    "bankCode": "LA",
+    "bankCode": "MJBL",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "MJBLLALA",
     "Bank Name": "MARUHAN JAPAN BANK LAO CO., LTD",
@@ -377,8 +377,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "LA",
+    "bankCode": "MBBE",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "MBBELALA",
     "Bank Name": "MAYBANK LAO",
@@ -390,8 +390,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSVB",
-    "bankCode": "LA",
+    "bankCode": "PSVB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "PSVBLALA",
     "Bank Name": "PHONGSAVANH BANK LTD",
@@ -403,8 +403,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBBE",
-    "bankCode": "LA",
+    "bankCode": "PBBE",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "PBBELALA",
     "Bank Name": "PUBLIC BANK, VIENTIANE BRANCH, LAO P.D.R.",
@@ -416,8 +416,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBB",
-    "bankCode": "LA",
+    "bankCode": "RHBB",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "RHBBLALA",
     "Bank Name": "RHB BANK LAO SOLE CO.,LTD",
@@ -429,8 +429,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "LA",
+    "bankCode": "SICO",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "SICOLALA",
     "Bank Name": "SIAM COMMERCIAL BANK PCL., THE",
@@ -442,8 +442,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBD",
-    "bankCode": "LA",
+    "bankCode": "STBD",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "STBDLALA",
     "Bank Name": "ST BANK LTD",
@@ -455,8 +455,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "LA",
+    "bankCode": "TACB",
+    "countryCode": "LA",
     "branchCode": "ALT",
     "SWIFT Code": "TACBLALT",
     "Bank Name": "TAIWAN COOPERATIVE BANK CO., LTD VIENTIANE CAPITAL BRANCH",
@@ -468,8 +468,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "LA",
+    "bankCode": "BFTV",
+    "countryCode": "LA",
     "branchCode": "ALL",
     "SWIFT Code": "BFTVLALL",
     "Bank Name": "VCB LAOS",
@@ -481,8 +481,8 @@ const laos = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBV",
-    "bankCode": "LA",
+    "bankCode": "ICBV",
+    "countryCode": "LA",
     "branchCode": "ALA",
     "SWIFT Code": "ICBVLALA",
     "Bank Name": "VIETINBANK LAO LIMITED",

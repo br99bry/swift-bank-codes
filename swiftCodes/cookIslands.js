@@ -1,7 +1,7 @@
 const cookIslands = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "CK",
+    "bankCode": "ANZB",
+    "countryCode": "CK",
     "branchCode": "KCR",
     "SWIFT Code": "ANZBCKCR",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD.",
@@ -13,8 +13,8 @@ const cookIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCKI",
-    "bankCode": "CK",
+    "bankCode": "BCKI",
+    "countryCode": "CK",
     "branchCode": "KCR",
     "SWIFT Code": "BCKICKCR",
     "Bank Name": "BANK OF THE COOK ISLANDS LIMITED",
@@ -26,8 +26,8 @@ const cookIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "CK",
+    "bankCode": "BOSP",
+    "countryCode": "CK",
     "branchCode": "KCR",
     "SWIFT Code": "BOSPCKCR",
     "Bank Name": "BSP FINANCIAL GROUP LIMITED",
@@ -39,8 +39,8 @@ const cookIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPSB",
-    "bankCode": "CK",
+    "bankCode": "CPSB",
+    "countryCode": "CK",
     "branchCode": "KCA",
     "SWIFT Code": "CPSBCKCA",
     "Bank Name": "CAPITAL SECURITY BANK LIMITED",

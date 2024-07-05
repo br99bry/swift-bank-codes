@@ -1,7 +1,7 @@
 const vanuatu = [
   {
-    "countryCode": "ALBU",
-    "bankCode": "VU",
+    "bankCode": "ALBU",
+    "countryCode": "VU",
     "branchCode": "UVV",
     "SWIFT Code": "ALBUVUVV",
     "Bank Name": "ALPEN BARUCH BANK LIMITED",
@@ -13,8 +13,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "VU",
+    "bankCode": "ANZB",
+    "countryCode": "VU",
     "branchCode": "UVX",
     "SWIFT Code": "ANZBVUVX",
     "Bank Name": "ANZ BANK (VANUATU) LTD",
@@ -26,8 +26,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMBV",
-    "bankCode": "VU",
+    "bankCode": "AMBV",
+    "countryCode": "VU",
     "branchCode": "UVU",
     "SWIFT Code": "AMBVVUVU",
     "Bank Name": "ASIA MERCHANT BANK LIMITED",
@@ -39,8 +39,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "VU",
+    "bankCode": "BOSP",
+    "countryCode": "VU",
     "branchCode": "UVX",
     "SWIFT Code": "BOSPVUVX",
     "Bank Name": "BANK SOUTH PACIFIC (VANUATU) LIMITED",
@@ -52,8 +52,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "VU",
+    "bankCode": "BRED",
+    "countryCode": "VU",
     "branchCode": "UVU",
     "SWIFT Code": "BREDVUVU",
     "Bank Name": "BRED (VANUATU) LTD",
@@ -65,8 +65,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIOC",
-    "bankCode": "VU",
+    "bankCode": "DIOC",
+    "countryCode": "VU",
     "branchCode": "UVV",
     "SWIFT Code": "DIOCVUVV",
     "Bank Name": "DIGITAL OCEAN BANK LIMITED",
@@ -78,8 +78,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGCB",
-    "bankCode": "VU",
+    "bankCode": "MGCB",
+    "countryCode": "VU",
     "branchCode": "UVV",
     "SWIFT Code": "MGCBVUVV",
     "Bank Name": "MG COMMERCIAL BANK LIMITED",
@@ -91,8 +91,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOV",
-    "bankCode": "VU",
+    "bankCode": "NBOV",
+    "countryCode": "VU",
     "branchCode": "UVU",
     "SWIFT Code": "NBOVVUVU",
     "Bank Name": "NATIONAL BANK OF VANUATU LIMITED",
@@ -104,8 +104,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPBL",
-    "bankCode": "VU",
+    "bankCode": "PPBL",
+    "countryCode": "VU",
     "branchCode": "UVU",
     "SWIFT Code": "PPBLVUVU",
     "Bank Name": "PACIFIC PRIVATE BANK LIMITED",
@@ -117,8 +117,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBVA",
-    "bankCode": "VU",
+    "bankCode": "RBVA",
+    "countryCode": "VU",
     "branchCode": "UVU",
     "SWIFT Code": "RBVAVUVU",
     "Bank Name": "RESERVE BANK OF VANUATU",
@@ -130,8 +130,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WANF",
-    "bankCode": "VU",
+    "bankCode": "WANF",
+    "countryCode": "VU",
     "branchCode": "UVV",
     "SWIFT Code": "WANFVUVV",
     "Bank Name": "WANFUTENG BANK LIMITED",
@@ -143,8 +143,8 @@ const vanuatu = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEMT",
-    "bankCode": "VU",
+    "bankCode": "WEMT",
+    "countryCode": "VU",
     "branchCode": "UVU",
     "SWIFT Code": "WEMTVUVU",
     "Bank Name": "WESTMINSTER BANK",

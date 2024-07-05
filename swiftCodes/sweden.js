@@ -1,7 +1,7 @@
 const sweden = [
   {
-    "countryCode": "SWED",
-    "bankCode": "SE",
+    "bankCode": "SWED",
+    "countryCode": "SE",
     "branchCode": "ROB",
     "SWIFT Code": "SWEDSESSROB",
     "Bank Name": "SWEDBANK AB (PUBL)",
@@ -13,8 +13,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWED",
-    "bankCode": "SE",
+    "bankCode": "SWED",
+    "countryCode": "SE",
     "branchCode": "CUS",
     "SWIFT Code": "SWEDSESSCUS",
     "Bank Name": "SWEDBANK AB (PUBL)",
@@ -26,8 +26,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROBR",
-    "bankCode": "SE",
+    "bankCode": "ROBR",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ROBRSESS",
     "Bank Name": "SWEDBANK ROBUR FONDER AB",
@@ -39,8 +39,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKX",
-    "bankCode": "SE",
+    "bankCode": "SEKX",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SEKXSESS",
     "Bank Name": "SWEDISH EXPORT CREDIT CORP.",
@@ -52,8 +52,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIH",
-    "bankCode": "SE",
+    "bankCode": "SWIH",
+    "countryCode": "SE",
     "branchCode": "EM2",
     "SWIFT Code": "SWIHSEM2",
     "Bank Name": "SWEDISH INTERNATIONAL HOLDING AB",
@@ -65,8 +65,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNDO",
-    "bankCode": "SE",
+    "bankCode": "SNDO",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SNDOSESS",
     "Bank Name": "SWEDISH NATIONAL DEBT OFFICE",
@@ -78,8 +78,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEER",
-    "bankCode": "SE",
+    "bankCode": "TEER",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "TEERSESS",
     "Bank Name": "TELEFONAKTIEBOLAGET LM ERICSSON",
@@ -91,8 +91,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEER",
-    "bankCode": "SE",
+    "bankCode": "TEER",
+    "countryCode": "SE",
     "branchCode": "ES3",
     "SWIFT Code": "TEERSES3",
     "Bank Name": "TELEFONAKTIEBOLAGET LM ERICSSON",
@@ -104,8 +104,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLSN",
-    "bankCode": "SE",
+    "bankCode": "TLSN",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "TLSNSESS",
     "Bank Name": "TELIA COMPANY AB (PUBL)",
@@ -117,8 +117,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMHE",
-    "bankCode": "SE",
+    "bankCode": "TMHE",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "TMHESE22",
     "Bank Name": "TOYOTA MATERIAL HANDLING EUROPE AB",
@@ -130,8 +130,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEYD",
-    "bankCode": "SE",
+    "bankCode": "TEYD",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "TEYDSES2",
     "Bank Name": "TREYD SERVICES AB",
@@ -143,8 +143,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRII",
-    "bankCode": "SE",
+    "bankCode": "TRII",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "TRIISES2",
     "Bank Name": "TRIOPTIMA AB",
@@ -156,8 +156,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRLY",
-    "bankCode": "SE",
+    "bankCode": "TRLY",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "TRLYSESS",
     "Bank Name": "TRUSTLY GROUP AB",
@@ -169,8 +169,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "SE",
+    "bankCode": "PANX",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "PANXSES2",
     "Bank Name": "UNIFIEDPOST PAYMENTS SWEDEN FILIAL",
@@ -182,8 +182,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VASE",
-    "bankCode": "SE",
+    "bankCode": "VASE",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "VASESES2",
     "Bank Name": "VATOR SECURITIES AB",
@@ -195,8 +195,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCTK",
-    "bankCode": "SE",
+    "bankCode": "VCTK",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "VCTKSES2",
     "Bank Name": "VISTA CAPITAL TRUST KOMMANDITBOLAG",
@@ -208,8 +208,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "SE",
+    "bankCode": "VPAY",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "VPAYSES2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A.- SWEDEN BRANCH FILIAL",
@@ -221,8 +221,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCAR",
-    "bankCode": "SE",
+    "bankCode": "VCAR",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "VCARSEGG",
     "Bank Name": "VOLVO CAR CORPORATION",
@@ -234,8 +234,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOTR",
-    "bankCode": "SE",
+    "bankCode": "VOTR",
+    "countryCode": "SE",
     "branchCode": "EG2",
     "SWIFT Code": "VOTRSEG2",
     "Bank Name": "VOLVO TREASURY AB",
@@ -247,8 +247,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPCS",
-    "bankCode": "SE",
+    "bankCode": "VPCS",
+    "countryCode": "SE",
     "branchCode": "EKA",
     "SWIFT Code": "VPCSSEKA",
     "Bank Name": "VPC AB",
@@ -260,8 +260,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZIMP",
-    "bankCode": "SE",
+    "bankCode": "ZIMP",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "ZIMPSES2",
     "Bank Name": "ZIMPLER AB",
@@ -274,8 +274,8 @@ const sweden = [
   },
   {},
   {
-    "countryCode": "VPCS",
-    "bankCode": "SE",
+    "bankCode": "VPCS",
+    "countryCode": "SE",
     "branchCode": "CLP",
     "SWIFT Code": "VPCSSESSCLP",
     "Bank Name": "EUROCLEAR SWEDEN AB",
@@ -287,8 +287,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPCS",
-    "bankCode": "SE",
+    "bankCode": "VPCS",
+    "countryCode": "SE",
     "branchCode": "FND",
     "SWIFT Code": "VPCSSESSFND",
     "Bank Name": "EUROCLEAR SWEDEN AB",
@@ -300,8 +300,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPCS",
-    "bankCode": "SE",
+    "bankCode": "VPCS",
+    "countryCode": "SE",
     "branchCode": "VKI",
     "SWIFT Code": "VPCSSESSVKI",
     "Bank Name": "EUROCLEAR SWEDEN AB",
@@ -313,8 +313,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKTK",
-    "bankCode": "SE",
+    "bankCode": "EKTK",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "EKTKSES2",
     "Bank Name": "EUROPEISK KOMMERSIELL TRUST KOMMANDITBOLAG",
@@ -326,8 +326,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWEL",
-    "bankCode": "SE",
+    "bankCode": "EWEL",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "EWELSEGG",
     "Bank Name": "EWELLIX AB",
@@ -339,8 +339,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "SE",
+    "bankCode": "BNPA",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BNPASESS",
     "Bank Name": "EXPRESS BANK SVERIGE FILIAL",
@@ -352,8 +352,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRTD",
-    "bankCode": "SE",
+    "bankCode": "FRTD",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "FRTDSES2",
     "Bank Name": "FREETRADE EUROPA AB",
@@ -365,8 +365,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLSY",
-    "bankCode": "SE",
+    "bankCode": "GLSY",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "GLSYSES2",
     "Bank Name": "GAMLA LIVFORSAKRINGSAKTIEBOLAGET SEB TRYGG LIV (PUBL)",
@@ -378,8 +378,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTRE",
-    "bankCode": "SE",
+    "bankCode": "GTRE",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "GTRESEGG",
     "Bank Name": "GETINGE TREASURY AB",
@@ -391,8 +391,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GITC",
-    "bankCode": "SE",
+    "bankCode": "GITC",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "GITCSES2",
     "Bank Name": "GIZA TRUST COMPANY KB",
@@ -404,8 +404,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLCT",
-    "bankCode": "SE",
+    "bankCode": "GLCT",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "GLCTSES2",
     "Bank Name": "GLENMUIR CAPITAL TRUST KB",
@@ -417,8 +417,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFTM",
-    "bankCode": "SE",
+    "bankCode": "GFTM",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "GFTMSES2",
     "Bank Name": "GLOBAL FINANCIAL TRUST MANAGEMENT GROUP KB",
@@ -430,8 +430,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMHM",
-    "bankCode": "SE",
+    "bankCode": "HMHM",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "HMHMSESS",
     "Bank Name": "H AND M HENNES AND MAURITZ GBC AB",
@@ -443,8 +443,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMHM",
-    "bankCode": "SE",
+    "bankCode": "HMHM",
+    "countryCode": "SE",
     "branchCode": "GOE",
     "SWIFT Code": "HMHMSESSGOE",
     "Bank Name": "H AND M HENNES AND MAURITZ GBC AB",
@@ -456,8 +456,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABM",
-    "bankCode": "SE",
+    "bankCode": "HABM",
+    "countryCode": "SE",
     "branchCode": "EMM",
     "SWIFT Code": "HABMSEMM",
     "Bank Name": "HEIMSTADEN AB",
@@ -469,8 +469,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBO",
-    "bankCode": "SE",
+    "bankCode": "HSBO",
+    "countryCode": "SE",
     "branchCode": "EMM",
     "SWIFT Code": "HSBOSEMM",
     "Bank Name": "HEIMSTADEN BOSTAD AB",
@@ -482,8 +482,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICHO",
-    "bankCode": "SE",
+    "bankCode": "ICHO",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "ICHOSES2",
     "Bank Name": "ICM HOUSE KB",
@@ -495,8 +495,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTCS",
-    "bankCode": "SE",
+    "bankCode": "FTCS",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "FTCSSES2",
     "Bank Name": "INTERGIRO INTL AB (PUBL)",
@@ -508,8 +508,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTCS",
-    "bankCode": "SE",
+    "bankCode": "FTCS",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "FTCSSESS",
     "Bank Name": "INTERGIRO INTL AB (PUBL)",
@@ -521,8 +521,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAKM",
-    "bankCode": "SE",
+    "bankCode": "JAKM",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "JAKMSE22",
     "Bank Name": "JAK MEDLEMSBANK",
@@ -534,8 +534,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAMR",
-    "bankCode": "SE",
+    "bankCode": "KAMR",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "KAMRSES2",
     "Bank Name": "KAMMARKOLLEGIET",
@@ -547,8 +547,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLRN",
-    "bankCode": "SE",
+    "bankCode": "KLRN",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "KLRNSESS",
     "Bank Name": "KLARNA BANK",
@@ -560,8 +560,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLRN",
-    "bankCode": "SE",
+    "bankCode": "KLRN",
+    "countryCode": "SE",
     "branchCode": "TRE",
     "SWIFT Code": "KLRNSESSTRE",
     "Bank Name": "KLARNA BANK",
@@ -573,8 +573,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLRN",
-    "bankCode": "SE",
+    "bankCode": "KLRN",
+    "countryCode": "SE",
     "branchCode": "SWI",
     "SWIFT Code": "KLRNSESSSWI",
     "Bank Name": "KLARNA BANK",
@@ -586,8 +586,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLRN",
-    "bankCode": "SE",
+    "bankCode": "KLRN",
+    "countryCode": "SE",
     "branchCode": "TIP",
     "SWIFT Code": "KLRNSESSTIP",
     "Bank Name": "KLARNA BANK",
@@ -599,8 +599,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIAB",
-    "bankCode": "SE",
+    "bankCode": "KIAB",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "KIABSE22",
     "Bank Name": "KOMMUNINVEST I SVERIGE AB",
@@ -612,8 +612,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAHY",
-    "bankCode": "SE",
+    "bankCode": "LAHY",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "LAHYSESS",
     "Bank Name": "LANDSHYPOTEK BANK AB",
@@ -625,8 +625,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAFD",
-    "bankCode": "SE",
+    "bankCode": "LAFD",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "LAFDSES2",
     "Bank Name": "LANNEBO FONDER AB",
@@ -638,8 +638,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELLF",
-    "bankCode": "SE",
+    "bankCode": "ELLF",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ELLFSESS",
     "Bank Name": "LANSFORSAKRINGAR BANK AB",
@@ -651,8 +651,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAFK",
-    "bankCode": "SE",
+    "bankCode": "LAFK",
+    "countryCode": "SE",
     "branchCode": "EST",
     "SWIFT Code": "LAFKSEST",
     "Bank Name": "LANSFORSAKRINGAR FONDFORVALTNING AKTIEBOLAG",
@@ -664,8 +664,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLFP",
-    "bankCode": "SE",
+    "bankCode": "LLFP",
+    "countryCode": "SE",
     "branchCode": "EST",
     "SWIFT Code": "LLFPSEST",
     "Bank Name": "LANSFORSAKRINGAR LIV FORSAKRINGSAKTIEBOLAG (PUBL)",
@@ -677,8 +677,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LANT",
-    "bankCode": "SE",
+    "bankCode": "LANT",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "LANTSESS",
     "Bank Name": "LANTMANNEN EK",
@@ -690,8 +690,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LETE",
-    "bankCode": "SE",
+    "bankCode": "LETE",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "LETESES2",
     "Bank Name": "LESSLIE TECHNOLOGIES AB",
@@ -703,8 +703,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOWO",
-    "bankCode": "SE",
+    "bankCode": "LOWO",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "LOWOSES2",
     "Bank Name": "LOTHAR WORLDWIDE",
@@ -716,8 +716,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MARG",
-    "bankCode": "SE",
+    "bankCode": "MARG",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "MARGSESS",
     "Bank Name": "MARGINALEN BANK BANKAKTIEBOLAG",
@@ -729,8 +729,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFEX",
-    "bankCode": "SE",
+    "bankCode": "MFEX",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "MFEXSESS",
     "Bank Name": "MFEX MUTUAL FUNDS EXCHANGE AB",
@@ -742,8 +742,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFEX",
-    "bankCode": "SE",
+    "bankCode": "MFEX",
+    "countryCode": "SE",
     "branchCode": "GFP",
     "SWIFT Code": "MFEXSESSGFP",
     "Bank Name": "MFEX MUTUAL FUNDS EXCHANGE AB",
@@ -755,8 +755,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOHE",
-    "bankCode": "SE",
+    "bankCode": "MOHE",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "MOHESEGG",
     "Bank Name": "MOLNLYCKE HEALTH CARE AB",
@@ -768,8 +768,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "DKK",
     "SWIFT Code": "OMECSESSDKK",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -781,8 +781,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "TDK",
     "SWIFT Code": "OMECSESSTDK",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -794,8 +794,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "OMECSESS",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -807,8 +807,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "CCP",
     "SWIFT Code": "OMECSESSCCP",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -820,8 +820,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "NOC",
     "SWIFT Code": "OMECSESSNOC",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -833,8 +833,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "COL",
     "SWIFT Code": "OMECSESSCOL",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -846,8 +846,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "DVP",
     "SWIFT Code": "OMECSESSDVP",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -859,8 +859,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "EXT",
     "SWIFT Code": "OMECSESSEXT",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -872,8 +872,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "TSU",
     "SWIFT Code": "OMECSESSTSU",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -885,8 +885,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEC",
-    "bankCode": "SE",
+    "bankCode": "OMEC",
+    "countryCode": "SE",
     "branchCode": "TRE",
     "SWIFT Code": "OMECSESSTRE",
     "Bank Name": "NASDAQ CLEARING AB",
@@ -898,8 +898,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCTK",
-    "bankCode": "SE",
+    "bankCode": "NCTK",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "NCTKSES2",
     "Bank Name": "NATIONAL CAPITAL TRUST KOMMANDITBOLAG",
@@ -911,8 +911,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOFB",
-    "bankCode": "SE",
+    "bankCode": "NOFB",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "NOFBSESS",
     "Bank Name": "NOBA BANK GROUP AB (PUBL)",
@@ -924,8 +924,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "ENS",
     "SWIFT Code": "ESSESESSENS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -937,8 +937,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "EQU",
     "SWIFT Code": "ESSESESSEQU",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -950,8 +950,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "IOS",
     "SWIFT Code": "ESSESESSIOS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -963,8 +963,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "SLS",
     "SWIFT Code": "ESSESESSSLS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -976,8 +976,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "EGC",
     "SWIFT Code": "ESSESEGC",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB GLOBAL CUSTODY",
@@ -989,8 +989,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKFI",
-    "bankCode": "SE",
+    "bankCode": "SKFI",
+    "countryCode": "SE",
     "branchCode": "EGA",
     "SWIFT Code": "SKFISEGA",
     "Bank Name": "SKF INTERNATIONAL AB",
@@ -1002,8 +1002,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKFI",
-    "bankCode": "SE",
+    "bankCode": "SKFI",
+    "countryCode": "SE",
     "branchCode": "EGB",
     "SWIFT Code": "SKFISEGB",
     "Bank Name": "SKF INTERNATIONAL AB",
@@ -1015,8 +1015,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPSD",
-    "bankCode": "SE",
+    "bankCode": "SPSD",
+    "countryCode": "SE",
     "branchCode": "E23",
     "SWIFT Code": "SPSDSE23",
     "Bank Name": "SPARBANKEN SYD",
@@ -1028,8 +1028,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPSD",
-    "bankCode": "SE",
+    "bankCode": "SPSD",
+    "countryCode": "SE",
     "branchCode": "SWI",
     "SWIFT Code": "SPSDSE23SWI",
     "Bank Name": "SPARBANKEN SYD",
@@ -1041,8 +1041,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPOT",
-    "bankCode": "SE",
+    "bankCode": "SPOT",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SPOTSESS",
     "Bank Name": "SPOTIFY AB",
@@ -1054,8 +1054,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASAB",
-    "bankCode": "SE",
+    "bankCode": "ASAB",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ASABSESS",
     "Bank Name": "SSAB AB",
@@ -1067,8 +1067,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVVV",
-    "bankCode": "SE",
+    "bankCode": "SVVV",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SVVVSESS",
     "Bank Name": "STEVEN AB",
@@ -1080,8 +1080,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVEA",
-    "bankCode": "SE",
+    "bankCode": "SVEA",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SVEASESS",
     "Bank Name": "SVEA BANK AB",
@@ -1093,8 +1093,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVEA",
-    "bankCode": "SE",
+    "bankCode": "SVEA",
+    "countryCode": "SE",
     "branchCode": "IXX",
     "SWIFT Code": "SVEASESSIXX",
     "Bank Name": "SVEA BANK AB",
@@ -1106,8 +1106,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "GBG",
     "SWIFT Code": "HANDSESSGBG",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1119,8 +1119,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "MLM",
     "SWIFT Code": "HANDSESSMLM",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1132,8 +1132,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "CLS",
     "SWIFT Code": "HANDSESSCLS",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1145,8 +1145,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "HANDSESS",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1158,8 +1158,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "SHP",
     "SWIFT Code": "HANDSESSSHP",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1171,8 +1171,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "SH1",
     "SWIFT Code": "HANDSESSSH1",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1184,8 +1184,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "FIC",
     "SWIFT Code": "HANDSESSFIC",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1197,8 +1197,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "SHY",
     "SWIFT Code": "HANDSESSSHY",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1210,8 +1210,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "SHD",
     "SWIFT Code": "HANDSESSSHD",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1223,8 +1223,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "CUS",
     "SWIFT Code": "HANDSESSCUS",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1236,8 +1236,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "I01",
     "SWIFT Code": "HANDSESSI01",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1249,8 +1249,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "I02",
     "SWIFT Code": "HANDSESSI02",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1262,8 +1262,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "SE",
+    "bankCode": "HAND",
+    "countryCode": "SE",
     "branchCode": "ASM",
     "SWIFT Code": "HANDSESSASM",
     "Bank Name": "SVENSKA HANDELSBANKEN AB",
@@ -1275,8 +1275,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "RIKSSESS",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1288,8 +1288,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "ES3",
     "SWIFT Code": "RIKSSES3",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1301,8 +1301,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "KIR",
     "SWIFT Code": "RIKSSESSKIR",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1314,8 +1314,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "CMS",
     "SWIFT Code": "RIKSSESSCMS",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1327,8 +1327,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "DIM",
     "SWIFT Code": "RIKSSESSDIM",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1340,8 +1340,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "LAG",
     "SWIFT Code": "RIKSSESSLAG",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1353,8 +1353,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "SWA",
     "SWIFT Code": "RIKSSESSSWA",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1366,8 +1366,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "SWP",
     "SWIFT Code": "RIKSSESSSWP",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1379,8 +1379,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "SWT",
     "SWIFT Code": "RIKSSESSSWT",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1392,8 +1392,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "TST",
     "SWIFT Code": "RIKSSESSTST",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1405,8 +1405,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "RIK",
     "SWIFT Code": "RIKSSESSRIK",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1418,8 +1418,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "RBT",
     "SWIFT Code": "RIKSSESSRBT",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1431,8 +1431,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "PRX",
     "SWIFT Code": "RIKSSESSPRX",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1444,8 +1444,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "TBA",
     "SWIFT Code": "RIKSSESSTBA",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1457,8 +1457,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "TBB",
     "SWIFT Code": "RIKSSESSTBB",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1470,8 +1470,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "TBC",
     "SWIFT Code": "RIKSSESSTBC",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1483,8 +1483,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "BER",
     "SWIFT Code": "RIKSSESSBER",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1496,8 +1496,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "LON",
     "SWIFT Code": "RIKSSESSLON",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1509,8 +1509,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "PAR",
     "SWIFT Code": "RIKSSESSPAR",
     "Bank Name": "SVERIGES RIKSBANK",
@@ -1522,8 +1522,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "ESR",
     "SWIFT Code": "RIKSSESR",
     "Bank Name": "SVERIGES RIKSBANK - RGTS",
@@ -1535,8 +1535,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKS",
-    "bankCode": "SE",
+    "bankCode": "RIKS",
+    "countryCode": "SE",
     "branchCode": "RIX",
     "SWIFT Code": "RIKSSESRRIX",
     "Bank Name": "SVERIGES RIKSBANK - RGTS",
@@ -1548,8 +1548,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWED",
-    "bankCode": "SE",
+    "bankCode": "SWED",
+    "countryCode": "SE",
     "branchCode": "CLS",
     "SWIFT Code": "SWEDSESSCLS",
     "Bank Name": "SWEDBANK AB (PUBL)",
@@ -1561,8 +1561,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWED",
-    "bankCode": "SE",
+    "bankCode": "SWED",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SWEDSESS",
     "Bank Name": "SWEDBANK AB (PUBL)",
@@ -1574,8 +1574,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAFC",
-    "bankCode": "SE",
+    "bankCode": "AAFC",
+    "countryCode": "SE",
     "branchCode": "EMM",
     "SWIFT Code": "AAFCSEMM",
     "Bank Name": "AARHUSKARLSHAMN FINANCE AB",
@@ -1587,8 +1587,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNDX",
-    "bankCode": "SE",
+    "bankCode": "LNDX",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "LNDXSEGG",
     "Bank Name": "AB LINDEX",
@@ -1600,8 +1600,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABVO",
-    "bankCode": "SE",
+    "bankCode": "ABVO",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "ABVOSEGG",
     "Bank Name": "AB VOLVO",
@@ -1613,8 +1613,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFAI",
-    "bankCode": "SE",
+    "bankCode": "AFAI",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "AFAISESS",
     "Bank Name": "AFA FORSAKRING TJANSTEPENSIONS AB",
@@ -1626,8 +1626,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGNT",
-    "bankCode": "SE",
+    "bankCode": "AGNT",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "AGNTSES2",
     "Bank Name": "AGENTA INVESTMENT MANAGEMENT AB",
@@ -1639,8 +1639,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPB",
-    "bankCode": "SE",
+    "bankCode": "BMPB",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BMPBSESS",
     "Bank Name": "AION BANK SA SWEDISH BRANCH",
@@ -1652,8 +1652,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABA",
-    "bankCode": "SE",
+    "bankCode": "AABA",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "AABASESS",
     "Bank Name": "ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL",
@@ -1665,8 +1665,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABA",
-    "bankCode": "SE",
+    "bankCode": "AABA",
+    "countryCode": "SE",
     "branchCode": "TMS",
     "SWIFT Code": "AABASESSTMS",
     "Bank Name": "ALANDSBANKEN ABP (FINLAND),SVENSK FILIAL",
@@ -1678,8 +1678,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALTA",
-    "bankCode": "SE",
+    "bankCode": "ALTA",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ALTASESS",
     "Bank Name": "ALECTA PENSIONSFORSAKRING OMSESIDIGT",
@@ -1691,8 +1691,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALYN",
-    "bankCode": "SE",
+    "bankCode": "ALYN",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "ALYNSE22",
     "Bank Name": "ALFA LAVAL TREASURY INTERNATIONAL AB (PUBL)",
@@ -1704,8 +1704,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALYN",
-    "bankCode": "SE",
+    "bankCode": "ALYN",
+    "countryCode": "SE",
     "branchCode": "E2L",
     "SWIFT Code": "ALYNSE2L",
     "Bank Name": "ALFA LAVAL TREASURY INTERNATIONAL AB (PUBL)",
@@ -1717,8 +1717,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTA",
-    "bankCode": "SE",
+    "bankCode": "SMTA",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "SMTASE22",
     "Bank Name": "ALLEIMA TREASURY AB",
@@ -1730,8 +1730,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEEF",
-    "bankCode": "SE",
+    "bankCode": "AEEF",
+    "countryCode": "SE",
     "branchCode": "EG2",
     "SWIFT Code": "AEEFSEG2",
     "Bank Name": "AMAL EXPRESS EKONOMISK FORENING",
@@ -1743,8 +1743,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OUBI",
-    "bankCode": "SE",
+    "bankCode": "OUBI",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "OUBISE22",
     "Bank Name": "ARELION AB",
@@ -1756,8 +1756,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAFE",
-    "bankCode": "SE",
+    "bankCode": "AAFE",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "AAFESES2",
     "Bank Name": "ASSA ABLOY FINANCIAL SERVICES AB",
@@ -1769,8 +1769,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATLP",
-    "bankCode": "SE",
+    "bankCode": "ATLP",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "ATLPSES2",
     "Bank Name": "ATLAS COPCO AB",
@@ -1782,8 +1782,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATLP",
-    "bankCode": "SE",
+    "bankCode": "ATLP",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ATLPSESS",
     "Bank Name": "ATLAS COPCO AB",
@@ -1795,8 +1795,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUTB",
-    "bankCode": "SE",
+    "bankCode": "AUTB",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "AUTBSESS",
     "Bank Name": "AUTOLIV AKTIEBOLAG",
@@ -1808,8 +1808,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVAN",
-    "bankCode": "SE",
+    "bankCode": "AVAN",
+    "countryCode": "SE",
     "branchCode": "ESX",
     "SWIFT Code": "AVANSESX",
     "Bank Name": "AVANZA BANK AB",
@@ -1821,8 +1821,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIU",
-    "bankCode": "SE",
+    "bankCode": "BFIU",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "BFIUSES2",
     "Bank Name": "BAMBU FUND INTERNATIONAL TRUST KOMMANDITBOLAG",
@@ -1834,8 +1834,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "SE",
+    "bankCode": "BKCH",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BKCHSESS",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A. STOCKHOLM BRANCH",
@@ -1847,8 +1847,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAB",
-    "bankCode": "SE",
+    "bankCode": "BGAB",
+    "countryCode": "SE",
     "branchCode": "ESG",
     "SWIFT Code": "BGABSESG",
     "Bank Name": "BANKGIROCENTRALEN BGC AB",
@@ -1860,8 +1860,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAB",
-    "bankCode": "SE",
+    "bankCode": "BGAB",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BGABSESS",
     "Bank Name": "BANKGIROCENTRALEN BGC AB",
@@ -1873,8 +1873,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAB",
-    "bankCode": "SE",
+    "bankCode": "BGAB",
+    "countryCode": "SE",
     "branchCode": "MUL",
     "SWIFT Code": "BGABSESSMUL",
     "Bank Name": "BANKGIROCENTRALEN BGC AB",
@@ -1886,8 +1886,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAB",
-    "bankCode": "SE",
+    "bankCode": "BKAB",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "BKABSE22",
     "Bank Name": "BILLERUD AB",
@@ -1899,8 +1899,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTP",
-    "bankCode": "SE",
+    "bankCode": "BSTP",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BSTPSESS",
     "Bank Name": "BLUESTEP BANK AB",
@@ -1912,8 +1912,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSB",
-    "bankCode": "SE",
+    "bankCode": "FTSB",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "FTSBSESS",
     "Bank Name": "BNP PARIBAS S.A., BANKFILIAL SVERIGE",
@@ -1925,8 +1925,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRTE",
-    "bankCode": "SE",
+    "bankCode": "BRTE",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BRTESESS",
     "Bank Name": "BRITE AB",
@@ -1938,8 +1938,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCTK",
-    "bankCode": "SE",
+    "bankCode": "CCTK",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "CCTKSE22",
     "Bank Name": "CAB CAPITAL TRUST KOMMANDITBOLAG",
@@ -1951,8 +1951,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFNN",
-    "bankCode": "SE",
+    "bankCode": "CFNN",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "CFNNSESS",
     "Bank Name": "CARNEGIE FONDER AB",
@@ -1964,8 +1964,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARN",
-    "bankCode": "SE",
+    "bankCode": "CARN",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "CARNSES2",
     "Bank Name": "CARNEGIE INVESTMENT BANK AB",
@@ -1977,8 +1977,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SE",
+    "bankCode": "CITI",
+    "countryCode": "SE",
     "branchCode": "ESX",
     "SWIFT Code": "CITISESX",
     "Bank Name": "CITIBANK EUROPE PLC SWEDEN BRANCH",
@@ -1990,8 +1990,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "SE",
+    "bankCode": "BSUI",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BSUISESS",
     "Bank Name": "CREDIT AGRICOLE CIB SWEDEN BRANCH",
@@ -2003,8 +2003,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "GBG",
     "SWIFT Code": "DABASESXGBG",
     "Bank Name": "DANSKE BANK",
@@ -2016,8 +2016,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "ESX",
     "SWIFT Code": "DABASESX",
     "Bank Name": "DANSKE BANK",
@@ -2029,8 +2029,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "CLS",
     "SWIFT Code": "DABASESXCLS",
     "Bank Name": "DANSKE BANK",
@@ -2042,8 +2042,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "CON",
     "SWIFT Code": "DABASESXCON",
     "Bank Name": "DANSKE BANK",
@@ -2055,8 +2055,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "INS",
     "SWIFT Code": "DABASESXINS",
     "Bank Name": "DANSKE BANK",
@@ -2068,8 +2068,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "SWI",
     "SWIFT Code": "DABASESXSWI",
     "Bank Name": "DANSKE BANK",
@@ -2081,8 +2081,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "TIP",
     "SWIFT Code": "DABASESXTIP",
     "Bank Name": "DANSKE BANK",
@@ -2094,8 +2094,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "SE",
+    "bankCode": "DABA",
+    "countryCode": "SE",
     "branchCode": "STO",
     "SWIFT Code": "DABASESXSTO",
     "Bank Name": "DANSKE BANK",
@@ -2107,8 +2107,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "SE",
+    "bankCode": "DNBA",
+    "countryCode": "SE",
     "branchCode": "ESX",
     "SWIFT Code": "DNBASESX",
     "Bank Name": "DNB BANK ASA, FILIAL SVERIGE",
@@ -2120,8 +2120,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "SE",
+    "bankCode": "DNBA",
+    "countryCode": "SE",
     "branchCode": "CLS",
     "SWIFT Code": "DNBASESXCLS",
     "Bank Name": "DNB BANK ASA, FILIAL SVERIGE",
@@ -2133,8 +2133,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKML",
-    "bankCode": "SE",
+    "bankCode": "EKML",
+    "countryCode": "SE",
     "branchCode": "E2S",
     "SWIFT Code": "EKMLSE2S",
     "Bank Name": "EKOBANKEN MEDLEMSBANK",
@@ -2146,8 +2146,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELKT",
-    "bankCode": "SE",
+    "bankCode": "ELKT",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ELKTSESS",
     "Bank Name": "ELEKTA AB",
@@ -2159,8 +2159,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPRC",
-    "bankCode": "SE",
+    "bankCode": "EPRC",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "EPRCSE22",
     "Bank Name": "EPIROC AB",
@@ -2172,8 +2172,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQTS",
-    "bankCode": "SE",
+    "bankCode": "EQTS",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "EQTSSESS",
     "Bank Name": "EQT AB",
@@ -2185,8 +2185,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERPF",
-    "bankCode": "SE",
+    "bankCode": "ERPF",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "ERPFSES2",
     "Bank Name": "ERIK PENSER BANK AB",
@@ -2198,8 +2198,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETRY",
-    "bankCode": "SE",
+    "bankCode": "ETRY",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ETRYSESS",
     "Bank Name": "ESSITY TREASURY AB",
@@ -2211,8 +2211,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPCS",
-    "bankCode": "SE",
+    "bankCode": "VPCS",
+    "countryCode": "SE",
     "branchCode": "CLP",
     "SWIFT Code": "VPCSSESSCLP",
     "Bank Name": "EUROCLEAR SWEDEN AB",
@@ -2224,8 +2224,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "EGG",
     "SWIFT Code": "NDEASEGG",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2237,8 +2237,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "NCL",
     "SWIFT Code": "NDEASESSNCL",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2250,8 +2250,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "RCC",
     "SWIFT Code": "NDEASESSRCC",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2263,8 +2263,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "NDEASESS",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2276,8 +2276,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "FDS",
     "SWIFT Code": "NDEASESSFDS",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2289,8 +2289,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "TRI",
     "SWIFT Code": "NDEASESSTRI",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2302,8 +2302,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "INS",
     "SWIFT Code": "NDEASESSINS",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2315,8 +2315,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "NBM",
     "SWIFT Code": "NDEASESSNBM",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2328,8 +2328,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "SE",
+    "bankCode": "NDEA",
+    "countryCode": "SE",
     "branchCode": "PGI",
     "SWIFT Code": "NDEASESSPGI",
     "Bank Name": "NORDEA BANK ABP, FILIAL I SVERIGE",
@@ -2341,8 +2341,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "910",
     "SWIFT Code": "NOLSSES2910",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2354,8 +2354,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "911",
     "SWIFT Code": "NOLSSES2911",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2367,8 +2367,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "913",
     "SWIFT Code": "NOLSSES2913",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2380,8 +2380,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "G10",
     "SWIFT Code": "NOLSSES2G10",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2393,8 +2393,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "G11",
     "SWIFT Code": "NOLSSES2G11",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2406,8 +2406,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "G12",
     "SWIFT Code": "NOLSSES2G12",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2419,8 +2419,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "G13",
     "SWIFT Code": "NOLSSES2G13",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2432,8 +2432,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "G14",
     "SWIFT Code": "NOLSSES2G14",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2445,8 +2445,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "W95",
     "SWIFT Code": "NOLSSES2W95",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2458,8 +2458,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "W96",
     "SWIFT Code": "NOLSSES2W96",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2471,8 +2471,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "NOLSSES2",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2484,8 +2484,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "491",
     "SWIFT Code": "NOLSSES2491",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2497,8 +2497,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "A96",
     "SWIFT Code": "NOLSSES2A96",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2510,8 +2510,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "E47",
     "SWIFT Code": "NOLSSES2E47",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2523,8 +2523,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "E48",
     "SWIFT Code": "NOLSSES2E48",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2536,8 +2536,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLS",
-    "bankCode": "SE",
+    "bankCode": "NOLS",
+    "countryCode": "SE",
     "branchCode": "E49",
     "SWIFT Code": "NOLSSES2E49",
     "Bank Name": "NORDEA LIVFORSAKRING SVERIGE AB",
@@ -2549,8 +2549,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NPCO",
-    "bankCode": "SE",
+    "bankCode": "NPCO",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "NPCOSES2",
     "Bank Name": "NORDIC PAYMENTS COUNCIL",
@@ -2562,8 +2562,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNSE",
-    "bankCode": "SE",
+    "bankCode": "NNSE",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "NNSESE22",
     "Bank Name": "NORDNET BANK AB",
@@ -2575,8 +2575,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHL",
-    "bankCode": "SE",
+    "bankCode": "NOHL",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "NOHLSESS",
     "Bank Name": "NORTHMILL BANK",
@@ -2588,8 +2588,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOHL",
-    "bankCode": "SE",
+    "bankCode": "NOHL",
+    "countryCode": "SE",
     "branchCode": "IXX",
     "SWIFT Code": "NOHLSESSIXX",
     "Bank Name": "NORTHMILL BANK",
@@ -2601,8 +2601,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPST",
-    "bankCode": "SE",
+    "bankCode": "OPST",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "OPSTSES2",
     "Bank Name": "OPPENHEIM SAVINGS AND LOANS TRUST KB",
@@ -2614,8 +2614,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OHMJ",
-    "bankCode": "SE",
+    "bankCode": "OHMJ",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "OHMJSESS",
     "Bank Name": "PARETO SECURITIES AB",
@@ -2627,8 +2627,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RESU",
-    "bankCode": "SE",
+    "bankCode": "RESU",
+    "countryCode": "SE",
     "branchCode": "E2H",
     "SWIFT Code": "RESUSE2H",
     "Bank Name": "RESURS BANK AB",
@@ -2640,8 +2640,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RILU",
-    "bankCode": "SE",
+    "bankCode": "RILU",
+    "countryCode": "SE",
     "branchCode": "ES2",
     "SWIFT Code": "RILUSES2",
     "Bank Name": "RIGEL LUMINOUS KB",
@@ -2653,8 +2653,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABB",
-    "bankCode": "SE",
+    "bankCode": "AABB",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "AABBSE22",
     "Bank Name": "SAAB AB",
@@ -2666,8 +2666,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNDV",
-    "bankCode": "SE",
+    "bankCode": "SNDV",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "SNDVSE22",
     "Bank Name": "SANDVIK AB",
@@ -2679,8 +2679,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVTR",
-    "bankCode": "SE",
+    "bankCode": "SVTR",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SVTRSESS",
     "Bank Name": "SANDVIK TREASURY AB",
@@ -2692,8 +2692,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSNO",
-    "bankCode": "SE",
+    "bankCode": "BSNO",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "BSNOSESS",
     "Bank Name": "SANTANDER CONSUMER BANK AS NORGE, SVERIGE FILIAL",
@@ -2705,8 +2705,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAV",
-    "bankCode": "SE",
+    "bankCode": "SBAV",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SBAVSESS",
     "Bank Name": "SBAB",
@@ -2718,8 +2718,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSLT",
-    "bankCode": "SE",
+    "bankCode": "SSLT",
+    "countryCode": "SE",
     "branchCode": "E22",
     "SWIFT Code": "SSLTSE22",
     "Bank Name": "SCANDINAVIAN SAVINGS AND LOANS TRUST KOMMANDITBOLAG",
@@ -2731,8 +2731,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNN",
-    "bankCode": "SE",
+    "bankCode": "SCNN",
+    "countryCode": "SE",
     "branchCode": "E23",
     "SWIFT Code": "SCNNSE23",
     "Bank Name": "SCANIA CV AB",
@@ -2744,8 +2744,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCDR",
-    "bankCode": "SE",
+    "bankCode": "SCDR",
+    "countryCode": "SE",
     "branchCode": "EMM",
     "SWIFT Code": "SCDRSEMM",
     "Bank Name": "SECURITAS DIRECT AB",
@@ -2757,8 +2757,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJAF",
-    "bankCode": "SE",
+    "bankCode": "SJAF",
+    "countryCode": "SE",
     "branchCode": "EG2",
     "SWIFT Code": "SJAFSEG2",
     "Bank Name": "SJATTE AP-FONDEN",
@@ -2770,8 +2770,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKIA",
-    "bankCode": "SE",
+    "bankCode": "SKIA",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "SKIASESS",
     "Bank Name": "SKANDIABANKEN",
@@ -2783,8 +2783,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "ESG",
     "SWIFT Code": "ESSESESG",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -2796,8 +2796,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "ESM",
     "SWIFT Code": "ESSESESM",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -2809,8 +2809,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "ESS",
     "SWIFT Code": "ESSESESS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -2822,8 +2822,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "CLS",
     "SWIFT Code": "ESSESESSCLS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -2835,8 +2835,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "CAL",
     "SWIFT Code": "ESSESESSCAL",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -2848,8 +2848,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "PCS",
     "SWIFT Code": "ESSESESSPCS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -2861,8 +2861,8 @@ const sweden = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SE",
+    "bankCode": "ESSE",
+    "countryCode": "SE",
     "branchCode": "CCS",
     "SWIFT Code": "ESSESESSCCS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",

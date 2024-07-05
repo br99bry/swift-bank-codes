@@ -1,7 +1,7 @@
 const caymanIslands = [
   {
-    "countryCode": "ABFT",
-    "bankCode": "KY",
+    "bankCode": "ABFT",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ABFTKYKY",
     "Bank Name": "AB FINANCIAL MARKETS LTD",
@@ -13,8 +13,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABFK",
-    "bankCode": "KY",
+    "bankCode": "ABFK",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ABFKKYKY",
     "Bank Name": "ABC FINANCIAL MARKETS",
@@ -26,8 +26,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKK",
-    "bankCode": "KY",
+    "bankCode": "ABKK",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ABKKKYKY",
     "Bank Name": "ABK CAYMAN ISLAND LIMITED",
@@ -39,8 +39,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "KY",
+    "bankCode": "ADCB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ADCBKYKY",
     "Bank Name": "ADCB MARKETS (CAYMAN) LIMITED",
@@ -52,8 +52,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARNB",
-    "bankCode": "KY",
+    "bankCode": "ARNB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ARNBKYKY",
     "Bank Name": "ANB GLOBAL MARKETS LIMITED",
@@ -65,8 +65,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPNT",
-    "bankCode": "KY",
+    "bankCode": "CPNT",
+    "countryCode": "KY",
     "branchCode": "YK2",
     "SWIFT Code": "CPNTKYK2",
     "Bank Name": "AP CAPITAL INVESTMENT LIMITED",
@@ -79,8 +79,8 @@ const caymanIslands = [
   },
   {},
   {
-    "countryCode": "AUGM",
-    "bankCode": "KY",
+    "bankCode": "AUGM",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "AUGMKYKY",
     "Bank Name": "AUDI GLOBAL MARKETS LTD",
@@ -92,8 +92,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCB",
-    "bankCode": "KY",
+    "bankCode": "ABCB",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "ABCBKYKX",
     "Bank Name": "BANCO ABC BRASIL S.A. - CAYMAN ISLANDS BRANCH",
@@ -105,8 +105,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "KY",
+    "bankCode": "BBDE",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BBDEKYKY",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -118,8 +118,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "KY",
+    "bankCode": "BCBB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BCBBKYKY",
     "Bank Name": "BANCO BRADESCO S.A. - GRAND CAYMAN (FORMERLY KIRTON BANK BRASIL S.A. - GRAND CAYMAN BRANCH)",
@@ -131,8 +131,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBON",
-    "bankCode": "KY",
+    "bankCode": "BBON",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BBONKYKY",
     "Bank Name": "BANCO BS2 S.A.",
@@ -144,8 +144,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAB",
-    "bankCode": "KY",
+    "bankCode": "BPAB",
+    "countryCode": "KY",
     "branchCode": "YKG",
     "SWIFT Code": "BPABKYKG",
     "Bank Name": "BANCO BTG PACTUAL SA CAYMAN BRANCH",
@@ -157,8 +157,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSIX",
-    "bankCode": "KY",
+    "bankCode": "CSIX",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "CSIXKYKY",
     "Bank Name": "BANCO C6 S.A.",
@@ -170,8 +170,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAYC",
-    "bankCode": "KY",
+    "bankCode": "DAYC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "DAYCKYKY",
     "Bank Name": "BANCO DAYCOVAL S/A",
@@ -183,8 +183,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "KY",
+    "bankCode": "BRAS",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BRASKYKY",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -196,8 +196,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBI",
-    "bankCode": "KY",
+    "bankCode": "FIBI",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "FIBIKYKY",
     "Bank Name": "BANCO FIBRA S/A - GRAND CAYMAN BRANCH",
@@ -209,8 +209,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGOS",
-    "bankCode": "KY",
+    "bankCode": "BGOS",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BGOSKYKY",
     "Bank Name": "BANCO GENERAL (OVERSEAS) INC.",
@@ -222,8 +222,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCE",
-    "bankCode": "KY",
+    "bankCode": "BNCE",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "BNCEKYKX",
     "Bank Name": "BANCO NACIONAL DE COMERCIO EXTERIOR",
@@ -235,8 +235,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BORI",
-    "bankCode": "KY",
+    "bankCode": "BORI",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BORIKYKY",
     "Bank Name": "BANCO ORIGINAL S.A.",
@@ -248,8 +248,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBBR",
-    "bankCode": "KY",
+    "bankCode": "PBBR",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "PBBRKYKY",
     "Bank Name": "BANCO PINE S.A",
@@ -261,8 +261,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFR",
-    "bankCode": "KY",
+    "bankCode": "SAFR",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "SAFRKYKY",
     "Bank Name": "BANCO SAFRA S.A",
@@ -274,8 +274,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "KY",
+    "bankCode": "BSCH",
+    "countryCode": "KY",
     "branchCode": "CAY",
     "SWIFT Code": "BSCHKYKXCAY",
     "Bank Name": "BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH",
@@ -287,8 +287,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "KY",
+    "bankCode": "BSCH",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "BSCHKYKX",
     "Bank Name": "BANCO SANTANDER (BRASIL) SA GRAND CAYMAN BRANCH",
@@ -301,8 +301,8 @@ const caymanIslands = [
   },
   {},
   {
-    "countryCode": "BSBS",
-    "bankCode": "KY",
+    "bankCode": "BSBS",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BSBSKYKY",
     "Bank Name": "BANCO SOFISA S.A.",
@@ -314,8 +314,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUBR",
-    "bankCode": "KY",
+    "bankCode": "SUBR",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "SUBRKYKY",
     "Bank Name": "BANCO SUMITOMO MITSUI BRASILEIRO S.A.",
@@ -327,8 +327,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDVL",
-    "bankCode": "KY",
+    "bankCode": "IDVL",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "IDVLKYKY",
     "Bank Name": "BANCO VOITER S.A.",
@@ -340,8 +340,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KY",
+    "bankCode": "BKCH",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BKCHKYKY",
     "Bank Name": "BANK OF CHINA LIMITED, GRAND CAYMAN BRANCH",
@@ -353,8 +353,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "KY",
+    "bankCode": "BRIN",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "BRINKYKX",
     "Bank Name": "BANK RAKYAT INDONESIA",
@@ -366,8 +366,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMB",
-    "bankCode": "KY",
+    "bankCode": "BAMB",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "BAMBKYKX",
     "Bank Name": "BB CAYMAN ISLANDS HOLDING",
@@ -379,8 +379,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "KY",
+    "bankCode": "BLOM",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BLOMKYKY",
     "Bank Name": "BLOM SPV LTD.",
@@ -392,8 +392,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTB",
-    "bankCode": "KY",
+    "bankCode": "BNTB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BNTBKYKY",
     "Bank Name": "BUTTERFIELD BANK (CAYMAN) LIMITED",
@@ -405,8 +405,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIMG",
-    "bankCode": "KY",
+    "bankCode": "CIMG",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "CIMGKYKY",
     "Bank Name": "CAYMAN ISLANDS MONETARY AUTHORITY",
@@ -418,8 +418,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNAT",
-    "bankCode": "KY",
+    "bankCode": "CNAT",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "CNATKYKY",
     "Bank Name": "CAYMAN NATIONAL BANK LTD.",
@@ -431,8 +431,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICB",
-    "bankCode": "KY",
+    "bankCode": "BICB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BICBKYKY",
     "Bank Name": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MULTIPLO S /A",
@@ -444,8 +444,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBV",
-    "bankCode": "KY",
+    "bankCode": "COBV",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "COBVKYKY",
     "Bank Name": "CIBC CAYMAN BANK LIMITED",
@@ -457,8 +457,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBV",
-    "bankCode": "KY",
+    "bankCode": "COBV",
+    "countryCode": "KY",
     "branchCode": "YKB",
     "SWIFT Code": "COBVKYKB",
     "Bank Name": "CIBC CAYMAN BANK LIMITED",
@@ -470,8 +470,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "KY",
+    "bankCode": "CITC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "CITCKYKY",
     "Bank Name": "CITCO BANK AND TRUST COMPANY LIMITED",
@@ -483,8 +483,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "KY",
+    "bankCode": "COBA",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "COBAKYKX",
     "Bank Name": "COMMERZBANK AG,CAYMAN ISLANDS BRANCH",
@@ -496,8 +496,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "KY",
+    "bankCode": "CSFB",
+    "countryCode": "KY",
     "branchCode": "EQD",
     "SWIFT Code": "CSFBKYKXEQD",
     "Bank Name": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
@@ -509,8 +509,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "KY",
+    "bankCode": "CSFB",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "CSFBKYKX",
     "Bank Name": "CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH",
@@ -522,8 +522,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "KY",
+    "bankCode": "DEUT",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "DEUTKYKX",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -535,8 +535,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLCL",
-    "bankCode": "KY",
+    "bankCode": "DLCL",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "DLCLKYKY",
     "Bank Name": "DLOCAL LIMITED",
@@ -548,8 +548,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECAA",
-    "bankCode": "KY",
+    "bankCode": "ECAA",
+    "countryCode": "KY",
     "branchCode": "YK2",
     "SWIFT Code": "ECAAKYK2",
     "Bank Name": "EAST COAST ASSET MANAGEMENT SEZC",
@@ -561,8 +561,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "KY",
+    "bankCode": "EFGB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "EFGBKYKY",
     "Bank Name": "EFG BANK, CAYMAN BRANCH",
@@ -574,8 +574,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELTN",
-    "bankCode": "KY",
+    "bankCode": "ELTN",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ELTNKYKY",
     "Bank Name": "ELLIOTT INTERNATIONAL, L.P.",
@@ -587,8 +587,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "KY",
+    "bankCode": "EBIL",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "EBILKYKY",
     "Bank Name": "EMIRATES NBD GLOBAL MARKETS LLC",
@@ -600,8 +600,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPMF",
-    "bankCode": "KY",
+    "bankCode": "EPMF",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "EPMFKYKY",
     "Bank Name": "EXODUSPOINT PARTNERS MASTER FUND, LP",
@@ -613,8 +613,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "KY",
+    "bankCode": "NBAD",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "NBADKYKY",
     "Bank Name": "FAB GLOBAL MARKETS (CAYMAN) LIMITED",
@@ -626,8 +626,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "KY",
+    "bankCode": "FCIB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "FCIBKYKY",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LIMITED",
@@ -639,8 +639,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "KY",
+    "bankCode": "CIBC",
+    "countryCode": "KY",
     "branchCode": "YKC",
     "SWIFT Code": "CIBCKYKC",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK AND TRUST COMPANY (CAYMAN) LIMITED",
@@ -652,8 +652,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYI",
-    "bankCode": "KY",
+    "bankCode": "CAYI",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "CAYIKYKY",
     "Bank Name": "FUNDBANK LTD",
@@ -665,8 +665,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "KY",
+    "bankCode": "GULF",
+    "countryCode": "KY",
     "branchCode": "YK2",
     "SWIFT Code": "GULFKYK2",
     "Bank Name": "GIB KSA MARKETS LIMITED",
@@ -678,8 +678,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIMK",
-    "bankCode": "KY",
+    "bankCode": "GIMK",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "GIMKKYKY",
     "Bank Name": "GIB MARKETS LIMITED",
@@ -691,8 +691,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESB",
-    "bankCode": "KY",
+    "bankCode": "BESB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BESBKYKY",
     "Bank Name": "HAITONG BANCO DE INVESTIMENTO DO BRASIL S.A.",
@@ -704,8 +704,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVC",
-    "bankCode": "KY",
+    "bankCode": "INVC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "INVCKYKY",
     "Bank Name": "INVESTCORP TRADING LIMITED",
@@ -717,8 +717,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVC",
-    "bankCode": "KY",
+    "bankCode": "INVC",
+    "countryCode": "KY",
     "branchCode": "ISA",
     "SWIFT Code": "INVCKYKYISA",
     "Bank Name": "INVESTCORP TRADING LIMITED",
@@ -730,8 +730,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "KY",
+    "bankCode": "ITAU",
+    "countryCode": "KY",
     "branchCode": "YKT",
     "SWIFT Code": "ITAUKYKT",
     "Bank Name": "ITAU BANK, LIMITED",
@@ -743,8 +743,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBCF",
-    "bankCode": "KY",
+    "bankCode": "KBCF",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "KBCFKYKX",
     "Bank Name": "KBC FINANCIAL PRODUCTS (CAYMAN ISLANDS) LTD.",
@@ -756,8 +756,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KMRA",
-    "bankCode": "KY",
+    "bankCode": "KMRA",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "KMRAKYKY",
     "Bank Name": "KIMERA LIMITED",
@@ -769,8 +769,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIFD",
-    "bankCode": "KY",
+    "bankCode": "LIFD",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "LIFDKYKY",
     "Bank Name": "LICANIA FUND LTD.",
@@ -782,8 +782,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLBC",
-    "bankCode": "KY",
+    "bankCode": "MLBC",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "MLBCKYKX",
     "Bank Name": "MERRILL LYNCH BANK AND TRUST COMPANY (CAYMAN) LTD",
@@ -795,8 +795,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMCL",
-    "bankCode": "KY",
+    "bankCode": "MMCL",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "MMCLKYKY",
     "Bank Name": "MIZUHO MARKETS CAYMAN LP",
@@ -808,8 +808,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "KY",
+    "bankCode": "UBSW",
+    "countryCode": "KY",
     "branchCode": "GPP",
     "SWIFT Code": "UBSWKYKYGPP",
     "Bank Name": "MUFG ALTERNATIVE FUND SERVICES (CAYMAN) LIMITED",
@@ -821,8 +821,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "KY",
+    "bankCode": "UBSW",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "UBSWKYKY",
     "Bank Name": "MUFG ALTERNATIVE FUND SERVICES (CAYMAN) LIMITED",
@@ -834,8 +834,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "KY",
+    "bankCode": "NBFU",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "NBFUKYKY",
     "Bank Name": "NBF MARKETS (CAYMAN) LIMITED",
@@ -847,8 +847,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBGC",
-    "bankCode": "KY",
+    "bankCode": "NBGC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "NBGCKYKY",
     "Bank Name": "NBK GDM (CAYMANS) LIMITED",
@@ -860,8 +860,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIYC",
-    "bankCode": "KY",
+    "bankCode": "FIYC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "FIYCKYKY",
     "Bank Name": "PROVEN BANK (CAYMAN) LIMITED",
@@ -873,8 +873,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "KY",
+    "bankCode": "BMRI",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "BMRIKYKY",
     "Bank Name": "PT BANK MANDIRI (PERSERO)TBK CAYMAN ISLANDS BRANCH",
@@ -886,8 +886,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "KY",
+    "bankCode": "QNBA",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "QNBAKYKY",
     "Bank Name": "QNB (DERIVATIVES) LIMITED",
@@ -899,8 +899,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "KY",
+    "bankCode": "ROYC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "ROYCKYKY",
     "Bank Name": "RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA GRAND CAYMAN)",
@@ -912,8 +912,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "KY",
+    "bankCode": "ROYC",
+    "countryCode": "KY",
     "branchCode": "KYQ",
     "SWIFT Code": "ROYCKYKYKYQ",
     "Bank Name": "RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA GRAND CAYMAN)",
@@ -925,8 +925,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "KY",
+    "bankCode": "NOSC",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "NOSCKYKX",
     "Bank Name": "SCOTIABANK AND TRUST (CAYMAN) LTD.",
@@ -938,8 +938,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "KY",
+    "bankCode": "NOSC",
+    "countryCode": "KY",
     "branchCode": "TRU",
     "SWIFT Code": "NOSCKYKXTRU",
     "Bank Name": "SCOTIABANK AND TRUST (CAYMAN) LTD.",
@@ -951,8 +951,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "KY",
+    "bankCode": "SICO",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "SICOKYKY",
     "Bank Name": "SIAM COMMERCIAL BANK PCL., THE",
@@ -964,8 +964,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAGM",
-    "bankCode": "KY",
+    "bankCode": "SAGM",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "SAGMKYKY",
     "Bank Name": "SNB GLOBAL LIMITED",
@@ -977,8 +977,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBTC",
-    "bankCode": "KY",
+    "bankCode": "GBTC",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "GBTCKYKY",
     "Bank Name": "ST. GEORGES BANK AND TRUST COMPANY (CAYMAN) LTD.",
@@ -990,8 +990,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCIM",
-    "bankCode": "KY",
+    "bankCode": "TCIM",
+    "countryCode": "KY",
     "branchCode": "YK2",
     "SWIFT Code": "TCIMKYK2",
     "Bank Name": "TCI CAPITAL MARKETS LTD",
@@ -1003,8 +1003,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOWE",
-    "bankCode": "KY",
+    "bankCode": "TOWE",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "TOWEKYKY",
     "Bank Name": "TOWERBANK, LTD",
@@ -1016,8 +1016,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBTB",
-    "bankCode": "KY",
+    "bankCode": "VBTB",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "VBTBKYKY",
     "Bank Name": "VBT BANK AND TRUST,LTD.",
@@ -1029,8 +1029,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VZCR",
-    "bankCode": "KY",
+    "bankCode": "VZCR",
+    "countryCode": "KY",
     "branchCode": "YKY",
     "SWIFT Code": "VZCRKYKY",
     "Bank Name": "VENEZOLANO DE CREDITO, S.A., BANCO UNIVERSAL CAYMAN BRANCH",
@@ -1042,8 +1042,8 @@ const caymanIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "KY",
+    "bankCode": "WPAC",
+    "countryCode": "KY",
     "branchCode": "YKX",
     "SWIFT Code": "WPACKYKX",
     "Bank Name": "WESTPAC BANKING CORPORATION",

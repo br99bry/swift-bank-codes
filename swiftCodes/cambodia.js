@@ -1,7 +1,7 @@
 const cambodia = [
   {
-    "countryCode": "ACLB",
-    "bankCode": "KH",
+    "bankCode": "ACLB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ACLBKHPP",
     "Bank Name": "ACLEDA BANK PLC.",
@@ -13,8 +13,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABAA",
-    "bankCode": "KH",
+    "bankCode": "ABAA",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ABAAKHPP",
     "Bank Name": "ADVANCED BANK OF ASIA LIMITED",
@@ -26,8 +26,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARDM",
-    "bankCode": "KH",
+    "bankCode": "ARDM",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ARDMKHPP",
     "Bank Name": "AGRICULTURAL AND RURAL DEVELOPMENT BANK",
@@ -39,8 +39,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APCO",
-    "bankCode": "KH",
+    "bankCode": "APCO",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "APCOKHPP",
     "Bank Name": "ALPHA COMMERCIAL BANK PLC.",
@@ -52,8 +52,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMIU",
-    "bankCode": "KH",
+    "bankCode": "AMIU",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "AMIUKHPP",
     "Bank Name": "AMK MICROFINANCE INSTITUTION PLC",
@@ -65,8 +65,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADEO",
-    "bankCode": "KH",
+    "bankCode": "ADEO",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ADEOKHPP",
     "Bank Name": "APD BANK",
@@ -78,8 +78,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIOB",
-    "bankCode": "KH",
+    "bankCode": "BIOB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "BIOBKHPP",
     "Bank Name": "B.I.C (CAMBODIA) BANK PLC.",
@@ -91,8 +91,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "KH",
+    "bankCode": "BKKB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "BKKBKHPP",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED CAMBODIA BRANCH",
@@ -104,8 +104,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDBC",
-    "bankCode": "KH",
+    "bankCode": "IDBC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "IDBCKHPP",
     "Bank Name": "BANK FOR INVESTMENT AND DEVELOPMENT OF CAMBODIA PLC",
@@ -118,8 +118,8 @@ const cambodia = [
   },
   {},
   {
-    "countryCode": "BKBC",
-    "bankCode": "KH",
+    "bankCode": "BKBC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "BKBCKHPP",
     "Bank Name": "BOOYOUNG KHMER BANK",
@@ -131,8 +131,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "KH",
+    "bankCode": "BRED",
+    "countryCode": "KH",
     "branchCode": "HP2",
     "SWIFT Code": "BREDKHP2",
     "Bank Name": "BRED BANK (CAMBODIA) PLC",
@@ -145,8 +145,8 @@ const cambodia = [
   },
   {},
   {
-    "countryCode": "CABC",
-    "bankCode": "KH",
+    "bankCode": "CABC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CABCKHPP",
     "Bank Name": "CAMBODIA ASIA BANK LTD",
@@ -158,8 +158,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKGB",
-    "bankCode": "KH",
+    "bankCode": "MKGB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "MKGBKHPP",
     "Bank Name": "CAMBODIA MEKONG BANK PUBLIC LIMITED",
@@ -171,8 +171,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPBP",
-    "bankCode": "KH",
+    "bankCode": "CPBP",
+    "countryCode": "KH",
     "branchCode": "HP2",
     "SWIFT Code": "CPBPKHP2",
     "Bank Name": "CAMBODIA POST BANK PLC",
@@ -184,8 +184,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "KH",
+    "bankCode": "SICO",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "SICOKHPP",
     "Bank Name": "CAMBODIAN COMMERCIAL BANK LIMITED",
@@ -197,8 +197,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPBL",
-    "bankCode": "KH",
+    "bankCode": "CPBL",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CPBLKHPP",
     "Bank Name": "CAMBODIAN PUBLIC BANK PLC",
@@ -210,8 +210,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CADI",
-    "bankCode": "KH",
+    "bankCode": "CADI",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CADIKHPP",
     "Bank Name": "CANADIA BANK PLC",
@@ -223,8 +223,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSBC",
-    "bankCode": "KH",
+    "bankCode": "CSBC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CSBCKHPP",
     "Bank Name": "CATHAY UNITED BANK (CAMBODIA) CORPORATION LTD (FORMERLY SBC BANK)",
@@ -236,8 +236,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBC",
-    "bankCode": "KH",
+    "bankCode": "CHBC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CHBCKHPP",
     "Bank Name": "CHIEF (CAMBODIA) COMMERCIAL BANK PLC.",
@@ -249,8 +249,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHNO",
-    "bankCode": "KH",
+    "bankCode": "CHNO",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CHNOKHPP",
     "Bank Name": "CHIP MONG COMMERCIAL BANK PLC.",
@@ -262,8 +262,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "KH",
+    "bankCode": "CIBB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CIBBKHPP",
     "Bank Name": "CIMB BANK PLC",
@@ -275,8 +275,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAEB",
-    "bankCode": "KH",
+    "bankCode": "DAEB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "DAEBKHPP",
     "Bank Name": "DGB BANK PLC.",
@@ -288,8 +288,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "FCBKKHPP",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -301,8 +301,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "003",
     "SWIFT Code": "FCBKKHPP003",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -314,8 +314,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "001",
     "SWIFT Code": "FCBKKHPP001",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -327,8 +327,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "005",
     "SWIFT Code": "FCBKKHPP005",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -340,8 +340,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "008",
     "SWIFT Code": "FCBKKHPP008",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -353,8 +353,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "002",
     "SWIFT Code": "FCBKKHPP002",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -366,8 +366,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "009",
     "SWIFT Code": "FCBKKHPP009",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -379,8 +379,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "004",
     "SWIFT Code": "FCBKKHPP004",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -392,8 +392,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "006",
     "SWIFT Code": "FCBKKHPP006",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -405,8 +405,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "KH",
+    "bankCode": "FCBK",
+    "countryCode": "KH",
     "branchCode": "007",
     "SWIFT Code": "FCBKKHPP007",
     "Bank Name": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
@@ -418,8 +418,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTCC",
-    "bankCode": "KH",
+    "bankCode": "FTCC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "FTCCKHPP",
     "Bank Name": "FOREIGN TRADE BANK OF CAMBODIA",
@@ -431,8 +431,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HATH",
-    "bankCode": "KH",
+    "bankCode": "HATH",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "HATHKHPP",
     "Bank Name": "HATTHA BANK PLC.",
@@ -444,8 +444,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "KH",
+    "bankCode": "HLBB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "HLBBKHPP",
     "Bank Name": "HONG LEONG BANK (CAMBODIA) PLC",
@@ -457,8 +457,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "KH",
+    "bankCode": "ICBK",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ICBKKHPP",
     "Bank Name": "ICBC LIMITED PHNOM PENH BRANCH",
@@ -470,8 +470,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "KH",
+    "bankCode": "IBKO",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "IBKOKHPP",
     "Bank Name": "INDUSTRIAL BANK OF KOREA, PHNOM PENH BRANCH",
@@ -483,8 +483,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCAB",
-    "bankCode": "KH",
+    "bankCode": "TCAB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "TCABKHPP",
     "Bank Name": "J TRUST ROYAL BANK PLC.",
@@ -496,8 +496,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "KH",
+    "bankCode": "KASI",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "KASIKHPP",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED (PHNOM PENH)",
@@ -509,8 +509,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KH",
+    "bankCode": "CZNB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "CZNBKHPP",
     "Bank Name": "KB PRASAC BANK PLC",
@@ -522,8 +522,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOLC",
-    "bankCode": "KH",
+    "bankCode": "LOLC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "LOLCKHPP",
     "Bank Name": "LOLC (CAMBODIA) PLC.",
@@ -535,8 +535,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "KH",
+    "bankCode": "MBBE",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "MBBEKHPP",
     "Bank Name": "MAYBANK (CAMBODIA) PLC.",
@@ -548,8 +548,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "KH",
+    "bankCode": "ICBC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ICBCKHPP",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD PHNOM PENH BRANCH",
@@ -562,8 +562,8 @@ const cambodia = [
   },
   {},
   {
-    "countryCode": "ICBC",
-    "bankCode": "KH",
+    "bankCode": "ICBC",
+    "countryCode": "KH",
     "branchCode": "OLY",
     "SWIFT Code": "ICBCKHPPOLY",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD PHNOM PENH BRANCH",
@@ -575,8 +575,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "KH",
+    "bankCode": "ICBC",
+    "countryCode": "KH",
     "branchCode": "PPA",
     "SWIFT Code": "ICBCKHPPPPA",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD PHNOM PENH BRANCH",
@@ -589,8 +589,8 @@ const cambodia = [
   },
   {},
   {
-    "countryCode": "ICBC",
-    "bankCode": "KH",
+    "bankCode": "ICBC",
+    "countryCode": "KH",
     "branchCode": "TKM",
     "SWIFT Code": "ICBCKHPPTKM",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD PHNOM PENH BRANCH",
@@ -602,8 +602,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCAM",
-    "bankCode": "KH",
+    "bankCode": "NCAM",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "NCAMKHPP",
     "Bank Name": "NATIONAL BANK OF CAMBODIA",
@@ -615,8 +615,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OREN",
-    "bankCode": "KH",
+    "bankCode": "OREN",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "ORENKHPP",
     "Bank Name": "ORIENTAL BANK PLC.",
@@ -628,8 +628,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNCO",
-    "bankCode": "KH",
+    "bankCode": "PNCO",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "PNCOKHPP",
     "Bank Name": "PANDA COMMERCIAL BANK PLC.",
@@ -641,8 +641,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDSB",
-    "bankCode": "KH",
+    "bankCode": "HDSB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "HDSBKHPP",
     "Bank Name": "PHILLIP BANK PLC",
@@ -654,8 +654,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPCB",
-    "bankCode": "KH",
+    "bankCode": "PPCB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "PPCBKHPP",
     "Bank Name": "PHNOM PENH COMMERCIAL BANK PLC",
@@ -667,8 +667,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PINC",
-    "bankCode": "KH",
+    "bankCode": "PINC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "PINCKHPP",
     "Bank Name": "PRINCE BANK PLC.",
@@ -680,8 +680,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSKI",
-    "bankCode": "KH",
+    "bankCode": "OSKI",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "OSKIKHPP",
     "Bank Name": "RHB BANK (CAMBODIA) PLC",
@@ -693,8 +693,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBPL",
-    "bankCode": "KH",
+    "bankCode": "SBPL",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "SBPLKHPP",
     "Bank Name": "SATHAPANA BANK PLC.",
@@ -706,8 +706,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBHR",
-    "bankCode": "KH",
+    "bankCode": "SBHR",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "SBHRKHPP",
     "Bank Name": "SBI LY HOUR BANK PLC",
@@ -719,8 +719,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KH",
+    "bankCode": "SHBK",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "SHBKKHPP",
     "Bank Name": "SHINHAN BANK (CAMBODIA) PLC",
@@ -732,8 +732,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "KH",
+    "bankCode": "TACB",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "TACBKHPP",
     "Bank Name": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
@@ -745,8 +745,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "KH",
+    "bankCode": "TACB",
+    "countryCode": "KH",
     "branchCode": "914",
     "SWIFT Code": "TACBKHPP914",
     "Bank Name": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
@@ -758,8 +758,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "KH",
+    "bankCode": "TACB",
+    "countryCode": "KH",
     "branchCode": "913",
     "SWIFT Code": "TACBKHPP913",
     "Bank Name": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
@@ -771,8 +771,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "KH",
+    "bankCode": "TACB",
+    "countryCode": "KH",
     "branchCode": "916",
     "SWIFT Code": "TACBKHPP916",
     "Bank Name": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
@@ -784,8 +784,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBP",
-    "bankCode": "KH",
+    "bankCode": "UCBP",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "UCBPKHPP",
     "Bank Name": "UNION COMMERCIAL BANK PLC",
@@ -797,8 +797,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBLC",
-    "bankCode": "KH",
+    "bankCode": "VBLC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "VBLCKHPP",
     "Bank Name": "VATTANAC BANK",
@@ -810,8 +810,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBAA",
-    "bankCode": "KH",
+    "bankCode": "VBAA",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "VBAAKHPP",
     "Bank Name": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CAMBODIA BRANCH",
@@ -823,8 +823,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIGC",
-    "bankCode": "KH",
+    "bankCode": "WIGC",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "WIGCKHPP",
     "Bank Name": "WING BANK (CAMBODIA) PLC",
@@ -836,8 +836,8 @@ const cambodia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "KH",
+    "bankCode": "HVBK",
+    "countryCode": "KH",
     "branchCode": "HPP",
     "SWIFT Code": "HVBKKHPP",
     "Bank Name": "WOORI BANK (CAMBODIA) PLC.",

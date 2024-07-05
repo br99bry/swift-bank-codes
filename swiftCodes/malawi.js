@@ -1,7 +1,7 @@
 const malawi = [
   {
-    "countryCode": "CDHI",
-    "bankCode": "MW",
+    "bankCode": "CDHI",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "CDHIMWMW",
     "Bank Name": "CDH INVESTMENT BANK (CDHIB)",
@@ -13,8 +13,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBC",
-    "bankCode": "MW",
+    "bankCode": "MBBC",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "MBBCMWMW",
     "Bank Name": "CENTENARY BANK LIMITED",
@@ -27,8 +27,8 @@ const malawi = [
   },
   {},
   {
-    "countryCode": "FDHF",
-    "bankCode": "MW",
+    "bankCode": "FDHF",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "FDHFMWMW",
     "Bank Name": "FDH BANK PLC",
@@ -40,8 +40,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCG",
-    "bankCode": "MW",
+    "bankCode": "FRCG",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "FRCGMWMW",
     "Bank Name": "FIRST CAPITAL BANK PLC., MALAWI",
@@ -53,8 +53,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDHD",
-    "bankCode": "MW",
+    "bankCode": "FDHD",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "FDHDMWMW",
     "Bank Name": "FIRST DISCOUNT HOUSE LIMITED",
@@ -66,8 +66,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFBM",
-    "bankCode": "MW",
+    "bankCode": "NFBM",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "NFBMMWMW",
     "Bank Name": "MYBUCKS BANKING CORPORATION LIMITED",
@@ -79,8 +79,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "NBMAMWMW",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -92,8 +92,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "044",
     "SWIFT Code": "NBMAMWMW044",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -105,8 +105,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "001",
     "SWIFT Code": "NBMAMWMW001",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -118,8 +118,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "002",
     "SWIFT Code": "NBMAMWMW002",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -131,8 +131,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "045",
     "SWIFT Code": "NBMAMWMW045",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -144,8 +144,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "003",
     "SWIFT Code": "NBMAMWMW003",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -157,8 +157,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "007",
     "SWIFT Code": "NBMAMWMW007",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -170,8 +170,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "008",
     "SWIFT Code": "NBMAMWMW008",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -183,8 +183,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "005",
     "SWIFT Code": "NBMAMWMW005",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -196,8 +196,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMA",
-    "bankCode": "MW",
+    "bankCode": "NBMA",
+    "countryCode": "MW",
     "branchCode": "004",
     "SWIFT Code": "NBMAMWMW004",
     "Bank Name": "NATIONAL BANK OF MALAWI",
@@ -209,8 +209,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBST",
-    "bankCode": "MW",
+    "bankCode": "NBST",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "NBSTMWMW",
     "Bank Name": "NBS BANK PLC",
@@ -222,8 +222,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "MRA",
     "SWIFT Code": "RBMAMWMWMRA",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -235,8 +235,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "WMR",
     "SWIFT Code": "RBMAMWMR",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -248,8 +248,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "MOF",
     "SWIFT Code": "RBMAMWMWMOF",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -261,8 +261,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "WMW",
     "SWIFT Code": "RBMAMWMW",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -274,8 +274,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "ADV",
     "SWIFT Code": "RBMAMWMWADV",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -287,8 +287,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "COM",
     "SWIFT Code": "RBMAMWMWCOM",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -301,8 +301,8 @@ const malawi = [
   },
   {},
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "DVT",
     "SWIFT Code": "RBMAMWMWDVT",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -314,8 +314,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "DEV",
     "SWIFT Code": "RBMAMWMWDEV",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -327,8 +327,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "MIS",
     "SWIFT Code": "RBMAMWMWMIS",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -340,8 +340,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "ORT",
     "SWIFT Code": "RBMAMWMWORT",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -353,8 +353,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "PEN",
     "SWIFT Code": "RBMAMWMWPEN",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -366,8 +366,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBMA",
-    "bankCode": "MW",
+    "bankCode": "RBMA",
+    "countryCode": "MW",
     "branchCode": "SAL",
     "SWIFT Code": "RBMAMWMWSAL",
     "Bank Name": "RESERVE BANK OF MALAWI",
@@ -379,8 +379,8 @@ const malawi = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "MW",
+    "bankCode": "SBIC",
+    "countryCode": "MW",
     "branchCode": "WMX",
     "SWIFT Code": "SBICMWMX",
     "Bank Name": "STANDARD BANK PLC",

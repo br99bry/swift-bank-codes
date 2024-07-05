@@ -1,7 +1,7 @@
 const botswana = [
   {
-    "countryCode": "BARC",
-    "bankCode": "BW",
+    "bankCode": "BARC",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "BARCBWGX",
     "Bank Name": "ABSA BANK BOTSWANA LIMITED",
@@ -13,8 +13,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "BW",
+    "bankCode": "BARC",
+    "countryCode": "BW",
     "branchCode": "CBS",
     "SWIFT Code": "BARCBWGXCBS",
     "Bank Name": "ABSA BANK BOTSWANA LIMITED",
@@ -26,8 +26,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMBZ",
-    "bankCode": "BW",
+    "bankCode": "FMBZ",
+    "countryCode": "BW",
     "branchCode": "WGA",
     "SWIFT Code": "FMBZBWGA",
     "Bank Name": "ACCESS BANK BOTSWANA LIMITED",
@@ -39,8 +39,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGLI",
-    "bankCode": "BW",
+    "bankCode": "BGLI",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "BGLIBWGX",
     "Bank Name": "BANK GABORONE LIMITED",
@@ -52,8 +52,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "BW",
+    "bankCode": "BARB",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "BARBBWGX",
     "Bank Name": "BANK OF BARODA (BOTSWANA) LIMITED",
@@ -65,8 +65,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOT",
-    "bankCode": "BW",
+    "bankCode": "BBOT",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "BBOTBWGX",
     "Bank Name": "BANK OF BOTSWANA",
@@ -78,8 +78,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKN",
-    "bankCode": "BW",
+    "bankCode": "BBKN",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "BBKNBWGX",
     "Bank Name": "BBS BANK LIMITED",
@@ -91,8 +91,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIFM",
-    "bankCode": "BW",
+    "bankCode": "BIFM",
+    "countryCode": "BW",
     "branchCode": "WGA",
     "SWIFT Code": "BIFMBWGA",
     "Bank Name": "BOTSWANA INSURANCE FUND MANAGEMENT LIMITED",
@@ -105,8 +105,8 @@ const botswana = [
   },
   {},
   {
-    "countryCode": "DDCO",
-    "bankCode": "BW",
+    "bankCode": "DDCO",
+    "countryCode": "BW",
     "branchCode": "WGA",
     "SWIFT Code": "DDCOBWGA",
     "Bank Name": "DEBSWANA DIAMOND COMPANY (PTY) LTD",
@@ -118,8 +118,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCG",
-    "bankCode": "BW",
+    "bankCode": "FRCG",
+    "countryCode": "BW",
     "branchCode": "WGA",
     "SWIFT Code": "FRCGBWGA",
     "Bank Name": "FIRST CAPITAL BANK LIMITED",
@@ -131,8 +131,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "BW",
+    "bankCode": "FIRN",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "FIRNBWGX",
     "Bank Name": "FIRST NATIONAL BANK OF BOTSWANA LIMITED",
@@ -144,8 +144,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "BW",
+    "bankCode": "FIRN",
+    "countryCode": "BW",
     "branchCode": "CUS",
     "SWIFT Code": "FIRNBWGXCUS",
     "Bank Name": "FIRST NATIONAL BANK OF BOTSWANA LIMITED",
@@ -157,8 +157,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "BW",
+    "bankCode": "SBIC",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "SBICBWGX",
     "Bank Name": "STANBIC BANK BOTSWANA LIMITED",
@@ -170,8 +170,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "017",
     "SWIFT Code": "SCHBBWGX017",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -184,8 +184,8 @@ const botswana = [
   },
   {},
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "024",
     "SWIFT Code": "SCHBBWGX024",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -197,8 +197,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "036",
     "SWIFT Code": "SCHBBWGX036",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -210,8 +210,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "WGX",
     "SWIFT Code": "SCHBBWGX",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -223,8 +223,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "023",
     "SWIFT Code": "SCHBBWGX023",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -236,8 +236,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "021",
     "SWIFT Code": "SCHBBWGX021",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -249,8 +249,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "027",
     "SWIFT Code": "SCHBBWGX027",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -263,8 +263,8 @@ const botswana = [
   },
   {},
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "022",
     "SWIFT Code": "SCHBBWGX022",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -276,8 +276,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "008",
     "SWIFT Code": "SCHBBWGX008",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -289,8 +289,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "009",
     "SWIFT Code": "SCHBBWGX009",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -302,8 +302,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "013",
     "SWIFT Code": "SCHBBWGX013",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -315,8 +315,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "019",
     "SWIFT Code": "SCHBBWGX019",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -328,8 +328,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "018",
     "SWIFT Code": "SCHBBWGX018",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -341,8 +341,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "015",
     "SWIFT Code": "SCHBBWGX015",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",
@@ -354,8 +354,8 @@ const botswana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHB",
-    "bankCode": "BW",
+    "bankCode": "SCHB",
+    "countryCode": "BW",
     "branchCode": "016",
     "SWIFT Code": "SCHBBWGX016",
     "Bank Name": "STANDARD CHARTERED BANK BOTSWANA LTD.",

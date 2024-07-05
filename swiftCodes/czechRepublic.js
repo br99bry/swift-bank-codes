@@ -1,7 +1,7 @@
 const czechRepublic = [
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "FIN",
     "SWIFT Code": "PAERCZPPFIN",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",
@@ -13,8 +13,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "PRG",
     "SWIFT Code": "PAERCZPPPRG",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",
@@ -28,8 +28,8 @@ const czechRepublic = [
   {},
   {},
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "INT",
     "SWIFT Code": "PAERCZPPINT",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",
@@ -41,8 +41,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "PAERCZPP",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",
@@ -55,8 +55,8 @@ const czechRepublic = [
   },
   {},
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "GLB",
     "SWIFT Code": "PAERCZPPGLB",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",
@@ -68,8 +68,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "COR",
     "SWIFT Code": "PAERCZPPCOR",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",
@@ -81,8 +81,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "CZ",
+    "bankCode": "BPKO",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "BPKOCZPP",
     "Bank Name": "PKO BP S.A., CZECH BRANCH",
@@ -94,8 +94,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAPO",
-    "bankCode": "CZ",
+    "bankCode": "PAPO",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "PAPOCZP2",
     "Bank Name": "PP MONEY TRANSFER S.R.O.",
@@ -107,8 +107,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMBP",
-    "bankCode": "CZ",
+    "bankCode": "PMBP",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "PMBPCZPP",
     "Bank Name": "PPF BANKA A.S.",
@@ -120,8 +120,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBC",
-    "bankCode": "CZ",
+    "bankCode": "RZBC",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "RZBCCZPP",
     "Bank Name": "RAIFFEISENBANK A.S.",
@@ -133,8 +133,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKE",
-    "bankCode": "CZ",
+    "bankCode": "ROKE",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "ROKECZP2",
     "Bank Name": "ROKLEN360 A.S.",
@@ -146,8 +146,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBFN",
-    "bankCode": "CZ",
+    "bankCode": "SBFN",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "SBFNCZP2",
     "Bank Name": "SAB FINANCE A.S.",
@@ -159,8 +159,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "CZ",
+    "bankCode": "VBOE",
+    "countryCode": "CZ",
     "branchCode": "Z2X",
     "SWIFT Code": "VBOECZ2X",
     "Bank Name": "SBERBANK CZ, A.S. V LIKVIDACI",
@@ -172,8 +172,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKTA",
-    "bankCode": "CZ",
+    "bankCode": "SKTA",
+    "countryCode": "CZ",
     "branchCode": "Z22",
     "SWIFT Code": "SKTACZ22",
     "Bank Name": "SKODA TRANSPORTATION A.S.",
@@ -185,8 +185,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPUB",
-    "bankCode": "CZ",
+    "bankCode": "MPUB",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "MPUBCZPP",
     "Bank Name": "TRINITY BANK A.S.",
@@ -198,8 +198,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "CZ",
+    "bankCode": "BACX",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "BACXCZPP",
     "Bank Name": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
@@ -211,8 +211,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "CZ",
+    "bankCode": "BACX",
+    "countryCode": "CZ",
     "branchCode": "FAR",
     "SWIFT Code": "BACXCZPPFAR",
     "Bank Name": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
@@ -224,8 +224,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "CZ",
+    "bankCode": "BACX",
+    "countryCode": "CZ",
     "branchCode": "CBL",
     "SWIFT Code": "BACXCZPPCBL",
     "Bank Name": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
@@ -237,8 +237,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "CZ",
+    "bankCode": "BACX",
+    "countryCode": "CZ",
     "branchCode": "RET",
     "SWIFT Code": "BACXCZPPRET",
     "Bank Name": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
@@ -250,8 +250,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "CZ",
+    "bankCode": "PANX",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "PANXCZP2",
     "Bank Name": "UNIFIEDPOST PAYMENTS S.A., ODSTEPNY ZAVOD",
@@ -263,8 +263,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIL",
-    "bankCode": "CZ",
+    "bankCode": "AXIL",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "AXILCZPP",
     "Bank Name": "UNIQA INVESTICNI SPOLECNOST, A. S.",
@@ -276,8 +276,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "CZ",
+    "bankCode": "VPAY",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "VPAYCZP2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. ODSTEPNY ZAVOD",
@@ -289,8 +289,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUBA",
-    "bankCode": "CZ",
+    "bankCode": "SUBA",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "SUBACZPP",
     "Bank Name": "VSEOBECNA UVEROVA BANKA A.S., PRAGUE BRANCH",
@@ -302,8 +302,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOOD",
-    "bankCode": "CZ",
+    "bankCode": "WOOD",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "WOODCZPP",
     "Bank Name": "WOOD AND COMPANY",
@@ -315,8 +315,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZENG",
-    "bankCode": "CZ",
+    "bankCode": "ZENG",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "ZENGCZPP",
     "Bank Name": "ZENTIVA GROUP S.A.",
@@ -328,8 +328,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRA",
-    "bankCode": "CZ",
+    "bankCode": "AIRA",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "AIRACZPP",
     "Bank Name": "AIR BANK A.S.",
@@ -341,8 +341,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKCN",
-    "bankCode": "CZ",
+    "bankCode": "AKCN",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "AKCNCZP2",
     "Bank Name": "AKCENTA CZ A.S.",
@@ -354,8 +354,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APOR",
-    "bankCode": "CZ",
+    "bankCode": "APOR",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "APORCZP2",
     "Bank Name": "ALTERNATIVE PAYMENT SOLUTIONS, S.R.O",
@@ -367,8 +367,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARTT",
-    "bankCode": "CZ",
+    "bankCode": "ARTT",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "ARTTCZPP",
     "Bank Name": "ARTESA, SPORITELNI DRUZSTVO",
@@ -380,8 +380,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CZ",
+    "bankCode": "BKCH",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "BKCHCZPP",
     "Bank Name": "BANK OF CHINA (CEE) LTD. PRAGUE BRANCH",
@@ -393,8 +393,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CZ",
+    "bankCode": "COMM",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "COMMCZPP",
     "Bank Name": "BANK OF COMMUNICATIONS CO., LTD. PRAGUE BRANCH ODSTEPNY ZAVOD",
@@ -406,8 +406,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTAS",
-    "bankCode": "CZ",
+    "bankCode": "CTAS",
+    "countryCode": "CZ",
     "branchCode": "Z22",
     "SWIFT Code": "CTASCZ22",
     "Bank Name": "BANKA CREDITAS",
@@ -419,8 +419,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOR",
-    "bankCode": "CZ",
+    "bankCode": "BPOR",
+    "countryCode": "CZ",
     "branchCode": "Z22",
     "SWIFT Code": "BPORCZ22",
     "Bank Name": "BEEKASH PAYMENT SOLUTION SRO",
@@ -432,8 +432,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEOR",
-    "bankCode": "CZ",
+    "bankCode": "BEOR",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "BEORCZP2",
     "Bank Name": "BESTPAY S.R.O.",
@@ -445,8 +445,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "CZ",
+    "bankCode": "GEBA",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "GEBACZPP",
     "Bank Name": "BNP PARIBAS S.A., POBOCKA CESKA REPUBLIKA",
@@ -458,8 +458,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDUS",
-    "bankCode": "CZ",
+    "bankCode": "IDUS",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "IDUSCZPP",
     "Bank Name": "CE INDUSTRIES A.S.",
@@ -471,8 +471,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIY",
-    "bankCode": "CZ",
+    "bankCode": "UNIY",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "UNIYCZPP",
     "Bank Name": "CENTRALNI DEPOZITAR CENNYCH PAPIRU, A.S.",
@@ -484,8 +484,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIY",
-    "bankCode": "CZ",
+    "bankCode": "UNIY",
+    "countryCode": "CZ",
     "branchCode": "ZPA",
     "SWIFT Code": "UNIYCZPA",
     "Bank Name": "CENTRALNI DEPOZITAR CENNYCH PAPIRU, A.S.",
@@ -497,8 +497,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNBA",
-    "bankCode": "CZ",
+    "bankCode": "CNBA",
+    "countryCode": "CZ",
     "branchCode": "ZPB",
     "SWIFT Code": "CNBACZPB",
     "Bank Name": "CESKA NARODNI BANKA",
@@ -510,8 +510,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNBA",
-    "bankCode": "CZ",
+    "bankCode": "CNBA",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "CNBACZPP",
     "Bank Name": "CESKA NARODNI BANKA",
@@ -523,8 +523,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "CZ",
+    "bankCode": "GIBA",
+    "countryCode": "CZ",
     "branchCode": "ZPX",
     "SWIFT Code": "GIBACZPX",
     "Bank Name": "CESKA SPORITELNA A.S.",
@@ -536,8 +536,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEKO",
-    "bankCode": "CZ",
+    "bankCode": "CEKO",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "CEKOCZPP",
     "Bank Name": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
@@ -549,8 +549,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEZC",
-    "bankCode": "CZ",
+    "bankCode": "CEZC",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "CEZCCZPP",
     "Bank Name": "CEZ, A. S.",
@@ -562,8 +562,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITF",
-    "bankCode": "CZ",
+    "bankCode": "CITF",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "CITFCZPP",
     "Bank Name": "CITFIN, SPORITELNI DRUZSTVO",
@@ -575,8 +575,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CZ",
+    "bankCode": "CITI",
+    "countryCode": "CZ",
     "branchCode": "ZPX",
     "SWIFT Code": "CITICZPX",
     "Bank Name": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
@@ -588,8 +588,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CZ",
+    "bankCode": "CITI",
+    "countryCode": "CZ",
     "branchCode": "AOC",
     "SWIFT Code": "CITICZPXAOC",
     "Bank Name": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
@@ -601,8 +601,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CZ",
+    "bankCode": "CITI",
+    "countryCode": "CZ",
     "branchCode": "GCM",
     "SWIFT Code": "CITICZPXGCM",
     "Bank Name": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
@@ -614,8 +614,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CZ",
+    "bankCode": "CITI",
+    "countryCode": "CZ",
     "branchCode": "TRD",
     "SWIFT Code": "CITICZPXTRD",
     "Bank Name": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
@@ -627,8 +627,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMEH",
-    "bankCode": "CZ",
+    "bankCode": "CMEH",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "CMEHCZPP",
     "Bank Name": "CME SERVICES S.R.O.",
@@ -640,8 +640,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "CZ",
+    "bankCode": "COBA",
+    "countryCode": "CZ",
     "branchCode": "ZPX",
     "SWIFT Code": "COBACZPX",
     "Bank Name": "COMMERZBANK AG",
@@ -653,8 +653,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTL",
-    "bankCode": "CZ",
+    "bankCode": "SMTL",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "SMTLCZP2",
     "Bank Name": "CREA PAY S.R.O.",
@@ -666,8 +666,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGGM",
-    "bankCode": "CZ",
+    "bankCode": "SGGM",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "SGGMCZPP",
     "Bank Name": "CSGM A.S.",
@@ -679,8 +679,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZEE",
-    "bankCode": "CZ",
+    "bankCode": "CZEE",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "CZEECZPP",
     "Bank Name": "CZECH EXPORT BANK",
@@ -692,8 +692,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CZ",
+    "bankCode": "DEUT",
+    "countryCode": "CZ",
     "branchCode": "ZPX",
     "SWIFT Code": "DEUTCZPX",
     "Bank Name": "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE PRAG, ORGANIZACNI SLOZKA",
@@ -705,8 +705,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESRO",
-    "bankCode": "CZ",
+    "bankCode": "ESRO",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "ESROCZP2",
     "Bank Name": "E-STEPS S.R.O.",
@@ -718,8 +718,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOLO",
-    "bankCode": "CZ",
+    "bankCode": "KOLO",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "KOLOCZP2",
     "Bank Name": "EUROPEAN SECUREPAY CENTER S.R.O.",
@@ -731,8 +731,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOLO",
-    "bankCode": "CZ",
+    "bankCode": "KOLO",
+    "countryCode": "CZ",
     "branchCode": "999",
     "SWIFT Code": "KOLOCZP2999",
     "Bank Name": "EUROPEAN SECUREPAY CENTER S.R.O.",
@@ -744,8 +744,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIOB",
-    "bankCode": "CZ",
+    "bankCode": "FIOB",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "FIOBCZPP",
     "Bank Name": "FIO BANKA, A.S.",
@@ -757,8 +757,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNRL",
-    "bankCode": "CZ",
+    "bankCode": "GNRL",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "GNRLCZPP",
     "Bank Name": "GENERALI INVESTMENTS CEE, INV.SPOL,A.S.",
@@ -770,8 +770,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "CZ",
+    "bankCode": "MIDL",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "MIDLCZPP",
     "Bank Name": "HSBC CONTINENTAL EUROPE, CZECH REPUBLIC",
@@ -783,8 +783,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "CZ",
+    "bankCode": "MIDL",
+    "countryCode": "CZ",
     "branchCode": "SDD",
     "SWIFT Code": "MIDLCZPPSDD",
     "Bank Name": "HSBC CONTINENTAL EUROPE, CZECH REPUBLIC",
@@ -796,8 +796,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CZ",
+    "bankCode": "ICBK",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "ICBKCZPP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, PRAGUE BRANCH, ODSTEPNY ZAVOD",
@@ -809,8 +809,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "CZ",
+    "bankCode": "INGB",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "INGBCZPP",
     "Bank Name": "ING BANK N.V.",
@@ -822,8 +822,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTBP",
-    "bankCode": "CZ",
+    "bankCode": "JTBP",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "JTBPCZPP",
     "Bank Name": "J AND T BANKA A.S.",
@@ -835,8 +835,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSOO",
-    "bankCode": "CZ",
+    "bankCode": "KSOO",
+    "countryCode": "CZ",
     "branchCode": "Z22",
     "SWIFT Code": "KSOOCZ22",
     "Bank Name": "KIWI.COM S.R.O.",
@@ -848,8 +848,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMB",
-    "bankCode": "CZ",
+    "bankCode": "KOMB",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "KOMBCZPP",
     "Bank Name": "KOMERCNI BANKA A.S.",
@@ -861,8 +861,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXPN",
-    "bankCode": "CZ",
+    "bankCode": "EXPN",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "EXPNCZPP",
     "Bank Name": "MAX BANKA A.S.",
@@ -874,8 +874,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "CZ",
+    "bankCode": "BREX",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "BREXCZPP",
     "Bank Name": "MBANK S.A., ORGANIZACNI SLOZKA",
@@ -887,8 +887,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBA",
-    "bankCode": "CZ",
+    "bankCode": "AGBA",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "AGBACZPP",
     "Bank Name": "MONETA MONEY BANK, A.S.",
@@ -900,8 +900,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOUS",
-    "bankCode": "CZ",
+    "bankCode": "MOUS",
+    "countryCode": "CZ",
     "branchCode": "ZP2",
     "SWIFT Code": "MOUSCZP2",
     "Bank Name": "MONEYPOLO EUROPE S.R.O.",
@@ -913,8 +913,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRSO",
-    "bankCode": "CZ",
+    "bankCode": "MRSO",
+    "countryCode": "CZ",
     "branchCode": "Z22",
     "SWIFT Code": "MRSOCZ22",
     "Bank Name": "MORTONS S.R.O.",
@@ -926,8 +926,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NROZ",
-    "bankCode": "CZ",
+    "bankCode": "NROZ",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "NROZCZPP",
     "Bank Name": "NARODNI ROZVOJOVA BANKA, A.S.",
@@ -939,8 +939,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "CZ",
+    "bankCode": "OBKL",
+    "countryCode": "CZ",
     "branchCode": "Z2X",
     "SWIFT Code": "OBKLCZ2X",
     "Bank Name": "OBERBANK AG",
@@ -952,8 +952,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYYM",
-    "bankCode": "CZ",
+    "bankCode": "PYYM",
+    "countryCode": "CZ",
     "branchCode": "ZPP",
     "SWIFT Code": "PYYMCZPP",
     "Bank Name": "PAYMASTER A.S.",
@@ -965,8 +965,8 @@ const czechRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAER",
-    "bankCode": "CZ",
+    "bankCode": "PAER",
+    "countryCode": "CZ",
     "branchCode": "GEN",
     "SWIFT Code": "PAERCZPPGEN",
     "Bank Name": "PAYMENT EXECUTION S.R.O.",

@@ -1,7 +1,7 @@
 const zambia = [
   {
-    "countryCode": "ABBA",
-    "bankCode": "ZM",
+    "bankCode": "ABBA",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "ABBAZMLU",
     "Bank Name": "AB BANK ZAMBIA LTD.",
@@ -13,8 +13,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "ZM",
+    "bankCode": "BARC",
+    "countryCode": "ZM",
     "branchCode": "KPC",
     "SWIFT Code": "BARCZMLXKPC",
     "Bank Name": "ABSA BANK ZAMBIA PLC",
@@ -26,8 +26,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "ZM",
+    "bankCode": "BARC",
+    "countryCode": "ZM",
     "branchCode": "MLX",
     "SWIFT Code": "BARCZMLX",
     "Bank Name": "ABSA BANK ZAMBIA PLC",
@@ -39,8 +39,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZAM",
-    "bankCode": "ZM",
+    "bankCode": "AZAM",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "AZAMZMLU",
     "Bank Name": "ACCESS BANK ZAMBIA LIMITED",
@@ -52,8 +52,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMBZ",
-    "bankCode": "ZM",
+    "bankCode": "FMBZ",
+    "countryCode": "ZM",
     "branchCode": "MLX",
     "SWIFT Code": "FMBZZMLX",
     "Bank Name": "AFRICAN BANKING CORPORATION ZAMBIA",
@@ -65,8 +65,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "ZM",
+    "bankCode": "BKCH",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "BKCHZMLU",
     "Bank Name": "BANK OF CHINA (ZAMBIA) LTD",
@@ -78,8 +78,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAZA",
-    "bankCode": "ZM",
+    "bankCode": "BAZA",
+    "countryCode": "ZM",
     "branchCode": "MLA",
     "SWIFT Code": "BAZAZMLA",
     "Bank Name": "BANK OF ZAMBIA",
@@ -91,8 +91,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAZA",
-    "bankCode": "ZM",
+    "bankCode": "BAZA",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "BAZAZMLU",
     "Bank Name": "BANK OF ZAMBIA",
@@ -104,8 +104,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAZA",
-    "bankCode": "ZM",
+    "bankCode": "BAZA",
+    "countryCode": "ZM",
     "branchCode": "ASA",
     "SWIFT Code": "BAZAZMLUASA",
     "Bank Name": "BANK OF ZAMBIA",
@@ -117,8 +117,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ZM",
+    "bankCode": "CITI",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "CITIZMLU",
     "Bank Name": "CITIBANK ZAMBIA LTD",
@@ -130,8 +130,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "ZM",
+    "bankCode": "ECOC",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "ECOCZMLU",
     "Bank Name": "ECOBANK ZAMBIA",
@@ -143,8 +143,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FALL",
-    "bankCode": "ZM",
+    "bankCode": "FALL",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "FALLZMLU",
     "Bank Name": "FIRST ALLIANCE BANK",
@@ -156,8 +156,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCG",
-    "bankCode": "ZM",
+    "bankCode": "FRCG",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "FRCGZMLU",
     "Bank Name": "FIRST CAPITAL BANK LIMITED",
@@ -169,8 +169,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "ZM",
+    "bankCode": "FIRN",
+    "countryCode": "ZM",
     "branchCode": "MLX",
     "SWIFT Code": "FIRNZMLX",
     "Bank Name": "FIRST NATIONAL BANK ZAMBIA LIMITED",
@@ -182,8 +182,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INZA",
-    "bankCode": "ZM",
+    "bankCode": "INZA",
+    "countryCode": "ZM",
     "branchCode": "MLX",
     "SWIFT Code": "INZAZMLX",
     "Bank Name": "INDO-ZAMBIA BANK",
@@ -195,8 +195,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSTR",
-    "bankCode": "ZM",
+    "bankCode": "VSTR",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "VSTRZMLU",
     "Bank Name": "INVESTRUST BANK LTD",
@@ -208,8 +208,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMIE",
-    "bankCode": "ZM",
+    "bankCode": "RMIE",
+    "countryCode": "ZM",
     "branchCode": "ML2",
     "SWIFT Code": "RMIEZML2",
     "Bank Name": "ROYAL MONZE INSTITUTE OF MEDICAL EVANGELISM LIMITED",
@@ -221,8 +221,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "ZM",
+    "bankCode": "SBIC",
+    "countryCode": "ZM",
     "branchCode": "MLX",
     "SWIFT Code": "SBICZMLX",
     "Bank Name": "STANBIC BANK ZAMBIA LTD.",
@@ -234,8 +234,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZM",
+    "bankCode": "SCBL",
+    "countryCode": "ZM",
     "branchCode": "MLX",
     "SWIFT Code": "SCBLZMLX",
     "Bank Name": "STANDARD CHARTERED BANK ZAMBIA PLC",
@@ -247,8 +247,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZM",
+    "bankCode": "SCBL",
+    "countryCode": "ZM",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLZMLXSSU",
     "Bank Name": "STANDARD CHARTERED BANK ZAMBIA PLC",
@@ -260,8 +260,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "ZM",
+    "bankCode": "UNAF",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "UNAFZMLU",
     "Bank Name": "UNITED BANK FOR AFRICA ZAMBIA LIMITED",
@@ -273,8 +273,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZICB",
-    "bankCode": "ZM",
+    "bankCode": "ZICB",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "ZICBZMLU",
     "Bank Name": "ZAMBIA INDUSTRIAL COMMERCIAL BANK LIMITED",
@@ -286,8 +286,8 @@ const zambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZNCO",
-    "bankCode": "ZM",
+    "bankCode": "ZNCO",
+    "countryCode": "ZM",
     "branchCode": "MLU",
     "SWIFT Code": "ZNCOZMLU",
     "Bank Name": "ZAMBIA NATIONAL COMMERCIAL BANK PLC",

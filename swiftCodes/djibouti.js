@@ -1,7 +1,7 @@
 const djibouti = [
   {
-    "countryCode": "MRIN",
-    "bankCode": "DJ",
+    "bankCode": "MRIN",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "MRINDJJD",
     "Bank Name": "BANK OF AFRICA MER ROUGE",
@@ -13,8 +13,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDJ",
-    "bankCode": "DJ",
+    "bankCode": "BCDJ",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "BCDJDJJD",
     "Bank Name": "BANQUE CENTRALE DE DJIBOUTI",
@@ -26,8 +26,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "DJ",
+    "bankCode": "BKCH",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "BKCHDJJD",
     "Bank Name": "BANQUE DE CHINE(DJIBOUTI) SA",
@@ -39,8 +39,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECD",
-    "bankCode": "DJ",
+    "bankCode": "DECD",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "DECDDJJD",
     "Bank Name": "BANQUE DE DEPOT ET CREDIT DJIBOUTI",
@@ -52,8 +52,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIM",
-    "bankCode": "DJ",
+    "bankCode": "BCIM",
+    "countryCode": "DJ",
     "branchCode": "JJX",
     "SWIFT Code": "BCIMDJJX",
     "Bank Name": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE - MER ROUGE",
@@ -65,8 +65,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CACD",
-    "bankCode": "DJ",
+    "bankCode": "CACD",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "CACDDJJD",
     "Bank Name": "CAC INTERNATIONAL BANK",
@@ -78,8 +78,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "DJ",
+    "bankCode": "CBET",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "CBETDJJD",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA DJIBOUTI LTD",
@@ -91,8 +91,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EABD",
-    "bankCode": "DJ",
+    "bankCode": "EABD",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "EABDDJJD",
     "Bank Name": "EAST AFRICA BANK",
@@ -104,8 +104,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTN",
-    "bankCode": "DJ",
+    "bankCode": "EXTN",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "EXTNDJJD",
     "Bank Name": "EXIM BANK (DJIBOUTI) S.A.",
@@ -117,8 +117,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBD",
-    "bankCode": "DJ",
+    "bankCode": "IBBD",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "IBBDDJJD",
     "Bank Name": "INTERNATIONAL BUSINESS BANK DJIBOUTI (IB BANK-DJIBOUTI)",
@@ -130,8 +130,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICDJ",
-    "bankCode": "DJ",
+    "bankCode": "ICDJ",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "ICDJDJJD",
     "Bank Name": "INTERNATIONAL INVESTMENT BANK S.A, DJIBOUTI",
@@ -143,8 +143,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFB",
-    "bankCode": "DJ",
+    "bankCode": "SAFB",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "SAFBDJJD",
     "Bank Name": "SABA AFRICAN BANK AS",
@@ -156,8 +156,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISEA",
-    "bankCode": "DJ",
+    "bankCode": "ISEA",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "ISEADJJD",
     "Bank Name": "SALAAM AFRICAN BANK",
@@ -169,8 +169,8 @@ const djibouti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRIB",
-    "bankCode": "DJ",
+    "bankCode": "SRIB",
+    "countryCode": "DJ",
     "branchCode": "JJD",
     "SWIFT Code": "SRIBDJJD",
     "Bank Name": "SILK ROAD INTERNATIONAL BANK S.A",

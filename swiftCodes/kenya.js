@@ -1,7 +1,7 @@
 const kenya = [
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "ELD",
     "SWIFT Code": "BARCKENXELD",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -13,8 +13,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "MDR",
     "SWIFT Code": "BARCKENXMDR",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -26,8 +26,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "MNR",
     "SWIFT Code": "BARCKENXMNR",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -39,8 +39,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "BARCKENX",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -52,8 +52,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "OCB",
     "SWIFT Code": "BARCKENXOCB",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -65,8 +65,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "NCC",
     "SWIFT Code": "BARCKENXNCC",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -78,8 +78,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "CBO",
     "SWIFT Code": "BARCKENXCBO",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -91,8 +91,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "DLR",
     "SWIFT Code": "BARCKENXDLR",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -104,8 +104,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "NDC",
     "SWIFT Code": "BARCKENXNDC",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -117,8 +117,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "PIS",
     "SWIFT Code": "BARCKENXPIS",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -130,8 +130,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "NPB",
     "SWIFT Code": "BARCKENXNPB",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -143,8 +143,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "TPC",
     "SWIFT Code": "BARCKENXTPC",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -156,8 +156,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "KE",
+    "bankCode": "BARC",
+    "countryCode": "KE",
     "branchCode": "VPC",
     "SWIFT Code": "BARCKENXVPC",
     "Bank Name": "ABSA BANK KENYA PLC",
@@ -169,8 +169,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNG",
-    "bankCode": "KE",
+    "bankCode": "ABNG",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "ABNGKENA",
     "Bank Name": "ACCESS BANK (KENYA) PLC",
@@ -182,8 +182,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCL",
-    "bankCode": "KE",
+    "bankCode": "ABCL",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "ABCLKENA",
     "Bank Name": "AFRICAN BANKING CORPORATION LTD",
@@ -195,8 +195,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "KE",
+    "bankCode": "AFRI",
+    "countryCode": "KE",
     "branchCode": "002",
     "SWIFT Code": "AFRIKENX002",
     "Bank Name": "BANK OF AFRICA KENYA LTD",
@@ -208,8 +208,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "KE",
+    "bankCode": "AFRI",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "AFRIKENX",
     "Bank Name": "BANK OF AFRICA KENYA LTD",
@@ -221,8 +221,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "ELD",
     "SWIFT Code": "BARBKENAELD",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -234,8 +234,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "KAK",
     "SWIFT Code": "BARBKENAKAK",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -247,8 +247,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "KIS",
     "SWIFT Code": "BARBKENAKIS",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -260,8 +260,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "MER",
     "SWIFT Code": "BARBKENAMER",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -273,8 +273,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "MOM",
     "SWIFT Code": "BARBKENAMOM",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -286,8 +286,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "MRN",
     "SWIFT Code": "BARBKENAMRN",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -299,8 +299,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "NYA",
     "SWIFT Code": "BARBKENANYA",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -312,8 +312,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "BARBKENA",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -325,8 +325,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "DIA",
     "SWIFT Code": "BARBKENADIA",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -338,8 +338,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "IND",
     "SWIFT Code": "BARBKENAIND",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -351,8 +351,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "NMO",
     "SWIFT Code": "BARBKENANMO",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -364,8 +364,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "SAR",
     "SWIFT Code": "BARBKENASAR",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -377,8 +377,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "NAK",
     "SWIFT Code": "BARBKENANAK",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -390,8 +390,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "KE",
+    "bankCode": "BARB",
+    "countryCode": "KE",
     "branchCode": "THI",
     "SWIFT Code": "BARBKENATHI",
     "Bank Name": "BANK OF BARODA (KENYA) LTD",
@@ -403,8 +403,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "KE",
+    "bankCode": "BKID",
+    "countryCode": "KE",
     "branchCode": "ELD",
     "SWIFT Code": "BKIDKENAELD",
     "Bank Name": "BANK OF INDIA",
@@ -416,8 +416,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "KE",
+    "bankCode": "BKID",
+    "countryCode": "KE",
     "branchCode": "MSA",
     "SWIFT Code": "BKIDKENAMSA",
     "Bank Name": "BANK OF INDIA",
@@ -429,8 +429,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "KE",
+    "bankCode": "BKID",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "BKIDKENA",
     "Bank Name": "BANK OF INDIA",
@@ -442,8 +442,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "KE",
+    "bankCode": "BKID",
+    "countryCode": "KE",
     "branchCode": "IAB",
     "SWIFT Code": "BKIDKENAIAB",
     "Bank Name": "BANK OF INDIA",
@@ -455,8 +455,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "KE",
+    "bankCode": "BKID",
+    "countryCode": "KE",
     "branchCode": "WST",
     "SWIFT Code": "BKIDKENAWST",
     "Bank Name": "BANK OF INDIA",
@@ -468,8 +468,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRMF",
-    "bankCode": "KE",
+    "bankCode": "CRMF",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "CRMFKENA",
     "Bank Name": "CARITAS MICROFINANCE BANK LIMITED",
@@ -481,8 +481,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKE",
-    "bankCode": "KE",
+    "bankCode": "CBKE",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "CBKEKENX",
     "Bank Name": "CENTRAL BANK OF KENYA",
@@ -494,8 +494,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKE",
-    "bankCode": "KE",
+    "bankCode": "CBKE",
+    "countryCode": "KE",
     "branchCode": "ENB",
     "SWIFT Code": "CBKEKENB",
     "Bank Name": "CENTRAL BANK OF KENYA",
@@ -507,8 +507,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKE",
-    "bankCode": "KE",
+    "bankCode": "CBKE",
+    "countryCode": "KE",
     "branchCode": "BKG",
     "SWIFT Code": "CBKEKENXBKG",
     "Bank Name": "CENTRAL BANK OF KENYA",
@@ -520,8 +520,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKE",
-    "bankCode": "KE",
+    "bankCode": "CBKE",
+    "countryCode": "KE",
     "branchCode": "CNY",
     "SWIFT Code": "CBKEKENXCNY",
     "Bank Name": "CENTRAL BANK OF KENYA",
@@ -533,8 +533,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKE",
-    "bankCode": "KE",
+    "bankCode": "CBKE",
+    "countryCode": "KE",
     "branchCode": "NDO",
     "SWIFT Code": "CBKEKENXNDO",
     "Bank Name": "CENTRAL BANK OF KENYA",
@@ -546,8 +546,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDSN",
-    "bankCode": "KE",
+    "bankCode": "CDSN",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "CDSNKENA",
     "Bank Name": "CENTRAL DEPOSITORY AND SETTLEMENT CORPORATION",
@@ -559,8 +559,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHFI",
-    "bankCode": "KE",
+    "bankCode": "CHFI",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "CHFIKENX",
     "Bank Name": "CHOICE MICROFINANCE BANK LIMITED",
@@ -572,8 +572,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "KE",
+    "bankCode": "CITI",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "CITIKENA",
     "Bank Name": "CITIBANK N.A. NAIROBI",
@@ -585,8 +585,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "KE",
+    "bankCode": "CITI",
+    "countryCode": "KE",
     "branchCode": "TRD",
     "SWIFT Code": "CITIKENATRD",
     "Bank Name": "CITIBANK N.A. NAIROBI",
@@ -598,8 +598,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYBK",
-    "bankCode": "KE",
+    "bankCode": "MYBK",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "MYBKKENA",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (CIB) KENYA LIMITED",
@@ -611,8 +611,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CONK",
-    "bankCode": "KE",
+    "bankCode": "CONK",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "CONKKENA",
     "Bank Name": "CONSOLIDATED BANK OF KENYA LTD",
@@ -624,8 +624,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRBT",
-    "bankCode": "KE",
+    "bankCode": "CRBT",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "CRBTKENA",
     "Bank Name": "CREDIT BANK PLC",
@@ -637,8 +637,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEVK",
-    "bankCode": "KE",
+    "bankCode": "DEVK",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "DEVKKENA",
     "Bank Name": "DEVELOPMENT BANK OF KENYA LIMITED",
@@ -650,8 +650,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTKE",
-    "bankCode": "KE",
+    "bankCode": "DTKE",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "DTKEKENA",
     "Bank Name": "DIAMOND TRUST BANK KENYA LIMITED",
@@ -663,8 +663,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "KE",
+    "bankCode": "DUIB",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "DUIBKENA",
     "Bank Name": "DIB BANK KENYA LTD",
@@ -676,8 +676,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESAT",
-    "bankCode": "KE",
+    "bankCode": "ESAT",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "ESATKENA",
     "Bank Name": "EASTERN AND SOUTHERN AFRICAN TRADE AND DEVELOPMENTBANK",
@@ -689,8 +689,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "KE",
+    "bankCode": "ECOC",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "ECOCKENA",
     "Bank Name": "ECOBANK KENYA LTD",
@@ -702,8 +702,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQBL",
-    "bankCode": "KE",
+    "bankCode": "EQBL",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "EQBLKENA",
     "Bank Name": "EQUITY BANK (KENYA) LIMITED",
@@ -715,8 +715,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FABL",
-    "bankCode": "KE",
+    "bankCode": "FABL",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "FABLKENA",
     "Bank Name": "FAMILY BANK LIMITED",
@@ -728,8 +728,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAUM",
-    "bankCode": "KE",
+    "bankCode": "FAUM",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "FAUMKENA",
     "Bank Name": "FAULU MICROFINANCE BANK LIMITED",
@@ -741,8 +741,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "KE",
+    "bankCode": "GTBI",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "GTBIKENA",
     "Bank Name": "GUARANTY TRUST BANK (KENYA) LTD",
@@ -754,8 +754,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAR",
-    "bankCode": "KE",
+    "bankCode": "GUAR",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "GUARKENA",
     "Bank Name": "GUARDIAN BANK LIMITED",
@@ -767,8 +767,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAFR",
-    "bankCode": "KE",
+    "bankCode": "GAFR",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "GAFRKENA",
     "Bank Name": "GULF AFRICAN BANK LTD",
@@ -780,8 +780,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBZU",
-    "bankCode": "KE",
+    "bankCode": "HBZU",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "HBZUKENA",
     "Bank Name": "HABIB BANK AG ZURICH",
@@ -793,8 +793,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFCO",
-    "bankCode": "KE",
+    "bankCode": "HFCO",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "HFCOKENA",
     "Bank Name": "HFC LIMITED",
@@ -806,8 +806,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMBL",
-    "bankCode": "KE",
+    "bankCode": "IMBL",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "IMBLKENA",
     "Bank Name": "I AND M BANK LTD",
@@ -819,8 +819,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMBL",
-    "bankCode": "KE",
+    "bankCode": "IMBL",
+    "countryCode": "KE",
     "branchCode": "FTR",
     "SWIFT Code": "IMBLKENAFTR",
     "Bank Name": "I AND M BANK LTD",
@@ -832,8 +832,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMBL",
-    "bankCode": "KE",
+    "bankCode": "IMBL",
+    "countryCode": "KE",
     "branchCode": "STL",
     "SWIFT Code": "IMBLKENASTL",
     "Bank Name": "I AND M BANK LTD",
@@ -845,8 +845,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMBL",
-    "bankCode": "KE",
+    "bankCode": "IMBL",
+    "countryCode": "KE",
     "branchCode": "TRD",
     "SWIFT Code": "IMBLKENATRD",
     "Bank Name": "I AND M BANK LTD",
@@ -858,8 +858,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "080",
     "SWIFT Code": "KCBLKENX080",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -871,8 +871,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "TFS",
     "SWIFT Code": "KCBLKENXTFS",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -884,8 +884,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "CUS",
     "SWIFT Code": "KCBLKENXCUS",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -897,8 +897,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "DMM",
     "SWIFT Code": "KCBLKENXDMM",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -910,8 +910,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "012",
     "SWIFT Code": "KCBLKENX012",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -923,8 +923,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "KCBLKENX",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -936,8 +936,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "002",
     "SWIFT Code": "KCBLKENX002",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -949,8 +949,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "005",
     "SWIFT Code": "KCBLKENX005",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -962,8 +962,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "077",
     "SWIFT Code": "KCBLKENX077",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -975,8 +975,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "017",
     "SWIFT Code": "KCBLKENX017",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -988,8 +988,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "KE",
+    "bankCode": "KCBL",
+    "countryCode": "KE",
     "branchCode": "TMK",
     "SWIFT Code": "KCBLKENXTMK",
     "Bank Name": "KCB BANK KENYA LIMITED",
@@ -1001,8 +1001,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWMI",
-    "bankCode": "KE",
+    "bankCode": "KWMI",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "KWMIKENX",
     "Bank Name": "KENYA WOMEN MICROFINANCE BANK",
@@ -1014,8 +1014,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIFI",
-    "bankCode": "KE",
+    "bankCode": "CIFI",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "CIFIKENA",
     "Bank Name": "KINGDOM BANK LTD",
@@ -1027,8 +1027,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MORB",
-    "bankCode": "KE",
+    "bankCode": "MORB",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "MORBKENA",
     "Bank Name": "M-ORIENTAL BANK LTD",
@@ -1040,8 +1040,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIEK",
-    "bankCode": "KE",
+    "bankCode": "MIEK",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "MIEKKENA",
     "Bank Name": "MIDDLE EAST BANK KENYA LTD",
@@ -1053,8 +1053,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMTS",
-    "bankCode": "KE",
+    "bankCode": "MMTS",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "MMTSKENA",
     "Bank Name": "MOBEX MONEY TRANSFER SERVICES LIMITED",
@@ -1066,8 +1066,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "NBKEKENX",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1079,8 +1079,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "302",
     "SWIFT Code": "NBKEKENX302",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1092,8 +1092,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "957",
     "SWIFT Code": "NBKEKENX957",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1105,8 +1105,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "828",
     "SWIFT Code": "NBKEKENX828",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1118,8 +1118,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "310",
     "SWIFT Code": "NBKEKENX310",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1131,8 +1131,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "789",
     "SWIFT Code": "NBKEKENX789",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1144,8 +1144,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "711",
     "SWIFT Code": "NBKEKENX711",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1157,8 +1157,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "808",
     "SWIFT Code": "NBKEKENX808",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1170,8 +1170,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "329",
     "SWIFT Code": "NBKEKENX329",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1183,8 +1183,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "965",
     "SWIFT Code": "NBKEKENX965",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1196,8 +1196,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "841",
     "SWIFT Code": "NBKEKENX841",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1209,8 +1209,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "725",
     "SWIFT Code": "NBKEKENX725",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1222,8 +1222,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "815",
     "SWIFT Code": "NBKEKENX815",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1235,8 +1235,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "761",
     "SWIFT Code": "NBKEKENX761",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1248,8 +1248,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "884",
     "SWIFT Code": "NBKEKENX884",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1261,8 +1261,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "930",
     "SWIFT Code": "NBKEKENX930",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1274,8 +1274,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "922",
     "SWIFT Code": "NBKEKENX922",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1287,8 +1287,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "833",
     "SWIFT Code": "NBKEKENX833",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1300,8 +1300,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "743",
     "SWIFT Code": "NBKEKENX743",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1313,8 +1313,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "949",
     "SWIFT Code": "NBKEKENX949",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1326,8 +1326,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "973",
     "SWIFT Code": "NBKEKENX973",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1339,8 +1339,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "739",
     "SWIFT Code": "NBKEKENX739",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1352,8 +1352,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "757",
     "SWIFT Code": "NBKEKENX757",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1365,8 +1365,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "868",
     "SWIFT Code": "NBKEKENX868",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1378,8 +1378,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "876",
     "SWIFT Code": "NBKEKENX876",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1391,8 +1391,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKE",
-    "bankCode": "KE",
+    "bankCode": "NBKE",
+    "countryCode": "KE",
     "branchCode": "337",
     "SWIFT Code": "NBKEKENX337",
     "Bank Name": "NATIONAL BANK OF KENYA LTD.",
@@ -1404,8 +1404,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAF",
-    "bankCode": "KE",
+    "bankCode": "CBAF",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "CBAFKENX",
     "Bank Name": "NCBA BANK KENYA PLC",
@@ -1417,8 +1417,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAUT",
-    "bankCode": "KE",
+    "bankCode": "PAUT",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "PAUTKENA",
     "Bank Name": "PARAMOUNT BANK LIMITED",
@@ -1430,8 +1430,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFCB",
-    "bankCode": "KE",
+    "bankCode": "IFCB",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "IFCBKENA",
     "Bank Name": "PREMIER BANK KENYA LIMITED",
@@ -1443,8 +1443,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIE",
-    "bankCode": "KE",
+    "bankCode": "PRIE",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "PRIEKENX",
     "Bank Name": "PRIME BANK LTD.",
@@ -1456,8 +1456,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMFB",
-    "bankCode": "KE",
+    "bankCode": "RMFB",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "RMFBKENA",
     "Bank Name": "RAFIKI MICROFINANCE BANK",
@@ -1469,8 +1469,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLMI",
-    "bankCode": "KE",
+    "bankCode": "SLMI",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "SLMIKENA",
     "Bank Name": "SALAAM MICROFINANCE BANK LIMITED",
@@ -1482,8 +1482,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBMK",
-    "bankCode": "KE",
+    "bankCode": "SBMK",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "SBMKKENA",
     "Bank Name": "SBM BANK (KENYA) LIMITED",
@@ -1495,8 +1495,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIDN",
-    "bankCode": "KE",
+    "bankCode": "SIDN",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "SIDNKENA",
     "Bank Name": "SIDIAN BANK LIMITED",
@@ -1508,8 +1508,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "KE",
+    "bankCode": "SBIC",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "SBICKENX",
     "Bank Name": "STANBIC BANK KENYA LIMITED",
@@ -1521,8 +1521,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "KE",
+    "bankCode": "SCBL",
+    "countryCode": "KE",
     "branchCode": "ENX",
     "SWIFT Code": "SCBLKENX",
     "Bank Name": "STANDARD CHARTERED BANK KENYA LIMITED",
@@ -1534,8 +1534,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "KE",
+    "bankCode": "SCBL",
+    "countryCode": "KE",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLKENXSSU",
     "Bank Name": "STANDARD CHARTERED BANK KENYA LIMITED",
@@ -1547,8 +1547,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "KE",
+    "bankCode": "SCBL",
+    "countryCode": "KE",
     "branchCode": "TRD",
     "SWIFT Code": "SCBLKENXTRD",
     "Bank Name": "STANDARD CHARTERED BANK KENYA LIMITED",
@@ -1560,8 +1560,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCOO",
-    "bankCode": "KE",
+    "bankCode": "KCOO",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "KCOOKENA",
     "Bank Name": "THE CO-OPERATIVE BANK OF KENYA LTD",
@@ -1573,8 +1573,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLTE",
-    "bankCode": "KE",
+    "bankCode": "SLTE",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "SLTEKENA",
     "Bank Name": "THE COMPANY FOR HABITAT AND HOUSING IN AFRICA (SHELTER - AFRIQUE)",
@@ -1586,8 +1586,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "KE",
+    "bankCode": "UNAF",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "UNAFKENA",
     "Bank Name": "UBA KENYA BANK LIMITED",
@@ -1599,8 +1599,8 @@ const kenya = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VICM",
-    "bankCode": "KE",
+    "bankCode": "VICM",
+    "countryCode": "KE",
     "branchCode": "ENA",
     "SWIFT Code": "VICMKENA",
     "Bank Name": "VICTORIA COMMERCIAL BANK PLC",

@@ -1,7 +1,7 @@
 const equatorialGuinea = [
   {
-    "countryCode": "NAGC",
-    "bankCode": "GQ",
+    "bankCode": "NAGC",
+    "countryCode": "GQ",
     "branchCode": "QGQ",
     "SWIFT Code": "NAGCGQGQ",
     "Bank Name": "BANCO NACIONAL DE GUINEA ECUATORIAL (BANGE)",
@@ -13,8 +13,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "GQ",
+    "bankCode": "BEAC",
+    "countryCode": "GQ",
     "branchCode": "610",
     "SWIFT Code": "BEACGQGQ610",
     "Bank Name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE",
@@ -26,8 +26,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "GQ",
+    "bankCode": "BEAC",
+    "countryCode": "GQ",
     "branchCode": "QGQ",
     "SWIFT Code": "BEACGQGQ",
     "Bank Name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE",
@@ -39,8 +39,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GQ",
+    "bankCode": "BGFI",
+    "countryCode": "GQ",
     "branchCode": "QGQ",
     "SWIFT Code": "BGFIGQGQ",
     "Bank Name": "BGFIBANK GUINEE EQUATORIALE",
@@ -53,8 +53,8 @@ const equatorialGuinea = [
   },
   {},
   {
-    "countryCode": "CCEI",
-    "bankCode": "GQ",
+    "bankCode": "CCEI",
+    "countryCode": "GQ",
     "branchCode": "EBI",
     "SWIFT Code": "CCEIGQGQEBI",
     "Bank Name": "CCEI BANK GE",
@@ -66,8 +66,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "GQ",
+    "bankCode": "CCEI",
+    "countryCode": "GQ",
     "branchCode": "MON",
     "SWIFT Code": "CCEIGQGQMON",
     "Bank Name": "CCEI BANK GE",
@@ -79,8 +79,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "GQ",
+    "bankCode": "CCEI",
+    "countryCode": "GQ",
     "branchCode": "QGQ",
     "SWIFT Code": "CCEIGQGQ",
     "Bank Name": "CCEI BANK GE",
@@ -92,8 +92,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GQ",
+    "bankCode": "ECOC",
+    "countryCode": "GQ",
     "branchCode": "QGQ",
     "SWIFT Code": "ECOCGQGQ",
     "Bank Name": "ECOBANK GUINEE EQUATORIALE",
@@ -105,8 +105,8 @@ const equatorialGuinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGGE",
-    "bankCode": "GQ",
+    "bankCode": "SGGE",
+    "countryCode": "GQ",
     "branchCode": "QGQ",
     "SWIFT Code": "SGGEGQGQ",
     "Bank Name": "SOCIETE GENERALE DE BANQUES EN GUINEE EQUATORIALE",

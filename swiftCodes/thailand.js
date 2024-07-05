@@ -1,7 +1,7 @@
 const thailand = [
   {
-    "countryCode": "ICBC",
-    "bankCode": "TH",
+    "bankCode": "ICBC",
+    "countryCode": "TH",
     "branchCode": "RYO",
     "SWIFT Code": "ICBCTHBKRYO",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
@@ -13,8 +13,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAIX",
-    "bankCode": "TH",
+    "bankCode": "DAIX",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "DAIXTHBK",
     "Bank Name": "MERCEDES-BENZ (THAILAND) LIMITED",
@@ -26,8 +26,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBMA",
-    "bankCode": "TH",
+    "bankCode": "MBMA",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "MBMATHBK",
     "Bank Name": "MERCEDES-BENZ MANUFACTURING (THAILAND) LIMITED",
@@ -39,8 +39,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLE",
-    "bankCode": "TH",
+    "bankCode": "MBLE",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "MBLETHBK",
     "Bank Name": "MERCEDES-BENZ MOBILITY (THAILAND) CO. LTD.",
@@ -52,8 +52,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "TH",
+    "bankCode": "MHCB",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "MHCBTHB2",
     "Bank Name": "MIZUHO BANK, LTD., BANGKOK BRANCH",
@@ -65,8 +65,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "TH",
+    "bankCode": "MHCB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "MHCBTHBK",
     "Bank Name": "MIZUHO BANK, LTD., BANGKOK BRANCH",
@@ -78,8 +78,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "TH",
+    "bankCode": "OCBC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "OCBCTHBK",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, BANGKOK BRANCH",
@@ -91,8 +91,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCBB",
-    "bankCode": "TH",
+    "bankCode": "DCBB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "DCBBTHBK",
     "Bank Name": "RHB BANK BERHAD",
@@ -104,8 +104,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMGC",
-    "bankCode": "TH",
+    "bankCode": "RMGC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "RMGCTHBK",
     "Bank Name": "RMA GROUP COMPANY LIMITED",
@@ -117,8 +117,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMFR",
-    "bankCode": "TH",
+    "bankCode": "RMFR",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "RMFRTHB2",
     "Bank Name": "ROBOWEALTH MUTUAL FUND BROKERAGE SECURITIES COMPANY LIMITED",
@@ -130,8 +130,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAWA",
-    "bankCode": "TH",
+    "bankCode": "SAWA",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "SAWATHB2",
     "Bank Name": "SAWASDEESHOP CO., LTD.",
@@ -143,8 +143,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "TH",
+    "bankCode": "SICO",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "SICOTHBK",
     "Bank Name": "SIAM COMMERCIAL BANK PCL., THE",
@@ -156,8 +156,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "TH",
+    "bankCode": "SICO",
+    "countryCode": "TH",
     "branchCode": "TSD",
     "SWIFT Code": "SICOTHBKTSD",
     "Bank Name": "SIAM COMMERCIAL BANK PCL., THE",
@@ -169,8 +169,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMEB",
-    "bankCode": "TH",
+    "bankCode": "SMEB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "SMEBTHBK",
     "Bank Name": "SMALL AND MEDIUM ENTERPRISE DEVELOPMENT BANK OF THAILAND",
@@ -182,8 +182,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGTE",
-    "bankCode": "TH",
+    "bankCode": "SGTE",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "SGTETHB2",
     "Bank Name": "SONY GLOBAL TREASURY SERVICES (THAILAND) CO., LTD",
@@ -195,8 +195,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGTE",
-    "bankCode": "TH",
+    "bankCode": "SGTE",
+    "countryCode": "TH",
     "branchCode": "BKO",
     "SWIFT Code": "SGTETHB2BKO",
     "Bank Name": "SONY GLOBAL TREASURY SERVICES (THAILAND) CO., LTD",
@@ -208,8 +208,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TH",
+    "bankCode": "SCBL",
+    "countryCode": "TH",
     "branchCode": "HBX",
     "SWIFT Code": "SCBLTHBX",
     "Bank Name": "STANDARD CHARTERED BANK (THAI) PCL",
@@ -221,8 +221,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "TH",
+    "bankCode": "SMBC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "SMBCTHBK",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -234,8 +234,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "TH",
+    "bankCode": "STBC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "STBCTHBK",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK (THAI) PUBLIC COMPANY LIMITED",
@@ -247,8 +247,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THCE",
-    "bankCode": "TH",
+    "bankCode": "THCE",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "THCETHB2",
     "Bank Name": "THAI CREDIT BANK PUBLIC COMPANY LIMITED",
@@ -260,8 +260,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSDC",
-    "bankCode": "TH",
+    "bankCode": "TSDC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "TSDCTHBK",
     "Bank Name": "THAILAND SECURITIES DEPOSITORY CO LTD",
@@ -273,8 +273,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TH",
+    "bankCode": "HSBC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "HSBCTHBK",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -286,8 +286,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBK",
-    "bankCode": "TH",
+    "bankCode": "TMBK",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "TMBKTHBK",
     "Bank Name": "TMBTHANACHART BANK PUBLIC COMPANY LIMITED",
@@ -299,8 +299,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "TH",
+    "bankCode": "UOVB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "UOVBTHBK",
     "Bank Name": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED",
@@ -312,8 +312,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WMSC",
-    "bankCode": "TH",
+    "bankCode": "WMSC",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "WMSCTHB2",
     "Bank Name": "WEALTH MAGIK SECURITIES COMPANY LIMITED",
@@ -325,8 +325,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "TH",
+    "bankCode": "AIAC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "AIACTHBK",
     "Bank Name": "AIA COMPANY LIMITED",
@@ -338,8 +338,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "TH",
+    "bankCode": "BKKB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BKKBTHBK",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED",
@@ -351,8 +351,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "TH",
+    "bankCode": "BKKB",
+    "countryCode": "TH",
     "branchCode": "TRD",
     "SWIFT Code": "BKKBTHBKTRD",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED",
@@ -364,8 +364,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAB",
-    "bankCode": "TH",
+    "bankCode": "BAAB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BAABTHBK",
     "Bank Name": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES",
@@ -377,8 +377,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "TH",
+    "bankCode": "BOFA",
+    "countryCode": "TH",
     "branchCode": "H2X",
     "SWIFT Code": "BOFATH2X",
     "Bank Name": "BANK OF AMERICA, N.A. BANGKOK",
@@ -390,8 +390,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "TH",
+    "bankCode": "BOFA",
+    "countryCode": "TH",
     "branchCode": "THA",
     "SWIFT Code": "BOFATH2XTHA",
     "Bank Name": "BANK OF AMERICA, N.A. BANGKOK",
@@ -403,8 +403,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AYUD",
-    "bankCode": "TH",
+    "bankCode": "AYUD",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "AYUDTHBK",
     "Bank Name": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED",
@@ -416,8 +416,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "TH",
+    "bankCode": "BOTK",
+    "countryCode": "TH",
     "branchCode": "HBX",
     "SWIFT Code": "BOTKTHBX",
     "Bank Name": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED, BANGKOK OFFICE",
@@ -429,8 +429,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "TH",
+    "bankCode": "BKCH",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BKCHTHBK",
     "Bank Name": "BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
@@ -442,8 +442,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTH",
-    "bankCode": "TH",
+    "bankCode": "BOTH",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BOTHTHBK",
     "Bank Name": "BANK OF THAILAND",
@@ -455,8 +455,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTH",
-    "bankCode": "TH",
+    "bankCode": "BOTH",
+    "countryCode": "TH",
     "branchCode": "HBP",
     "SWIFT Code": "BOTHTHBP",
     "Bank Name": "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM",
@@ -468,8 +468,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTH",
-    "bankCode": "TH",
+    "bankCode": "BOTH",
+    "countryCode": "TH",
     "branchCode": "TS1",
     "SWIFT Code": "BOTHTHBPTS1",
     "Bank Name": "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM",
@@ -481,8 +481,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTH",
-    "bankCode": "TH",
+    "bankCode": "BOTH",
+    "countryCode": "TH",
     "branchCode": "TS2",
     "SWIFT Code": "BOTHTHBPTS2",
     "Bank Name": "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM",
@@ -494,8 +494,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "TH",
+    "bankCode": "BNPA",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BNPATHBK",
     "Bank Name": "BNP PARIBAS BANGKOK BRANCH",
@@ -507,8 +507,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOHH",
-    "bankCode": "TH",
+    "bankCode": "BOHH",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BOHHTHBK",
     "Bank Name": "BUSRAKHAM OIL (THAILAND) LTD.",
@@ -520,8 +520,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOB",
-    "bankCode": "TH",
+    "bankCode": "UBOB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "UBOBTHBK",
     "Bank Name": "CIMB THAI BANK PUBLIC COMPANY LIMITED (FORMERLY BANKTHAI PUBLIC COMPANY LIMITED)",
@@ -533,8 +533,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TH",
+    "bankCode": "CITI",
+    "countryCode": "TH",
     "branchCode": "HBX",
     "SWIFT Code": "CITITHBX",
     "Bank Name": "CITIBANK N.A.",
@@ -546,8 +546,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TH",
+    "bankCode": "CITI",
+    "countryCode": "TH",
     "branchCode": "IBF",
     "SWIFT Code": "CITITHBXIBF",
     "Bank Name": "CITIBANK N.A.",
@@ -559,8 +559,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "TH",
+    "bankCode": "CRES",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "CRESTHBK",
     "Bank Name": "CREDIT SUISSE SECURITIES (THAILAND) LIMITED",
@@ -572,8 +572,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TH",
+    "bankCode": "DEUT",
+    "countryCode": "TH",
     "branchCode": "GMO",
     "SWIFT Code": "DEUTTHBKGMO",
     "Bank Name": "DEUTSCHE BANK AG, BANGKOK BRANCH",
@@ -585,8 +585,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TH",
+    "bankCode": "DEUT",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "DEUTTHBK",
     "Bank Name": "DEUTSCHE BANK AG, BANGKOK BRANCH",
@@ -598,8 +598,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTH",
-    "bankCode": "TH",
+    "bankCode": "EXTH",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "EXTHTHBK",
     "Bank Name": "EXPORT-IMPORT BANK OF THAILAND",
@@ -611,8 +611,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSBA",
-    "bankCode": "TH",
+    "bankCode": "GSBA",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "GSBATHBK",
     "Bank Name": "GOVERNMENT SAVINGS BANK",
@@ -624,8 +624,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHOB",
-    "bankCode": "TH",
+    "bankCode": "BHOB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "BHOBTHBK",
     "Bank Name": "INDIAN OVERSEAS BANK (FORMERLY BHARAT OVERSEAS BANK LTD.)",
@@ -637,8 +637,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVGS",
-    "bankCode": "TH",
+    "bankCode": "IVGS",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "IVGSTHBK",
     "Bank Name": "INDORAMA VENTURES GLOBAL SERVICES LIMITED",
@@ -650,8 +650,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TH",
+    "bankCode": "ICBK",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "ICBKTHBK",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
@@ -663,8 +663,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TH",
+    "bankCode": "ICBK",
+    "countryCode": "TH",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKTHBKCLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
@@ -676,8 +676,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIBT",
-    "bankCode": "TH",
+    "bankCode": "TIBT",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "TIBTTHBK",
     "Bank Name": "ISLAMIC BANK OF THAILAND",
@@ -689,8 +689,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "HBX",
     "SWIFT Code": "CHASTHBX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -702,8 +702,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "IBF",
     "SWIFT Code": "CHASTHBXIBF",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -715,8 +715,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "SEC",
     "SWIFT Code": "CHASTHBXSEC",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -728,8 +728,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "LND",
     "SWIFT Code": "CHASTHBXLND",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -741,8 +741,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "MTS",
     "SWIFT Code": "CHASTHBXMTS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -754,8 +754,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "TSD",
     "SWIFT Code": "CHASTHBXTSD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -767,8 +767,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TH",
+    "bankCode": "CHAS",
+    "countryCode": "TH",
     "branchCode": "TRO",
     "SWIFT Code": "CHASTHBXTRO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
@@ -780,8 +780,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "TH",
+    "bankCode": "KASI",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "KASITHBK",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED",
@@ -793,8 +793,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "TH",
+    "bankCode": "KASI",
+    "countryCode": "TH",
     "branchCode": "CMD",
     "SWIFT Code": "KASITHBKCMD",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED",
@@ -806,8 +806,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "TH",
+    "bankCode": "KASI",
+    "countryCode": "TH",
     "branchCode": "CUS",
     "SWIFT Code": "KASITHBKCUS",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED",
@@ -819,8 +819,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "TH",
+    "bankCode": "KASI",
+    "countryCode": "TH",
     "branchCode": "FMD",
     "SWIFT Code": "KASITHBKFMD",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED",
@@ -832,8 +832,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KKPB",
-    "bankCode": "TH",
+    "bankCode": "KKPB",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "KKPBTHBK",
     "Bank Name": "KIATNAKIN PHATRA BANK PUBLIC COMPANY LIMITED",
@@ -845,8 +845,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRTH",
-    "bankCode": "TH",
+    "bankCode": "KRTH",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "KRTHTHBK",
     "Bank Name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
@@ -858,8 +858,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRTH",
-    "bankCode": "TH",
+    "bankCode": "KRTH",
+    "countryCode": "TH",
     "branchCode": "KNM",
     "SWIFT Code": "KRTHTHBKKNM",
     "Bank Name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
@@ -871,8 +871,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRTH",
-    "bankCode": "TH",
+    "bankCode": "KRTH",
+    "countryCode": "TH",
     "branchCode": "PMP",
     "SWIFT Code": "KRTHTHBKPMP",
     "Bank Name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
@@ -884,8 +884,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRTH",
-    "bankCode": "TH",
+    "bankCode": "KRTH",
+    "countryCode": "TH",
     "branchCode": "SRP",
     "SWIFT Code": "KRTHTHBKSRP",
     "Bank Name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
@@ -897,8 +897,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRTH",
-    "bankCode": "TH",
+    "bankCode": "KRTH",
+    "countryCode": "TH",
     "branchCode": "VTN",
     "SWIFT Code": "KRTHTHBKVTN",
     "Bank Name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
@@ -910,8 +910,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAHR",
-    "bankCode": "TH",
+    "bankCode": "LAHR",
+    "countryCode": "TH",
     "branchCode": "HB2",
     "SWIFT Code": "LAHRTHB2",
     "Bank Name": "LAND AND HOUSES BANK PUBLIC COMPANY LIMITED",
@@ -923,8 +923,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TH",
+    "bankCode": "ICBC",
+    "countryCode": "TH",
     "branchCode": "BNA",
     "SWIFT Code": "ICBCTHBKBNA",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
@@ -936,8 +936,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TH",
+    "bankCode": "ICBC",
+    "countryCode": "TH",
     "branchCode": "HBK",
     "SWIFT Code": "ICBCTHBK",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
@@ -949,8 +949,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TH",
+    "bankCode": "ICBC",
+    "countryCode": "TH",
     "branchCode": "CHB",
     "SWIFT Code": "ICBCTHBKCHB",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
@@ -962,8 +962,8 @@ const thailand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "TH",
+    "bankCode": "ICBC",
+    "countryCode": "TH",
     "branchCode": "BPO",
     "SWIFT Code": "ICBCTHBKBPO",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",

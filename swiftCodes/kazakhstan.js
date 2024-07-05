@@ -1,7 +1,7 @@
 const kazakhstan = [
   {
-    "countryCode": "HLAL",
-    "bankCode": "KZ",
+    "bankCode": "HLAL",
+    "countryCode": "KZ",
     "branchCode": "ZKZ",
     "SWIFT Code": "HLALKZKZ",
     "Bank Name": "AL HILAL ISLAMIC BANK JSC",
@@ -13,8 +13,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIY",
-    "bankCode": "KZ",
+    "bankCode": "ASIY",
+    "countryCode": "KZ",
     "branchCode": "Z22",
     "SWIFT Code": "ASIYKZ22",
     "Bank Name": "AL SAQR ISLAMIC BANK LTD. PRIVATE COMPANY",
@@ -26,8 +26,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AILS",
-    "bankCode": "KZ",
+    "bankCode": "AILS",
+    "countryCode": "KZ",
     "branchCode": "Z2K",
     "SWIFT Code": "AILSKZ2K",
     "Bank Name": "ALIF ISLAMIC BANK LTD.",
@@ -39,8 +39,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIH",
-    "bankCode": "KZ",
+    "bankCode": "ASIH",
+    "countryCode": "KZ",
     "branchCode": "Z22",
     "SWIFT Code": "ASIHKZ22",
     "Bank Name": "ASTANA INTERNATIONAL EXCHANGE LIMITED",
@@ -52,8 +52,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIH",
-    "bankCode": "KZ",
+    "bankCode": "ASIH",
+    "countryCode": "KZ",
     "branchCode": "REG",
     "SWIFT Code": "ASIHKZ22REG",
     "Bank Name": "ASTANA INTERNATIONAL EXCHANGE LIMITED",
@@ -65,8 +65,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIH",
-    "bankCode": "KZ",
+    "bankCode": "ASIH",
+    "countryCode": "KZ",
     "branchCode": "CSD",
     "SWIFT Code": "ASIHKZ22CSD",
     "Bank Name": "ASTANA INTERNATIONAL EXCHANGE LIMITED",
@@ -78,8 +78,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSNV",
-    "bankCode": "KZ",
+    "bankCode": "KSNV",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "KSNVKZKA",
     "Bank Name": "BANK FREEDOM FINANCE KAZAKHSTAN JSC",
@@ -91,8 +91,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KZ",
+    "bankCode": "BKCH",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "BKCHKZKA",
     "Bank Name": "BANK OF CHINA KAZAKHSTAN",
@@ -104,8 +104,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KINC",
-    "bankCode": "KZ",
+    "bankCode": "KINC",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "KINCKZKA",
     "Bank Name": "BANK RBK",
@@ -117,8 +117,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRKE",
-    "bankCode": "KZ",
+    "bankCode": "BRKE",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "BRKEKZKA",
     "Bank Name": "BEREKE BANK JOINT STOCK COMPANY",
@@ -130,8 +130,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRLP",
-    "bankCode": "KZ",
+    "bankCode": "BRLP",
+    "countryCode": "KZ",
     "branchCode": "Z22",
     "SWIFT Code": "BRLPKZ22",
     "Bank Name": "BRILLINK BANK CORPORATION LIMITED",
@@ -143,8 +143,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDU",
-    "bankCode": "KZ",
+    "bankCode": "CEDU",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "CEDUKZKA",
     "Bank Name": "CENTRAL SECURITIES DEPOSITORY, JSC",
@@ -156,8 +156,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "KZ",
+    "bankCode": "PCBC",
+    "countryCode": "KZ",
     "branchCode": "Z2A",
     "SWIFT Code": "PCBCKZ2A",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION ASTANA BRANCH",
@@ -169,8 +169,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "KZ",
+    "bankCode": "CITI",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "CITIKZKA",
     "Bank Name": "CJSC CITIBANK KAZAKHSTAN",
@@ -182,8 +182,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLPY",
-    "bankCode": "KZ",
+    "bankCode": "CLPY",
+    "countryCode": "KZ",
     "branchCode": "Z2A",
     "SWIFT Code": "CLPYKZ2A",
     "Bank Name": "COLLECT AND PAY LTD.",
@@ -195,8 +195,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DVKA",
-    "bankCode": "KZ",
+    "bankCode": "DVKA",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "DVKAKZKA",
     "Bank Name": "DEVELOPMENT BANK OF KAZAKHSTAN JSC",
@@ -208,8 +208,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EURI",
-    "bankCode": "KZ",
+    "bankCode": "EURI",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "EURIKZKA",
     "Bank Name": "EURASIAN BANK",
@@ -221,8 +221,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EABR",
-    "bankCode": "KZ",
+    "bankCode": "EABR",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "EABRKZKA",
     "Bank Name": "EURASIAN DEVELOPMENT BANK",
@@ -234,8 +234,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EABR",
-    "bankCode": "KZ",
+    "bankCode": "EABR",
+    "countryCode": "KZ",
     "branchCode": "ACF",
     "SWIFT Code": "EABRKZKAACF",
     "Bank Name": "EURASIAN DEVELOPMENT BANK",
@@ -247,8 +247,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSES",
-    "bankCode": "KZ",
+    "bankCode": "TSES",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "TSESKZKA",
     "Bank Name": "FIRST HEARTLAND JUSAN BANK JOINT-STOCK COMPANY",
@@ -260,8 +260,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRTY",
-    "bankCode": "KZ",
+    "bankCode": "IRTY",
+    "countryCode": "KZ",
     "branchCode": "001",
     "SWIFT Code": "IRTYKZKA001",
     "Bank Name": "FORTEBANK JSC",
@@ -273,8 +273,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRTY",
-    "bankCode": "KZ",
+    "bankCode": "IRTY",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "IRTYKZKA",
     "Bank Name": "FORTEBANK JSC",
@@ -286,8 +286,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBK",
-    "bankCode": "KZ",
+    "bankCode": "HSBK",
+    "countryCode": "KZ",
     "branchCode": "ZKX",
     "SWIFT Code": "HSBKKZKX",
     "Bank Name": "HALYK BANK OF KAZAKHSTAN",
@@ -299,8 +299,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBK",
-    "bankCode": "KZ",
+    "bankCode": "HSBK",
+    "countryCode": "KZ",
     "branchCode": "TSY",
     "SWIFT Code": "HSBKKZKXTSY",
     "Bank Name": "HALYK BANK OF KAZAKHSTAN",
@@ -312,8 +312,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "KZ",
+    "bankCode": "ICBK",
+    "countryCode": "KZ",
     "branchCode": "ZKX",
     "SWIFT Code": "ICBKKZKX",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -325,8 +325,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "KZ",
+    "bankCode": "ICBK",
+    "countryCode": "KZ",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKKZKXCLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -338,8 +338,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAJS",
-    "bankCode": "KZ",
+    "bankCode": "ZAJS",
+    "countryCode": "KZ",
     "branchCode": "Z22",
     "SWIFT Code": "ZAJSKZ22",
     "Bank Name": "ISLAMIC BANK 'ZAMAN-BANK' JSC",
@@ -351,8 +351,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCSK",
-    "bankCode": "KZ",
+    "bankCode": "HCSK",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "HCSKKZKA",
     "Bank Name": "JOINT STOCK COMPANY 'OTBASY BANK' HOUSE CONSTRUCTION SAVINGS BANK",
@@ -364,8 +364,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATYN",
-    "bankCode": "KZ",
+    "bankCode": "ATYN",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "ATYNKZKA",
     "Bank Name": "JSC 'ALTYN BANK' (SB OF CHINA CITIC BANK CORPORATION)",
@@ -377,8 +377,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCJB",
-    "bankCode": "KZ",
+    "bankCode": "KCJB",
+    "countryCode": "KZ",
     "branchCode": "ZKX",
     "SWIFT Code": "KCJBKZKX",
     "Bank Name": "JSC 'BANK CENTERCREDIT'",
@@ -390,8 +390,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INLM",
-    "bankCode": "KZ",
+    "bankCode": "INLM",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "INLMKZKA",
     "Bank Name": "JSC HOME CREDIT BANK",
@@ -403,8 +403,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CASP",
-    "bankCode": "KZ",
+    "bankCode": "CASP",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "CASPKZKA",
     "Bank Name": "KASPI BANK JSC",
@@ -416,8 +416,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KICE",
-    "bankCode": "KZ",
+    "bankCode": "KICE",
+    "countryCode": "KZ",
     "branchCode": "ZKX",
     "SWIFT Code": "KICEKZKX",
     "Bank Name": "KAZAKHSTAN STOCK EXCHANGE",
@@ -429,8 +429,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KZIB",
-    "bankCode": "KZ",
+    "bankCode": "KZIB",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "KZIBKZKA",
     "Bank Name": "KAZAKHSTAN-ZIRAAT INTERNATIONAL BANK",
@@ -442,8 +442,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KJSC",
-    "bankCode": "KZ",
+    "bankCode": "KJSC",
+    "countryCode": "KZ",
     "branchCode": "Z22",
     "SWIFT Code": "KJSCKZ22",
     "Bank Name": "KAZPOST JOINT STOCK COMPANY",
@@ -455,8 +455,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRTE",
-    "bankCode": "KZ",
+    "bankCode": "IRTE",
+    "countryCode": "KZ",
     "branchCode": "ZK2",
     "SWIFT Code": "IRTEKZK2",
     "Bank Name": "LIMITED LIABILITY PARTNERSHIP 'IRBIS TECH'",
@@ -468,8 +468,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBRK",
-    "bankCode": "KZ",
+    "bankCode": "NBRK",
+    "countryCode": "KZ",
     "branchCode": "ZKX",
     "SWIFT Code": "NBRKKZKX",
     "Bank Name": "NATIONAL BANK OF KAZAKHSTAN",
@@ -481,8 +481,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NURS",
-    "bankCode": "KZ",
+    "bankCode": "NURS",
+    "countryCode": "KZ",
     "branchCode": "ZKX",
     "SWIFT Code": "NURSKZKX",
     "Bank Name": "NURBANK JOINT STOCK COMPANY",
@@ -494,8 +494,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SENI",
-    "bankCode": "KZ",
+    "bankCode": "SENI",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "SENIKZKA",
     "Bank Name": "QAZAQ BANKI JOINT STOCK COMPANY",
@@ -507,8 +507,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KZ",
+    "bankCode": "SHBK",
+    "countryCode": "KZ",
     "branchCode": "ZKA",
     "SWIFT Code": "SHBKKZKA",
     "Bank Name": "SHINHAN BANK KAZAKHSTAN JSC",
@@ -520,8 +520,8 @@ const kazakhstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTBA",
-    "bankCode": "KZ",
+    "bankCode": "VTBA",
+    "countryCode": "KZ",
     "branchCode": "ZKZ",
     "SWIFT Code": "VTBAKZKZ",
     "Bank Name": "VTB BANK (KAZAKHSTAN)",

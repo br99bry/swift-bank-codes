@@ -1,7 +1,7 @@
 const estonia = [
   {
-    "countryCode": "PARX",
-    "bankCode": "EE",
+    "bankCode": "PARX",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "PARXEE22",
     "Bank Name": "AS CITADELE BANKA EESTI FILIAAL",
@@ -13,8 +13,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHVB",
-    "bankCode": "EE",
+    "bankCode": "LHVB",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "LHVBEE22",
     "Bank Name": "AS LHV PANK",
@@ -26,8 +26,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHVB",
-    "bankCode": "EE",
+    "bankCode": "LHVB",
+    "countryCode": "EE",
     "branchCode": "INS",
     "SWIFT Code": "LHVBEE22INS",
     "Bank Name": "AS LHV PANK",
@@ -39,8 +39,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EEUH",
-    "bankCode": "EE",
+    "bankCode": "EEUH",
+    "countryCode": "EE",
     "branchCode": "TPS",
     "SWIFT Code": "EEUHEE2XTPS",
     "Bank Name": "AS SEB PANK",
@@ -52,8 +52,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EEUH",
-    "bankCode": "EE",
+    "bankCode": "EEUH",
+    "countryCode": "EE",
     "branchCode": "E2X",
     "SWIFT Code": "EEUHEE2X",
     "Bank Name": "AS SEB PANK",
@@ -65,8 +65,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TABU",
-    "bankCode": "EE",
+    "bankCode": "TABU",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "TABUEE22",
     "Bank Name": "AS TBB PANK",
@@ -78,8 +78,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TABU",
-    "bankCode": "EE",
+    "bankCode": "TABU",
+    "countryCode": "EE",
     "branchCode": "TPS",
     "SWIFT Code": "TABUEE22TPS",
     "Bank Name": "AS TBB PANK",
@@ -91,8 +91,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGK",
-    "bankCode": "EE",
+    "bankCode": "BIGK",
+    "countryCode": "EE",
     "branchCode": "E2B",
     "SWIFT Code": "BIGKEE2B",
     "Bank Name": "BIGBANK AS",
@@ -104,8 +104,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKRD",
-    "bankCode": "EE",
+    "bankCode": "EKRD",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "EKRDEE22",
     "Bank Name": "COOP PANK",
@@ -117,8 +117,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKRD",
-    "bankCode": "EE",
+    "bankCode": "EKRD",
+    "countryCode": "EE",
     "branchCode": "TPS",
     "SWIFT Code": "EKRDEE22TPS",
     "Bank Name": "COOP PANK",
@@ -130,8 +130,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPBE",
-    "bankCode": "EE",
+    "bankCode": "EPBE",
+    "countryCode": "EE",
     "branchCode": "CCB",
     "SWIFT Code": "EPBEEE2XCCB",
     "Bank Name": "EESTI PANK (BANK OF ESTONIA)",
@@ -143,8 +143,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPBE",
-    "bankCode": "EE",
+    "bankCode": "EPBE",
+    "countryCode": "EE",
     "branchCode": "ECM",
     "SWIFT Code": "EPBEEE2XECM",
     "Bank Name": "EESTI PANK (BANK OF ESTONIA)",
@@ -156,8 +156,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPBE",
-    "bankCode": "EE",
+    "bankCode": "EPBE",
+    "countryCode": "EE",
     "branchCode": "E2X",
     "SWIFT Code": "EPBEEE2X",
     "Bank Name": "EESTI PANK (BANK OF ESTONIA)",
@@ -169,8 +169,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUIV",
-    "bankCode": "EE",
+    "bankCode": "GUIV",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "GUIVEE22",
     "Bank Name": "G.U.S. INVESTMENTS OU",
@@ -182,8 +182,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOMM",
-    "bankCode": "EE",
+    "bankCode": "HOMM",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "HOMMEE22",
     "Bank Name": "HOLM BANK AS",
@@ -195,8 +195,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IHPY",
-    "bankCode": "EE",
+    "bankCode": "IHPY",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "IHPYEE22",
     "Bank Name": "INHOUSE PAY AS",
@@ -208,8 +208,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPFD",
-    "bankCode": "EE",
+    "bankCode": "IPFD",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "IPFDEE22",
     "Bank Name": "IPF DIGITAL AS",
@@ -221,8 +221,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIEO",
-    "bankCode": "EE",
+    "bankCode": "LIEO",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "LIEOEE22",
     "Bank Name": "LIGHTYEAR EUROPE",
@@ -234,8 +234,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKO",
-    "bankCode": "EE",
+    "bankCode": "RIKO",
+    "countryCode": "EE",
     "branchCode": "CBC",
     "SWIFT Code": "RIKOEE22CBC",
     "Bank Name": "LUMINOR BANK AS, ESTONIA (FORMER AS DNB PANK)",
@@ -247,8 +247,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKO",
-    "bankCode": "EE",
+    "bankCode": "RIKO",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "RIKOEE22",
     "Bank Name": "LUMINOR BANK AS, ESTONIA (FORMER AS DNB PANK)",
@@ -261,8 +261,8 @@ const estonia = [
   },
   {},
   {
-    "countryCode": "MOMN",
-    "bankCode": "EE",
+    "bankCode": "MOMN",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "MOMNEE22",
     "Bank Name": "MONEMON AS",
@@ -274,8 +274,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKOY",
-    "bankCode": "EE",
+    "bankCode": "OKOY",
+    "countryCode": "EE",
     "branchCode": "E2X",
     "SWIFT Code": "OKOYEE2X",
     "Bank Name": "OP CORPORATE BANK PLC ESTONIAN BRANCH",
@@ -287,8 +287,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEUX",
-    "bankCode": "EE",
+    "bankCode": "NEUX",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "NEUXEE22",
     "Bank Name": "OU NEURONEXT",
@@ -300,8 +300,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POHO",
-    "bankCode": "EE",
+    "bankCode": "POHO",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "POHOEE22",
     "Bank Name": "PHJA-EESTI HOIU-LAENUHISTU",
@@ -313,8 +313,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "EE",
+    "bankCode": "HABA",
+    "countryCode": "EE",
     "branchCode": "TIP",
     "SWIFT Code": "HABAEE2XTIP",
     "Bank Name": "SWEDBANK AS",
@@ -326,8 +326,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "EE",
+    "bankCode": "HABA",
+    "countryCode": "EE",
     "branchCode": "E2X",
     "SWIFT Code": "HABAEE2X",
     "Bank Name": "SWEDBANK AS",
@@ -339,8 +339,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "EE",
+    "bankCode": "HABA",
+    "countryCode": "EE",
     "branchCode": "HAM",
     "SWIFT Code": "HABAEE2XHAM",
     "Bank Name": "SWEDBANK AS",
@@ -352,8 +352,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "EE",
+    "bankCode": "PANX",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "PANXEE22",
     "Bank Name": "UNIFIEDPOST PAYMENTS EESTI FILIAAL",
@@ -365,8 +365,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VINE",
-    "bankCode": "EE",
+    "bankCode": "VINE",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "VINEEE22",
     "Bank Name": "VOLKSWAGEN INTERNATIONAL ESTONIA AS",
@@ -378,8 +378,8 @@ const estonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WALL",
-    "bankCode": "EE",
+    "bankCode": "WALL",
+    "countryCode": "EE",
     "branchCode": "E22",
     "SWIFT Code": "WALLEE22",
     "Bank Name": "WALLESTER AS",

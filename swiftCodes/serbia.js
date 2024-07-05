@@ -1,7 +1,7 @@
 const serbia = [
   {
-    "countryCode": "OPPB",
-    "bankCode": "RS",
+    "bankCode": "OPPB",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "OPPBRS22",
     "Bank Name": "3 BANKA A.D. NOVI SAD",
@@ -13,8 +13,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAAB",
-    "bankCode": "RS",
+    "bankCode": "HAAB",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "HAABRSBG",
     "Bank Name": "ADDIKO BANK A.D. BEOGRAD",
@@ -26,8 +26,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIKI",
-    "bankCode": "RS",
+    "bankCode": "LIKI",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "LIKIRSBG",
     "Bank Name": "ADRIATIC BANK AD BEOGRAD",
@@ -39,8 +39,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIKB",
-    "bankCode": "RS",
+    "bankCode": "AIKB",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "AIKBRS22",
     "Bank Name": "AIK BANKA AD",
@@ -52,8 +52,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JMBN",
-    "bankCode": "RS",
+    "bankCode": "JMBN",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "JMBNRSBG",
     "Bank Name": "ALTA BANKA A.D. BEOGRAD",
@@ -65,8 +65,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIB",
-    "bankCode": "RS",
+    "bankCode": "APIB",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "APIBRSBG",
     "Bank Name": "API BANK AD BEOGRAD",
@@ -78,8 +78,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBDB",
-    "bankCode": "RS",
+    "bankCode": "DBDB",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "DBDBRSBG",
     "Bank Name": "BANCA INTESA AD, BEOGRAD",
@@ -91,8 +91,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "RS",
+    "bankCode": "BKCH",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "BKCHRSBG",
     "Bank Name": "BANK OF CHINA SRBIJA A.D. BEOGRAD",
@@ -104,8 +104,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRPK",
-    "bankCode": "RS",
+    "bankCode": "CRPK",
+    "countryCode": "RS",
     "branchCode": "SBB",
     "SWIFT Code": "CRPKRSBB",
     "Bank Name": "CENTRALNI REGISTAR DEPO I KLIRING HARTIJA OD VREDNOSTI AKCIONARSKO DRUSTVO, BEOGRAD",
@@ -117,8 +117,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "RS",
+    "bankCode": "GIBA",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "GIBARS22",
     "Bank Name": "ERSTE BANK A.D. NOVI SAD",
@@ -130,8 +130,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBK",
-    "bankCode": "RS",
+    "bankCode": "ERBK",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "ERBKRSBG",
     "Bank Name": "EUROBANK DIREKTNA A.D.",
@@ -143,8 +143,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBK",
-    "bankCode": "RS",
+    "bankCode": "ERBK",
+    "countryCode": "RS",
     "branchCode": "SEC",
     "SWIFT Code": "ERBKRSBGSEC",
     "Bank Name": "EUROBANK DIREKTNA A.D.",
@@ -156,8 +156,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CABA",
-    "bankCode": "RS",
+    "bankCode": "CABA",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "CABARS22",
     "Bank Name": "HALKBANK A.D. BEOGRAD",
@@ -169,8 +169,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBN",
-    "bankCode": "RS",
+    "bankCode": "MRBN",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "MRBNRSBG",
     "Bank Name": "MIRABANK A.D. BEOGRAD NOVI BEOGRAD",
@@ -182,8 +182,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAAA",
-    "bankCode": "RS",
+    "bankCode": "AAAA",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "AAAARSBG",
     "Bank Name": "MOBI BANKA AD",
@@ -195,8 +195,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSR",
-    "bankCode": "RS",
+    "bankCode": "NBSR",
+    "countryCode": "RS",
     "branchCode": "SBD",
     "SWIFT Code": "NBSRRSBD",
     "Bank Name": "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
@@ -208,8 +208,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSR",
-    "bankCode": "RS",
+    "bankCode": "NBSR",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "NBSRRSBG",
     "Bank Name": "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
@@ -221,8 +221,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBB",
-    "bankCode": "RS",
+    "bankCode": "KOBB",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "KOBBRSBG",
     "Bank Name": "NLB KOMERCIJALNA BANKA AD BEOGRAD",
@@ -234,8 +234,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "RS",
+    "bankCode": "OTPV",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "OTPVRS22",
     "Bank Name": "OTP BANKA SRBIJA AKCIONARSKO DRUSTVO NOVI SAD",
@@ -247,8 +247,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PADO",
-    "bankCode": "RS",
+    "bankCode": "PADO",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "PADORS22",
     "Bank Name": "PAYSPOT DOO",
@@ -260,8 +260,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBPO",
-    "bankCode": "RS",
+    "bankCode": "SBPO",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "SBPORSBG",
     "Bank Name": "POSTAL SAVINGS BANK JSC",
@@ -273,8 +273,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBPO",
-    "bankCode": "RS",
+    "bankCode": "SBPO",
+    "countryCode": "RS",
     "branchCode": "100",
     "SWIFT Code": "SBPORSBG100",
     "Bank Name": "POSTAL SAVINGS BANK JSC",
@@ -286,8 +286,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "RS",
+    "bankCode": "PRCB",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "PRCBRSBG",
     "Bank Name": "PROCREDIT BANK A.D. BELGRADE",
@@ -299,8 +299,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBS",
-    "bankCode": "RS",
+    "bankCode": "RZBS",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "RZBSRSBG",
     "Bank Name": "RAIFFEISEN BANKA A.D.",
@@ -312,8 +312,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRBN",
-    "bankCode": "RS",
+    "bankCode": "SRBN",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "SRBNRSBG",
     "Bank Name": "SRPSKA BANKA A.D.",
@@ -325,8 +325,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDDT",
-    "bankCode": "RS",
+    "bankCode": "BDDT",
+    "countryCode": "RS",
     "branchCode": "S22",
     "SWIFT Code": "BDDTRS22",
     "Bank Name": "TESLA CAPITAL A.D. BELGRADE",
@@ -338,8 +338,8 @@ const serbia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "RS",
+    "bankCode": "BACX",
+    "countryCode": "RS",
     "branchCode": "SBG",
     "SWIFT Code": "BACXRSBG",
     "Bank Name": "UNICREDIT BANK SRBIJA A.D.",

@@ -1,7 +1,7 @@
 const rwanda = [
   {
-    "countryCode": "ABBR",
-    "bankCode": "RW",
+    "bankCode": "ABBR",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "ABBRRWRW",
     "Bank Name": "AB BANK RWANDA PLC",
@@ -13,8 +13,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKOR",
-    "bankCode": "RW",
+    "bankCode": "BKOR",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "BKORRWRW",
     "Bank Name": "ACCESS BANK (RWANDA) PLC",
@@ -26,8 +26,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRW",
-    "bankCode": "RW",
+    "bankCode": "AFRW",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "AFRWRWRW",
     "Bank Name": "BANK OF AFRICA RWANDA LTD",
@@ -39,8 +39,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKIG",
-    "bankCode": "RW",
+    "bankCode": "BKIG",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "BKIGRWRW",
     "Bank Name": "BANK OF KIGALI PLC",
@@ -52,8 +52,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNRW",
-    "bankCode": "RW",
+    "bankCode": "BNRW",
+    "countryCode": "RW",
     "branchCode": "WRP",
     "SWIFT Code": "BNRWRWRP",
     "Bank Name": "BANQUE NATIONALE DU RWANDA (BNR)",
@@ -65,8 +65,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNRW",
-    "bankCode": "RW",
+    "bankCode": "BNRW",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "BNRWRWRW",
     "Bank Name": "BANQUE NATIONALE DU RWANDA (BNR)",
@@ -78,8 +78,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRW",
-    "bankCode": "RW",
+    "bankCode": "BPRW",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "BPRWRWRW",
     "Bank Name": "BPR BANK RWANDA PLC",
@@ -91,8 +91,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRDR",
-    "bankCode": "RW",
+    "bankCode": "BRDR",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "BRDRRWRW",
     "Bank Name": "DEVELOPMENT BANK OF RWANDA",
@@ -104,8 +104,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "RW",
+    "bankCode": "ECOC",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "ECOCRWRW",
     "Bank Name": "ECOBANK RWANDA",
@@ -117,8 +117,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQBL",
-    "bankCode": "RW",
+    "bankCode": "EQBL",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "EQBLRWRW",
     "Bank Name": "EQUITY BANK RWANDA PLC",
@@ -130,8 +130,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "RW",
+    "bankCode": "GTBI",
+    "countryCode": "RW",
     "branchCode": "WRK",
     "SWIFT Code": "GTBIRWRK",
     "Bank Name": "GUARANTY TRUST BANK (RWANDA) PLC",
@@ -143,8 +143,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMRW",
-    "bankCode": "RW",
+    "bankCode": "IMRW",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "IMRWRWRW",
     "Bank Name": "I AND M BANK (RWANDA) PLC",
@@ -156,8 +156,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAF",
-    "bankCode": "RW",
+    "bankCode": "CBAF",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "CBAFRWRW",
     "Bank Name": "NCBA BANK RWANDA PLC",
@@ -169,8 +169,8 @@ const rwanda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOBR",
-    "bankCode": "RW",
+    "bankCode": "UOBR",
+    "countryCode": "RW",
     "branchCode": "WRW",
     "SWIFT Code": "UOBRRWRW",
     "Bank Name": "URWEGO BANK PLC",

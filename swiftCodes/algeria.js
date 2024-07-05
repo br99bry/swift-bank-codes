@@ -1,7 +1,7 @@
 const algeria = [
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "032",
     "SWIFT Code": "BEXADZAL032",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -13,8 +13,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "051",
     "SWIFT Code": "BEXADZAL051",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -26,8 +26,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "073",
     "SWIFT Code": "BEXADZAL073",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -39,8 +39,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "061",
     "SWIFT Code": "BEXADZAL061",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -52,8 +52,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "087",
     "SWIFT Code": "BEXADZAL087",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -65,8 +65,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "036",
     "SWIFT Code": "BEXADZAL036",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -78,8 +78,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "053",
     "SWIFT Code": "BEXADZAL053",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -91,8 +91,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "065",
     "SWIFT Code": "BEXADZAL065",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -104,8 +104,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "084",
     "SWIFT Code": "BEXADZAL084",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -117,8 +117,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "052",
     "SWIFT Code": "BEXADZAL052",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -130,8 +130,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "085",
     "SWIFT Code": "BEXADZAL085",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -143,8 +143,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "057",
     "SWIFT Code": "BEXADZAL057",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -156,8 +156,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "046",
     "SWIFT Code": "BEXADZAL046",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -169,8 +169,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "069",
     "SWIFT Code": "BEXADZAL069",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -182,8 +182,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "108",
     "SWIFT Code": "BEXADZAL108",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -195,8 +195,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "120",
     "SWIFT Code": "BEXADZAL120",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -208,8 +208,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "098",
     "SWIFT Code": "BEXADZAL098",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -221,8 +221,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "121",
     "SWIFT Code": "BEXADZAL121",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -234,8 +234,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "096",
     "SWIFT Code": "BEXADZAL096",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -247,8 +247,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "064",
     "SWIFT Code": "BEXADZAL064",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -260,8 +260,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "114",
     "SWIFT Code": "BEXADZAL114",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -273,8 +273,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "088",
     "SWIFT Code": "BEXADZAL088",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -286,8 +286,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "RTG",
     "SWIFT Code": "BNALDZALRTG",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -299,8 +299,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BNALDZAL",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -312,8 +312,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "615",
     "SWIFT Code": "BNALDZAL615",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -325,8 +325,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "623",
     "SWIFT Code": "BNALDZAL623",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -338,8 +338,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "633",
     "SWIFT Code": "BNALDZAL633",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -351,8 +351,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "608",
     "SWIFT Code": "BNALDZAL608",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -364,8 +364,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "601",
     "SWIFT Code": "BNALDZAL601",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -377,8 +377,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "621",
     "SWIFT Code": "BNALDZAL621",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -390,8 +390,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "599",
     "SWIFT Code": "BNALDZAL599",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -403,8 +403,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "607",
     "SWIFT Code": "BNALDZAL607",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -416,8 +416,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "602",
     "SWIFT Code": "BNALDZAL602",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -429,8 +429,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "605",
     "SWIFT Code": "BNALDZAL605",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -442,8 +442,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "620",
     "SWIFT Code": "BNALDZAL620",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -455,8 +455,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "810",
     "SWIFT Code": "BNALDZAL810",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -468,8 +468,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "811",
     "SWIFT Code": "BNALDZAL811",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -481,8 +481,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "954",
     "SWIFT Code": "BNALDZAL954",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -494,8 +494,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "412",
     "SWIFT Code": "BNALDZAL412",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -507,8 +507,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "356",
     "SWIFT Code": "BNALDZAL356",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -520,8 +520,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "857",
     "SWIFT Code": "BNALDZAL857",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -533,8 +533,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "386",
     "SWIFT Code": "BNALDZAL386",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -546,8 +546,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "442",
     "SWIFT Code": "BNALDZAL442",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -559,8 +559,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "705",
     "SWIFT Code": "BNALDZAL705",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -572,8 +572,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "640",
     "SWIFT Code": "BNALDZAL640",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -585,8 +585,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "643",
     "SWIFT Code": "BNALDZAL643",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -598,8 +598,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "430",
     "SWIFT Code": "BNALDZAL430",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -611,8 +611,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "460",
     "SWIFT Code": "BNALDZAL460",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -624,8 +624,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "260",
     "SWIFT Code": "BNALDZAL260",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -637,8 +637,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "832",
     "SWIFT Code": "BNALDZAL832",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -650,8 +650,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SALG",
-    "bankCode": "DZ",
+    "bankCode": "SALG",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "SALGDZAL",
     "Bank Name": "AL SALAM BANK ALGERIA",
@@ -663,8 +663,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "DZ",
+    "bankCode": "ARAB",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "ARABDZAL",
     "Bank Name": "ARAB BANK PLC ALGERIA",
@@ -676,8 +676,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCO",
-    "bankCode": "DZ",
+    "bankCode": "ABCO",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "ABCODZAL",
     "Bank Name": "ARAB BANKING CORPORATION - ALGERIA",
@@ -689,8 +689,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALG",
-    "bankCode": "DZ",
+    "bankCode": "BALG",
+    "countryCode": "DZ",
     "branchCode": "ZAP",
     "SWIFT Code": "BALGDZAP",
     "Bank Name": "BANK OF ALGERIA",
@@ -702,8 +702,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALG",
-    "bankCode": "DZ",
+    "bankCode": "BALG",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BALGDZAL",
     "Bank Name": "BANK OF ALGERIA",
@@ -715,8 +715,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALG",
-    "bankCode": "DZ",
+    "bankCode": "BALG",
+    "countryCode": "DZ",
     "branchCode": "SBE",
     "SWIFT Code": "BALGDZALSBE",
     "Bank Name": "BANK OF ALGERIA",
@@ -728,8 +728,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRKA",
-    "bankCode": "DZ",
+    "bankCode": "BRKA",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BRKADZAL",
     "Bank Name": "BANQUE AL-BARAKA D'ALGERIE",
@@ -741,8 +741,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDLO",
-    "bankCode": "DZ",
+    "bankCode": "BDLO",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BDLODZAL",
     "Bank Name": "BANQUE DE DEVELOPPEMENT LOCAL",
@@ -754,8 +754,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BADR",
-    "bankCode": "DZ",
+    "bankCode": "BADR",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BADRDZAL",
     "Bank Name": "BANQUE DE L'AGRICULTURE ET DE DEVELOPPEMENT RURAL",
@@ -767,8 +767,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIC",
-    "bankCode": "DZ",
+    "bankCode": "BMIC",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BMICDZAL",
     "Bank Name": "BANQUE DU MAGHREB ARABE POUR L'INVESTISSEMENT ET LE COMMERCE",
@@ -780,8 +780,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "122",
     "SWIFT Code": "BEXADZAL122",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -793,8 +793,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "118",
     "SWIFT Code": "BEXADZAL118",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -806,8 +806,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "072",
     "SWIFT Code": "BEXADZAL072",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -819,8 +819,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "113",
     "SWIFT Code": "BEXADZAL113",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -832,8 +832,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "012",
     "SWIFT Code": "BEXADZAL012",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -845,8 +845,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "020",
     "SWIFT Code": "BEXADZAL020",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -858,8 +858,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "015",
     "SWIFT Code": "BEXADZAL015",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -871,8 +871,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "001",
     "SWIFT Code": "BEXADZAL001",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -884,8 +884,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "008",
     "SWIFT Code": "BEXADZAL008",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -897,8 +897,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "004",
     "SWIFT Code": "BEXADZAL004",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -910,8 +910,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "034",
     "SWIFT Code": "BEXADZAL034",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -923,8 +923,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "090",
     "SWIFT Code": "BEXADZAL090",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -936,8 +936,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "017",
     "SWIFT Code": "BEXADZAL017",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -949,8 +949,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "116",
     "SWIFT Code": "BEXADZAL116",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -962,8 +962,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "030",
     "SWIFT Code": "BEXADZAL030",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -975,8 +975,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "010",
     "SWIFT Code": "BEXADZAL010",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -988,8 +988,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "018",
     "SWIFT Code": "BEXADZAL018",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1001,8 +1001,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "038",
     "SWIFT Code": "BEXADZAL038",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1014,8 +1014,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "022",
     "SWIFT Code": "BEXADZAL022",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1027,8 +1027,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "912",
     "SWIFT Code": "BEXADZAL912",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1040,8 +1040,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "005",
     "SWIFT Code": "BEXADZAL005",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1053,8 +1053,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "013",
     "SWIFT Code": "BEXADZAL013",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1066,8 +1066,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "016",
     "SWIFT Code": "BEXADZAL016",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1079,8 +1079,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "089",
     "SWIFT Code": "BEXADZAL089",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1092,8 +1092,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "DTD",
     "SWIFT Code": "BEXADZALDTD",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1105,8 +1105,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "DOE",
     "SWIFT Code": "BEXADZALDOE",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1118,8 +1118,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "DRI",
     "SWIFT Code": "BEXADZALDRI",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1131,8 +1131,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "DCE",
     "SWIFT Code": "BEXADZALDCE",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1144,8 +1144,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "101",
     "SWIFT Code": "BEXADZAL101",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1157,8 +1157,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "102",
     "SWIFT Code": "BEXADZAL102",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1170,8 +1170,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "100",
     "SWIFT Code": "BEXADZAL100",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1183,8 +1183,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "044",
     "SWIFT Code": "BEXADZAL044",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1196,8 +1196,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "077",
     "SWIFT Code": "BEXADZAL077",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1209,8 +1209,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "076",
     "SWIFT Code": "BEXADZAL076",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1222,8 +1222,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "107",
     "SWIFT Code": "BEXADZAL107",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1235,8 +1235,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "042",
     "SWIFT Code": "BEXADZAL042",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1248,8 +1248,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "078",
     "SWIFT Code": "BEXADZAL078",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1261,8 +1261,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "054",
     "SWIFT Code": "BEXADZAL054",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1274,8 +1274,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "093",
     "SWIFT Code": "BEXADZAL093",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1287,8 +1287,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "071",
     "SWIFT Code": "BEXADZAL071",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1300,8 +1300,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "850",
     "SWIFT Code": "BNALDZAL850",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1313,8 +1313,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "835",
     "SWIFT Code": "BNALDZAL835",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1326,8 +1326,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "616",
     "SWIFT Code": "BNALDZAL616",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1339,8 +1339,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "619",
     "SWIFT Code": "BNALDZAL619",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1352,8 +1352,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "291",
     "SWIFT Code": "BNALDZAL291",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1365,8 +1365,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "441",
     "SWIFT Code": "BNALDZAL441",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1378,8 +1378,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "301",
     "SWIFT Code": "BNALDZAL301",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1391,8 +1391,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "901",
     "SWIFT Code": "BNALDZAL901",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1404,8 +1404,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "876",
     "SWIFT Code": "BNALDZAL876",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1417,8 +1417,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "871",
     "SWIFT Code": "BNALDZAL871",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1430,8 +1430,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "952",
     "SWIFT Code": "BNALDZAL952",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1443,8 +1443,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "958",
     "SWIFT Code": "BNALDZAL958",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1456,8 +1456,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "966",
     "SWIFT Code": "BNALDZAL966",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1469,8 +1469,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "960",
     "SWIFT Code": "BNALDZAL960",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1482,8 +1482,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "951",
     "SWIFT Code": "BNALDZAL951",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1495,8 +1495,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "946",
     "SWIFT Code": "BNALDZAL946",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1508,8 +1508,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "869",
     "SWIFT Code": "BNALDZAL869",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1521,8 +1521,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "632",
     "SWIFT Code": "BNALDZAL632",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1534,8 +1534,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "641",
     "SWIFT Code": "BNALDZAL641",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1547,8 +1547,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "704",
     "SWIFT Code": "BNALDZAL704",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1560,8 +1560,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "743",
     "SWIFT Code": "BNALDZAL743",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1573,8 +1573,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "440",
     "SWIFT Code": "BNALDZAL440",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1586,8 +1586,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "473",
     "SWIFT Code": "BNALDZAL473",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1599,8 +1599,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "491",
     "SWIFT Code": "BNALDZAL491",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1612,8 +1612,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "540",
     "SWIFT Code": "BNALDZAL540",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1625,8 +1625,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "581",
     "SWIFT Code": "BNALDZAL581",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1638,8 +1638,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "583",
     "SWIFT Code": "BNALDZAL583",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1651,8 +1651,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "526",
     "SWIFT Code": "BNALDZAL526",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1664,8 +1664,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "512",
     "SWIFT Code": "BNALDZAL512",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1677,8 +1677,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "527",
     "SWIFT Code": "BNALDZAL527",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1690,8 +1690,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "941",
     "SWIFT Code": "BNALDZAL941",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1703,8 +1703,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAL",
-    "bankCode": "DZ",
+    "bankCode": "BNAL",
+    "countryCode": "DZ",
     "branchCode": "630",
     "SWIFT Code": "BNALDZAL630",
     "Bank Name": "BANQUE NATIONALE D'ALGERIE",
@@ -1716,8 +1716,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "DZ",
+    "bankCode": "BNPA",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BNPADZAL",
     "Bank Name": "BNP PARIBAS EL DJAZAIR",
@@ -1729,8 +1729,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPPR",
-    "bankCode": "DZ",
+    "bankCode": "EPPR",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "EPPRDZAL",
     "Bank Name": "CAISSE NATIONALE D'EPARGNE ET DE PREVOYANCE-BANQUE",
@@ -1742,8 +1742,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DZ",
+    "bankCode": "CITI",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "CITIDZAL",
     "Bank Name": "CITIBANK N.A. ALGERIA",
@@ -1755,8 +1755,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DZ",
+    "bankCode": "CITI",
+    "countryCode": "DZ",
     "branchCode": "TRD",
     "SWIFT Code": "CITIDZALTRD",
     "Bank Name": "CITIBANK N.A. ALGERIA",
@@ -1768,8 +1768,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPAL",
-    "bankCode": "DZ",
+    "bankCode": "CPAL",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "CPALDZAL",
     "Bank Name": "CREDIT POPULAIRE D'ALGERIE",
@@ -1781,8 +1781,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPAL",
-    "bankCode": "DZ",
+    "bankCode": "EPAL",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "EPALDZAL",
     "Bank Name": "EPIC ALGERIE POSTE",
@@ -1794,8 +1794,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBK",
-    "bankCode": "DZ",
+    "bankCode": "FSBK",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "FSBKDZAL",
     "Bank Name": "FRANSABANK EL DJAZAIR SPA",
@@ -1807,8 +1807,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGUB",
-    "bankCode": "DZ",
+    "bankCode": "AGUB",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "AGUBDZAL",
     "Bank Name": "GULF BANK ALGERIE",
@@ -1820,8 +1820,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "DZ",
+    "bankCode": "HSBC",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "HSBCDZAL",
     "Bank Name": "HSBC ALGERIA",
@@ -1833,8 +1833,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "DZ",
+    "bankCode": "NATX",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "NATXDZAL",
     "Bank Name": "NATIXIS ALGERIE",
@@ -1846,8 +1846,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "DZ",
+    "bankCode": "SOGE",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "SOGEDZAL",
     "Bank Name": "SOCIETE GENERALE ALGERIE",
@@ -1859,8 +1859,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBHO",
-    "bankCode": "DZ",
+    "bankCode": "HBHO",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "HBHODZAL",
     "Bank Name": "THE HOUSING BANK FOR TRADE AND FINANCE ALGERIA",
@@ -1872,8 +1872,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBAL",
-    "bankCode": "DZ",
+    "bankCode": "TBAL",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "TBALDZAL",
     "Bank Name": "TRUST BANK ALGERIA",
@@ -1885,8 +1885,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "041",
     "SWIFT Code": "BEXADZAL041",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1898,8 +1898,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "040",
     "SWIFT Code": "BEXADZAL040",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1911,8 +1911,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "075",
     "SWIFT Code": "BEXADZAL075",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1924,8 +1924,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "ZAL",
     "SWIFT Code": "BEXADZAL",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1937,8 +1937,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "095",
     "SWIFT Code": "BEXADZAL095",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1950,8 +1950,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "056",
     "SWIFT Code": "BEXADZAL056",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1963,8 +1963,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "025",
     "SWIFT Code": "BEXADZAL025",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1976,8 +1976,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "024",
     "SWIFT Code": "BEXADZAL024",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -1989,8 +1989,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "117",
     "SWIFT Code": "BEXADZAL117",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2002,8 +2002,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "027",
     "SWIFT Code": "BEXADZAL027",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2015,8 +2015,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "112",
     "SWIFT Code": "BEXADZAL112",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2028,8 +2028,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "058",
     "SWIFT Code": "BEXADZAL058",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2041,8 +2041,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "109",
     "SWIFT Code": "BEXADZAL109",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2054,8 +2054,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "019",
     "SWIFT Code": "BEXADZAL019",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2067,8 +2067,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "037",
     "SWIFT Code": "BEXADZAL037",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2080,8 +2080,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "082",
     "SWIFT Code": "BEXADZAL082",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2093,8 +2093,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "111",
     "SWIFT Code": "BEXADZAL111",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2106,8 +2106,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "006",
     "SWIFT Code": "BEXADZAL006",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2119,8 +2119,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "086",
     "SWIFT Code": "BEXADZAL086",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2132,8 +2132,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "068",
     "SWIFT Code": "BEXADZAL068",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2145,8 +2145,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "110",
     "SWIFT Code": "BEXADZAL110",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2158,8 +2158,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "050",
     "SWIFT Code": "BEXADZAL050",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2171,8 +2171,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "103",
     "SWIFT Code": "BEXADZAL103",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2184,8 +2184,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "031",
     "SWIFT Code": "BEXADZAL031",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2197,8 +2197,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "039",
     "SWIFT Code": "BEXADZAL039",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2210,8 +2210,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "002",
     "SWIFT Code": "BEXADZAL002",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2223,8 +2223,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "097",
     "SWIFT Code": "BEXADZAL097",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2236,8 +2236,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "094",
     "SWIFT Code": "BEXADZAL094",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2249,8 +2249,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "028",
     "SWIFT Code": "BEXADZAL028",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2262,8 +2262,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "080",
     "SWIFT Code": "BEXADZAL080",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2275,8 +2275,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "055",
     "SWIFT Code": "BEXADZAL055",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2288,8 +2288,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "035",
     "SWIFT Code": "BEXADZAL035",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2301,8 +2301,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "033",
     "SWIFT Code": "BEXADZAL033",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2314,8 +2314,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "083",
     "SWIFT Code": "BEXADZAL083",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2327,8 +2327,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "092",
     "SWIFT Code": "BEXADZAL092",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2340,8 +2340,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "048",
     "SWIFT Code": "BEXADZAL048",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2353,8 +2353,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "043",
     "SWIFT Code": "BEXADZAL043",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2366,8 +2366,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "029",
     "SWIFT Code": "BEXADZAL029",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2379,8 +2379,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "047",
     "SWIFT Code": "BEXADZAL047",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2392,8 +2392,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "067",
     "SWIFT Code": "BEXADZAL067",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2405,8 +2405,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "026",
     "SWIFT Code": "BEXADZAL026",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2418,8 +2418,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "066",
     "SWIFT Code": "BEXADZAL066",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2431,8 +2431,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "104",
     "SWIFT Code": "BEXADZAL104",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2444,8 +2444,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "070",
     "SWIFT Code": "BEXADZAL070",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2457,8 +2457,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "074",
     "SWIFT Code": "BEXADZAL074",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2470,8 +2470,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "060",
     "SWIFT Code": "BEXADZAL060",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2483,8 +2483,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "062",
     "SWIFT Code": "BEXADZAL062",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2496,8 +2496,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "079",
     "SWIFT Code": "BEXADZAL079",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2509,8 +2509,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "115",
     "SWIFT Code": "BEXADZAL115",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",
@@ -2522,8 +2522,8 @@ const algeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXA",
-    "bankCode": "DZ",
+    "bankCode": "BEXA",
+    "countryCode": "DZ",
     "branchCode": "081",
     "SWIFT Code": "BEXADZAL081",
     "Bank Name": "BANQUE EXTERIEURE D'ALGERIE",

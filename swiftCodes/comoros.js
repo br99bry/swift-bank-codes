@@ -1,7 +1,7 @@
 const comoros = [
   {
-    "countryCode": "COCB",
-    "bankCode": "KM",
+    "bankCode": "COCB",
+    "countryCode": "KM",
     "branchCode": "MKM",
     "SWIFT Code": "COCBKMKM",
     "Bank Name": "BANQUE CENTRALE DES COMOROS",
@@ -13,8 +13,8 @@ const comoros = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEVP",
-    "bankCode": "KM",
+    "bankCode": "DEVP",
+    "countryCode": "KM",
     "branchCode": "MKM",
     "SWIFT Code": "DEVPKMKM",
     "Bank Name": "BANQUE DE DEVELOPPEMENT DES COMORES",
@@ -26,8 +26,8 @@ const comoros = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFDC",
-    "bankCode": "KM",
+    "bankCode": "BFDC",
+    "countryCode": "KM",
     "branchCode": "MKM",
     "SWIFT Code": "BFDCKMKM",
     "Bank Name": "BANQUE FEDERALE DE COMMERCE",
@@ -39,8 +39,8 @@ const comoros = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICC",
-    "bankCode": "KM",
+    "bankCode": "BICC",
+    "countryCode": "KM",
     "branchCode": "MKM",
     "SWIFT Code": "BICCKMKM",
     "Bank Name": "BANQUE POUR L'INDUSTRIE ET LE COMMERCE DES COMORES",
@@ -52,8 +52,8 @@ const comoros = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTN",
-    "bankCode": "KM",
+    "bankCode": "EXTN",
+    "countryCode": "KM",
     "branchCode": "MKM",
     "SWIFT Code": "EXTNKMKM",
     "Bank Name": "EXIM BANK COMORES LTD",
@@ -65,8 +65,8 @@ const comoros = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAHM",
-    "bankCode": "KM",
+    "bankCode": "HAHM",
+    "countryCode": "KM",
     "branchCode": "MKM",
     "SWIFT Code": "HAHMKMKM",
     "Bank Name": "SOCIETE NATIONALE DES POSTES ET DES SERVICES FINANCIERS (SNPSF)",

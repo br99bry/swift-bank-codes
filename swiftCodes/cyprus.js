@@ -1,7 +1,7 @@
 const cyprus = [
   {
-    "countryCode": "ERBK",
-    "bankCode": "CY",
+    "bankCode": "ERBK",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ERBKCY2N",
     "Bank Name": "EUROBANK CYPRUS LTD",
@@ -13,8 +13,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXOV",
-    "bankCode": "CY",
+    "bankCode": "EXOV",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "EXOVCY22",
     "Bank Name": "EXOVO LTD",
@@ -26,8 +26,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBL",
-    "bankCode": "CY",
+    "bankCode": "RCBL",
+    "countryCode": "CY",
     "branchCode": "Y2I",
     "SWIFT Code": "RCBLCY2I",
     "Bank Name": "FINSTELLA LTD",
@@ -39,8 +39,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNSF",
-    "bankCode": "CY",
+    "bankCode": "FNSF",
+    "countryCode": "CY",
     "branchCode": "Y2I",
     "SWIFT Code": "FNSFCY2I",
     "Bank Name": "FINSTELLA LTD",
@@ -52,8 +52,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINT",
-    "bankCode": "CY",
+    "bankCode": "FINT",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "FINTCY2L",
     "Bank Name": "FINTAILOR INVESTMENTS LIMITED",
@@ -65,8 +65,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINV",
-    "bankCode": "CY",
+    "bankCode": "FINV",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "FINVCY2N",
     "Bank Name": "FIRST INVESTMENT BANK CYPRUS INTERNATIONAL BANKING UNIT",
@@ -78,8 +78,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRFE",
-    "bankCode": "CY",
+    "bankCode": "FRFE",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "FRFECY2L",
     "Bank Name": "FREEDOM FINANCE EUROPE LTD",
@@ -91,8 +91,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FXFS",
-    "bankCode": "CY",
+    "bankCode": "FXFS",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "FXFSCY22",
     "Bank Name": "FXPRO FINANCIAL SERVICES LIMITED",
@@ -104,8 +104,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPBF",
-    "bankCode": "CY",
+    "bankCode": "GPBF",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "GPBFCY2L",
     "Bank Name": "GPB FINANCIAL SERVICES LIMITED",
@@ -117,8 +117,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRCP",
-    "bankCode": "CY",
+    "bankCode": "HRCP",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "HRCPCY2N",
     "Bank Name": "HELLEN'S ROCK CAPITAL LTD",
@@ -130,8 +130,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEBA",
-    "bankCode": "CY",
+    "bankCode": "HEBA",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "HEBACY2N",
     "Bank Name": "HELLENIC BANK PUBLIC COMPANY LTD.",
@@ -143,8 +143,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFIC",
-    "bankCode": "CY",
+    "bankCode": "HFIC",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "HFICCY2N",
     "Bank Name": "HOUSING FINANCE CORPORATION",
@@ -156,8 +156,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITRA",
-    "bankCode": "CY",
+    "bankCode": "ITRA",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "ITRACY2L",
     "Bank Name": "INTRACLEAR LIMITED",
@@ -169,8 +169,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITRA",
-    "bankCode": "CY",
+    "bankCode": "ITRA",
+    "countryCode": "CY",
     "branchCode": "TPS",
     "SWIFT Code": "ITRACY2LTPS",
     "Bank Name": "INTRACLEAR LIMITED",
@@ -184,8 +184,8 @@ const cyprus = [
   {},
   {},
   {
-    "countryCode": "ISEM",
-    "bankCode": "CY",
+    "bankCode": "ISEM",
+    "countryCode": "CY",
     "branchCode": "FLY",
     "SWIFT Code": "ISEMCY22FLY",
     "Bank Name": "ISX FINANCIAL EU PLC",
@@ -197,8 +197,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISEM",
-    "bankCode": "CY",
+    "bankCode": "ISEM",
+    "countryCode": "CY",
     "branchCode": "OPN",
     "SWIFT Code": "ISEMCY22OPN",
     "Bank Name": "ISX FINANCIAL EU PLC",
@@ -210,8 +210,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISEM",
-    "bankCode": "CY",
+    "bankCode": "ISEM",
+    "countryCode": "CY",
     "branchCode": "IBU",
     "SWIFT Code": "ISEMCY22IBU",
     "Bank Name": "ISX FINANCIAL EU PLC",
@@ -223,8 +223,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCCP",
-    "bankCode": "CY",
+    "bankCode": "JCCP",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "JCCPCY2N",
     "Bank Name": "JCC PAYMENT SYSTEMS LTD",
@@ -237,8 +237,8 @@ const cyprus = [
   },
   {},
   {
-    "countryCode": "JCCP",
-    "bankCode": "CY",
+    "bankCode": "JCCP",
+    "countryCode": "CY",
     "branchCode": "SDD",
     "SWIFT Code": "JCCPCY22SDD",
     "Bank Name": "JCC PAYMENT SYSTEMS LTD",
@@ -250,8 +250,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCCP",
-    "bankCode": "CY",
+    "bankCode": "JCCP",
+    "countryCode": "CY",
     "branchCode": "CCH",
     "SWIFT Code": "JCCPCY22CCH",
     "Bank Name": "JCC PAYMENT SYSTEMS LTD",
@@ -263,8 +263,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCCP",
-    "bankCode": "CY",
+    "bankCode": "JCCP",
+    "countryCode": "CY",
     "branchCode": "GFM",
     "SWIFT Code": "JCCPCY22GFM",
     "Bank Name": "JCC PAYMENT SYSTEMS LTD",
@@ -276,8 +276,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCCP",
-    "bankCode": "CY",
+    "bankCode": "JCCP",
+    "countryCode": "CY",
     "branchCode": "DCA",
     "SWIFT Code": "JCCPCY22DCA",
     "Bank Name": "JCC PAYMENT SYSTEMS LTD",
@@ -289,8 +289,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JONB",
-    "bankCode": "CY",
+    "bankCode": "JONB",
+    "countryCode": "CY",
     "branchCode": "Y2I",
     "SWIFT Code": "JONBCY2I",
     "Bank Name": "JORDAN AHLI BANK PLC",
@@ -302,8 +302,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JKBA",
-    "bankCode": "CY",
+    "bankCode": "JKBA",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "JKBACY2L",
     "Bank Name": "JORDAN KUWAIT BANK PLC",
@@ -315,8 +315,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAN",
-    "bankCode": "CY",
+    "bankCode": "PBAN",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "PBANCY2N",
     "Bank Name": "JSC CB PRIVATBANK",
@@ -328,8 +328,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOER",
-    "bankCode": "CY",
+    "bankCode": "KOER",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "KOERCY22",
     "Bank Name": "KORONAPAY EUROPE LTD",
@@ -341,8 +341,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEIP",
-    "bankCode": "CY",
+    "bankCode": "MEIP",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "MEIPCY22",
     "Bank Name": "MERITKAPITAL LIMITED",
@@ -354,8 +354,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGLW",
-    "bankCode": "CY",
+    "bankCode": "MGLW",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "MGLWCY22",
     "Bank Name": "MGL WALLET LTD",
@@ -369,8 +369,8 @@ const cyprus = [
   {},
   {},
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "532",
     "SWIFT Code": "ETHNCY2N532",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -382,8 +382,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "530",
     "SWIFT Code": "ETHNCY2N530",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -395,8 +395,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "535",
     "SWIFT Code": "ETHNCY2N535",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -408,8 +408,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "553",
     "SWIFT Code": "ETHNCY2N553",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -422,8 +422,8 @@ const cyprus = [
   },
   {},
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "540",
     "SWIFT Code": "ETHNCY2N540",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -435,8 +435,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "541",
     "SWIFT Code": "ETHNCY2N541",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -448,8 +448,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "544",
     "SWIFT Code": "ETHNCY2N544",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -461,8 +461,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ETHNCY2N",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -474,8 +474,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "527",
     "SWIFT Code": "ETHNCY2N527",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -487,8 +487,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "999",
     "SWIFT Code": "ETHNCY2N999",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -500,8 +500,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "521",
     "SWIFT Code": "ETHNCY2N521",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -513,8 +513,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "528",
     "SWIFT Code": "ETHNCY2N528",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -526,8 +526,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "526",
     "SWIFT Code": "ETHNCY2N526",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -539,8 +539,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "549",
     "SWIFT Code": "ETHNCY2N549",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -552,8 +552,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "525",
     "SWIFT Code": "ETHNCY2N525",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -565,8 +565,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "545",
     "SWIFT Code": "ETHNCY2N545",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -578,8 +578,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "531",
     "SWIFT Code": "ETHNCY2N531",
     "Bank Name": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
@@ -591,8 +591,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "CY",
+    "bankCode": "ETHN",
+    "countryCode": "CY",
     "branchCode": "YNN",
     "SWIFT Code": "ETHNCYNN",
     "Bank Name": "NATIONAL BANK OF GREECE S.A. CYPRUS BRANCH (578)",
@@ -604,8 +604,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NUVE",
-    "bankCode": "CY",
+    "bankCode": "NUVE",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "NUVECY22",
     "Bank Name": "NUVEI LIMITED",
@@ -617,8 +617,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMFV",
-    "bankCode": "CY",
+    "bankCode": "OMFV",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "OMFVCY2N",
     "Bank Name": "OMEGA FUNDS INVESTMENT LIMITED",
@@ -630,8 +630,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OROA",
-    "bankCode": "CY",
+    "bankCode": "OROA",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "OROACY2L",
     "Bank Name": "ORO PAY LTD",
@@ -643,8 +643,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POWH",
-    "bankCode": "CY",
+    "bankCode": "POWH",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "POWHCY22",
     "Bank Name": "PAYABL. CY LIMITED",
@@ -656,8 +656,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYBL",
-    "bankCode": "CY",
+    "bankCode": "PYBL",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "PYBLCY2L",
     "Bank Name": "PAYABL. CY LIMITED",
@@ -669,8 +669,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RESP",
-    "bankCode": "CY",
+    "bankCode": "RESP",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "RESPCY2N",
     "Bank Name": "RENAISSANCE SECURITIES (CYPRUS) LIMITED",
@@ -682,8 +682,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFCE",
-    "bankCode": "CY",
+    "bankCode": "SFCE",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "SFCECY2L",
     "Bank Name": "ROEMER CAPITAL (EUROPE) LIMITED",
@@ -695,8 +695,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNIN",
-    "bankCode": "CY",
+    "bankCode": "RNIN",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "RNINCY2N",
     "Bank Name": "RONIN EUROPE LIMITED",
@@ -708,8 +708,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEPM",
-    "bankCode": "CY",
+    "bankCode": "SEPM",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "SEPMCY2N",
     "Bank Name": "SEPAGA E.M.I. LTD",
@@ -721,8 +721,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRFE",
-    "bankCode": "CY",
+    "bankCode": "PRFE",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "PRFECY2N",
     "Bank Name": "SIBILLA SOLUTIONS LTD",
@@ -734,8 +734,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKNN",
-    "bankCode": "CY",
+    "bankCode": "SKNN",
+    "countryCode": "CY",
     "branchCode": "YN2",
     "SWIFT Code": "SKNNCYN2",
     "Bank Name": "SKANESTAS INVESTMENTS LIMITED",
@@ -747,8 +747,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "CY",
+    "bankCode": "SOGE",
+    "countryCode": "CY",
     "branchCode": "LIM",
     "SWIFT Code": "SOGECY2NLIM",
     "Bank Name": "SOCIETE GENERALE CYPRUS LIMITED",
@@ -760,8 +760,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "CY",
+    "bankCode": "SOGE",
+    "countryCode": "CY",
     "branchCode": "AMA",
     "SWIFT Code": "SOGECY2NAMA",
     "Bank Name": "SOCIETE GENERALE CYPRUS LIMITED",
@@ -773,8 +773,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "CY",
+    "bankCode": "SOGE",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "SOGECY2N",
     "Bank Name": "SOCIETE GENERALE CYPRUS LIMITED",
@@ -786,8 +786,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "CY",
+    "bankCode": "SOGE",
+    "countryCode": "CY",
     "branchCode": "NIC",
     "SWIFT Code": "SOGECY2NNIC",
     "Bank Name": "SOCIETE GENERALE CYPRUS LIMITED",
@@ -799,8 +799,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOLP",
-    "bankCode": "CY",
+    "bankCode": "SOLP",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "SOLPCY22",
     "Bank Name": "SOLID PROCESSING LIMITED",
@@ -812,8 +812,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXFE",
-    "bankCode": "CY",
+    "bankCode": "SXFE",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "SXFECY2N",
     "Bank Name": "STONEX EUROPE LTD",
@@ -825,8 +825,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUEI",
-    "bankCode": "CY",
+    "bankCode": "SUEI",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "SUEICY2N",
     "Bank Name": "SURESWIPE E.M.I. PLC",
@@ -838,8 +838,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUEI",
-    "bankCode": "CY",
+    "bankCode": "SUEI",
+    "countryCode": "CY",
     "branchCode": "YN2",
     "SWIFT Code": "SUEICYN2",
     "Bank Name": "SURESWIPE E.M.I. PLC",
@@ -851,8 +851,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFIM",
-    "bankCode": "CY",
+    "bankCode": "TFIM",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "TFIMCY2N",
     "Bank Name": "TFI MARKETS LIMITED",
@@ -864,8 +864,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAS",
-    "bankCode": "CY",
+    "bankCode": "UBAS",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "UBASCY22",
     "Bank Name": "UBS ADVISORY SERVICES LIMITED",
@@ -877,8 +877,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARD",
-    "bankCode": "CY",
+    "bankCode": "CARD",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "CARDCY2L",
     "Bank Name": "UNLIMINT",
@@ -890,8 +890,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WARF",
-    "bankCode": "CY",
+    "bankCode": "WARF",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "WARFCY2N",
     "Bank Name": "WARGAMING FINANCE LTD",
@@ -903,8 +903,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WWFI",
-    "bankCode": "CY",
+    "bankCode": "WWFI",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "WWFICY2L",
     "Bank Name": "WISE WOLVES FINANCE LTD",
@@ -916,8 +916,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WWPI",
-    "bankCode": "CY",
+    "bankCode": "WWPI",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "WWPICY2L",
     "Bank Name": "WISE WOLVES PAYMENT INSTITUTION LIMITED",
@@ -929,8 +929,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZIPA",
-    "bankCode": "CY",
+    "bankCode": "ZIPA",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "ZIPACY22",
     "Bank Name": "ZING PAYMENTS LTD",
@@ -942,8 +942,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFA",
-    "bankCode": "CY",
+    "bankCode": "ALFA",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ALFACY2N",
     "Bank Name": "ALFA CAPITAL MARKETS LTD",
@@ -955,8 +955,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKL",
-    "bankCode": "CY",
+    "bankCode": "ABKL",
+    "countryCode": "CY",
     "branchCode": "LAR",
     "SWIFT Code": "ABKLCY2NLAR",
     "Bank Name": "ALPHA BANK CYPRUS LTD",
@@ -968,8 +968,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKL",
-    "bankCode": "CY",
+    "bankCode": "ABKL",
+    "countryCode": "CY",
     "branchCode": "LIM",
     "SWIFT Code": "ABKLCY2NLIM",
     "Bank Name": "ALPHA BANK CYPRUS LTD",
@@ -981,8 +981,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKL",
-    "bankCode": "CY",
+    "bankCode": "ABKL",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ABKLCY2N",
     "Bank Name": "ALPHA BANK CYPRUS LTD",
@@ -994,8 +994,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKL",
-    "bankCode": "CY",
+    "bankCode": "ABKL",
+    "countryCode": "CY",
     "branchCode": "PAP",
     "SWIFT Code": "ABKLCY2NPAP",
     "Bank Name": "ALPHA BANK CYPRUS LTD",
@@ -1007,8 +1007,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANCO",
-    "bankCode": "CY",
+    "bankCode": "ANCO",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ANCOCY2N",
     "Bank Name": "ANCORIA BANK LTD",
@@ -1020,8 +1020,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJIB",
-    "bankCode": "CY",
+    "bankCode": "AJIB",
+    "countryCode": "CY",
     "branchCode": "Y2I",
     "SWIFT Code": "AJIBCY2I",
     "Bank Name": "ARAB JORDAN INVESTMENT BANK",
@@ -1033,8 +1033,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJIB",
-    "bankCode": "CY",
+    "bankCode": "AJIB",
+    "countryCode": "CY",
     "branchCode": "CCC",
     "SWIFT Code": "AJIBCY2ICCC",
     "Bank Name": "ARAB JORDAN INVESTMENT BANK",
@@ -1046,8 +1046,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIRB",
-    "bankCode": "CY",
+    "bankCode": "PIRB",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "PIRBCY2N",
     "Bank Name": "ASTROBANK PUBLIC COMPANY LIMITED",
@@ -1059,8 +1059,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNVK",
-    "bankCode": "CY",
+    "bankCode": "UNVK",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "UNVKCY2N",
     "Bank Name": "ASTROBANK PUBLIC COMPANY LIMITED",
@@ -1072,8 +1072,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACNS",
-    "bankCode": "CY",
+    "bankCode": "ACNS",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "ACNSCY22",
     "Bank Name": "ATHLOS CAPITAL INVESTMENT SERVICES LTD",
@@ -1085,8 +1085,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATON",
-    "bankCode": "CY",
+    "bankCode": "ATON",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ATONCY2N",
     "Bank Name": "ATONLINE LIMITED",
@@ -1098,8 +1098,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCYP",
-    "bankCode": "CY",
+    "bankCode": "BCYP",
+    "countryCode": "CY",
     "branchCode": "030",
     "SWIFT Code": "BCYPCY2N030",
     "Bank Name": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
@@ -1111,8 +1111,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCYP",
-    "bankCode": "CY",
+    "bankCode": "BCYP",
+    "countryCode": "CY",
     "branchCode": "010",
     "SWIFT Code": "BCYPCY2N010",
     "Bank Name": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
@@ -1124,8 +1124,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCYP",
-    "bankCode": "CY",
+    "bankCode": "BCYP",
+    "countryCode": "CY",
     "branchCode": "INS",
     "SWIFT Code": "BCYPCY2NINS",
     "Bank Name": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
@@ -1137,8 +1137,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCYP",
-    "bankCode": "CY",
+    "bankCode": "BCYP",
+    "countryCode": "CY",
     "branchCode": "TSY",
     "SWIFT Code": "BCYPCY2NTSY",
     "Bank Name": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
@@ -1150,8 +1150,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCYP",
-    "bankCode": "CY",
+    "bankCode": "BCYP",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "BCYPCY2N",
     "Bank Name": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
@@ -1163,8 +1163,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAA",
-    "bankCode": "CY",
+    "bankCode": "SBAA",
+    "countryCode": "CY",
     "branchCode": "Y2I",
     "SWIFT Code": "SBAACY2I",
     "Bank Name": "BANQUE SBA - INTERNATIONAL BANKING UNIT",
@@ -1176,8 +1176,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLUE",
-    "bankCode": "CY",
+    "bankCode": "BLUE",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "BLUECY2N",
     "Bank Name": "BLUEHOUSE CAPITAL ADVISORS LIMITED",
@@ -1189,8 +1189,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNER",
-    "bankCode": "CY",
+    "bankCode": "BNER",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "BNERCY22",
     "Bank Name": "BNKPRO EUROPE LTD",
@@ -1202,8 +1202,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRCR",
-    "bankCode": "CY",
+    "bankCode": "BRCR",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "BRCRCY22",
     "Bank Name": "BROKERCREDITSERVICE (CYPRUS) LIMITED",
@@ -1215,8 +1215,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRCR",
-    "bankCode": "CY",
+    "bankCode": "BRCR",
+    "countryCode": "CY",
     "branchCode": "RET",
     "SWIFT Code": "BRCRCY22RET",
     "Bank Name": "BROKERCREDITSERVICE (CYPRUS) LIMITED",
@@ -1228,8 +1228,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "CBCYCY2N",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1241,8 +1241,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "ACC",
     "SWIFT Code": "CBCYCY2NACC",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1254,8 +1254,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "CAS",
     "SWIFT Code": "CBCYCY2NCAS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1267,8 +1267,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "CCH",
     "SWIFT Code": "CBCYCY2NCCH",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1280,8 +1280,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "CCB",
     "SWIFT Code": "CBCYCY2NCCB",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1293,8 +1293,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "CON",
     "SWIFT Code": "CBCYCY2NCON",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1306,8 +1306,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "CSE",
     "SWIFT Code": "CBCYCY2NCSE",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1319,8 +1319,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "EOS",
     "SWIFT Code": "CBCYCY2NEOS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1332,8 +1332,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "EDS",
     "SWIFT Code": "CBCYCY2NEDS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1345,8 +1345,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "FBU",
     "SWIFT Code": "CBCYCY2NFBU",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1358,8 +1358,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "GPS",
     "SWIFT Code": "CBCYCY2NGPS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1371,8 +1371,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "LSS",
     "SWIFT Code": "CBCYCY2NLSS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1384,8 +1384,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "ISS",
     "SWIFT Code": "CBCYCY2NISS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1397,8 +1397,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "JCC",
     "SWIFT Code": "CBCYCY2NJCC",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1410,8 +1410,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "MRS",
     "SWIFT Code": "CBCYCY2NMRS",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1423,8 +1423,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "MPO",
     "SWIFT Code": "CBCYCY2NMPO",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1436,8 +1436,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCY",
-    "bankCode": "CY",
+    "bankCode": "CBCY",
+    "countryCode": "CY",
     "branchCode": "PMT",
     "SWIFT Code": "CBCYCY2NPMT",
     "Bank Name": "CENTRAL BANK OF CYPRUS",
@@ -1449,8 +1449,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECB",
-    "bankCode": "CY",
+    "bankCode": "CECB",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "CECBCY2N",
     "Bank Name": "CENTRAL COOPERATIVE BANK PLC",
@@ -1462,8 +1462,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSCC",
-    "bankCode": "CY",
+    "bankCode": "CSCC",
+    "countryCode": "CY",
     "branchCode": "YNL",
     "SWIFT Code": "CSCCCYNL",
     "Bank Name": "CSC EUROPE LIMITED",
@@ -1475,8 +1475,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CYDB",
-    "bankCode": "CY",
+    "bankCode": "CYDB",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "CYDBCY2N",
     "Bank Name": "CYPRUS DEVELOPMENT BANK PUBLIC COMPANY LTD, THE",
@@ -1488,8 +1488,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCYS",
-    "bankCode": "CY",
+    "bankCode": "XCYS",
+    "countryCode": "CY",
     "branchCode": "001",
     "SWIFT Code": "XCYSCY2N001",
     "Bank Name": "CYPRUS STOCK EXCHANGE",
@@ -1501,8 +1501,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCYS",
-    "bankCode": "CY",
+    "bankCode": "XCYS",
+    "countryCode": "CY",
     "branchCode": "ENX",
     "SWIFT Code": "XCYSCY2NENX",
     "Bank Name": "CYPRUS STOCK EXCHANGE",
@@ -1514,8 +1514,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCYS",
-    "bankCode": "CY",
+    "bankCode": "XCYS",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "XCYSCY2N",
     "Bank Name": "CYPRUS STOCK EXCHANGE",
@@ -1527,8 +1527,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCYS",
-    "bankCode": "CY",
+    "bankCode": "XCYS",
+    "countryCode": "CY",
     "branchCode": "ASI",
     "SWIFT Code": "XCYSCY2NASI",
     "Bank Name": "CYPRUS STOCK EXCHANGE",
@@ -1540,8 +1540,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMX",
-    "bankCode": "CY",
+    "bankCode": "ECMX",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "ECMXCY22",
     "Bank Name": "ECOMMBX LIMITED",
@@ -1553,8 +1553,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECBX",
-    "bankCode": "CY",
+    "bankCode": "ECBX",
+    "countryCode": "CY",
     "branchCode": "Y2N",
     "SWIFT Code": "ECBXCY2N",
     "Bank Name": "ECOMMBX LIMITED",
@@ -1566,8 +1566,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECRD",
-    "bankCode": "CY",
+    "bankCode": "ECRD",
+    "countryCode": "CY",
     "branchCode": "Y2L",
     "SWIFT Code": "ECRDCY2L",
     "Bank Name": "ECREDO LIMITED",
@@ -1579,8 +1579,8 @@ const cyprus = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPMA",
-    "bankCode": "CY",
+    "bankCode": "EPMA",
+    "countryCode": "CY",
     "branchCode": "Y22",
     "SWIFT Code": "EPMACY22",
     "Bank Name": "EPMAP LIMITED",

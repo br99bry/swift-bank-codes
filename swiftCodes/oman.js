@@ -1,7 +1,7 @@
 const oman = [
   {
-    "countryCode": "AUBO",
-    "bankCode": "OM",
+    "bankCode": "AUBO",
+    "countryCode": "OM",
     "branchCode": "ALH",
     "SWIFT Code": "AUBOOMRUALH",
     "Bank Name": "AHLI BANK S.A.O.G",
@@ -13,8 +13,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBO",
-    "bankCode": "OM",
+    "bankCode": "AUBO",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "AUBOOMRU",
     "Bank Name": "AHLI BANK S.A.O.G",
@@ -26,8 +26,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IZZB",
-    "bankCode": "OM",
+    "bankCode": "IZZB",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "IZZBOMRU",
     "Bank Name": "ALIZZ ISLAMIC BANK",
@@ -39,8 +39,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDOF",
-    "bankCode": "OM",
+    "bankCode": "BDOF",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "BDOFOMRU",
     "Bank Name": "BANK DHOFAR (S.A.O.G.)",
@@ -52,8 +52,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDOF",
-    "bankCode": "OM",
+    "bankCode": "BDOF",
+    "countryCode": "OM",
     "branchCode": "TFD",
     "SWIFT Code": "BDOFOMRUTFD",
     "Bank Name": "BANK DHOFAR (S.A.O.G.)",
@@ -65,8 +65,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDOF",
-    "bankCode": "OM",
+    "bankCode": "BDOF",
+    "countryCode": "OM",
     "branchCode": "MIB",
     "SWIFT Code": "BDOFOMRUMIB",
     "Bank Name": "BANK DHOFAR (S.A.O.G.)",
@@ -78,8 +78,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMUS",
-    "bankCode": "OM",
+    "bankCode": "BMUS",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "BMUSOMRX",
     "Bank Name": "BANK MUSCAT SAOG",
@@ -91,8 +91,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMUS",
-    "bankCode": "OM",
+    "bankCode": "BMUS",
+    "countryCode": "OM",
     "branchCode": "ISL",
     "SWIFT Code": "BMUSOMRXISL",
     "Bank Name": "BANK MUSCAT SAOG",
@@ -104,8 +104,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMUS",
-    "bankCode": "OM",
+    "bankCode": "BMUS",
+    "countryCode": "OM",
     "branchCode": "TBG",
     "SWIFT Code": "BMUSOMRXTBG",
     "Bank Name": "BANK MUSCAT SAOG",
@@ -117,8 +117,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNZW",
-    "bankCode": "OM",
+    "bankCode": "BNZW",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "BNZWOMRX",
     "Bank Name": "BANK NIZWA",
@@ -130,8 +130,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "OM",
+    "bankCode": "BARB",
+    "countryCode": "OM",
     "branchCode": "MUT",
     "SWIFT Code": "BARBOMMXMUT",
     "Bank Name": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
@@ -143,8 +143,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "OM",
+    "bankCode": "BARB",
+    "countryCode": "OM",
     "branchCode": "SAL",
     "SWIFT Code": "BARBOMMXSAL",
     "Bank Name": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
@@ -156,8 +156,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "OM",
+    "bankCode": "BARB",
+    "countryCode": "OM",
     "branchCode": "MMX",
     "SWIFT Code": "BARBOMMX",
     "Bank Name": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
@@ -169,8 +169,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "OM",
+    "bankCode": "BARB",
+    "countryCode": "OM",
     "branchCode": "SOH",
     "SWIFT Code": "BARBOMMXSOH",
     "Bank Name": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
@@ -182,8 +182,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BABE",
-    "bankCode": "OM",
+    "bankCode": "BABE",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "BABEOMRX",
     "Bank Name": "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
@@ -195,8 +195,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBOM",
-    "bankCode": "OM",
+    "bankCode": "CBOM",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "CBOMOMRU",
     "Bank Name": "CENTRAL BANK OF OMAN",
@@ -208,8 +208,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "OM",
+    "bankCode": "NBAD",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "NBADOMRX",
     "Bank Name": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR",
@@ -221,8 +221,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "OM",
+    "bankCode": "NBAD",
+    "countryCode": "OM",
     "branchCode": "CMS",
     "SWIFT Code": "NBADOMRXCMS",
     "Bank Name": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR",
@@ -234,8 +234,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "OM",
+    "bankCode": "NBAD",
+    "countryCode": "OM",
     "branchCode": "TFO",
     "SWIFT Code": "NBADOMRXTFO",
     "Bank Name": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI) OMAN MAIN BR",
@@ -247,8 +247,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "OM",
+    "bankCode": "GULF",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "GULFOMRX",
     "Bank Name": "GULF INTERNATIONAL BANK (OMAN BRANCH)",
@@ -260,8 +260,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "OM",
+    "bankCode": "HABB",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "HABBOMRX",
     "Bank Name": "HABIB BANK OMAN",
@@ -273,8 +273,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBME",
-    "bankCode": "OM",
+    "bankCode": "HBME",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "HBMEOMRX",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED(OMAN BRANCH)",
@@ -286,8 +286,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MINI",
-    "bankCode": "OM",
+    "bankCode": "MINI",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "MINIOMRU",
     "Bank Name": "MINISTRY OF FINANCE",
@@ -299,8 +299,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "OM",
+    "bankCode": "NBOM",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "NBOMOMRX",
     "Bank Name": "NATIONAL BANK OF OMAN",
@@ -312,8 +312,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "OM",
+    "bankCode": "NBOM",
+    "countryCode": "OM",
     "branchCode": "IBS",
     "SWIFT Code": "NBOMOMRXIBS",
     "Bank Name": "NATIONAL BANK OF OMAN",
@@ -325,8 +325,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "OM",
+    "bankCode": "NBOM",
+    "countryCode": "OM",
     "branchCode": "ITF",
     "SWIFT Code": "NBOMOMRXITF",
     "Bank Name": "NATIONAL BANK OF OMAN",
@@ -338,8 +338,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "OM",
+    "bankCode": "NBOM",
+    "countryCode": "OM",
     "branchCode": "TSS",
     "SWIFT Code": "NBOMOMRXTSS",
     "Bank Name": "NATIONAL BANK OF OMAN",
@@ -351,8 +351,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPCF",
-    "bankCode": "OM",
+    "bankCode": "OPCF",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "OPCFOMRX",
     "Bank Name": "OCTAL PETROCHEMICALS FZC",
@@ -364,8 +364,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMAB",
-    "bankCode": "OM",
+    "bankCode": "OMAB",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "OMABOMRU",
     "Bank Name": "OMAN ARAB BANK SAOG",
@@ -377,8 +377,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMAB",
-    "bankCode": "OM",
+    "bankCode": "OMAB",
+    "countryCode": "OM",
     "branchCode": "YSR",
     "SWIFT Code": "OMABOMRUYSR",
     "Bank Name": "OMAN ARAB BANK SAOG",
@@ -390,8 +390,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGRF",
-    "bankCode": "OM",
+    "bankCode": "SGRF",
+    "countryCode": "OM",
     "branchCode": "MRA",
     "SWIFT Code": "SGRFOMRA",
     "Bank Name": "OMAN INVESTMENT AUTHORITY",
@@ -403,8 +403,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGRF",
-    "bankCode": "OM",
+    "bankCode": "SGRF",
+    "countryCode": "OM",
     "branchCode": "MRB",
     "SWIFT Code": "SGRFOMRB",
     "Bank Name": "OMAN INVESTMENT AUTHORITY",
@@ -416,8 +416,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGRF",
-    "bankCode": "OM",
+    "bankCode": "SGRF",
+    "countryCode": "OM",
     "branchCode": "BRA",
     "SWIFT Code": "SGRFOMRABRA",
     "Bank Name": "OMAN INVESTMENT AUTHORITY",
@@ -429,8 +429,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OIBB",
-    "bankCode": "OM",
+    "bankCode": "OIBB",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "OIBBOMRX",
     "Bank Name": "OMAN INVESTMENT BANK SAOC",
@@ -442,8 +442,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "OM",
+    "bankCode": "QNBA",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "QNBAOMRX",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -455,8 +455,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "OM",
+    "bankCode": "BBME",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "BBMEOMRX",
     "Bank Name": "SOHAR INTERNATIONAL BANK S.A.O.G",
@@ -468,8 +468,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHR",
-    "bankCode": "OM",
+    "bankCode": "BSHR",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "BSHROMRU",
     "Bank Name": "SOHAR INTERNATIONAL BANK S.A.O.G",
@@ -481,8 +481,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHR",
-    "bankCode": "OM",
+    "bankCode": "BSHR",
+    "countryCode": "OM",
     "branchCode": "ISL",
     "SWIFT Code": "BSHROMRUISL",
     "Bank Name": "SOHAR INTERNATIONAL BANK S.A.O.G",
@@ -494,8 +494,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "OM",
+    "bankCode": "SCBL",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "SCBLOMRX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -507,8 +507,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "OM",
+    "bankCode": "SBIN",
+    "countryCode": "OM",
     "branchCode": "MRX",
     "SWIFT Code": "SBINOMRX",
     "Bank Name": "STATE BANK OF INDIA, MUSCAT, OMAN",
@@ -520,8 +520,8 @@ const oman = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OUAE",
-    "bankCode": "OM",
+    "bankCode": "OUAE",
+    "countryCode": "OM",
     "branchCode": "MRU",
     "SWIFT Code": "OUAEOMRU",
     "Bank Name": "UNIMONI EXCHANGE LLC",

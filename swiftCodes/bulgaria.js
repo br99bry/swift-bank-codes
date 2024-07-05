@@ -1,7 +1,7 @@
 const bulgaria = [
   {
-    "countryCode": "UNCR",
-    "bankCode": "BG",
+    "bankCode": "UNCR",
+    "countryCode": "BG",
     "branchCode": "426",
     "SWIFT Code": "UNCRBGSF426",
     "Bank Name": "UNICREDIT BULBANK AD",
@@ -13,8 +13,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "BG",
+    "bankCode": "UNCR",
+    "countryCode": "BG",
     "branchCode": "733",
     "SWIFT Code": "UNCRBGSF733",
     "Bank Name": "UNICREDIT BULBANK AD",
@@ -26,8 +26,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "BG",
+    "bankCode": "UNCR",
+    "countryCode": "BG",
     "branchCode": "081",
     "SWIFT Code": "UNCRBGSF081",
     "Bank Name": "UNICREDIT BULBANK AD",
@@ -39,8 +39,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBBS",
-    "bankCode": "BG",
+    "bankCode": "UBBS",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "UBBSBGSF",
     "Bank Name": "UNITED BULGARIAN BANK AD",
@@ -52,8 +52,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBB",
-    "bankCode": "BG",
+    "bankCode": "RZBB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "RZBBBGSF",
     "Bank Name": "UNITED BULGARIAN BANK AD (FORMER KBC BANK BULGARIAEAD)",
@@ -66,8 +66,8 @@ const bulgaria = [
   },
   {},
   {
-    "countryCode": "VPAY",
-    "bankCode": "BG",
+    "bankCode": "VPAY",
+    "countryCode": "BG",
     "branchCode": "GS2",
     "SWIFT Code": "VPAYBGS2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. BULGARIA BRANCH",
@@ -79,8 +79,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUIN",
-    "bankCode": "BG",
+    "bankCode": "BUIN",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "BUINBGSF",
     "Bank Name": "ALLIANZ BANK BULGARIA AD",
@@ -92,8 +92,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGK",
-    "bankCode": "BG",
+    "bankCode": "BIGK",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "BIGKBGSF",
     "Bank Name": "BIGBANK AS - BRANCH BULGARIA",
@@ -105,8 +105,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BG",
+    "bankCode": "BNPA",
+    "countryCode": "BG",
     "branchCode": "GSX",
     "SWIFT Code": "BNPABGSX",
     "Bank Name": "BNP PARIBAS S.A.-SOFIA BRANCH",
@@ -118,8 +118,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBG",
-    "bankCode": "BG",
+    "bankCode": "BSBG",
+    "countryCode": "BG",
     "branchCode": "GS2",
     "SWIFT Code": "BSBGBGS2",
     "Bank Name": "BORICA AD",
@@ -131,8 +131,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBG",
-    "bankCode": "BG",
+    "bankCode": "BSBG",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "BSBGBGSF",
     "Bank Name": "BORICA AD",
@@ -144,8 +144,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBG",
-    "bankCode": "BG",
+    "bankCode": "BSBG",
+    "countryCode": "BG",
     "branchCode": "TPS",
     "SWIFT Code": "BSBGBGSFTPS",
     "Bank Name": "BORICA AD",
@@ -157,8 +157,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBG",
-    "bankCode": "BG",
+    "bankCode": "BSBG",
+    "countryCode": "BG",
     "branchCode": "ST2",
     "SWIFT Code": "BSBGBGSFST2",
     "Bank Name": "BORICA AD",
@@ -170,8 +170,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBG",
-    "bankCode": "BG",
+    "bankCode": "BSBG",
+    "countryCode": "BG",
     "branchCode": "IOP",
     "SWIFT Code": "BSBGBGSFIOP",
     "Bank Name": "BORICA AD",
@@ -183,8 +183,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NASB",
-    "bankCode": "BG",
+    "bankCode": "NASB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "NASBBGSF",
     "Bank Name": "BULGARIAN DEVELOPMENT BANK EAD",
@@ -196,8 +196,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBG",
-    "bankCode": "BG",
+    "bankCode": "BNBG",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "BNBGBGSF",
     "Bank Name": "BULGARIAN NATIONAL BANK",
@@ -209,8 +209,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBG",
-    "bankCode": "BG",
+    "bankCode": "BNBG",
+    "countryCode": "BG",
     "branchCode": "GSB",
     "SWIFT Code": "BNBGBGSB",
     "Bank Name": "BULGARIAN NATIONAL BANK",
@@ -222,8 +222,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBG",
-    "bankCode": "BG",
+    "bankCode": "BNBG",
+    "countryCode": "BG",
     "branchCode": "GSA",
     "SWIFT Code": "BNBGBGSA",
     "Bank Name": "BULGARIAN NATIONAL BANK",
@@ -235,8 +235,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBG",
-    "bankCode": "BG",
+    "bankCode": "BNBG",
+    "countryCode": "BG",
     "branchCode": "GSE",
     "SWIFT Code": "BNBGBGSE",
     "Bank Name": "BULGARIAN NATIONAL BANK",
@@ -248,8 +248,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBG",
-    "bankCode": "BG",
+    "bankCode": "BNBG",
+    "countryCode": "BG",
     "branchCode": "GSD",
     "SWIFT Code": "BNBGBGSD",
     "Bank Name": "BULGARIAN NATIONAL BANK - BGN",
@@ -261,8 +261,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGUS",
-    "bankCode": "BG",
+    "bankCode": "BGUS",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "BGUSBGSF",
     "Bank Name": "BULGARIAN-AMERICAN CREDIT BANK",
@@ -274,8 +274,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECB",
-    "bankCode": "BG",
+    "bankCode": "CECB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "CECBBGSF",
     "Bank Name": "CENTRAL COOPERATIVE BANK PLC",
@@ -287,8 +287,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDP",
-    "bankCode": "BG",
+    "bankCode": "CEDP",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "CEDPBGSF",
     "Bank Name": "CENTRAL DEPOSITORY AD",
@@ -300,8 +300,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDP",
-    "bankCode": "BG",
+    "bankCode": "CEDP",
+    "countryCode": "BG",
     "branchCode": "CLX",
     "SWIFT Code": "CEDPBGSFCLX",
     "Bank Name": "CENTRAL DEPOSITORY AD",
@@ -313,8 +313,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BG",
+    "bankCode": "CITI",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "CITIBGSF",
     "Bank Name": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
@@ -326,8 +326,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BG",
+    "bankCode": "CITI",
+    "countryCode": "BG",
     "branchCode": "TRD",
     "SWIFT Code": "CITIBGSFTRD",
     "Bank Name": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
@@ -339,8 +339,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEMI",
-    "bankCode": "BG",
+    "bankCode": "DEMI",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "DEMIBGSF",
     "Bank Name": "D COMMERCE BANK AD",
@@ -352,8 +352,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DPCD",
-    "bankCode": "BG",
+    "bankCode": "DPCD",
+    "countryCode": "BG",
     "branchCode": "GS2",
     "SWIFT Code": "DPCDBGS2",
     "Bank Name": "DATECS PAYMENT TECHNOLOGY EAD",
@@ -365,8 +365,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STSA",
-    "bankCode": "BG",
+    "bankCode": "STSA",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "STSABGSF",
     "Bank Name": "DSK BANK (FORMERLY STATE SAVINGS BANK)",
@@ -378,8 +378,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAPS",
-    "bankCode": "BG",
+    "bankCode": "EAPS",
+    "countryCode": "BG",
     "branchCode": "GS2",
     "SWIFT Code": "EAPSBGS2",
     "Bank Name": "EASY PAYMENT SERVICES LTD",
@@ -391,8 +391,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECFE",
-    "bankCode": "BG",
+    "bankCode": "ECFE",
+    "countryCode": "BG",
     "branchCode": "G22",
     "SWIFT Code": "ECFEBG22",
     "Bank Name": "ECONT FINANCIAL SERVICES LTD",
@@ -404,8 +404,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPBI",
-    "bankCode": "BG",
+    "bankCode": "BPBI",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "BPBIBGSF",
     "Bank Name": "EUROBANK BULGARIA AD",
@@ -417,8 +417,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPBI",
-    "bankCode": "BG",
+    "bankCode": "BPBI",
+    "countryCode": "BG",
     "branchCode": "SEC",
     "SWIFT Code": "BPBIBGSFSEC",
     "Bank Name": "EUROBANK BULGARIA AD",
@@ -430,8 +430,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPBI",
-    "bankCode": "BG",
+    "bankCode": "BPBI",
+    "countryCode": "BG",
     "branchCode": "ISD",
     "SWIFT Code": "BPBIBGSFISD",
     "Bank Name": "EUROBANK BULGARIA AD",
@@ -443,8 +443,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPAT",
-    "bankCode": "BG",
+    "bankCode": "XPAT",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "XPATBGSF",
     "Bank Name": "EXPAT ASSET MANAGEMENT EAD",
@@ -456,8 +456,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINV",
-    "bankCode": "BG",
+    "bankCode": "FINV",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "FINVBGSF",
     "Bank Name": "FIRST INVESTMENT BANK AD",
@@ -469,8 +469,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INTF",
-    "bankCode": "BG",
+    "bankCode": "INTF",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "INTFBGSF",
     "Bank Name": "ICARD AD",
@@ -482,8 +482,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "BG",
+    "bankCode": "INGB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "INGBBGSF",
     "Bank Name": "ING BANK N.V. SOFIA BRANCH",
@@ -495,8 +495,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IABG",
-    "bankCode": "BG",
+    "bankCode": "IABG",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "IABGBGSF",
     "Bank Name": "INTERNATIONAL ASSET BANK AD",
@@ -508,8 +508,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IORT",
-    "bankCode": "BG",
+    "bankCode": "IORT",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "IORTBGSF",
     "Bank Name": "INVESTBANK JSC",
@@ -521,8 +521,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INMK",
-    "bankCode": "BG",
+    "bankCode": "INMK",
+    "countryCode": "BG",
     "branchCode": "GSS",
     "SWIFT Code": "INMKBGSS",
     "Bank Name": "IP INTERCAPITAL MARKETS AD",
@@ -534,8 +534,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LTZI",
-    "bankCode": "BG",
+    "bankCode": "LTZI",
+    "countryCode": "BG",
     "branchCode": "G22",
     "SWIFT Code": "LTZIBG22",
     "Bank Name": "LTZ INVESTMENTS LTD",
@@ -547,8 +547,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOMB",
-    "bankCode": "BG",
+    "bankCode": "SOMB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "SOMBBGSF",
     "Bank Name": "MUNICIPAL BANK AD",
@@ -560,8 +560,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYFN",
-    "bankCode": "BG",
+    "bankCode": "MYFN",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "MYFNBGSF",
     "Bank Name": "MYFIN EAD",
@@ -573,8 +573,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYMN",
-    "bankCode": "BG",
+    "bankCode": "PYMN",
+    "countryCode": "BG",
     "branchCode": "GS2",
     "SWIFT Code": "PYMNBGS2",
     "Bank Name": "PAYMAN GROUP OOD",
@@ -586,8 +586,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PATC",
-    "bankCode": "BG",
+    "bankCode": "PATC",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "PATCBGSF",
     "Bank Name": "PAYNETICS AD",
@@ -599,8 +599,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "BG",
+    "bankCode": "PRCB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "PRCBBGSF",
     "Bank Name": "PROCREDIT BANK (BULGARIA) EAD",
@@ -612,8 +612,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "BG",
+    "bankCode": "TCZB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "TCZBBGSF",
     "Bank Name": "T.C. ZIRAAT BANKASI - SOFIA BRANCH",
@@ -625,8 +625,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBIB",
-    "bankCode": "BG",
+    "bankCode": "TBIB",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "TBIBBGSF",
     "Bank Name": "TBI BANK EAD",
@@ -638,8 +638,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEPJ",
-    "bankCode": "BG",
+    "bankCode": "TEPJ",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "TEPJBGSF",
     "Bank Name": "TENEN PAYMENTS JSC",
@@ -651,8 +651,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEXI",
-    "bankCode": "BG",
+    "bankCode": "TEXI",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "TEXIBGSF",
     "Bank Name": "TEXIM BANK AD",
@@ -664,8 +664,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THRI",
-    "bankCode": "BG",
+    "bankCode": "THRI",
+    "countryCode": "BG",
     "branchCode": "GS2",
     "SWIFT Code": "THRIBGS2",
     "Bank Name": "THRACIAN INVEST INC.",
@@ -677,8 +677,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CREX",
-    "bankCode": "BG",
+    "bankCode": "CREX",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "CREXBGSF",
     "Bank Name": "TOKUDA BANK AD",
@@ -690,8 +690,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "BG",
+    "bankCode": "UNCR",
+    "countryCode": "BG",
     "branchCode": "720",
     "SWIFT Code": "UNCRBGSF720",
     "Bank Name": "UNICREDIT BULBANK AD",
@@ -703,8 +703,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "BG",
+    "bankCode": "UNCR",
+    "countryCode": "BG",
     "branchCode": "GSF",
     "SWIFT Code": "UNCRBGSF",
     "Bank Name": "UNICREDIT BULBANK AD",
@@ -716,8 +716,8 @@ const bulgaria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "BG",
+    "bankCode": "UNCR",
+    "countryCode": "BG",
     "branchCode": "031",
     "SWIFT Code": "UNCRBGSF031",
     "Bank Name": "UNICREDIT BULBANK AD",

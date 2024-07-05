@@ -1,7 +1,7 @@
 const greenland = [
   {
-    "countryCode": "GREN",
-    "bankCode": "GL",
+    "bankCode": "GREN",
+    "countryCode": "GL",
     "branchCode": "LGX",
     "SWIFT Code": "GRENGLGX",
     "Bank Name": "GRONLANDSBANKEN A/S",
@@ -13,8 +13,8 @@ const greenland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GREN",
-    "bankCode": "GL",
+    "bankCode": "GREN",
+    "countryCode": "GL",
     "branchCode": "KON",
     "SWIFT Code": "GRENGLGXKON",
     "Bank Name": "GRONLANDSBANKEN A/S",
@@ -26,8 +26,8 @@ const greenland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANO",
-    "bankCode": "GL",
+    "bankCode": "BANO",
+    "countryCode": "GL",
     "branchCode": "LG2",
     "SWIFT Code": "BANOGLG2",
     "Bank Name": "P/F BANKNORDIK",

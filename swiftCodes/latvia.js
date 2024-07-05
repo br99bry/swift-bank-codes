@@ -1,7 +1,7 @@
 const latvia = [
   {
-    "countryCode": "AIZK",
-    "bankCode": "LV",
+    "bankCode": "AIZK",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "AIZKLV22",
     "Bank Name": "ABLV BANK, AS IN LIQUIDATION",
@@ -13,8 +13,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIZK",
-    "bankCode": "LV",
+    "bankCode": "AIZK",
+    "countryCode": "LV",
     "branchCode": "CLN",
     "SWIFT Code": "AIZKLV22CLN",
     "Bank Name": "ABLV BANK, AS IN LIQUIDATION",
@@ -26,8 +26,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDXO",
-    "bankCode": "LV",
+    "bankCode": "IDXO",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "IDXOLV22",
     "Bank Name": "AS IDX1R",
@@ -39,8 +39,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MULT",
-    "bankCode": "LV",
+    "bankCode": "MULT",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "MULTLV2X",
     "Bank Name": "AS INDUSTRA BANK",
@@ -52,8 +52,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAPB",
-    "bankCode": "LV",
+    "bankCode": "LAPB",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "LAPBLV2X",
     "Bank Name": "AS LPB BANK",
@@ -65,8 +65,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAPB",
-    "bankCode": "LV",
+    "bankCode": "LAPB",
+    "countryCode": "LV",
     "branchCode": "TIP",
     "SWIFT Code": "LAPBLV2XTIP",
     "Bank Name": "AS LPB BANK",
@@ -78,8 +78,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LACB",
-    "bankCode": "LV",
+    "bankCode": "LACB",
+    "countryCode": "LV",
     "branchCode": "EKS",
     "SWIFT Code": "LACBLV2XEKS",
     "Bank Name": "BANK OF LATVIA",
@@ -91,8 +91,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LACB",
-    "bankCode": "LV",
+    "bankCode": "LACB",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "LACBLV2X",
     "Bank Name": "BANK OF LATVIA",
@@ -104,8 +104,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LACB",
-    "bankCode": "LV",
+    "bankCode": "LACB",
+    "countryCode": "LV",
     "branchCode": "CCB",
     "SWIFT Code": "LACBLV2XCCB",
     "Bank Name": "BANK OF LATVIA",
@@ -117,8 +117,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LACB",
-    "bankCode": "LV",
+    "bankCode": "LACB",
+    "countryCode": "LV",
     "branchCode": "ZMS",
     "SWIFT Code": "LACBLV2XZMS",
     "Bank Name": "BANK OF LATVIA",
@@ -130,8 +130,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LACB",
-    "bankCode": "LV",
+    "bankCode": "LACB",
+    "countryCode": "LV",
     "branchCode": "AMS",
     "SWIFT Code": "LACBLV2XAMS",
     "Bank Name": "BANK OF LATVIA",
@@ -143,8 +143,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBR",
-    "bankCode": "LV",
+    "bankCode": "CBBR",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "CBBRLV22",
     "Bank Name": "BLUOR BANK AS",
@@ -156,8 +156,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBR",
-    "bankCode": "LV",
+    "bankCode": "CBBR",
+    "countryCode": "LV",
     "branchCode": "OVE",
     "SWIFT Code": "CBBRLV22OVE",
     "Bank Name": "BLUOR BANK AS",
@@ -169,8 +169,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBR",
-    "bankCode": "LV",
+    "bankCode": "CBBR",
+    "countryCode": "LV",
     "branchCode": "TIP",
     "SWIFT Code": "CBBRLV22TIP",
     "Bank Name": "BLUOR BANK AS",
@@ -182,8 +182,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOPS",
-    "bankCode": "LV",
+    "bankCode": "JOPS",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "JOPSLV22",
     "Bank Name": "JOOL PAY SIA",
@@ -195,8 +195,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARX",
-    "bankCode": "LV",
+    "bankCode": "PARX",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "PARXLV22",
     "Bank Name": "JSC CITADELE BANKA",
@@ -208,8 +208,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARX",
-    "bankCode": "LV",
+    "bankCode": "PARX",
+    "countryCode": "LV",
     "branchCode": "TIP",
     "SWIFT Code": "PARXLV22TIP",
     "Bank Name": "JSC CITADELE BANKA",
@@ -221,8 +221,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KKSL",
-    "bankCode": "LV",
+    "bankCode": "KKSL",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "KKSLLV22",
     "Bank Name": "KOOPERATIVA KRAJAIZDEVU SABIEDRIBA ALFABETA",
@@ -234,8 +234,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKO",
-    "bankCode": "LV",
+    "bankCode": "RIKO",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "RIKOLV2X",
     "Bank Name": "LUMINOR BANK AS LATVIAN BRANCH",
@@ -247,8 +247,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKO",
-    "bankCode": "LV",
+    "bankCode": "RIKO",
+    "countryCode": "LV",
     "branchCode": "IPA",
     "SWIFT Code": "RIKOLV2XIPA",
     "Bank Name": "LUMINOR BANK AS LATVIAN BRANCH",
@@ -260,8 +260,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIMK",
-    "bankCode": "LV",
+    "bankCode": "MIMK",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "MIMKLV22",
     "Bank Name": "MINTOS MARKETPLACE AS",
@@ -273,8 +273,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "CLT",
     "SWIFT Code": "LCDELV22CLT",
     "Bank Name": "NASDAQ CSD SE",
@@ -286,8 +286,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "CEE",
     "SWIFT Code": "LCDELV22CEE",
     "Bank Name": "NASDAQ CSD SE",
@@ -299,8 +299,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "LCDELV22",
     "Bank Name": "NASDAQ CSD SE",
@@ -312,8 +312,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "EEX",
     "SWIFT Code": "LCDELV22EEX",
     "Bank Name": "NASDAQ CSD SE",
@@ -325,8 +325,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "LVX",
     "SWIFT Code": "LCDELV22LVX",
     "Bank Name": "NASDAQ CSD SE",
@@ -338,8 +338,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "LTX",
     "SWIFT Code": "LCDELV22LTX",
     "Bank Name": "NASDAQ CSD SE",
@@ -351,8 +351,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCDE",
-    "bankCode": "LV",
+    "bankCode": "LCDE",
+    "countryCode": "LV",
     "branchCode": "CLM",
     "SWIFT Code": "LCDELV22CLM",
     "Bank Name": "NASDAQ CSD SE",
@@ -364,8 +364,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKOY",
-    "bankCode": "LV",
+    "bankCode": "OKOY",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "OKOYLV2X",
     "Bank Name": "OP CORPORATE BANK PLC LATVIA BRANCH",
@@ -377,8 +377,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIBR",
-    "bankCode": "LV",
+    "bankCode": "RIBR",
+    "countryCode": "LV",
     "branchCode": "TIP",
     "SWIFT Code": "RIBRLV22TIP",
     "Bank Name": "REGIONALA INVESTICIJU BANKA",
@@ -390,8 +390,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIBR",
-    "bankCode": "LV",
+    "bankCode": "RIBR",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "RIBRLV22",
     "Bank Name": "REGIONALA INVESTICIJU BANKA",
@@ -403,8 +403,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RTMB",
-    "bankCode": "LV",
+    "bankCode": "RTMB",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "RTMBLV2X",
     "Bank Name": "RIETUMU BANKA",
@@ -416,8 +416,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNLA",
-    "bankCode": "LV",
+    "bankCode": "UNLA",
+    "countryCode": "LV",
     "branchCode": "TPS",
     "SWIFT Code": "UNLALV2XTPS",
     "Bank Name": "SEB BANKA",
@@ -429,8 +429,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNLA",
-    "bankCode": "LV",
+    "bankCode": "UNLA",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "UNLALV2X",
     "Bank Name": "SEB BANKA",
@@ -442,8 +442,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIAX",
-    "bankCode": "LV",
+    "bankCode": "SIAX",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "SIAXLV22",
     "Bank Name": "SIA 'XPATE'",
@@ -455,8 +455,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPRO",
-    "bankCode": "LV",
+    "bankCode": "TPRO",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "TPROLV22",
     "Bank Name": "SIA TRANSACT PRO",
@@ -468,8 +468,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLBB",
-    "bankCode": "LV",
+    "bankCode": "LLBB",
+    "countryCode": "LV",
     "branchCode": "222",
     "SWIFT Code": "LLBBLV2X222",
     "Bank Name": "SIGNET BANK AS",
@@ -481,8 +481,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLBB",
-    "bankCode": "LV",
+    "bankCode": "LLBB",
+    "countryCode": "LV",
     "branchCode": "V2X",
     "SWIFT Code": "LLBBLV2X",
     "Bank Name": "SIGNET BANK AS",
@@ -494,8 +494,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLBB",
-    "bankCode": "LV",
+    "bankCode": "LLBB",
+    "countryCode": "LV",
     "branchCode": "111",
     "SWIFT Code": "LLBBLV2X111",
     "Bank Name": "SIGNET BANK AS",
@@ -507,8 +507,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "LV",
+    "bankCode": "HABA",
+    "countryCode": "LV",
     "branchCode": "TIP",
     "SWIFT Code": "HABALV22TIP",
     "Bank Name": "SWEDBANK AS",
@@ -520,8 +520,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "LV",
+    "bankCode": "HABA",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "HABALV22",
     "Bank Name": "SWEDBANK AS",
@@ -533,8 +533,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAVF",
-    "bankCode": "LV",
+    "bankCode": "LAVF",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "LAVFLV22",
     "Bank Name": "TF BANK AB LATVIJAS FILIALE",
@@ -546,8 +546,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TREL",
-    "bankCode": "LV",
+    "bankCode": "TREL",
+    "countryCode": "LV",
     "branchCode": "ZIB",
     "SWIFT Code": "TRELLV22ZIB",
     "Bank Name": "TREASURY OF THE REPUBLIC OF LATVIA, THE",
@@ -559,8 +559,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TREL",
-    "bankCode": "LV",
+    "bankCode": "TREL",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "TRELLV22",
     "Bank Name": "TREASURY OF THE REPUBLIC OF LATVIA, THE",
@@ -572,8 +572,8 @@ const latvia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "LV",
+    "bankCode": "PANX",
+    "countryCode": "LV",
     "branchCode": "V22",
     "SWIFT Code": "PANXLV22",
     "Bank Name": "UNIFIEDPOST PAYMENTS SA FILIALE LATVIJA",

@@ -1,7 +1,7 @@
 const indonesia = [
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "098",
     "SWIFT Code": "BRINIDJA098",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -13,8 +13,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "131",
     "SWIFT Code": "BRINIDJA131",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -26,8 +26,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "174",
     "SWIFT Code": "BRINIDJA174",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -39,8 +39,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "283",
     "SWIFT Code": "BRINIDJA283",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -52,8 +52,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "101",
     "SWIFT Code": "BRINIDJA101",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -65,8 +65,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "285",
     "SWIFT Code": "BRINIDJA285",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -78,8 +78,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "175",
     "SWIFT Code": "BRINIDJA175",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -91,8 +91,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "103",
     "SWIFT Code": "BRINIDJA103",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -104,8 +104,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "050",
     "SWIFT Code": "BRINIDJA050",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -117,8 +117,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "343",
     "SWIFT Code": "BRINIDJA343",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -130,8 +130,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGTB",
-    "bankCode": "ID",
+    "bankCode": "AGTB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "AGTBIDJA",
     "Bank Name": "PT. BANK RAYA INDONESIA TBK",
@@ -143,8 +143,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBID",
-    "bankCode": "ID",
+    "bankCode": "SBID",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "SBIDIDJA",
     "Bank Name": "PT. BANK SBI INDONESIA",
@@ -156,8 +156,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSPI",
-    "bankCode": "ID",
+    "bankCode": "SSPI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "SSPIIDJA",
     "Bank Name": "PT. BANK SEABANK INDONESIA",
@@ -169,8 +169,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "ID",
+    "bankCode": "SHBK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "SHBKIDJA",
     "Bank Name": "PT. BANK SHINHAN INDONESIA",
@@ -182,8 +182,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDSU",
-    "bankCode": "ID",
+    "bankCode": "PDSU",
+    "countryCode": "ID",
     "branchCode": "DSA",
     "SWIFT Code": "PDSUIDSA",
     "Bank Name": "PT. BANK SUMUT",
@@ -195,8 +195,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BVIC",
-    "bankCode": "ID",
+    "bankCode": "BVIC",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BVICIDJA",
     "Bank Name": "PT. BANK VICTORIA INTERNATIONAL, TBK",
@@ -208,8 +208,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUMI",
-    "bankCode": "ID",
+    "bankCode": "BUMI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BUMIIDJA",
     "Bank Name": "PT.BANK MNC INTERNASIONAL TBK.",
@@ -221,8 +221,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "ID",
+    "bankCode": "HVBK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "HVBKIDJA",
     "Bank Name": "PT.BANK WOORI SAUDARA INDONESIA 1906 TBK",
@@ -234,8 +234,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ID",
+    "bankCode": "SCBL",
+    "countryCode": "ID",
     "branchCode": "BDG",
     "SWIFT Code": "SCBLIDJXBDG",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -247,8 +247,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ID",
+    "bankCode": "SCBL",
+    "countryCode": "ID",
     "branchCode": "DJX",
     "SWIFT Code": "SCBLIDJX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -260,8 +260,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ID",
+    "bankCode": "SCBL",
+    "countryCode": "ID",
     "branchCode": "IDX",
     "SWIFT Code": "SCBLIDJXIDX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -273,8 +273,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ID",
+    "bankCode": "SCBL",
+    "countryCode": "ID",
     "branchCode": "MDN",
     "SWIFT Code": "SCBLIDJXMDN",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -286,8 +286,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ID",
+    "bankCode": "SCBL",
+    "countryCode": "ID",
     "branchCode": "SMG",
     "SWIFT Code": "SCBLIDJXSMG",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -299,8 +299,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ID",
+    "bankCode": "SCBL",
+    "countryCode": "ID",
     "branchCode": "SBY",
     "SWIFT Code": "SCBLIDJXSBY",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -312,8 +312,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BKS",
     "SWIFT Code": "BNINIDJABKS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -325,8 +325,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BLW",
     "SWIFT Code": "BNINIDJABLW",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -338,8 +338,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BKL",
     "SWIFT Code": "BNINIDJABKL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -351,8 +351,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BIK",
     "SWIFT Code": "BNINIDJABIK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -364,8 +364,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BMA",
     "SWIFT Code": "BNINIDJABMA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -377,8 +377,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BRN",
     "SWIFT Code": "BNINIDJABRN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -390,8 +390,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BIT",
     "SWIFT Code": "BNINIDJABIT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -403,8 +403,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BLT",
     "SWIFT Code": "BNINIDJABLT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -416,8 +416,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BGR",
     "SWIFT Code": "BNINIDJABGR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -429,8 +429,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BRO",
     "SWIFT Code": "BNINIDJABRO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -442,8 +442,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BDO",
     "SWIFT Code": "BNINIDJABDO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -455,8 +455,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BTG",
     "SWIFT Code": "BNINIDJABTG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -468,8 +468,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CPU",
     "SWIFT Code": "BNINIDJACPU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -481,8 +481,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CAM",
     "SWIFT Code": "BNINIDJACAM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -494,8 +494,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CJR",
     "SWIFT Code": "BNINIDJACJR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -507,8 +507,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CKP",
     "SWIFT Code": "BNINIDJACKP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -520,8 +520,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CLP",
     "SWIFT Code": "BNINIDJACLP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -533,8 +533,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CLG",
     "SWIFT Code": "BNINIDJACLG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -546,8 +546,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CMI",
     "SWIFT Code": "BNINIDJACMI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -559,8 +559,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "CRB",
     "SWIFT Code": "BNINIDJACRB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -572,8 +572,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DPS",
     "SWIFT Code": "BNINIDJADPS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -585,8 +585,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "RNN",
     "SWIFT Code": "BNINIDJARNN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -598,8 +598,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MGD",
     "SWIFT Code": "BNINIDJAMGD",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -611,8 +611,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DLI",
     "SWIFT Code": "BNINIDJADLI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -624,8 +624,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DMI",
     "SWIFT Code": "BNINIDJADMI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -637,8 +637,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "END",
     "SWIFT Code": "BNINIDJAEND",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -650,8 +650,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "GRT",
     "SWIFT Code": "BNINIDJAGRT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -663,8 +663,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "GTL",
     "SWIFT Code": "BNINIDJAGTL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -676,8 +676,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "GRK",
     "SWIFT Code": "BNINIDJAGRK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -689,8 +689,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "GST",
     "SWIFT Code": "BNINIDJAGST",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -702,8 +702,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "IDR",
     "SWIFT Code": "BNINIDJAIDR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -715,8 +715,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BNINIDJA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -728,8 +728,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "HII",
     "SWIFT Code": "BNINIDJAHII",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -741,8 +741,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BSH",
     "SWIFT Code": "BNINIDJABSH",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -754,8 +754,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DMG",
     "SWIFT Code": "BNINIDJADMG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -767,8 +767,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DKB",
     "SWIFT Code": "BNINIDJADKB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -780,8 +780,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "FMI",
     "SWIFT Code": "BNINIDJAFMI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -793,8 +793,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "GBR",
     "SWIFT Code": "BNINIDJAGBR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -806,8 +806,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "GNS",
     "SWIFT Code": "BNINIDJAGNS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -819,8 +819,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "HMN",
     "SWIFT Code": "BNINIDJAHMN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -832,8 +832,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "APK",
     "SWIFT Code": "BNINIDJAAPK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -845,8 +845,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "DLN",
     "SWIFT Code": "BNINIDJADLN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -858,8 +858,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JKT",
     "SWIFT Code": "BNINIDJAJKT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -871,8 +871,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JPU",
     "SWIFT Code": "BNINIDJAJPU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -884,8 +884,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JRS",
     "SWIFT Code": "BNINIDJAJRS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -897,8 +897,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JNG",
     "SWIFT Code": "BNINIDJAJNG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -910,8 +910,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KBY",
     "SWIFT Code": "BNINIDJAKBY",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -923,8 +923,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KRM",
     "SWIFT Code": "BNINIDJAKRM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -936,8 +936,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KRK",
     "SWIFT Code": "BNINIDJAKRK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -949,8 +949,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MDA",
     "SWIFT Code": "BNINIDJAMDA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -962,8 +962,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "MDN",
     "SWIFT Code": "HSBCIDJAMDN",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -975,8 +975,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "SEM",
     "SWIFT Code": "HSBCIDJASEM",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -988,8 +988,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "SBA",
     "SWIFT Code": "HSBCIDJASBA",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -1001,8 +1001,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "ID",
+    "bankCode": "IBKO",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "IBKOIDJA",
     "Bank Name": "PT BANK IBK INDONESIA TBK",
@@ -1014,8 +1014,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "ID",
+    "bankCode": "ICBK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "ICBKIDJA",
     "Bank Name": "PT BANK ICBC INDONESIA",
@@ -1027,8 +1027,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIDX",
-    "bankCode": "ID",
+    "bankCode": "BIDX",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BIDXIDJA",
     "Bank Name": "PT BANK INDEX SELINDO",
@@ -1040,8 +1040,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBUK",
-    "bankCode": "ID",
+    "bankCode": "BBUK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BBUKIDJA",
     "Bank Name": "PT BANK KB BUKOPIN TBK",
@@ -1053,8 +1053,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "IBBKIDJA",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1066,8 +1066,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "DEX",
     "SWIFT Code": "IBBKIDJADEX",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1079,8 +1079,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "138",
     "SWIFT Code": "IBBKIDJA138",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1092,8 +1092,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "001",
     "SWIFT Code": "IBBKIDJA001",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1105,8 +1105,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "008",
     "SWIFT Code": "IBBKIDJA008",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1118,8 +1118,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "003",
     "SWIFT Code": "IBBKIDJA003",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1131,8 +1131,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBK",
-    "bankCode": "ID",
+    "bankCode": "IBBK",
+    "countryCode": "ID",
     "branchCode": "TRS",
     "SWIFT Code": "IBBKIDJATRS",
     "Bank Name": "PT BANK MAYBANK INDONESIA TBK",
@@ -1144,8 +1144,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMDM",
-    "bankCode": "ID",
+    "bankCode": "BMDM",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BMDMIDJA",
     "Bank Name": "PT BANK MESTIKA DHARMA TBK",
@@ -1157,8 +1157,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBS",
-    "bankCode": "ID",
+    "bankCode": "PNBS",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PNBSIDJA",
     "Bank Name": "PT BANK PANIN DUBAI SYARIAH, TBK",
@@ -1170,8 +1170,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBBA",
-    "bankCode": "ID",
+    "bankCode": "BBBA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BBBAIDJA",
     "Bank Name": "PT BANK PERMATA, TBK",
@@ -1183,8 +1183,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AWAN",
-    "bankCode": "ID",
+    "bankCode": "AWAN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "AWANIDJA",
     "Bank Name": "PT BANK QNB INDONESIA TBK",
@@ -1196,8 +1196,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDRI",
-    "bankCode": "ID",
+    "bankCode": "PDRI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PDRIIDJA",
     "Bank Name": "PT BANK RIAU KEPRI SYARIAH (PERSERODA)",
@@ -1209,8 +1209,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDWS",
-    "bankCode": "ID",
+    "bankCode": "PDWS",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PDWSIDJA",
     "Bank Name": "PT BANK SULSELBAR",
@@ -1222,8 +1222,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMD",
-    "bankCode": "ID",
+    "bankCode": "BSMD",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BSMDIDJA",
     "Bank Name": "PT BANK SYARIAH INDONESIA TBK",
@@ -1235,8 +1235,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIJ",
-    "bankCode": "ID",
+    "bankCode": "BBIJ",
+    "countryCode": "ID",
     "branchCode": "004",
     "SWIFT Code": "BBIJIDJA004",
     "Bank Name": "PT BANK UOB INDONESIA",
@@ -1248,8 +1248,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIJ",
-    "bankCode": "ID",
+    "bankCode": "BBIJ",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BBIJIDJA",
     "Bank Name": "PT BANK UOB INDONESIA",
@@ -1261,8 +1261,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIJ",
-    "bankCode": "ID",
+    "bankCode": "BBIJ",
+    "countryCode": "ID",
     "branchCode": "002",
     "SWIFT Code": "BBIJIDJA002",
     "Bank Name": "PT BANK UOB INDONESIA",
@@ -1274,8 +1274,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIJ",
-    "bankCode": "ID",
+    "bankCode": "BBIJ",
+    "countryCode": "ID",
     "branchCode": "003",
     "SWIFT Code": "BBIJIDJA003",
     "Bank Name": "PT BANK UOB INDONESIA",
@@ -1287,8 +1287,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIK",
-    "bankCode": "ID",
+    "bankCode": "BNIK",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "BNIKIDJ2",
     "Bank Name": "PT BNI SEKURITAS",
@@ -1300,8 +1300,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOPY",
-    "bankCode": "ID",
+    "bankCode": "GOPY",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "GOPYIDJA",
     "Bank Name": "PT DOMPET ANAK BANGSA",
@@ -1313,8 +1313,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOJK",
-    "bankCode": "ID",
+    "bankCode": "GOJK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "GOJKIDJA",
     "Bank Name": "PT GOTO GOJEK TOKOPEDIA TBK",
@@ -1326,8 +1326,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASD",
-    "bankCode": "ID",
+    "bankCode": "KASD",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "KASDIDJ2",
     "Bank Name": "PT KAF SEKURITAS INDONESIA",
@@ -1339,8 +1339,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGSI",
-    "bankCode": "ID",
+    "bankCode": "KGSI",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "KGSIIDJ2",
     "Bank Name": "PT KGI SEKURITAS INDONESIA",
@@ -1352,8 +1352,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGSI",
-    "bankCode": "ID",
+    "bankCode": "KGSI",
+    "countryCode": "ID",
     "branchCode": "HQX",
     "SWIFT Code": "KGSIIDJ2HQX",
     "Bank Name": "PT KGI SEKURITAS INDONESIA",
@@ -1365,8 +1365,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIWO",
-    "bankCode": "ID",
+    "bankCode": "KIWO",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "KIWOIDJ2",
     "Bank Name": "PT KIWOOM SEKURITAS INDONESIA",
@@ -1378,8 +1378,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KISI",
-    "bankCode": "ID",
+    "bankCode": "KISI",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "KISIIDJ2",
     "Bank Name": "PT KOREA INVESTMENT AND SEKURITAS INDONESIA",
@@ -1391,8 +1391,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKUA",
-    "bankCode": "ID",
+    "bankCode": "MKUA",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "MKUAIDJ2",
     "Bank Name": "PT MULTI KARYA UTAMA ABADI",
@@ -1404,8 +1404,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRVI",
-    "bankCode": "ID",
+    "bankCode": "TRVI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "TRVIIDJA",
     "Bank Name": "PT TRAVELOKA INDONESIA",
@@ -1417,8 +1417,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBWI",
-    "bankCode": "ID",
+    "bankCode": "SBWI",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "SBWIIDJ2",
     "Bank Name": "PT UBS SECURITIES INDONESIA",
@@ -1430,8 +1430,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VESN",
-    "bankCode": "ID",
+    "bankCode": "VESN",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "VESNIDJ2",
     "Bank Name": "PT VERDHANA SEKURITAS INDONESIA",
@@ -1443,8 +1443,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMTA",
-    "bankCode": "ID",
+    "bankCode": "AMTA",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "AMTAIDJ2",
     "Bank Name": "PT. AMANAH ANTAR ARTA",
@@ -1456,8 +1456,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIA",
-    "bankCode": "ID",
+    "bankCode": "BNIA",
+    "countryCode": "ID",
     "branchCode": "GMA",
     "SWIFT Code": "BNIAIDJAGMA",
     "Bank Name": "PT. BANK CIMB NIAGA, TBK.",
@@ -1469,8 +1469,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIA",
-    "bankCode": "ID",
+    "bankCode": "BNIA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BNIAIDJA",
     "Bank Name": "PT. BANK CIMB NIAGA, TBK.",
@@ -1482,8 +1482,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIA",
-    "bankCode": "ID",
+    "bankCode": "BNIA",
+    "countryCode": "ID",
     "branchCode": "THM",
     "SWIFT Code": "BNIAIDJATHM",
     "Bank Name": "PT. BANK CIMB NIAGA, TBK.",
@@ -1495,8 +1495,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIA",
-    "bankCode": "ID",
+    "bankCode": "BNIA",
+    "countryCode": "ID",
     "branchCode": "SMG",
     "SWIFT Code": "BNIAIDJASMG",
     "Bank Name": "PT. BANK CIMB NIAGA, TBK.",
@@ -1508,8 +1508,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIA",
-    "bankCode": "ID",
+    "bankCode": "BNIA",
+    "countryCode": "ID",
     "branchCode": "TUN",
     "SWIFT Code": "BNIAIDJATUN",
     "Bank Name": "PT. BANK CIMB NIAGA, TBK.",
@@ -1521,8 +1521,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICN",
-    "bankCode": "ID",
+    "bankCode": "BICN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BICNIDJA",
     "Bank Name": "PT. BANK COMMONWEALTH",
@@ -1534,8 +1534,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "BPN",
     "SWIFT Code": "BDINIDJABPN",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -1547,8 +1547,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "OTI",
     "SWIFT Code": "BDINIDJAOTI",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -1560,8 +1560,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BDINIDJA",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -1573,8 +1573,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "CLC",
     "SWIFT Code": "BDINIDJACLC",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -1586,8 +1586,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "CUS",
     "SWIFT Code": "BDINIDJACUS",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -1599,8 +1599,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "IFI",
     "SWIFT Code": "BDINIDJAIFI",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -1612,8 +1612,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGVA",
-    "bankCode": "ID",
+    "bankCode": "AGVA",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "AGVAIDJ2",
     "Bank Name": "ALLIANZ GLOBAL INVESTORS ASSET MANAGEMENT INDONESIA PT",
@@ -1625,8 +1625,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALOB",
-    "bankCode": "ID",
+    "bankCode": "ALOB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "ALOBIDJA",
     "Bank Name": "ALLO BANK",
@@ -1638,8 +1638,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "ID",
+    "bankCode": "ANZB",
+    "countryCode": "ID",
     "branchCode": "DJX",
     "SWIFT Code": "ANZBIDJX",
     "Bank Name": "BANK ANZ INDONESIA, P.T.",
@@ -1651,8 +1651,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARTG",
-    "bankCode": "ID",
+    "bankCode": "ARTG",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "ARTGIDJA",
     "Bank Name": "BANK ARTHA GRAHA INTERNASIONAL TBK, PT",
@@ -1664,8 +1664,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "ID",
+    "bankCode": "BNPA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BNPAIDJA",
     "Bank Name": "BANK BNP PARIBAS INDONESIA, PT",
@@ -1677,8 +1677,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENA",
-    "bankCode": "ID",
+    "bankCode": "CENA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "CENAIDJA",
     "Bank Name": "BANK CENTRAL ASIA",
@@ -1690,8 +1690,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "ID",
+    "bankCode": "CTCB",
+    "countryCode": "ID",
     "branchCode": "BDG",
     "SWIFT Code": "CTCBIDJABDG",
     "Bank Name": "BANK CTBC INDONESIA, PT",
@@ -1703,8 +1703,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "ID",
+    "bankCode": "CTCB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "CTCBIDJA",
     "Bank Name": "BANK CTBC INDONESIA, PT",
@@ -1716,8 +1716,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "ID",
+    "bankCode": "CTCB",
+    "countryCode": "ID",
     "branchCode": "SBY",
     "SWIFT Code": "CTCBIDJASBY",
     "Bank Name": "BANK CTBC INDONESIA, PT",
@@ -1729,8 +1729,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDKI",
-    "bankCode": "ID",
+    "bankCode": "BDKI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BDKIIDJA",
     "Bank Name": "BANK DKI, PT.",
@@ -1742,8 +1742,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAPT",
-    "bankCode": "ID",
+    "bankCode": "IAPT",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "IAPTIDJA",
     "Bank Name": "BANK INA",
@@ -1755,8 +1755,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDO",
-    "bankCode": "ID",
+    "bankCode": "INDO",
+    "countryCode": "ID",
     "branchCode": "DJ2",
     "SWIFT Code": "INDOIDJ2",
     "Bank Name": "BANK INDONESIA",
@@ -1768,8 +1768,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDO",
-    "bankCode": "ID",
+    "bankCode": "INDO",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "INDOIDJA",
     "Bank Name": "BANK INDONESIA",
@@ -1781,8 +1781,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDO",
-    "bankCode": "ID",
+    "bankCode": "INDO",
+    "countryCode": "ID",
     "branchCode": "BLN",
     "SWIFT Code": "INDOIDJ2BLN",
     "Bank Name": "BANK INDONESIA",
@@ -1794,8 +1794,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAGB",
-    "bankCode": "ID",
+    "bankCode": "JAGB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "JAGBIDJA",
     "Bank Name": "BANK JAGO",
@@ -1807,8 +1807,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDJG",
-    "bankCode": "ID",
+    "bankCode": "PDJG",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PDJGIDJA",
     "Bank Name": "BANK JATENG",
@@ -1820,8 +1820,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "852",
     "SWIFT Code": "BMRIIDJA852",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1833,8 +1833,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BMRIIDJA",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1846,8 +1846,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "107",
     "SWIFT Code": "BMRIIDJA107",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1859,8 +1859,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "CUS",
     "SWIFT Code": "BMRIIDJACUS",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1872,8 +1872,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "EXM",
     "SWIFT Code": "BMRIIDJAEXM",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1885,8 +1885,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "STL",
     "SWIFT Code": "BMRIIDJASTL",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1898,8 +1898,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "853",
     "SWIFT Code": "BMRIIDJA853",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1911,8 +1911,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "854",
     "SWIFT Code": "BMRIIDJA854",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1924,8 +1924,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "ID",
+    "bankCode": "BMRI",
+    "countryCode": "ID",
     "branchCode": "851",
     "SWIFT Code": "BMRIIDJA851",
     "Bank Name": "BANK MANDIRI (PERSERO), PT",
@@ -1937,8 +1937,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEGA",
-    "bankCode": "ID",
+    "bankCode": "MEGA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "MEGAIDJA",
     "Bank Name": "BANK MEGA PT",
@@ -1950,8 +1950,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCC",
-    "bankCode": "ID",
+    "bankCode": "MHCC",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "MHCCIDJA",
     "Bank Name": "BANK MIZUHO INDONESIA, PT.",
@@ -1963,8 +1963,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "ABN",
     "SWIFT Code": "BNINIDJAABN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -1976,8 +1976,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BLG",
     "SWIFT Code": "BNINIDJABLG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -1989,8 +1989,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BPN",
     "SWIFT Code": "BNINIDJABPN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2002,8 +2002,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PSB",
     "SWIFT Code": "BNINIDJAPSB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2015,8 +2015,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BDA",
     "SWIFT Code": "BNINIDJABDA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2028,8 +2028,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BDL",
     "SWIFT Code": "BNINIDJABDL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2041,8 +2041,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "AYI",
     "SWIFT Code": "BNINIDJAAYI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2054,8 +2054,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BDG",
     "SWIFT Code": "BNINIDJABDG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2067,8 +2067,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "IKB",
     "SWIFT Code": "BNINIDJAIKB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2080,8 +2080,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "ITB",
     "SWIFT Code": "BNINIDJAITB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2093,8 +2093,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JJS",
     "SWIFT Code": "BNINIDJAJJS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2106,8 +2106,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JPK",
     "SWIFT Code": "BNINIDJAJPK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2119,8 +2119,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UPB",
     "SWIFT Code": "BNINIDJAUPB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2132,8 +2132,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BKO",
     "SWIFT Code": "BNINIDJABKO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2145,8 +2145,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BJR",
     "SWIFT Code": "BNINIDJABJR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2158,8 +2158,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BBR",
     "SWIFT Code": "BNINIDJABBR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2171,8 +2171,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BMS",
     "SWIFT Code": "BNINIDJABMS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2184,8 +2184,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PAB",
     "SWIFT Code": "BNINIDJAPAB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2197,8 +2197,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BWI",
     "SWIFT Code": "BNINIDJABWI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2210,8 +2210,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BBI",
     "SWIFT Code": "BNINIDJABBI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2223,8 +2223,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BTM",
     "SWIFT Code": "BNINIDJABTM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2236,8 +2236,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BTR",
     "SWIFT Code": "BNINIDJABTR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2249,8 +2249,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BAU",
     "SWIFT Code": "BNINIDJABAU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2262,8 +2262,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "332",
     "SWIFT Code": "BRINIDJA332",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2275,8 +2275,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "019",
     "SWIFT Code": "BRINIDJA019",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2288,8 +2288,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "122",
     "SWIFT Code": "BRINIDJA122",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2301,8 +2301,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "206",
     "SWIFT Code": "BRINIDJA206",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2314,8 +2314,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "193",
     "SWIFT Code": "BRINIDJA193",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2327,8 +2327,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "335",
     "SWIFT Code": "BRINIDJA335",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2340,8 +2340,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "261",
     "SWIFT Code": "BRINIDJA261",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2353,8 +2353,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "340",
     "SWIFT Code": "BRINIDJA340",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2366,8 +2366,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "346",
     "SWIFT Code": "BRINIDJA346",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2379,8 +2379,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "338",
     "SWIFT Code": "BRINIDJA338",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2392,8 +2392,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "018",
     "SWIFT Code": "BRINIDJA018",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2405,8 +2405,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "186",
     "SWIFT Code": "BRINIDJA186",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2418,8 +2418,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "370",
     "SWIFT Code": "BRINIDJA370",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2431,8 +2431,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "329",
     "SWIFT Code": "BRINIDJA329",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2444,8 +2444,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "020",
     "SWIFT Code": "BRINIDJA020",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2457,8 +2457,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "021",
     "SWIFT Code": "BRINIDJA021",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2470,8 +2470,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "033",
     "SWIFT Code": "BRINIDJA033",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2483,8 +2483,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "192",
     "SWIFT Code": "BRINIDJA192",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2496,8 +2496,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "127",
     "SWIFT Code": "BRINIDJA127",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2509,8 +2509,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "038",
     "SWIFT Code": "BRINIDJA038",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2522,8 +2522,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "039",
     "SWIFT Code": "BRINIDJA039",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2535,8 +2535,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "042",
     "SWIFT Code": "BRINIDJA042",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2548,8 +2548,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "043",
     "SWIFT Code": "BRINIDJA043",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2561,8 +2561,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "167",
     "SWIFT Code": "BRINIDJA167",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2574,8 +2574,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "051",
     "SWIFT Code": "BRINIDJA051",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2587,8 +2587,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "054",
     "SWIFT Code": "BRINIDJA054",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2600,8 +2600,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "052",
     "SWIFT Code": "BRINIDJA052",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2613,8 +2613,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "336",
     "SWIFT Code": "BRINIDJA336",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2626,8 +2626,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "053",
     "SWIFT Code": "BRINIDJA053",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2639,8 +2639,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "130",
     "SWIFT Code": "BRINIDJA130",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2652,8 +2652,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "058",
     "SWIFT Code": "BRINIDJA058",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2665,8 +2665,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "059",
     "SWIFT Code": "BRINIDJA059",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2678,8 +2678,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "063",
     "SWIFT Code": "BRINIDJA063",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2691,8 +2691,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "282",
     "SWIFT Code": "BRINIDJA282",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2704,8 +2704,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "170",
     "SWIFT Code": "BRINIDJA170",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2717,8 +2717,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "113",
     "SWIFT Code": "BRINIDJA113",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2730,8 +2730,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "071",
     "SWIFT Code": "BRINIDJA071",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2743,8 +2743,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "079",
     "SWIFT Code": "BRINIDJA079",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2756,8 +2756,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "284",
     "SWIFT Code": "BRINIDJA284",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2769,8 +2769,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "082",
     "SWIFT Code": "BRINIDJA082",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2782,8 +2782,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "163",
     "SWIFT Code": "BRINIDJA163",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2795,8 +2795,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "083",
     "SWIFT Code": "BRINIDJA083",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2808,8 +2808,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "086",
     "SWIFT Code": "BRINIDJA086",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2821,8 +2821,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "097",
     "SWIFT Code": "BRINIDJA097",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2834,8 +2834,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "092",
     "SWIFT Code": "BRINIDJA092",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2847,8 +2847,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "096",
     "SWIFT Code": "BRINIDJA096",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2860,8 +2860,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "211",
     "SWIFT Code": "BRINIDJA211",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2873,8 +2873,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "172",
     "SWIFT Code": "BRINIDJA172",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2886,8 +2886,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "328",
     "SWIFT Code": "BRINIDJA328",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2899,8 +2899,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "120",
     "SWIFT Code": "BRINIDJA120",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -2912,8 +2912,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TBA",
     "SWIFT Code": "BNINIDJATBA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2925,8 +2925,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TBL",
     "SWIFT Code": "BNINIDJATBL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2938,8 +2938,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TLI",
     "SWIFT Code": "BNINIDJATLI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2951,8 +2951,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TUB",
     "SWIFT Code": "BNINIDJATUB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2964,8 +2964,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TLA",
     "SWIFT Code": "BNINIDJATLA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2977,8 +2977,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MAT",
     "SWIFT Code": "BNINIDJAMAT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -2990,8 +2990,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UPG",
     "SWIFT Code": "BNINIDJAUPG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3003,8 +3003,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "WTS",
     "SWIFT Code": "BNINIDJAWTS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3016,8 +3016,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "WGR",
     "SWIFT Code": "BNINIDJAWGR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3029,8 +3029,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "WNK",
     "SWIFT Code": "BNINIDJAWNK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3042,8 +3042,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "WSB",
     "SWIFT Code": "BNINIDJAWSB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3055,8 +3055,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UGM",
     "SWIFT Code": "BNINIDJAUGM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3068,8 +3068,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "YGY",
     "SWIFT Code": "BNINIDJAYGY",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3081,8 +3081,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "ID",
+    "bankCode": "BOFA",
+    "countryCode": "ID",
     "branchCode": "D2X",
     "SWIFT Code": "BOFAID2X",
     "Bank Name": "BANK OF AMERICA, N.A. JAKARTA BRANCH",
@@ -3094,8 +3094,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "ID",
+    "bankCode": "BOFA",
+    "countryCode": "ID",
     "branchCode": "GRC",
     "SWIFT Code": "BOFAID2XGRC",
     "Bank Name": "BANK OF AMERICA, N.A. JAKARTA BRANCH",
@@ -3107,8 +3107,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "ID",
+    "bankCode": "BKCH",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BKCHIDJA",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED, JAKARTA BRANCH",
@@ -3120,8 +3120,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPIA",
-    "bankCode": "ID",
+    "bankCode": "BPIA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BPIAIDJA",
     "Bank Name": "BANK RESONA PERDANIA PT.",
@@ -3133,8 +3133,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAHM",
-    "bankCode": "ID",
+    "bankCode": "SAHM",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "SAHMIDJA",
     "Bank Name": "BANK SAHABAT SAMPOERNA",
@@ -3146,8 +3146,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBJK",
-    "bankCode": "ID",
+    "bankCode": "SBJK",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "SBJKIDJA",
     "Bank Name": "BANK SINARMAS",
@@ -3159,8 +3159,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTAN",
-    "bankCode": "ID",
+    "bankCode": "BTAN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BTANIDJA",
     "Bank Name": "BANK TABUNGAN NEGARA (PERSERO), PT.",
@@ -3172,8 +3172,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ID",
+    "bankCode": "CITI",
+    "countryCode": "ID",
     "branchCode": "BDG",
     "SWIFT Code": "CITIIDJXBDG",
     "Bank Name": "CITIBANK, N.A.",
@@ -3185,8 +3185,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ID",
+    "bankCode": "CITI",
+    "countryCode": "ID",
     "branchCode": "DJX",
     "SWIFT Code": "CITIIDJX",
     "Bank Name": "CITIBANK, N.A.",
@@ -3198,8 +3198,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ID",
+    "bankCode": "CITI",
+    "countryCode": "ID",
     "branchCode": "MDN",
     "SWIFT Code": "CITIIDJXMDN",
     "Bank Name": "CITIBANK, N.A.",
@@ -3211,8 +3211,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ID",
+    "bankCode": "CITI",
+    "countryCode": "ID",
     "branchCode": "SBY",
     "SWIFT Code": "CITIIDJXSBY",
     "Bank Name": "CITIBANK, N.A.",
@@ -3224,8 +3224,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ID",
+    "bankCode": "DEUT",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "DEUTIDJA",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -3237,8 +3237,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ID",
+    "bankCode": "DEUT",
+    "countryCode": "ID",
     "branchCode": "IBO",
     "SWIFT Code": "DEUTIDJAIBO",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -3250,8 +3250,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ID",
+    "bankCode": "DEUT",
+    "countryCode": "ID",
     "branchCode": "DSI",
     "SWIFT Code": "DEUTIDJADSI",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -3263,8 +3263,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXI",
-    "bankCode": "ID",
+    "bankCode": "BEXI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BEXIIDJA",
     "Bank Name": "INDONESIA EXIMBANK",
@@ -3276,8 +3276,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "ID",
+    "bankCode": "CHAS",
+    "countryCode": "ID",
     "branchCode": "DJX",
     "SWIFT Code": "CHASIDJX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., JAKARTA BRANCH",
@@ -3289,8 +3289,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "ID",
+    "bankCode": "CHAS",
+    "countryCode": "ID",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASIDJXENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., JAKARTA BRANCH",
@@ -3302,8 +3302,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSEI",
-    "bankCode": "ID",
+    "bankCode": "KSEI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "KSEIIDJA",
     "Bank Name": "KUSTODIAN SENTRAL EFEK INDONESIA PT",
@@ -3315,8 +3315,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "ID",
+    "bankCode": "BOTK",
+    "countryCode": "ID",
     "branchCode": "DJX",
     "SWIFT Code": "BOTKIDJX",
     "Bank Name": "MUFG BANK, LTD. JAKARTA BRANCH",
@@ -3328,8 +3328,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NISP",
-    "bankCode": "ID",
+    "bankCode": "NISP",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "NISPIDJA",
     "Bank Name": "OCBC",
@@ -3341,8 +3341,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSE",
-    "bankCode": "ID",
+    "bankCode": "BMSE",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BMSEIDJA",
     "Bank Name": "P.T. BANK MULTI ARTA SENTOSA",
@@ -3354,8 +3354,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PINB",
-    "bankCode": "ID",
+    "bankCode": "PINB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PINBIDJA",
     "Bank Name": "PAN INDONESIA BANK PT.",
@@ -3367,8 +3367,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "ID",
+    "bankCode": "AIAC",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "AIACIDJA",
     "Bank Name": "PT AIA FINANCIAL",
@@ -3380,8 +3380,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACEH",
-    "bankCode": "ID",
+    "bankCode": "ACEH",
+    "countryCode": "ID",
     "branchCode": "DSS",
     "SWIFT Code": "ACEHIDSS",
     "Bank Name": "PT BANK ACEH SYARIAH",
@@ -3393,8 +3393,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNI",
-    "bankCode": "ID",
+    "bankCode": "SUNI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "SUNIIDJA",
     "Bank Name": "PT BANK BTPN TBK",
@@ -3406,8 +3406,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBAI",
-    "bankCode": "ID",
+    "bankCode": "BBAI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BBAIIDJA",
     "Bank Name": "PT BANK BUMI ARTA TBK",
@@ -3419,8 +3419,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIA",
-    "bankCode": "ID",
+    "bankCode": "BCIA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BCIAIDJA",
     "Bank Name": "PT BANK CAPITAL INDONESIA, TBK",
@@ -3432,8 +3432,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BWKI",
-    "bankCode": "ID",
+    "bankCode": "BWKI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BWKIIDJA",
     "Bank Name": "PT BANK CHINA CONSTRUCTION BANK INDONESIA TBK",
@@ -3445,8 +3445,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSB",
-    "bankCode": "ID",
+    "bankCode": "DBSB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "DBSBIDJA",
     "Bank Name": "PT BANK DBS INDONESIA",
@@ -3458,8 +3458,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSB",
-    "bankCode": "ID",
+    "bankCode": "DBSB",
+    "countryCode": "ID",
     "branchCode": "IBD",
     "SWIFT Code": "DBSBIDJAIBD",
     "Bank Name": "PT BANK DBS INDONESIA",
@@ -3471,8 +3471,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSB",
-    "bankCode": "ID",
+    "bankCode": "DBSB",
+    "countryCode": "ID",
     "branchCode": "SBY",
     "SWIFT Code": "DBSBIDJASBY",
     "Bank Name": "PT BANK DBS INDONESIA",
@@ -3484,8 +3484,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBLU",
-    "bankCode": "ID",
+    "bankCode": "BBLU",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BBLUIDJA",
     "Bank Name": "PT BANK DIGITAL BCA",
@@ -3497,8 +3497,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "BAN",
     "SWIFT Code": "HSBCIDJABAN",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -3510,8 +3510,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "BAT",
     "SWIFT Code": "HSBCIDJABAT",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -3523,8 +3523,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "HSBCIDJA",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -3536,8 +3536,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "DCC",
     "SWIFT Code": "HSBCIDJADCC",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -3549,8 +3549,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "ID",
+    "bankCode": "HSBC",
+    "countryCode": "ID",
     "branchCode": "WBS",
     "SWIFT Code": "HSBCIDJAWBS",
     "Bank Name": "PT BANK HSBC INDONESIA",
@@ -3562,8 +3562,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "LSW",
     "SWIFT Code": "BNINIDJALSW",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3575,8 +3575,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "LLG",
     "SWIFT Code": "BNINIDJALLG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3588,8 +3588,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "LMJ",
     "SWIFT Code": "BNINIDJALMJ",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3601,8 +3601,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "LWK",
     "SWIFT Code": "BNINIDJALWK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3614,8 +3614,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MAD",
     "SWIFT Code": "BNINIDJAMAD",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3627,8 +3627,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MGL",
     "SWIFT Code": "BNINIDJAMGL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3640,8 +3640,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MJL",
     "SWIFT Code": "BNINIDJAMJL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3653,8 +3653,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MLG",
     "SWIFT Code": "BNINIDJAMLG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3666,8 +3666,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UBM",
     "SWIFT Code": "BNINIDJAUBM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3679,8 +3679,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MDO",
     "SWIFT Code": "BNINIDJAMDO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3692,8 +3692,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KNK",
     "SWIFT Code": "BNINIDJAKNK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3705,8 +3705,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MWI",
     "SWIFT Code": "BNINIDJAMWI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3718,8 +3718,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MTA",
     "SWIFT Code": "BNINIDJAMTA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3731,8 +3731,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MRE",
     "SWIFT Code": "BNINIDJAMRE",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3744,8 +3744,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JSM",
     "SWIFT Code": "BNINIDJAJSM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3757,8 +3757,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MDN",
     "SWIFT Code": "BNINIDJAMDN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3770,8 +3770,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "USU",
     "SWIFT Code": "BNINIDJAUSU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3783,8 +3783,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MET",
     "SWIFT Code": "BNINIDJAMET",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3796,8 +3796,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MBO",
     "SWIFT Code": "BNINIDJAMBO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3809,8 +3809,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "NNK",
     "SWIFT Code": "BNINIDJANNK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3822,8 +3822,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "AYP",
     "SWIFT Code": "BNINIDJAAYP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3835,8 +3835,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "IBP",
     "SWIFT Code": "BNINIDJAIBP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3848,8 +3848,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PDG",
     "SWIFT Code": "BNINIDJAPDG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3861,8 +3861,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PDS",
     "SWIFT Code": "BNINIDJAPDS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3874,8 +3874,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PRY",
     "SWIFT Code": "BNINIDJAPRY",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3887,8 +3887,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "BBP",
     "SWIFT Code": "BNINIDJABBP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3900,8 +3900,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JAP",
     "SWIFT Code": "BNINIDJAJAP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3913,8 +3913,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MSP",
     "SWIFT Code": "BNINIDJAMSP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3926,8 +3926,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PBG",
     "SWIFT Code": "BNINIDJAPBG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3939,8 +3939,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PLP",
     "SWIFT Code": "BNINIDJAPLP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3952,8 +3952,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PLU",
     "SWIFT Code": "BNINIDJAPLU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3965,8 +3965,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PKN",
     "SWIFT Code": "BNINIDJAPKN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3978,8 +3978,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PKP",
     "SWIFT Code": "BNINIDJAPKP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -3991,8 +3991,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PKB",
     "SWIFT Code": "BNINIDJAPKB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4004,8 +4004,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PJG",
     "SWIFT Code": "BNINIDJAPJG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4017,8 +4017,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PRE",
     "SWIFT Code": "BNINIDJAPRE",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4030,8 +4030,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PSN",
     "SWIFT Code": "BNINIDJAPSN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4043,8 +4043,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PTI",
     "SWIFT Code": "BNINIDJAPTI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4056,8 +4056,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PYK",
     "SWIFT Code": "BNINIDJAPYK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4069,8 +4069,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PKL",
     "SWIFT Code": "BNINIDJAPKL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4082,8 +4082,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PPP",
     "SWIFT Code": "BNINIDJAPPP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4095,8 +4095,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PBR",
     "SWIFT Code": "BNINIDJAPBR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4108,8 +4108,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PMT",
     "SWIFT Code": "BNINIDJAPMT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4121,8 +4121,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PMS",
     "SWIFT Code": "BNINIDJAPMS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4134,8 +4134,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PLW",
     "SWIFT Code": "BNINIDJAPLW",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4147,8 +4147,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PON",
     "SWIFT Code": "BNINIDJAPON",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4160,8 +4160,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PNK",
     "SWIFT Code": "BNINIDJAPNK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4173,8 +4173,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PSO",
     "SWIFT Code": "BNINIDJAPSO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4186,8 +4186,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PBM",
     "SWIFT Code": "BNINIDJAPBM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4199,8 +4199,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PRB",
     "SWIFT Code": "BNINIDJAPRB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4212,8 +4212,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PBL",
     "SWIFT Code": "BNINIDJAPBL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4225,8 +4225,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PWK",
     "SWIFT Code": "BNINIDJAPWK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4238,8 +4238,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PWO",
     "SWIFT Code": "BNINIDJAPWO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4251,8 +4251,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PWR",
     "SWIFT Code": "BNINIDJAPWR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4264,8 +4264,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "RKB",
     "SWIFT Code": "BNINIDJARKB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4277,8 +4277,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "RGT",
     "SWIFT Code": "BNINIDJARGT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4290,8 +4290,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SLG",
     "SWIFT Code": "BNINIDJASLG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4303,8 +4303,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SMD",
     "SWIFT Code": "BNINIDJASMD",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4316,8 +4316,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SPT",
     "SWIFT Code": "BNINIDJASPT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4329,8 +4329,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SLP",
     "SWIFT Code": "BNINIDJASLP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4342,8 +4342,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KRU",
     "SWIFT Code": "BNINIDJAKRU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4355,8 +4355,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SMG",
     "SWIFT Code": "BNINIDJASMG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4368,8 +4368,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UDS",
     "SWIFT Code": "BNINIDJAUDS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4381,8 +4381,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SKG",
     "SWIFT Code": "BNINIDJASKG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4394,8 +4394,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SRG",
     "SWIFT Code": "BNINIDJASRG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4407,8 +4407,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SBG",
     "SWIFT Code": "BNINIDJASBG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4420,8 +4420,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SDA",
     "SWIFT Code": "BNINIDJASDA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4433,8 +4433,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SGL",
     "SWIFT Code": "BNINIDJASGL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4446,8 +4446,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SGR",
     "SWIFT Code": "BNINIDJASGR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4459,8 +4459,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SKW",
     "SWIFT Code": "BNINIDJASKW",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4472,8 +4472,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "STB",
     "SWIFT Code": "BNINIDJASTB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4485,8 +4485,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SOR",
     "SWIFT Code": "BNINIDJASOR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4498,8 +4498,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SUB",
     "SWIFT Code": "BNINIDJASUB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4511,8 +4511,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SKM",
     "SWIFT Code": "BNINIDJASKM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4524,8 +4524,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SBW",
     "SWIFT Code": "BNINIDJASBW",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4537,8 +4537,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SDG",
     "SWIFT Code": "BNINIDJASDG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4550,8 +4550,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SMP",
     "SWIFT Code": "BNINIDJASMP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4563,8 +4563,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SPN",
     "SWIFT Code": "BNINIDJASPN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4576,8 +4576,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UAS",
     "SWIFT Code": "BNINIDJAUAS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4589,8 +4589,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JTM",
     "SWIFT Code": "BNINIDJAJTM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4602,8 +4602,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KBS",
     "SWIFT Code": "BNINIDJAKBS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4615,8 +4615,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SBY",
     "SWIFT Code": "BNINIDJASBY",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4628,8 +4628,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TPK",
     "SWIFT Code": "BNINIDJATPK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4641,8 +4641,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "USM",
     "SWIFT Code": "BNINIDJAUSM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4654,8 +4654,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PKS",
     "SWIFT Code": "BNINIDJAPKS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4667,8 +4667,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SLO",
     "SWIFT Code": "BNINIDJASLO",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4680,8 +4680,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SMR",
     "SWIFT Code": "BNINIDJASMR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4693,8 +4693,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "THN",
     "SWIFT Code": "BNINIDJATHN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4706,8 +4706,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TRG",
     "SWIFT Code": "BNINIDJATRG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4719,8 +4719,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TKR",
     "SWIFT Code": "BNINIDJATKR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4732,8 +4732,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TPN",
     "SWIFT Code": "BNINIDJATPN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4745,8 +4745,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TRB",
     "SWIFT Code": "BNINIDJATRB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4758,8 +4758,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TRN",
     "SWIFT Code": "BNINIDJATRN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4771,8 +4771,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TMA",
     "SWIFT Code": "BNINIDJATMA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4784,8 +4784,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TTI",
     "SWIFT Code": "BNINIDJATTI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4797,8 +4797,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TGL",
     "SWIFT Code": "BNINIDJATGL",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4810,8 +4810,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TMG",
     "SWIFT Code": "BNINIDJATMG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4823,8 +4823,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TBH",
     "SWIFT Code": "BNINIDJATBH",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4836,8 +4836,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TNT",
     "SWIFT Code": "BNINIDJATNT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4849,8 +4849,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TBK",
     "SWIFT Code": "BNINIDJATBK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4862,8 +4862,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MTR",
     "SWIFT Code": "BNINIDJAMTR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4875,8 +4875,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MDT",
     "SWIFT Code": "BNINIDJAMDT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4888,8 +4888,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MTG",
     "SWIFT Code": "BNINIDJAMTG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4901,8 +4901,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MDS",
     "SWIFT Code": "BNINIDJAMDS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4914,8 +4914,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "MHT",
     "SWIFT Code": "BNINIDJAMHT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4927,8 +4927,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PBU",
     "SWIFT Code": "BNINIDJAPBU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4940,8 +4940,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PKJ",
     "SWIFT Code": "BNINIDJAPKJ",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4953,8 +4953,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PMK",
     "SWIFT Code": "BNINIDJAPMK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4966,8 +4966,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PSM",
     "SWIFT Code": "BNINIDJAPSM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4979,8 +4979,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PCG",
     "SWIFT Code": "BNINIDJAPCG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -4992,8 +4992,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PTJ",
     "SWIFT Code": "BNINIDJAPTJ",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5005,8 +5005,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "PIM",
     "SWIFT Code": "BNINIDJAPIM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5018,8 +5018,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "RPZ",
     "SWIFT Code": "BNINIDJARPZ",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5031,8 +5031,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "RWM",
     "SWIFT Code": "BNINIDJARWM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5044,8 +5044,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "RMA",
     "SWIFT Code": "BNINIDJARMA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5057,8 +5057,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SGI",
     "SWIFT Code": "BNINIDJASGI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5070,8 +5070,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SNY",
     "SWIFT Code": "BNINIDJASNY",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5083,8 +5083,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SNN",
     "SWIFT Code": "BNINIDJASNN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5096,8 +5096,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "SJK",
     "SWIFT Code": "BNINIDJASJK",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5109,8 +5109,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TAB",
     "SWIFT Code": "BNINIDJATAB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5122,8 +5122,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TPR",
     "SWIFT Code": "BNINIDJATPR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5135,8 +5135,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TEB",
     "SWIFT Code": "BNINIDJATEB",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5148,8 +5148,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "TRS",
     "SWIFT Code": "BNINIDJATRS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5161,8 +5161,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "UID",
     "SWIFT Code": "BNINIDJAUID",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5174,8 +5174,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "WAM",
     "SWIFT Code": "BNINIDJAWAM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5187,8 +5187,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "WEN",
     "SWIFT Code": "BNINIDJAWEN",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5200,8 +5200,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JBI",
     "SWIFT Code": "BNINIDJAJBI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5213,8 +5213,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JPA",
     "SWIFT Code": "BNINIDJAJPA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5226,8 +5226,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JBR",
     "SWIFT Code": "BNINIDJAJBR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5239,8 +5239,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JPR",
     "SWIFT Code": "BNINIDJAJPR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5252,8 +5252,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "JBG",
     "SWIFT Code": "BNINIDJAJBG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5265,8 +5265,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KJH",
     "SWIFT Code": "BNINIDJAKJH",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5278,8 +5278,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KWG",
     "SWIFT Code": "BNINIDJAKWG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5291,8 +5291,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KYA",
     "SWIFT Code": "BNINIDJAKYA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5304,8 +5304,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KBM",
     "SWIFT Code": "BNINIDJAKBM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5317,8 +5317,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KDI",
     "SWIFT Code": "BNINIDJAKDI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5330,8 +5330,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KDR",
     "SWIFT Code": "BNINIDJAKDR",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5343,8 +5343,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KPG",
     "SWIFT Code": "BNINIDJAKPG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5356,8 +5356,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KLA",
     "SWIFT Code": "BNINIDJAKLA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5369,8 +5369,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KTU",
     "SWIFT Code": "BNINIDJAKTU",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5382,8 +5382,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KTI",
     "SWIFT Code": "BNINIDJAKTI",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5395,8 +5395,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KTM",
     "SWIFT Code": "BNINIDJAKTM",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5408,8 +5408,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KTJ",
     "SWIFT Code": "BNINIDJAKTJ",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5421,8 +5421,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KKP",
     "SWIFT Code": "BNINIDJAKKP",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5434,8 +5434,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KLT",
     "SWIFT Code": "BNINIDJAKLT",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5447,8 +5447,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KDS",
     "SWIFT Code": "BNINIDJAKDS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5460,8 +5460,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KNG",
     "SWIFT Code": "BNINIDJAKNG",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5473,8 +5473,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "KPA",
     "SWIFT Code": "BNINIDJAKPA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5486,8 +5486,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "LGS",
     "SWIFT Code": "BNINIDJALGS",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5499,8 +5499,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "ID",
+    "bankCode": "BNIN",
+    "countryCode": "ID",
     "branchCode": "LGA",
     "SWIFT Code": "BNINIDJALGA",
     "Bank Name": "BANK NEGARA INDONESIA - PT (PERSERO)",
@@ -5512,8 +5512,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "RMT",
     "SWIFT Code": "BDINIDJARMT",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5525,8 +5525,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "MKS",
     "SWIFT Code": "BDINIDJAMKS",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5538,8 +5538,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "LCC",
     "SWIFT Code": "BDINIDJALCC",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5551,8 +5551,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "TPC",
     "SWIFT Code": "BDINIDJATPC",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5564,8 +5564,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "TRS",
     "SWIFT Code": "BDINIDJATRS",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5577,8 +5577,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "MIM",
     "SWIFT Code": "BDINIDJAMIM",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5590,8 +5590,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "MRK",
     "SWIFT Code": "BDINIDJAMRK",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5603,8 +5603,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "SPM",
     "SWIFT Code": "BDINIDJASPM",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5616,8 +5616,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "SSR",
     "SWIFT Code": "BDINIDJASSR",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5629,8 +5629,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "SBY",
     "SWIFT Code": "BDINIDJASBY",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5642,8 +5642,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "TJP",
     "SWIFT Code": "BDINIDJATJP",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5655,8 +5655,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIN",
-    "bankCode": "ID",
+    "bankCode": "BDIN",
+    "countryCode": "ID",
     "branchCode": "YGY",
     "SWIFT Code": "BDINIDJAYGY",
     "Bank Name": "PT. BANK DANAMON INDONESIA, TBK",
@@ -5668,8 +5668,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNES",
-    "bankCode": "ID",
+    "bankCode": "GNES",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "GNESIDJA",
     "Bank Name": "PT. BANK GANESHA",
@@ -5681,8 +5681,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAYO",
-    "bankCode": "ID",
+    "bankCode": "MAYO",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "MAYOIDJA",
     "Bank Name": "PT. BANK HIBANK INDONESIA",
@@ -5694,8 +5694,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBNI",
-    "bankCode": "ID",
+    "bankCode": "HBNI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "HBNIIDJA",
     "Bank Name": "PT. BANK HIBANK INDONESIA",
@@ -5707,8 +5707,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJTM",
-    "bankCode": "ID",
+    "bankCode": "BJTM",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BJTMIDJA",
     "Bank Name": "PT. BANK JATIM",
@@ -5720,8 +5720,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CICT",
-    "bankCode": "ID",
+    "bankCode": "CICT",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "CICTIDJA",
     "Bank Name": "PT. BANK JTRUST INDONESIA TBK",
@@ -5733,8 +5733,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBN",
-    "bankCode": "ID",
+    "bankCode": "HNBN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "HNBNIDJA",
     "Bank Name": "PT. BANK KEB HANA INDONESIA",
@@ -5746,8 +5746,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASD",
-    "bankCode": "ID",
+    "bankCode": "MASD",
+    "countryCode": "ID",
     "branchCode": "DJS",
     "SWIFT Code": "MASDIDJS",
     "Bank Name": "PT. BANK MASPION INDONESIA TBK",
@@ -5759,8 +5759,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAYA",
-    "bankCode": "ID",
+    "bankCode": "MAYA",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "MAYAIDJA",
     "Bank Name": "PT. BANK MAYAPADA INTERNATIONAL TBK",
@@ -5772,8 +5772,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSI",
-    "bankCode": "ID",
+    "bankCode": "BMSI",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BMSIIDJA",
     "Bank Name": "PT. BANK MEGA SYARIAH",
@@ -5785,8 +5785,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUAB",
-    "bankCode": "ID",
+    "bankCode": "MUAB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "MUABIDJA",
     "Bank Name": "PT. BANK MUAMALAT INDONESIA , TBK",
@@ -5798,8 +5798,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDSB",
-    "bankCode": "ID",
+    "bankCode": "PDSB",
+    "countryCode": "ID",
     "branchCode": "DSP",
     "SWIFT Code": "PDSBIDSP",
     "Bank Name": "PT. BANK NAGARI",
@@ -5811,8 +5811,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOBU",
-    "bankCode": "ID",
+    "bankCode": "NOBU",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "NOBUIDJA",
     "Bank Name": "PT. BANK NATIONALNOBU",
@@ -5824,8 +5824,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "ID",
+    "bankCode": "BKID",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BKIDIDJA",
     "Bank Name": "PT. BANK OF INDIA INDONESIA,TBK",
@@ -5837,8 +5837,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABAL",
-    "bankCode": "ID",
+    "bankCode": "ABAL",
+    "countryCode": "ID",
     "branchCode": "DBS",
     "SWIFT Code": "ABALIDBS",
     "Bank Name": "PT. BANK PEMBANGUNAN DAERAH BALI",
@@ -5850,8 +5850,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDJB",
-    "bankCode": "ID",
+    "bankCode": "PDJB",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PDJBIDJA",
     "Bank Name": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN, TBK",
@@ -5863,8 +5863,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDKT",
-    "bankCode": "ID",
+    "bankCode": "PDKT",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PDKTIDJA",
     "Bank Name": "PT. BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR DAN KALIMANTAN UTARA",
@@ -5876,8 +5876,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PDNT",
-    "bankCode": "ID",
+    "bankCode": "PDNT",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "PDNTIDJA",
     "Bank Name": "PT. BANK PEMBANGUNAN DAERAH NUSA TENGGARA TIMUR",
@@ -5889,8 +5889,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSP",
-    "bankCode": "ID",
+    "bankCode": "BSSP",
+    "countryCode": "ID",
     "branchCode": "DSP",
     "SWIFT Code": "BSSPIDSP",
     "Bank Name": "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN DAN  BANGKA BELITUNG",
@@ -5902,8 +5902,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "001",
     "SWIFT Code": "BRINIDJA001",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5915,8 +5915,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "002",
     "SWIFT Code": "BRINIDJA002",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5928,8 +5928,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "037",
     "SWIFT Code": "BRINIDJA037",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5941,8 +5941,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "005",
     "SWIFT Code": "BRINIDJA005",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5954,8 +5954,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "286",
     "SWIFT Code": "BRINIDJA286",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5967,8 +5967,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "003",
     "SWIFT Code": "BRINIDJA003",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5980,8 +5980,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "331",
     "SWIFT Code": "BRINIDJA331",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -5993,8 +5993,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "189",
     "SWIFT Code": "BRINIDJA189",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6006,8 +6006,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "308",
     "SWIFT Code": "BRINIDJA308",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6019,8 +6019,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "333",
     "SWIFT Code": "BRINIDJA333",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6032,8 +6032,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "107",
     "SWIFT Code": "BRINIDJA107",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6045,8 +6045,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "317",
     "SWIFT Code": "BRINIDJA317",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6058,8 +6058,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "159",
     "SWIFT Code": "BRINIDJA159",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6071,8 +6071,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "026",
     "SWIFT Code": "BRINIDJA026",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6084,8 +6084,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "DJA",
     "SWIFT Code": "BRINIDJA",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6097,8 +6097,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "TRY",
     "SWIFT Code": "BRINIDJATRY",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6110,8 +6110,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "CUS",
     "SWIFT Code": "BRINIDJACUS",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6123,8 +6123,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "230",
     "SWIFT Code": "BRINIDJA230",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6136,8 +6136,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "330",
     "SWIFT Code": "BRINIDJA330",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
@@ -6149,8 +6149,8 @@ const indonesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "ID",
+    "bankCode": "BRIN",
+    "countryCode": "ID",
     "branchCode": "359",
     "SWIFT Code": "BRINIDJA359",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",

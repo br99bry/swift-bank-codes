@@ -1,7 +1,7 @@
 const faroeIslands = [
   {
-    "countryCode": "FIFB",
-    "bankCode": "FO",
+    "bankCode": "FIFB",
+    "countryCode": "FO",
     "branchCode": "OTX",
     "SWIFT Code": "FIFBFOTX",
     "Bank Name": "BANKNORDIK P/F (FORMERLY FOROYA BANKI P/F)",
@@ -13,8 +13,8 @@ const faroeIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIFB",
-    "bankCode": "FO",
+    "bankCode": "FIFB",
+    "countryCode": "FO",
     "branchCode": "KON",
     "SWIFT Code": "FIFBFOTXKON",
     "Bank Name": "BANKNORDIK P/F (FORMERLY FOROYA BANKI P/F)",
@@ -26,8 +26,8 @@ const faroeIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIKB",
-    "bankCode": "FO",
+    "bankCode": "EIKB",
+    "countryCode": "FO",
     "branchCode": "OTF",
     "SWIFT Code": "EIKBFOTF",
     "Bank Name": "BETRI BANKI P/F",
@@ -39,8 +39,8 @@ const faroeIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIKB",
-    "bankCode": "FO",
+    "bankCode": "EIKB",
+    "countryCode": "FO",
     "branchCode": "KON",
     "SWIFT Code": "EIKBFOTFKON",
     "Bank Name": "BETRI BANKI P/F",

@@ -1,7 +1,7 @@
 const macao = [
   {
-    "countryCode": "ABOC",
-    "bankCode": "MO",
+    "bankCode": "ABOC",
+    "countryCode": "MO",
     "branchCode": "OMM",
     "SWIFT Code": "ABOCMOMM",
     "Bank Name": "AGRICULTURAL BANK OF CHINA LIMITED MACAO BRANCH",
@@ -13,8 +13,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIGG",
-    "bankCode": "MO",
+    "bankCode": "CIGG",
+    "countryCode": "MO",
     "branchCode": "OMM",
     "SWIFT Code": "CIGGMOMM",
     "Bank Name": "ANT BANK (MACAO) LIMITED",
@@ -26,8 +26,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFAM",
-    "bankCode": "MO",
+    "bankCode": "MFAM",
+    "countryCode": "MO",
     "branchCode": "OMS",
     "SWIFT Code": "MFAMMOMS",
     "Bank Name": "AUTORIDADE MONETARIA DE MACAU",
@@ -39,8 +39,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFAM",
-    "bankCode": "MO",
+    "bankCode": "MFAM",
+    "countryCode": "MO",
     "branchCode": "OMU",
     "SWIFT Code": "MFAMMOMU",
     "Bank Name": "AUTORIDADE MONETARIA DE MACAU",
@@ -52,8 +52,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFAM",
-    "bankCode": "MO",
+    "bankCode": "MFAM",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "MFAMMOMX",
     "Bank Name": "AUTORIDADE MONETARIA DE MACAU",
@@ -65,8 +65,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMAC",
-    "bankCode": "MO",
+    "bankCode": "CMAC",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "CMACMOMX",
     "Bank Name": "BANCO COMERCIAL DE MACAU, S.A.",
@@ -78,8 +78,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "MO",
+    "bankCode": "BCOM",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "BCOMMOMX",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -91,8 +91,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABG",
-    "bankCode": "MO",
+    "bankCode": "DABG",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "DABGMOMX",
     "Bank Name": "BANCO DELTA ASIA S.A.",
@@ -105,8 +105,8 @@ const macao = [
   },
   {},
   {
-    "countryCode": "BESC",
-    "bankCode": "MO",
+    "bankCode": "BESC",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "BESCMOMX",
     "Bank Name": "BANCO WELL LINK, S.A.",
@@ -118,8 +118,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MO",
+    "bankCode": "BKCH",
+    "countryCode": "MO",
     "branchCode": "OMA",
     "SWIFT Code": "BKCHMOMA",
     "Bank Name": "BANK OF CHINA (MACAU) LIMITED",
@@ -131,8 +131,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MO",
+    "bankCode": "BKCH",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "BKCHMOMX",
     "Bank Name": "BANK OF CHINA, MACAU BRANCH",
@@ -144,8 +144,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MO",
+    "bankCode": "BKCH",
+    "countryCode": "MO",
     "branchCode": "CLR",
     "SWIFT Code": "BKCHMOMXCLR",
     "Bank Name": "BANK OF CHINA, MACAU BRANCH",
@@ -157,8 +157,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MO",
+    "bankCode": "BKCH",
+    "countryCode": "MO",
     "branchCode": "CUS",
     "SWIFT Code": "BKCHMOMXCUS",
     "Bank Name": "BANK OF CHINA, MACAU BRANCH",
@@ -170,8 +170,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MO",
+    "bankCode": "BKCH",
+    "countryCode": "MO",
     "branchCode": "868",
     "SWIFT Code": "BKCHMOMX868",
     "Bank Name": "BANK OF CHINA, MACAU BRANCH",
@@ -183,8 +183,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "MO",
+    "bankCode": "COMM",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "COMMMOMX",
     "Bank Name": "BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH",
@@ -196,8 +196,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "MO",
+    "bankCode": "SINO",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "SINOMOMX",
     "Bank Name": "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
@@ -209,8 +209,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIEP",
-    "bankCode": "MO",
+    "bankCode": "CIEP",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "CIEPMOMX",
     "Bank Name": "CAIXA ECONOMICA POSTAL",
@@ -222,8 +222,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWHK",
-    "bankCode": "MO",
+    "bankCode": "KWHK",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "KWHKMOMX",
     "Bank Name": "CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH",
@@ -235,8 +235,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "MO",
+    "bankCode": "CCBQ",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "CCBQMOMX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
@@ -248,8 +248,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "MO",
+    "bankCode": "CCBQ",
+    "countryCode": "MO",
     "branchCode": "RTL",
     "SWIFT Code": "CCBQMOMXRTL",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
@@ -261,8 +261,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "MO",
+    "bankCode": "EVER",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "EVERMOMX",
     "Bank Name": "CHINA EVERBRIGHT BANK COMPANY LIMITED MACAO BRANCH",
@@ -274,8 +274,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "MO",
+    "bankCode": "GDBK",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "GDBKMOMX",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD MACAU BRANCH",
@@ -287,8 +287,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "MO",
+    "bankCode": "LCHB",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "LCHBMOMX",
     "Bank Name": "CHONG HING BANK LIMITED MACAU BRANCH",
@@ -300,8 +300,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MO",
+    "bankCode": "CITI",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "CITIMOMX",
     "Bank Name": "CITIBANK NA, MACAU",
@@ -313,8 +313,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBA",
-    "bankCode": "MO",
+    "bankCode": "WUBA",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "WUBAMOMX",
     "Bank Name": "CMB WING LUNG BANK LIMITED MACAU BRANCH",
@@ -326,8 +326,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "MO",
+    "bankCode": "DBSS",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "DBSSMOMX",
     "Bank Name": "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
@@ -339,8 +339,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "MO",
+    "bankCode": "FCBK",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "FCBKMOMX",
     "Bank Name": "FIRST COMMERCIAL BANK, MACAU BRANCH",
@@ -352,8 +352,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMBA",
-    "bankCode": "MO",
+    "bankCode": "HMBA",
+    "countryCode": "MO",
     "branchCode": "OMM",
     "SWIFT Code": "HMBAMOMM",
     "Bank Name": "HAITONG BANK, MACAU BRANCH",
@@ -365,8 +365,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "MO",
+    "bankCode": "HASE",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "HASEMOMX",
     "Bank Name": "HANG SENG BANK LIMITED,MACAU BRANCH",
@@ -378,8 +378,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "MO",
+    "bankCode": "HNBK",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "HNBKMOMX",
     "Bank Name": "HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH",
@@ -391,8 +391,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "MO",
+    "bankCode": "ICBK",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "ICBKMOMX",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED",
@@ -404,8 +404,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "MO",
+    "bankCode": "ICBK",
+    "countryCode": "MO",
     "branchCode": "OMM",
     "SWIFT Code": "ICBKMOMM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, MACAU BRANCH",
@@ -417,8 +417,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUSO",
-    "bankCode": "MO",
+    "bankCode": "LUSO",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "LUSOMOMX",
     "Bank Name": "LUSO INTERNATIONAL BANKING LTD.",
@@ -430,8 +430,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCES",
-    "bankCode": "MO",
+    "bankCode": "MCES",
+    "countryCode": "MO",
     "branchCode": "OMM",
     "SWIFT Code": "MCESMOMM",
     "Bank Name": "MACAO CENTRAL SECURITIES DEPOSITORY AND CLEARING LIMITED",
@@ -443,8 +443,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCDE",
-    "bankCode": "MO",
+    "bankCode": "MCDE",
+    "countryCode": "MO",
     "branchCode": "OMM",
     "SWIFT Code": "MCDEMOMM",
     "Bank Name": "MACAO DEVELOPMENT BANK LIMITED",
@@ -456,8 +456,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIHB",
-    "bankCode": "MO",
+    "bankCode": "WIHB",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "WIHBMOMX",
     "Bank Name": "OCBC BANK (MACAU) LIMITED",
@@ -469,8 +469,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "MO",
+    "bankCode": "SCBL",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "SCBLMOMX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -482,8 +482,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFBL",
-    "bankCode": "MO",
+    "bankCode": "TFBL",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "TFBLMOMX",
     "Bank Name": "TAI FUNG BANK LIMITED",
@@ -495,8 +495,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "MO",
+    "bankCode": "BEAS",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "BEASMOMX",
     "Bank Name": "THE BANK OF EAST ASIA,LIMITED MACAU BRANCH",
@@ -508,8 +508,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "MO",
+    "bankCode": "HSBC",
+    "countryCode": "MO",
     "branchCode": "AAM",
     "SWIFT Code": "HSBCMOMXAAM",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -521,8 +521,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "MO",
+    "bankCode": "HSBC",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "HSBCMOMX",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -534,8 +534,8 @@ const macao = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCHN",
-    "bankCode": "MO",
+    "bankCode": "MCHN",
+    "countryCode": "MO",
     "branchCode": "OMX",
     "SWIFT Code": "MCHNMOMX",
     "Bank Name": "THE MACAU CHINESE BANK LIMITED",

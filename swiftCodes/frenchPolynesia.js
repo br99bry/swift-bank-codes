@@ -1,7 +1,7 @@
 const frenchPolynesia = [
   {
-    "countryCode": "BPOL",
-    "bankCode": "PF",
+    "bankCode": "BPOL",
+    "countryCode": "PF",
     "branchCode": "FTP",
     "SWIFT Code": "BPOLPFTP",
     "Bank Name": "BANQUE DE POLYNESIE",
@@ -13,8 +13,8 @@ const frenchPolynesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "PF",
+    "bankCode": "CEPA",
+    "countryCode": "PF",
     "branchCode": "FTP",
     "SWIFT Code": "CEPAPFTP",
     "Bank Name": "BANQUE DE TAHITI S.A.",
@@ -26,8 +26,8 @@ const frenchPolynesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOCB",
-    "bankCode": "PF",
+    "bankCode": "SOCB",
+    "countryCode": "PF",
     "branchCode": "FTX",
     "SWIFT Code": "SOCBPFTX",
     "Bank Name": "BANQUE SOCREDO",
@@ -39,8 +39,8 @@ const frenchPolynesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "PF",
+    "bankCode": "CDCG",
+    "countryCode": "PF",
     "branchCode": "FTP",
     "SWIFT Code": "CDCGPFTP",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -52,8 +52,8 @@ const frenchPolynesia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGPO",
-    "bankCode": "PF",
+    "bankCode": "EGPO",
+    "countryCode": "PF",
     "branchCode": "FT2",
     "SWIFT Code": "EGPOPFT2",
     "Bank Name": "NIUPAY",

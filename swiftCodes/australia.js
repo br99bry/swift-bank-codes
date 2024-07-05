@@ -1,7 +1,7 @@
 const australia = [
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "U2I",
     "SWIFT Code": "MACQAU2I",
     "Bank Name": "MACQUARIE INVESTMENT MANAGEMENT GLOBAL LIMITED",
@@ -13,8 +13,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGAG",
-    "bankCode": "AU",
+    "bankCode": "MGAG",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "MGAGAU22",
     "Bank Name": "MAGELLAN ASSET MANAGEMENT LIMITED",
@@ -27,8 +27,8 @@ const australia = [
   },
   {},
   {
-    "countryCode": "ICBC",
-    "bankCode": "AU",
+    "bankCode": "ICBC",
+    "countryCode": "AU",
     "branchCode": "BRI",
     "SWIFT Code": "ICBCAU2SBRI",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH",
@@ -40,8 +40,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "AU",
+    "bankCode": "ICBC",
+    "countryCode": "AU",
     "branchCode": "MEL",
     "SWIFT Code": "ICBCAU2SMEL",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH",
@@ -53,8 +53,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "AU",
+    "bankCode": "ICBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ICBCAU2S",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH",
@@ -66,8 +66,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "AU",
+    "bankCode": "DCAG",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "DCAGAU33",
     "Bank Name": "MERCEDES-BENZ AUSTRALIA/PACIFIC PTY LTD",
@@ -79,8 +79,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCFS",
-    "bankCode": "AU",
+    "bankCode": "DCFS",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "DCFSAU33",
     "Bank Name": "MERCEDES-BENZ FINANCIAL SERVICES AUSTRALIA PTY. LTD.",
@@ -92,8 +92,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "MLN",
     "SWIFT Code": "MLEQAU2SMLN",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -105,8 +105,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "MLS",
     "SWIFT Code": "MLEQAU2SMLS",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -118,8 +118,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "MLT",
     "SWIFT Code": "MLEQAU2SMLT",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -131,8 +131,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "MLEQAU2S",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -144,8 +144,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "BMS",
     "SWIFT Code": "MLEQAU2SBMS",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -157,8 +157,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "MLB",
     "SWIFT Code": "MLEQAU2SMLB",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -170,8 +170,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "FFO",
     "SWIFT Code": "MLEQAU2SFFO",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -183,8 +183,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "MLM",
     "SWIFT Code": "MLEQAU2SMLM",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -196,8 +196,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLEQ",
-    "bankCode": "AU",
+    "bankCode": "MLEQ",
+    "countryCode": "AU",
     "branchCode": "MLR",
     "SWIFT Code": "MLEQAU2SMLR",
     "Bank Name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
@@ -209,8 +209,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METY",
-    "bankCode": "AU",
+    "bankCode": "METY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "METYAU22",
     "Bank Name": "METAGATE PTY LTD",
@@ -222,8 +222,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGPY",
-    "bankCode": "AU",
+    "bankCode": "MGPY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "MGPYAU22",
     "Bank Name": "MGIM PTY LTD",
@@ -235,8 +235,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "AU",
+    "bankCode": "MHCB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "MHCBAU2S",
     "Bank Name": "MIZUHO BANK, LTD. SYDNEY BRANCH",
@@ -248,8 +248,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKCP",
-    "bankCode": "AU",
+    "bankCode": "MKCP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "MKCPAU22",
     "Bank Name": "MKR CAPITAL PTY LIMITED",
@@ -261,8 +261,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMV",
-    "bankCode": "AU",
+    "bankCode": "MSMV",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "MSMVAU2S",
     "Bank Name": "MLC ASSET MANAGEMENT SERVICES LIMITED",
@@ -274,8 +274,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOYT",
-    "bankCode": "AU",
+    "bankCode": "MOYT",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "MOYTAU22",
     "Bank Name": "MONEYCHAIN PTY LTD",
@@ -287,8 +287,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOYH",
-    "bankCode": "AU",
+    "bankCode": "MOYH",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "MOYHAU22",
     "Bank Name": "MONOOVA GLOBAL PAYMENTS PTY LTD",
@@ -300,8 +300,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "AU",
+    "bankCode": "BOTK",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "BOTKAU2X",
     "Bank Name": "MUFG BANK, LTD.",
@@ -313,8 +313,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUAN",
-    "bankCode": "AU",
+    "bankCode": "MUAN",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "MUANAU32",
     "Bank Name": "MUNRO ASSET MANAGEMENT LIMITED",
@@ -326,8 +326,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NANU",
-    "bankCode": "AU",
+    "bankCode": "NANU",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "NANUAU22",
     "Bank Name": "NANUK ASSET MANAGEMENT PTY LTD",
@@ -339,8 +339,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "05A",
     "SWIFT Code": "NATAAU3305A",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -352,8 +352,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "08D",
     "SWIFT Code": "NATAAU3308D",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -365,8 +365,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "NATAAU33",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -379,8 +379,8 @@ const australia = [
   },
   {},
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "03X",
     "SWIFT Code": "NATAAU3303X",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -392,8 +392,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "02J",
     "SWIFT Code": "NATAAU3302J",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -405,8 +405,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "CLS",
     "SWIFT Code": "NATAAU33CLS",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -418,8 +418,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "02X",
     "SWIFT Code": "NATAAU3302X",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -431,8 +431,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "03D",
     "SWIFT Code": "NATAAU3303D",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -444,8 +444,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "033",
     "SWIFT Code": "NATAAU33033",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -457,8 +457,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "NATAAU33OBU",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -470,8 +470,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "06Z",
     "SWIFT Code": "NATAAU3306Z",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -483,8 +483,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "07H",
     "SWIFT Code": "NATAAU3307H",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -496,8 +496,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "03M",
     "SWIFT Code": "NATAAU3303M",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -509,8 +509,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "04B",
     "SWIFT Code": "NATAAU3304B",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -522,8 +522,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "03T",
     "SWIFT Code": "NATAAU3303T",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -535,8 +535,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "032",
     "SWIFT Code": "NATAAU33032",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -548,8 +548,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "06P",
     "SWIFT Code": "NATAAU3306P",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -561,8 +561,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "02Z",
     "SWIFT Code": "NATAAU3302Z",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -574,8 +574,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "02S",
     "SWIFT Code": "NATAAU3302S",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -587,8 +587,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "AU",
+    "bankCode": "NATA",
+    "countryCode": "AU",
     "branchCode": "U3R",
     "SWIFT Code": "NATAAU3R",
     "Bank Name": "NATIONAL AUSTRALIA BANK LTD 'DOMESTIC CLEARING'",
@@ -600,8 +600,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "AMCIAU2X",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -613,8 +613,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "DAA",
     "SWIFT Code": "AMCIAU2XDAA",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -626,8 +626,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WLSH",
-    "bankCode": "AU",
+    "bankCode": "WLSH",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "WLSHAU2S",
     "Bank Name": "E AND P FUNDS MANAGEMENT PTY LIMITED",
@@ -639,8 +639,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "AU",
+    "bankCode": "ESUN",
+    "countryCode": "AU",
     "branchCode": "USS",
     "SWIFT Code": "ESUNAUSS",
     "Bank Name": "E.SUN COMMERCIAL BANK, LTD.",
@@ -652,8 +652,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAAP",
-    "bankCode": "AU",
+    "bankCode": "EAAP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "EAAPAU22",
     "Bank Name": "EASTERN AND ALLIED PTY LTD",
@@ -665,8 +665,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFPT",
-    "bankCode": "AU",
+    "bankCode": "EFPT",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "EFPTAU22",
     "Bank Name": "EFTEX PTY LTD",
@@ -678,8 +678,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFPA",
-    "bankCode": "AU",
+    "bankCode": "EFPA",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "EFPAAU22",
     "Bank Name": "EFTPOS PAYMENTS AUSTRALIA LIMITED",
@@ -691,8 +691,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EONX",
-    "bankCode": "AU",
+    "bankCode": "EONX",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "EONXAU32",
     "Bank Name": "EONX SERVICES PTY LTD",
@@ -704,8 +704,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQTH",
-    "bankCode": "AU",
+    "bankCode": "EQTH",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "EQTHAU32",
     "Bank Name": "EQT HOLDINGS LIMITED",
@@ -717,8 +717,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EZYP",
-    "bankCode": "AU",
+    "bankCode": "EZYP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "EZYPAU22",
     "Bank Name": "EZYPAY PTY LTD",
@@ -730,8 +730,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEAT",
-    "bankCode": "AU",
+    "bankCode": "FEAT",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "FEATAUS2",
     "Bank Name": "FIFTH ESTATE ASSET MANAGEMENT PTY LTD",
@@ -743,8 +743,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINY",
-    "bankCode": "AU",
+    "bankCode": "FINY",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "FINYAU42",
     "Bank Name": "FIRETRAIL INVESTMENTS PTY LTD",
@@ -756,8 +756,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "AU",
+    "bankCode": "FCBK",
+    "countryCode": "AU",
     "branchCode": "U4B",
     "SWIFT Code": "FCBKAU4B",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -769,8 +769,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSM",
-    "bankCode": "AU",
+    "bankCode": "CFSM",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "CFSMAU3M",
     "Bank Name": "FIRST SENTIER INVESTORS (AUSTRALIA) IM LIMITED",
@@ -782,8 +782,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSM",
-    "bankCode": "AU",
+    "bankCode": "CFSM",
+    "countryCode": "AU",
     "branchCode": "ETD",
     "SWIFT Code": "CFSMAU3METD",
     "Bank Name": "FIRST SENTIER INVESTORS (AUSTRALIA) IM LIMITED",
@@ -795,8 +795,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAAT",
-    "bankCode": "AU",
+    "bankCode": "FAAT",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "FAATAUS2",
     "Bank Name": "FLAG ASSET MANAGEMENT PTY LTD",
@@ -808,8 +808,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLPP",
-    "bankCode": "AU",
+    "bankCode": "FLPP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "FLPPAU22",
     "Bank Name": "FLASH PARTNERS PTY LTD",
@@ -821,8 +821,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLPT",
-    "bankCode": "AU",
+    "bankCode": "FLPT",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "FLPTAU32",
     "Bank Name": "FLEXEWALLET PTY LTD",
@@ -834,8 +834,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANPT",
-    "bankCode": "AU",
+    "bankCode": "ANPT",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "ANPTAU32",
     "Bank Name": "FLINDERS INVESTMENT PARTNERS PTY LTD",
@@ -847,8 +847,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNZU",
-    "bankCode": "AU",
+    "bankCode": "FNZU",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "FNZUAU22",
     "Bank Name": "FNZ CUSTODIANS (AUSTRALIA) PTY LTD",
@@ -860,8 +860,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMGL",
-    "bankCode": "AU",
+    "bankCode": "FMGL",
+    "countryCode": "AU",
     "branchCode": "U6P",
     "SWIFT Code": "FMGLAU6P",
     "Bank Name": "FORTESCUE METALS GROUP LTD",
@@ -873,8 +873,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSIE",
-    "bankCode": "AU",
+    "bankCode": "FSIE",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "FSIEAU22",
     "Bank Name": "FUTURE SUPER INVESTMENT SERVICES PTY LTD",
@@ -886,8 +886,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCQF",
-    "bankCode": "AU",
+    "bankCode": "GCQF",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "GCQFAU22",
     "Bank Name": "GCQ FUNDS MANAGEMENT PTY LTD",
@@ -899,8 +899,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GELF",
-    "bankCode": "AU",
+    "bankCode": "GELF",
+    "countryCode": "AU",
     "branchCode": "U52",
     "SWIFT Code": "GELFAU52",
     "Bank Name": "GENERATION LIFE LIMITED",
@@ -912,8 +912,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDPP",
-    "bankCode": "AU",
+    "bankCode": "GDPP",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "GDPPAU42",
     "Bank Name": "GLOBAL DEVELOPMENT PARTNERSHIP PTY LTD",
@@ -925,8 +925,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPMT",
-    "bankCode": "AU",
+    "bankCode": "GPMT",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "GPMTAU42",
     "Bank Name": "GLOBAL PAYMENTS AUSTRALIA 1 PTY LTD",
@@ -938,8 +938,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "AU",
+    "bankCode": "GOLD",
+    "countryCode": "AU",
     "branchCode": "MRA",
     "SWIFT Code": "GOLDAU2SMRA",
     "Bank Name": "GOLDMAN SACHS FINANCIAL MARKETS PTY LTD",
@@ -951,8 +951,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "AU",
+    "bankCode": "GOLD",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "GOLDAU2S",
     "Bank Name": "GOLDMAN SACHS FINANCIAL MARKETS PTY LTD",
@@ -964,8 +964,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLP",
-    "bankCode": "AU",
+    "bankCode": "GOLP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "GOLPAU22",
     "Bank Name": "GOLDMATE PTY. LTD.",
@@ -977,8 +977,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRIY",
-    "bankCode": "AU",
+    "bankCode": "GRIY",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "GRIYAU32",
     "Bank Name": "GREAT INTERNATIONAL PTY LTD",
@@ -990,8 +990,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMY",
-    "bankCode": "AU",
+    "bankCode": "HAMY",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "HAMYAU42",
     "Bank Name": "HAMILTON12 PTY LTD",
@@ -1003,8 +1003,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBSL",
-    "bankCode": "AU",
+    "bankCode": "HBSL",
+    "countryCode": "AU",
     "branchCode": "U4T",
     "SWIFT Code": "HBSLAU4T",
     "Bank Name": "HERITAGE AND PEOPLE'S CHOICE LIMITED",
@@ -1016,8 +1016,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HPCB",
-    "bankCode": "AU",
+    "bankCode": "HPCB",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "HPCBAU42",
     "Bank Name": "HERITAGE AND PEOPLE'S CHOICE LIMITED",
@@ -1029,8 +1029,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIFX",
-    "bankCode": "AU",
+    "bankCode": "HIFX",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "HIFXAU2S",
     "Bank Name": "HIFX AUSTRALIA PTY LTD",
@@ -1042,8 +1042,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "ADL",
     "SWIFT Code": "HKBAAU2SADL",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1055,8 +1055,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "BNE",
     "SWIFT Code": "HKBAAU2SBNE",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1068,8 +1068,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "MEL",
     "SWIFT Code": "HKBAAU2SMEL",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1081,8 +1081,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "PTH",
     "SWIFT Code": "HKBAAU2SPTH",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1094,8 +1094,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "SYD",
     "SWIFT Code": "HKBAAU2SSYD",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1107,8 +1107,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "HKBAAU2S",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1120,8 +1120,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "CLS",
     "SWIFT Code": "HKBAAU2SCLS",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1133,8 +1133,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "BAU",
     "SWIFT Code": "HKBAAU2SBAU",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1146,8 +1146,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "LAS",
     "SWIFT Code": "HKBAAU2SLAS",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1159,8 +1159,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "GPI",
     "SWIFT Code": "HKBAAU2SGPI",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1172,8 +1172,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBA",
-    "bankCode": "AU",
+    "bankCode": "HKBA",
+    "countryCode": "AU",
     "branchCode": "SYC",
     "SWIFT Code": "HKBAAU2SSYC",
     "Bank Name": "HSBC BANK AUSTRALIA LIMITED",
@@ -1185,8 +1185,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "AU",
+    "bankCode": "HNBK",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "HNBKAU2S",
     "Bank Name": "HUA NAN COMMERCIAL BANK SYDNEY BRANCH",
@@ -1198,8 +1198,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIY",
-    "bankCode": "AU",
+    "bankCode": "ICIY",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "ICIYAU32",
     "Bank Name": "ICE INVESTORS PTY LTD",
@@ -1211,8 +1211,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFMP",
-    "bankCode": "AU",
+    "bankCode": "IFMP",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "IFMPAU33",
     "Bank Name": "IFM INVESTORS PTY LTD",
@@ -1224,8 +1224,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFRC",
-    "bankCode": "AU",
+    "bankCode": "IFRC",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "IFRCAU22",
     "Bank Name": "IFRC-RTGS PTY LTD",
@@ -1237,8 +1237,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPLX",
-    "bankCode": "AU",
+    "bankCode": "IPLX",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "IPLXAU3M",
     "Bank Name": "INCITEC PIVOT LIMITED",
@@ -1250,8 +1250,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPFM",
-    "bankCode": "AU",
+    "bankCode": "IPFM",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "IPFMAU22",
     "Bank Name": "INDIAN PACIFIC FUNDS MANAGEMENT",
@@ -1263,8 +1263,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDUE",
-    "bankCode": "AU",
+    "bankCode": "NDUE",
+    "countryCode": "AU",
     "branchCode": "U44",
     "SWIFT Code": "NDUEAU44",
     "Bank Name": "INDUE LTD",
@@ -1276,8 +1276,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "GCB",
     "SWIFT Code": "CITIAU2XGCB",
     "Bank Name": "CITIBANK N.A.",
@@ -1289,8 +1289,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "RTG",
     "SWIFT Code": "CITIAU2XRTG",
     "Bank Name": "CITIBANK N.A.",
@@ -1302,8 +1302,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSBS",
-    "bankCode": "AU",
+    "bankCode": "SSBS",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SSBSAU2S",
     "Bank Name": "CITIGROUP GLOBAL MARKETS AUSTRALIA PTY LIMITED",
@@ -1315,8 +1315,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUSQ",
-    "bankCode": "AU",
+    "bankCode": "AUSQ",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "AUSQAU2S",
     "Bank Name": "CLEARSTREAM AUSTRALIA LIMITED",
@@ -1328,8 +1328,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCK",
-    "bankCode": "AU",
+    "bankCode": "CMCK",
+    "countryCode": "AU",
     "branchCode": "USS",
     "SWIFT Code": "CMCKAUSS",
     "Bank Name": "CMC MARKETS ASIA PACIFIC PTY LTD",
@@ -1341,8 +1341,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COPY",
-    "bankCode": "AU",
+    "bankCode": "COPY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "COPYAU22",
     "Bank Name": "COASTER CAPITAL PTY LTD",
@@ -1354,8 +1354,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COAM",
-    "bankCode": "AU",
+    "bankCode": "COAM",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "COAMAU2S",
     "Bank Name": "COCA-COLA EUROPACIFIC PARTNERS API PTY LTD",
@@ -1367,8 +1367,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSM",
-    "bankCode": "AU",
+    "bankCode": "CFSM",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CFSMAU2S",
     "Bank Name": "COLONIAL FIRST STATE INVESTMENT LTD",
@@ -1380,8 +1380,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSM",
-    "bankCode": "AU",
+    "bankCode": "CFSM",
+    "countryCode": "AU",
     "branchCode": "FSD",
     "SWIFT Code": "CFSMAU2SFSD",
     "Bank Name": "COLONIAL FIRST STATE INVESTMENT LTD",
@@ -1393,8 +1393,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSM",
-    "bankCode": "AU",
+    "bankCode": "CFSM",
+    "countryCode": "AU",
     "branchCode": "FSC",
     "SWIFT Code": "CFSMAU2SFSC",
     "Bank Name": "COLONIAL FIRST STATE INVESTMENT LTD",
@@ -1406,8 +1406,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPY",
-    "bankCode": "AU",
+    "bankCode": "CCPY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CCPYAU22",
     "Bank Name": "COLUMBUS CAPITAL PTY LTD",
@@ -1419,8 +1419,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "500",
     "SWIFT Code": "CTBAAU2S500",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1432,8 +1432,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "400",
     "SWIFT Code": "CTBAAU2S400",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1445,8 +1445,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "800",
     "SWIFT Code": "CTBAAU2S800",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1458,8 +1458,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "700",
     "SWIFT Code": "CTBAAU2S700",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1471,8 +1471,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "3OT",
     "SWIFT Code": "CTBAAU2S3OT",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1484,8 +1484,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "3FX",
     "SWIFT Code": "CTBAAU2S3FX",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1497,8 +1497,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "600",
     "SWIFT Code": "CTBAAU2S600",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1510,8 +1510,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "USR",
     "SWIFT Code": "CTBAAUSR",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1523,8 +1523,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "CLS",
     "SWIFT Code": "CTBAAU2SCLS",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1536,8 +1536,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CTBAAU2S",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1549,8 +1549,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "FXD",
     "SWIFT Code": "CTBAAU2SFXD",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1562,8 +1562,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "ITS",
     "SWIFT Code": "CTBAAU2SITS",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1575,8 +1575,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "AU",
+    "bankCode": "CTBA",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "CTBAAU2SOBU",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -1588,8 +1588,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGHP",
-    "bankCode": "AU",
+    "bankCode": "CGHP",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "CGHPAUS2",
     "Bank Name": "COMPASS GLOBAL HOLDINGS PTY LTD",
@@ -1601,8 +1601,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSAP",
-    "bankCode": "AU",
+    "bankCode": "CSAP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CSAPAU22",
     "Bank Name": "CONTACT ASSET MANAGEMENT PTY LIMITED",
@@ -1614,8 +1614,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNAN",
-    "bankCode": "AU",
+    "bankCode": "CNAN",
+    "countryCode": "AU",
     "branchCode": "U3B",
     "SWIFT Code": "CNANAU3B",
     "Bank Name": "CONTANGO ASSET MANAGEMENT LIMITED",
@@ -1627,8 +1627,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIAY",
-    "bankCode": "AU",
+    "bankCode": "CIAY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CIAYAU22",
     "Bank Name": "CONTRARIUS INVESTMENT ADVISORY PTY LIMITED",
@@ -1640,8 +1640,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPTC",
-    "bankCode": "AU",
+    "bankCode": "CPTC",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CPTCAU22",
     "Bank Name": "CORPORATE ALLIANCE GROUP PTY LTD",
@@ -1653,8 +1653,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYP",
-    "bankCode": "AU",
+    "bankCode": "CAYP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CAYPAU22",
     "Bank Name": "CORPORATE ALLIANCE PAYMENTS PTY LTD",
@@ -1666,8 +1666,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSPY",
-    "bankCode": "AU",
+    "bankCode": "CSPY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CSPYAU22",
     "Bank Name": "COSMOREMIT PTY LTD",
@@ -1679,8 +1679,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "AU",
+    "bankCode": "BSUI",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BSUIAU2S",
     "Bank Name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
@@ -1692,8 +1692,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "AU",
+    "bankCode": "BSUI",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "BSUIAU2SOBU",
     "Bank Name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
@@ -1705,8 +1705,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "AU",
+    "bankCode": "CRES",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CRESAU2S",
     "Bank Name": "CREDIT SUISSE AG, SYDNEY BRANCH",
@@ -1718,8 +1718,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "AU",
+    "bankCode": "CRES",
+    "countryCode": "AU",
     "branchCode": "PBS",
     "SWIFT Code": "CRESAU2SPBS",
     "Bank Name": "CREDIT SUISSE AG, SYDNEY BRANCH",
@@ -1731,8 +1731,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPSL",
-    "bankCode": "AU",
+    "bankCode": "FPSL",
+    "countryCode": "AU",
     "branchCode": "VIS",
     "SWIFT Code": "FPSLAU3MVIS",
     "Bank Name": "CREDIT SUISSE EQUITIES (AUSTRALIA) LIMITED",
@@ -1744,8 +1744,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPSL",
-    "bankCode": "AU",
+    "bankCode": "FPSL",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "FPSLAU3M",
     "Bank Name": "CREDIT SUISSE EQUITIES (AUSTRALIA) LIMITED",
@@ -1757,8 +1757,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNEC",
-    "bankCode": "AU",
+    "bankCode": "CNEC",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CNECAU22",
     "Bank Name": "CURRENC PTY LTD",
@@ -1770,8 +1770,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUSC",
-    "bankCode": "AU",
+    "bankCode": "CUSC",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CUSCAU22",
     "Bank Name": "CUSCAL LIMITED",
@@ -1783,8 +1783,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUSC",
-    "bankCode": "AU",
+    "bankCode": "CUSC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CUSCAU2S",
     "Bank Name": "CUSCAL LIMITED",
@@ -1796,8 +1796,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "AU",
+    "bankCode": "DBSS",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "DBSSAU2S",
     "Bank Name": "DBS BANK LTD., AUSTRALIA BRANCH",
@@ -1809,8 +1809,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DETE",
-    "bankCode": "AU",
+    "bankCode": "DETE",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "DETEAU2S",
     "Bank Name": "DEPARTMENT OF THE TREASURY",
@@ -1822,8 +1822,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "EQS",
     "SWIFT Code": "DEUTAU2SEQS",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1835,8 +1835,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "USR",
     "SWIFT Code": "DEUTAUSR",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1848,8 +1848,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "GTB",
     "SWIFT Code": "DEUTAUSRGTB",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1861,8 +1861,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "DEUTAU2S",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1874,8 +1874,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "DSO",
     "SWIFT Code": "DEUTAU2SDSO",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1887,8 +1887,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "GTB",
     "SWIFT Code": "DEUTAU2SGTB",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1900,8 +1900,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AU",
+    "bankCode": "DEUT",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "DEUTAU2SOBU",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -1913,8 +1913,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCMA",
-    "bankCode": "AU",
+    "bankCode": "DCMA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "DCMAAU2S",
     "Bank Name": "DEUTSCHE CAPITAL MARKETS AUSTRALIA LTD.",
@@ -1926,8 +1926,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "AU",
+    "bankCode": "HSBC",
+    "countryCode": "AU",
     "branchCode": "BAP",
     "SWIFT Code": "HSBCAU2SBAP",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1939,8 +1939,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "AU",
+    "bankCode": "HSBC",
+    "countryCode": "AU",
     "branchCode": "CLS",
     "SWIFT Code": "HSBCAU2SCLS",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1952,8 +1952,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "AU",
+    "bankCode": "HSBC",
+    "countryCode": "AU",
     "branchCode": "GPI",
     "SWIFT Code": "HSBCAU2SGPI",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1965,8 +1965,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "AU",
+    "bankCode": "CNOR",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "CNORAU3M",
     "Bank Name": "THE NORTHERN TRUST COMPANY",
@@ -1978,8 +1978,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "AU",
+    "bankCode": "CNOR",
+    "countryCode": "AU",
     "branchCode": "EBM",
     "SWIFT Code": "CNORAU3MEBM",
     "Bank Name": "THE NORTHERN TRUST COMPANY",
@@ -1991,8 +1991,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLFR",
-    "bankCode": "AU",
+    "bankCode": "TLFR",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "TLFRAU32",
     "Bank Name": "THE TRUSTEE FOR LAMMINAA FOUNDERS TRUST",
@@ -2004,8 +2004,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLIM",
-    "bankCode": "AU",
+    "bankCode": "TLIM",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "TLIMAU22",
     "Bank Name": "THIRD LINK INVESTMENT MANAGERS PTY LIMITED",
@@ -2017,8 +2017,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOPT",
-    "bankCode": "AU",
+    "bankCode": "TOPT",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "TOPTAU42",
     "Bank Name": "TOR FX PTY LIMITED",
@@ -2030,8 +2030,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRNB",
-    "bankCode": "AU",
+    "bankCode": "TRNB",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "TRNBAU33",
     "Bank Name": "TRANSURBAN LIMITED",
@@ -2043,8 +2043,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGHP",
-    "bankCode": "AU",
+    "bankCode": "TGHP",
+    "countryCode": "AU",
     "branchCode": "U66",
     "SWIFT Code": "TGHPAU66",
     "Bank Name": "TRONOX GLOBAL HOLDINGS PTY LIMITED",
@@ -2056,8 +2056,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "AU",
+    "bankCode": "UBSW",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "UBSWAU2S",
     "Bank Name": "UBS AG AUSTRALIA BRANCH",
@@ -2069,8 +2069,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "AU",
+    "bankCode": "UBSW",
+    "countryCode": "AU",
     "branchCode": "FOA",
     "SWIFT Code": "UBSWAU2SFOA",
     "Bank Name": "UBS AG AUSTRALIA BRANCH",
@@ -2082,8 +2082,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "AU",
+    "bankCode": "UBSW",
+    "countryCode": "AU",
     "branchCode": "SCI",
     "SWIFT Code": "UBSWAU2SSCI",
     "Bank Name": "UBS AG AUSTRALIA BRANCH",
@@ -2095,8 +2095,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "AU",
+    "bankCode": "UBSW",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "UBSWAU2SOBU",
     "Bank Name": "UBS AG AUSTRALIA BRANCH",
@@ -2108,8 +2108,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "AU",
+    "bankCode": "UBSW",
+    "countryCode": "AU",
     "branchCode": "WMA",
     "SWIFT Code": "UBSWAU2SWMA",
     "Bank Name": "UBS AG AUSTRALIA BRANCH",
@@ -2121,8 +2121,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBIN",
-    "bankCode": "AU",
+    "bankCode": "UBIN",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "UBINAU2S",
     "Bank Name": "UNION BANK OF INDIA",
@@ -2134,8 +2134,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNMA",
-    "bankCode": "AU",
+    "bankCode": "UNMA",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "UNMAAU3M",
     "Bank Name": "UNISUPER LIMITED",
@@ -2147,8 +2147,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "AU",
+    "bankCode": "UOVB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "UOVBAU2S",
     "Bank Name": "UNITED OVERSEAS BANK LTD.",
@@ -2160,8 +2160,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VGRD",
-    "bankCode": "AU",
+    "bankCode": "VGRD",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "VGRDAU3M",
     "Bank Name": "VANGUARD INVESTMENTS AUSTRALIA LTD",
@@ -2173,8 +2173,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VMAP",
-    "bankCode": "AU",
+    "bankCode": "VMAP",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "VMAPAU42",
     "Bank Name": "VIRGIN MONEY (AUSTRALIA) PTY LTD",
@@ -2186,8 +2186,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VLLT",
-    "bankCode": "AU",
+    "bankCode": "VLLT",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "VLLTAU22",
     "Bank Name": "VOLT BANK LIMITED",
@@ -2199,8 +2199,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WMAL",
-    "bankCode": "AU",
+    "bankCode": "WMAL",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "WMALAU2S",
     "Bank Name": "WEIR MINERALS AUSTRALIA LIMITED",
@@ -2212,8 +2212,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEFF",
-    "bankCode": "AU",
+    "bankCode": "WEFF",
+    "countryCode": "AU",
     "branchCode": "U6P",
     "SWIFT Code": "WEFFAU6P",
     "Bank Name": "WESFARMERS LIMITED",
@@ -2225,8 +2225,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "AU",
+    "bankCode": "WPAC",
+    "countryCode": "AU",
     "branchCode": "U2F",
     "SWIFT Code": "WPACAU2F",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -2238,8 +2238,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "AU",
+    "bankCode": "WPAC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "WPACAU2S",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -2251,8 +2251,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "AU",
+    "bankCode": "WPAC",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "WPACAU2FOBU",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -2264,8 +2264,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "AU",
+    "bankCode": "WPAC",
+    "countryCode": "AU",
     "branchCode": "USR",
     "SWIFT Code": "WPACAUSR",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -2277,8 +2277,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIPT",
-    "bankCode": "AU",
+    "bankCode": "WIPT",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "WIPTAU2S",
     "Bank Name": "WINDCAVE PTY. LIMITED",
@@ -2290,8 +2290,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIAY",
-    "bankCode": "AU",
+    "bankCode": "WIAY",
+    "countryCode": "AU",
     "branchCode": "U2A",
     "SWIFT Code": "WIAYAU2A",
     "Bank Name": "WISE AUSTRALIA PTY LIMITED",
@@ -2303,8 +2303,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOPE",
-    "bankCode": "AU",
+    "bankCode": "WOPE",
+    "countryCode": "AU",
     "branchCode": "U6P",
     "SWIFT Code": "WOPEAU6P",
     "Bank Name": "WOODSIDE ENERGY GROUP LTD",
@@ -2316,8 +2316,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOPE",
-    "bankCode": "AU",
+    "bankCode": "WOPE",
+    "countryCode": "AU",
     "branchCode": "SAP",
     "SWIFT Code": "WOPEAU6PSAP",
     "Bank Name": "WOODSIDE ENERGY GROUP LTD",
@@ -2329,8 +2329,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOPE",
-    "bankCode": "AU",
+    "bankCode": "WOPE",
+    "countryCode": "AU",
     "branchCode": "TRY",
     "SWIFT Code": "WOPEAU6PTRY",
     "Bank Name": "WOODSIDE ENERGY GROUP LTD",
@@ -2342,8 +2342,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "AU",
+    "bankCode": "HVBK",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "HVBKAU2S",
     "Bank Name": "WOORI BANK SYDNEY BRANCH",
@@ -2355,8 +2355,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XINJ",
-    "bankCode": "AU",
+    "bankCode": "XINJ",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "XINJAU22",
     "Bank Name": "XINJA BANK LTD",
@@ -2368,8 +2368,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEAU",
-    "bankCode": "AU",
+    "bankCode": "ZEAU",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "ZEAUAU32",
     "Bank Name": "ZELLER AUSTRALIA PTY LTD",
@@ -2381,8 +2381,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPPY",
-    "bankCode": "AU",
+    "bankCode": "SPPY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "SPPYAU22",
     "Bank Name": "ZEPTO PAYMENTS PTY LTD",
@@ -2394,8 +2394,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "SWC",
     "SWIFT Code": "ASLLAU2CSWC",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -2407,8 +2407,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "IMB",
     "SWIFT Code": "ASLLAU2CIMB",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -2420,8 +2420,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUSY",
-    "bankCode": "AU",
+    "bankCode": "AUSY",
+    "countryCode": "AU",
     "branchCode": "U34",
     "SWIFT Code": "AUSYAU34",
     "Bank Name": "AUSTRALIANSUPER PTY LTD",
@@ -2433,8 +2433,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUSY",
-    "bankCode": "AU",
+    "bankCode": "AUSY",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "AUSYAU33",
     "Bank Name": "AUSTRALIANSUPER PTY LTD AS TRUSTEE FOR AUSTRALIANSUPER",
@@ -2446,8 +2446,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSST",
-    "bankCode": "AU",
+    "bankCode": "FSST",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "FSSTAU2S",
     "Bank Name": "AWARE SUPER PTY LTD",
@@ -2459,8 +2459,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXPT",
-    "bankCode": "AU",
+    "bankCode": "AXPT",
+    "countryCode": "AU",
     "branchCode": "U4A",
     "SWIFT Code": "AXPTAU4A",
     "Bank Name": "AXIS IP PTY LTD",
@@ -2472,8 +2472,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTP",
-    "bankCode": "AU",
+    "bankCode": "AZTP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "AZTPAU22",
     "Bank Name": "AZUPAY TRADING PTY LTD",
@@ -2485,8 +2485,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "AU",
+    "bankCode": "BOFA",
+    "countryCode": "AU",
     "branchCode": "SAL",
     "SWIFT Code": "BOFAAUSXSAL",
     "Bank Name": "BANK OF AMERICA, N.A. SYDNEY",
@@ -2498,8 +2498,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "AU",
+    "bankCode": "BOFA",
+    "countryCode": "AU",
     "branchCode": "USX",
     "SWIFT Code": "BOFAAUSX",
     "Bank Name": "BANK OF AMERICA, N.A. SYDNEY",
@@ -2511,8 +2511,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AU",
+    "bankCode": "BARB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BARBAU2S",
     "Bank Name": "BANK OF BARODA",
@@ -2524,8 +2524,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "MEL",
     "SWIFT Code": "BKCHAU2SMEL",
     "Bank Name": "BANK OF CHINA",
@@ -2537,8 +2537,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "HMB",
     "SWIFT Code": "BKCHAU2SHMB",
     "Bank Name": "BANK OF CHINA",
@@ -2550,8 +2550,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "ADL",
     "SWIFT Code": "BKCHAU2AADL",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2563,8 +2563,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "SUN",
     "SWIFT Code": "BKCHAU2ASUN",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2576,8 +2576,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BRI",
     "SWIFT Code": "BKCHAU2ABRI",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2589,8 +2589,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "MON",
     "SWIFT Code": "BKCHAU2AMON",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2602,8 +2602,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "MLC",
     "SWIFT Code": "BKCHAU2AMLC",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2615,8 +2615,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BXH",
     "SWIFT Code": "BKCHAU2ABXH",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2628,8 +2628,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "MEL",
     "SWIFT Code": "BKCHAU2AMEL",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2641,8 +2641,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "PTH",
     "SWIFT Code": "BKCHAU2APTH",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2654,8 +2654,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "U2A",
     "SWIFT Code": "BKCHAU2A",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2667,8 +2667,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BWD",
     "SWIFT Code": "BKCHAU2ABWD",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2680,8 +2680,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "NPP",
     "SWIFT Code": "BKCHAU2ANPP",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2693,8 +2693,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BKG",
     "SWIFT Code": "BKCHAU2ABKG",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2706,8 +2706,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "CWD",
     "SWIFT Code": "BKCHAU2ACWD",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2719,8 +2719,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "HMB",
     "SWIFT Code": "BKCHAU2AHMB",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2732,8 +2732,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "HSV",
     "SWIFT Code": "BKCHAU2AHSV",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2745,8 +2745,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "PAR",
     "SWIFT Code": "BKCHAU2APAR",
     "Bank Name": "BANK OF CHINA (AUSTRALIA) LIMITED",
@@ -2758,8 +2758,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "ADL",
     "SWIFT Code": "BKCHAU2SADL",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2771,8 +2771,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "SUN",
     "SWIFT Code": "BKCHAU2SSUN",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2784,8 +2784,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BRI",
     "SWIFT Code": "BKCHAU2SBRI",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2797,8 +2797,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "MON",
     "SWIFT Code": "BKCHAU2SMON",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2810,8 +2810,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "MLC",
     "SWIFT Code": "BKCHAU2SMLC",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2823,8 +2823,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BXH",
     "SWIFT Code": "BKCHAU2SBXH",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2836,8 +2836,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "PTH",
     "SWIFT Code": "BKCHAU2SPTH",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2849,8 +2849,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BKCHAU2S",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2862,8 +2862,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "ACC",
     "SWIFT Code": "BKCHAU2SACC",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2875,8 +2875,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BWD",
     "SWIFT Code": "BKCHAU2SBWD",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2888,8 +2888,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "NPP",
     "SWIFT Code": "BKCHAU2SNPP",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2901,8 +2901,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BKG",
     "SWIFT Code": "BKCHAU2SBKG",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2914,8 +2914,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "BLS",
     "SWIFT Code": "BKCHAU2SBLS",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2927,8 +2927,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "CWD",
     "SWIFT Code": "BKCHAU2SCWD",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2940,8 +2940,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "FEX",
     "SWIFT Code": "BKCHAU2SFEX",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2953,8 +2953,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "HSV",
     "SWIFT Code": "BKCHAU2SHSV",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2966,8 +2966,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "BKCHAU2SOBU",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2979,8 +2979,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "PAR",
     "SWIFT Code": "BKCHAU2SPAR",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -2992,8 +2992,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AU",
+    "bankCode": "BKCH",
+    "countryCode": "AU",
     "branchCode": "RMD",
     "SWIFT Code": "BKCHAU2SRMD",
     "Bank Name": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
@@ -3005,8 +3005,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "AU",
+    "bankCode": "COMM",
+    "countryCode": "AU",
     "branchCode": "BRI",
     "SWIFT Code": "COMMAU2SBRI",
     "Bank Name": "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH",
@@ -3018,8 +3018,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "AU",
+    "bankCode": "COMM",
+    "countryCode": "AU",
     "branchCode": "MEL",
     "SWIFT Code": "COMMAU2SMEL",
     "Bank Name": "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH",
@@ -3031,8 +3031,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "AU",
+    "bankCode": "COMM",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "COMMAU2S",
     "Bank Name": "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH",
@@ -3044,8 +3044,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSBK",
-    "bankCode": "AU",
+    "bankCode": "RSBK",
+    "countryCode": "AU",
     "branchCode": "UYX",
     "SWIFT Code": "RSBKAUYX",
     "Bank Name": "RESERVE BANK OF AUSTRALIA",
@@ -3057,8 +3057,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSBK",
-    "bankCode": "AU",
+    "bankCode": "RSBK",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "RSBKAU2S",
     "Bank Name": "RESERVE BANK OF AUSTRALIA",
@@ -3070,8 +3070,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "AU",
+    "bankCode": "REVO",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "REVOAU32",
     "Bank Name": "REVOLUT PAYMENTS AUSTRALIA PTY LTD",
@@ -3083,8 +3083,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFSU",
-    "bankCode": "AU",
+    "bankCode": "RFSU",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "RFSUAU22",
     "Bank Name": "RIA FINANCIAL SERVICES AUSTRALIA PTY. LTD.",
@@ -3096,8 +3096,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROCY",
-    "bankCode": "AU",
+    "bankCode": "ROCY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "ROCYAU22",
     "Bank Name": "ROCHFORD CAPITAL PTY",
@@ -3109,8 +3109,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "AU",
+    "bankCode": "ROYC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ROYCAU2S",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -3122,8 +3122,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPY",
-    "bankCode": "AU",
+    "bankCode": "RUPY",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "RUPYAUS2",
     "Bank Name": "RUIZEAN PTY LTD",
@@ -3135,8 +3135,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "AU",
+    "bankCode": "SWHQ",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SWHQAU2S",
     "Bank Name": "S.W.I.F.T.(FAR EAST) LTD. AUSTRALIA",
@@ -3148,8 +3148,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEYT",
-    "bankCode": "AU",
+    "bankCode": "SEYT",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "SEYTAU42",
     "Bank Name": "SENDFX PTY LTD",
@@ -3161,8 +3161,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "AU",
+    "bankCode": "SHBK",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SHBKAU2S",
     "Bank Name": "SHINHAN BANK CO., LTD",
@@ -3174,8 +3174,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMST",
-    "bankCode": "AU",
+    "bankCode": "SMST",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "SMSTAU42",
     "Bank Name": "SMARTITUDE SOLUTIONS PTY LTD",
@@ -3187,8 +3187,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEWG",
-    "bankCode": "AU",
+    "bankCode": "NEWG",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "NEWGAU2S",
     "Bank Name": "SOCIETE GENERALE SECURITIES AUSTRALIA PTY LTD",
@@ -3200,8 +3200,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "AU",
+    "bankCode": "SOGE",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SOGEAU2S",
     "Bank Name": "SOCIETE GENERALE SYDNEY BRANCH",
@@ -3213,8 +3213,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STHH",
-    "bankCode": "AU",
+    "bankCode": "STHH",
+    "countryCode": "AU",
     "branchCode": "U4B",
     "SWIFT Code": "STHHAU4B",
     "Bank Name": "SOUTH32 LIMITED",
@@ -3226,8 +3226,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STHH",
-    "bankCode": "AU",
+    "bankCode": "STHH",
+    "countryCode": "AU",
     "branchCode": "045",
     "SWIFT Code": "STHHAU4B045",
     "Bank Name": "SOUTH32 LIMITED",
@@ -3239,8 +3239,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STHH",
-    "bankCode": "AU",
+    "bankCode": "STHH",
+    "countryCode": "AU",
     "branchCode": "902",
     "SWIFT Code": "STHHAU4B902",
     "Bank Name": "SOUTH32 LIMITED",
@@ -3252,8 +3252,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STHH",
-    "bankCode": "AU",
+    "bankCode": "STHH",
+    "countryCode": "AU",
     "branchCode": "771",
     "SWIFT Code": "STHHAU4B771",
     "Bank Name": "SOUTH32 LIMITED",
@@ -3265,8 +3265,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCDU",
-    "bankCode": "AU",
+    "bankCode": "SCDU",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "SCDUAU22",
     "Bank Name": "SOUTHERN CROSS CREDIT UNION LTD",
@@ -3278,8 +3278,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOUW",
-    "bankCode": "AU",
+    "bankCode": "SOUW",
+    "countryCode": "AU",
     "branchCode": "U52",
     "SWIFT Code": "SOUWAU52",
     "Bank Name": "SOUTHWESTERN PTY LTD",
@@ -3291,8 +3291,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPPY",
-    "bankCode": "AU",
+    "bankCode": "SPPY",
+    "countryCode": "AU",
     "branchCode": "U2A",
     "SWIFT Code": "SPPYAU2A",
     "Bank Name": "SPLIT PAYMENTS PTY LTD",
@@ -3304,8 +3304,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SQPT",
-    "bankCode": "AU",
+    "bankCode": "SQPT",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "SQPTAU22",
     "Bank Name": "SQUARE AU PTY LIMITED",
@@ -3317,8 +3317,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDP",
-    "bankCode": "AU",
+    "bankCode": "SPDP",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "SPDPAU32",
     "Bank Name": "SQUARE PEG ADVISORS PTY LTD",
@@ -3330,8 +3330,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSPR",
-    "bankCode": "AU",
+    "bankCode": "GSPR",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "GSPRAU42",
     "Bank Name": "SR GLOBAL SOLUTIONS PTY LTD TRADING AS MERCHANT WARRIOR",
@@ -3343,8 +3343,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGBL",
-    "bankCode": "AU",
+    "bankCode": "SGBL",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SGBLAU2S",
     "Bank Name": "ST.GEORGE BANK, A DIVISION OF WESTPAC BANKING CORPORATION",
@@ -3356,8 +3356,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AU",
+    "bankCode": "SCBL",
+    "countryCode": "AU",
     "branchCode": "TSY",
     "SWIFT Code": "SCBLAU2STSY",
     "Bank Name": "STANDARD CHARTERED BANK, AUSTRALIA",
@@ -3369,8 +3369,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AU",
+    "bankCode": "SCBL",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SCBLAU2S",
     "Bank Name": "STANDARD CHARTERED BANK, AUSTRALIA",
@@ -3382,8 +3382,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "AU",
+    "bankCode": "SBIN",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SBINAU2S",
     "Bank Name": "STATE BANK OF INDIA",
@@ -3395,8 +3395,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSAL",
-    "bankCode": "AU",
+    "bankCode": "SSAL",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "SSALAU2X",
     "Bank Name": "STATE STREET AUSTRALIA LIMITED",
@@ -3408,8 +3408,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "AU",
+    "bankCode": "SBOS",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "SBOSAU2X",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH",
@@ -3421,8 +3421,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "AU",
+    "bankCode": "SBOS",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "SBOSAU2XOBU",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH",
@@ -3434,8 +3434,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTY",
-    "bankCode": "AU",
+    "bankCode": "STTY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "STTYAU22",
     "Bank Name": "STROPRO OPERATIONS PTY LTD",
@@ -3447,8 +3447,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "AU",
+    "bankCode": "SMBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "SMBCAU2S",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION SYDNEY BRANCH",
@@ -3460,8 +3460,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METW",
-    "bankCode": "AU",
+    "bankCode": "METW",
+    "countryCode": "AU",
     "branchCode": "U4B",
     "SWIFT Code": "METWAU4B",
     "Bank Name": "SUNCORP-METWAY LIMITED",
@@ -3473,8 +3473,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METW",
-    "bankCode": "AU",
+    "bankCode": "METW",
+    "countryCode": "AU",
     "branchCode": "FCS",
     "SWIFT Code": "METWAU4BFCS",
     "Bank Name": "SUNCORP-METWAY LIMITED",
@@ -3486,8 +3486,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METW",
-    "bankCode": "AU",
+    "bankCode": "METW",
+    "countryCode": "AU",
     "branchCode": "TSY",
     "SWIFT Code": "METWAU4BTSY",
     "Bank Name": "SUNCORP-METWAY LIMITED",
@@ -3499,8 +3499,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "AU",
+    "bankCode": "TSIB",
+    "countryCode": "AU",
     "branchCode": "U44",
     "SWIFT Code": "TSIBAU44",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO., LTD",
@@ -3512,8 +3512,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "AU",
+    "bankCode": "MBBT",
+    "countryCode": "AU",
     "branchCode": "BRI",
     "SWIFT Code": "MBBTAU2SBRI",
     "Bank Name": "TAIWAN BUSINESS BANK, SYDNEY BRANCH",
@@ -3525,8 +3525,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "AU",
+    "bankCode": "MBBT",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "MBBTAU2S",
     "Bank Name": "TAIWAN BUSINESS BANK, SYDNEY BRANCH",
@@ -3538,8 +3538,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "AU",
+    "bankCode": "TACB",
+    "countryCode": "AU",
     "branchCode": "996",
     "SWIFT Code": "TACBAU2S996",
     "Bank Name": "TAIWAN COOPERATIVE BANK, LTD. SYDNEY BRANCH",
@@ -3551,8 +3551,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "AU",
+    "bankCode": "TACB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "TACBAU2S",
     "Bank Name": "TAIWAN COOPERATIVE BANK, LTD. SYDNEY BRANCH",
@@ -3564,8 +3564,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAEM",
-    "bankCode": "AU",
+    "bankCode": "TAEM",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "TAEMAU32",
     "Bank Name": "TALARIA ASSET MANAGEMENT PTY LTD",
@@ -3577,8 +3577,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACY",
-    "bankCode": "AU",
+    "bankCode": "TACY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "TACYAU22",
     "Bank Name": "TANARRA CAPITAL AUSTRALIA PTY LTD",
@@ -3590,8 +3590,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAPY",
-    "bankCode": "AU",
+    "bankCode": "TAPY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "TAPYAU22",
     "Bank Name": "TAT FX PTY LTD",
@@ -3603,8 +3603,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLSC",
-    "bankCode": "AU",
+    "bankCode": "TLSC",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "TLSCAU33",
     "Bank Name": "TELSTRA CORPORATION LIMITED",
@@ -3616,8 +3616,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSUP",
-    "bankCode": "AU",
+    "bankCode": "TSUP",
+    "countryCode": "AU",
     "branchCode": "U3B",
     "SWIFT Code": "TSUPAU3B",
     "Bank Name": "TELSTRA SUPER PTY LTD",
@@ -3629,8 +3629,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "AU",
+    "bankCode": "BNYM",
+    "countryCode": "AU",
     "branchCode": "CTA",
     "SWIFT Code": "BNYMAU2SCTA",
     "Bank Name": "THE BANK OF NEW YORK MELLON, AUSTRALIA",
@@ -3642,8 +3642,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "AU",
+    "bankCode": "BNYM",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BNYMAU2S",
     "Bank Name": "THE BANK OF NEW YORK MELLON, AUSTRALIA",
@@ -3655,8 +3655,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "AU",
+    "bankCode": "BNYM",
+    "countryCode": "AU",
     "branchCode": "CCM",
     "SWIFT Code": "BNYMAU2SCCM",
     "Bank Name": "THE BANK OF NEW YORK MELLON, AUSTRALIA",
@@ -3668,8 +3668,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "AU",
+    "bankCode": "NOSC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "NOSCAU2S",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3681,8 +3681,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "AU",
+    "bankCode": "HSBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "HSBCAU2S",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -3694,8 +3694,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "FXX",
     "SWIFT Code": "AMCIAU2XFXX",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3707,8 +3707,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "DTM",
     "SWIFT Code": "AMCIAU2XDTM",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3720,8 +3720,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "DTP",
     "SWIFT Code": "AMCIAU2XDTP",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3733,8 +3733,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "PSW",
     "SWIFT Code": "AMCIAU2XPSW",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3746,8 +3746,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "STM",
     "SWIFT Code": "AMCIAU2XSTM",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3759,8 +3759,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "STD",
     "SWIFT Code": "AMCIAU2XSTD",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3772,8 +3772,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "INS",
     "SWIFT Code": "AMCIAU2XINS",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3785,8 +3785,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "DNM",
     "SWIFT Code": "AMCIAU2XDNM",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3798,8 +3798,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "DNC",
     "SWIFT Code": "AMCIAU2XDNC",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3811,8 +3811,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCI",
-    "bankCode": "AU",
+    "bankCode": "AMCI",
+    "countryCode": "AU",
     "branchCode": "RBT",
     "SWIFT Code": "AMCIAU2XRBT",
     "Bank Name": "NATIONAL MUTUAL FUNDS MANAGEMENT LTD",
@@ -3824,8 +3824,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSWR",
-    "bankCode": "AU",
+    "bankCode": "NSWR",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "NSWRAU2S",
     "Bank Name": "NEW SOUTH WALES TREASURY CORPORATION",
@@ -3837,8 +3837,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXP",
-    "bankCode": "AU",
+    "bankCode": "NEXP",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "NEXPAU32",
     "Bank Name": "NEXT PAYMENTS PTY LTD",
@@ -3850,8 +3850,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOAU",
-    "bankCode": "AU",
+    "bankCode": "NOAU",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "NOAUAU2S",
     "Bank Name": "NOMURA AUSTRALIA LIMITED",
@@ -3863,8 +3863,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACF",
-    "bankCode": "AU",
+    "bankCode": "NACF",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "NACFAU2S",
     "Bank Name": "NONGHYUP BANK SYDNEY BRANCH",
@@ -3876,8 +3876,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NPPA",
-    "bankCode": "AU",
+    "bankCode": "NPPA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "NPPAAU2S",
     "Bank Name": "NPP AUSTRALIA LIMITED",
@@ -3889,8 +3889,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPUP",
-    "bankCode": "AU",
+    "bankCode": "OPUP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "OPUPAU22",
     "Bank Name": "ONE POINT UNIVERSAL PTY LTD",
@@ -3902,8 +3902,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCMY",
-    "bankCode": "AU",
+    "bankCode": "OCMY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "OCMYAU22",
     "Bank Name": "OPAL CAPITAL MANAGEMENT PTY LTD",
@@ -3915,8 +3915,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORIC",
-    "bankCode": "AU",
+    "bankCode": "ORIC",
+    "countryCode": "AU",
     "branchCode": "U33",
     "SWIFT Code": "ORICAU33",
     "Bank Name": "ORICA LIMITED",
@@ -3928,8 +3928,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "AU",
+    "bankCode": "OCBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "OCBCAU2S",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
@@ -3941,8 +3941,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OZFX",
-    "bankCode": "AU",
+    "bankCode": "OZFX",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "OZFXAU2S",
     "Bank Name": "OZFOREX LIMITED",
@@ -3954,8 +3954,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WHTE",
-    "bankCode": "AU",
+    "bankCode": "WHTE",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "WHTEAU2S",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -3967,8 +3967,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "LFSPAU22",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -3980,8 +3980,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "ACP",
     "SWIFT Code": "LFSPAU22ACP",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -3993,8 +3993,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "FOR",
     "SWIFT Code": "LFSPAU22FOR",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4006,8 +4006,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "MAN",
     "SWIFT Code": "LFSPAU22MAN",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4019,8 +4019,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "OIN",
     "SWIFT Code": "LFSPAU22OIN",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4032,8 +4032,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "OPH",
     "SWIFT Code": "LFSPAU22OPH",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4045,8 +4045,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "OPT",
     "SWIFT Code": "LFSPAU22OPT",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4058,8 +4058,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "PAR",
     "SWIFT Code": "LFSPAU22PAR",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4071,8 +4071,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "VIN",
     "SWIFT Code": "LFSPAU22VIN",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4084,8 +4084,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFSP",
-    "bankCode": "AU",
+    "bankCode": "LFSP",
+    "countryCode": "AU",
     "branchCode": "WAT",
     "SWIFT Code": "LFSPAU22WAT",
     "Bank Name": "PACIFIC CUSTODIANS PTY LIMITED",
@@ -4097,8 +4097,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PATH",
-    "bankCode": "AU",
+    "bankCode": "PATH",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "PATHAU22",
     "Bank Name": "PAYNOW TECHNOLOGY PTY LTD",
@@ -4110,8 +4110,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYYO",
-    "bankCode": "AU",
+    "bankCode": "PYYO",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "PYYOAU22",
     "Bank Name": "PAYTRON",
@@ -4123,8 +4123,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFPT",
-    "bankCode": "AU",
+    "bankCode": "PFPT",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "PFPTAU22",
     "Bank Name": "PELLA FUNDS PTY LIMITED",
@@ -4136,8 +4136,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEGP",
-    "bankCode": "AU",
+    "bankCode": "PEGP",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "PEGPAU2S",
     "Bank Name": "PEPPER MONEY LIMITED",
@@ -4149,8 +4149,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEVM",
-    "bankCode": "AU",
+    "bankCode": "PEVM",
+    "countryCode": "AU",
     "branchCode": "U2B",
     "SWIFT Code": "PEVMAU2B",
     "Bank Name": "PERENNIAL VALUE MANAGEMENT LIMITED",
@@ -4162,8 +4162,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGHY",
-    "bankCode": "AU",
+    "bankCode": "TGHY",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "TGHYAU3M",
     "Bank Name": "PEXA GROUP LIMITED",
@@ -4175,8 +4175,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFFP",
-    "bankCode": "AU",
+    "bankCode": "PFFP",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "PFFPAU32",
     "Bank Name": "PFG FOREX PTY LTD",
@@ -4188,8 +4188,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLIA",
-    "bankCode": "AU",
+    "bankCode": "PLIA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "PLIAAU2S",
     "Bank Name": "PLATINUM ASSET MANAGEMENT",
@@ -4201,8 +4201,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPAP",
-    "bankCode": "AU",
+    "bankCode": "PPAP",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "PPAPAU32",
     "Bank Name": "POLI PAYMENTS PTY LTD",
@@ -4214,8 +4214,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QGSP",
-    "bankCode": "AU",
+    "bankCode": "QGSP",
+    "countryCode": "AU",
     "branchCode": "U2A",
     "SWIFT Code": "QGSPAU2A",
     "Bank Name": "QBE GROUP SERVICES",
@@ -4227,8 +4227,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QGSP",
-    "bankCode": "AU",
+    "bankCode": "QGSP",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "QGSPAU2S",
     "Bank Name": "QBE GROUP SERVICES PTY LTD",
@@ -4240,8 +4240,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QICB",
-    "bankCode": "AU",
+    "bankCode": "QICB",
+    "countryCode": "AU",
     "branchCode": "U44",
     "SWIFT Code": "QICBAU44",
     "Bank Name": "QIC LIMITED",
@@ -4253,8 +4253,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QLDT",
-    "bankCode": "AU",
+    "bankCode": "QLDT",
+    "countryCode": "AU",
     "branchCode": "U4B",
     "SWIFT Code": "QLDTAU4B",
     "Bank Name": "QUEENSLAND TREASURY CORPORATION",
@@ -4266,8 +4266,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "AU",
+    "bankCode": "RABO",
+    "countryCode": "AU",
     "branchCode": "USS",
     "SWIFT Code": "RABOAUSS",
     "Bank Name": "RABOBANK AUSTRALIA BRANCH",
@@ -4279,8 +4279,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "AU",
+    "bankCode": "RABO",
+    "countryCode": "AU",
     "branchCode": "U2B",
     "SWIFT Code": "RABOAU2B",
     "Bank Name": "RABOBANK AUSTRALIA LIMITED (FORMERLY PIBA)",
@@ -4292,8 +4292,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REIY",
-    "bankCode": "AU",
+    "bankCode": "REIY",
+    "countryCode": "AU",
     "branchCode": "U42",
     "SWIFT Code": "REIYAU42",
     "Bank Name": "REMINISCENT CAPITAL PTY LIMITED",
@@ -4305,8 +4305,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSBK",
-    "bankCode": "AU",
+    "bankCode": "RSBK",
+    "countryCode": "AU",
     "branchCode": "USR",
     "SWIFT Code": "RSBKAUSR",
     "Bank Name": "RESERVE BANK OF AUSTRALIA",
@@ -4318,8 +4318,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSBK",
-    "bankCode": "AU",
+    "bankCode": "RSBK",
+    "countryCode": "AU",
     "branchCode": "UYZ",
     "SWIFT Code": "RSBKAUYZ",
     "Bank Name": "RESERVE BANK OF AUSTRALIA",
@@ -4331,8 +4331,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSBK",
-    "bankCode": "AU",
+    "bankCode": "RSBK",
+    "countryCode": "AU",
     "branchCode": "UYY",
     "SWIFT Code": "RSBKAUYY",
     "Bank Name": "RESERVE BANK OF AUSTRALIA",
@@ -4344,8 +4344,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QBAN",
-    "bankCode": "AU",
+    "bankCode": "QBAN",
+    "countryCode": "AU",
     "branchCode": "U4B",
     "SWIFT Code": "QBANAU4B",
     "Bank Name": "BANK OF QUEENSLAND LTD.",
@@ -4357,8 +4357,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEQB",
-    "bankCode": "AU",
+    "bankCode": "MEQB",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "MEQBAU3M",
     "Bank Name": "BANK OF QUEENSLAND LTD.",
@@ -4370,8 +4370,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIKI",
-    "bankCode": "AU",
+    "bankCode": "LIKI",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "LIKIAU2S",
     "Bank Name": "BANK OF SYDNEY LTD",
@@ -4383,8 +4383,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "AU",
+    "bankCode": "BKTW",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "BKTWAUS2",
     "Bank Name": "BANK OF TAIWAN",
@@ -4396,8 +4396,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKWA",
-    "bankCode": "AU",
+    "bankCode": "BKWA",
+    "countryCode": "AU",
     "branchCode": "U6P",
     "SWIFT Code": "BKWAAU6P",
     "Bank Name": "BANKWEST A DIVISION OF COMMONWEALTH BANK OF AUSTRALIA",
@@ -4409,8 +4409,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNOP",
-    "bankCode": "AU",
+    "bankCode": "BNOP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "BNOPAU22",
     "Bank Name": "BANO PTY LTD",
@@ -4422,8 +4422,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "AU",
+    "bankCode": "BARC",
+    "countryCode": "AU",
     "branchCode": "USS",
     "SWIFT Code": "BARCAUSS",
     "Bank Name": "BARCLAYS BANK PLC AUSTRALIA BRANCH",
@@ -4435,8 +4435,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRJY",
-    "bankCode": "AU",
+    "bankCode": "BRJY",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BRJYAU2S",
     "Bank Name": "BARRENJOEY MARKETS PTY LIMITED",
@@ -4448,8 +4448,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAY",
-    "bankCode": "AU",
+    "bankCode": "BAAY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "BAAYAU22",
     "Bank Name": "BARRENJOEY MARKETS PTY LIMITED",
@@ -4461,8 +4461,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOTP",
-    "bankCode": "AU",
+    "bankCode": "JOTP",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "JOTPAU32",
     "Bank Name": "BELL POTTER SECURITIES",
@@ -4474,8 +4474,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEND",
-    "bankCode": "AU",
+    "bankCode": "BEND",
+    "countryCode": "AU",
     "branchCode": "U3B",
     "SWIFT Code": "BENDAU3B",
     "Bank Name": "BENDIGO AND ADELAIDE BANK LIMITED",
@@ -4487,8 +4487,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPYY",
-    "bankCode": "AU",
+    "bankCode": "BPYY",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BPYYAU2S",
     "Bank Name": "BERHERO PTY. LIMITED",
@@ -4500,8 +4500,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPYY",
-    "bankCode": "AU",
+    "bankCode": "BPYY",
+    "countryCode": "AU",
     "branchCode": "SLK",
     "SWIFT Code": "BPYYAU2SSLK",
     "Bank Name": "BERHERO PTY. LIMITED",
@@ -4513,8 +4513,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPYY",
-    "bankCode": "AU",
+    "bankCode": "BPYY",
+    "countryCode": "AU",
     "branchCode": "QLD",
     "SWIFT Code": "BPYYAU2SQLD",
     "Bank Name": "BERHERO PTY. LIMITED",
@@ -4526,8 +4526,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPYY",
-    "bankCode": "AU",
+    "bankCode": "BPYY",
+    "countryCode": "AU",
     "branchCode": "SGP",
     "SWIFT Code": "BPYYAU2SSGP",
     "Bank Name": "BERHERO PTY. LIMITED",
@@ -4539,8 +4539,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPYY",
-    "bankCode": "AU",
+    "bankCode": "BPYY",
+    "countryCode": "AU",
     "branchCode": "VUV",
     "SWIFT Code": "BPYYAU2SVUV",
     "Bank Name": "BERHERO PTY. LIMITED",
@@ -4552,8 +4552,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPYY",
-    "bankCode": "AU",
+    "bankCode": "BPYY",
+    "countryCode": "AU",
     "branchCode": "VNV",
     "SWIFT Code": "BPYYAU2SVNV",
     "Bank Name": "BERHERO PTY. LIMITED",
@@ -4565,8 +4565,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AU",
+    "bankCode": "BNPA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BNPAAU2S",
     "Bank Name": "BNP PARIBAS AUSTRALIA",
@@ -4578,8 +4578,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AU",
+    "bankCode": "BNPA",
+    "countryCode": "AU",
     "branchCode": "200",
     "SWIFT Code": "BNPAAU2S200",
     "Bank Name": "BNP PARIBAS AUSTRALIA",
@@ -4591,8 +4591,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AU",
+    "bankCode": "BNPA",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "BNPAAU2SOBU",
     "Bank Name": "BNP PARIBAS AUSTRALIA",
@@ -4604,8 +4604,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "PARBAU2S",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4617,8 +4617,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "NZL",
     "SWIFT Code": "PARBAU2SNZL",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4630,8 +4630,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "EUT",
     "SWIFT Code": "PARBAU2SEUT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4643,8 +4643,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "MAN",
     "SWIFT Code": "PARBAU2SMAN",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4656,8 +4656,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "IUT",
     "SWIFT Code": "PARBAU2SIUT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4669,8 +4669,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "PCL",
     "SWIFT Code": "PARBAU2SPCL",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4682,8 +4682,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "ZUT",
     "SWIFT Code": "PARBAU2SZUT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4695,8 +4695,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "MIO",
     "SWIFT Code": "PARBAU2SMIO",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4708,8 +4708,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "ISI",
     "SWIFT Code": "PARBAU2SISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4721,8 +4721,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "LCC",
     "SWIFT Code": "PARBAU2SLCC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4734,8 +4734,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "AU",
+    "bankCode": "PARB",
+    "countryCode": "AU",
     "branchCode": "MCY",
     "SWIFT Code": "PARBAU2SMCY",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, AUSTRALIA",
@@ -4747,8 +4747,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFG",
-    "bankCode": "AU",
+    "bankCode": "BTFG",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BTFGAU2S",
     "Bank Name": "BT PORTFOLIO SERVICES PTY LTD",
@@ -4760,8 +4760,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMAY",
-    "bankCode": "AU",
+    "bankCode": "CMAY",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CMAYAU2S",
     "Bank Name": "CAMBRIDGE MERCANTILE (AUSTRALIA) PTY. LTD.",
@@ -4773,8 +4773,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "AU",
+    "bankCode": "CIBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CIBCAU2S",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",
@@ -4786,8 +4786,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPTY",
-    "bankCode": "AU",
+    "bankCode": "CPTY",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CPTYAU2S",
     "Bank Name": "CAPROCK PTY LIMITED",
@@ -4799,8 +4799,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFMT",
-    "bankCode": "AU",
+    "bankCode": "CFMT",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CFMTAU22",
     "Bank Name": "CATALYST FUNDS MANAGEMENT PTY LTD",
@@ -4812,8 +4812,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBHG",
-    "bankCode": "AU",
+    "bankCode": "CBHG",
+    "countryCode": "AU",
     "branchCode": "U66",
     "SWIFT Code": "CBHGAU66",
     "Bank Name": "CBH GRAIN PTY LTD",
@@ -4825,8 +4825,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEEY",
-    "bankCode": "AU",
+    "bankCode": "CEEY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CEEYAU22",
     "Bank Name": "CEYLON EXCHANGE PTY LTD",
@@ -4838,8 +4838,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHLG",
-    "bankCode": "AU",
+    "bankCode": "CHLG",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CHLGAU2S",
     "Bank Name": "CHALLENGER GROUP SERVICES PTY LTD",
@@ -4851,8 +4851,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHSY",
-    "bankCode": "AU",
+    "bankCode": "CHSY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "CHSYAU22",
     "Bank Name": "CHAVAL PROPERTIES PTY LTD",
@@ -4864,8 +4864,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "AU",
+    "bankCode": "PCBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "PCBCAU2S",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION SYDNEY BRANCH",
@@ -4877,8 +4877,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "AU",
+    "bankCode": "PCBC",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "PCBCAU2SOBU",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION SYDNEY BRANCH",
@@ -4890,8 +4890,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "AU",
+    "bankCode": "EVER",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "EVERAU2S",
     "Bank Name": "CHINA EVERBRIGHT BANK CO., LTD.",
@@ -4903,8 +4903,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "AU",
+    "bankCode": "CMBC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CMBCAU2S",
     "Bank Name": "CHINA MERCHANTS BANK CO., LTD.",
@@ -4916,8 +4916,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "USX",
     "SWIFT Code": "CITIAUSX",
     "Bank Name": "CITIBANK N.A.",
@@ -4929,8 +4929,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "ONE",
     "SWIFT Code": "CITIAU3XONE",
     "Bank Name": "CITIBANK N.A.",
@@ -4942,8 +4942,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "ONE",
     "SWIFT Code": "CITIAU2XONE",
     "Bank Name": "CITIBANK N.A.",
@@ -4955,8 +4955,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "CITIAU2X",
     "Bank Name": "CITIBANK N.A.",
@@ -4968,8 +4968,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "U3X",
     "SWIFT Code": "CITIAU3X",
     "Bank Name": "CITIBANK N.A.",
@@ -4981,8 +4981,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AU",
+    "bankCode": "CITI",
+    "countryCode": "AU",
     "branchCode": "ICE",
     "SWIFT Code": "CITIAU2XICE",
     "Bank Name": "CITIBANK N.A.",
@@ -4994,8 +4994,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AU",
+    "bankCode": "ICBK",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ICBKAU2S",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SYDNEY BRANCH",
@@ -5007,8 +5007,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "AU",
+    "bankCode": "INGB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "INGBAU2S",
     "Bank Name": "ING BANK (AUSTRALIA) LIMITED",
@@ -5020,8 +5020,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGA",
-    "bankCode": "AU",
+    "bankCode": "INGA",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "INGAAU2S",
     "Bank Name": "ING BANK NV, SYDNEY BRANCH",
@@ -5033,8 +5033,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INPX",
-    "bankCode": "AU",
+    "bankCode": "INPX",
+    "countryCode": "AU",
     "branchCode": "U6P",
     "SWIFT Code": "INPXAU6P",
     "Bank Name": "INPEX OPERATIONS AUSTRALIA PTY LTD",
@@ -5046,8 +5046,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "AU",
+    "bankCode": "IBKR",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "IBKRAU2S",
     "Bank Name": "INTERACTIVE BROKERS AUSTRALIA PTY LTD",
@@ -5059,8 +5059,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INYY",
-    "bankCode": "AU",
+    "bankCode": "INYY",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "INYYAU22",
     "Bank Name": "INTERPAY PTY LIMITED",
@@ -5072,8 +5072,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "AU",
+    "bankCode": "BCIT",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "BCITAU2S",
     "Bank Name": "INTESA SANPAOLO SPA - SYDNEY BRANCH",
@@ -5085,8 +5085,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRES",
-    "bankCode": "AU",
+    "bankCode": "IRES",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "IRESAU2S",
     "Bank Name": "IRESS MARKET TECHNOLOGY LIMITED",
@@ -5098,8 +5098,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAP",
-    "bankCode": "AU",
+    "bankCode": "ISAP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "ISAPAU22",
     "Bank Name": "ISLAMIC BANK AUSTRALIA PTY LTD",
@@ -5111,8 +5111,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMA",
-    "bankCode": "AU",
+    "bankCode": "JPMA",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "JPMAAU2X",
     "Bank Name": "J.P. MORGAN SECURITIES AUSTRALIA LIMITED",
@@ -5124,8 +5124,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMA",
-    "bankCode": "AU",
+    "bankCode": "JPMA",
+    "countryCode": "AU",
     "branchCode": "SMM",
     "SWIFT Code": "JPMAAU2XSMM",
     "Bank Name": "J.P. MORGAN SECURITIES AUSTRALIA LIMITED",
@@ -5137,8 +5137,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAAP",
-    "bankCode": "AU",
+    "bankCode": "JAAP",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "JAAPAU22",
     "Bank Name": "JARDEN AUSTRALIA PTY LTD",
@@ -5150,8 +5150,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEFF",
-    "bankCode": "AU",
+    "bankCode": "JEFF",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "JEFFAU2X",
     "Bank Name": "JEFFERIES (AUSTRALIA) SECURITIES PTY LTD",
@@ -5163,8 +5163,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "DCC",
     "SWIFT Code": "CHASAU2XDCC",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5176,8 +5176,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "C20",
     "SWIFT Code": "CHASAU2XC20",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5189,8 +5189,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "C21",
     "SWIFT Code": "CHASAU2XC21",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5202,8 +5202,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "ETF",
     "SWIFT Code": "CHASAU2XETF",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5215,8 +5215,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "FAX",
     "SWIFT Code": "CHASAU2XFAX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5228,8 +5228,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "SHR",
     "SWIFT Code": "CHASAU2XSHR",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5241,8 +5241,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "VLT",
     "SWIFT Code": "CHASAU2XVLT",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5254,8 +5254,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "GSS",
     "SWIFT Code": "CHASAU2XGSS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5267,8 +5267,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "U2X",
     "SWIFT Code": "CHASAU2X",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5280,8 +5280,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "NBM",
     "SWIFT Code": "CHASAU2XNBM",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5293,8 +5293,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "ASP",
     "SWIFT Code": "CHASAU2XASP",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5306,8 +5306,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "CBU",
     "SWIFT Code": "CHASAU2XCBU",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5319,8 +5319,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "LCO",
     "SWIFT Code": "CHASAU2XLCO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5332,8 +5332,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "HES",
     "SWIFT Code": "CHASAU2XHES",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5345,8 +5345,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "SMM",
     "SWIFT Code": "CHASAU2XSMM",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5358,8 +5358,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "SPO",
     "SWIFT Code": "CHASAU2XSPO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5371,8 +5371,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "STO",
     "SWIFT Code": "CHASAU2XSTO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5384,8 +5384,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "TSD",
     "SWIFT Code": "CHASAU2XTSD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5397,8 +5397,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AU",
+    "bankCode": "CHAS",
+    "countryCode": "AU",
     "branchCode": "CCS",
     "SWIFT Code": "CHASAU2XCCS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SYDNEY BRANCH",
@@ -5410,8 +5410,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KACP",
-    "bankCode": "AU",
+    "bankCode": "KACP",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "KACPAU32",
     "Bank Name": "KARDINIA CAPITAL PTY LTD",
@@ -5423,8 +5423,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "AU",
+    "bankCode": "KOEX",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "KOEXAU2S",
     "Bank Name": "KEB HANA BANK SYDNEY BRANCH",
@@ -5436,8 +5436,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAAY",
-    "bankCode": "AU",
+    "bankCode": "LAAY",
+    "countryCode": "AU",
     "branchCode": "U52",
     "SWIFT Code": "LAAYAU52",
     "Bank Name": "LANYON ASSET MANAGEMENT PTY LIMITED",
@@ -5449,8 +5449,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LENF",
-    "bankCode": "AU",
+    "bankCode": "LENF",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "LENFAU2S",
     "Bank Name": "LENDLEASE FINANCE LIMITED",
@@ -5462,8 +5462,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRWM",
-    "bankCode": "AU",
+    "bankCode": "CRWM",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "CRWMAU2S",
     "Bank Name": "LGT CRESTONE WEALTH MANAGEMENT LIMITED",
@@ -5475,8 +5475,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMA",
-    "bankCode": "AU",
+    "bankCode": "MSMA",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "MSMAAU22",
     "Bank Name": "MA ASSET MANAGEMENT LTD",
@@ -5488,8 +5488,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "MACQAU2S",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5501,8 +5501,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "OBU",
     "SWIFT Code": "MACQAU2SOBU",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5514,8 +5514,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "CLS",
     "SWIFT Code": "MACQAU2SCLS",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5527,8 +5527,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "TC2",
     "SWIFT Code": "MACQAU2STC2",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5540,8 +5540,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "TC1",
     "SWIFT Code": "MACQAU2STC1",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5553,8 +5553,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "MPS",
     "SWIFT Code": "MACQAU2SMPS",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5566,8 +5566,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "SMK",
     "SWIFT Code": "MACQAU2SSMK",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5579,8 +5579,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "SEC",
     "SWIFT Code": "MACQAU2SSEC",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5592,8 +5592,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "SAF",
     "SWIFT Code": "MACQAU2SSAF",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5605,8 +5605,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "VOS",
     "SWIFT Code": "MACQAU2SVOS",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -5618,8 +5618,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "USR",
     "SWIFT Code": "MACQAUSR",
     "Bank Name": "MACQUARIE BANK LTD",
@@ -5631,8 +5631,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "AU",
+    "bankCode": "MACQ",
+    "countryCode": "AU",
     "branchCode": "USS",
     "SWIFT Code": "MACQAUSS",
     "Bank Name": "MACQUARIE INTERNATIONAL FINANCE LIMITED",
@@ -5644,8 +5644,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANNC",
-    "bankCode": "AU",
+    "bankCode": "ANNC",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "ANNCAU22",
     "Bank Name": "ACN. 629 037 403 LIMITED",
@@ -5657,8 +5657,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "AU",
+    "bankCode": "ABOC",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ABOCAU2S",
     "Bank Name": "AGRICULTURAL BANK OF CHINA SYDNEY BRANCH",
@@ -5670,8 +5670,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIPT",
-    "bankCode": "AU",
+    "bankCode": "AIPT",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "AIPTAU32",
     "Bank Name": "AIRWALLEX PTY LTD",
@@ -5683,8 +5683,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFMY",
-    "bankCode": "AU",
+    "bankCode": "AFMY",
+    "countryCode": "AU",
     "branchCode": "U32",
     "SWIFT Code": "AFMYAU32",
     "Bank Name": "ALEXANDER FUNDS MANAGEMENT PTY LTD",
@@ -5696,8 +5696,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMXA",
-    "bankCode": "AU",
+    "bankCode": "AMXA",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "AMXAAU22",
     "Bank Name": "AMERICAN EXPRESS AUSTRALIA LIMITED",
@@ -5709,8 +5709,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMPB",
-    "bankCode": "AU",
+    "bankCode": "AMPB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "AMPBAU2S",
     "Bank Name": "AMP BANK LIMITED",
@@ -5722,8 +5722,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMPB",
-    "bankCode": "AU",
+    "bankCode": "AMPB",
+    "countryCode": "AU",
     "branchCode": "RET",
     "SWIFT Code": "AMPBAU2SRET",
     "Bank Name": "AMP BANK LIMITED",
@@ -5735,8 +5735,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMPB",
-    "bankCode": "AU",
+    "bankCode": "AMPB",
+    "countryCode": "AU",
     "branchCode": "TRY",
     "SWIFT Code": "AMPBAU2STRY",
     "Bank Name": "AMP BANK LIMITED",
@@ -5748,8 +5748,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APFS",
-    "bankCode": "AU",
+    "bankCode": "APFS",
+    "countryCode": "AU",
     "branchCode": "U23",
     "SWIFT Code": "APFSAU23",
     "Bank Name": "APEX FUND SERVICES HOLDING LIMITED",
@@ -5761,8 +5761,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APFS",
-    "bankCode": "AU",
+    "bankCode": "APFS",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "APFSAU22",
     "Bank Name": "APEX FUND SERVICES HOLDING LIMITED",
@@ -5774,8 +5774,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APFS",
-    "bankCode": "AU",
+    "bankCode": "APFS",
+    "countryCode": "AU",
     "branchCode": "BWP",
     "SWIFT Code": "APFSAU23BWP",
     "Bank Name": "APEX FUND SERVICES HOLDING LIMITED",
@@ -5787,8 +5787,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APFS",
-    "bankCode": "AU",
+    "bankCode": "APFS",
+    "countryCode": "AU",
     "branchCode": "WTR",
     "SWIFT Code": "APFSAU23WTR",
     "Bank Name": "APEX FUND SERVICES HOLDING LIMITED",
@@ -5800,8 +5800,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUNP",
-    "bankCode": "AU",
+    "bankCode": "FUNP",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "FUNPAU2S",
     "Bank Name": "APEX FUND SERVICES PTY LTD",
@@ -5813,8 +5813,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AU",
+    "bankCode": "ARAB",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ARABAU2S",
     "Bank Name": "ARAB BANK AUSTRALIA LIMITED",
@@ -5826,8 +5826,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMY",
-    "bankCode": "AU",
+    "bankCode": "ARMY",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "ARMYAUS2",
     "Bank Name": "ARGAMON MARKETS PTY LTD",
@@ -5839,8 +5839,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASEY",
-    "bankCode": "AU",
+    "bankCode": "ASEY",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ASEYAU2S",
     "Bank Name": "ASSETSECURE PTY LTD",
@@ -5852,8 +5852,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLO",
-    "bankCode": "AU",
+    "bankCode": "ACLO",
+    "countryCode": "AU",
     "branchCode": "US2",
     "SWIFT Code": "ACLOAUS2",
     "Bank Name": "ASX CLEARING CORPORATION LIMITED",
@@ -5865,8 +5865,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLO",
-    "bankCode": "AU",
+    "bankCode": "ACLO",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "ACLOAU22",
     "Bank Name": "ASX CLEARING CORPORATION LIMITED",
@@ -5878,8 +5878,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XASX",
-    "bankCode": "AU",
+    "bankCode": "XASX",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "XASXAU2S",
     "Bank Name": "ASX OPERATIONS PTY LIMITED",
@@ -5891,8 +5891,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XASX",
-    "bankCode": "AU",
+    "bankCode": "XASX",
+    "countryCode": "AU",
     "branchCode": "RTG",
     "SWIFT Code": "XASXAU2SRTG",
     "Bank Name": "ASX OPERATIONS PTY LIMITED",
@@ -5904,8 +5904,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATRM",
-    "bankCode": "AU",
+    "bankCode": "ATRM",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "ATRMAU22",
     "Bank Name": "ATRIUM INVESTMENT MANAGEMENT PTY LTD",
@@ -5917,8 +5917,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUIV",
-    "bankCode": "AU",
+    "bankCode": "AUIV",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "AUIVAU2S",
     "Bank Name": "AUSBIL INVESTMENT MANAGEMENT LIMITED",
@@ -5930,8 +5930,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "USS",
     "SWIFT Code": "ACLRAUSS",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -5943,8 +5943,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "U2S",
     "SWIFT Code": "ACLRAU2S",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -5956,8 +5956,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "201",
     "SWIFT Code": "ACLRAU2S201",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -5969,8 +5969,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "202",
     "SWIFT Code": "ACLRAU2S202",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -5982,8 +5982,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "203",
     "SWIFT Code": "ACLRAU2S203",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -5995,8 +5995,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "204",
     "SWIFT Code": "ACLRAU2S204",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6008,8 +6008,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "205",
     "SWIFT Code": "ACLRAU2S205",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6021,8 +6021,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "207",
     "SWIFT Code": "ACLRAU2S207",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6034,8 +6034,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "208",
     "SWIFT Code": "ACLRAU2S208",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6047,8 +6047,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "209",
     "SWIFT Code": "ACLRAU2S209",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6060,8 +6060,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "210",
     "SWIFT Code": "ACLRAU2S210",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6073,8 +6073,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "211",
     "SWIFT Code": "ACLRAU2S211",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6086,8 +6086,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "212",
     "SWIFT Code": "ACLRAU2S212",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6099,8 +6099,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "213",
     "SWIFT Code": "ACLRAU2S213",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6112,8 +6112,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "214",
     "SWIFT Code": "ACLRAU2S214",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6125,8 +6125,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "215",
     "SWIFT Code": "ACLRAU2S215",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6138,8 +6138,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "216",
     "SWIFT Code": "ACLRAU2S216",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6151,8 +6151,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "217",
     "SWIFT Code": "ACLRAU2S217",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6164,8 +6164,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "218",
     "SWIFT Code": "ACLRAU2S218",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6177,8 +6177,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "219",
     "SWIFT Code": "ACLRAU2S219",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6190,8 +6190,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "220",
     "SWIFT Code": "ACLRAU2S220",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6203,8 +6203,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "221",
     "SWIFT Code": "ACLRAU2S221",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6216,8 +6216,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "222",
     "SWIFT Code": "ACLRAU2S222",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6229,8 +6229,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "223",
     "SWIFT Code": "ACLRAU2S223",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6242,8 +6242,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "224",
     "SWIFT Code": "ACLRAU2S224",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6255,8 +6255,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "225",
     "SWIFT Code": "ACLRAU2S225",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6268,8 +6268,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "226",
     "SWIFT Code": "ACLRAU2S226",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6281,8 +6281,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "227",
     "SWIFT Code": "ACLRAU2S227",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6294,8 +6294,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "228",
     "SWIFT Code": "ACLRAU2S228",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6307,8 +6307,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "229",
     "SWIFT Code": "ACLRAU2S229",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6320,8 +6320,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "230",
     "SWIFT Code": "ACLRAU2S230",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6333,8 +6333,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "231",
     "SWIFT Code": "ACLRAU2S231",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6346,8 +6346,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "232",
     "SWIFT Code": "ACLRAU2S232",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6359,8 +6359,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "233",
     "SWIFT Code": "ACLRAU2S233",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6372,8 +6372,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "234",
     "SWIFT Code": "ACLRAU2S234",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6385,8 +6385,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "235",
     "SWIFT Code": "ACLRAU2S235",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6398,8 +6398,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "236",
     "SWIFT Code": "ACLRAU2S236",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6411,8 +6411,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "237",
     "SWIFT Code": "ACLRAU2S237",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6424,8 +6424,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "238",
     "SWIFT Code": "ACLRAU2S238",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6437,8 +6437,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "239",
     "SWIFT Code": "ACLRAU2S239",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6450,8 +6450,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "240",
     "SWIFT Code": "ACLRAU2S240",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6463,8 +6463,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "241",
     "SWIFT Code": "ACLRAU2S241",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6476,8 +6476,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "242",
     "SWIFT Code": "ACLRAU2S242",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6489,8 +6489,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "243",
     "SWIFT Code": "ACLRAU2S243",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6502,8 +6502,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "244",
     "SWIFT Code": "ACLRAU2S244",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6515,8 +6515,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "245",
     "SWIFT Code": "ACLRAU2S245",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6528,8 +6528,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "246",
     "SWIFT Code": "ACLRAU2S246",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6541,8 +6541,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "247",
     "SWIFT Code": "ACLRAU2S247",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6554,8 +6554,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLR",
-    "bankCode": "AU",
+    "bankCode": "ACLR",
+    "countryCode": "AU",
     "branchCode": "206",
     "SWIFT Code": "ACLRAU2S206",
     "Bank Name": "AUSTRACLEAR LIMITED",
@@ -6567,8 +6567,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "TRA",
     "SWIFT Code": "ANZBAU3MTRA",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6580,8 +6580,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "516",
     "SWIFT Code": "ANZBAU3M516",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6593,8 +6593,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "535",
     "SWIFT Code": "ANZBAU3M535",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6606,8 +6606,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "TRB",
     "SWIFT Code": "ANZBAU3MTRB",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6619,8 +6619,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "645",
     "SWIFT Code": "ANZBAU3M645",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6632,8 +6632,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "CLS",
     "SWIFT Code": "ANZBAU3MCLS",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6645,8 +6645,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "CFX",
     "SWIFT Code": "ANZBAU3MCFX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6658,8 +6658,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "U3M",
     "SWIFT Code": "ANZBAU3M",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6671,8 +6671,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "NOM",
     "SWIFT Code": "ANZBAU3MNOM",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6684,8 +6684,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "AFM",
     "SWIFT Code": "ANZBAU3MAFM",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6697,8 +6697,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "GTO",
     "SWIFT Code": "ANZBAU3MGTO",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6710,8 +6710,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "TRP",
     "SWIFT Code": "ANZBAU3MTRP",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6723,8 +6723,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "TRS",
     "SWIFT Code": "ANZBAU3MTRS",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -6736,8 +6736,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "AU",
+    "bankCode": "ANZB",
+    "countryCode": "AU",
     "branchCode": "U3R",
     "SWIFT Code": "ANZBAU3R",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED (AU RTGS PURPOSE)",
@@ -6749,8 +6749,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUIE",
-    "bankCode": "AU",
+    "bankCode": "AUIE",
+    "countryCode": "AU",
     "branchCode": "U22",
     "SWIFT Code": "AUIEAU22",
     "Bank Name": "AUSTRALIAN INVESTMENT EXCHANGE",
@@ -6762,8 +6762,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "HBS",
     "SWIFT Code": "ASLLAU2CHBS",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6775,8 +6775,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "GIO",
     "SWIFT Code": "ASLLAU2CGIO",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6788,8 +6788,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "ASL",
     "SWIFT Code": "ASLLAU2CASL",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6801,8 +6801,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "SCU",
     "SWIFT Code": "ASLLAU2CSCU",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6814,8 +6814,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "GBS",
     "SWIFT Code": "ASLLAU2CGBS",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6827,8 +6827,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "CAP",
     "SWIFT Code": "ASLLAU2CCAP",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6840,8 +6840,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "ARA",
     "SWIFT Code": "ASLLAU2CARA",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6853,8 +6853,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "VOL",
     "SWIFT Code": "ASLLAU2CVOL",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6866,8 +6866,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "U2C",
     "SWIFT Code": "ASLLAU2C",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6879,8 +6879,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "BCC",
     "SWIFT Code": "ASLLAU2CBCC",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6892,8 +6892,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "FFC",
     "SWIFT Code": "ASLLAU2CFFC",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6905,8 +6905,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "GCB",
     "SWIFT Code": "ASLLAU2CGCB",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6918,8 +6918,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "GTW",
     "SWIFT Code": "ASLLAU2CGTW",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",
@@ -6931,8 +6931,8 @@ const australia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASLL",
-    "bankCode": "AU",
+    "bankCode": "ASLL",
+    "countryCode": "AU",
     "branchCode": "RAB",
     "SWIFT Code": "ASLLAU2CRAB",
     "Bank Name": "AUSTRALIAN SETTLEMENTS LIMITED",

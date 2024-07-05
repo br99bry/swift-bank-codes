@@ -1,7 +1,7 @@
 const madagascar = [
   {
-    "countryCode": "ABMG",
-    "bankCode": "MG",
+    "bankCode": "ABMG",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "ABMGMGMG",
     "Bank Name": "ACCESBANQUE MADAGASCAR",
@@ -13,8 +13,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFGM",
-    "bankCode": "MG",
+    "bankCode": "AFGM",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "AFGMMGMG",
     "Bank Name": "AFG BANK MADAGASCAR",
@@ -26,8 +26,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "MG",
+    "bankCode": "AFRI",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "AFRIMGMG",
     "Bank Name": "BANK OF AFRICA MADAGASCAR",
@@ -39,8 +39,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPU",
-    "bankCode": "MG",
+    "bankCode": "REPU",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "REPUMGMG",
     "Bank Name": "BANQUE CENTRALE DE MADAGASCAR",
@@ -52,8 +52,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPU",
-    "bankCode": "MG",
+    "bankCode": "REPU",
+    "countryCode": "MG",
     "branchCode": "RTG",
     "SWIFT Code": "REPUMGMGRTG",
     "Bank Name": "BANQUE CENTRALE DE MADAGASCAR",
@@ -65,8 +65,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMOI",
-    "bankCode": "MG",
+    "bankCode": "BMOI",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "BMOIMGMG",
     "Bank Name": "BANQUE MALGACHE DE L'OCEAN INDIEN",
@@ -78,8 +78,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBM",
-    "bankCode": "MG",
+    "bankCode": "BSBM",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "BSBMMGMG",
     "Bank Name": "BANQUE SBM MADAGASCAR",
@@ -91,8 +91,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAD",
-    "bankCode": "MG",
+    "bankCode": "BMAD",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "BMADMGMG",
     "Bank Name": "BAOBAB BANQUE MADAGASCAR SA",
@@ -104,8 +104,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFAV",
-    "bankCode": "MG",
+    "bankCode": "BFAV",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "BFAVMGMG",
     "Bank Name": "BFV-SOCIETE GENERALE",
@@ -117,8 +117,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "MG",
+    "bankCode": "BGFI",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "BGFIMGMG",
     "Bank Name": "BGFIBANK MADAGASCAR",
@@ -130,8 +130,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAIM",
-    "bankCode": "MG",
+    "bankCode": "BAIM",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "BAIMMGMG",
     "Bank Name": "BM MADAGASCAR S.A",
@@ -143,8 +143,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLMD",
-    "bankCode": "MG",
+    "bankCode": "CLMD",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "CLMDMGMG",
     "Bank Name": "BNI MADAGASCAR",
@@ -156,8 +156,8 @@ const madagascar = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBL",
-    "bankCode": "MG",
+    "bankCode": "MCBL",
+    "countryCode": "MG",
     "branchCode": "GMG",
     "SWIFT Code": "MCBLMGMG",
     "Bank Name": "THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA",

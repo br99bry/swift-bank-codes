@@ -1,7 +1,7 @@
 const burkinaFaso = [
   {
-    "countryCode": "AFRI",
-    "bankCode": "BF",
+    "bankCode": "AFRI",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "AFRIBFBF",
     "Bank Name": "BANK OF AFRICA - BURKINA FASSO",
@@ -13,8 +13,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGF",
-    "bankCode": "BF",
+    "bankCode": "BAGF",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "BAGFBFBF",
     "Bank Name": "BANQUE AGRICOLE DU FASO",
@@ -26,8 +26,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATBF",
-    "bankCode": "BF",
+    "bankCode": "ATBF",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "ATBFBFBF",
     "Bank Name": "BANQUE ATLANTIQUE BURKINA FASO",
@@ -39,8 +39,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "BF",
+    "bankCode": "BCAO",
+    "countryCode": "BF",
     "branchCode": "BOB",
     "SWIFT Code": "BCAOBFBFBOB",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -52,8 +52,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "BF",
+    "bankCode": "BCAO",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "BCAOBFBF",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -65,8 +65,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCF",
-    "bankCode": "BF",
+    "bankCode": "BNCF",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "BNCFBFBF",
     "Bank Name": "BANQUE COMMERCIALE DU BURKINA",
@@ -78,8 +78,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDUG",
-    "bankCode": "BF",
+    "bankCode": "BDUG",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "BDUGBFBF",
     "Bank Name": "BANQUE DE L'UNION BURKINA FASO",
@@ -92,8 +92,8 @@ const burkinaFaso = [
   },
   {},
   {
-    "countryCode": "BSAH",
-    "bankCode": "BF",
+    "bankCode": "BSAH",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "BSAHBFBF",
     "Bank Name": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BURKINA FASO) S.A.",
@@ -105,8 +105,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAO",
-    "bankCode": "BF",
+    "bankCode": "CBAO",
+    "countryCode": "BF",
     "branchCode": "FBG",
     "SWIFT Code": "CBAOBFBG",
     "Bank Name": "CBAO GROUPE ATTIJARIWAFA BANK BURKINA FASO",
@@ -119,8 +119,8 @@ const burkinaFaso = [
   },
   {},
   {
-    "countryCode": "ECOC",
-    "bankCode": "BF",
+    "bankCode": "ECOC",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "ECOCBFBF",
     "Bank Name": "ECOBANK BURKINA",
@@ -132,8 +132,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBA",
-    "bankCode": "BF",
+    "bankCode": "IBBA",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "IBBABFBF",
     "Bank Name": "INTERNATIONAL BUSINESS BANK (IB BANK)",
@@ -145,8 +145,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "BF",
+    "bankCode": "ORBK",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "ORBKBFBF",
     "Bank Name": "ORABANK BURKINA-FASO",
@@ -158,8 +158,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGBB",
-    "bankCode": "BF",
+    "bankCode": "SGBB",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "SGBBBFBF",
     "Bank Name": "SOCIETE GENERALE BURKINA FASO",
@@ -171,8 +171,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBU",
-    "bankCode": "BF",
+    "bankCode": "BIBU",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "BIBUBFBF",
     "Bank Name": "UBA BURKINA",
@@ -184,8 +184,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "BF",
+    "bankCode": "BICI",
+    "countryCode": "BF",
     "branchCode": "FBX",
     "SWIFT Code": "BICIBFBX",
     "Bank Name": "VISTA BANK BURKINA SA",
@@ -197,8 +197,8 @@ const burkinaFaso = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBIF",
-    "bankCode": "BF",
+    "bankCode": "WBIF",
+    "countryCode": "BF",
     "branchCode": "FBF",
     "SWIFT Code": "WBIFBFBF",
     "Bank Name": "WENDKUNI BANK INTERNATIONAL",

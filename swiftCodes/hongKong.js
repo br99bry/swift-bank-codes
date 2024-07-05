@@ -1,7 +1,7 @@
 const hongKong = [
   {
-    "countryCode": "PPTA",
-    "bankCode": "HK",
+    "bankCode": "PPTA",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "PPTAHKK2",
     "Bank Name": "PPTRANSFER LIMITED",
@@ -13,8 +13,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "HK",
+    "bankCode": "BMRI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BMRIHKHH",
     "Bank Name": "PT BANK MANDIRI (PERSERO) HK BRANCH",
@@ -26,8 +26,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBHK",
-    "bankCode": "HK",
+    "bankCode": "CBHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CBHKHKHH",
     "Bank Name": "PUBLIC BANK (HONG KONG) LIMITED",
@@ -39,8 +39,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBHK",
-    "bankCode": "HK",
+    "bankCode": "CBHK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CBHKHKHHMTG",
     "Bank Name": "PUBLIC BANK (HONG KONG) LIMITED",
@@ -53,8 +53,8 @@ const hongKong = [
   },
   {},
   {
-    "countryCode": "QNBA",
-    "bankCode": "HK",
+    "bankCode": "QNBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "QNBAHKHH",
     "Bank Name": "QATAR NATIONAL BANK (Q. P. S. C. )",
@@ -66,8 +66,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QRMO",
-    "bankCode": "HK",
+    "bankCode": "QRMO",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "QRMOHKH2",
     "Bank Name": "QUALITY RISK MANAGEMENT AND OPERATIONS (QRMO) LIMITED",
@@ -80,8 +80,8 @@ const hongKong = [
   },
   {},
   {
-    "countryCode": "RDHK",
-    "bankCode": "HK",
+    "bankCode": "RDHK",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "RDHKHKH2",
     "Bank Name": "R2D2 HK LIMITED",
@@ -93,8 +93,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "HK",
+    "bankCode": "RABO",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "RABOHKHH",
     "Bank Name": "RABOBANK HONG KONG",
@@ -106,8 +106,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDTE",
-    "bankCode": "HK",
+    "bankCode": "RDTE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "RDTEHKH2",
     "Bank Name": "RD WALLET TECHNOLOGIES LIMITED",
@@ -119,8 +119,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RERM",
-    "bankCode": "HK",
+    "bankCode": "RERM",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "RERMHKH2",
     "Bank Name": "REAP (REMIT) LIMITED",
@@ -132,8 +132,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EATR",
-    "bankCode": "HK",
+    "bankCode": "EATR",
+    "countryCode": "HK",
     "branchCode": "APH",
     "SWIFT Code": "EATRHKHKAPH",
     "Bank Name": "RGE LIMITED",
@@ -145,8 +145,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EATR",
-    "bankCode": "HK",
+    "bankCode": "EATR",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "EATRHKHK",
     "Bank Name": "RGE LIMITED",
@@ -158,8 +158,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EATR",
-    "bankCode": "HK",
+    "bankCode": "EATR",
+    "countryCode": "HK",
     "branchCode": "SCH",
     "SWIFT Code": "EATRHKHKSCH",
     "Bank Name": "RGE LIMITED",
@@ -171,8 +171,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EATR",
-    "bankCode": "HK",
+    "bankCode": "EATR",
+    "countryCode": "HK",
     "branchCode": "SHK",
     "SWIFT Code": "EATRHKHKSHK",
     "Bank Name": "RGE LIMITED",
@@ -184,8 +184,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EATR",
-    "bankCode": "HK",
+    "bankCode": "EATR",
+    "countryCode": "HK",
     "branchCode": "AME",
     "SWIFT Code": "EATRHKHKAME",
     "Bank Name": "RGE LIMITED",
@@ -198,8 +198,8 @@ const hongKong = [
   },
   {},
   {
-    "countryCode": "RIHC",
-    "bankCode": "HK",
+    "bankCode": "RIHC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "RIHCHKHH",
     "Bank Name": "RONGSHI INTERNATIONAL HOLDING COMPANY LIMITED",
@@ -211,8 +211,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "HK",
+    "bankCode": "ROYC",
+    "countryCode": "HK",
     "branchCode": "ISA",
     "SWIFT Code": "ROYCHKHHISA",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -225,8 +225,8 @@ const hongKong = [
   },
   {},
   {
-    "countryCode": "ROYC",
-    "bankCode": "HK",
+    "bankCode": "ROYC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ROYCHKHH",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -238,8 +238,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "HK",
+    "bankCode": "ROYC",
+    "countryCode": "HK",
     "branchCode": "PBB",
     "SWIFT Code": "ROYCHKHHPBB",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -251,8 +251,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "HK",
+    "bankCode": "SWHQ",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SWHQHKHH",
     "Bank Name": "S.W.I.F.T. SC",
@@ -264,8 +264,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "HK",
+    "bankCode": "SWHQ",
+    "countryCode": "HK",
     "branchCode": "EDU",
     "SWIFT Code": "SWHQHKHHEDU",
     "Bank Name": "S.W.I.F.T. SC",
@@ -277,8 +277,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBOC",
-    "bankCode": "HK",
+    "bankCode": "PBOC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PBOCHKHH",
     "Bank Name": "SAFE INVESTMENT COMPANY LIMITED",
@@ -290,8 +290,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SANK",
-    "bankCode": "HK",
+    "bankCode": "SANK",
+    "countryCode": "HK",
     "branchCode": "KA2",
     "SWIFT Code": "SANKHKA2",
     "Bank Name": "SAMSUNG ASSET MANAGEMENT(HONG KONG) LTD.",
@@ -303,8 +303,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSHK",
-    "bankCode": "HK",
+    "bankCode": "SSHK",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "SSHKHKHK",
     "Bank Name": "SBI SECURITIES (HONG KONG) LIMITED",
@@ -316,8 +316,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDGS",
-    "bankCode": "HK",
+    "bankCode": "SDGS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SDGSHKH2",
     "Bank Name": "SDG SECURITIES (HK) LIMITED",
@@ -329,8 +329,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEOC",
-    "bankCode": "HK",
+    "bankCode": "SEOC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SEOCHKHH",
     "Bank Name": "SEHK OPTIONS CLEARING HOUSE LIMITED,THE",
@@ -342,8 +342,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEOC",
-    "bankCode": "HK",
+    "bankCode": "SEOC",
+    "countryCode": "HK",
     "branchCode": "TRE",
     "SWIFT Code": "SEOCHKHHTRE",
     "Bank Name": "SEHK OPTIONS CLEARING HOUSE LIMITED,THE",
@@ -355,8 +355,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "HK",
+    "bankCode": "SGSE",
+    "countryCode": "HK",
     "branchCode": "GSC",
     "SWIFT Code": "SGSEHKHHGSC",
     "Bank Name": "SG SECURITIES (HK) LIMITED",
@@ -368,8 +368,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "HK",
+    "bankCode": "SGSE",
+    "countryCode": "HK",
     "branchCode": "HKA",
     "SWIFT Code": "SGSEHKHHHKA",
     "Bank Name": "SG SECURITIES (HK) LIMITED",
@@ -381,8 +381,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "HK",
+    "bankCode": "SGSE",
+    "countryCode": "HK",
     "branchCode": "HHR",
     "SWIFT Code": "SGSEHKHHHHR",
     "Bank Name": "SG SECURITIES (HK) LIMITED",
@@ -394,8 +394,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "HK",
+    "bankCode": "SGSE",
+    "countryCode": "HK",
     "branchCode": "HKO",
     "SWIFT Code": "SGSEHKHHHKO",
     "Bank Name": "SG SECURITIES (HK) LIMITED",
@@ -407,8 +407,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "HK",
+    "bankCode": "SGSE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SGSEHKHH",
     "Bank Name": "SG SECURITIES (HK) LIMITED",
@@ -420,8 +420,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBK",
-    "bankCode": "HK",
+    "bankCode": "SCBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SCBKHKHH",
     "Bank Name": "SHANGHAI COMMERCIAL BANK LIMITED",
@@ -433,8 +433,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBK",
-    "bankCode": "HK",
+    "bankCode": "SCBK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "SCBKHKHHMTG",
     "Bank Name": "SHANGHAI COMMERCIAL BANK LIMITED",
@@ -446,8 +446,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "HK",
+    "bankCode": "SPDB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SPDBHKHH",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK HONGKONG BRANCH",
@@ -459,8 +459,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "HK",
+    "bankCode": "SPDB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "SPDBHKHHMTG",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK HONGKONG BRANCH",
@@ -472,8 +472,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "HK",
+    "bankCode": "SPDB",
+    "countryCode": "HK",
     "branchCode": "CCM",
     "SWIFT Code": "SPDBHKHHCCM",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK HONGKONG BRANCH",
@@ -485,8 +485,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "HK",
+    "bankCode": "SHBK",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "SHBKHKHX",
     "Bank Name": "SHINHAN BANK, HONG KONG BRANCH",
@@ -498,8 +498,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "HK",
+    "bankCode": "SHBK",
+    "countryCode": "HK",
     "branchCode": "IBC",
     "SWIFT Code": "SHBKHKHXIBC",
     "Bank Name": "SHINHAN BANK, HONG KONG BRANCH",
@@ -511,8 +511,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNR",
-    "bankCode": "HK",
+    "bankCode": "SCNR",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SCNRHKHH",
     "Bank Name": "SHOUCHENG HOLDINGS LIMITED",
@@ -524,8 +524,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "HK",
+    "bankCode": "SICO",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SICOHKHH",
     "Bank Name": "SIAM COMMERCIAL BANK PCL,THE",
@@ -537,8 +537,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIOT",
-    "bankCode": "HK",
+    "bankCode": "SIOT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SIOTHKH2",
     "Bank Name": "SINGX (HK) CO LIMITED",
@@ -550,8 +550,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SILD",
-    "bankCode": "HK",
+    "bankCode": "SILD",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SILDHKH2",
     "Bank Name": "SINO ALLIED (HK) LIMITED",
@@ -563,8 +563,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKL",
-    "bankCode": "HK",
+    "bankCode": "SEKL",
+    "countryCode": "HK",
     "branchCode": "KHC",
     "SWIFT Code": "SEKLHKHC",
     "Bank Name": "SIR ELLY KADOORIE AND SONS LIMITED",
@@ -576,8 +576,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "HK",
+    "bankCode": "ESSE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ESSEHKHH",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB",
@@ -589,8 +589,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKHC",
-    "bankCode": "HK",
+    "bankCode": "SKHC",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "SKHCHKK2",
     "Bank Name": "SKYEE HONGKONG COMPANY LIMITED",
@@ -602,8 +602,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIPR",
-    "bankCode": "HK",
+    "bankCode": "WIPR",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "WIPRHKH2",
     "Bank Name": "WINDSOR FIRST",
@@ -615,8 +615,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXMT",
-    "bankCode": "HK",
+    "bankCode": "EXMT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EXMTHKHH",
     "Bank Name": "WIREASE LIMITED",
@@ -628,8 +628,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIHK",
-    "bankCode": "HK",
+    "bankCode": "WIHK",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "WIHKHKH2",
     "Bank Name": "WIREBARLEY HONG KONG LIMITED",
@@ -641,8 +641,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "HK",
+    "bankCode": "HVBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HVBKHKHH",
     "Bank Name": "WOORI BANK, HONG KONG",
@@ -654,8 +654,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTAM",
-    "bankCode": "HK",
+    "bankCode": "WTAM",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "WTAMHKH2",
     "Bank Name": "WT ASSET MANAGEMENT LIMITED",
@@ -667,8 +667,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XTRA",
-    "bankCode": "HK",
+    "bankCode": "XTRA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "XTRAHKH2",
     "Bank Name": "XTRANSFER LIMITED",
@@ -680,8 +680,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YEEW",
-    "bankCode": "HK",
+    "bankCode": "YEEW",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "YEEWHKH2",
     "Bank Name": "YEEWALLEX HK LIMITED",
@@ -693,8 +693,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YIGH",
-    "bankCode": "HK",
+    "bankCode": "YIGH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "YIGHHKH2",
     "Bank Name": "YINTRAN GROUP HOLDINGS LIMITED",
@@ -706,8 +706,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OURB",
-    "bankCode": "HK",
+    "bankCode": "OURB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "OURBHKHH",
     "Bank Name": "YUANTA COMMERCIAL BANK CO., LTD. HONG KONG",
@@ -719,8 +719,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YXSC",
-    "bankCode": "HK",
+    "bankCode": "YXSC",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "YXSCHKH2",
     "Bank Name": "YUE XIU SECURITIES COMPANY LIMITED",
@@ -732,8 +732,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABL",
-    "bankCode": "HK",
+    "bankCode": "AABL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "AABLHKHH",
     "Bank Name": "ZA BANK LIMITED",
@@ -745,8 +745,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABL",
-    "bankCode": "HK",
+    "bankCode": "AABL",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "AABLHKHHMTG",
     "Bank Name": "ZA BANK LIMITED",
@@ -758,8 +758,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEAL",
-    "bankCode": "HK",
+    "bankCode": "ZEAL",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ZEALHKH2",
     "Bank Name": "ZEAL ASSET MANAGEMENT LIMITED",
@@ -771,8 +771,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAMN",
-    "bankCode": "HK",
+    "bankCode": "ZAMN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ZAMNHKH2",
     "Bank Name": "ZHONG OU ASSET MANAGEMENT INTERNATIONAL LIMITED",
@@ -784,8 +784,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "HK",
+    "bankCode": "ZURI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ZURIHKHH",
     "Bank Name": "ZURICH INSURANCE COMPANY LTD. HK - BRANCH",
@@ -797,8 +797,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "GPR",
     "SWIFT Code": "MSHKHKHXGPR",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -810,8 +810,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "IED",
     "SWIFT Code": "MSHKHKHXIED",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -823,8 +823,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "PTE",
     "SWIFT Code": "MSHKHKHXPTE",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -836,8 +836,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "MSHKHKHX",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -849,8 +849,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAI",
-    "bankCode": "HK",
+    "bankCode": "MSAI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MSAIHKHH",
     "Bank Name": "MORGAN STANLEY BANK ASIA LIMITED",
@@ -862,8 +862,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAI",
-    "bankCode": "HK",
+    "bankCode": "MSAI",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "MSAIHKHHMTG",
     "Bank Name": "MORGAN STANLEY BANK ASIA LIMITED",
@@ -875,8 +875,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOXB",
-    "bankCode": "HK",
+    "bankCode": "MOXB",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "MOXBHKHK",
     "Bank Name": "MOX BANK LIMITED",
@@ -888,8 +888,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPMC",
-    "bankCode": "HK",
+    "bankCode": "MPMC",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "MPMCHKH2",
     "Bank Name": "MPHK MANAGEMENT COMPANY LIMITED",
@@ -901,8 +901,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "HK",
+    "bankCode": "BOTK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BOTKHKHH",
     "Bank Name": "MUFG BANK, LTD.",
@@ -914,8 +914,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFHK",
-    "bankCode": "HK",
+    "bankCode": "MFHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MFHKHKHH",
     "Bank Name": "MUFG SECURITIES ASIA LIMITED",
@@ -927,8 +927,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYMA",
-    "bankCode": "HK",
+    "bankCode": "MYMA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "MYMAHKH2",
     "Bank Name": "MY.ALPHA MANAGEMENT HK ADVISORS LIMITED",
@@ -940,8 +940,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYCB",
-    "bankCode": "HK",
+    "bankCode": "NYCB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NYCBHKHH",
     "Bank Name": "NANYANG COMMERCIAL BANK LIMITED",
@@ -953,8 +953,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYCB",
-    "bankCode": "HK",
+    "bankCode": "NYCB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "NYCBHKHHMTG",
     "Bank Name": "NANYANG COMMERCIAL BANK LIMITED",
@@ -966,8 +966,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "HK",
+    "bankCode": "NATA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NATAHKHH",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -979,8 +979,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "HK",
+    "bankCode": "NBPA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NBPAHKHH",
     "Bank Name": "NATIONAL BANK OF PAKISTAN HONG KONG",
@@ -992,8 +992,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "HK",
+    "bankCode": "NBPA",
+    "countryCode": "HK",
     "branchCode": "KLN",
     "SWIFT Code": "NBPAHKHHKLN",
     "Bank Name": "NATIONAL BANK OF PAKISTAN HONG KONG",
@@ -1005,8 +1005,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "HK",
+    "bankCode": "NATX",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "NATXHKHX",
     "Bank Name": "NATIXIS (FORMERLY NATEXIS BANQUES POPULAIRES)",
@@ -1018,8 +1018,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NTAT",
-    "bankCode": "HK",
+    "bankCode": "NTAT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "NTATHKH2",
     "Bank Name": "NEAT LIMITED",
@@ -1031,8 +1031,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NHSE",
-    "bankCode": "HK",
+    "bankCode": "NHSE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "NHSEHKH2",
     "Bank Name": "NH INVESTMENT AND SECURITIES (HK) LIMITED",
@@ -1044,8 +1044,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIKE",
-    "bankCode": "HK",
+    "bankCode": "NIKE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "NIKEHKH2",
     "Bank Name": "NIKE CHINA HOLDING HK LTD",
@@ -1057,8 +1057,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOBG",
-    "bankCode": "HK",
+    "bankCode": "NOBG",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NOBGHKHH",
     "Bank Name": "NOBLE RESOURCES LIMITED",
@@ -1070,8 +1070,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOMA",
-    "bankCode": "HK",
+    "bankCode": "NOMA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NOMAHKHH",
     "Bank Name": "NOMURA ASSET MANAGEMENT HONK KONG LIMITED",
@@ -1083,8 +1083,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOMH",
-    "bankCode": "HK",
+    "bankCode": "NOMH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NOMHHKHH",
     "Bank Name": "NOMURA INTERNATIONAL (HONG KONG) LIMITED",
@@ -1096,8 +1096,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACF",
-    "bankCode": "HK",
+    "bankCode": "NACF",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NACFHKHH",
     "Bank Name": "NONGHYUP BANK HONG KONG BRANCH",
@@ -1109,8 +1109,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOT",
-    "bankCode": "HK",
+    "bankCode": "IBOT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "IBOTHKHH",
     "Bank Name": "O-BANK CO., LTD",
@@ -1122,8 +1122,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIHB",
-    "bankCode": "HK",
+    "bankCode": "WIHB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "WIHBHKHHMTG",
     "Bank Name": "OCBC BANK (HONG KONG) LIMITED",
@@ -1135,8 +1135,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIHB",
-    "bankCode": "HK",
+    "bankCode": "WIHB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "WIHBHKHH",
     "Bank Name": "OCBC BANK (HONG KONG) LIMITED",
@@ -1148,8 +1148,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCEA",
-    "bankCode": "HK",
+    "bankCode": "OCEA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "OCEAHKH2",
     "Bank Name": "OCEANPAYMENT CO., LTD",
@@ -1161,8 +1161,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONWT",
-    "bankCode": "HK",
+    "bankCode": "ONWT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ONWTHKH2",
     "Bank Name": "ONE WALLET TECHNOLOGY LIMITED",
@@ -1174,8 +1174,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OAMH",
-    "bankCode": "HK",
+    "bankCode": "OAMH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "OAMHHKH2",
     "Bank Name": "ORIENT ASSET MANAGEMENT (HONG KONG) LIMITED",
@@ -1187,8 +1187,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSIF",
-    "bankCode": "HK",
+    "bankCode": "OSIF",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "OSIFHKH2",
     "Bank Name": "ORIENT SECURITIES INTERNATIONAL FINANCIAL GROUP LIMITED",
@@ -1200,8 +1200,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCP",
-    "bankCode": "HK",
+    "bankCode": "OCCP",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "OCCPHKHH",
     "Bank Name": "OTC CLEARING HONG KONG LIMITED",
@@ -1213,8 +1213,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCP",
-    "bankCode": "HK",
+    "bankCode": "OCCP",
+    "countryCode": "HK",
     "branchCode": "TRE",
     "SWIFT Code": "OCCPHKHHTRE",
     "Bank Name": "OTC CLEARING HONG KONG LIMITED",
@@ -1226,8 +1226,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTCN",
-    "bankCode": "HK",
+    "bankCode": "OTCN",
+    "countryCode": "HK",
     "branchCode": "KA2",
     "SWIFT Code": "OTCNHKA2",
     "Bank Name": "OTS CAPITAL MANAGEMENT LIMITED",
@@ -1239,8 +1239,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPA",
-    "bankCode": "HK",
+    "bankCode": "OTPA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "OTPAHKH2",
     "Bank Name": "OTT PAY HK LIMITED",
@@ -1252,8 +1252,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "HK",
+    "bankCode": "OCBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "OCBCHKHH",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LTD.HK BRANCH (INCORP. WITH LIMITED LIABILITY IN SINGAPORE)",
@@ -1265,8 +1265,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAVA",
-    "bankCode": "HK",
+    "bankCode": "PAVA",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "PAVAHKK2",
     "Bank Name": "PACIFIC ALLIANCE INVESTMENT MANAGEMENT (HK) LIMITED",
@@ -1278,8 +1278,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEAG",
-    "bankCode": "HK",
+    "bankCode": "PEAG",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "PEAGHKHK",
     "Bank Name": "PACIFIC EAGLE ASSET MANAGEMENT LTD",
@@ -1291,8 +1291,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAHN",
-    "bankCode": "HK",
+    "bankCode": "PAHN",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "PAHNHKK2",
     "Bank Name": "PANPAY HONG KONG LIMITED",
@@ -1304,8 +1304,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAHG",
-    "bankCode": "HK",
+    "bankCode": "PAHG",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "PAHGHKH2",
     "Bank Name": "PAYGATE HONG KONG CO., LIMITED",
@@ -1317,8 +1317,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYIT",
-    "bankCode": "HK",
+    "bankCode": "PYIT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "PYITHKH2",
     "Bank Name": "PAYSSION INTERNATIONAL LIMITED",
@@ -1330,8 +1330,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "HK",
+    "bankCode": "PRBL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PRBLHKHH",
     "Bank Name": "PBL FINANCE (HONG KONG) LIMITED",
@@ -1343,8 +1343,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBM",
-    "bankCode": "HK",
+    "bankCode": "PNBM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PNBMHKHH",
     "Bank Name": "PHILIPPINE NATIONAL BANK",
@@ -1356,8 +1356,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHDH",
-    "bankCode": "HK",
+    "bankCode": "PHDH",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "PHDHHKK2",
     "Bank Name": "PHOTON DANCE (HONGKONG) LIMITED",
@@ -1369,8 +1369,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "HK",
+    "bankCode": "SZDB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SZDBHKHH",
     "Bank Name": "PING AN BANK COMPANY LTD.-HONG KONG BRANCH",
@@ -1382,8 +1382,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCAG",
-    "bankCode": "HK",
+    "bankCode": "PCAG",
+    "countryCode": "HK",
     "branchCode": "KHA",
     "SWIFT Code": "PCAGHKHA",
     "Bank Name": "PING AN OF CHINA ASSET MANAGEMENT (HONG KONG) COMPANY LTD",
@@ -1395,8 +1395,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PONC",
-    "bankCode": "HK",
+    "bankCode": "PONC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PONCHKHH",
     "Bank Name": "PING AN ONECONNECT BANK (HONG KONG) LIMITED",
@@ -1408,8 +1408,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPGH",
-    "bankCode": "HK",
+    "bankCode": "PPGH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "PPGHHKH2",
     "Bank Name": "PING PONG GLOBAL HOLDINGS LIMITED",
@@ -1421,8 +1421,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMAX",
-    "bankCode": "HK",
+    "bankCode": "PMAX",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "PMAXHKH2",
     "Bank Name": "PMMAX TECHNOLOGY LIMITED",
@@ -1434,8 +1434,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POAY",
-    "bankCode": "HK",
+    "bankCode": "POAY",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "POAYHKHH",
     "Bank Name": "POLAR PAY LIMITED",
@@ -1447,8 +1447,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNNR",
-    "bankCode": "HK",
+    "bankCode": "SNNR",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SNNRHKH2",
     "Bank Name": "3 SING TRUSTEE LIMITED",
@@ -1460,8 +1460,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABFL",
-    "bankCode": "HK",
+    "bankCode": "ABFL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ABFLHKHH",
     "Bank Name": "AB INTERNATIONAL FINANCE LTD",
@@ -1473,8 +1473,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADHB",
-    "bankCode": "HK",
+    "bankCode": "ADHB",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ADHBHKH2",
     "Bank Name": "ADMIRALTY HARBOUR CAPITAL LIMITED",
@@ -1486,8 +1486,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "HK",
+    "bankCode": "ABOC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ABOCHKHH",
     "Bank Name": "AGRICULTURAL BANK OF CHINA LIMITED HONG KONG BRANCH",
@@ -1499,8 +1499,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "HK",
+    "bankCode": "ABOC",
+    "countryCode": "HK",
     "branchCode": "CUS",
     "SWIFT Code": "ABOCHKHHCUS",
     "Bank Name": "AGRICULTURAL BANK OF CHINA LIMITED HONG KONG BRANCH",
@@ -1512,8 +1512,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "HK",
+    "bankCode": "AIAC",
+    "countryCode": "HK",
     "branchCode": "KHC",
     "SWIFT Code": "AIACHKHC",
     "Bank Name": "AIA COMPANY LIMITED",
@@ -1525,8 +1525,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AITE",
-    "bankCode": "HK",
+    "bankCode": "AITE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "AITEHKH2",
     "Bank Name": "AILE TECHNOLOGY LIMITED",
@@ -1538,8 +1538,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AILI",
-    "bankCode": "HK",
+    "bankCode": "AILI",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "AILIHKK2",
     "Bank Name": "AILINGUAL LIMITED",
@@ -1551,8 +1551,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRR",
-    "bankCode": "HK",
+    "bankCode": "AIRR",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "AIRRHKHH",
     "Bank Name": "AIRSTAR BANK LIMITED",
@@ -1564,8 +1564,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THRM",
-    "bankCode": "HK",
+    "bankCode": "THRM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "THRMHKHH",
     "Bank Name": "ALLIANZ GLOBAL INVESTORS ASIA PACIFIC LIMITED",
@@ -1577,8 +1577,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCH",
-    "bankCode": "HK",
+    "bankCode": "ABCH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ABCHHKHH",
     "Bank Name": "ALLIED BANKING CORPORATION (HONG KONG) LIMITED",
@@ -1590,8 +1590,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASEH",
-    "bankCode": "HK",
+    "bankCode": "ASEH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ASEHHKHH",
     "Bank Name": "ANT BANK (HONG KONG) LIMITED",
@@ -1603,8 +1603,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APWR",
-    "bankCode": "HK",
+    "bankCode": "APWR",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "APWRHKH2",
     "Bank Name": "APG WORLDWIDE LIMITED",
@@ -1616,8 +1616,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCY",
-    "bankCode": "HK",
+    "bankCode": "ASCY",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ASCYHKH2",
     "Bank Name": "ASIABILL COMPANY LIMITED",
@@ -1629,8 +1629,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASTN",
-    "bankCode": "HK",
+    "bankCode": "ASTN",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "ASTNHKK2",
     "Bank Name": "ASPEX MANAGEMENT (HK) LIMITED",
@@ -1642,8 +1642,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATRS",
-    "bankCode": "HK",
+    "bankCode": "ATRS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ATRSHKH2",
     "Bank Name": "ATLANTIC PARTNERS ASIA PS LIMITED",
@@ -1655,8 +1655,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATIA",
-    "bankCode": "HK",
+    "bankCode": "ATIA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ATIAHKH2",
     "Bank Name": "ATLANTIS INVESTMENT MANAGEMENT LIMITED",
@@ -1668,8 +1668,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "HK",
+    "bankCode": "ANZB",
+    "countryCode": "HK",
     "branchCode": "AAL",
     "SWIFT Code": "ANZBHKHXAAL",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
@@ -1681,8 +1681,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "HK",
+    "bankCode": "ANZB",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "ANZBHKHX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
@@ -1694,8 +1694,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "TRS",
     "SWIFT Code": "BOFAHKHUTRS",
     "Bank Name": "BANC OF AMERICA SECURITIES ASIA LIMITED",
@@ -1707,8 +1707,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "KHU",
     "SWIFT Code": "BOFAHKHU",
     "Bank Name": "BANC OF AMERICA SECURITIES ASIA LIMITED",
@@ -1720,8 +1720,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "DBT",
     "SWIFT Code": "BOFAHKHUDBT",
     "Bank Name": "BANC OF AMERICA SECURITIES ASIA LIMITED",
@@ -1733,8 +1733,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "FXD",
     "SWIFT Code": "BOFAHKHUFXD",
     "Bank Name": "BANC OF AMERICA SECURITIES ASIA LIMITED",
@@ -1746,8 +1746,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "HK",
+    "bankCode": "BBVA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BBVAHKHH",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A., HONG KONG BRANCH",
@@ -1759,8 +1759,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "HK",
+    "bankCode": "BSCH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BSCHHKHH",
     "Bank Name": "BANCO SANTANDER, S.A. HONG KONG BRANCH (A PUBLIC LTD LIABILITY CO INCORPORATED IN SPAIN)",
@@ -1772,8 +1772,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "HK",
+    "bankCode": "BKKB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BKKBHKHH",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED HONG KONG BRANCH",
@@ -1785,8 +1785,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "HK",
+    "bankCode": "BKKB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BKKBHKHHMTG",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED HONG KONG BRANCH",
@@ -1798,8 +1798,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTC",
-    "bankCode": "HK",
+    "bankCode": "BCTC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BCTCHKHH",
     "Bank Name": "BANK CONSORTIUM TRUST COMPANY LIMITED",
@@ -1811,8 +1811,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARA",
-    "bankCode": "HK",
+    "bankCode": "SARA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SARAHKHH",
     "Bank Name": "BANK J. SAFRA SARASIN LTD, HONG KONG BRANCH",
@@ -1824,8 +1824,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "HK",
+    "bankCode": "BAER",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BAERHKHH",
     "Bank Name": "BANK JULIUS BAER AND CO. LTD.",
@@ -1837,8 +1837,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "HK",
+    "bankCode": "BAER",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BAERHKHHMTG",
     "Bank Name": "BANK JULIUS BAER AND CO. LTD.",
@@ -1850,8 +1850,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "HK",
+    "bankCode": "BNIN",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BNINHKHH",
     "Bank Name": "BANK NEGARA INDONESIA (PERSERO) PT.",
@@ -1863,8 +1863,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "BOFAHKHX",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1876,8 +1876,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "SEC",
     "SWIFT Code": "BOFAHKHXSEC",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1889,8 +1889,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "VAM",
     "SWIFT Code": "BOFAHKHXVAM",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1902,8 +1902,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "SWP",
     "SWIFT Code": "BOFAHKHXSWP",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1915,8 +1915,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "GMG",
     "SWIFT Code": "BOFAHKHXGMG",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1928,8 +1928,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "AAM",
     "SWIFT Code": "BOFAHKHXAAM",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1941,8 +1941,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "HK",
+    "bankCode": "BOFA",
+    "countryCode": "HK",
     "branchCode": "FIO",
     "SWIFT Code": "BOFAHKHXFIO",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, HK BRANCH (ORGANISED WITH LIMITED LIABILITY UNDER THE LAWS OF USA)",
@@ -1954,8 +1954,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HK",
+    "bankCode": "BKCH",
+    "countryCode": "HK",
     "branchCode": "CLS",
     "SWIFT Code": "BKCHHKHHCLS",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED",
@@ -1967,8 +1967,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HK",
+    "bankCode": "BKCH",
+    "countryCode": "HK",
     "branchCode": "CSS",
     "SWIFT Code": "BKCHHKHHCSS",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED",
@@ -1980,8 +1980,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HK",
+    "bankCode": "BKCH",
+    "countryCode": "HK",
     "branchCode": "838",
     "SWIFT Code": "BKCHHKHH838",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED",
@@ -1993,8 +1993,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HK",
+    "bankCode": "BKCH",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BKCHHKHHMTG",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED",
@@ -2006,8 +2006,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HK",
+    "bankCode": "BKCH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BKCHHKHH",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED",
@@ -2019,8 +2019,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDFC",
-    "bankCode": "HK",
+    "bankCode": "CDFC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CDFCHKHH",
     "Bank Name": "BANK OF CHINA INTERNATIONAL LIMITED",
@@ -2032,8 +2032,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDFC",
-    "bankCode": "HK",
+    "bankCode": "CDFC",
+    "countryCode": "HK",
     "branchCode": "FPX",
     "SWIFT Code": "CDFCHKHHFPX",
     "Bank Name": "BANK OF CHINA INTERNATIONAL LIMITED",
@@ -2045,8 +2045,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HK",
+    "bankCode": "BKCH",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "BKCHHKHK",
     "Bank Name": "BANK OF CHINA LIMITED HONG KONG BR",
@@ -2058,8 +2058,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "HK",
+    "bankCode": "COMM",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "COMMHKHK",
     "Bank Name": "BANK OF COMMUNICATIONS (HONG KONG)LIMITED",
@@ -2071,8 +2071,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "HK",
+    "bankCode": "COMM",
+    "countryCode": "HK",
     "branchCode": "ACD",
     "SWIFT Code": "COMMHKHKACD",
     "Bank Name": "BANK OF COMMUNICATIONS (HONG KONG)LIMITED",
@@ -2084,8 +2084,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "HK",
+    "bankCode": "COMM",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "COMMHKHKMTG",
     "Bank Name": "BANK OF COMMUNICATIONS (HONG KONG)LIMITED",
@@ -2097,8 +2097,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "HK",
+    "bankCode": "KRED",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "KREDHKHX",
     "Bank Name": "KBC BANK NV, HONG KONG",
@@ -2110,8 +2110,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "HK",
+    "bankCode": "KODB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KODBHKHH",
     "Bank Name": "KDB ASIA LIMITED",
@@ -2123,8 +2123,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "HK",
+    "bankCode": "KOEX",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KOEXHKHH",
     "Bank Name": "KEB HANA BANK",
@@ -2136,8 +2136,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "HK",
+    "bankCode": "KOEX",
+    "countryCode": "HK",
     "branchCode": "KHA",
     "SWIFT Code": "KOEXHKHA",
     "Bank Name": "KEB HANA GLOBAL FINANCE LIMITED",
@@ -2149,8 +2149,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEXA",
-    "bankCode": "HK",
+    "bankCode": "KEXA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KEXAHKHH",
     "Bank Name": "KEXIM ASIA LIMITED",
@@ -2162,8 +2162,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIHA",
-    "bankCode": "HK",
+    "bankCode": "KIHA",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "KIHAHKK2",
     "Bank Name": "KINGDOM HARVEST INC LIMITED",
@@ -2175,8 +2175,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHBA",
-    "bankCode": "HK",
+    "bankCode": "KHBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KHBAHKHH",
     "Bank Name": "KOOKMIN BANK, HONG KONG BRANCH",
@@ -2188,8 +2188,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIEA",
-    "bankCode": "HK",
+    "bankCode": "KIEA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "KIEAHKH2",
     "Bank Name": "KOREA INVESTMENT AND SECURITIES ASIA LIMITED",
@@ -2201,8 +2201,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KVBT",
-    "bankCode": "HK",
+    "bankCode": "KVBT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "KVBTHKH2",
     "Bank Name": "KVB TRADING (HONG KONG) LIMITED",
@@ -2214,8 +2214,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "HK",
+    "bankCode": "LBOT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LBOTHKHH",
     "Bank Name": "LAND BANK OF TAIWAN CO., LTD. HONG KONG",
@@ -2227,8 +2227,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "HK",
+    "bankCode": "BLFL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BLFLHKHH",
     "Bank Name": "LGT BANK AG, HONG KONG BRANCH",
@@ -2240,8 +2240,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "HK",
+    "bankCode": "BLFL",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BLFLHKHHMTG",
     "Bank Name": "LGT BANK AG, HONG KONG BRANCH",
@@ -2253,8 +2253,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "HK",
+    "bankCode": "BLFL",
+    "countryCode": "HK",
     "branchCode": "EXC",
     "SWIFT Code": "BLFLHKHHEXC",
     "Bank Name": "LGT BANK AG, HONG KONG BRANCH",
@@ -2266,8 +2266,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTRD",
-    "bankCode": "HK",
+    "bankCode": "FTRD",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FTRDHKHH",
     "Bank Name": "LI AND FUNG (TRADING) LIMITED",
@@ -2279,8 +2279,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIIO",
-    "bankCode": "HK",
+    "bankCode": "LIIO",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "LIIOHKH2",
     "Bank Name": "LIANLIAN INTERNATIONAL COMPANY LIMITED",
@@ -2292,8 +2292,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOIM",
-    "bankCode": "HK",
+    "bankCode": "LOIM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LOIMHKHH",
     "Bank Name": "LIM ADVISORS LIMITED",
@@ -2305,8 +2305,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIIC",
-    "bankCode": "HK",
+    "bankCode": "LIIC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LIICHKHH",
     "Bank Name": "LINKLOGIS INTERNATIONAL COMPANY LIMITED",
@@ -2318,8 +2318,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIVI",
-    "bankCode": "HK",
+    "bankCode": "LIVI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LIVIHKHH",
     "Bank Name": "LIVI BANK LIMITED",
@@ -2331,8 +2331,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOYD",
-    "bankCode": "HK",
+    "bankCode": "LOYD",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LOYDHKHH",
     "Bank Name": "LLOYDS TSB PACIFIC LIMITED",
@@ -2344,8 +2344,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBMG",
-    "bankCode": "HK",
+    "bankCode": "LBMG",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LBMGHKHH",
     "Bank Name": "LYNCHPIN BONDHOLDER MANAGEMENT LIMITED",
@@ -2357,8 +2357,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "HK",
+    "bankCode": "MACQ",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MACQHKHH",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -2370,8 +2370,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "HK",
+    "bankCode": "MACQ",
+    "countryCode": "HK",
     "branchCode": "CSH",
     "SWIFT Code": "MACQHKHHCSH",
     "Bank Name": "MACQUARIE BANK LIMITED",
@@ -2383,8 +2383,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "SBL",
     "SWIFT Code": "BSHLHKHHSBL",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2396,8 +2396,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "THA",
     "SWIFT Code": "BSHLHKHHTHA",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2409,8 +2409,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BSHLHKHH",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2422,8 +2422,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "HKM",
     "SWIFT Code": "BSHLHKHHHKM",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2435,8 +2435,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "SGM",
     "SWIFT Code": "BSHLHKHHSGM",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2448,8 +2448,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "KRW",
     "SWIFT Code": "BSHLHKHHKRW",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2461,8 +2461,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHL",
-    "bankCode": "HK",
+    "bankCode": "BSHL",
+    "countryCode": "HK",
     "branchCode": "KEF",
     "SWIFT Code": "BSHLHKHHKEF",
     "Bank Name": "MACQUARIE CAPITAL LIMITED",
@@ -2474,8 +2474,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "HK",
+    "bankCode": "MFCT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MFCTHKHH",
     "Bank Name": "MANULIFE (INTERNATIONAL) LIMITED",
@@ -2487,8 +2487,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "HK",
+    "bankCode": "MSHQ",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MSHQHKHH",
     "Bank Name": "MASHREQBANK PSC., HONG KONG BRANCH",
@@ -2500,8 +2500,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "HK",
+    "bankCode": "MSHQ",
+    "countryCode": "HK",
     "branchCode": "HKD",
     "SWIFT Code": "MSHQHKHHHKD",
     "Bank Name": "MASHREQBANK PSC., HONG KONG BRANCH",
@@ -2513,8 +2513,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "HK",
+    "bankCode": "MSHQ",
+    "countryCode": "HK",
     "branchCode": "HKH",
     "SWIFT Code": "MSHQHKHHHKH",
     "Bank Name": "MASHREQBANK PSC., HONG KONG BRANCH",
@@ -2526,8 +2526,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHN",
-    "bankCode": "HK",
+    "bankCode": "MSHN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "MSHNHKH2",
     "Bank Name": "MASTERLINK SECURITIES (HONG KONG) CORPORATION LIMITED",
@@ -2539,8 +2539,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "HK",
+    "bankCode": "MBBE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MBBEHKHH",
     "Bank Name": "MAYBANK HONG KONG",
@@ -2552,8 +2552,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "HK",
+    "bankCode": "ICBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ICBCHKHH",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., HONGKONG BRANCH",
@@ -2565,8 +2565,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METH",
-    "bankCode": "HK",
+    "bankCode": "METH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "METHHKH2",
     "Bank Name": "MEGA TEAM TECHNOLOGY LIMITED",
@@ -2578,8 +2578,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPEL",
-    "bankCode": "HK",
+    "bankCode": "MPEL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MPELHKHH",
     "Bank Name": "MELCO RESORTS AND ENTERTAINMENT LIMITED",
@@ -2591,8 +2591,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLFE",
-    "bankCode": "HK",
+    "bankCode": "MLFE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MLFEHKHH",
     "Bank Name": "MERRILL LYNCH FAR EAST LTD.",
@@ -2604,8 +2604,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLFE",
-    "bankCode": "HK",
+    "bankCode": "MLFE",
+    "countryCode": "HK",
     "branchCode": "AUV",
     "SWIFT Code": "MLFEHKHHAUV",
     "Bank Name": "MERRILL LYNCH FAR EAST LTD.",
@@ -2617,8 +2617,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLFE",
-    "bankCode": "HK",
+    "bankCode": "MLFE",
+    "countryCode": "HK",
     "branchCode": "GLO",
     "SWIFT Code": "MLFEHKHHGLO",
     "Bank Name": "MERRILL LYNCH FAR EAST LTD.",
@@ -2630,8 +2630,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGBH",
-    "bankCode": "HK",
+    "bankCode": "MGBH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MGBHHKHH",
     "Bank Name": "METRO SOURCING INTERNATIONAL LTD",
@@ -2643,8 +2643,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBC",
-    "bankCode": "HK",
+    "bankCode": "MTBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MTBCHKHH",
     "Bank Name": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
@@ -2656,8 +2656,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "HK",
+    "bankCode": "MHCB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MHCBHKHH",
     "Bank Name": "MIZUHO BANK, LTD. HONG KONG BRANCH",
@@ -2669,8 +2669,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHSC",
-    "bankCode": "HK",
+    "bankCode": "MHSC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MHSCHKHH",
     "Bank Name": "MIZUHO SECURITIES ASIA LIMITED",
@@ -2682,8 +2682,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOIH",
-    "bankCode": "HK",
+    "bankCode": "MOIH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MOIHHKHH",
     "Bank Name": "MOBVISTA INTERNATIONAL TECHNOLOGY LIMITED",
@@ -2695,8 +2695,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOHK",
-    "bankCode": "HK",
+    "bankCode": "MOHK",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "MOHKHKH2",
     "Bank Name": "MONEYCORP HONG KONG LTD",
@@ -2708,8 +2708,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "FXO",
     "SWIFT Code": "MSHKHKHXFXO",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -2721,8 +2721,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "SGX",
     "SWIFT Code": "MSHKHKHXSGX",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -2734,8 +2734,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHK",
-    "bankCode": "HK",
+    "bankCode": "MSHK",
+    "countryCode": "HK",
     "branchCode": "CLS",
     "SWIFT Code": "MSHKHKHXCLS",
     "Bank Name": "MORGAN STANLEY ASIA LIMITED",
@@ -2747,8 +2747,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFCM",
-    "bankCode": "HK",
+    "bankCode": "CFCM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CFCMHKHH",
     "Bank Name": "CANTOR FITZGERALD (HONG KONG) CAPITAL MARKETS LIMITED INTERNATIONAL FINANCIAL CENTER",
@@ -2760,8 +2760,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPTU",
-    "bankCode": "HK",
+    "bankCode": "CPTU",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CPTUHKH2",
     "Bank Name": "CAP TRUST LIMITED",
@@ -2773,8 +2773,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CATH",
-    "bankCode": "HK",
+    "bankCode": "CATH",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CATHHKHHMTG",
     "Bank Name": "CATHAY BANK",
@@ -2786,8 +2786,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CATH",
-    "bankCode": "HK",
+    "bankCode": "CATH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CATHHKHH",
     "Bank Name": "CATHAY BANK",
@@ -2799,8 +2799,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "HK",
+    "bankCode": "UWCB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "UWCBHKHH",
     "Bank Name": "CATHAY UNITED BANK COMPANY,LIMITED, HONG KONG BRANCH",
@@ -2812,8 +2812,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBHA",
-    "bankCode": "HK",
+    "bankCode": "CBHA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CBHAHKHH",
     "Bank Name": "CBH ASIA LIMITED",
@@ -2825,8 +2825,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBUI",
-    "bankCode": "HK",
+    "bankCode": "CBUI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CBUIHKHH",
     "Bank Name": "CBI UNION LIMITED",
@@ -2838,8 +2838,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCNS",
-    "bankCode": "HK",
+    "bankCode": "CCNS",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CCNSHKHH",
     "Bank Name": "CCB INTERNATIONAL SECURITIES LIMITED",
@@ -2851,8 +2851,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPI",
-    "bankCode": "HK",
+    "bankCode": "CNPI",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "CNPIHKHK",
     "Bank Name": "CEB INTERNATIONAL CAPITAL CORPORATION LIMITED",
@@ -2864,8 +2864,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGHI",
-    "bankCode": "HK",
+    "bankCode": "CGHI",
+    "countryCode": "HK",
     "branchCode": "KKH",
     "SWIFT Code": "CGHIHKKH",
     "Bank Name": "CGNPC HUASHENG INVESTMENT LIMITED",
@@ -2877,8 +2877,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "HK",
+    "bankCode": "CCBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CCBCHKHH",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD., HONG KONG BRANCH",
@@ -2890,8 +2890,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBA",
-    "bankCode": "HK",
+    "bankCode": "CHBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CHBAHKHH",
     "Bank Name": "CHIBA BANK, LTD., THE, HONG KONG BRANCH",
@@ -2903,8 +2903,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSMH",
-    "bankCode": "HK",
+    "bankCode": "CSMH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CSMHHKH2",
     "Bank Name": "CHINA ASSET MANAGEMENT (HONG KONG) LIMITED",
@@ -2916,8 +2916,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBH",
-    "bankCode": "HK",
+    "bankCode": "CHBH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CHBHHKHH",
     "Bank Name": "CHINA BOHAI BANK CO., LTD., HONG KONG BRANCH",
@@ -2929,8 +2929,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "HK",
+    "bankCode": "CIBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CIBKHKHH",
     "Bank Name": "CHINA CITIC BANK CORPORATION LIMITED HONG KONG BRANCH",
@@ -2942,8 +2942,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWHK",
-    "bankCode": "HK",
+    "bankCode": "KWHK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "KWHKHKHHMTG",
     "Bank Name": "CHINA CITIC BANK INTERNATIONAL LIMITED",
@@ -2955,8 +2955,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWHK",
-    "bankCode": "HK",
+    "bankCode": "KWHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KWHKHKHH",
     "Bank Name": "CHINA CITIC BANK INTERNATIONAL LIMITED",
@@ -2968,8 +2968,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWHK",
-    "bankCode": "HK",
+    "bankCode": "KWHK",
+    "countryCode": "HK",
     "branchCode": "CUS",
     "SWIFT Code": "KWHKHKHHCUS",
     "Bank Name": "CHINA CITIC BANK INTERNATIONAL LIMITED",
@@ -2981,8 +2981,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "TRU",
     "SWIFT Code": "CCBQHKAXTRU",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -2994,8 +2994,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "CUS",
     "SWIFT Code": "CCBQHKAXCUS",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -3007,8 +3007,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "CML",
     "SWIFT Code": "CCBQHKAXCML",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -3020,8 +3020,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "KAX",
     "SWIFT Code": "CCBQHKAX",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -3033,8 +3033,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "WHS",
     "SWIFT Code": "CCBQHKAXWHS",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -3046,8 +3046,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CCBQHKAXMTG",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -3059,8 +3059,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBQ",
-    "bankCode": "HK",
+    "bankCode": "CCBQ",
+    "countryCode": "HK",
     "branchCode": "TCD",
     "SWIFT Code": "CCBQHKAXTCD",
     "Bank Name": "CHINA CONSTRUCTION BANK (ASIA) CORPORATION LIMITED",
@@ -3072,8 +3072,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "HK",
+    "bankCode": "PCBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PCBCHKHH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -3085,8 +3085,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "HK",
+    "bankCode": "PCBC",
+    "countryCode": "HK",
     "branchCode": "IPA",
     "SWIFT Code": "PCBCHKHHIPA",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -3098,8 +3098,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "HK",
+    "bankCode": "SDBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SDBCHKHH",
     "Bank Name": "CHINA DEVELOPMENT BANK HONG KONG BRANCH",
@@ -3111,8 +3111,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "HK",
+    "bankCode": "EVER",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "EVERHKHHMTG",
     "Bank Name": "CHINA EVERBRIGHT BANK (HONG KONG BRANCH)",
@@ -3124,8 +3124,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "HK",
+    "bankCode": "EVER",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EVERHKHH",
     "Bank Name": "CHINA EVERBRIGHT BANK (HONG KONG BRANCH)",
@@ -3137,8 +3137,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "HK",
+    "bankCode": "EVER",
+    "countryCode": "HK",
     "branchCode": "CUS",
     "SWIFT Code": "EVERHKHHCUS",
     "Bank Name": "CHINA EVERBRIGHT BANK (HONG KONG BRANCH)",
@@ -3150,8 +3150,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "HK",
+    "bankCode": "GDBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "GDBKHKHH",
     "Bank Name": "CHINA GUANGFA BANK CO.,LTD HONG KONG BRANCH",
@@ -3163,8 +3163,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHVT",
-    "bankCode": "HK",
+    "bankCode": "CHVT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CHVTHKHH",
     "Bank Name": "CHINA HUADIAN OVERSEAS ASSET MANAGEMENT COMPANY LIMITED",
@@ -3176,8 +3176,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "HK",
+    "bankCode": "CMBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CMBCHKHH",
     "Bank Name": "CHINA MERCHANTS BANK, HONG KONG BRANCH",
@@ -3189,8 +3189,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEUT",
-    "bankCode": "HK",
+    "bankCode": "CEUT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CEUTHKHH",
     "Bank Name": "CHINA MERCHANTS SECURITIES INTERNATIONAL COMPANY LIMITED",
@@ -3202,8 +3202,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "HK",
+    "bankCode": "MSBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MSBCHKHH",
     "Bank Name": "CHINA MINSHENG BANKING CORP., LTD., HONG KONG BRANCH (A JOINT STOCK LTD. CO. INCORPORATED IN THE PRC)",
@@ -3215,8 +3215,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "HK",
+    "bankCode": "MSBC",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "MSBCHKHHMTG",
     "Bank Name": "CHINA MINSHENG BANKING CORP., LTD., HONG KONG BRANCH (A JOINT STOCK LTD. CO. INCORPORATED IN THE PRC)",
@@ -3228,8 +3228,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHLN",
-    "bankCode": "HK",
+    "bankCode": "CHLN",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CHLNHKHH",
     "Bank Name": "CHINA MOBILE INTERNATIONAL LIMITED",
@@ -3241,8 +3241,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSNH",
-    "bankCode": "HK",
+    "bankCode": "CSNH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CSNHHKH2",
     "Bank Name": "CHINA RE ASSET MANAGEMENT (HONG KONG) COMPANY LIMITED",
@@ -3254,8 +3254,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUEG",
-    "bankCode": "HK",
+    "bankCode": "CUEG",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CUEGHKH2",
     "Bank Name": "CHINA UNIVERSAL ASSET MANAGEMENT (HONG KONG) COMPANY LIMITED",
@@ -3267,8 +3267,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJCB",
-    "bankCode": "HK",
+    "bankCode": "ZJCB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ZJCBHKHH",
     "Bank Name": "CHINA ZHESHANG BANK CO., LTD. (HONG KONG BRANCH)",
@@ -3280,8 +3280,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "HK",
+    "bankCode": "CIYU",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CIYUHKHH",
     "Bank Name": "CHIYU BANKING CORP. LTD.",
@@ -3293,8 +3293,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "HK",
+    "bankCode": "CIYU",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CIYUHKHHMTG",
     "Bank Name": "CHIYU BANKING CORP. LTD.",
@@ -3306,8 +3306,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "HK",
+    "bankCode": "LCHB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "LCHBHKHH",
     "Bank Name": "CHONG HING BANK LIMITED",
@@ -3319,8 +3319,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "HK",
+    "bankCode": "LCHB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "LCHBHKHHMTG",
     "Bank Name": "CHONG HING BANK LIMITED",
@@ -3332,8 +3332,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "HK",
+    "bankCode": "CIBB",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "CIBBHKHK",
     "Bank Name": "CIMB BANK BERHAD HONG KONG BRANCH",
@@ -3345,8 +3345,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CILS",
-    "bankCode": "HK",
+    "bankCode": "CILS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CILSHKH2",
     "Bank Name": "CINDA INTERNATIONAL SECURITIES LIMITED",
@@ -3358,8 +3358,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "KAX",
     "SWIFT Code": "CITIHKAX",
     "Bank Name": "CITIBANK (HONG KONG) LIMITED",
@@ -3371,8 +3371,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CITIHKAXMTG",
     "Bank Name": "CITIBANK (HONG KONG) LIMITED",
@@ -3384,8 +3384,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "IPB",
     "SWIFT Code": "CITIHKAXIPB",
     "Bank Name": "CITIBANK (HONG KONG) LIMITED",
@@ -3397,8 +3397,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GC4",
     "SWIFT Code": "HSBCHKHHGC4",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3410,8 +3410,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "BLC",
     "SWIFT Code": "HSBCHKHHBLC",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3423,8 +3423,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "ORI",
     "SWIFT Code": "HSBCHKHHORI",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3436,8 +3436,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "LAD",
     "SWIFT Code": "HSBCHKHHLAD",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3449,8 +3449,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "USS",
     "SWIFT Code": "HSBCHKHHUSS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3462,8 +3462,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "MOA",
     "SWIFT Code": "HSBCHKHHMOA",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3475,8 +3475,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "HSBCHKHHMTG",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3488,8 +3488,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GPI",
     "SWIFT Code": "HSBCHKHHGPI",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3501,8 +3501,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "PRM",
     "SWIFT Code": "HSBCHKHHPRM",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3514,8 +3514,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "SBL",
     "SWIFT Code": "HSBCHKHHSBL",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3527,8 +3527,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "BBO",
     "SWIFT Code": "HSBCHKHHBBO",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3540,8 +3540,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "BHX",
     "SWIFT Code": "HSBCHKHHBHX",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3553,8 +3553,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "CLS",
     "SWIFT Code": "HSBCHKHHCLS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3566,8 +3566,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "AVS",
     "SWIFT Code": "HSBCHKHHAVS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3579,8 +3579,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GCA",
     "SWIFT Code": "HSBCHKHHGCA",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3592,8 +3592,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GCC",
     "SWIFT Code": "HSBCHKHHGCC",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3605,8 +3605,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GD2",
     "SWIFT Code": "HSBCHKHHGD2",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3618,8 +3618,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GDI",
     "SWIFT Code": "HSBCHKHHGDI",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3631,8 +3631,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "NOS",
     "SWIFT Code": "HSBCHKHHNOS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3644,8 +3644,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "LAS",
     "SWIFT Code": "HSBCHKHHLAS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3657,8 +3657,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "PEC",
     "SWIFT Code": "HSBCHKHHPEC",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3670,8 +3670,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "PBD",
     "SWIFT Code": "HSBCHKHHPBD",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3683,8 +3683,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "PVP",
     "SWIFT Code": "HSBCHKHHPVP",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3696,8 +3696,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "SEC",
     "SWIFT Code": "HSBCHKHHSEC",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3709,8 +3709,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "TSD",
     "SWIFT Code": "HSBCHKHHTSD",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3722,8 +3722,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "SCF",
     "SWIFT Code": "HSBCHKHHSCF",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3735,8 +3735,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "USI",
     "SWIFT Code": "HSBCHKHHUSI",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3748,8 +3748,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "EXP",
     "SWIFT Code": "HSBCHKHHEXP",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3761,8 +3761,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "IMP",
     "SWIFT Code": "HSBCHKHHIMP",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -3774,8 +3774,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HORD",
-    "bankCode": "HK",
+    "bankCode": "HORD",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "HORDHKH2",
     "Bank Name": "HORUS DIGITAL LIMITED",
@@ -3787,8 +3787,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "HK",
+    "bankCode": "BLIC",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "BLICHKHX",
     "Bank Name": "HSBC BANK USA, HONG KONG BRANCH (FORMERLY REPUBLICNATIONAL BANK OF NEW YORK)",
@@ -3800,8 +3800,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCBS",
-    "bankCode": "HK",
+    "bankCode": "HCBS",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HCBSHKHH",
     "Bank Name": "HSBC BROKING SERVICES (ASIA) LIMITED",
@@ -3813,8 +3813,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSMB",
-    "bankCode": "HK",
+    "bankCode": "HSMB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HSMBHKHH",
     "Bank Name": "HSBC GLOBAL ASSET MANAGEMENT (HONG KONG) LIMITED",
@@ -3826,8 +3826,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSMH",
-    "bankCode": "HK",
+    "bankCode": "HSMH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HSMHHKHH",
     "Bank Name": "HSBC INVESTMENT FUNDS (HONG KONG) LIMITED",
@@ -3839,8 +3839,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "KHP",
     "SWIFT Code": "HSBCHKHP",
     "Bank Name": "HSBC PROVIDENT FUND TRUSTEE (HONG KONG) LTD",
@@ -3852,8 +3852,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCAL",
-    "bankCode": "HK",
+    "bankCode": "JCAL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "JCALHKHH",
     "Bank Name": "HSBC SECURITIES BROKERS (ASIA) LIMITED",
@@ -3865,8 +3865,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "KHT",
     "SWIFT Code": "HSBCHKHT",
     "Bank Name": "HSBC TRUSTEE (HONG KONG) LTD.",
@@ -3878,8 +3878,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "GWS",
     "SWIFT Code": "HSBCHKHTGWS",
     "Bank Name": "HSBC TRUSTEE (HONG KONG) LTD.",
@@ -3891,8 +3891,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "HK",
+    "bankCode": "HNBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HNBKHKHH",
     "Bank Name": "HUA NAN COMMERCIAL BANK LTD.",
@@ -3904,8 +3904,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "HK",
+    "bankCode": "HXBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HXBKHKHH",
     "Bank Name": "HUA XIA BANK CO., LIMITED HONG KONG BRANCH",
@@ -3917,8 +3917,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCAI",
-    "bankCode": "HK",
+    "bankCode": "HCAI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HCAIHKHH",
     "Bank Name": "HUATAI CAPITAL INVESTMENT LIMITED",
@@ -3930,8 +3930,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUSE",
-    "bankCode": "HK",
+    "bankCode": "HUSE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HUSEHKHH",
     "Bank Name": "HUATAI FINANCIAL HOLDINGS (HONG KONG) LIMITED",
@@ -3943,8 +3943,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HGFN",
-    "bankCode": "HK",
+    "bankCode": "HGFN",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "HGFNHKHK",
     "Bank Name": "HUAWEI GLOBAL FINANCE (HK) CO., LIMITED",
@@ -3956,8 +3956,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBH",
-    "bankCode": "HK",
+    "bankCode": "ICBH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ICBHHKHH",
     "Bank Name": "ICBC INTERNATIONAL SECURITIES LIMITED",
@@ -3969,8 +3969,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBH",
-    "bankCode": "HK",
+    "bankCode": "ICBH",
+    "countryCode": "HK",
     "branchCode": "SFI",
     "SWIFT Code": "ICBHHKHHSFI",
     "Bank Name": "ICBC INTERNATIONAL SECURITIES LIMITED",
@@ -3982,8 +3982,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "COP",
     "SWIFT Code": "ICICHKHHCOP",
     "Bank Name": "ICICI BANK LTD",
@@ -3995,8 +3995,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "GTS",
     "SWIFT Code": "ICICHKHHGTS",
     "Bank Name": "ICICI BANK LTD",
@@ -4008,8 +4008,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "RTG",
     "SWIFT Code": "ICICHKHHRTG",
     "Bank Name": "ICICI BANK LTD",
@@ -4021,8 +4021,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "IOG",
     "SWIFT Code": "ICICHKHHIOG",
     "Bank Name": "ICICI BANK LTD",
@@ -4034,8 +4034,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "REM",
     "SWIFT Code": "ICICHKHHREM",
     "Bank Name": "ICICI BANK LTD",
@@ -4047,8 +4047,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSHB",
-    "bankCode": "HK",
+    "bankCode": "GSHB",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "GSHBHKHK",
     "Bank Name": "GOLDMAN SACHS ASIA BANK LIMITED",
@@ -4060,8 +4060,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOCG",
-    "bankCode": "HK",
+    "bankCode": "GOCG",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "GOCGHKH2",
     "Bank Name": "GOLDSTREAM CAPITAL MANAGEMENT LIMITED",
@@ -4073,8 +4073,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRTM",
-    "bankCode": "HK",
+    "bankCode": "GRTM",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "GRTMHKH2",
     "Bank Name": "GOPHER REDWOODS ASSET MANAGEMENT LI MITED",
@@ -4086,8 +4086,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSHK",
-    "bankCode": "HK",
+    "bankCode": "GSHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "GSHKHKHH",
     "Bank Name": "GUOSEN SECURITIES (HK) BROKERAGE CO.,LTD",
@@ -4099,8 +4099,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GJIH",
-    "bankCode": "HK",
+    "bankCode": "GJIH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "GJIHHKHH",
     "Bank Name": "GUOTAI JUNAN SECURITIES (HONG KONG) LIMITED",
@@ -4112,8 +4112,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFLI",
-    "bankCode": "HK",
+    "bankCode": "HFLI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HFLIHKHH",
     "Bank Name": "HABIB BANK ZURICH (HONG KONG) LIMITED",
@@ -4125,8 +4125,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFLI",
-    "bankCode": "HK",
+    "bankCode": "HFLI",
+    "countryCode": "HK",
     "branchCode": "KCX",
     "SWIFT Code": "HFLIHKHHKCX",
     "Bank Name": "HABIB BANK ZURICH (HONG KONG) LIMITED",
@@ -4138,8 +4138,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFLI",
-    "bankCode": "HK",
+    "bankCode": "HFLI",
+    "countryCode": "HK",
     "branchCode": "KTX",
     "SWIFT Code": "HFLIHKHHKTX",
     "Bank Name": "HABIB BANK ZURICH (HONG KONG) LIMITED",
@@ -4151,8 +4151,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFLI",
-    "bankCode": "HK",
+    "bankCode": "HFLI",
+    "countryCode": "HK",
     "branchCode": "KNX",
     "SWIFT Code": "HFLIHKHHKNX",
     "Bank Name": "HABIB BANK ZURICH (HONG KONG) LIMITED",
@@ -4164,8 +4164,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAIH",
-    "bankCode": "HK",
+    "bankCode": "HAIH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "HAIHHKH2",
     "Bank Name": "HADSUND INTERNATIONAL TECHNOLOGY LIMITED",
@@ -4177,8 +4177,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCEX",
-    "bankCode": "HK",
+    "bankCode": "HCEX",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HCEXHKHH",
     "Bank Name": "HAI CLOUD EXCHANGE (HK) LIMITED",
@@ -4190,8 +4190,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAPM",
-    "bankCode": "HK",
+    "bankCode": "HAPM",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "HAPMHKH2",
     "Bank Name": "HAINA PAYMENT HK CO., LIMITED",
@@ -4203,8 +4203,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HISA",
-    "bankCode": "HK",
+    "bankCode": "HISA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "HISAHKH2",
     "Bank Name": "HAITONG INTERNATIONAL SECURITIES COMPANY LIMITED",
@@ -4216,8 +4216,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAHA",
-    "bankCode": "HK",
+    "bankCode": "EAHA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EAHAHKHH",
     "Bank Name": "HAMON ASSET MANAGEMENT LIMITED",
@@ -4229,8 +4229,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HASEHKHH",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4242,8 +4242,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "SEC",
     "SWIFT Code": "HASEHKHHSEC",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4255,8 +4255,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "CLS",
     "SWIFT Code": "HASEHKHHCLS",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4268,8 +4268,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "GPI",
     "SWIFT Code": "HASEHKHHGPI",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4281,8 +4281,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "SCF",
     "SWIFT Code": "HASEHKHHSCF",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4294,8 +4294,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "HASEHKHHMTG",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4307,8 +4307,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "SVM",
     "SWIFT Code": "HASEHKHHSVM",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -4320,8 +4320,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "HK",
+    "bankCode": "HASE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "HASEHKH2",
     "Bank Name": "HANG SENG INVESTMENT MANAGEMENT LIMITED",
@@ -4333,8 +4333,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GECG",
-    "bankCode": "HK",
+    "bankCode": "GECG",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "GECGHKHH",
     "Bank Name": "HARBOUR AND HILLS FINANCIAL SERVICES LIMITED",
@@ -4346,8 +4346,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDFC",
-    "bankCode": "HK",
+    "bankCode": "HDFC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HDFCHKHH",
     "Bank Name": "HDFC BANK LTD",
@@ -4359,8 +4359,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDIT",
-    "bankCode": "HK",
+    "bankCode": "HDIT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HDITHKHH",
     "Bank Name": "HDT INTERNATIONAL LIMITED",
@@ -4372,8 +4372,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HESS",
-    "bankCode": "HK",
+    "bankCode": "HESS",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "HESSHKK2",
     "Bank Name": "HEUNGKONG SECURITIES LIMITED",
@@ -4385,8 +4385,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XHKF",
-    "bankCode": "HK",
+    "bankCode": "XHKF",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "XHKFHKHH",
     "Bank Name": "HKFE CLEARING CORPORATION LIMITED",
@@ -4398,8 +4398,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XHKF",
-    "bankCode": "HK",
+    "bankCode": "XHKF",
+    "countryCode": "HK",
     "branchCode": "TRE",
     "SWIFT Code": "XHKFHKHHTRE",
     "Bank Name": "HKFE CLEARING CORPORATION LIMITED",
@@ -4411,8 +4411,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKEX",
-    "bankCode": "HK",
+    "bankCode": "HKEX",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HKEXHKHH",
     "Bank Name": "HONG KONG EXCHANGES AND CLEARING LIMITED",
@@ -4424,8 +4424,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKEX",
-    "bankCode": "HK",
+    "bankCode": "HKEX",
+    "countryCode": "HK",
     "branchCode": "TRE",
     "SWIFT Code": "HKEXHKHHTRE",
     "Bank Name": "HONG KONG EXCHANGES AND CLEARING LIMITED",
@@ -4437,8 +4437,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKFE",
-    "bankCode": "HK",
+    "bankCode": "HKFE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HKFEHKHH",
     "Bank Name": "HONG KONG FUTURES EXCHANGE LIMITED",
@@ -4450,8 +4450,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKIC",
-    "bankCode": "HK",
+    "bankCode": "HKIC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HKICHKHH",
     "Bank Name": "HONG KONG INTERBANK CLEARING LIMITED",
@@ -4463,8 +4463,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKMA",
-    "bankCode": "HK",
+    "bankCode": "HKMA",
+    "countryCode": "HK",
     "branchCode": "KHC",
     "SWIFT Code": "HKMAHKHC",
     "Bank Name": "HONG KONG MONETARY AUTHORITY",
@@ -4476,8 +4476,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKMA",
-    "bankCode": "HK",
+    "bankCode": "HKMA",
+    "countryCode": "HK",
     "branchCode": "BDC",
     "SWIFT Code": "HKMAHKHCBDC",
     "Bank Name": "HONG KONG MONETARY AUTHORITY",
@@ -4489,8 +4489,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKMC",
-    "bankCode": "HK",
+    "bankCode": "HKMC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HKMCHKHH",
     "Bank Name": "HONG KONG MORTGAGE CORPORATION LIMITED, THE",
@@ -4502,8 +4502,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKMA",
-    "bankCode": "HK",
+    "bankCode": "HKMA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HKMAHKHH",
     "Bank Name": "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)",
@@ -4515,8 +4515,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKMA",
-    "bankCode": "HK",
+    "bankCode": "HKMA",
+    "countryCode": "HK",
     "branchCode": "LTG",
     "SWIFT Code": "HKMAHKHHLTG",
     "Bank Name": "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)",
@@ -4528,8 +4528,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKMA",
-    "bankCode": "HK",
+    "bankCode": "HKMA",
+    "countryCode": "HK",
     "branchCode": "CBA",
     "SWIFT Code": "HKMAHKHHCBA",
     "Bank Name": "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)",
@@ -4541,8 +4541,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYNP",
-    "bankCode": "HK",
+    "bankCode": "SYNP",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SYNPHKHH",
     "Bank Name": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
@@ -4554,8 +4554,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKSC",
-    "bankCode": "HK",
+    "bankCode": "HKSC",
+    "countryCode": "HK",
     "branchCode": "IPO",
     "SWIFT Code": "HKSCHKH2IPO",
     "Bank Name": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
@@ -4567,8 +4567,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKSC",
-    "bankCode": "HK",
+    "bankCode": "HKSC",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "HKSCHKH2",
     "Bank Name": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
@@ -4580,8 +4580,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKSC",
-    "bankCode": "HK",
+    "bankCode": "HKSC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HKSCHKHH",
     "Bank Name": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
@@ -4593,8 +4593,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKSC",
-    "bankCode": "HK",
+    "bankCode": "HKSC",
+    "countryCode": "HK",
     "branchCode": "TRE",
     "SWIFT Code": "HKSCHKHHTRE",
     "Bank Name": "HONG KONG SECURITIES CLEARING COMPANY LIMITED",
@@ -4606,8 +4606,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "HK",
+    "bankCode": "HLBB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HLBBHKHH",
     "Bank Name": "HONG LEONG BANK BERHAD HONG KONG BRANCH",
@@ -4619,8 +4619,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "HK",
+    "bankCode": "HLBB",
+    "countryCode": "HK",
     "branchCode": "IBW",
     "SWIFT Code": "HLBBHKHHIBW",
     "Bank Name": "HONG LEONG BANK BERHAD HONG KONG BRANCH",
@@ -4632,8 +4632,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "HSBCHKHH",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -4645,8 +4645,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "AHO",
     "SWIFT Code": "HSBCHKHHAHO",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -4658,8 +4658,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "HKH",
     "SWIFT Code": "HSBCHKHHHKH",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -4671,8 +4671,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "EBD",
     "SWIFT Code": "HSBCHKHHEBD",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -4684,8 +4684,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "HK",
+    "bankCode": "HSBC",
+    "countryCode": "HK",
     "branchCode": "IBM",
     "SWIFT Code": "HSBCHKHHIBM",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -4697,8 +4697,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "FSA",
     "SWIFT Code": "BTFEHKHHFSA",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4710,8 +4710,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "AVS",
     "SWIFT Code": "BTFEHKHHAVS",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4723,8 +4723,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "KHI",
     "SWIFT Code": "BTFEHKHHKHI",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4736,8 +4736,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "IMO",
     "SWIFT Code": "BTFEHKHHIMO",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4749,8 +4749,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "MNL",
     "SWIFT Code": "BTFEHKHHMNL",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4762,8 +4762,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "RFA",
     "SWIFT Code": "BTFEHKHHRFA",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4775,8 +4775,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "VNI",
     "SWIFT Code": "BTFEHKHHVNI",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4788,8 +4788,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BTFEHKHH",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4801,8 +4801,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "ISD",
     "SWIFT Code": "BTFEHKHHISD",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4814,8 +4814,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "RTS",
     "SWIFT Code": "BTFEHKHHRTS",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -4827,8 +4827,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDHK",
-    "bankCode": "HK",
+    "bankCode": "KDHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KDHKHKHH",
     "Bank Name": "THE KOREA DEVELOPMENT BANK HONG KONG BRANCH",
@@ -4840,8 +4840,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "HK",
+    "bankCode": "SCSB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SCSBHKHH",
     "Bank Name": "THE SHANGHAI COMMERCIAL AND SAVINGS BANK LTD.HK BR.",
@@ -4853,8 +4853,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIGA",
-    "bankCode": "HK",
+    "bankCode": "SIGA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SIGAHKHH",
     "Bank Name": "THE SHIGA BANK, LTD., HONG KONG BRANCH",
@@ -4866,8 +4866,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHIZ",
-    "bankCode": "HK",
+    "bankCode": "SHIZ",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SHIZHKHH",
     "Bank Name": "THE SHIZUOKA BANK, LTD., HONG KONG BRANCH",
@@ -4879,8 +4879,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XHKG",
-    "bankCode": "HK",
+    "bankCode": "XHKG",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "XHKGHKHH",
     "Bank Name": "THE STOCK EXCHANGE OF HONG KONG LTD",
@@ -4892,8 +4892,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XHKG",
-    "bankCode": "HK",
+    "bankCode": "XHKG",
+    "countryCode": "HK",
     "branchCode": "TRE",
     "SWIFT Code": "XHKGHKHHTRE",
     "Bank Name": "THE STOCK EXCHANGE OF HONG KONG LTD",
@@ -4905,8 +4905,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "HK",
+    "bankCode": "TDOM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "TDOMHKHH",
     "Bank Name": "TORONTO DOMINION BANK",
@@ -4918,8 +4918,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAAF",
-    "bankCode": "HK",
+    "bankCode": "TAAF",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "TAAFHKH2",
     "Bank Name": "TRANSFERCLEAR (HK) LIMITED",
@@ -4931,8 +4931,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRRF",
-    "bankCode": "HK",
+    "bankCode": "TRRF",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "TRRFHKH2",
     "Bank Name": "TRANSFERMATE HK LIMITED",
@@ -4944,8 +4944,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRSW",
-    "bankCode": "HK",
+    "bankCode": "TRSW",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "TRSWHKH2",
     "Bank Name": "TRANSWAP LIMITED",
@@ -4957,8 +4957,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "HK",
+    "bankCode": "UBSW",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "UBSWHKHHMTG",
     "Bank Name": "UBS AG HONG KONG BRANCH",
@@ -4970,8 +4970,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "HK",
+    "bankCode": "UBSW",
+    "countryCode": "HK",
     "branchCode": "E1M",
     "SWIFT Code": "UBSWHKHHE1M",
     "Bank Name": "UBS AG HONG KONG BRANCH",
@@ -4983,8 +4983,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "HK",
+    "bankCode": "UBSW",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "UBSWHKHH",
     "Bank Name": "UBS AG HONG KONG BRANCH",
@@ -4996,8 +4996,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "HK",
+    "bankCode": "UBSW",
+    "countryCode": "HK",
     "branchCode": "CLS",
     "SWIFT Code": "UBSWHKHHCLS",
     "Bank Name": "UBS AG HONG KONG BRANCH",
@@ -5009,8 +5009,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "HK",
+    "bankCode": "UBSW",
+    "countryCode": "HK",
     "branchCode": "CIC",
     "SWIFT Code": "UBSWHKHHCIC",
     "Bank Name": "UBS AG HONG KONG BRANCH",
@@ -5022,8 +5022,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "HK",
+    "bankCode": "UBSW",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "UBSWHKH2",
     "Bank Name": "UBS SECURITIES ASIA LIMITED",
@@ -5035,8 +5035,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWDR",
-    "bankCode": "HK",
+    "bankCode": "SWDR",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SWDRHKH2",
     "Bank Name": "UBS SECURITIES HONG KONG LIMITED",
@@ -5048,8 +5048,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSE",
-    "bankCode": "HK",
+    "bankCode": "UBSE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "UBSEHKH2",
     "Bank Name": "UBS SECURITIES HONG KONG LIMITED",
@@ -5061,8 +5061,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBFA",
-    "bankCode": "HK",
+    "bankCode": "SBFA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SBFAHKH2",
     "Bank Name": "UBS WARBURG FINANCE (ASIA) LIMITED",
@@ -5074,8 +5074,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBA",
-    "bankCode": "HK",
+    "bankCode": "UCBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "UCBAHKHH",
     "Bank Name": "UCO BANK",
@@ -5087,8 +5087,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BVBE",
-    "bankCode": "HK",
+    "bankCode": "BVBE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BVBEHKHH",
     "Bank Name": "UNICREDIT BANK AG HONG KONG BRANCH INCORPORATED   IN GERMANY WITH LIMITED LIABILITY",
@@ -5100,8 +5100,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "HK",
+    "bankCode": "UBPG",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "UBPGHKHX",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -5113,8 +5113,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "HK",
+    "bankCode": "UBPG",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "UBPGHKHXMTG",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -5126,8 +5126,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UETC",
-    "bankCode": "HK",
+    "bankCode": "UETC",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "UETCHKH2",
     "Bank Name": "UNITED ELECTRONIC TRADING COMPANY LIMITED",
@@ -5139,8 +5139,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "HK",
+    "bankCode": "UOVB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "UOVBHKHH",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED HONG KONG BRANCH (INCORPORATED IN SINGAPORE WITH LIMITED LIABILITY)",
@@ -5152,8 +5152,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "HK",
+    "bankCode": "UOVB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "UOVBHKHHMTG",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED HONG KONG BRANCH (INCORPORATED IN SINGAPORE WITH LIMITED LIABILITY)",
@@ -5165,8 +5165,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "HK",
+    "bankCode": "UOVB",
+    "countryCode": "HK",
     "branchCode": "CMS",
     "SWIFT Code": "UOVBHKHHCMS",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED HONG KONG BRANCH (INCORPORATED IN SINGAPORE WITH LIMITED LIABILITY)",
@@ -5178,8 +5178,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNGL",
-    "bankCode": "HK",
+    "bankCode": "UNGL",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "UNGLHKH2",
     "Bank Name": "UNITRUST GLOBAL LIMITED",
@@ -5191,8 +5191,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UECE",
-    "bankCode": "HK",
+    "bankCode": "UECE",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "UECEHKHK",
     "Bank Name": "UNIVERSAL EXCHANGE CENTRE LIMITED",
@@ -5204,8 +5204,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USEE",
-    "bankCode": "HK",
+    "bankCode": "USEE",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "USEEHKH2",
     "Bank Name": "USEEPAY LIMITED",
@@ -5217,8 +5217,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTRT",
-    "bankCode": "HK",
+    "bankCode": "UTRT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "UTRTHKH2",
     "Bank Name": "UTR8 AP LIMITED",
@@ -5230,8 +5230,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VACK",
-    "bankCode": "HK",
+    "bankCode": "VACK",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "VACKHKH2",
     "Bank Name": "VANTAGE CAPITAL MARKETS HK LIMITED",
@@ -5243,8 +5243,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFTV",
-    "bankCode": "HK",
+    "bankCode": "BFTV",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BFTVHKHH",
     "Bank Name": "VIETNAM FINANCE COMPANY LIMITED",
@@ -5256,8 +5256,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VGAI",
-    "bankCode": "HK",
+    "bankCode": "VGAI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "VGAIHKHH",
     "Bank Name": "VISTRA GROUP MANAGEMENT (ASIA) LIMITED",
@@ -5269,8 +5269,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WATP",
-    "bankCode": "HK",
+    "bankCode": "WATP",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "WATPHKH2",
     "Bank Name": "WALLEX TECHNOLOGIES INTERNATIONAL LIMITED",
@@ -5282,8 +5282,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WYFT",
-    "bankCode": "HK",
+    "bankCode": "WYFT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "WYFTHKH2",
     "Bank Name": "WANSHENG YINGTONG FINANCIAL TECHNOLOGY CO., LIMITED",
@@ -5295,8 +5295,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WSIN",
-    "bankCode": "HK",
+    "bankCode": "WSIN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "WSINHKH2",
     "Bank Name": "WATON SECURITIES INTERNATIONAL LIMITED",
@@ -5308,8 +5308,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEDI",
-    "bankCode": "HK",
+    "bankCode": "WEDI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "WEDIHKHH",
     "Bank Name": "WELAB BANK LIMITED",
@@ -5321,8 +5321,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "HK",
+    "bankCode": "PNBP",
+    "countryCode": "HK",
     "branchCode": "BDP",
     "SWIFT Code": "PNBPHKHHBDP",
     "Bank Name": "WELLS FARGO BANK, N.A., HONG KONG BRANCH",
@@ -5334,8 +5334,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "HK",
+    "bankCode": "PNBP",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PNBPHKHH",
     "Bank Name": "WELLS FARGO BANK, N.A., HONG KONG BRANCH",
@@ -5347,8 +5347,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBK",
-    "bankCode": "HK",
+    "bankCode": "DHBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "DHBKHKHH",
     "Bank Name": "DBS BANK (HONG KONG) LIMITED",
@@ -5360,8 +5360,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBK",
-    "bankCode": "HK",
+    "bankCode": "DHBK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "DHBKHKHHMTG",
     "Bank Name": "DBS BANK (HONG KONG) LIMITED",
@@ -5373,8 +5373,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBK",
-    "bankCode": "HK",
+    "bankCode": "DHBK",
+    "countryCode": "HK",
     "branchCode": "VIC",
     "SWIFT Code": "DHBKHKHHVIC",
     "Bank Name": "DBS BANK (HONG KONG) LIMITED",
@@ -5386,8 +5386,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBK",
-    "bankCode": "HK",
+    "bankCode": "DHBK",
+    "countryCode": "HK",
     "branchCode": "PCG",
     "SWIFT Code": "DHBKHKHHPCG",
     "Bank Name": "DBS BANK (HONG KONG) LIMITED",
@@ -5399,8 +5399,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "HK",
+    "bankCode": "DBSS",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "DBSSHKHH",
     "Bank Name": "DBS BANK LTD, HONG KONG BRANCH (INCORPORATED IN SINGAPORE WITH LIMITED LIABILITY)",
@@ -5412,8 +5412,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "HK",
+    "bankCode": "DBSS",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "DBSSHKHHMTG",
     "Bank Name": "DBS BANK LTD, HONG KONG BRANCH (INCORPORATED IN SINGAPORE WITH LIMITED LIABILITY)",
@@ -5425,8 +5425,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "HK",
+    "bankCode": "DBSS",
+    "countryCode": "HK",
     "branchCode": "IBD",
     "SWIFT Code": "DBSSHKHHIBD",
     "Bank Name": "DBS BANK LTD, HONG KONG BRANCH (INCORPORATED IN SINGAPORE WITH LIMITED LIABILITY)",
@@ -5438,8 +5438,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSV",
-    "bankCode": "HK",
+    "bankCode": "DBSV",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "DBSVHKHK",
     "Bank Name": "DBS VICKERS (HONG KONG) LIMITED",
@@ -5451,8 +5451,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "HK",
+    "bankCode": "DEUT",
+    "countryCode": "HK",
     "branchCode": "GMO",
     "SWIFT Code": "DEUTHKHHGMO",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -5464,8 +5464,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "HK",
+    "bankCode": "DEUT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "DEUTHKHH",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -5477,8 +5477,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "HK",
+    "bankCode": "DEUT",
+    "countryCode": "HK",
     "branchCode": "IPB",
     "SWIFT Code": "DEUTHKHHIPB",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -5490,8 +5490,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSGP",
-    "bankCode": "HK",
+    "bankCode": "DSGP",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "DSGPHKH2",
     "Bank Name": "DOLLARSMART GLOBAL PTE. LTD.",
@@ -5503,8 +5503,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENO",
-    "bankCode": "HK",
+    "bankCode": "GENO",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "GENOHKHH",
     "Bank Name": "DZ BANK HONG KONG BRANCH",
@@ -5516,8 +5516,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPAH",
-    "bankCode": "HK",
+    "bankCode": "EPAH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "EPAHHKH2",
     "Bank Name": "E AND P ASIA (HK) LIMITED",
@@ -5529,8 +5529,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUME",
-    "bankCode": "HK",
+    "bankCode": "FUME",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FUMEHKHH",
     "Bank Name": "E FUND MANAGEMENT (HONG KONG) CO., LIMITED",
@@ -5542,8 +5542,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "HK",
+    "bankCode": "ESUN",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ESUNHKHH",
     "Bank Name": "E. SUN COMMERCIAL BANK LTD, HONG KONG BRANCH",
@@ -5555,8 +5555,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWBK",
-    "bankCode": "HK",
+    "bankCode": "EWBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EWBKHKHH",
     "Bank Name": "EAST WEST BANK",
@@ -5568,8 +5568,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWBK",
-    "bankCode": "HK",
+    "bankCode": "EWBK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "EWBKHKHHMTG",
     "Bank Name": "EAST WEST BANK",
@@ -5581,8 +5581,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPII",
-    "bankCode": "HK",
+    "bankCode": "EPII",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "EPIIHKK2",
     "Bank Name": "EASY PAY INTERNATIONAL INVESTMENT CO. LIMITED",
@@ -5594,8 +5594,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAFS",
-    "bankCode": "HK",
+    "bankCode": "EAFS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "EAFSHKH2",
     "Bank Name": "EASYEURO FINANCIAL SERVICES LIMITED",
@@ -5607,8 +5607,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "HK",
+    "bankCode": "EBLD",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EBLDHKHH",
     "Bank Name": "EBL FINANCE (HK) LIMITED",
@@ -5620,8 +5620,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "HK",
+    "bankCode": "EFGB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EFGBHKHH",
     "Bank Name": "EFG BANK AG",
@@ -5633,8 +5633,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPYY",
-    "bankCode": "HK",
+    "bankCode": "EPYY",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "EPYYHKK2",
     "Bank Name": "EPAY LIMITED",
@@ -5646,8 +5646,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "HK",
+    "bankCode": "GIBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "GIBAHKHH",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -5659,8 +5659,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVEP",
-    "bankCode": "HK",
+    "bankCode": "EVEP",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "EVEPHKH2",
     "Bank Name": "EVERPRO HOLDINGS LIMITED",
@@ -5672,8 +5672,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "HK",
+    "bankCode": "EXBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "EXBKHKHH",
     "Bank Name": "EXIM FINANCE (HONG KONG) LIMITED",
@@ -5685,8 +5685,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEIN",
-    "bankCode": "HK",
+    "bankCode": "FEIN",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FEINHKHH",
     "Bank Name": "FAR EASTERN INTERNATIONAL BANK, HONG KONG BRANCH",
@@ -5698,8 +5698,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FILV",
-    "bankCode": "HK",
+    "bankCode": "FILV",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FILVHKH2",
     "Bank Name": "FIFO FINANCIAL SERVICES LIMITED",
@@ -5711,8 +5711,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "HK",
+    "bankCode": "NBAD",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NBADHKHH",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -5724,8 +5724,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "HK",
+    "bankCode": "NBAD",
+    "countryCode": "HK",
     "branchCode": "GMO",
     "SWIFT Code": "NBADHKHHGMO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -5737,8 +5737,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "HK",
+    "bankCode": "FCBK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "FCBKHKHHMTG",
     "Bank Name": "FIRST COMMERCIAL BANK, LTD HONG KONG BRANCH",
@@ -5750,8 +5750,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "HK",
+    "bankCode": "FCBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FCBKHKHH",
     "Bank Name": "FIRST COMMERCIAL BANK, LTD HONG KONG BRANCH",
@@ -5763,8 +5763,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRDT",
-    "bankCode": "HK",
+    "bankCode": "FRDT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FRDTHKH2",
     "Bank Name": "FIRST DIGITAL TRUST LIMITED",
@@ -5776,8 +5776,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGSS",
-    "bankCode": "HK",
+    "bankCode": "FGSS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FGSSHKH2",
     "Bank Name": "FOCUS GLOBAL SOURCING SERVICES CO., LTD",
@@ -5789,8 +5789,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFHO",
-    "bankCode": "HK",
+    "bankCode": "FFHO",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FFHOHKH2",
     "Bank Name": "FORESIGHT FUND (HONG KONG) LIMITED",
@@ -5802,8 +5802,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOUI",
-    "bankCode": "HK",
+    "bankCode": "FOUI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FOUIHKHH",
     "Bank Name": "FOSUN INTERNATIONAL LIMITED",
@@ -5815,8 +5815,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTIO",
-    "bankCode": "HK",
+    "bankCode": "FTIO",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FTIOHKH2",
     "Bank Name": "FTLIFE INSURANCE COMPANY LIMITED",
@@ -5828,8 +5828,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBAL",
-    "bankCode": "HK",
+    "bankCode": "IBAL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "IBALHKHH",
     "Bank Name": "FUBON BANK (HONG KONG) LIMITED",
@@ -5841,8 +5841,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBAL",
-    "bankCode": "HK",
+    "bankCode": "IBAL",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "IBALHKHHMTG",
     "Bank Name": "FUBON BANK (HONG KONG) LIMITED",
@@ -5854,8 +5854,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGAM",
-    "bankCode": "HK",
+    "bankCode": "FGAM",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FGAMHKH2",
     "Bank Name": "FULLGOAL ASSET MANAGEMENT (HK) LIMITED",
@@ -5867,8 +5867,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFFU",
-    "bankCode": "HK",
+    "bankCode": "IFFU",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "IFFUHKHH",
     "Bank Name": "FUSION BANK LIMITED",
@@ -5880,8 +5880,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLIC",
-    "bankCode": "HK",
+    "bankCode": "FLIC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FLICHKHH",
     "Bank Name": "FWD LIFE INSURANCE COMPANY (BERMUDA) LIMITED",
@@ -5893,8 +5893,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLIC",
-    "bankCode": "HK",
+    "bankCode": "FLIC",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "FLICHKH2",
     "Bank Name": "FWD LIFE INSURANCE COMPANY (BERMUDA) LIMITED",
@@ -5906,8 +5906,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAAG",
-    "bankCode": "HK",
+    "bankCode": "GAAG",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "GAAGHKH2",
     "Bank Name": "GEA LIMITED",
@@ -5919,8 +5919,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITIA",
-    "bankCode": "HK",
+    "bankCode": "ITIA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "ITIAHKH2",
     "Bank Name": "GF INTERNATIONAL INVESTMENT MANAGEMENT LIMITED",
@@ -5932,8 +5932,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHKO",
-    "bankCode": "HK",
+    "bankCode": "SHKO",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SHKOHKH2",
     "Bank Name": "GF SECURITIES (HONG KONG) BROKERAGE LTD",
@@ -5945,8 +5945,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLEY",
-    "bankCode": "HK",
+    "bankCode": "GLEY",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "GLEYHKH2",
     "Bank Name": "GLOBAL E-PAYMENT LIMITED",
@@ -5958,8 +5958,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLPC",
-    "bankCode": "HK",
+    "bankCode": "GLPC",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "GLPCHKK2",
     "Bank Name": "GLOBAL PAYMENT E-COMMERCE LIMITED",
@@ -5971,8 +5971,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLCY",
-    "bankCode": "HK",
+    "bankCode": "GLCY",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "GLCYHKH2",
     "Bank Name": "GLOFORTUNE COMPANY LIMITED",
@@ -5984,8 +5984,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOAF",
-    "bankCode": "HK",
+    "bankCode": "GOAF",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "GOAFHKHX",
     "Bank Name": "GOLDMAN SACHS (ASIA) FINANCE",
@@ -5997,8 +5997,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "TMG",
     "SWIFT Code": "ICICHKHHTMG",
     "Bank Name": "ICICI BANK LTD",
@@ -6010,8 +6010,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "CLR",
     "SWIFT Code": "ICICHKHHCLR",
     "Bank Name": "ICICI BANK LTD",
@@ -6023,8 +6023,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "HK",
+    "bankCode": "ICIC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ICICHKHH",
     "Bank Name": "ICICI BANK LTD",
@@ -6036,8 +6036,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOBA",
-    "bankCode": "HK",
+    "bankCode": "IOBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "IOBAHKHH",
     "Bank Name": "INDIAN OVERSEAS BANK, HONG KONG",
@@ -6049,8 +6049,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOBA",
-    "bankCode": "HK",
+    "bankCode": "IOBA",
+    "countryCode": "HK",
     "branchCode": "TST",
     "SWIFT Code": "IOBAHKHHTST",
     "Bank Name": "INDIAN OVERSEAS BANK, HONG KONG",
@@ -6062,8 +6062,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBHK",
-    "bankCode": "HK",
+    "bankCode": "UBHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "UBHKHKHH",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
@@ -6075,8 +6075,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBHK",
-    "bankCode": "HK",
+    "bankCode": "UBHK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "UBHKHKHHMTG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIMITED",
@@ -6088,8 +6088,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "HK",
+    "bankCode": "ICBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ICBKHKHH",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, HONG KONG BRANCH",
@@ -6101,8 +6101,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "HK",
+    "bankCode": "ICBK",
+    "countryCode": "HK",
     "branchCode": "CCI",
     "SWIFT Code": "ICBKHKHHCCI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, HONG KONG BRANCH",
@@ -6114,8 +6114,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "HK",
+    "bankCode": "FJIB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "FJIBHKHH",
     "Bank Name": "INDUSTRIAL BANK CO., LTD. HONG KONG BRANCH",
@@ -6127,8 +6127,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "HK",
+    "bankCode": "FJIB",
+    "countryCode": "HK",
     "branchCode": "CUD",
     "SWIFT Code": "FJIBHKHHCUD",
     "Bank Name": "INDUSTRIAL BANK CO., LTD. HONG KONG BRANCH",
@@ -6140,8 +6140,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "HK",
+    "bankCode": "FJIB",
+    "countryCode": "HK",
     "branchCode": "PBD",
     "SWIFT Code": "FJIBHKHHPBD",
     "Bank Name": "INDUSTRIAL BANK CO., LTD. HONG KONG BRANCH",
@@ -6153,8 +6153,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "HK",
+    "bankCode": "IBKO",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "IBKOHKHH",
     "Bank Name": "INDUSTRIAL BANK OF KOREA, HONG KONG BRANCH",
@@ -6166,8 +6166,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "HK",
+    "bankCode": "INGB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "INGBHKHH",
     "Bank Name": "ING BANK NV (INCORPORATED IN THE NETHERLANDS WITH LIMITED LIABILITY)",
@@ -6179,8 +6179,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISNT",
-    "bankCode": "HK",
+    "bankCode": "ISNT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "ISNTHKHH",
     "Bank Name": "INSTINET PACIFIC LIMITED",
@@ -6192,8 +6192,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "HK",
+    "bankCode": "IBKR",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "IBKRHKHH",
     "Bank Name": "INTERACTIVE BROKERS HONG KONG LIMITED",
@@ -6205,8 +6205,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "HK",
+    "bankCode": "BCIT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BCITHKHH",
     "Bank Name": "INTESA SANPAOLO SPA HONG KONG",
@@ -6218,8 +6218,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAL",
-    "bankCode": "HK",
+    "bankCode": "IPAL",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "IPALHKK2",
     "Bank Name": "IPAYLINKS LIMITED",
@@ -6231,8 +6231,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "KAL",
     "SWIFT Code": "CHASHKAL",
     "Bank Name": "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED",
@@ -6244,8 +6244,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "FOP",
     "SWIFT Code": "CHASHKALFOP",
     "Bank Name": "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED",
@@ -6257,8 +6257,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "HOP",
     "SWIFT Code": "CHASHKALHOP",
     "Bank Name": "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED",
@@ -6270,8 +6270,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "NOM",
     "SWIFT Code": "CHASHKALNOM",
     "Bank Name": "J.P. MORGAN SECURITIES (ASIA PACIFIC) LIMITED",
@@ -6283,8 +6283,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAGO",
-    "bankCode": "HK",
+    "bankCode": "JAGO",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "JAGOHKK2",
     "Bank Name": "JAGOLINK LIMITED",
@@ -6296,8 +6296,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEFF",
-    "bankCode": "HK",
+    "bankCode": "JEFF",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "JEFFHKHH",
     "Bank Name": "JEFFERIES HONG KONG LIMITED",
@@ -6309,8 +6309,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JGHR",
-    "bankCode": "HK",
+    "bankCode": "JGHR",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "JGHRHKHK",
     "Bank Name": "JINCHUAN GROUP (HONGKONG) RESOURCES HOLDINGS LIMITED",
@@ -6322,8 +6322,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "JFIMHKHH",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6335,8 +6335,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "UTO",
     "SWIFT Code": "JFIMHKHHUTO",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6348,8 +6348,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "TWM",
     "SWIFT Code": "JFIMHKHHTWM",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6361,8 +6361,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "TCO",
     "SWIFT Code": "JFIMHKHHTCO",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6374,8 +6374,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "NOM",
     "SWIFT Code": "JFIMHKHHNOM",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6387,8 +6387,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "TAM",
     "SWIFT Code": "JFIMHKHHTAM",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6400,8 +6400,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIM",
-    "bankCode": "HK",
+    "bankCode": "JFIM",
+    "countryCode": "HK",
     "branchCode": "CSD",
     "SWIFT Code": "JFIMHKHHCSD",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (ASIA PACIFIC) LIMITED",
@@ -6413,8 +6413,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "KHP",
     "SWIFT Code": "CHASHKHP",
     "Bank Name": "JPMORGAN CHASE BANK NA HONG KONG (PRIVATE BANKING) ORGANIZED UNDER THE LAWS OF USA WITH LIMITED LIABILITY",
@@ -6426,8 +6426,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "LND",
     "SWIFT Code": "CHASHKHHLND",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6439,8 +6439,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "MTS",
     "SWIFT Code": "CHASHKHHMTS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6452,8 +6452,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "TSD",
     "SWIFT Code": "CHASHKHHTSD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6465,8 +6465,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "TRO",
     "SWIFT Code": "CHASHKHHTRO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6478,8 +6478,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CHASHKHH",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6491,8 +6491,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "FNO",
     "SWIFT Code": "CHASHKHHFNO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6504,8 +6504,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "PBI",
     "SWIFT Code": "CHASHKHHPBI",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6517,8 +6517,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "DTD",
     "SWIFT Code": "CHASHKHHDTD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6530,8 +6530,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "FAX",
     "SWIFT Code": "CHASHKHHFAX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6543,8 +6543,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "VLT",
     "SWIFT Code": "CHASHKHHVLT",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6556,8 +6556,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "DCC",
     "SWIFT Code": "CHASHKHHDCC",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6569,8 +6569,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "BHK",
     "SWIFT Code": "CHASHKHHBHK",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6582,8 +6582,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "OIE",
     "SWIFT Code": "CHASHKHHOIE",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6595,8 +6595,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "DEV",
     "SWIFT Code": "CHASHKHHDEV",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6608,8 +6608,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "QAC",
     "SWIFT Code": "CHASHKHHQAC",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6621,8 +6621,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "HK",
+    "bankCode": "CHAS",
+    "countryCode": "HK",
     "branchCode": "UAT",
     "SWIFT Code": "CHASHKHHUAT",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH (ORGANIZED UNDER THE LAWS OF U.S.A. WITH LIMITED LIABILITY)",
@@ -6634,8 +6634,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "HK",
+    "bankCode": "KASI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "KASIHKHH",
     "Bank Name": "KASIKORNBANK PUBLIC COMPANY LIMITED",
@@ -6647,8 +6647,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NKSC",
-    "bankCode": "HK",
+    "bankCode": "NKSC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NKSCHKHH",
     "Bank Name": "SMBC NIKKO SECURITIES(HONG KONG) LIMITED",
@@ -6660,8 +6660,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "HK",
+    "bankCode": "SOGE",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SOGEHKHH",
     "Bank Name": "SOCIETE GENERALE, HONG KONG BRANCH",
@@ -6673,8 +6673,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "HK",
+    "bankCode": "SOGE",
+    "countryCode": "HK",
     "branchCode": "CTI",
     "SWIFT Code": "SOGEHKHHCTI",
     "Bank Name": "SOCIETE GENERALE, HONG KONG BRANCH",
@@ -6686,8 +6686,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOTN",
-    "bankCode": "HK",
+    "bankCode": "SOTN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SOTNHKH2",
     "Bank Name": "SOYA INTERNATIONAL LIMITED",
@@ -6699,8 +6699,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOTN",
-    "bankCode": "HK",
+    "bankCode": "SOTN",
+    "countryCode": "HK",
     "branchCode": "HWA",
     "SWIFT Code": "SOTNHKH2HWA",
     "Bank Name": "SOYA INTERNATIONAL LIMITED",
@@ -6712,8 +6712,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOTN",
-    "bankCode": "HK",
+    "bankCode": "SOTN",
+    "countryCode": "HK",
     "branchCode": "ALL",
     "SWIFT Code": "SOTNHKH2ALL",
     "Bank Name": "SOYA INTERNATIONAL LIMITED",
@@ -6725,8 +6725,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOTN",
-    "bankCode": "HK",
+    "bankCode": "SOTN",
+    "countryCode": "HK",
     "branchCode": "TIC",
     "SWIFT Code": "SOTNHKH2TIC",
     "Bank Name": "SOYA INTERNATIONAL LIMITED",
@@ -6738,8 +6738,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDIS",
-    "bankCode": "HK",
+    "bankCode": "SDIS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SDISHKH2",
     "Bank Name": "SPDB INTERNATIONAL SECURITIES LIMITED",
@@ -6751,8 +6751,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDIS",
-    "bankCode": "HK",
+    "bankCode": "SDIS",
+    "countryCode": "HK",
     "branchCode": "EQU",
     "SWIFT Code": "SDISHKH2EQU",
     "Bank Name": "SPDB INTERNATIONAL SECURITIES LIMITED",
@@ -6764,8 +6764,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDIS",
-    "bankCode": "HK",
+    "bankCode": "SDIS",
+    "countryCode": "HK",
     "branchCode": "FIC",
     "SWIFT Code": "SDISHKH2FIC",
     "Bank Name": "SPDB INTERNATIONAL SECURITIES LIMITED",
@@ -6777,8 +6777,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIFH",
-    "bankCode": "HK",
+    "bankCode": "SIFH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SIFHHKHH",
     "Bank Name": "SPIC INTERNATIONAL FINANCE (HONG KONG) COMPANY LIMITED",
@@ -6790,8 +6790,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "MAC",
     "SWIFT Code": "SCBLHKHHMAC",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6803,8 +6803,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SCBLHKHH",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6816,8 +6816,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "ZOP",
     "SWIFT Code": "SCBLHKHHZOP",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6829,8 +6829,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "ZHS",
     "SWIFT Code": "SCBLHKHHZHS",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6842,8 +6842,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "ZPB",
     "SWIFT Code": "SCBLHKHHZPB",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6855,8 +6855,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "ZSS",
     "SWIFT Code": "SCBLHKHHZSS",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6868,8 +6868,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "WHK",
     "SWIFT Code": "SCBLHKHHWHK",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6881,8 +6881,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "SGE",
     "SWIFT Code": "SCBLHKHHSGE",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6894,8 +6894,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "HK",
+    "bankCode": "SCBL",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "SCBLHKHHMTG",
     "Bank Name": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
@@ -6907,8 +6907,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "HK",
+    "bankCode": "SBIN",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SBINHKHH",
     "Bank Name": "STATE BANK OF INDIA",
@@ -6920,8 +6920,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "HK",
+    "bankCode": "SBOS",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "SBOSHKHX",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH",
@@ -6933,8 +6933,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "HK",
+    "bankCode": "SBOS",
+    "countryCode": "HK",
     "branchCode": "AGC",
     "SWIFT Code": "SBOSHKHXAGC",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH",
@@ -6946,8 +6946,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "HK",
+    "bankCode": "SBOS",
+    "countryCode": "HK",
     "branchCode": "TAD",
     "SWIFT Code": "SBOSHKHXTAD",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, HONG KONG BRANCH",
@@ -6959,8 +6959,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STYS",
-    "bankCode": "HK",
+    "bankCode": "STYS",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "STYSHKHH",
     "Bank Name": "STATRYS LIMITED",
@@ -6972,8 +6972,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STYS",
-    "bankCode": "HK",
+    "bankCode": "STYS",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "STYSHKH2",
     "Bank Name": "STATRYS LIMITED",
@@ -6985,8 +6985,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "HK",
+    "bankCode": "SMBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SMBCHKHH",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -6998,8 +6998,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "HK",
+    "bankCode": "STBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "STBCHKHH",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK, LIMITED (INCORPORATED IN JAPAN WITH LIMITED LIABILITY)",
@@ -7011,8 +7011,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "HK",
+    "bankCode": "SWHQ",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "SWHQHKHK",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE HONG KONG",
@@ -7024,8 +7024,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "HK",
+    "bankCode": "SWHQ",
+    "countryCode": "HK",
     "branchCode": "SVC",
     "SWIFT Code": "SWHQHKHKSVC",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE HONG KONG",
@@ -7037,8 +7037,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYAN",
-    "bankCode": "HK",
+    "bankCode": "SYAN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "SYANHKH2",
     "Bank Name": "SYNCICAP ASSET MANAGEMENT LIMITED",
@@ -7050,8 +7050,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSBL",
-    "bankCode": "HK",
+    "bankCode": "TSBL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "TSBLHKHH",
     "Bank Name": "TAI SANG BANK LIMITED",
@@ -7063,8 +7063,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSBL",
-    "bankCode": "HK",
+    "bankCode": "TSBL",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "TSBLHKHHMTG",
     "Bank Name": "TAI SANG BANK LIMITED",
@@ -7076,8 +7076,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TYBL",
-    "bankCode": "HK",
+    "bankCode": "TYBL",
+    "countryCode": "HK",
     "branchCode": "KKW",
     "SWIFT Code": "TYBLHKKW",
     "Bank Name": "TAI YAU BANK LIMITED",
@@ -7089,8 +7089,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "HK",
+    "bankCode": "TPBK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "TPBKHKHH",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO., LTD. HONG KONG BRANCH",
@@ -7102,8 +7102,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAMY",
-    "bankCode": "HK",
+    "bankCode": "TAMY",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "TAMYHKH2",
     "Bank Name": "TAIPING ASSETS MANAGEMENT (HK) COMPANY LIMITED",
@@ -7115,8 +7115,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "HK",
+    "bankCode": "TSIB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "TSIBHKHH",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO., LTD HONG KONG BRANCH",
@@ -7128,8 +7128,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "HK",
+    "bankCode": "MBBT",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MBBTHKHH",
     "Bank Name": "TAIWAN BUSINESS BANK HONG KONG BRANCH",
@@ -7141,8 +7141,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "HK",
+    "bankCode": "TACB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "TACBHKHH",
     "Bank Name": "TAIWAN COOPERATIVE BANK, HONG KONG BRANCH",
@@ -7154,8 +7154,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "HK",
+    "bankCode": "MKTB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "MKTBHKHH",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD., HONG KONG BRANCH",
@@ -7167,8 +7167,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKTB",
-    "bankCode": "HK",
+    "bankCode": "MKTB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "MKTBHKHHMTG",
     "Bank Name": "TAIWAN SHIN KONG COMMERCIAL BANK CO., LTD., HONG KONG BRANCH",
@@ -7180,8 +7180,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "HK",
+    "bankCode": "IRVT",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "IRVTHKHX",
     "Bank Name": "THE BANK OF NEW YORK MELLON, HONG KONG BRANCH",
@@ -7193,8 +7193,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHGK",
-    "bankCode": "HK",
+    "bankCode": "CHGK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CHGKHKHH",
     "Bank Name": "THE CHUGOKU BANK LIMITED HONG KONG BRANCH",
@@ -7206,8 +7206,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "HK",
+    "bankCode": "BBDA",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "BBDAHKHX",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -7219,8 +7219,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "HK",
+    "bankCode": "BBDA",
+    "countryCode": "HK",
     "branchCode": "TAR",
     "SWIFT Code": "BBDAHKHXTAR",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -7232,8 +7232,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "HK",
+    "bankCode": "BBDA",
+    "countryCode": "HK",
     "branchCode": "AVS",
     "SWIFT Code": "BBDAHKHXAVS",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -7245,8 +7245,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "BKK",
     "SWIFT Code": "BTFEHKHHBKK",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -7258,8 +7258,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "BOM",
     "SWIFT Code": "BTFEHKHHBOM",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -7271,8 +7271,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "DOH",
     "SWIFT Code": "BTFEHKHHDOH",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -7284,8 +7284,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFE",
-    "bankCode": "HK",
+    "bankCode": "BTFE",
+    "countryCode": "HK",
     "branchCode": "DUB",
     "SWIFT Code": "BTFEHKHHDUB",
     "Bank Name": "THE HSBC INSTITUTIONAL TRUST SERVICES (ASIA) LTD.",
@@ -7297,8 +7297,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "PBG",
     "SWIFT Code": "CITIHKHXPBG",
     "Bank Name": "CITIBANK N.A.",
@@ -7310,8 +7310,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "CITIHKHX",
     "Bank Name": "CITIBANK N.A.",
@@ -7323,8 +7323,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CITIHKHXMTG",
     "Bank Name": "CITIBANK N.A.",
@@ -7336,8 +7336,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "TLC",
     "SWIFT Code": "CITIHKHXTLC",
     "Bank Name": "CITIBANK N.A.",
@@ -7349,8 +7349,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "CEA",
     "SWIFT Code": "CITIHKHXCEA",
     "Bank Name": "CITIBANK N.A.",
@@ -7362,8 +7362,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "EFX",
     "SWIFT Code": "CITIHKHXEFX",
     "Bank Name": "CITIBANK N.A.",
@@ -7375,8 +7375,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "BAR",
     "SWIFT Code": "CITIHKHXBAR",
     "Bank Name": "CITIBANK N.A.",
@@ -7388,8 +7388,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "ICE",
     "SWIFT Code": "CITIHKHXICE",
     "Bank Name": "CITIBANK N.A.",
@@ -7401,8 +7401,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "LCB",
     "SWIFT Code": "CITIHKHXLCB",
     "Bank Name": "CITIBANK N.A.",
@@ -7414,8 +7414,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "KIW",
     "SWIFT Code": "CITIHKHXKIW",
     "Bank Name": "CITIBANK N.A.",
@@ -7427,8 +7427,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "REI",
     "SWIFT Code": "CITIHKHXREI",
     "Bank Name": "CITIBANK N.A.",
@@ -7440,8 +7440,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTFI",
-    "bankCode": "HK",
+    "bankCode": "CTFI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CTFIHKHH",
     "Bank Name": "CITIC FINANCE INTERNATIONAL LIMITED",
@@ -7453,8 +7453,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "KHC",
     "SWIFT Code": "CITIHKHC",
     "Bank Name": "CITICORP INTERNATIONAL LTD",
@@ -7466,8 +7466,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HK",
+    "bankCode": "CITI",
+    "countryCode": "HK",
     "branchCode": "BAB",
     "SWIFT Code": "CITIHKHCBAB",
     "Bank Name": "CITICORP INTERNATIONAL LTD",
@@ -7479,8 +7479,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBHK",
-    "bankCode": "HK",
+    "bankCode": "SBHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SBHKHKHH",
     "Bank Name": "CITIGROUP GLOBAL MARKETS ASIA LIMITED",
@@ -7492,8 +7492,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIHK",
-    "bankCode": "HK",
+    "bankCode": "CIHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CIHKHKHH",
     "Bank Name": "CITY HONG KONG LIMITED",
@@ -7505,8 +7505,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSA",
-    "bankCode": "HK",
+    "bankCode": "CLSA",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CLSAHKH2",
     "Bank Name": "CLSA ASSET MANAGEMENT LIMITED",
@@ -7518,8 +7518,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSA",
-    "bankCode": "HK",
+    "bankCode": "CLSA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CLSAHKHH",
     "Bank Name": "CLSA LIMITED",
@@ -7531,8 +7531,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSA",
-    "bankCode": "HK",
+    "bankCode": "CLSA",
+    "countryCode": "HK",
     "branchCode": "CSB",
     "SWIFT Code": "CLSAHKHHCSB",
     "Bank Name": "CLSA LIMITED",
@@ -7544,8 +7544,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSA",
-    "bankCode": "HK",
+    "bankCode": "CLSA",
+    "countryCode": "HK",
     "branchCode": "TBK",
     "SWIFT Code": "CLSAHKHHTBK",
     "Bank Name": "CLSA LIMITED",
@@ -7557,8 +7557,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBT",
-    "bankCode": "HK",
+    "bankCode": "CMBT",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CMBTHKH2",
     "Bank Name": "CMB INTERNATIONAL GLOBAL MARKETS LIMITED",
@@ -7570,8 +7570,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBA",
-    "bankCode": "HK",
+    "bankCode": "WUBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "WUBAHKHH",
     "Bank Name": "CMB WING LUNG BANK LIMITED",
@@ -7583,8 +7583,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBA",
-    "bankCode": "HK",
+    "bankCode": "WUBA",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "WUBAHKHHMTG",
     "Bank Name": "CMB WING LUNG BANK LIMITED",
@@ -7596,8 +7596,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBH",
-    "bankCode": "HK",
+    "bankCode": "CMBH",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CMBHHKH2",
     "Bank Name": "CMBC CAPITAL HOLDINGS LIMITED",
@@ -7609,8 +7609,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMAN",
-    "bankCode": "HK",
+    "bankCode": "MMAN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "MMANHKH2",
     "Bank Name": "CMS ASSET MANAGEMENT (HK) CO., LIMI TED",
@@ -7622,8 +7622,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTMG",
-    "bankCode": "HK",
+    "bankCode": "CTMG",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CTMGHKHH",
     "Bank Name": "CNMC TREASURY MANAGEMENT (HONG KONG) COMPANY LIMITED",
@@ -7635,8 +7635,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "HK",
+    "bankCode": "CTBA",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "CTBAHKHK",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -7648,8 +7648,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CWFL",
-    "bankCode": "HK",
+    "bankCode": "CWFL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CWFLHKHH",
     "Bank Name": "COMMONWEALTH FINANCE CORPORATION LIMITED",
@@ -7661,8 +7661,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPUH",
-    "bankCode": "HK",
+    "bankCode": "CPUH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CPUHHKHH",
     "Bank Name": "COMPUTERSHARE HONG KONG INVESTOR SERVICES LIMITED",
@@ -7674,8 +7674,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIKE",
-    "bankCode": "HK",
+    "bankCode": "NIKE",
+    "countryCode": "HK",
     "branchCode": "KH3",
     "SWIFT Code": "NIKEHKH3",
     "Bank Name": "CONVERSE HONG KONG LTD",
@@ -7687,8 +7687,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "HK",
+    "bankCode": "CRLY",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CRLYHKHH",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -7700,8 +7700,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "HK",
+    "bankCode": "CRLY",
+    "countryCode": "HK",
     "branchCode": "COM",
     "SWIFT Code": "CRLYHKHHCOM",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -7713,8 +7713,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "HK",
+    "bankCode": "AGRI",
+    "countryCode": "HK",
     "branchCode": "KHS",
     "SWIFT Code": "AGRIHKHS",
     "Bank Name": "CREDIT AGRICOLE SECURITIES (ASIA) LIMITED",
@@ -7726,8 +7726,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "HK",
+    "bankCode": "CMCI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CMCIHKHH",
     "Bank Name": "CREDIT INDUSTRIEL ET COMMERCIAL",
@@ -7739,8 +7739,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "HK",
+    "bankCode": "CSFB",
+    "countryCode": "HK",
     "branchCode": "VIS",
     "SWIFT Code": "CSFBHKHXVIS",
     "Bank Name": "CREDIT SUISSE (HONG KONG) LIMITED",
@@ -7752,8 +7752,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "HK",
+    "bankCode": "CSFB",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "CSFBHKHX",
     "Bank Name": "CREDIT SUISSE (HONG KONG) LIMITED",
@@ -7765,8 +7765,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSHK",
-    "bankCode": "HK",
+    "bankCode": "CSHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CSHKHKHH",
     "Bank Name": "CREDIT SUISSE AG, HONG KONG BRANCH",
@@ -7778,8 +7778,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "HK",
+    "bankCode": "CRES",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CRESHKHH",
     "Bank Name": "CREDIT SUISSE AG, HONG KONG BRANCH",
@@ -7791,8 +7791,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSHK",
-    "bankCode": "HK",
+    "bankCode": "CSHK",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CSHKHKHHMTG",
     "Bank Name": "CREDIT SUISSE AG, HONG KONG BRANCH",
@@ -7804,8 +7804,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "HK",
+    "bankCode": "CSFB",
+    "countryCode": "HK",
     "branchCode": "KHE",
     "SWIFT Code": "CSFBHKHE",
     "Bank Name": "CREDIT SUISSE SECURITIES (HONG KONG) LIMITED",
@@ -7817,8 +7817,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSNM",
-    "bankCode": "HK",
+    "bankCode": "CSNM",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CSNMHKH2",
     "Bank Name": "CSOP ASSET MANAGEMENT LIMITED",
@@ -7830,8 +7830,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "HK",
+    "bankCode": "CTCB",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "CTCBHKHHMTG",
     "Bank Name": "CTBC BANK CO.,LTD., HONG KONG BRANCH",
@@ -7843,8 +7843,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "HK",
+    "bankCode": "CTCB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CTCBHKHH",
     "Bank Name": "CTBC BANK CO.,LTD., HONG KONG BRANCH",
@@ -7856,8 +7856,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "HK",
+    "bankCode": "CTCB",
+    "countryCode": "HK",
     "branchCode": "006",
     "SWIFT Code": "CTCBHKHH006",
     "Bank Name": "CTBC BANK CO.,LTD., HONG KONG BRANCH",
@@ -7869,8 +7869,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "HK",
+    "bankCode": "CTCB",
+    "countryCode": "HK",
     "branchCode": "003",
     "SWIFT Code": "CTCBHKHH003",
     "Bank Name": "CTBC BANK CO.,LTD., HONG KONG BRANCH",
@@ -7882,8 +7882,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CURF",
-    "bankCode": "HK",
+    "bankCode": "CURF",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CURFHKH2",
     "Bank Name": "CURFEX (HK) LIMITED",
@@ -7895,8 +7895,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CURX",
-    "bankCode": "HK",
+    "bankCode": "CURX",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "CURXHKH2",
     "Bank Name": "CURRENXIE LIMITED",
@@ -7908,8 +7908,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSBA",
-    "bankCode": "HK",
+    "bankCode": "DSBA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "DSBAHKHH",
     "Bank Name": "DAH SING BANK, LIMITED",
@@ -7921,8 +7921,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSBA",
-    "bankCode": "HK",
+    "bankCode": "DSBA",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "DSBAHKHHMTG",
     "Bank Name": "DAH SING BANK, LIMITED",
@@ -7934,8 +7934,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DWHK",
-    "bankCode": "HK",
+    "bankCode": "DWHK",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "DWHKHKHH",
     "Bank Name": "DAIWA CAPITAL MARKETS HONG KONG LIMITED",
@@ -7947,8 +7947,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "HK",
+    "bankCode": "COMM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "COMMHKHH",
     "Bank Name": "BANK OF COMMUNICATIONS CO., LTD. HONG KONG BRANCH",
@@ -7960,8 +7960,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "HK",
+    "bankCode": "COMM",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "COMMHKHHMTG",
     "Bank Name": "BANK OF COMMUNICATIONS CO., LTD. HONG KONG BRANCH",
@@ -7973,8 +7973,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTL",
-    "bankCode": "HK",
+    "bankCode": "BKTL",
+    "countryCode": "HK",
     "branchCode": "KKH",
     "SWIFT Code": "BKTLHKKH",
     "Bank Name": "BANK OF COMMUNICATIONS TRUSTEE LIMITED",
@@ -7986,8 +7986,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGCB",
-    "bankCode": "HK",
+    "bankCode": "DGCB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "DGCBHKHH",
     "Bank Name": "BANK OF DONGGUAN CO., LTD HONG KONG BRANCH",
@@ -7999,8 +7999,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "HK",
+    "bankCode": "BEAS",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BEASHKHHMTG",
     "Bank Name": "BANK OF EAST ASIA,LIMITED,THE",
@@ -8012,8 +8012,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "HK",
+    "bankCode": "BEAS",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BEASHKHH",
     "Bank Name": "BANK OF EAST ASIA,LIMITED,THE",
@@ -8025,8 +8025,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "HK",
+    "bankCode": "BKID",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BKIDHKHH",
     "Bank Name": "BANK OF INDIA",
@@ -8038,8 +8038,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "HK",
+    "bankCode": "BOFM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BOFMHKHH",
     "Bank Name": "BANK OF MONTREAL",
@@ -8051,8 +8051,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "HK",
+    "bankCode": "BOFM",
+    "countryCode": "HK",
     "branchCode": "FXM",
     "SWIFT Code": "BOFMHKHHFXM",
     "Bank Name": "BANK OF MONTREAL",
@@ -8064,8 +8064,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "HK",
+    "bankCode": "BOFM",
+    "countryCode": "HK",
     "branchCode": "GTB",
     "SWIFT Code": "BOFMHKHHGTB",
     "Bank Name": "BANK OF MONTREAL",
@@ -8077,8 +8077,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "HK",
+    "bankCode": "BOFM",
+    "countryCode": "HK",
     "branchCode": "PWM",
     "SWIFT Code": "BOFMHKHHPWM",
     "Bank Name": "BANK OF MONTREAL",
@@ -8090,8 +8090,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "HK",
+    "bankCode": "NOSC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "NOSCHKHH",
     "Bank Name": "BANK OF NOVA SCOTIA, THE",
@@ -8103,8 +8103,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "HK",
+    "bankCode": "NOSC",
+    "countryCode": "HK",
     "branchCode": "MOC",
     "SWIFT Code": "NOSCHKHHMOC",
     "Bank Name": "BANK OF NOVA SCOTIA, THE",
@@ -8116,8 +8116,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "HK",
+    "bankCode": "NOSC",
+    "countryCode": "HK",
     "branchCode": "GFI",
     "SWIFT Code": "NOSCHKHHGFI",
     "Bank Name": "BANK OF NOVA SCOTIA, THE",
@@ -8129,8 +8129,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "HK",
+    "bankCode": "BOSH",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BOSHHKHH",
     "Bank Name": "BANK OF SHANGHAI (HONG KONG) LTD. HONG KONG",
@@ -8142,8 +8142,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGP",
-    "bankCode": "HK",
+    "bankCode": "INGP",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "INGPHKHHMTG",
     "Bank Name": "BANK OF SINGAPORE LIMITED",
@@ -8155,8 +8155,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGP",
-    "bankCode": "HK",
+    "bankCode": "INGP",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "INGPHKHH",
     "Bank Name": "BANK OF SINGAPORE LIMITED",
@@ -8168,8 +8168,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "HK",
+    "bankCode": "BKTW",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BKTWHKHH",
     "Bank Name": "BANK OF TAIWAN, HONG KONG BRANCH",
@@ -8181,8 +8181,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "HK",
+    "bankCode": "BKTW",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BKTWHKHHMTG",
     "Bank Name": "BANK OF TAIWAN, HONG KONG BRANCH",
@@ -8194,8 +8194,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "HK",
+    "bankCode": "SINO",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "SINOHKHH",
     "Bank Name": "BANK SINOPAC",
@@ -8207,8 +8207,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "HK",
+    "bankCode": "PICT",
+    "countryCode": "HK",
     "branchCode": "KAH",
     "SWIFT Code": "PICTHKAH",
     "Bank Name": "BANQUE PICTET AND CIE S.A., HONG KONG BRANCH",
@@ -8220,8 +8220,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "HK",
+    "bankCode": "PICT",
+    "countryCode": "HK",
     "branchCode": "COR",
     "SWIFT Code": "PICTHKAHCOR",
     "Bank Name": "BANQUE PICTET AND CIE S.A., HONG KONG BRANCH",
@@ -8233,8 +8233,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "HK",
+    "bankCode": "BARC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BARCHKHH",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -8246,8 +8246,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "HK",
+    "bankCode": "BARC",
+    "countryCode": "HK",
     "branchCode": "KHW",
     "SWIFT Code": "BARCHKHW",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -8259,8 +8259,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZWL",
-    "bankCode": "HK",
+    "bankCode": "BZWL",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BZWLHKHH",
     "Bank Name": "BARCLAYS CAPITAL ASIA LTD",
@@ -8272,8 +8272,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENA",
-    "bankCode": "HK",
+    "bankCode": "CENA",
+    "countryCode": "HK",
     "branchCode": "KHR",
     "SWIFT Code": "CENAHKHR",
     "Bank Name": "BCA FINANCE LTD (SUBSIDIARY OF P.T. BCA)",
@@ -8285,8 +8285,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNOR",
-    "bankCode": "HK",
+    "bankCode": "BNOR",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BNORHKHH",
     "Bank Name": "BDO UNIBANK, INC.",
@@ -8298,8 +8298,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEEY",
-    "bankCode": "HK",
+    "bankCode": "BEEY",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "BEEYHKH2",
     "Bank Name": "BEEPAY LIMITED",
@@ -8311,8 +8311,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIYP",
-    "bankCode": "HK",
+    "bankCode": "BIYP",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "BIYPHKH2",
     "Bank Name": "BIN YUAN CAPITAL LIMITED",
@@ -8324,8 +8324,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDL",
-    "bankCode": "HK",
+    "bankCode": "BNDL",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "BNDLHKK2",
     "Bank Name": "BINDO LABS LIMITED",
@@ -8337,8 +8337,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HK",
+    "bankCode": "BNPA",
+    "countryCode": "HK",
     "branchCode": "WMB",
     "SWIFT Code": "BNPAHKHHWMB",
     "Bank Name": "BNP PARIBAS",
@@ -8350,8 +8350,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HK",
+    "bankCode": "BNPA",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BNPAHKHH",
     "Bank Name": "BNP PARIBAS",
@@ -8363,8 +8363,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HK",
+    "bankCode": "BNPA",
+    "countryCode": "HK",
     "branchCode": "EQD",
     "SWIFT Code": "BNPAHKHHEQD",
     "Bank Name": "BNP PARIBAS",
@@ -8376,8 +8376,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HK",
+    "bankCode": "BNPA",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "BNPAHKHHMTG",
     "Bank Name": "BNP PARIBAS",
@@ -8389,8 +8389,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HK",
+    "bankCode": "BNPA",
+    "countryCode": "HK",
     "branchCode": "COM",
     "SWIFT Code": "BNPAHKHHCOM",
     "Bank Name": "BNP PARIBAS",
@@ -8402,8 +8402,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HK",
+    "bankCode": "BNPA",
+    "countryCode": "HK",
     "branchCode": "KHP",
     "SWIFT Code": "BNPAHKHP",
     "Bank Name": "BNP PARIBAS SECURITIES (ASIA) LTD.",
@@ -8415,8 +8415,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "HK",
+    "bankCode": "PARB",
+    "countryCode": "HK",
     "branchCode": "ISI",
     "SWIFT Code": "PARBHKHHISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -8428,8 +8428,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "HK",
+    "bankCode": "PARB",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "PARBHKHH",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -8441,8 +8441,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOEN",
-    "bankCode": "HK",
+    "bankCode": "BOEN",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "BOENHKH2",
     "Bank Name": "BOCHK ASSET MANAGEMENT LIMITED",
@@ -8454,8 +8454,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOCF",
-    "bankCode": "HK",
+    "bankCode": "BOCF",
+    "countryCode": "HK",
     "branchCode": "KHK",
     "SWIFT Code": "BOCFHKHK",
     "Bank Name": "BOCI COMMODITIES AND FUTURES LTD",
@@ -8467,8 +8467,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOCI",
-    "bankCode": "HK",
+    "bankCode": "BOCI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BOCIHKHH",
     "Bank Name": "BOCI SECURITIES LIMITED",
@@ -8480,8 +8480,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTU",
-    "bankCode": "HK",
+    "bankCode": "BOTU",
+    "countryCode": "HK",
     "branchCode": "KK2",
     "SWIFT Code": "BOTUHKK2",
     "Bank Name": "BOCI-PRUDENTIAL TRUSTEE LIMITED",
@@ -8493,8 +8493,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPII",
-    "bankCode": "HK",
+    "bankCode": "BPII",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BPIIHKHH",
     "Bank Name": "BPI INTERNATIONAL FINANCE LTD.",
@@ -8506,8 +8506,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRPV",
-    "bankCode": "HK",
+    "bankCode": "BRPV",
+    "countryCode": "HK",
     "branchCode": "KH2",
     "SWIFT Code": "BRPVHKH2",
     "Bank Name": "BRDGEPAY (H.K) PRIVATE LIMITED",
@@ -8519,8 +8519,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFOI",
-    "bankCode": "HK",
+    "bankCode": "BFOI",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BFOIHKHH",
     "Bank Name": "BRIGHT FOOD INTERNATIONAL LIMITED",
@@ -8532,8 +8532,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBHC",
-    "bankCode": "HK",
+    "bankCode": "BBHC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "BBHCHKHH",
     "Bank Name": "BROWN BROTHERS HARRIMAN (HONG KONG) LIMITED",
@@ -8545,8 +8545,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "HK",
+    "bankCode": "AGRI",
+    "countryCode": "HK",
     "branchCode": "KHX",
     "SWIFT Code": "AGRIHKHX",
     "Bank Name": "CA INDOSUEZ (SWITZERLAND) SA, HONG KONG BRANCH",
@@ -8558,8 +8558,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "HK",
+    "bankCode": "AGRI",
+    "countryCode": "HK",
     "branchCode": "MTG",
     "SWIFT Code": "AGRIHKHXMTG",
     "Bank Name": "CA INDOSUEZ (SWITZERLAND) SA, HONG KONG BRANCH",
@@ -8571,8 +8571,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUHM",
-    "bankCode": "HK",
+    "bankCode": "CUHM",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CUHMHKHH",
     "Bank Name": "CAMEL SUPPLY CHAIN MANAGEMENT (ASIA) LIMITED",
@@ -8584,8 +8584,8 @@ const hongKong = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "HK",
+    "bankCode": "CIBC",
+    "countryCode": "HK",
     "branchCode": "KHH",
     "SWIFT Code": "CIBCHKHH",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",

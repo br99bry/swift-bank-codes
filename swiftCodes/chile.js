@@ -1,7 +1,7 @@
 const chile = [
   {
-    "countryCode": "CHAS",
-    "bankCode": "CL",
+    "bankCode": "CHAS",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "CHASCLRM",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
@@ -13,8 +13,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CL",
+    "bankCode": "CHAS",
+    "countryCode": "CL",
     "branchCode": "ICM",
     "SWIFT Code": "CHASCLRMICM",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
@@ -26,8 +26,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CL",
+    "bankCode": "CHAS",
+    "countryCode": "CL",
     "branchCode": "AMM",
     "SWIFT Code": "CHASCLRMAMM",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
@@ -39,8 +39,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CL",
+    "bankCode": "CHAS",
+    "countryCode": "CL",
     "branchCode": "CDB",
     "SWIFT Code": "CHASCLRMCDB",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SANTIAGO BRANCH",
@@ -52,8 +52,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAGD",
-    "bankCode": "CL",
+    "bankCode": "MAGD",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "MAGDCLRM",
     "Bank Name": "MONEDA S.A. ADMINISTRADORA GENERAL DE FONDOS",
@@ -65,8 +65,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSA",
-    "bankCode": "CL",
+    "bankCode": "BKSA",
+    "countryCode": "CL",
     "branchCode": "064",
     "SWIFT Code": "BKSACLRM064",
     "Bank Name": "SCOTIABANK CHILE",
@@ -78,8 +78,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSA",
-    "bankCode": "CL",
+    "bankCode": "BKSA",
+    "countryCode": "CL",
     "branchCode": "068",
     "SWIFT Code": "BKSACLRM068",
     "Bank Name": "SCOTIABANK CHILE",
@@ -91,8 +91,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSA",
-    "bankCode": "CL",
+    "bankCode": "BKSA",
+    "countryCode": "CL",
     "branchCode": "055",
     "SWIFT Code": "BKSACLRM055",
     "Bank Name": "SCOTIABANK CHILE",
@@ -104,8 +104,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSA",
-    "bankCode": "CL",
+    "bankCode": "BKSA",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BKSACLRM",
     "Bank Name": "SCOTIABANK CHILE",
@@ -117,8 +117,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSA",
-    "bankCode": "CL",
+    "bankCode": "BKSA",
+    "countryCode": "CL",
     "branchCode": "061",
     "SWIFT Code": "BKSACLRM061",
     "Bank Name": "SCOTIABANK CHILE",
@@ -130,8 +130,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTLN",
-    "bankCode": "CL",
+    "bankCode": "FTLN",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "FTLNCLRM",
     "Bank Name": "TANNER SERVICIOS FINANCIEROS S.A.",
@@ -143,8 +143,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFNT",
-    "bankCode": "CL",
+    "bankCode": "AFNT",
+    "countryCode": "CL",
     "branchCode": "LRS",
     "SWIFT Code": "AFNTCLRS",
     "Bank Name": "ADMINISTRADORA DE FONDOS DE PENSIONES CAPITAL S.A.",
@@ -156,8 +156,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFPP",
-    "bankCode": "CL",
+    "bankCode": "AFPP",
+    "countryCode": "CL",
     "branchCode": "LR2",
     "SWIFT Code": "AFPPCLR2",
     "Bank Name": "ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.",
@@ -169,8 +169,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGDS",
-    "bankCode": "CL",
+    "bankCode": "AGDS",
+    "countryCode": "CL",
     "branchCode": "LRS",
     "SWIFT Code": "AGDSCLRS",
     "Bank Name": "ADMINISTRADORA GENERAL DE FONDOS SURA S.A.",
@@ -182,8 +182,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAVL",
-    "bankCode": "CL",
+    "bankCode": "AAVL",
+    "countryCode": "CL",
     "branchCode": "LR9",
     "SWIFT Code": "AAVLCLR9",
     "Bank Name": "AFEX AGENTES DE VALORES LIMITADA",
@@ -195,8 +195,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFPC",
-    "bankCode": "CL",
+    "bankCode": "AFPC",
+    "countryCode": "CL",
     "branchCode": "LRS",
     "SWIFT Code": "AFPCCLRS",
     "Bank Name": "AFP CUPRUM, S.A.",
@@ -208,8 +208,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICE",
-    "bankCode": "CL",
+    "bankCode": "BICE",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BICECLRM",
     "Bank Name": "BANCO BICE",
@@ -221,8 +221,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAB",
-    "bankCode": "CL",
+    "bankCode": "BPAB",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BPABCLRM",
     "Bank Name": "BANCO BTG PACTUAL CHILE",
@@ -234,8 +234,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BCECCLRM",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -247,8 +247,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "LRR",
     "SWIFT Code": "BCECCLRR",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -260,8 +260,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "LR2",
     "SWIFT Code": "BCECCLR2",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -273,8 +273,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "LRD",
     "SWIFT Code": "BCECCLRD",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -286,8 +286,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "LRF",
     "SWIFT Code": "BCECCLRF",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -299,8 +299,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "CSH",
     "SWIFT Code": "BCECCLRMCSH",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -312,8 +312,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "FCE",
     "SWIFT Code": "BCECCLRMFCE",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -325,8 +325,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "FES",
     "SWIFT Code": "BCECCLRMFES",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -338,8 +338,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEC",
-    "bankCode": "CL",
+    "bankCode": "BCEC",
+    "countryCode": "CL",
     "branchCode": "FRP",
     "SWIFT Code": "BCECCLRMFRP",
     "Bank Name": "BANCO CENTRAL DE CHILE",
@@ -351,8 +351,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNEX",
-    "bankCode": "CL",
+    "bankCode": "MNEX",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "MNEXCLRM",
     "Bank Name": "BANCO CONSORCIO",
@@ -364,8 +364,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCHI",
-    "bankCode": "CL",
+    "bankCode": "BCHI",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BCHICLRM",
     "Bank Name": "BANCO DE CHILE",
@@ -377,8 +377,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCHI",
-    "bankCode": "CL",
+    "bankCode": "BCHI",
+    "countryCode": "CL",
     "branchCode": "CUS",
     "SWIFT Code": "BCHICLRMCUS",
     "Bank Name": "BANCO DE CHILE",
@@ -390,8 +390,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCHI",
-    "bankCode": "CL",
+    "bankCode": "BCHI",
+    "countryCode": "CL",
     "branchCode": "EXP",
     "SWIFT Code": "BCHICLRMEXP",
     "Bank Name": "BANCO DE CHILE",
@@ -403,8 +403,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCHI",
-    "bankCode": "CL",
+    "bankCode": "BCHI",
+    "countryCode": "CL",
     "branchCode": "IMP",
     "SWIFT Code": "BCHICLRMIMP",
     "Bank Name": "BANCO DE CHILE",
@@ -416,8 +416,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCHI",
-    "bankCode": "CL",
+    "bankCode": "BCHI",
+    "countryCode": "CL",
     "branchCode": "IOB",
     "SWIFT Code": "BCHICLRMIOB",
     "Bank Name": "BANCO DE CHILE",
@@ -429,8 +429,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRED",
-    "bankCode": "CL",
+    "bankCode": "CRED",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "CREDCLRM",
     "Bank Name": "BANCO DE CREDITO E INVERSIONES",
@@ -442,8 +442,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BECH",
-    "bankCode": "CL",
+    "bankCode": "BECH",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BECHCLRM",
     "Bank Name": "BANCO DEL ESTADO DE CHILE",
@@ -455,8 +455,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FALA",
-    "bankCode": "CL",
+    "bankCode": "FALA",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "FALACLRM",
     "Bank Name": "BANCO FALABELLA",
@@ -468,8 +468,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICH",
-    "bankCode": "CL",
+    "bankCode": "BICH",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BICHCLRM",
     "Bank Name": "BANCO INTERNACIONAL",
@@ -481,8 +481,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CONB",
-    "bankCode": "CL",
+    "bankCode": "CONB",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "CONBCLRM",
     "Bank Name": "BANCO ITAU CHILE",
@@ -494,8 +494,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "CL",
+    "bankCode": "ITAU",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "ITAUCLRM",
     "Bank Name": "BANCO ITAU CHILE",
@@ -507,8 +507,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "CL",
+    "bankCode": "ITAU",
+    "countryCode": "CL",
     "branchCode": "SSO",
     "SWIFT Code": "ITAUCLRMSSO",
     "Bank Name": "BANCO ITAU CHILE",
@@ -520,8 +520,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RPLY",
-    "bankCode": "CL",
+    "bankCode": "RPLY",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "RPLYCLRM",
     "Bank Name": "BANCO RIPLEY",
@@ -533,8 +533,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "CL",
+    "bankCode": "BSCH",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BSCHCLRM",
     "Bank Name": "BANCO SANTANDER CHILE",
@@ -546,8 +546,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "CL",
+    "bankCode": "BSCH",
+    "countryCode": "CL",
     "branchCode": "GST",
     "SWIFT Code": "BSCHCLRMGST",
     "Bank Name": "BANCO SANTANDER CHILE",
@@ -559,8 +559,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCL",
-    "bankCode": "CL",
+    "bankCode": "BSCL",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BSCLCLRM",
     "Bank Name": "BANCO SECURITY",
@@ -572,8 +572,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CL",
+    "bankCode": "BKCH",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BKCHCLRM",
     "Bank Name": "BANK OF CHINA, AGENCIA EN CHILE",
@@ -585,8 +585,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BATS",
-    "bankCode": "CL",
+    "bankCode": "BATS",
+    "countryCode": "CL",
     "branchCode": "LR3",
     "SWIFT Code": "BATSCLR3",
     "Bank Name": "BAT CHILE S.A",
@@ -598,8 +598,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BATS",
-    "bankCode": "CL",
+    "bankCode": "BATS",
+    "countryCode": "CL",
     "branchCode": "LR2",
     "SWIFT Code": "BATSCLR2",
     "Bank Name": "BRITISH AMERICAN TOBACCO CHILE OPERACIONES S.A.",
@@ -611,8 +611,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECCV",
-    "bankCode": "CL",
+    "bankCode": "ECCV",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "ECCVCLRM",
     "Bank Name": "CCLV, CONTRAPARTE CENTRAL S.A.",
@@ -624,8 +624,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECCV",
-    "bankCode": "CL",
+    "bankCode": "ECCV",
+    "countryCode": "CL",
     "branchCode": "LRS",
     "SWIFT Code": "ECCVCLRS",
     "Bank Name": "CCLV, CONTRAPARTE CENTRAL S.A.",
@@ -637,8 +637,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCTU",
-    "bankCode": "CL",
+    "bankCode": "CCTU",
+    "countryCode": "CL",
     "branchCode": "LRR",
     "SWIFT Code": "CCTUCLRR",
     "Bank Name": "CENTRO DE COMPENSACION AUTOMATIZADO S.A.",
@@ -650,8 +650,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CL",
+    "bankCode": "PCBC",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "PCBCCLRM",
     "Bank Name": "CHINA CONSTRUCTION BANK,  AGENCIA EN CHILE",
@@ -663,8 +663,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CL",
+    "bankCode": "PCBC",
+    "countryCode": "CL",
     "branchCode": "CLR",
     "SWIFT Code": "PCBCCLRMCLR",
     "Bank Name": "CHINA CONSTRUCTION BANK,  AGENCIA EN CHILE",
@@ -676,8 +676,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCCA",
-    "bankCode": "CL",
+    "bankCode": "PCCA",
+    "countryCode": "CL",
     "branchCode": "LRZ",
     "SWIFT Code": "PCCACLRZ",
     "Bank Name": "COMBANC S.A.",
@@ -689,8 +689,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCCA",
-    "bankCode": "CL",
+    "bankCode": "PCCA",
+    "countryCode": "CL",
     "branchCode": "LR2",
     "SWIFT Code": "PCCACLR2",
     "Bank Name": "COMBANC S.A.",
@@ -702,8 +702,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCCA",
-    "bankCode": "CL",
+    "bankCode": "PCCA",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "PCCACLRM",
     "Bank Name": "COMBANC S.A.",
@@ -715,8 +715,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDER",
-    "bankCode": "CL",
+    "bankCode": "CDER",
+    "countryCode": "CL",
     "branchCode": "LRG",
     "SWIFT Code": "CDERCLRG",
     "Bank Name": "COMDER CONTRAPARTE CENTRAL S.A.",
@@ -728,8 +728,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDER",
-    "bankCode": "CL",
+    "bankCode": "CDER",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "CDERCLRM",
     "Bank Name": "COMDER CONTRAPARTE CENTRAL S.A.",
@@ -741,8 +741,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCVV",
-    "bankCode": "CL",
+    "bankCode": "DCVV",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "DCVVCLRM",
     "Bank Name": "DEPOSITO CENTRAL DE VALORES S.A.",
@@ -754,8 +754,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENLC",
-    "bankCode": "CL",
+    "bankCode": "ENLC",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "ENLCCLRM",
     "Bank Name": "ENEL CHILE S.A.",
@@ -767,8 +767,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNOB",
-    "bankCode": "CL",
+    "bankCode": "FNOB",
+    "countryCode": "CL",
     "branchCode": "LR2",
     "SWIFT Code": "FNOBCLR2",
     "Bank Name": "FINANZAS Y NEGOCIOS S.A. CORREDORES DE BOLSA",
@@ -780,8 +780,8 @@ const chile = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "CL",
+    "bankCode": "BLIC",
+    "countryCode": "CL",
     "branchCode": "LRM",
     "SWIFT Code": "BLICCLRM",
     "Bank Name": "HSBC BANK (CHILE)",

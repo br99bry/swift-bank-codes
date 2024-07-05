@@ -1,7 +1,7 @@
 const wallisAndFutunaIslands = [
   {
-    "countryCode": "CDCG",
-    "bankCode": "WF",
+    "bankCode": "CDCG",
+    "countryCode": "WF",
     "branchCode": "F2M",
     "SWIFT Code": "CDCGWF2M",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",

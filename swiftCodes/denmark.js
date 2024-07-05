@@ -1,7 +1,7 @@
 const denmark = [
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "050",
     "SWIFT Code": "NDEADKK3050",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -13,8 +13,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "051",
     "SWIFT Code": "NDEADKK3051",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -26,8 +26,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "052",
     "SWIFT Code": "NDEADKK3052",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -39,8 +39,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "053",
     "SWIFT Code": "NDEADKK3053",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -52,8 +52,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NODN",
-    "bankCode": "DK",
+    "bankCode": "NODN",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "NODNDKKK",
     "Bank Name": "NORDNET BANK",
@@ -65,8 +65,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYKR",
-    "bankCode": "DK",
+    "bankCode": "NYKR",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "NYKRDKKK",
     "Bank Name": "NYKREDIT A/S",
@@ -78,8 +78,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYKB",
-    "bankCode": "DK",
+    "bankCode": "NYKB",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "NYKBDKKK",
     "Bank Name": "NYKREDIT BANK A/S",
@@ -92,8 +92,8 @@ const denmark = [
   },
   {},
   {
-    "countryCode": "NYKB",
-    "bankCode": "DK",
+    "bankCode": "NYKB",
+    "countryCode": "DK",
     "branchCode": "D01",
     "SWIFT Code": "NYKBDKKKD01",
     "Bank Name": "NYKREDIT BANK A/S",
@@ -106,8 +106,8 @@ const denmark = [
   },
   {},
   {
-    "countryCode": "ORST",
-    "bankCode": "DK",
+    "bankCode": "ORST",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "ORSTDK22",
     "Bank Name": "ORSTED A/S",
@@ -119,8 +119,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAPX",
-    "bankCode": "DK",
+    "bankCode": "PAPX",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "PAPXDKKK",
     "Bank Name": "PASPX A/S",
@@ -132,8 +132,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PENF",
-    "bankCode": "DK",
+    "bankCode": "PENF",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "PENFDK22",
     "Bank Name": "PENSAM PENSION FORSIKRINGSAKTIESELSKAB",
@@ -145,8 +145,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNDK",
-    "bankCode": "DK",
+    "bankCode": "PNDK",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "PNDKDKKK",
     "Bank Name": "PENSIONDANMARK PENSIONSFORSIKRINGSAKTIESELSKAB",
@@ -158,8 +158,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAMQ",
-    "bankCode": "DK",
+    "bankCode": "PAMQ",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "PAMQDKKK",
     "Bank Name": "PFA ASSET MANAGEMENT A/S",
@@ -171,8 +171,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFKA",
-    "bankCode": "DK",
+    "bankCode": "PFKA",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "PFKADKK2",
     "Bank Name": "PFA KAPITALFORENING",
@@ -184,8 +184,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFPO",
-    "bankCode": "DK",
+    "bankCode": "PFPO",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "PFPODKK2",
     "Bank Name": "PFA PENSION FORSIKRINGSAKTIESELSKAB",
@@ -197,8 +197,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLEO",
-    "bankCode": "DK",
+    "bankCode": "PLEO",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "PLEODKK2",
     "Bank Name": "PLEO FINANCIAL SERVICES A/S",
@@ -211,8 +211,8 @@ const denmark = [
   },
   {},
   {
-    "countryCode": "RDDK",
-    "bankCode": "DK",
+    "bankCode": "RDDK",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "RDDKDKKKDKK",
     "Bank Name": "REALKREDIT DANMARK",
@@ -224,8 +224,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDDK",
-    "bankCode": "DK",
+    "bankCode": "RDDK",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "RDDKDKKKEUR",
     "Bank Name": "REALKREDIT DANMARK",
@@ -237,8 +237,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RING",
-    "bankCode": "DK",
+    "bankCode": "RING",
+    "countryCode": "DK",
     "branchCode": "TG2",
     "SWIFT Code": "RINGDK22TG2",
     "Bank Name": "RINGKJOBING LANDBOBANK A/S",
@@ -250,8 +250,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RING",
-    "bankCode": "DK",
+    "bankCode": "RING",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "RINGDK22DKK",
     "Bank Name": "RINGKJOBING LANDBOBANK A/S",
@@ -263,8 +263,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RING",
-    "bankCode": "DK",
+    "bankCode": "RING",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "RINGDK22",
     "Bank Name": "RINGKJOBING LANDBOBANK A/S",
@@ -276,8 +276,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROIT",
-    "bankCode": "DK",
+    "bankCode": "ROIT",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "ROITDK22",
     "Bank Name": "ROCKWOOL A/S",
@@ -289,8 +289,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAEY",
-    "bankCode": "DK",
+    "bankCode": "SAEY",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "SAEYDKKK",
     "Bank Name": "SAFENETPAY APS",
@@ -303,8 +303,8 @@ const denmark = [
   },
   {},
   {
-    "countryCode": "SAXO",
-    "bankCode": "DK",
+    "bankCode": "SAXO",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "SAXODKKK",
     "Bank Name": "SAXO BANK A/S",
@@ -316,8 +316,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAXO",
-    "bankCode": "DK",
+    "bankCode": "SAXO",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "SAXODKKKEUR",
     "Bank Name": "SAXO BANK A/S",
@@ -329,8 +329,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAXO",
-    "bankCode": "DK",
+    "bankCode": "SAXO",
+    "countryCode": "DK",
     "branchCode": "K23",
     "SWIFT Code": "SAXODK23",
     "Bank Name": "SAXOBANK A/S",
@@ -342,8 +342,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMMC",
-    "bankCode": "DK",
+    "bankCode": "SMMC",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "SMMCDKKK",
     "Bank Name": "SIMCORP A/S",
@@ -355,8 +355,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMMC",
-    "bankCode": "DK",
+    "bankCode": "SMMC",
+    "countryCode": "DK",
     "branchCode": "NTC",
     "SWIFT Code": "SMMCDKKKNTC",
     "Bank Name": "SIMCORP A/S",
@@ -368,8 +368,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "ABC",
     "SWIFT Code": "ESSEDKKKABC",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -381,8 +381,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "CLS",
     "SWIFT Code": "ESSEDKKKCLS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -394,8 +394,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "ESSEDKKK",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -407,8 +407,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "CST",
     "SWIFT Code": "ESSEDKKKCST",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -420,8 +420,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "ENS",
     "SWIFT Code": "ESSEDKKKENS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -433,8 +433,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "CAL",
     "SWIFT Code": "ESSEDKKKCAL",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -446,8 +446,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "AC1",
     "SWIFT Code": "ESSEDKKKAC1",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -459,8 +459,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "DK",
+    "bankCode": "ESSE",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "ESSEDK22",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN, FORMER SEB A/S",
@@ -472,8 +472,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKJB",
-    "bankCode": "DK",
+    "bankCode": "SKJB",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "SKJBDK22",
     "Bank Name": "SKJERN BANK",
@@ -485,8 +485,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKJB",
-    "bankCode": "DK",
+    "bankCode": "SKJB",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "SKJBDK22EUR",
     "Bank Name": "SKJERN BANK",
@@ -498,8 +498,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKJB",
-    "bankCode": "DK",
+    "bankCode": "SKJB",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "SKJBDK22DKK",
     "Bank Name": "SKJERN BANK",
@@ -511,8 +511,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPNO",
-    "bankCode": "DK",
+    "bankCode": "SPNO",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "SPNODK22EUR",
     "Bank Name": "SPAR NORD BANK A/S",
@@ -525,8 +525,8 @@ const denmark = [
   },
   {},
   {
-    "countryCode": "SPNO",
-    "bankCode": "DK",
+    "bankCode": "SPNO",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "SPNODK22",
     "Bank Name": "SPAR NORD BANK A/S",
@@ -538,8 +538,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VRSP",
-    "bankCode": "DK",
+    "bankCode": "VRSP",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "VRSPDK22",
     "Bank Name": "SPAREKASSEN DANMARK",
@@ -551,8 +551,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRON",
-    "bankCode": "DK",
+    "bankCode": "KRON",
+    "countryCode": "DK",
     "branchCode": "EU1",
     "SWIFT Code": "KRONDK22EU1",
     "Bank Name": "SPAREKASSEN KRONJYLLAND",
@@ -564,8 +564,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRON",
-    "bankCode": "DK",
+    "bankCode": "KRON",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "KRONDK22",
     "Bank Name": "SPAREKASSEN KRONJYLLAND",
@@ -577,8 +577,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRON",
-    "bankCode": "DK",
+    "bankCode": "KRON",
+    "countryCode": "DK",
     "branchCode": "ZZ9",
     "SWIFT Code": "KRONDK22ZZ9",
     "Bank Name": "SPAREKASSEN KRONJYLLAND",
@@ -590,8 +590,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "FSI",
     "SWIFT Code": "NDEADKKKFSI",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -603,8 +603,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "NCL",
     "SWIFT Code": "NDEADKKKNCL",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -616,8 +616,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "NDEADKKK",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -629,8 +629,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "BCC",
     "SWIFT Code": "NDEADKKKBCC",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -642,8 +642,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "CEC",
     "SWIFT Code": "NDEADKKKCEC",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -655,8 +655,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "CEN",
     "SWIFT Code": "NDEADKKKCEN",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -668,8 +668,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "CWC",
     "SWIFT Code": "NDEADKKKCWC",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -681,8 +681,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "CWN",
     "SWIFT Code": "NDEADKKKCWN",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -694,8 +694,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "PFR",
     "SWIFT Code": "NDEADKKKPFR",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -707,8 +707,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "TSY",
     "SWIFT Code": "NDEADKKKTSY",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -720,8 +720,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "SPX",
     "SWIFT Code": "NDEADKKKSPX",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -733,8 +733,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "064",
     "SWIFT Code": "NDEADKKK064",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -746,8 +746,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "068",
     "SWIFT Code": "NDEADKKK068",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -759,8 +759,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "085",
     "SWIFT Code": "NDEADKKK085",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -772,8 +772,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "NKK",
     "SWIFT Code": "NDEADKKKNKK",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -785,8 +785,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "RIN",
     "SWIFT Code": "NDEADKKKRIN",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -798,8 +798,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "ROD",
     "SWIFT Code": "NDEADKKKROD",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -811,8 +811,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "SVB",
     "SWIFT Code": "NDEADKKKSVB",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -824,8 +824,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "NDEADKK2",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -837,8 +837,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "KK3",
     "SWIFT Code": "NDEADKK3",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -850,8 +850,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "P90",
     "SWIFT Code": "NDEADKK3P90",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -863,8 +863,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "001",
     "SWIFT Code": "NDEADKK3001",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -876,8 +876,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "002",
     "SWIFT Code": "NDEADKK3002",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -889,8 +889,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "003",
     "SWIFT Code": "NDEADKK3003",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -902,8 +902,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "004",
     "SWIFT Code": "NDEADKK3004",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -915,8 +915,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "005",
     "SWIFT Code": "NDEADKK3005",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -928,8 +928,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "006",
     "SWIFT Code": "NDEADKK3006",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -941,8 +941,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "007",
     "SWIFT Code": "NDEADKK3007",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -954,8 +954,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "008",
     "SWIFT Code": "NDEADKK3008",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -967,8 +967,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "009",
     "SWIFT Code": "NDEADKK3009",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -980,8 +980,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "010",
     "SWIFT Code": "NDEADKK3010",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -993,8 +993,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "011",
     "SWIFT Code": "NDEADKK3011",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1006,8 +1006,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "012",
     "SWIFT Code": "NDEADKK3012",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1019,8 +1019,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "013",
     "SWIFT Code": "NDEADKK3013",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1032,8 +1032,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "014",
     "SWIFT Code": "NDEADKK3014",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1045,8 +1045,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "015",
     "SWIFT Code": "NDEADKK3015",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1058,8 +1058,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "016",
     "SWIFT Code": "NDEADKK3016",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1071,8 +1071,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "017",
     "SWIFT Code": "NDEADKK3017",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1084,8 +1084,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "018",
     "SWIFT Code": "NDEADKK3018",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1097,8 +1097,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "019",
     "SWIFT Code": "NDEADKK3019",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1110,8 +1110,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "020",
     "SWIFT Code": "NDEADKK3020",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1123,8 +1123,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "021",
     "SWIFT Code": "NDEADKK3021",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1136,8 +1136,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "022",
     "SWIFT Code": "NDEADKK3022",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1149,8 +1149,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "023",
     "SWIFT Code": "NDEADKK3023",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1162,8 +1162,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "024",
     "SWIFT Code": "NDEADKK3024",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1175,8 +1175,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "025",
     "SWIFT Code": "NDEADKK3025",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1188,8 +1188,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "026",
     "SWIFT Code": "NDEADKK3026",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1201,8 +1201,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "027",
     "SWIFT Code": "NDEADKK3027",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1214,8 +1214,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "028",
     "SWIFT Code": "NDEADKK3028",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1227,8 +1227,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "029",
     "SWIFT Code": "NDEADKK3029",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -1240,8 +1240,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "VIV",
     "SWIFT Code": "DJURDK22VIV",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -1253,8 +1253,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLGA",
-    "bankCode": "DK",
+    "bankCode": "DLGA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "DLGADKKK",
     "Bank Name": "DLG A.M.B.A.",
@@ -1266,8 +1266,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "DK",
+    "bankCode": "DNBA",
+    "countryCode": "DK",
     "branchCode": "KKX",
     "SWIFT Code": "DNBADKKX",
     "Bank Name": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
@@ -1279,8 +1279,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "DK",
+    "bankCode": "DNBA",
+    "countryCode": "DK",
     "branchCode": "CLS",
     "SWIFT Code": "DNBADKKXCLS",
     "Bank Name": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
@@ -1292,8 +1292,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "DK",
+    "bankCode": "DNBA",
+    "countryCode": "DK",
     "branchCode": "TGT",
     "SWIFT Code": "DNBADKKXTGT",
     "Bank Name": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
@@ -1305,8 +1305,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSVA",
-    "bankCode": "DK",
+    "bankCode": "DSVA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "DSVADKKK",
     "Bank Name": "DSV A/S",
@@ -1318,8 +1318,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "CHI",
     "SWIFT Code": "ECSKDK22CHI",
     "Bank Name": "ECCO SKO A/S",
@@ -1331,8 +1331,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "ELB",
     "SWIFT Code": "ECSKDK22ELB",
     "Bank Name": "ECCO SKO A/S",
@@ -1344,8 +1344,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "ESI",
     "SWIFT Code": "ECSKDK22ESI",
     "Bank Name": "ECCO SKO A/S",
@@ -1357,8 +1357,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "IND",
     "SWIFT Code": "ECSKDK22IND",
     "Bank Name": "ECCO SKO A/S",
@@ -1370,8 +1370,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "KRM",
     "SWIFT Code": "ECSKDK22KRM",
     "Bank Name": "ECCO SKO A/S",
@@ -1383,8 +1383,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "THA",
     "SWIFT Code": "ECSKDK22THA",
     "Bank Name": "ECCO SKO A/S",
@@ -1396,8 +1396,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "ECSKDK22",
     "Bank Name": "ECCO SKO A/S",
@@ -1409,8 +1409,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "400",
     "SWIFT Code": "ECSKDK22400",
     "Bank Name": "ECCO SKO A/S",
@@ -1422,8 +1422,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSK",
-    "bankCode": "DK",
+    "bankCode": "ECSK",
+    "countryCode": "DK",
     "branchCode": "450",
     "SWIFT Code": "ECSKDK22450",
     "Bank Name": "ECCO SKO A/S",
@@ -1435,8 +1435,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "DK",
+    "bankCode": "BNPA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "BNPADKKK",
     "Bank Name": "EKSPRESS BANK A/S",
@@ -1448,8 +1448,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FATI",
-    "bankCode": "DK",
+    "bankCode": "FATI",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "FATIDK22",
     "Bank Name": "FACIT BANK A/S",
@@ -1461,8 +1461,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRK",
-    "bankCode": "DK",
+    "bankCode": "FIRK",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "FIRKDKK2",
     "Bank Name": "FINANS DANMARK",
@@ -1474,8 +1474,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLSM",
-    "bankCode": "DK",
+    "bankCode": "FLSM",
+    "countryCode": "DK",
     "branchCode": "K2F",
     "SWIFT Code": "FLSMDK2F",
     "Bank Name": "FLSMIDTH AND CO A/S",
@@ -1487,8 +1487,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FONK",
-    "bankCode": "DK",
+    "bankCode": "FONK",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "FONKDKKK",
     "Bank Name": "FONDSMAEGLERSELSKABET MAJ INVEST A/S",
@@ -1500,8 +1500,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOME",
-    "bankCode": "DK",
+    "bankCode": "FOME",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "FOMEDK22",
     "Bank Name": "FONDSMAEGLERSELSKABET MARSELIS",
@@ -1513,8 +1513,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOCC",
-    "bankCode": "DK",
+    "bankCode": "FOCC",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "FOCCDK22",
     "Bank Name": "FORCA A/S",
@@ -1526,8 +1526,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VESB",
-    "bankCode": "DK",
+    "bankCode": "VESB",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "VESBDK22",
     "Bank Name": "FYNSKE BANK A/S",
@@ -1539,8 +1539,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEVO",
-    "bankCode": "DK",
+    "bankCode": "GEVO",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "GEVODK22",
     "Bank Name": "GLOBAL EVOLUTION FONDSMAEGLERSELSKAB A/S",
@@ -1552,8 +1552,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNSN",
-    "bankCode": "DK",
+    "bankCode": "GNSN",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "GNSNDK22",
     "Bank Name": "GN STORE NORD A/S",
@@ -1565,8 +1565,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFOS",
-    "bankCode": "DK",
+    "bankCode": "GFOS",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "GFOSDK22",
     "Bank Name": "GRUNDFOS HOLDING A/S",
@@ -1578,8 +1578,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEAR",
-    "bankCode": "DK",
+    "bankCode": "HEAR",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "HEARDK22",
     "Bank Name": "HEARTLAND A/S",
@@ -1591,8 +1591,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEMP",
-    "bankCode": "DK",
+    "bankCode": "HEMP",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "HEMPDK22",
     "Bank Name": "HEMPEL A/S",
@@ -1604,8 +1604,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINV",
-    "bankCode": "DK",
+    "bankCode": "SINV",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "SINVDK22",
     "Bank Name": "ID-SPARINVEST",
@@ -1617,8 +1617,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NPAY",
-    "bankCode": "DK",
+    "bankCode": "NPAY",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "NPAYDKKK",
     "Bank Name": "INPAY A/S",
@@ -1630,8 +1630,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOEM",
-    "bankCode": "DK",
+    "bankCode": "IOEM",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "IOEMDKK2",
     "Bank Name": "INVESTERINGSFORENINGEN NORDEA INVEST - EMERGING MARKETS ENHANCED KL",
@@ -1643,8 +1643,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANP",
-    "bankCode": "DK",
+    "bankCode": "JANP",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "JANPDKK2",
     "Bank Name": "JANUAR APS",
@@ -1656,8 +1656,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYBA",
-    "bankCode": "DK",
+    "bankCode": "JYBA",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "JYBADKKKDKK",
     "Bank Name": "JYSKE BANK A/S",
@@ -1669,8 +1669,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYBA",
-    "bankCode": "DK",
+    "bankCode": "JYBA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "JYBADKKK",
     "Bank Name": "JYSKE BANK A/S",
@@ -1682,8 +1682,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYBA",
-    "bankCode": "DK",
+    "bankCode": "JYBA",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "JYBADKKKEUR",
     "Bank Name": "JYSKE BANK A/S",
@@ -1695,8 +1695,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMS",
-    "bankCode": "DK",
+    "bankCode": "KOMS",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "KOMSDK22",
     "Bank Name": "KOMPASBANK A/S",
@@ -1708,8 +1708,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAKR",
-    "bankCode": "DK",
+    "bankCode": "AAKR",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "AAKRDK22",
     "Bank Name": "KREDITBANKEN A/S",
@@ -1721,8 +1721,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOSA",
-    "bankCode": "DK",
+    "bankCode": "LOSA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "LOSADKKK",
     "Bank Name": "LAN AND SPAR BANK A/S",
@@ -1734,8 +1734,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOSA",
-    "bankCode": "DK",
+    "bankCode": "LOSA",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "LOSADKKKEUR",
     "Bank Name": "LAN AND SPAR BANK A/S",
@@ -1747,8 +1747,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOSA",
-    "bankCode": "DK",
+    "bankCode": "LOSA",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "LOSADKKKDKK",
     "Bank Name": "LAN AND SPAR BANK A/S",
@@ -1760,8 +1760,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEGO",
-    "bankCode": "DK",
+    "bankCode": "LEGO",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "LEGODK22",
     "Bank Name": "LEGO SYSTEM A/S",
@@ -1773,8 +1773,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEPH",
-    "bankCode": "DK",
+    "bankCode": "LEPH",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "LEPHDK22",
     "Bank Name": "LEO PHARMA A/S",
@@ -1786,8 +1786,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUNA",
-    "bankCode": "DK",
+    "bankCode": "LUNA",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "LUNADK22",
     "Bank Name": "LUNAR BANK A/S",
@@ -1799,8 +1799,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUNA",
-    "bankCode": "DK",
+    "bankCode": "LUNA",
+    "countryCode": "DK",
     "branchCode": "K2A",
     "SWIFT Code": "LUNADK2A",
     "Bank Name": "LUNAR BANK A/S",
@@ -1812,8 +1812,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUNA",
-    "bankCode": "DK",
+    "bankCode": "LUNA",
+    "countryCode": "DK",
     "branchCode": "K2C",
     "SWIFT Code": "LUNADK2C",
     "Bank Name": "LUNAR BANK A/S",
@@ -1825,8 +1825,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUNA",
-    "bankCode": "DK",
+    "bankCode": "LUNA",
+    "countryCode": "DK",
     "branchCode": "K2B",
     "SWIFT Code": "LUNADK2B",
     "Bank Name": "LUNAR BANK A/S",
@@ -1838,8 +1838,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRSK",
-    "bankCode": "DK",
+    "bankCode": "MRSK",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "MRSKDKKK",
     "Bank Name": "MAERSK TANKERS A/S",
@@ -1851,8 +1851,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NILF",
-    "bankCode": "DK",
+    "bankCode": "NILF",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "NILFDK22",
     "Bank Name": "NILFISK A/S",
@@ -1864,8 +1864,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAKD",
-    "bankCode": "DK",
+    "bankCode": "MAKD",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "MAKDDK22",
     "Bank Name": "NOBLE DRILLING A/S",
@@ -1877,8 +1877,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "CLS",
     "SWIFT Code": "NDEADKKKCLS",
     "Bank Name": "NORDEA DANMARK, FILIAL AF NORDEA BANK ABP, FINLAND",
@@ -1890,8 +1890,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APMM",
-    "bankCode": "DK",
+    "bankCode": "APMM",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "APMMDKKK",
     "Bank Name": "A.P. MOLLER-MAERSK",
@@ -1903,8 +1903,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSBK",
-    "bankCode": "DK",
+    "bankCode": "NSBK",
+    "countryCode": "DK",
     "branchCode": "K2B",
     "SWIFT Code": "NSBKDK2B",
     "Bank Name": "AKTIESELSKABET NORDFYNS BANK",
@@ -1916,8 +1916,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKSH",
-    "bankCode": "DK",
+    "bankCode": "AKSH",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "AKSHDK22",
     "Bank Name": "AKTIESELSKABET SCHOUW AND CO.",
@@ -1929,8 +1929,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBA",
-    "bankCode": "DK",
+    "bankCode": "ALBA",
+    "countryCode": "DK",
     "branchCode": "123",
     "SWIFT Code": "ALBADKKK123",
     "Bank Name": "ARBEJDERNES LANDSBANK A/S",
@@ -1942,8 +1942,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBA",
-    "bankCode": "DK",
+    "bankCode": "ALBA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "ALBADKKK",
     "Bank Name": "ARBEJDERNES LANDSBANK A/S",
@@ -1955,8 +1955,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBA",
-    "bankCode": "DK",
+    "bankCode": "ALBA",
+    "countryCode": "DK",
     "branchCode": "EU1",
     "SWIFT Code": "ALBADKKKEU1",
     "Bank Name": "ARBEJDERNES LANDSBANK A/S",
@@ -1968,8 +1968,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATPD",
-    "bankCode": "DK",
+    "bankCode": "ATPD",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "ATPDDK22",
     "Bank Name": "ARBEJDSMARKEDETS TILLAEGSPENSION",
@@ -1981,8 +1981,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATPD",
-    "bankCode": "DK",
+    "bankCode": "ATPD",
+    "countryCode": "DK",
     "branchCode": "IFX",
     "SWIFT Code": "ATPDDK22IFX",
     "Bank Name": "ARBEJDSMARKEDETS TILLAEGSPENSION",
@@ -1994,8 +1994,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXPY",
-    "bankCode": "DK",
+    "bankCode": "SXPY",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "SXPYDKKK",
     "Bank Name": "BANKING CIRCLE DENMARK",
@@ -2007,8 +2007,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXPY",
-    "bankCode": "DK",
+    "bankCode": "SXPY",
+    "countryCode": "DK",
     "branchCode": "SEK",
     "SWIFT Code": "SXPYDKKKSEK",
     "Bank Name": "BANKING CIRCLE DENMARK",
@@ -2020,8 +2020,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANO",
-    "bankCode": "DK",
+    "bankCode": "BANO",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "BANODKKK",
     "Bank Name": "BANKNORDIK",
@@ -2033,8 +2033,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEST",
-    "bankCode": "DK",
+    "bankCode": "BEST",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "BESTDK22",
     "Bank Name": "BESTSELLER A/S",
@@ -2046,8 +2046,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAM",
-    "bankCode": "DK",
+    "bankCode": "BIAM",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "BIAMDKKK",
     "Bank Name": "BI ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
@@ -2059,8 +2059,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAM",
-    "bankCode": "DK",
+    "bankCode": "BIAM",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "BIAMDKK2",
     "Bank Name": "BI ASSET MANAGEMENT FONDSMAEGLERSSK",
@@ -2072,8 +2072,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLCF",
-    "bankCode": "DK",
+    "bankCode": "BLCF",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "BLCFDK22",
     "Bank Name": "BLS CAPITAL FONDSMAEGLERSELSKAB A/S",
@@ -2085,8 +2085,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSB",
-    "bankCode": "DK",
+    "bankCode": "FTSB",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "FTSBDKKK",
     "Bank Name": "BNP PARIBAS S.A. DENMARK, FILIAL AF BNP PARIBAS S.A. FRANKRIG",
@@ -2098,8 +2098,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUHO",
-    "bankCode": "DK",
+    "bankCode": "BUHO",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "BUHODK22",
     "Bank Name": "BUNKER HOLDING A/S",
@@ -2111,8 +2111,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARN",
-    "bankCode": "DK",
+    "bankCode": "CARN",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "CARNDK22",
     "Bank Name": "C WORLDWIDE ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
@@ -2124,8 +2124,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARW",
-    "bankCode": "DK",
+    "bankCode": "CARW",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "CARWDKK2",
     "Bank Name": "CARLSBERG A/S",
@@ -2137,8 +2137,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARN",
-    "bankCode": "DK",
+    "bankCode": "CARN",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "CARNDKKK",
     "Bank Name": "CARNEGIE INVESTMENT BANK, DK",
@@ -2150,8 +2150,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARN",
-    "bankCode": "DK",
+    "bankCode": "CARN",
+    "countryCode": "DK",
     "branchCode": "YYY",
     "SWIFT Code": "CARNDKKKYYY",
     "Bank Name": "CARNEGIE INVESTMENT BANK, DK",
@@ -2163,8 +2163,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARN",
-    "bankCode": "DK",
+    "bankCode": "CARN",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "CARNDKKKEUR",
     "Bank Name": "CARNEGIE INVESTMENT BANK, DK",
@@ -2176,8 +2176,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHHH",
-    "bankCode": "DK",
+    "bankCode": "CHHH",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "CHHHDK22",
     "Bank Name": "CHR. HANSEN HOLDING AS",
@@ -2189,8 +2189,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DK",
+    "bankCode": "CITI",
+    "countryCode": "DK",
     "branchCode": "KKX",
     "SWIFT Code": "CITIDKKX",
     "Bank Name": "CITIBANK EUROPE PLC DENMARK BRANCH",
@@ -2202,8 +2202,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DK",
+    "bankCode": "CITI",
+    "countryCode": "DK",
     "branchCode": "TGT",
     "SWIFT Code": "CITIDKKXTGT",
     "Bank Name": "CITIBANK EUROPE PLC DENMARK BRANCH",
@@ -2215,8 +2215,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPIF",
-    "bankCode": "DK",
+    "bankCode": "CPIF",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "CPIFDKK2",
     "Bank Name": "COPENHAGEN INFRASTRUCTURE IV K/S",
@@ -2228,8 +2228,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "DK",
+    "bankCode": "BSUI",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "BSUIDKKK",
     "Bank Name": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK DENMARK, FILIAL AF CA-CIB, FRANKRIG",
@@ -2241,8 +2241,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DACW",
-    "bankCode": "DK",
+    "bankCode": "DACW",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "DACWDK22",
     "Bank Name": "DANISH CROWN A/S",
@@ -2254,8 +2254,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "DKNBDKKK",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2267,8 +2267,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "KKC",
     "SWIFT Code": "DKNBDKKC",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2280,8 +2280,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "TIA",
     "SWIFT Code": "DKNBDKKKTIA",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2293,8 +2293,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "ASA",
     "SWIFT Code": "DKNBDKKKASA",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2306,8 +2306,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "DKNBDKKKEUR",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2319,8 +2319,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "BIL",
     "SWIFT Code": "DKNBDKKKBIL",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2332,8 +2332,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "CHA",
     "SWIFT Code": "DKNBDKKKCHA",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2345,8 +2345,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "DEP",
     "SWIFT Code": "DKNBDKKKDEP",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2358,8 +2358,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "FEE",
     "SWIFT Code": "DKNBDKKKFEE",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2371,8 +2371,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "FOL",
     "SWIFT Code": "DKNBDKKKFOL",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2384,8 +2384,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "GOV",
     "SWIFT Code": "DKNBDKKKGOV",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2397,8 +2397,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "IMF",
     "SWIFT Code": "DKNBDKKKIMF",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2410,8 +2410,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "INP",
     "SWIFT Code": "DKNBDKKKINP",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2423,8 +2423,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "INR",
     "SWIFT Code": "DKNBDKKKINR",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2436,8 +2436,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "LAD",
     "SWIFT Code": "DKNBDKKKLAD",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2449,8 +2449,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "LAL",
     "SWIFT Code": "DKNBDKKKLAL",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2462,8 +2462,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "MIG",
     "SWIFT Code": "DKNBDKKKMIG",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2475,8 +2475,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "MP3",
     "SWIFT Code": "DKNBDKKKMP3",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2488,8 +2488,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "MPL",
     "SWIFT Code": "DKNBDKKKMPL",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2501,8 +2501,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "PLL",
     "SWIFT Code": "DKNBDKKKPLL",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2514,8 +2514,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "SKB",
     "SWIFT Code": "DKNBDKKKSKB",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2527,8 +2527,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "TST",
     "SWIFT Code": "DKNBDKKKTST",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -2540,8 +2540,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "030",
     "SWIFT Code": "NDEADKK3030",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2553,8 +2553,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "054",
     "SWIFT Code": "NDEADKK3054",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2566,8 +2566,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "055",
     "SWIFT Code": "NDEADKK3055",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2579,8 +2579,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "056",
     "SWIFT Code": "NDEADKK3056",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2592,8 +2592,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "057",
     "SWIFT Code": "NDEADKK3057",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2605,8 +2605,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "058",
     "SWIFT Code": "NDEADKK3058",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2618,8 +2618,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "059",
     "SWIFT Code": "NDEADKK3059",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2631,8 +2631,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "060",
     "SWIFT Code": "NDEADKK3060",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2644,8 +2644,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "061",
     "SWIFT Code": "NDEADKK3061",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2657,8 +2657,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "062",
     "SWIFT Code": "NDEADKK3062",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2670,8 +2670,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "063",
     "SWIFT Code": "NDEADKK3063",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2683,8 +2683,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "064",
     "SWIFT Code": "NDEADKK3064",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2696,8 +2696,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "065",
     "SWIFT Code": "NDEADKK3065",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2709,8 +2709,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "066",
     "SWIFT Code": "NDEADKK3066",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2722,8 +2722,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "067",
     "SWIFT Code": "NDEADKK3067",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2735,8 +2735,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "068",
     "SWIFT Code": "NDEADKK3068",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2748,8 +2748,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "069",
     "SWIFT Code": "NDEADKK3069",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2761,8 +2761,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "070",
     "SWIFT Code": "NDEADKK3070",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2774,8 +2774,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "071",
     "SWIFT Code": "NDEADKK3071",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2787,8 +2787,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "072",
     "SWIFT Code": "NDEADKK3072",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2800,8 +2800,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "073",
     "SWIFT Code": "NDEADKK3073",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2813,8 +2813,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "074",
     "SWIFT Code": "NDEADKK3074",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2826,8 +2826,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "075",
     "SWIFT Code": "NDEADKK3075",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2839,8 +2839,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "076",
     "SWIFT Code": "NDEADKK3076",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2852,8 +2852,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "077",
     "SWIFT Code": "NDEADKK3077",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2865,8 +2865,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "078",
     "SWIFT Code": "NDEADKK3078",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2878,8 +2878,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "079",
     "SWIFT Code": "NDEADKK3079",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2891,8 +2891,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "080",
     "SWIFT Code": "NDEADKK3080",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2904,8 +2904,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "081",
     "SWIFT Code": "NDEADKK3081",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2917,8 +2917,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "082",
     "SWIFT Code": "NDEADKK3082",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2930,8 +2930,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "083",
     "SWIFT Code": "NDEADKK3083",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2943,8 +2943,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "031",
     "SWIFT Code": "NDEADKK3031",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2956,8 +2956,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "032",
     "SWIFT Code": "NDEADKK3032",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2969,8 +2969,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "033",
     "SWIFT Code": "NDEADKK3033",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2982,8 +2982,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "034",
     "SWIFT Code": "NDEADKK3034",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -2995,8 +2995,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "035",
     "SWIFT Code": "NDEADKK3035",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3008,8 +3008,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "036",
     "SWIFT Code": "NDEADKK3036",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3021,8 +3021,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "037",
     "SWIFT Code": "NDEADKK3037",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3034,8 +3034,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "038",
     "SWIFT Code": "NDEADKK3038",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3047,8 +3047,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "039",
     "SWIFT Code": "NDEADKK3039",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3060,8 +3060,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "040",
     "SWIFT Code": "NDEADKK3040",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3073,8 +3073,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "041",
     "SWIFT Code": "NDEADKK3041",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3086,8 +3086,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "042",
     "SWIFT Code": "NDEADKK3042",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3099,8 +3099,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "043",
     "SWIFT Code": "NDEADKK3043",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3112,8 +3112,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "044",
     "SWIFT Code": "NDEADKK3044",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3125,8 +3125,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "045",
     "SWIFT Code": "NDEADKK3045",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3138,8 +3138,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "046",
     "SWIFT Code": "NDEADKK3046",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3151,8 +3151,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "047",
     "SWIFT Code": "NDEADKK3047",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3164,8 +3164,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "048",
     "SWIFT Code": "NDEADKK3048",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3177,8 +3177,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "DK",
+    "bankCode": "NDEA",
+    "countryCode": "DK",
     "branchCode": "049",
     "SWIFT Code": "NDEADKK3049",
     "Bank Name": "NORDEA INVESTMENT MANAGEMENT AB DENMARK BRANCH",
@@ -3190,8 +3190,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KAL",
     "SWIFT Code": "DABADKKKKAL",
     "Bank Name": "DANSKE BANK A/S",
@@ -3203,8 +3203,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KAS",
     "SWIFT Code": "DABADKKKKAS",
     "Bank Name": "DANSKE BANK A/S",
@@ -3216,8 +3216,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KGE",
     "SWIFT Code": "DABADKKKKGE",
     "Bank Name": "DANSKE BANK A/S",
@@ -3229,8 +3229,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KOL",
     "SWIFT Code": "DABADKKKKOL",
     "Bank Name": "DANSKE BANK A/S",
@@ -3242,8 +3242,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "LYN",
     "SWIFT Code": "DABADKKKLYN",
     "Bank Name": "DANSKE BANK A/S",
@@ -3255,8 +3255,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "CAP",
     "SWIFT Code": "DABADKKKCAP",
     "Bank Name": "DANSKE BANK A/S",
@@ -3268,8 +3268,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KOR",
     "SWIFT Code": "DABADKKKKOR",
     "Bank Name": "DANSKE BANK A/S",
@@ -3281,8 +3281,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "MID",
     "SWIFT Code": "DABADKKKMID",
     "Bank Name": "DANSKE BANK A/S",
@@ -3294,8 +3294,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "NAE",
     "SWIFT Code": "DABADKKKNAE",
     "Bank Name": "DANSKE BANK A/S",
@@ -3307,8 +3307,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "NAK",
     "SWIFT Code": "DABADKKKNAK",
     "Bank Name": "DANSKE BANK A/S",
@@ -3320,8 +3320,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "NYB",
     "SWIFT Code": "DABADKKKNYB",
     "Bank Name": "DANSKE BANK A/S",
@@ -3333,8 +3333,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "NYF",
     "SWIFT Code": "DABADKKKNYF",
     "Bank Name": "DANSKE BANK A/S",
@@ -3346,8 +3346,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "NYS",
     "SWIFT Code": "DABADKKKNYS",
     "Bank Name": "DANSKE BANK A/S",
@@ -3359,8 +3359,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "ODE",
     "SWIFT Code": "DABADKKKODE",
     "Bank Name": "DANSKE BANK A/S",
@@ -3372,8 +3372,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "RAN",
     "SWIFT Code": "DABADKKKRAN",
     "Bank Name": "DANSKE BANK A/S",
@@ -3385,8 +3385,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "RIN",
     "SWIFT Code": "DABADKKKRIN",
     "Bank Name": "DANSKE BANK A/S",
@@ -3398,8 +3398,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "ROD",
     "SWIFT Code": "DABADKKKROD",
     "Bank Name": "DANSKE BANK A/S",
@@ -3411,8 +3411,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "RON",
     "SWIFT Code": "DABADKKKRON",
     "Bank Name": "DANSKE BANK A/S",
@@ -3424,8 +3424,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "ROS",
     "SWIFT Code": "DABADKKKROS",
     "Bank Name": "DANSKE BANK A/S",
@@ -3437,8 +3437,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SBY",
     "SWIFT Code": "DABADKKKSBY",
     "Bank Name": "DANSKE BANK A/S",
@@ -3450,8 +3450,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SIL",
     "SWIFT Code": "DABADKKKSIL",
     "Bank Name": "DANSKE BANK A/S",
@@ -3463,8 +3463,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SKI",
     "SWIFT Code": "DABADKKKSKI",
     "Bank Name": "DANSKE BANK A/S",
@@ -3476,8 +3476,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SLA",
     "SWIFT Code": "DABADKKKSLA",
     "Bank Name": "DANSKE BANK A/S",
@@ -3489,8 +3489,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SON",
     "SWIFT Code": "DABADKKKSON",
     "Bank Name": "DANSKE BANK A/S",
@@ -3502,8 +3502,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "STR",
     "SWIFT Code": "DABADKKKSTR",
     "Bank Name": "DANSKE BANK A/S",
@@ -3515,8 +3515,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SVB",
     "SWIFT Code": "DABADKKKSVB",
     "Bank Name": "DANSKE BANK A/S",
@@ -3528,8 +3528,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "TAA",
     "SWIFT Code": "DABADKKKTAA",
     "Bank Name": "DANSKE BANK A/S",
@@ -3541,8 +3541,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "THI",
     "SWIFT Code": "DABADKKKTHI",
     "Bank Name": "DANSKE BANK A/S",
@@ -3554,8 +3554,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "TON",
     "SWIFT Code": "DABADKKKTON",
     "Bank Name": "DANSKE BANK A/S",
@@ -3567,8 +3567,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "VAR",
     "SWIFT Code": "DABADKKKVAR",
     "Bank Name": "DANSKE BANK A/S",
@@ -3580,8 +3580,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "VEJ",
     "SWIFT Code": "DABADKKKVEJ",
     "Bank Name": "DANSKE BANK A/S",
@@ -3593,8 +3593,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "VIB",
     "SWIFT Code": "DABADKKKVIB",
     "Bank Name": "DANSKE BANK A/S",
@@ -3606,8 +3606,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DACD",
-    "bankCode": "DK",
+    "bankCode": "DACD",
+    "countryCode": "DK",
     "branchCode": "K2A",
     "SWIFT Code": "DACDDK2A",
     "Bank Name": "DANSKE COMMODITIES A/S",
@@ -3619,8 +3619,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "ALL",
     "SWIFT Code": "DJURDK22ALL",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3632,8 +3632,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "AUN",
     "SWIFT Code": "DJURDK22AUN",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3645,8 +3645,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "EBE",
     "SWIFT Code": "DJURDK22EBE",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3658,8 +3658,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "DJURDK22",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3671,8 +3671,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "DJURDK22EUR",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3684,8 +3684,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "DJURDK22DKK",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3697,8 +3697,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "HSL",
     "SWIFT Code": "DJURDK22HSL",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3710,8 +3710,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "KLI",
     "SWIFT Code": "DJURDK22KLI",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3723,8 +3723,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "LYS",
     "SWIFT Code": "DJURDK22LYS",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3736,8 +3736,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "NIM",
     "SWIFT Code": "DJURDK22NIM",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3749,8 +3749,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "OER",
     "SWIFT Code": "DJURDK22OER",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3762,8 +3762,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "PIN",
     "SWIFT Code": "DJURDK22PIN",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3775,8 +3775,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "RIS",
     "SWIFT Code": "DJURDK22RIS",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3788,8 +3788,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "ROE",
     "SWIFT Code": "DJURDK22ROE",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3801,8 +3801,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "RYO",
     "SWIFT Code": "DJURDK22RYO",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3814,8 +3814,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "TIL",
     "SWIFT Code": "DJURDK22TIL",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3827,8 +3827,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DJUR",
-    "bankCode": "DK",
+    "bankCode": "DJUR",
+    "countryCode": "DK",
     "branchCode": "TRA",
     "SWIFT Code": "DJURDK22TRA",
     "Bank Name": "DJURSLANDS BANK A/S",
@@ -3840,8 +3840,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "SKA",
     "SWIFT Code": "VPDKDKKKSKA",
     "Bank Name": "VP SECURITIES A/S",
@@ -3853,8 +3853,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "350",
     "SWIFT Code": "VPDKDKKK350",
     "Bank Name": "VP SECURITIES A/S",
@@ -3866,8 +3866,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "450",
     "SWIFT Code": "VPDKDKKK450",
     "Bank Name": "VP SECURITIES A/S",
@@ -3879,8 +3879,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "550",
     "SWIFT Code": "VPDKDKKK550",
     "Bank Name": "VP SECURITIES A/S",
@@ -3892,8 +3892,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "078",
     "SWIFT Code": "VPDKDKKK078",
     "Bank Name": "VP SECURITIES A/S",
@@ -3905,8 +3905,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "079",
     "SWIFT Code": "VPDKDKKK079",
     "Bank Name": "VP SECURITIES A/S",
@@ -3918,8 +3918,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "073",
     "SWIFT Code": "VPDKDKKK073",
     "Bank Name": "VP SECURITIES A/S",
@@ -3931,8 +3931,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "074",
     "SWIFT Code": "VPDKDKKK074",
     "Bank Name": "VP SECURITIES A/S",
@@ -3944,8 +3944,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "075",
     "SWIFT Code": "VPDKDKKK075",
     "Bank Name": "VP SECURITIES A/S",
@@ -3957,8 +3957,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "010",
     "SWIFT Code": "VPDKDKKK010",
     "Bank Name": "VP SECURITIES A/S",
@@ -3970,8 +3970,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "011",
     "SWIFT Code": "VPDKDKKK011",
     "Bank Name": "VP SECURITIES A/S",
@@ -3983,8 +3983,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "051",
     "SWIFT Code": "VPDKDKKK051",
     "Bank Name": "VP SECURITIES A/S",
@@ -3996,8 +3996,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "081",
     "SWIFT Code": "VPDKDKKK081",
     "Bank Name": "VP SECURITIES A/S",
@@ -4009,8 +4009,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "082",
     "SWIFT Code": "VPDKDKKK082",
     "Bank Name": "VP SECURITIES A/S",
@@ -4022,8 +4022,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "083",
     "SWIFT Code": "VPDKDKKK083",
     "Bank Name": "VP SECURITIES A/S",
@@ -4035,8 +4035,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "084",
     "SWIFT Code": "VPDKDKKK084",
     "Bank Name": "VP SECURITIES A/S",
@@ -4048,8 +4048,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "085",
     "SWIFT Code": "VPDKDKKK085",
     "Bank Name": "VP SECURITIES A/S",
@@ -4061,8 +4061,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "086",
     "SWIFT Code": "VPDKDKKK086",
     "Bank Name": "VP SECURITIES A/S",
@@ -4074,8 +4074,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "087",
     "SWIFT Code": "VPDKDKKK087",
     "Bank Name": "VP SECURITIES A/S",
@@ -4087,8 +4087,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "088",
     "SWIFT Code": "VPDKDKKK088",
     "Bank Name": "VP SECURITIES A/S",
@@ -4100,8 +4100,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "089",
     "SWIFT Code": "VPDKDKKK089",
     "Bank Name": "VP SECURITIES A/S",
@@ -4113,8 +4113,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "090",
     "SWIFT Code": "VPDKDKKK090",
     "Bank Name": "VP SECURITIES A/S",
@@ -4126,8 +4126,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "046",
     "SWIFT Code": "VPDKDKKK046",
     "Bank Name": "VP SECURITIES A/S",
@@ -4139,8 +4139,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "072",
     "SWIFT Code": "VPDKDKKK072",
     "Bank Name": "VP SECURITIES A/S",
@@ -4152,8 +4152,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "016",
     "SWIFT Code": "VPDKDKKK016",
     "Bank Name": "VP SECURITIES A/S",
@@ -4165,8 +4165,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "017",
     "SWIFT Code": "VPDKDKKK017",
     "Bank Name": "VP SECURITIES A/S",
@@ -4178,8 +4178,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "018",
     "SWIFT Code": "VPDKDKKK018",
     "Bank Name": "VP SECURITIES A/S",
@@ -4191,8 +4191,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "041",
     "SWIFT Code": "VPDKDKKK041",
     "Bank Name": "VP SECURITIES A/S",
@@ -4204,8 +4204,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "056",
     "SWIFT Code": "VPDKDKKK056",
     "Bank Name": "VP SECURITIES A/S",
@@ -4217,8 +4217,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "076",
     "SWIFT Code": "VPDKDKKK076",
     "Bank Name": "VP SECURITIES A/S",
@@ -4230,8 +4230,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "077",
     "SWIFT Code": "VPDKDKKK077",
     "Bank Name": "VP SECURITIES A/S",
@@ -4243,8 +4243,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "080",
     "SWIFT Code": "VPDKDKKK080",
     "Bank Name": "VP SECURITIES A/S",
@@ -4256,8 +4256,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "070",
     "SWIFT Code": "VPDKDKKK070",
     "Bank Name": "VP SECURITIES A/S",
@@ -4269,8 +4269,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "071",
     "SWIFT Code": "VPDKDKKK071",
     "Bank Name": "VP SECURITIES A/S",
@@ -4282,8 +4282,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "PEN",
     "SWIFT Code": "VPDKDKKKPEN",
     "Bank Name": "VP SECURITIES A/S",
@@ -4295,8 +4295,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "VPDKDKKKEUR",
     "Bank Name": "VP SECURITIES A/S",
@@ -4308,8 +4308,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "PN2",
     "SWIFT Code": "VPDKDKKKPN2",
     "Bank Name": "VP SECURITIES A/S",
@@ -4321,8 +4321,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "IPA",
     "SWIFT Code": "VPDKDKKKIPA",
     "Bank Name": "VP SECURITIES A/S",
@@ -4334,8 +4334,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "INV",
     "SWIFT Code": "VPDKDKKKINV",
     "Bank Name": "VP SECURITIES A/S",
@@ -4347,8 +4347,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "ISS",
     "SWIFT Code": "VPDKDKKKISS",
     "Bank Name": "VP SECURITIES A/S",
@@ -4360,8 +4360,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "ALU",
     "SWIFT Code": "VPDKDKKKALU",
     "Bank Name": "VP SECURITIES A/S",
@@ -4373,8 +4373,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOAP",
-    "bankCode": "DK",
+    "bankCode": "YOAP",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "YOAPDKK2",
     "Bank Name": "YOULEND APS",
@@ -4386,8 +4386,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZIGE",
-    "bankCode": "DK",
+    "bankCode": "ZIGE",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "ZIGEDKK2",
     "Bank Name": "ZIGLU EUROPE APS",
@@ -4399,8 +4399,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "CD7",
     "SWIFT Code": "DKNBDKKKCD7",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4412,8 +4412,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "EAC",
     "SWIFT Code": "DKNBDKKKEAC",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4425,8 +4425,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "NKB",
     "SWIFT Code": "DKNBDKKKNKB",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4438,8 +4438,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "RTG",
     "SWIFT Code": "DKNBDKKKRTG",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4451,8 +4451,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "S2T",
     "SWIFT Code": "DKNBDKKKS2T",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4464,8 +4464,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "TIP",
     "SWIFT Code": "DKNBDKKKTIP",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4477,8 +4477,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "KKD",
     "SWIFT Code": "DKNBDKKD",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4490,8 +4490,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "BAC",
     "SWIFT Code": "DKNBDKKKBAC",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4503,8 +4503,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKNB",
-    "bankCode": "DK",
+    "bankCode": "DKNB",
+    "countryCode": "DK",
     "branchCode": "T2S",
     "SWIFT Code": "DKNBDKKKT2S",
     "Bank Name": "DANMARKS NATIONALBANK",
@@ -4516,8 +4516,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DANB",
-    "bankCode": "DK",
+    "bankCode": "DANB",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "DANBDK22",
     "Bank Name": "DANSKE ANDELSKASSERS BANK A/S",
@@ -4529,8 +4529,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DANB",
-    "bankCode": "DK",
+    "bankCode": "DANB",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "DANBDK22EUR",
     "Bank Name": "DANSKE ANDELSKASSERS BANK A/S",
@@ -4542,8 +4542,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DANB",
-    "bankCode": "DK",
+    "bankCode": "DANB",
+    "countryCode": "DK",
     "branchCode": "TST",
     "SWIFT Code": "DANBDK22TST",
     "Bank Name": "DANSKE ANDELSKASSERS BANK A/S",
@@ -4555,8 +4555,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "AAB",
     "SWIFT Code": "DABADKKKAAB",
     "Bank Name": "DANSKE BANK A/S",
@@ -4568,8 +4568,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "AAL",
     "SWIFT Code": "DABADKKKAAL",
     "Bank Name": "DANSKE BANK A/S",
@@ -4581,8 +4581,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "AAR",
     "SWIFT Code": "DABADKKKAAR",
     "Bank Name": "DANSKE BANK A/S",
@@ -4594,8 +4594,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "BAG",
     "SWIFT Code": "DABADKKKBAG",
     "Bank Name": "DANSKE BANK A/S",
@@ -4607,8 +4607,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "BAL",
     "SWIFT Code": "DABADKKKBAL",
     "Bank Name": "DANSKE BANK A/S",
@@ -4620,8 +4620,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "BIR",
     "SWIFT Code": "DABADKKKBIR",
     "Bank Name": "DANSKE BANK A/S",
@@ -4633,8 +4633,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "BJE",
     "SWIFT Code": "DABADKKKBJE",
     "Bank Name": "DANSKE BANK A/S",
@@ -4646,8 +4646,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "CLS",
     "SWIFT Code": "DABADKKKCLS",
     "Bank Name": "DANSKE BANK A/S",
@@ -4659,8 +4659,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "3PT",
     "SWIFT Code": "DABADKKK3PT",
     "Bank Name": "DANSKE BANK A/S",
@@ -4672,8 +4672,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "SKB",
     "SWIFT Code": "DABADKKKSKB",
     "Bank Name": "DANSKE BANK A/S",
@@ -4685,8 +4685,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "EXC",
     "SWIFT Code": "DABADKKKEXC",
     "Bank Name": "DANSKE BANK A/S",
@@ -4698,8 +4698,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "EXH",
     "SWIFT Code": "DABADKKKEXH",
     "Bank Name": "DANSKE BANK A/S",
@@ -4711,8 +4711,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "DABADKKK",
     "Bank Name": "DANSKE BANK A/S",
@@ -4724,8 +4724,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "CUS",
     "SWIFT Code": "DABADKKKCUS",
     "Bank Name": "DANSKE BANK A/S",
@@ -4737,8 +4737,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KOM",
     "SWIFT Code": "DABADKKKKOM",
     "Bank Name": "DANSKE BANK A/S",
@@ -4750,8 +4750,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KOS",
     "SWIFT Code": "DABADKKKKOS",
     "Bank Name": "DANSKE BANK A/S",
@@ -4763,8 +4763,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KVM",
     "SWIFT Code": "DABADKKKKVM",
     "Bank Name": "DANSKE BANK A/S",
@@ -4776,8 +4776,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "KVS",
     "SWIFT Code": "DABADKKKKVS",
     "Bank Name": "DANSKE BANK A/S",
@@ -4789,8 +4789,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "DABADKKKDKK",
     "Bank Name": "DANSKE BANK A/S",
@@ -4802,8 +4802,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "DABADKKKEUR",
     "Bank Name": "DANSKE BANK A/S",
@@ -4815,8 +4815,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "TIP",
     "SWIFT Code": "DABADKKKTIP",
     "Bank Name": "DANSKE BANK A/S",
@@ -4828,8 +4828,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "ESB",
     "SWIFT Code": "DABADKKKESB",
     "Bank Name": "DANSKE BANK A/S",
@@ -4841,8 +4841,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "FRC",
     "SWIFT Code": "DABADKKKFRC",
     "Bank Name": "DANSKE BANK A/S",
@@ -4854,8 +4854,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "FRH",
     "SWIFT Code": "DABADKKKFRH",
     "Bank Name": "DANSKE BANK A/S",
@@ -4867,8 +4867,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "FSU",
     "SWIFT Code": "DABADKKKFSU",
     "Bank Name": "DANSKE BANK A/S",
@@ -4880,8 +4880,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "GEN",
     "SWIFT Code": "DABADKKKGEN",
     "Bank Name": "DANSKE BANK A/S",
@@ -4893,8 +4893,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "GLO",
     "SWIFT Code": "DABADKKKGLO",
     "Bank Name": "DANSKE BANK A/S",
@@ -4906,8 +4906,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "GRN",
     "SWIFT Code": "DABADKKKGRN",
     "Bank Name": "DANSKE BANK A/S",
@@ -4919,8 +4919,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HAD",
     "SWIFT Code": "DABADKKKHAD",
     "Bank Name": "DANSKE BANK A/S",
@@ -4932,8 +4932,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HEL",
     "SWIFT Code": "DABADKKKHEL",
     "Bank Name": "DANSKE BANK A/S",
@@ -4945,8 +4945,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HRL",
     "SWIFT Code": "DABADKKKHRL",
     "Bank Name": "DANSKE BANK A/S",
@@ -4958,8 +4958,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HER",
     "SWIFT Code": "DABADKKKHER",
     "Bank Name": "DANSKE BANK A/S",
@@ -4971,8 +4971,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HIL",
     "SWIFT Code": "DABADKKKHIL",
     "Bank Name": "DANSKE BANK A/S",
@@ -4984,8 +4984,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HIR",
     "SWIFT Code": "DABADKKKHIR",
     "Bank Name": "DANSKE BANK A/S",
@@ -4997,8 +4997,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HJO",
     "SWIFT Code": "DABADKKKHJO",
     "Bank Name": "DANSKE BANK A/S",
@@ -5010,8 +5010,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HBK",
     "SWIFT Code": "DABADKKKHBK",
     "Bank Name": "DANSKE BANK A/S",
@@ -5023,8 +5023,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HOL",
     "SWIFT Code": "DABADKKKHOL",
     "Bank Name": "DANSKE BANK A/S",
@@ -5036,8 +5036,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "DK",
+    "bankCode": "DABA",
+    "countryCode": "DK",
     "branchCode": "HOR",
     "SWIFT Code": "DABADKKKHOR",
     "Bank Name": "DANSKE BANK A/S",
@@ -5049,8 +5049,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWES",
-    "bankCode": "DK",
+    "bankCode": "SWES",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "SWESDK22DKK",
     "Bank Name": "SPAREKASSEN SJAELLAND",
@@ -5062,8 +5062,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWES",
-    "bankCode": "DK",
+    "bankCode": "SWES",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "SWESDK22",
     "Bank Name": "SPAREKASSEN SJAELLAND",
@@ -5075,8 +5075,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWES",
-    "bankCode": "DK",
+    "bankCode": "SWES",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "SWESDK22EUR",
     "Bank Name": "SPAREKASSEN SJAELLAND",
@@ -5088,8 +5088,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKON",
-    "bankCode": "DK",
+    "bankCode": "OKON",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "OKONDKKK",
     "Bank Name": "SUND AND BAELT HOLDING A/S",
@@ -5101,8 +5101,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "SYBKDK22",
     "Bank Name": "SYDBANK A/S",
@@ -5114,8 +5114,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "EUR",
     "SWIFT Code": "SYBKDK22EUR",
     "Bank Name": "SYDBANK A/S",
@@ -5127,8 +5127,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "DKK",
     "SWIFT Code": "SYBKDK22DKK",
     "Bank Name": "SYDBANK A/S",
@@ -5140,8 +5140,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "AAL",
     "SWIFT Code": "SYBKDK22AAL",
     "Bank Name": "SYDBANK A/S",
@@ -5153,8 +5153,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "AAR",
     "SWIFT Code": "SYBKDK22AAR",
     "Bank Name": "SYDBANK A/S",
@@ -5166,8 +5166,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "CPH",
     "SWIFT Code": "SYBKDK22CPH",
     "Bank Name": "SYDBANK A/S",
@@ -5179,8 +5179,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "ESB",
     "SWIFT Code": "SYBKDK22ESB",
     "Bank Name": "SYDBANK A/S",
@@ -5192,8 +5192,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "HER",
     "SWIFT Code": "SYBKDK22HER",
     "Bank Name": "SYDBANK A/S",
@@ -5205,8 +5205,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "HOR",
     "SWIFT Code": "SYBKDK22HOR",
     "Bank Name": "SYDBANK A/S",
@@ -5218,8 +5218,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "KOL",
     "SWIFT Code": "SYBKDK22KOL",
     "Bank Name": "SYDBANK A/S",
@@ -5231,8 +5231,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "ODE",
     "SWIFT Code": "SYBKDK22ODE",
     "Bank Name": "SYDBANK A/S",
@@ -5244,8 +5244,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "PAD",
     "SWIFT Code": "SYBKDK22PAD",
     "Bank Name": "SYDBANK A/S",
@@ -5257,8 +5257,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "SLA",
     "SWIFT Code": "SYBKDK22SLA",
     "Bank Name": "SYDBANK A/S",
@@ -5270,8 +5270,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "SON",
     "SWIFT Code": "SYBKDK22SON",
     "Bank Name": "SYDBANK A/S",
@@ -5283,8 +5283,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "SVB",
     "SWIFT Code": "SYBKDK22SVB",
     "Bank Name": "SYDBANK A/S",
@@ -5296,8 +5296,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "TON",
     "SWIFT Code": "SYBKDK22TON",
     "Bank Name": "SYDBANK A/S",
@@ -5309,8 +5309,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "VAR",
     "SWIFT Code": "SYBKDK22VAR",
     "Bank Name": "SYDBANK A/S",
@@ -5322,8 +5322,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYBK",
-    "bankCode": "DK",
+    "bankCode": "SYBK",
+    "countryCode": "DK",
     "branchCode": "VEJ",
     "SWIFT Code": "SYBKDK22VEJ",
     "Bank Name": "SYDBANK A/S",
@@ -5335,8 +5335,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "DK",
+    "bankCode": "PANX",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "PANXDK22",
     "Bank Name": "UNIFIEDPOST PAYMENTS, FILIAL AF",
@@ -5348,8 +5348,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNOP",
-    "bankCode": "DK",
+    "bankCode": "UNOP",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "UNOPDKKK",
     "Bank Name": "UNOPS",
@@ -5361,8 +5361,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIVE",
-    "bankCode": "DK",
+    "bankCode": "LIVE",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "LIVEDKKK",
     "Bank Name": "VELLIV, PENSION AND LIVSFORSIKRING A/S",
@@ -5374,8 +5374,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIND",
-    "bankCode": "DK",
+    "bankCode": "WIND",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "WINDDK22",
     "Bank Name": "VESTAS WIND SYSTEMS A/S",
@@ -5387,8 +5387,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "ESB",
     "SWIFT Code": "VEHODK22ESB",
     "Bank Name": "VESTJYSK BANK",
@@ -5400,8 +5400,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "HER",
     "SWIFT Code": "VEHODK22HER",
     "Bank Name": "VESTJYSK BANK",
@@ -5413,8 +5413,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "TST",
     "SWIFT Code": "VEHODK22TST",
     "Bank Name": "VESTJYSK BANK",
@@ -5426,8 +5426,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "E01",
     "SWIFT Code": "VEHODK22E01",
     "Bank Name": "VESTJYSK BANK",
@@ -5439,8 +5439,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "HOL",
     "SWIFT Code": "VEHODK22HOL",
     "Bank Name": "VESTJYSK BANK",
@@ -5452,8 +5452,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "K22",
     "SWIFT Code": "VEHODK22",
     "Bank Name": "VESTJYSK BANK",
@@ -5465,8 +5465,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "STR",
     "SWIFT Code": "VEHODK22STR",
     "Bank Name": "VESTJYSK BANK",
@@ -5478,8 +5478,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEHO",
-    "bankCode": "DK",
+    "bankCode": "VEHO",
+    "countryCode": "DK",
     "branchCode": "VIB",
     "SWIFT Code": "VEHODK22VIB",
     "Bank Name": "VESTJYSK BANK",
@@ -5491,8 +5491,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "DK",
+    "bankCode": "VPAY",
+    "countryCode": "DK",
     "branchCode": "KK2",
     "SWIFT Code": "VPAYDKK2",
     "Bank Name": "VIVA PAYMENT SERVICES DENMARK, FILIAL AF VIVA PAYMENT SERVICES S.A GREECE",
@@ -5504,8 +5504,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "LUX",
     "SWIFT Code": "VPDKDKKKLUX",
     "Bank Name": "VP SECURITIES A/S",
@@ -5517,8 +5517,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "MCF",
     "SWIFT Code": "VPDKDKKKMCF",
     "Bank Name": "VP SECURITIES A/S",
@@ -5530,8 +5530,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "KKK",
     "SWIFT Code": "VPDKDKKK",
     "Bank Name": "VP SECURITIES A/S",
@@ -5543,8 +5543,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "MIG",
     "SWIFT Code": "VPDKDKKKMIG",
     "Bank Name": "VP SECURITIES A/S",
@@ -5556,8 +5556,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "031",
     "SWIFT Code": "VPDKDKKK031",
     "Bank Name": "VP SECURITIES A/S",
@@ -5569,8 +5569,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "032",
     "SWIFT Code": "VPDKDKKK032",
     "Bank Name": "VP SECURITIES A/S",
@@ -5582,8 +5582,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "033",
     "SWIFT Code": "VPDKDKKK033",
     "Bank Name": "VP SECURITIES A/S",
@@ -5595,8 +5595,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "034",
     "SWIFT Code": "VPDKDKKK034",
     "Bank Name": "VP SECURITIES A/S",
@@ -5608,8 +5608,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "035",
     "SWIFT Code": "VPDKDKKK035",
     "Bank Name": "VP SECURITIES A/S",
@@ -5621,8 +5621,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "DIS",
     "SWIFT Code": "VPDKDKKKDIS",
     "Bank Name": "VP SECURITIES A/S",
@@ -5634,8 +5634,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "100",
     "SWIFT Code": "VPDKDKKK100",
     "Bank Name": "VP SECURITIES A/S",
@@ -5647,8 +5647,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "200",
     "SWIFT Code": "VPDKDKKK200",
     "Bank Name": "VP SECURITIES A/S",
@@ -5660,8 +5660,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "300",
     "SWIFT Code": "VPDKDKKK300",
     "Bank Name": "VP SECURITIES A/S",
@@ -5673,8 +5673,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "400",
     "SWIFT Code": "VPDKDKKK400",
     "Bank Name": "VP SECURITIES A/S",
@@ -5686,8 +5686,8 @@ const denmark = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPDK",
-    "bankCode": "DK",
+    "bankCode": "VPDK",
+    "countryCode": "DK",
     "branchCode": "500",
     "SWIFT Code": "VPDKDKKK500",
     "Bank Name": "VP SECURITIES A/S",

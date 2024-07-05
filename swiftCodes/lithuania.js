@@ -1,7 +1,7 @@
 const lithuania = [
   {
-    "countryCode": "UNEC",
-    "bankCode": "LT",
+    "bankCode": "UNEC",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "UNECLT2V",
     "Bank Name": "NEOCARD UAB",
@@ -13,8 +13,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIKU",
-    "bankCode": "LT",
+    "bankCode": "NIKU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "NIKULT22",
     "Bank Name": "NIKULIPE",
@@ -26,8 +26,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NODT",
-    "bankCode": "LT",
+    "bankCode": "NODT",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "NODTLT22",
     "Bank Name": "NORDSTREET",
@@ -39,8 +39,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKEO",
-    "bankCode": "LT",
+    "bankCode": "OKEO",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "OKEOLT22",
     "Bank Name": "OKEO PAYMENTS UAB",
@@ -52,8 +52,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKOY",
-    "bankCode": "LT",
+    "bankCode": "OKOY",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "OKOYLT2X",
     "Bank Name": "OP CORPORATE BANK PLC LITHUANIA BRANCH",
@@ -65,8 +65,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPTU",
-    "bankCode": "LT",
+    "bankCode": "OPTU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "OPTULT22",
     "Bank Name": "OPAL TRANSFER EU, UAB",
@@ -78,8 +78,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OWEA",
-    "bankCode": "LT",
+    "bankCode": "OWEA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "OWEALT22",
     "Bank Name": "ORION WEALTH, UAB",
@@ -91,8 +91,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAWK",
-    "bankCode": "LT",
+    "bankCode": "HAWK",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "HAWKLT22",
     "Bank Name": "PAYHAWK FINANCIAL SERVICES UAB",
@@ -106,8 +106,8 @@ const lithuania = [
   {},
   {},
   {
-    "countryCode": "PMNT",
-    "bankCode": "LT",
+    "bankCode": "PMNT",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "PMNTLT2V",
     "Bank Name": "PAYMONT, UAB",
@@ -119,8 +119,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYYR",
-    "bankCode": "LT",
+    "bankCode": "PYYR",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "PYYRLT22",
     "Bank Name": "PAYRAY",
@@ -132,8 +132,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVIU",
-    "bankCode": "LT",
+    "bankCode": "EVIU",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "EVIULT2V",
     "Bank Name": "PAYSERA LT UAB",
@@ -145,8 +145,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVIU",
-    "bankCode": "LT",
+    "bankCode": "EVIU",
+    "countryCode": "LT",
     "branchCode": "001",
     "SWIFT Code": "EVIULT2V001",
     "Bank Name": "PAYSERA LT UAB",
@@ -158,8 +158,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAUB",
-    "bankCode": "LT",
+    "bankCode": "PAUB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "PAUBLT22",
     "Bank Name": "PAYSOLUT, UAB",
@@ -171,8 +171,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLUA",
-    "bankCode": "LT",
+    "bankCode": "GLUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "GLUALT22",
     "Bank Name": "PAYSWIX, UAB",
@@ -184,8 +184,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRFT",
-    "bankCode": "LT",
+    "bankCode": "PRFT",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "PRFTLT22",
     "Bank Name": "PROFITUS",
@@ -197,8 +197,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REOL",
-    "bankCode": "LT",
+    "bankCode": "REOL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "REOLLT22",
     "Bank Name": "REGO.LT",
@@ -210,8 +210,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVUA",
-    "bankCode": "LT",
+    "bankCode": "RVUA",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "RVUALT2V",
     "Bank Name": "REVOLUT BANK UAB",
@@ -223,8 +223,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVUA",
-    "bankCode": "LT",
+    "bankCode": "RVUA",
+    "countryCode": "LT",
     "branchCode": "TPS",
     "SWIFT Code": "RVUALT2VTPS",
     "Bank Name": "REVOLUT BANK UAB",
@@ -236,8 +236,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "LT",
+    "bankCode": "REVO",
+    "countryCode": "LT",
     "branchCode": "T23",
     "SWIFT Code": "REVOLT23",
     "Bank Name": "REVOLUT HOLDINGS EUROPE UAB",
@@ -249,8 +249,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVB",
-    "bankCode": "LT",
+    "bankCode": "REVB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "REVBLT22",
     "Bank Name": "REVOLUT SECURITIES UAB",
@@ -262,8 +262,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RILA",
-    "bankCode": "LT",
+    "bankCode": "RILA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "RILALT22",
     "Bank Name": "RIA LITHUANIA UAB",
@@ -276,8 +276,8 @@ const lithuania = [
   },
   {},
   {
-    "countryCode": "SESF",
-    "bankCode": "LT",
+    "bankCode": "SESF",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "SESFLT22",
     "Bank Name": "SEVEN SEAS FINANCE",
@@ -289,8 +289,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSB",
-    "bankCode": "LT",
+    "bankCode": "CBSB",
+    "countryCode": "LT",
     "branchCode": "T26",
     "SWIFT Code": "CBSBLT26",
     "Bank Name": "SIAULIU BANKAS AB",
@@ -302,8 +302,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSB",
-    "bankCode": "LT",
+    "bankCode": "CBSB",
+    "countryCode": "LT",
     "branchCode": "DCA",
     "SWIFT Code": "CBSBLT26DCA",
     "Bank Name": "SIAULIU BANKAS AB",
@@ -315,8 +315,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUPU",
-    "bankCode": "LT",
+    "bankCode": "SUPU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "SUPULT22",
     "Bank Name": "SUMUP EU PAYMENTS, UAB",
@@ -328,8 +328,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "LT",
+    "bankCode": "HABA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "HABALT22",
     "Bank Name": "SWEDBANK AB",
@@ -341,8 +341,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABA",
-    "bankCode": "LT",
+    "bankCode": "HABA",
+    "countryCode": "LT",
     "branchCode": "TIP",
     "SWIFT Code": "HABALT22TIP",
     "Bank Name": "SWEDBANK AB",
@@ -354,8 +354,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWLU",
-    "bankCode": "LT",
+    "bankCode": "SWLU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "SWLULT22",
     "Bank Name": "SWEDBANK LIZINGAS, UAB",
@@ -367,8 +367,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEUA",
-    "bankCode": "LT",
+    "bankCode": "TEUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "TEUALT22",
     "Bank Name": "TESLAPAY UAB",
@@ -380,8 +380,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRFB",
-    "bankCode": "LT",
+    "bankCode": "TRFB",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "TRFBLT2V",
     "Bank Name": "TRUSTCOM FINANCIAL UAB",
@@ -393,8 +393,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXUA",
-    "bankCode": "LT",
+    "bankCode": "EXUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "EXUALT22",
     "Bank Name": "TT EXPRESS UAB",
@@ -406,8 +406,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UFPO",
-    "bankCode": "LT",
+    "bankCode": "UFPO",
+    "countryCode": "LT",
     "branchCode": "T23",
     "SWIFT Code": "UFPOLT23",
     "Bank Name": "UAB 'FINANSINES PASLAUGOS' CONTIS",
@@ -419,8 +419,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAFM",
-    "bankCode": "LT",
+    "bankCode": "UAFM",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAFMLT22",
     "Bank Name": "UAB 'FINOMARK'",
@@ -432,8 +432,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNRK",
-    "bankCode": "LT",
+    "bankCode": "FNRK",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "FNRKLT22",
     "Bank Name": "UAB 'FINORA KREDITAS'",
@@ -445,8 +445,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBNN",
-    "bankCode": "LT",
+    "bankCode": "IBNN",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "IBNNLT22",
     "Bank Name": "UAB 'IBAN ONLINE'",
@@ -458,8 +458,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UIPU",
-    "bankCode": "LT",
+    "bankCode": "UIPU",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "UIPULT2V",
     "Bank Name": "UAB 'INTERNATIONAL PAYMENT UNION'",
@@ -471,8 +471,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSPT",
-    "bankCode": "LT",
+    "bankCode": "NSPT",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "NSPTLT22",
     "Bank Name": "UAB 'NEOSPORTAS'",
@@ -484,8 +484,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAPU",
-    "bankCode": "LT",
+    "bankCode": "UAPU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAPULT22",
     "Bank Name": "UAB 'PAYTEND EUROPE'",
@@ -497,8 +497,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAYH",
-    "bankCode": "LT",
+    "bankCode": "PAYH",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "PAYHLT22",
     "Bank Name": "UAB 'PAYWHO'",
@@ -510,8 +510,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UASV",
-    "bankCode": "LT",
+    "bankCode": "UASV",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UASVLT22",
     "Bank Name": "UAB 'SANDO INVESTMENT'",
@@ -523,8 +523,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAAF",
-    "bankCode": "LT",
+    "bankCode": "UAAF",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAAFLT22",
     "Bank Name": "UAB ALTERNATYVUS FINANSAVIMAS",
@@ -536,8 +536,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UABK",
-    "bankCode": "LT",
+    "bankCode": "UABK",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UABKLT22",
     "Bank Name": "UAB BALTIJOS KONCERNAS",
@@ -549,8 +549,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UABE",
-    "bankCode": "LT",
+    "bankCode": "UABE",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UABELT22",
     "Bank Name": "UAB BEBAWA",
@@ -562,8 +562,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UABI",
-    "bankCode": "LT",
+    "bankCode": "UABI",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UABILT22",
     "Bank Name": "UAB BEST FINANCE",
@@ -575,8 +575,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UABL",
-    "bankCode": "LT",
+    "bankCode": "UABL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UABLLT22",
     "Bank Name": "UAB BLENDER LITHUANIA F1",
@@ -588,8 +588,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UABL",
-    "bankCode": "LT",
+    "bankCode": "UABL",
+    "countryCode": "LT",
     "branchCode": "T23",
     "SWIFT Code": "UABLLT23",
     "Bank Name": "UAB BLENDER LITHUANIA F2",
@@ -602,8 +602,8 @@ const lithuania = [
   },
   {},
   {
-    "countryCode": "UBBF",
-    "bankCode": "LT",
+    "bankCode": "UBBF",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UBBFLT22",
     "Bank Name": "UAB BOURGEOIS BOHEME FINTECH",
@@ -615,8 +615,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UACA",
-    "bankCode": "LT",
+    "bankCode": "UACA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UACALT22",
     "Bank Name": "UAB CRAFTSOFT",
@@ -628,8 +628,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UACD",
-    "bankCode": "LT",
+    "bankCode": "UACD",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UACDLT22",
     "Bank Name": "UAB CREDIT DAY",
@@ -641,8 +641,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UACW",
-    "bankCode": "LT",
+    "bankCode": "UACW",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UACWLT22",
     "Bank Name": "UAB CROWDPEAR",
@@ -654,8 +654,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUEU",
-    "bankCode": "LT",
+    "bankCode": "CUEU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "CUEULT22",
     "Bank Name": "UAB CURVE EUROPE",
@@ -667,8 +667,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UDBS",
-    "bankCode": "LT",
+    "bankCode": "UDBS",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UDBSLT22",
     "Bank Name": "UAB DERISK BUSINESS SOLUTIONS",
@@ -680,8 +680,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UDVP",
-    "bankCode": "LT",
+    "bankCode": "UDVP",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UDVPLT22",
     "Bank Name": "UAB DIGITAL VIRGO PAYMENT",
@@ -693,8 +693,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UDRU",
-    "bankCode": "LT",
+    "bankCode": "UDRU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UDRULT22",
     "Bank Name": "UAB DRUSVALAS",
@@ -706,8 +706,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAEV",
-    "bankCode": "LT",
+    "bankCode": "UAEV",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAEVLT22",
     "Bank Name": "UAB EDS INVEST 4",
@@ -719,8 +719,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAEN",
-    "bankCode": "LT",
+    "bankCode": "UAEN",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAENLT22",
     "Bank Name": "UAB EDS INVEST 5",
@@ -732,8 +732,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UFBV",
-    "bankCode": "LT",
+    "bankCode": "UFBV",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UFBVLT22",
     "Bank Name": "UAB FINANSU BITE VERSLUI",
@@ -745,8 +745,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAFB",
-    "bankCode": "LT",
+    "bankCode": "UAFB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAFBLT22",
     "Bank Name": "UAB FINBRO",
@@ -758,8 +758,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UFOS",
-    "bankCode": "LT",
+    "bankCode": "UFOS",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UFOSLT22",
     "Bank Name": "UAB FMI ORION SECURITIES",
@@ -771,8 +771,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAHK",
-    "bankCode": "LT",
+    "bankCode": "UAHK",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAHKLT22",
     "Bank Name": "UAB HIPOTEKINIAI KREDITAI",
@@ -784,8 +784,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAAA",
-    "bankCode": "LT",
+    "bankCode": "UAAA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAAALT22",
     "Bank Name": "UAB HOKODO",
@@ -797,8 +797,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAIR",
-    "bankCode": "LT",
+    "bankCode": "UAIR",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAIRLT22",
     "Bank Name": "UAB INRENTO",
@@ -810,8 +810,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAKP",
-    "bankCode": "LT",
+    "bankCode": "UAKP",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAKPLT22",
     "Bank Name": "UAB KREDITO PARTNERIS",
@@ -823,8 +823,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAKR",
-    "bankCode": "LT",
+    "bankCode": "UAKR",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAKRLT22",
     "Bank Name": "UAB KREDUS",
@@ -836,8 +836,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UALT",
-    "bankCode": "LT",
+    "bankCode": "UALT",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UALTLT22",
     "Bank Name": "UAB LOCK TRUST",
@@ -849,8 +849,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBA",
-    "bankCode": "LT",
+    "bankCode": "MDBA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "MDBALT22",
     "Bank Name": "UAB MEDICINOS BANKAS",
@@ -862,8 +862,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBA",
-    "bankCode": "LT",
+    "bankCode": "MDBA",
+    "countryCode": "LT",
     "branchCode": "DCA",
     "SWIFT Code": "MDBALT22DCA",
     "Bank Name": "UAB MEDICINOS BANKAS",
@@ -875,8 +875,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAMT",
-    "bankCode": "LT",
+    "bankCode": "UAMT",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAMTLT22",
     "Bank Name": "UAB MONSOON CAPITAL",
@@ -888,8 +888,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UANI",
-    "bankCode": "LT",
+    "bankCode": "UANI",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UANILT22",
     "Bank Name": "UAB NANDI FINANCE",
@@ -901,8 +901,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UANO",
-    "bankCode": "LT",
+    "bankCode": "UANO",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UANOLT22",
     "Bank Name": "UAB NOVAPAY",
@@ -914,8 +914,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAAY",
-    "bankCode": "LT",
+    "bankCode": "UAAY",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAAYLT22",
     "Bank Name": "UAB NS PAY",
@@ -927,8 +927,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USPE",
-    "bankCode": "LT",
+    "bankCode": "USPE",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "USPELT22",
     "Bank Name": "UAB NUVEI",
@@ -940,8 +940,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USPE",
-    "bankCode": "LT",
+    "bankCode": "USPE",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "USPELT2V",
     "Bank Name": "UAB NUVEI",
@@ -953,8 +953,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAOS",
-    "bankCode": "LT",
+    "bankCode": "UAOS",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAOSLT22",
     "Bank Name": "UAB OPAY SOLUTIONS",
@@ -966,8 +966,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAPA",
-    "bankCode": "LT",
+    "bankCode": "UAPA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAPALT22",
     "Bank Name": "UAB PAYRNET",
@@ -979,8 +979,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAPS",
-    "bankCode": "LT",
+    "bankCode": "UAPS",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAPSLT22",
     "Bank Name": "UAB PERLOSA",
@@ -992,8 +992,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAPE",
-    "bankCode": "LT",
+    "bankCode": "UAPE",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAPELT22",
     "Bank Name": "UAB PERVESK",
@@ -1005,8 +1005,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAPP",
-    "bankCode": "LT",
+    "bankCode": "UAPP",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "UAPPLT2V",
     "Bank Name": "UAB PHOENIX PAYMENTS",
@@ -1018,8 +1018,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UPFI",
-    "bankCode": "LT",
+    "bankCode": "UPFI",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UPFILT22",
     "Bank Name": "UAB PRIMERO FINANCE",
@@ -1031,8 +1031,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAEL",
-    "bankCode": "LT",
+    "bankCode": "UAEL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAELLT22",
     "Bank Name": "UAB SEILI",
@@ -1044,8 +1044,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UASI",
-    "bankCode": "LT",
+    "bankCode": "UASI",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UASILT22",
     "Bank Name": "UAB SILVERGATE LT",
@@ -1057,8 +1057,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USDF",
-    "bankCode": "LT",
+    "bankCode": "USDF",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "USDFLT22",
     "Bank Name": "UAB SME BANK",
@@ -1070,8 +1070,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UASA",
-    "bankCode": "LT",
+    "bankCode": "UASA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UASALT22",
     "Bank Name": "UAB SME LEASING",
@@ -1083,8 +1083,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UASD",
-    "bankCode": "LT",
+    "bankCode": "UASD",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UASDLT22",
     "Bank Name": "UAB SPEEDYTELLER",
@@ -1096,8 +1096,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USTI",
-    "bankCode": "LT",
+    "bankCode": "USTI",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "USTILT2V",
     "Bank Name": "UAB STANHOPE FINANCIAL",
@@ -1109,8 +1109,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UATU",
-    "bankCode": "LT",
+    "bankCode": "UATU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UATULT22",
     "Bank Name": "UAB TRAVEL UNION",
@@ -1122,8 +1122,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UVIP",
-    "bankCode": "LT",
+    "bankCode": "UVIP",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UVIPLT22",
     "Bank Name": "UAB VIESUJU INVESTICIJU PLETROS AGENTURA",
@@ -1135,8 +1135,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAWA",
-    "bankCode": "LT",
+    "bankCode": "UAWA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAWALT22",
     "Bank Name": "UAB WALLETTO",
@@ -1148,8 +1148,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGAF",
-    "bankCode": "LT",
+    "bankCode": "UGAF",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UGAFLT22",
     "Bank Name": "UAB ZEMES UKIO PASKOLU GARANTIJU FONDAS",
@@ -1161,8 +1161,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZEN",
-    "bankCode": "LT",
+    "bankCode": "BZEN",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "BZENLT22",
     "Bank Name": "UAB ZEN.COM",
@@ -1174,8 +1174,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAZI",
-    "bankCode": "LT",
+    "bankCode": "UAZI",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UAZILT22",
     "Bank Name": "UAB ZUPER LITHUANIA",
@@ -1187,8 +1187,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "LT",
+    "bankCode": "PANX",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "PANXLT22",
     "Bank Name": "UNIFIEDPOST PAYMENTS FILIALAS",
@@ -1200,8 +1200,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UABN",
-    "bankCode": "LT",
+    "bankCode": "UABN",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "UABNLT22",
     "Bank Name": "UZDAROJI AKCINE BENDROVE- INVESTICIJU IR VERSLO GARANTIJOS",
@@ -1213,8 +1213,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIVG",
-    "bankCode": "LT",
+    "bankCode": "VIVG",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "VIVGLT22",
     "Bank Name": "VALSTYBES INVESTICIJU VALDYMO AGENT",
@@ -1226,8 +1226,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEPA",
-    "bankCode": "LT",
+    "bankCode": "VEPA",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "VEPALT2X",
     "Bank Name": "VERIFIED PAYMENTS JSC",
@@ -1239,8 +1239,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VFUA",
-    "bankCode": "LT",
+    "bankCode": "VFUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "VFUALT22",
     "Bank Name": "VFS LT, UAB",
@@ -1252,8 +1252,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIPU",
-    "bankCode": "LT",
+    "bankCode": "VIPU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "VIPULT22",
     "Bank Name": "VIA PAYMENTS UAB",
@@ -1265,8 +1265,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTEK",
-    "bankCode": "LT",
+    "bankCode": "VTEK",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "VTEKLT22",
     "Bank Name": "VYRIAUSIOJI TARNYBINES ETIKOS KOMIS",
@@ -1278,8 +1278,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTCA",
-    "bankCode": "LT",
+    "bankCode": "WTCA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "WTCALT22",
     "Bank Name": "W1TTY CAPITAL UAB",
@@ -1291,8 +1291,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFGU",
-    "bankCode": "LT",
+    "bankCode": "WFGU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "WFGULT22",
     "Bank Name": "WEGENERAL FINANCIAL GROUP UAB",
@@ -1304,8 +1304,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIUA",
-    "bankCode": "LT",
+    "bankCode": "WIUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "WIUALT22",
     "Bank Name": "WITTIX UAB",
@@ -1317,8 +1317,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIGU",
-    "bankCode": "LT",
+    "bankCode": "WIGU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "WIGULT22",
     "Bank Name": "WITTY GLOBAL UAB",
@@ -1330,8 +1330,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPUB",
-    "bankCode": "LT",
+    "bankCode": "XPUB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "XPUBLT22",
     "Bank Name": "XPATE UAB",
@@ -1343,8 +1343,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAUA",
-    "bankCode": "LT",
+    "bankCode": "PAUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "PAUALT22",
     "Bank Name": "AB 'PAYSTRAX'",
@@ -1356,8 +1356,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJOR",
-    "bankCode": "LT",
+    "bankCode": "FJOR",
+    "countryCode": "LT",
     "branchCode": "T23",
     "SWIFT Code": "FJORLT23",
     "Bank Name": "AB FJORD BANK",
@@ -1369,8 +1369,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUSR",
-    "bankCode": "LT",
+    "bankCode": "KUSR",
+    "countryCode": "LT",
     "branchCode": "T24",
     "SWIFT Code": "KUSRLT24",
     "Bank Name": "AB MANO BANKAS",
@@ -1382,8 +1382,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUSR",
-    "bankCode": "LT",
+    "bankCode": "KUSR",
+    "countryCode": "LT",
     "branchCode": "TIP",
     "SWIFT Code": "KUSRLT24TIP",
     "Bank Name": "AB MANO BANKAS",
@@ -1395,8 +1395,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBVI",
-    "bankCode": "LT",
+    "bankCode": "CBVI",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "CBVILT2X",
     "Bank Name": "AB SEB BANKAS",
@@ -1408,8 +1408,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBVI",
-    "bankCode": "LT",
+    "bankCode": "CBVI",
+    "countryCode": "LT",
     "branchCode": "TPS",
     "SWIFT Code": "CBVILT2XTPS",
     "Bank Name": "AB SEB BANKAS",
@@ -1421,8 +1421,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMPU",
-    "bankCode": "LT",
+    "bankCode": "AMPU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "AMPULT22",
     "Bank Name": "AMBR PAYMENTS UAB",
@@ -1434,8 +1434,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARUA",
-    "bankCode": "LT",
+    "bankCode": "ARUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "ARUALT22",
     "Bank Name": "ARCAPAY UAB",
@@ -1447,8 +1447,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDU",
-    "bankCode": "LT",
+    "bankCode": "INDU",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "INDULT2X",
     "Bank Name": "AS CITADELE BANKA LIETUVOS FILIALAS",
@@ -1460,8 +1460,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBFL",
-    "bankCode": "LT",
+    "bankCode": "IBFL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "IBFLLT22",
     "Bank Name": "AS INBANK FILIALAS",
@@ -1473,8 +1473,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AWXL",
-    "bankCode": "LT",
+    "bankCode": "AWXL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "AWXLLT22",
     "Bank Name": "AWX LITHUANIA UAB",
@@ -1486,8 +1486,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNUA",
-    "bankCode": "LT",
+    "bankCode": "BNUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "BNUALT22",
     "Bank Name": "BANXS UAB",
@@ -1499,8 +1499,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEMU",
-    "bankCode": "LT",
+    "bankCode": "BEMU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "BEMULT22",
     "Bank Name": "BEM EUROPE UAB",
@@ -1512,8 +1512,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBNU",
-    "bankCode": "LT",
+    "bankCode": "CBNU",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "CBNULT2V",
     "Bank Name": "CBI MONEY UAB",
@@ -1525,8 +1525,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLUA",
-    "bankCode": "LT",
+    "bankCode": "CLUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "CLUALT22",
     "Bank Name": "CLEARSHIFT UAB",
@@ -1538,8 +1538,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRUB",
-    "bankCode": "LT",
+    "bankCode": "CRUB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "CRUBLT22",
     "Bank Name": "CRIUS LT, UAB",
@@ -1551,8 +1551,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DMVO",
-    "bankCode": "LT",
+    "bankCode": "DMVO",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "DMVOLT22",
     "Bank Name": "DEMIVOLT",
@@ -1564,8 +1564,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIUA",
-    "bankCode": "LT",
+    "bankCode": "DIUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "DIUALT22",
     "Bank Name": "DIPOCKET, UAB",
@@ -1577,8 +1577,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPSU",
-    "bankCode": "LT",
+    "bankCode": "EPSU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "EPSULT22",
     "Bank Name": "EARTHPORT PAYMENT SERVICES UAB",
@@ -1590,8 +1590,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDIN",
-    "bankCode": "LT",
+    "bankCode": "EDIN",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "EDINLT22",
     "Bank Name": "EDS INVEST 2",
@@ -1603,8 +1603,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDIV",
-    "bankCode": "LT",
+    "bankCode": "EDIV",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "EDIVLT22",
     "Bank Name": "EDS INVEST 3",
@@ -1616,8 +1616,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPUA",
-    "bankCode": "LT",
+    "bankCode": "EPUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "EPUALT22",
     "Bank Name": "EPAYBLOCK UAB",
@@ -1629,8 +1629,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUA",
-    "bankCode": "LT",
+    "bankCode": "ESUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "ESUALT22",
     "Bank Name": "ESTO UAB",
@@ -1642,8 +1642,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUEB",
-    "bankCode": "LT",
+    "bankCode": "EUEB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "EUEBLT22",
     "Bank Name": "EUROPEAN MERCHANT BANK UAB",
@@ -1655,8 +1655,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAXX",
-    "bankCode": "LT",
+    "bankCode": "BAXX",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "BAXXLT22",
     "Bank Name": "FINCI, UAB",
@@ -1668,8 +1668,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIUB",
-    "bankCode": "LT",
+    "bankCode": "FIUB",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "FIUBLT22",
     "Bank Name": "FINHERO, UAB",
@@ -1681,8 +1681,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLUA",
-    "bankCode": "LT",
+    "bankCode": "FLUA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "FLUALT22",
     "Bank Name": "FLORIOFINANCE UAB",
@@ -1694,8 +1694,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUNA",
-    "bankCode": "LT",
+    "bankCode": "FUNA",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "FUNALT22",
     "Bank Name": "FUNDVEST UAB",
@@ -1707,8 +1707,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUPU",
-    "bankCode": "LT",
+    "bankCode": "GUPU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "GUPULT22",
     "Bank Name": "GURU PAY UAB",
@@ -1720,8 +1720,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBIU",
-    "bankCode": "LT",
+    "bankCode": "IBIU",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "IBIULT2X",
     "Bank Name": "IBS LITHUANIA",
@@ -1733,8 +1733,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAKR",
-    "bankCode": "LT",
+    "bankCode": "MAKR",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "MAKRLT22",
     "Bank Name": "INHOUSE LOAN",
@@ -1746,8 +1746,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUFU",
-    "bankCode": "LT",
+    "bankCode": "KUFU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "KUFULT22",
     "Bank Name": "KUAN FINANCIAL, UAB",
@@ -1759,8 +1759,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "PAY",
     "SWIFT Code": "LIABLT2XPAY",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1772,8 +1772,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "LIABLT2X",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1785,8 +1785,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "ECM",
     "SWIFT Code": "LIABLT2XECM",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1798,8 +1798,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "DCA",
     "SWIFT Code": "LIABLT2XDCA",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1811,8 +1811,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "MMS",
     "SWIFT Code": "LIABLT2XMMS",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1824,8 +1824,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "SNO",
     "SWIFT Code": "LIABLT2XSNO",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1837,8 +1837,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "MSD",
     "SWIFT Code": "LIABLT2XMSD",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1850,8 +1850,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAB",
-    "bankCode": "LT",
+    "bankCode": "LIAB",
+    "countryCode": "LT",
     "branchCode": "CON",
     "SWIFT Code": "LIABLT2XCON",
     "Bank Name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
@@ -1863,8 +1863,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCKU",
-    "bankCode": "LT",
+    "bankCode": "LCKU",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "LCKULT22",
     "Bank Name": "LITHUANIAN CENTRAL CREDIT UNION",
@@ -1876,8 +1876,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBNK",
-    "bankCode": "LT",
+    "bankCode": "WBNK",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "WBNKLT22",
     "Bank Name": "LTL KREDITO UNIJA",
@@ -1889,8 +1889,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBL",
-    "bankCode": "LT",
+    "bankCode": "AGBL",
+    "countryCode": "LT",
     "branchCode": "T2X",
     "SWIFT Code": "AGBLLT2X",
     "Bank Name": "LUMINOR BANK AS LITHUANIAN BRANCH",
@@ -1902,8 +1902,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBL",
-    "bankCode": "LT",
+    "bankCode": "AGBL",
+    "countryCode": "LT",
     "branchCode": "TGT",
     "SWIFT Code": "AGBLLT2XTGT",
     "Bank Name": "LUMINOR BANK AS LITHUANIAN BRANCH",
@@ -1915,8 +1915,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIPY",
-    "bankCode": "LT",
+    "bankCode": "LIPY",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "LIPYLT22",
     "Bank Name": "LUX INTERNATIONAL PAYMENT SYSTEM UAB",
@@ -1928,8 +1928,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAAB",
-    "bankCode": "LT",
+    "bankCode": "MAAB",
+    "countryCode": "LT",
     "branchCode": "T2V",
     "SWIFT Code": "MAABLT2V",
     "Bank Name": "MAJESTIC FINANCIAL UAB",
@@ -1941,8 +1941,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFRL",
-    "bankCode": "LT",
+    "bankCode": "MFRL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "MFRLLT22",
     "Bank Name": "MINISTRY OF FINANCE OF THE REPUBLIC OF LITHUANIA",
@@ -1954,8 +1954,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDL",
-    "bankCode": "LT",
+    "bankCode": "CSDL",
+    "countryCode": "LT",
     "branchCode": "T22",
     "SWIFT Code": "CSDLLT22",
     "Bank Name": "NASDAQ CSD SE LITHUANIAN BRANCH",
@@ -1967,8 +1967,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDL",
-    "bankCode": "LT",
+    "bankCode": "CSDL",
+    "countryCode": "LT",
     "branchCode": "577",
     "SWIFT Code": "CSDLLT22577",
     "Bank Name": "NASDAQ CSD SE LITHUANIAN BRANCH",
@@ -1980,8 +1980,8 @@ const lithuania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDL",
-    "bankCode": "LT",
+    "bankCode": "CSDL",
+    "countryCode": "LT",
     "branchCode": "RTG",
     "SWIFT Code": "CSDLLT22RTG",
     "Bank Name": "NASDAQ CSD SE LITHUANIAN BRANCH",

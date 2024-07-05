@@ -1,7 +1,7 @@
 const dominica = [
   {
-    "countryCode": "CMWB",
-    "bankCode": "DM",
+    "bankCode": "CMWB",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "CMWBDMDM",
     "Bank Name": "COMMONWEALTH BANK AND TRUST LIMITED",
@@ -13,8 +13,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBK",
-    "bankCode": "DM",
+    "bankCode": "CMBK",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "CMBKDMDM",
     "Bank Name": "COMPASS BANK AND TRUST CORPORATION",
@@ -26,8 +26,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVDM",
-    "bankCode": "DM",
+    "bankCode": "GVDM",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "GVDMDMDM",
     "Bank Name": "GOVERNMENT OF DOMINICA",
@@ -39,8 +39,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GITR",
-    "bankCode": "DM",
+    "bankCode": "GITR",
+    "countryCode": "DM",
     "branchCode": "MD2",
     "SWIFT Code": "GITRDMD2",
     "Bank Name": "GUARDIAN INTERNATIONAL BANK AND TRUST CORPORATION",
@@ -52,8 +52,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCDM",
-    "bankCode": "DM",
+    "bankCode": "NCDM",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "NCDMDMDM",
     "Bank Name": "NATIONAL BANK OF DOMINICA LTD",
@@ -65,8 +65,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAXU",
-    "bankCode": "DM",
+    "bankCode": "PAXU",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "PAXUDMDM",
     "Bank Name": "PAXUM BANK LIMITED",
@@ -78,8 +78,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "DM",
+    "bankCode": "RBNK",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "RBNKDMDM",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -91,8 +91,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "DM",
+    "bankCode": "RBNK",
+    "countryCode": "DM",
     "branchCode": "DMA",
     "SWIFT Code": "RBNKDMDMDMA",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -104,8 +104,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KICP",
-    "bankCode": "DM",
+    "bankCode": "KICP",
+    "countryCode": "DM",
     "branchCode": "MD2",
     "SWIFT Code": "KICPDMD2",
     "Bank Name": "THE KINGDOM BANK CORPORATION",
@@ -117,8 +117,8 @@ const dominica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZUMA",
-    "bankCode": "DM",
+    "bankCode": "ZUMA",
+    "countryCode": "DM",
     "branchCode": "MDM",
     "SWIFT Code": "ZUMADMDM",
     "Bank Name": "ZUMA BANK CORPORATION",

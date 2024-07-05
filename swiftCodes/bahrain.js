@@ -1,7 +1,7 @@
 const bahrain = [
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "MNM",
     "SWIFT Code": "BBKUBHBMMNM",
     "Bank Name": "BBK",
@@ -13,8 +13,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "MHF",
     "SWIFT Code": "BBKUBHBMMHF",
     "Bank Name": "BBK",
@@ -26,8 +26,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "MSF",
     "SWIFT Code": "BBKUBHBMMSF",
     "Bank Name": "BBK",
@@ -39,8 +39,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "REC",
     "SWIFT Code": "BBKUBHBMREC",
     "Bank Name": "BBK",
@@ -52,8 +52,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "REF",
     "SWIFT Code": "BBKUBHBMREF",
     "Bank Name": "BBK",
@@ -66,8 +66,8 @@ const bahrain = [
   },
   {},
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "SAL",
     "SWIFT Code": "BBKUBHBMSAL",
     "Bank Name": "BBK",
@@ -79,8 +79,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "SUW",
     "SWIFT Code": "BBKUBHBMSUW",
     "Bank Name": "BBK",
@@ -92,8 +92,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "TSU",
     "SWIFT Code": "BBKUBHBMTSU",
     "Bank Name": "BBK",
@@ -105,8 +105,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "WRF",
     "SWIFT Code": "BBKUBHBMWRF",
     "Bank Name": "BBK",
@@ -118,8 +118,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BH",
+    "bankCode": "BNPA",
+    "countryCode": "BH",
     "branchCode": "HBC",
     "SWIFT Code": "BNPABHBC",
     "Bank Name": "BNP PARIBAS BAHRAIN CONVENTIONAL RETAIL BANK",
@@ -131,8 +131,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BH",
+    "bankCode": "BNPA",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BNPABHBM",
     "Bank Name": "BNP PARIBAS BAHRAIN CONVENTIONAL WHOLESALE BANK",
@@ -144,8 +144,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BH",
+    "bankCode": "BNPA",
+    "countryCode": "BH",
     "branchCode": "WMI",
     "SWIFT Code": "BNPABHBMWMI",
     "Bank Name": "BNP PARIBAS BAHRAIN CONVENTIONAL WHOLESALE BANK",
@@ -157,8 +157,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOKN",
-    "bankCode": "BH",
+    "bankCode": "BOKN",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BOKNBHBM",
     "Bank Name": "BOK INTERNATIONAL",
@@ -170,8 +170,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAAB",
-    "bankCode": "BH",
+    "bankCode": "CAAB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "CAABBHBM",
     "Bank Name": "CAIRO AMMAN BANK",
@@ -183,8 +183,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAG",
-    "bankCode": "BH",
+    "bankCode": "BMAG",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BMAGBHBM",
     "Bank Name": "CENTRAL BANK OF BAHRAIN",
@@ -197,8 +197,8 @@ const bahrain = [
   },
   {},
   {
-    "countryCode": "CITI",
-    "bankCode": "BH",
+    "bankCode": "CITI",
+    "countryCode": "BH",
     "branchCode": "BBU",
     "SWIFT Code": "CITIBHBXBBU",
     "Bank Name": "CITIBANK N.A.",
@@ -210,8 +210,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BH",
+    "bankCode": "CITI",
+    "countryCode": "BH",
     "branchCode": "TRD",
     "SWIFT Code": "CITIBHBXTRD",
     "Bank Name": "CITIBANK N.A.",
@@ -223,8 +223,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENI",
-    "bankCode": "BH",
+    "bankCode": "DENI",
+    "countryCode": "BH",
     "branchCode": "HBX",
     "SWIFT Code": "DENIBHBX",
     "Bank Name": "DENIZBANK AS BAHRAIN BRANCH (OBU)",
@@ -236,8 +236,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESKB",
-    "bankCode": "BH",
+    "bankCode": "ESKB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ESKBBHBM",
     "Bank Name": "ESKAN BANK",
@@ -249,8 +249,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "BH",
+    "bankCode": "FNNB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "FNNBBHBM",
     "Bank Name": "FINANSBANK A.S. BAHRAIN BRANCH",
@@ -262,8 +262,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "BH",
+    "bankCode": "NBAD",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "NBADBHBM",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) BAHRAIN",
@@ -275,8 +275,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "BH",
+    "bankCode": "NBAD",
+    "countryCode": "BH",
     "branchCode": "BRA",
     "SWIFT Code": "NBADBHBMBRA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) BAHRAIN",
@@ -288,8 +288,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "BH",
+    "bankCode": "NBAD",
+    "countryCode": "BH",
     "branchCode": "TFO",
     "SWIFT Code": "NBADBHBMTFO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) BAHRAIN",
@@ -301,8 +301,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFHI",
-    "bankCode": "BH",
+    "bankCode": "GFHI",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "GFHIBHBM",
     "Bank Name": "GFH FINANCIAL GROUP B.S.C.",
@@ -314,8 +314,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "BH",
+    "bankCode": "GULF",
+    "countryCode": "BH",
     "branchCode": "CLS",
     "SWIFT Code": "GULFBHBMCLS",
     "Bank Name": "GULF INTERNATIONAL BANK, B.S.C.",
@@ -327,8 +327,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "BH",
+    "bankCode": "GULF",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "GULFBHBM",
     "Bank Name": "GULF INTERNATIONAL BANK, B.S.C.",
@@ -340,8 +340,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "BH",
+    "bankCode": "GULF",
+    "countryCode": "BH",
     "branchCode": "RET",
     "SWIFT Code": "GULFBHBMRET",
     "Bank Name": "GULF INTERNATIONAL BANK, B.S.C.",
@@ -353,8 +353,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "BH",
+    "bankCode": "HABB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "HABBBHBM",
     "Bank Name": "HABIB BANK LTD.",
@@ -366,8 +366,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "BH",
+    "bankCode": "HABB",
+    "countryCode": "BH",
     "branchCode": "OBU",
     "SWIFT Code": "HABBBHBMOBU",
     "Bank Name": "HABIB BANK LTD.",
@@ -379,8 +379,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDFC",
-    "bankCode": "BH",
+    "bankCode": "HDFC",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "HDFCBHBM",
     "Bank Name": "HDFC BANK LIMITED",
@@ -392,8 +392,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDFC",
-    "bankCode": "BH",
+    "bankCode": "HDFC",
+    "countryCode": "BH",
     "branchCode": "WMS",
     "SWIFT Code": "HDFCBHBMWMS",
     "Bank Name": "HDFC BANK LIMITED",
@@ -405,8 +405,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBHO",
-    "bankCode": "BH",
+    "bankCode": "HBHO",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "HBHOBHBM",
     "Bank Name": "HOUSING BANK FOR TRADE AND FINANCE / BAHRAIN, MANAMA, THE",
@@ -418,8 +418,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "BH",
+    "bankCode": "BBME",
+    "countryCode": "BH",
     "branchCode": "HBX",
     "SWIFT Code": "BBMEBHBX",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -432,8 +432,8 @@ const bahrain = [
   },
   {},
   {
-    "countryCode": "ICIC",
-    "bankCode": "BH",
+    "bankCode": "ICIC",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ICICBHBM",
     "Bank Name": "ICICI BANK LTD",
@@ -445,8 +445,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "BH",
+    "bankCode": "ICIC",
+    "countryCode": "BH",
     "branchCode": "IPB",
     "SWIFT Code": "ICICBHBMIPB",
     "Bank Name": "ICICI BANK LTD",
@@ -458,8 +458,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "BH",
+    "bankCode": "ICIC",
+    "countryCode": "BH",
     "branchCode": "COP",
     "SWIFT Code": "ICICBHBMCOP",
     "Bank Name": "ICICI BANK LTD",
@@ -471,8 +471,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "BH",
+    "bankCode": "ICIC",
+    "countryCode": "BH",
     "branchCode": "GTS",
     "SWIFT Code": "ICICBHBMGTS",
     "Bank Name": "ICICI BANK LTD",
@@ -484,8 +484,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "BH",
+    "bankCode": "ICIC",
+    "countryCode": "BH",
     "branchCode": "IOG",
     "SWIFT Code": "ICICBHBMIOG",
     "Bank Name": "ICICI BANK LTD",
@@ -497,8 +497,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "BH",
+    "bankCode": "ICIC",
+    "countryCode": "BH",
     "branchCode": "TMG",
     "SWIFT Code": "ICICBHBMTMG",
     "Bank Name": "ICICI BANK LTD",
@@ -510,8 +510,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPSC",
-    "bankCode": "BH",
+    "bankCode": "IPSC",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "IPSCBHBM",
     "Bank Name": "INTERNATIONAL PAYMENT SERVICES",
@@ -523,8 +523,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVC",
-    "bankCode": "BH",
+    "bankCode": "INVC",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "INVCBHBM",
     "Bank Name": "INVESTCORP HOLDINGS B.S.C (CLOSED)",
@@ -536,8 +536,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBH",
-    "bankCode": "BH",
+    "bankCode": "FIBH",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "FIBHBHBM",
     "Bank Name": "ITHMAAR BANK B.S.C. (C)",
@@ -549,8 +549,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSBL",
-    "bankCode": "BH",
+    "bankCode": "JSBL",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "JSBLBHBM",
     "Bank Name": "JS BANK LIMITED",
@@ -562,8 +562,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "BH",
+    "bankCode": "KOEX",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "KOEXBHBM",
     "Bank Name": "KEB HANA BANK BAHRAIN BRANCH",
@@ -575,8 +575,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHCB",
-    "bankCode": "BH",
+    "bankCode": "KHCB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "KHCBBHBM",
     "Bank Name": "KHALEEJI BANK B.S.C.",
@@ -588,8 +588,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFHO",
-    "bankCode": "BH",
+    "bankCode": "KFHO",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "KFHOBHBM",
     "Bank Name": "KUWAIT FINANCE HOUSE",
@@ -601,8 +601,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTEF",
-    "bankCode": "BH",
+    "bankCode": "KTEF",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "KTEFBHBM",
     "Bank Name": "KUWAIT TURKISH PARTICIPATION BANK INC. BAHRAIN BRANCH",
@@ -614,8 +614,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCI",
-    "bankCode": "BH",
+    "bankCode": "ABCI",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ABCIBHBM",
     "Bank Name": "ABC ISLAMIC BANK (E.C)",
@@ -627,8 +627,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBB",
-    "bankCode": "BH",
+    "bankCode": "AUBB",
+    "countryCode": "BH",
     "branchCode": "HBB",
     "SWIFT Code": "AUBBBHBB",
     "Bank Name": "AHLI UNITED BANK (BAHRAIN) B.S.C. (CLOSED)",
@@ -640,8 +640,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBB",
-    "bankCode": "BH",
+    "bankCode": "AUBB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "AUBBBHBM",
     "Bank Name": "AHLI UNITED BANK B.S.C.",
@@ -653,8 +653,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBB",
-    "bankCode": "BH",
+    "bankCode": "AUBB",
+    "countryCode": "BH",
     "branchCode": "ISB",
     "SWIFT Code": "AUBBBHBMISB",
     "Bank Name": "AHLI UNITED BANK B.S.C.",
@@ -666,8 +666,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIB",
-    "bankCode": "BH",
+    "bankCode": "ABIB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ABIBBHBM",
     "Bank Name": "AL BARAKA ISLAMIC BANK B.S.C CLOSED",
@@ -679,8 +679,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIB",
-    "bankCode": "BH",
+    "bankCode": "ABIB",
+    "countryCode": "BH",
     "branchCode": "TBO",
     "SWIFT Code": "ABIBBHBMTBO",
     "Bank Name": "AL BARAKA ISLAMIC BANK B.S.C CLOSED",
@@ -692,8 +692,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIB",
-    "bankCode": "BH",
+    "bankCode": "ABIB",
+    "countryCode": "BH",
     "branchCode": "PMT",
     "SWIFT Code": "ABIBBHBMPMT",
     "Bank Name": "AL BARAKA ISLAMIC BANK B.S.C CLOSED",
@@ -705,8 +705,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIB",
-    "bankCode": "BH",
+    "bankCode": "ABIB",
+    "countryCode": "BH",
     "branchCode": "FCR",
     "SWIFT Code": "ABIBBHBMFCR",
     "Bank Name": "AL BARAKA ISLAMIC BANK B.S.C CLOSED",
@@ -718,8 +718,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIB",
-    "bankCode": "BH",
+    "bankCode": "ABIB",
+    "countryCode": "BH",
     "branchCode": "TRF",
     "SWIFT Code": "ABIBBHBMTRF",
     "Bank Name": "AL BARAKA ISLAMIC BANK B.S.C CLOSED",
@@ -731,8 +731,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALSA",
-    "bankCode": "BH",
+    "bankCode": "ALSA",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ALSABHBM",
     "Bank Name": "AL SALAM BANK BAHRAIN",
@@ -744,8 +744,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBG",
-    "bankCode": "BH",
+    "bankCode": "ABBG",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ABBGBHBM",
     "Bank Name": "ALBARAKA GROUP",
@@ -757,8 +757,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABLW",
-    "bankCode": "BH",
+    "bankCode": "ABLW",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ABLWBHBM",
     "Bank Name": "ALLIED BANK LIMITED, WHOLESALE BANKING BRANCH",
@@ -770,8 +770,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALUB",
-    "bankCode": "BH",
+    "bankCode": "ALUB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ALUBBHBM",
     "Bank Name": "ALUBAF ARAB INTERNATIONAL BANK B.S.C. (C)",
@@ -783,8 +783,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "BH",
+    "bankCode": "ARAB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ARABBHBM",
     "Bank Name": "ARAB BANK PLC",
@@ -796,8 +796,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "BH",
+    "bankCode": "ARAB",
+    "countryCode": "BH",
     "branchCode": "CTU",
     "SWIFT Code": "ARABBHBMCTU",
     "Bank Name": "ARAB BANK PLC",
@@ -809,8 +809,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "BH",
+    "bankCode": "ARAB",
+    "countryCode": "BH",
     "branchCode": "MAN",
     "SWIFT Code": "ARABBHBMMAN",
     "Bank Name": "ARAB BANK PLC",
@@ -822,8 +822,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "BH",
+    "bankCode": "ARAB",
+    "countryCode": "BH",
     "branchCode": "INV",
     "SWIFT Code": "ARABBHBMINV",
     "Bank Name": "ARAB BANK PLC",
@@ -835,8 +835,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "BH",
+    "bankCode": "ARAB",
+    "countryCode": "BH",
     "branchCode": "TSU",
     "SWIFT Code": "ARABBHBMTSU",
     "Bank Name": "ARAB BANK PLC",
@@ -848,8 +848,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "BH",
+    "bankCode": "ARAB",
+    "countryCode": "BH",
     "branchCode": "TRO",
     "SWIFT Code": "ARABBHBMTRO",
     "Bank Name": "ARAB BANK PLC",
@@ -861,8 +861,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCO",
-    "bankCode": "BH",
+    "bankCode": "ABCO",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ABCOBHBM",
     "Bank Name": "ARAB BANKING CORPORATION (B.S.C.)",
@@ -874,8 +874,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAIQ",
-    "bankCode": "BH",
+    "bankCode": "TAIQ",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "TAIQBHBM",
     "Bank Name": "ARAB INVESTMENT COMPANY, THE",
@@ -887,8 +887,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIC",
-    "bankCode": "BH",
+    "bankCode": "APIC",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "APICBHBM",
     "Bank Name": "ARAB PETROLEUM INVESTMENTS CORPORATION",
@@ -900,8 +900,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIC",
-    "bankCode": "BH",
+    "bankCode": "APIC",
+    "countryCode": "BH",
     "branchCode": "BH2",
     "SWIFT Code": "APICBHBMBH2",
     "Bank Name": "ARAB PETROLEUM INVESTMENTS CORPORATION",
@@ -913,8 +913,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIIV",
-    "bankCode": "BH",
+    "bankCode": "FIIV",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "FIIVBHBM",
     "Bank Name": "ARCAPITA",
@@ -926,8 +926,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "BH",
+    "bankCode": "ASCM",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ASCMBHBM",
     "Bank Name": "ASKARI BANK LIMITED, BAHRAIN BRANCH",
@@ -939,8 +939,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHBN",
-    "bankCode": "BH",
+    "bankCode": "BHBN",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BHBNBHBM",
     "Bank Name": "BAHRAIN BOURSE",
@@ -952,8 +952,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDBB",
-    "bankCode": "BH",
+    "bankCode": "BDBB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BDBBBHBM",
     "Bank Name": "BAHRAIN DEVELOPMENT BANK B S C (C)",
@@ -965,8 +965,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFCC",
-    "bankCode": "BH",
+    "bankCode": "BFCC",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BFCCBHBM",
     "Bank Name": "BAHRAIN FINANCING COMPANY",
@@ -978,8 +978,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBB",
-    "bankCode": "BH",
+    "bankCode": "BIBB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BIBBBHBM",
     "Bank Name": "BAHRAIN ISLAMIC BANK B.S.C.",
@@ -991,8 +991,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBB",
-    "bankCode": "BH",
+    "bankCode": "BIBB",
+    "countryCode": "BH",
     "branchCode": "INV",
     "SWIFT Code": "BIBBBHBMINV",
     "Bank Name": "BAHRAIN ISLAMIC BANK B.S.C.",
@@ -1004,8 +1004,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBB",
-    "bankCode": "BH",
+    "bankCode": "BIBB",
+    "countryCode": "BH",
     "branchCode": "TFD",
     "SWIFT Code": "BIBBBHBMTFD",
     "Bank Name": "BAHRAIN ISLAMIC BANK B.S.C.",
@@ -1017,8 +1017,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMEA",
-    "bankCode": "BH",
+    "bankCode": "BMEA",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BMEABHBM",
     "Bank Name": "BAHRAIN MIDDLE EAST BANK B.S.C",
@@ -1030,8 +1030,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAG",
-    "bankCode": "BH",
+    "bankCode": "BMAG",
+    "countryCode": "BH",
     "branchCode": "HBA",
     "SWIFT Code": "BMAGBHBA",
     "Bank Name": "BAHRAIN MONETARY AGENCY",
@@ -1043,8 +1043,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "BH",
+    "bankCode": "BAHL",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BAHLBHBM",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -1056,8 +1056,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "BH",
+    "bankCode": "ALFH",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ALFHBHBM",
     "Bank Name": "BANK ALFALAH LIMITED BAHRAIN",
@@ -1069,8 +1069,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJOR",
-    "bankCode": "BH",
+    "bankCode": "BJOR",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BJORBHBM",
     "Bank Name": "BANK OF JORDAN COMPANY - PUBLIC SHAREHOLDING COMPANY- FOREIGN BRANCH COMPANY",
@@ -1082,8 +1082,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BBKUBHBM",
     "Bank Name": "BBK",
@@ -1095,8 +1095,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "ADL",
     "SWIFT Code": "BBKUBHBMADL",
     "Bank Name": "BBK",
@@ -1108,8 +1108,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "BUD",
     "SWIFT Code": "BBKUBHBMBUD",
     "Bank Name": "BBK",
@@ -1121,8 +1121,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "CMK",
     "SWIFT Code": "BBKUBHBMCMK",
     "Bank Name": "BBK",
@@ -1134,8 +1134,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "CLG",
     "SWIFT Code": "BBKUBHBMCLG",
     "Bank Name": "BBK",
@@ -1147,8 +1147,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "MAX",
     "SWIFT Code": "BBKUBHBMMAX",
     "Bank Name": "BBK",
@@ -1160,8 +1160,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "LOP",
     "SWIFT Code": "BBKUBHBMLOP",
     "Bank Name": "BBK",
@@ -1173,8 +1173,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "DIP",
     "SWIFT Code": "BBKUBHBMDIP",
     "Bank Name": "BBK",
@@ -1186,8 +1186,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "ERF",
     "SWIFT Code": "BBKUBHBMERF",
     "Bank Name": "BBK",
@@ -1199,8 +1199,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "EXH",
     "SWIFT Code": "BBKUBHBMEXH",
     "Bank Name": "BBK",
@@ -1212,8 +1212,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "HTN",
     "SWIFT Code": "BBKUBHBMHTN",
     "Bank Name": "BBK",
@@ -1225,8 +1225,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "ITN",
     "SWIFT Code": "BBKUBHBMITN",
     "Bank Name": "BBK",
@@ -1238,8 +1238,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "CSU",
     "SWIFT Code": "BBKUBHBMCSU",
     "Bank Name": "BBK",
@@ -1251,8 +1251,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "BH",
+    "bankCode": "BBKU",
+    "countryCode": "BH",
     "branchCode": "MBR",
     "SWIFT Code": "BBKUBHBMMBR",
     "Bank Name": "BBK",
@@ -1264,8 +1264,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "BH",
+    "bankCode": "BOML",
+    "countryCode": "BH",
     "branchCode": "WBH",
     "SWIFT Code": "BOMLBHBMWBH",
     "Bank Name": "MASHREQBANK PSC.",
@@ -1277,8 +1277,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "BH",
+    "bankCode": "BOML",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "BOMLBHBM",
     "Bank Name": "MASHREQBANK PSC.",
@@ -1290,8 +1290,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "BH",
+    "bankCode": "MUCB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "MUCBBHBM",
     "Bank Name": "MCB BANK LIMITED",
@@ -1303,8 +1303,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "BH",
+    "bankCode": "NBOB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "NBOBBHBM",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -1316,8 +1316,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "BH",
+    "bankCode": "NBOB",
+    "countryCode": "BH",
     "branchCode": "MTD",
     "SWIFT Code": "NBOBBHBMMTD",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -1329,8 +1329,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "BH",
+    "bankCode": "NBOB",
+    "countryCode": "BH",
     "branchCode": "TOP",
     "SWIFT Code": "NBOBBHBMTOP",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -1342,8 +1342,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "BH",
+    "bankCode": "NBOK",
+    "countryCode": "BH",
     "branchCode": "FCB",
     "SWIFT Code": "NBOKBHBMFCB",
     "Bank Name": "NATIONAL BANK OF KUWAIT S.A.K.P- BAHRAIN BRANCH",
@@ -1355,8 +1355,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "BH",
+    "bankCode": "NBOK",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "NBOKBHBM",
     "Bank Name": "NATIONAL BANK OF KUWAIT S.A.K.P- BAHRAIN BRANCH",
@@ -1368,8 +1368,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "BH",
+    "bankCode": "NBPA",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "NBPABHBM",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1381,8 +1381,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NECD",
-    "bankCode": "BH",
+    "bankCode": "NECD",
+    "countryCode": "BH",
     "branchCode": "HBQ",
     "SWIFT Code": "NECDBHBQ",
     "Bank Name": "NEC B.S.C CLOSED",
@@ -1394,8 +1394,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSOL",
-    "bankCode": "BH",
+    "bankCode": "OSOL",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "OSOLBHBM",
     "Bank Name": "OSOOL ASSET MANAGEMENT B.S.C. (C)",
@@ -1407,8 +1407,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PINV",
-    "bankCode": "BH",
+    "bankCode": "PINV",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "PINVBHBM",
     "Bank Name": "PALESTINE INVESTMENT BANK",
@@ -1420,8 +1420,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAFB",
-    "bankCode": "BH",
+    "bankCode": "RAFB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "RAFBBHBM",
     "Bank Name": "RAFIDAIN BANK",
@@ -1433,8 +1433,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICS",
-    "bankCode": "BH",
+    "bankCode": "SICS",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "SICSBHBM",
     "Bank Name": "SICO B.S.C. (C)",
@@ -1446,8 +1446,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "BH",
+    "bankCode": "SCBL",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "SCBLBHBM",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -1459,8 +1459,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "BH",
+    "bankCode": "SCBL",
+    "countryCode": "BH",
     "branchCode": "OBU",
     "SWIFT Code": "SCBLBHBMOBU",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -1472,8 +1472,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BH",
+    "bankCode": "SBIN",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "SBINBHBM",
     "Bank Name": "STATE BANK OF INDIA, OBU",
@@ -1485,8 +1485,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BH",
+    "bankCode": "SBIN",
+    "countryCode": "BH",
     "branchCode": "FCB",
     "SWIFT Code": "SBINBHBMFCB",
     "Bank Name": "STATE BANK OF INDIA, OBU",
@@ -1498,8 +1498,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAIB",
-    "bankCode": "BH",
+    "bankCode": "TAIB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "TAIBBHBM",
     "Bank Name": "TAIB BANK B.S.C.(C)",
@@ -1511,8 +1511,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNCB",
-    "bankCode": "BH",
+    "bankCode": "SNCB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "SNCBBHBM",
     "Bank Name": "THE SAUDI NATIONAL BANK, BAHRAIN BRANCH",
@@ -1524,8 +1524,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNCB",
-    "bankCode": "BH",
+    "bankCode": "SNCB",
+    "countryCode": "BH",
     "branchCode": "COM",
     "SWIFT Code": "SNCBBHBMCOM",
     "Bank Name": "THE SAUDI NATIONAL BANK, BAHRAIN BRANCH",
@@ -1537,8 +1537,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNCB",
-    "bankCode": "BH",
+    "bankCode": "SNCB",
+    "countryCode": "BH",
     "branchCode": "861",
     "SWIFT Code": "SNCBBHBM861",
     "Bank Name": "THE SAUDI NATIONAL BANK, BAHRAIN BRANCH",
@@ -1550,8 +1550,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "BH",
+    "bankCode": "TRHB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "TRHBBHBM",
     "Bank Name": "TURKIYE HALK BANKASI A.S. BAHRAIN BRANCH",
@@ -1563,8 +1563,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "BH",
+    "bankCode": "ISBK",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ISBKBHBM",
     "Bank Name": "TURKIYE IS BANKASI A.S. BAHRAIN BRANCH",
@@ -1576,8 +1576,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "BH",
+    "bankCode": "TVBA",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "TVBABHBM",
     "Bank Name": "TURKIYE VAKIFLAR BANKASI T.A.O. BAHRAIN BRANCH (OBU)",
@@ -1589,8 +1589,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "BH",
+    "bankCode": "UNIL",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "UNILBHBM",
     "Bank Name": "UNITED BANK LIMITED",
@@ -1602,8 +1602,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "BH",
+    "bankCode": "UNIL",
+    "countryCode": "BH",
     "branchCode": "TRY",
     "SWIFT Code": "UNILBHBMTRY",
     "Bank Name": "UNITED BANK LIMITED",
@@ -1615,8 +1615,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGUB",
-    "bankCode": "BH",
+    "bankCode": "UGUB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "UGUBBHBM",
     "Bank Name": "UNITED GULF BANK B.S.C",
@@ -1628,8 +1628,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTOL",
-    "bankCode": "BH",
+    "bankCode": "VTOL",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "VTOLBHBM",
     "Bank Name": "VITOL BAHRAIN E.C.",
@@ -1641,8 +1641,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "BH",
+    "bankCode": "HVBK",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "HVBKBHBM",
     "Bank Name": "WOORI BANK, MANAMA",
@@ -1654,8 +1654,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "BH",
+    "bankCode": "YAPI",
+    "countryCode": "BH",
     "branchCode": "HBX",
     "SWIFT Code": "YAPIBHBX",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -1667,8 +1667,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAIN",
-    "bankCode": "BH",
+    "bankCode": "ZAIN",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ZAINBHBM",
     "Bank Name": "ZAIN BAHRAIN B.S.C CLOSED",
@@ -1680,8 +1680,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZENJ",
-    "bankCode": "BH",
+    "bankCode": "ZENJ",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "ZENJBHBM",
     "Bank Name": "ZENJ EXCHANGE CO. W.L.L",
@@ -1693,8 +1693,8 @@ const bahrain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "BH",
+    "bankCode": "TCZB",
+    "countryCode": "BH",
     "branchCode": "HBM",
     "SWIFT Code": "TCZBBHBM",
     "Bank Name": "ZIRAAT BANK A.S  BAHRAIN BRANCH",

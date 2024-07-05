@@ -1,7 +1,7 @@
 const guam = [
   {
-    "countryCode": "GMBK",
-    "bankCode": "GU",
+    "bankCode": "GMBK",
+    "countryCode": "GU",
     "branchCode": "UGU",
     "SWIFT Code": "GMBKGUGU",
     "Bank Name": "BANK OF GUAM",

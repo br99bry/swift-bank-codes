@@ -1,7 +1,7 @@
 const suriname = [
   {
-    "countryCode": "CBVS",
-    "bankCode": "SR",
+    "bankCode": "CBVS",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "CBVSSRPA",
     "Bank Name": "CENTRALE BANK VAN SURINAME",
@@ -13,8 +13,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBVS",
-    "bankCode": "SR",
+    "bankCode": "CBVS",
+    "countryCode": "SR",
     "branchCode": "SUR",
     "SWIFT Code": "CBVSSRPASUR",
     "Bank Name": "CENTRALE BANK VAN SURINAME",
@@ -26,8 +26,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GODO",
-    "bankCode": "SR",
+    "bankCode": "GODO",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "GODOSRPA",
     "Bank Name": "COOPERATIEVE SPAAR- EN KREDIETBANK GODO U.A.",
@@ -39,8 +39,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SURB",
-    "bankCode": "SR",
+    "bankCode": "SURB",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "SURBSRPA",
     "Bank Name": "DSB BANK ALSO KNOWN AS DE SURINAAMSCHE BANK N.V. PARAMARIBO SR",
@@ -52,8 +52,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBNA",
-    "bankCode": "SR",
+    "bankCode": "FBNA",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "FBNASRPA",
     "Bank Name": "FINABANK N.V.",
@@ -65,8 +65,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICTB",
-    "bankCode": "SR",
+    "bankCode": "ICTB",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "ICTBSRPA",
     "Bank Name": "FINATRUST, DE TRUSTBANK N.V.",
@@ -78,8 +78,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAKR",
-    "bankCode": "SR",
+    "bankCode": "HAKR",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "HAKRSRPA",
     "Bank Name": "HAKRINBANK N.V.",
@@ -91,8 +91,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "SR",
+    "bankCode": "RBNK",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "RBNKSRPA",
     "Bank Name": "REPUBLIC BANK (SURINAME) N.V.",
@@ -104,8 +104,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOUO",
-    "bankCode": "SR",
+    "bankCode": "SOUO",
+    "countryCode": "SR",
     "branchCode": "RPP",
     "SWIFT Code": "SOUOSRPP",
     "Bank Name": "SOUTHERN COMMERCIAL BANK NV",
@@ -117,8 +117,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SURC",
-    "bankCode": "SR",
+    "bankCode": "SURC",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "SURCSRPA",
     "Bank Name": "SURICHANGE BANK N.V.",
@@ -130,8 +130,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDPO",
-    "bankCode": "SR",
+    "bankCode": "SDPO",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "SDPOSRPA",
     "Bank Name": "SURINAAMSE POSTSPAARBANK",
@@ -143,8 +143,8 @@ const suriname = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCBS",
-    "bankCode": "SR",
+    "bankCode": "VCBS",
+    "countryCode": "SR",
     "branchCode": "RPA",
     "SWIFT Code": "VCBSSRPA",
     "Bank Name": "SURINAAMSE VOLKSCREDIETBANK",

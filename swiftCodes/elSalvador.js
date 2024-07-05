@@ -1,8 +1,8 @@
 const elSalvador = [
   {},
   {
-    "countryCode": "CAGR",
-    "bankCode": "SV",
+    "bankCode": "CAGR",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "CAGRSVSS",
     "Bank Name": "BANCO AGRICOLA, S.A.",
@@ -14,8 +14,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGR",
-    "bankCode": "SV",
+    "bankCode": "CAGR",
+    "countryCode": "SV",
     "branchCode": "BA4",
     "SWIFT Code": "CAGRSVSSBA4",
     "Bank Name": "BANCO AGRICOLA, S.A.",
@@ -27,8 +27,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGR",
-    "bankCode": "SV",
+    "bankCode": "CAGR",
+    "countryCode": "SV",
     "branchCode": "BA3",
     "SWIFT Code": "CAGRSVSSBA3",
     "Bank Name": "BANCO AGRICOLA, S.A.",
@@ -40,8 +40,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGR",
-    "bankCode": "SV",
+    "bankCode": "CAGR",
+    "countryCode": "SV",
     "branchCode": "BA2",
     "SWIFT Code": "CAGRSVSSBA2",
     "Bank Name": "BANCO AGRICOLA, S.A.",
@@ -53,8 +53,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "SV",
+    "bankCode": "PRCB",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "PRCBSVSS",
     "Bank Name": "BANCO ATLANTIDA EL SALVADOR, S.A.",
@@ -66,8 +66,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZUL",
-    "bankCode": "SV",
+    "bankCode": "AZUL",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "AZULSVSS",
     "Bank Name": "BANCO AZUL DE EL SALVADOR, SOCIEDAD ANONIMA",
@@ -79,8 +79,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENR",
-    "bankCode": "SV",
+    "bankCode": "CENR",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "CENRSVSS",
     "Bank Name": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
@@ -92,8 +92,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENR",
-    "bankCode": "SV",
+    "bankCode": "CENR",
+    "countryCode": "SV",
     "branchCode": "GTE",
     "SWIFT Code": "CENRSVSSGTE",
     "Bank Name": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
@@ -105,8 +105,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACU",
-    "bankCode": "SV",
+    "bankCode": "BACU",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "BACUSVSS",
     "Bank Name": "BANCO CUSCATLAN DE EL SALVADOR S.A.",
@@ -118,8 +118,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACU",
-    "bankCode": "SV",
+    "bankCode": "BACU",
+    "countryCode": "SV",
     "branchCode": "NOS",
     "SWIFT Code": "BACUSVSSNOS",
     "Bank Name": "BANCO CUSCATLAN DE EL SALVADOR S.A.",
@@ -131,8 +131,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAL",
-    "bankCode": "SV",
+    "bankCode": "BSAL",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "BSALSVSS",
     "Bank Name": "BANCO DAVIVIENDA SALVADORENO SA",
@@ -144,8 +144,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMC",
-    "bankCode": "SV",
+    "bankCode": "BAMC",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "BAMCSVSS",
     "Bank Name": "BANCO DE AMERICA CENTRAL, S.A.",
@@ -157,8 +157,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOAG",
-    "bankCode": "SV",
+    "bankCode": "FOAG",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "FOAGSVSS",
     "Bank Name": "BANCO DE FOMENTO AGROPECUARIO",
@@ -171,8 +171,8 @@ const elSalvador = [
   },
   {},
   {
-    "countryCode": "BHSA",
-    "bankCode": "SV",
+    "bankCode": "BHSA",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "BHSASVSS",
     "Bank Name": "BANCO HIPOTECARIO DE EL SALVADOR S.A.",
@@ -184,8 +184,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDL",
-    "bankCode": "SV",
+    "bankCode": "INDL",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "INDLSVSS",
     "Bank Name": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
@@ -197,8 +197,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IZTR",
-    "bankCode": "SV",
+    "bankCode": "IZTR",
+    "countryCode": "SV",
     "branchCode": "VS2",
     "SWIFT Code": "IZTRSVS2",
     "Bank Name": "BANCO IZALQUENO DE LOS TRABAJADORES S.C. DE R.L. DE C.V.",
@@ -210,8 +210,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRA",
-    "bankCode": "SV",
+    "bankCode": "BPRA",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "BPRASVSS",
     "Bank Name": "BANCO PROMERICA, S.A.",
@@ -223,8 +223,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNVC",
-    "bankCode": "SV",
+    "bankCode": "BNVC",
+    "countryCode": "SV",
     "branchCode": "VSS",
     "SWIFT Code": "BNVCSVSS",
     "Bank Name": "BANCOVI DE R.L.",
@@ -236,8 +236,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SADY",
-    "bankCode": "SV",
+    "bankCode": "SADY",
+    "countryCode": "SV",
     "branchCode": "VS2",
     "SWIFT Code": "SADYSVS2",
     "Bank Name": "SOCIEDAD DE AHORRO Y CREDITO APOYO INTEGRAL, S.A.",
@@ -249,8 +249,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHCR",
-    "bankCode": "SV",
+    "bankCode": "SHCR",
+    "countryCode": "SV",
     "branchCode": "VS2",
     "SWIFT Code": "SHCRSVS2",
     "Bank Name": "SOCIEDAD DE AHORRO Y CREDITO CREDICOMER, S.A.",
@@ -262,8 +262,8 @@ const elSalvador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MVAS",
-    "bankCode": "SV",
+    "bankCode": "MVAS",
+    "countryCode": "SV",
     "branchCode": "VS2",
     "SWIFT Code": "MVASSVS2",
     "Bank Name": "SOCIEDAD DE AHORRO Y CREDITO MULTIMONEY, SOCIEDAD ANONIMA",

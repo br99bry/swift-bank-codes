@@ -1,7 +1,7 @@
 const norway = [
   {
-    "countryCode": "ADNA",
-    "bankCode": "NO",
+    "bankCode": "ADNA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "ADNANOKK",
     "Bank Name": "ADEVINTA ASA",
@@ -13,8 +13,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBNO",
-    "bankCode": "NO",
+    "bankCode": "KBNO",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "KBNONO22",
     "Bank Name": "BNBANK ASA",
@@ -26,8 +26,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NO",
+    "bankCode": "BNPA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "BNPANOKK",
     "Bank Name": "BNP PARIBAS S.A. NORWAY BRANCH",
@@ -39,8 +39,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBO",
-    "bankCode": "NO",
+    "bankCode": "PRBO",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "PRBONO22",
     "Bank Name": "BOLIGBANKEN ASA",
@@ -52,8 +52,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAS",
-    "bankCode": "NO",
+    "bankCode": "MNAS",
+    "countryCode": "NO",
     "branchCode": "OB2",
     "SWIFT Code": "MNASNOB2",
     "Bank Name": "BRABANK ASA",
@@ -65,8 +65,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEND",
-    "bankCode": "NO",
+    "bankCode": "CEND",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "CENDNO22",
     "Bank Name": "CELSA NORDIC AS",
@@ -78,8 +78,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENV",
-    "bankCode": "NO",
+    "bankCode": "CENV",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "CENVNOKK",
     "Bank Name": "CENTEVO",
@@ -91,8 +91,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NO",
+    "bankCode": "CITI",
+    "countryCode": "NO",
     "branchCode": "OKX",
     "SWIFT Code": "CITINOKX",
     "Bank Name": "CITIBANK EUROPE PLC NORWAY BRANCH",
@@ -104,8 +104,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "KSU",
     "SWIFT Code": "DABANO22KSU",
     "Bank Name": "DANSKE BANK A/S",
@@ -117,8 +117,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "OSL",
     "SWIFT Code": "DABANO22OSL",
     "Bank Name": "DANSKE BANK A/S",
@@ -130,8 +130,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "SKE",
     "SWIFT Code": "DABANO22SKE",
     "Bank Name": "DANSKE BANK A/S",
@@ -144,8 +144,8 @@ const norway = [
   },
   {},
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "STE",
     "SWIFT Code": "DABANO22STE",
     "Bank Name": "DANSKE BANK A/S",
@@ -157,8 +157,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "STJ",
     "SWIFT Code": "DABANO22STJ",
     "Bank Name": "DANSKE BANK A/S",
@@ -170,8 +170,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "STO",
     "SWIFT Code": "DABANO22STO",
     "Bank Name": "DANSKE BANK A/S",
@@ -183,8 +183,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "TRM",
     "SWIFT Code": "DABANO22TRM",
     "Bank Name": "DANSKE BANK A/S",
@@ -196,8 +196,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "DABANO22",
     "Bank Name": "DANSKE BANK A/S",
@@ -209,8 +209,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "NO",
+    "bankCode": "DABA",
+    "countryCode": "NO",
     "branchCode": "CLS",
     "SWIFT Code": "DABANO22CLS",
     "Bank Name": "DANSKE BANK A/S",
@@ -222,8 +222,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNAM",
-    "bankCode": "NO",
+    "bankCode": "DNAM",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "DNAMNOKK",
     "Bank Name": "DNB ASSET MANAGEMENT AS",
@@ -235,8 +235,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "NO",
+    "bankCode": "DNBA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "DNBANOKK",
     "Bank Name": "DNB BANK ASA",
@@ -248,8 +248,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAK",
-    "bankCode": "NO",
+    "bankCode": "SBAK",
+    "countryCode": "NO",
     "branchCode": "OBB",
     "SWIFT Code": "SBAKNOBB",
     "Bank Name": "DNB BANK ASA",
@@ -261,8 +261,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "NO",
+    "bankCode": "DNBA",
+    "countryCode": "NO",
     "branchCode": "OKC",
     "SWIFT Code": "DNBANOKC",
     "Bank Name": "DNB MARKETS CUSTODY, A BUSINESS UNIT OF DNB BANK   ASA, OSLO",
@@ -274,8 +274,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "NO",
+    "bankCode": "DNBA",
+    "countryCode": "NO",
     "branchCode": "CLS",
     "SWIFT Code": "DNBANOKXCLS",
     "Bank Name": "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO",
@@ -287,8 +287,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "NO",
+    "bankCode": "DNBA",
+    "countryCode": "NO",
     "branchCode": "OKX",
     "SWIFT Code": "DNBANOKX",
     "Bank Name": "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO",
@@ -300,8 +300,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "NO",
+    "bankCode": "DNBA",
+    "countryCode": "NO",
     "branchCode": "SEC",
     "SWIFT Code": "DNBANOKXSEC",
     "Bank Name": "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO",
@@ -313,8 +313,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNBA",
-    "bankCode": "NO",
+    "bankCode": "DNBA",
+    "countryCode": "NO",
     "branchCode": "RPO",
     "SWIFT Code": "DNBANOKXRPO",
     "Bank Name": "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO",
@@ -326,8 +326,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNVG",
-    "bankCode": "NO",
+    "bankCode": "DNVG",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "DNVGNO22",
     "Bank Name": "DNV GROUP AS",
@@ -339,8 +339,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "NO",
+    "bankCode": "BNPA",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "BNPANOK2",
     "Bank Name": "EKSPRESS BANK",
@@ -352,8 +352,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SASA",
-    "bankCode": "NO",
+    "bankCode": "SASA",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SASANO22",
     "Bank Name": "EQUINOR ASA",
@@ -365,8 +365,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SASA",
-    "bankCode": "NO",
+    "bankCode": "SASA",
+    "countryCode": "NO",
     "branchCode": "MMP",
     "SWIFT Code": "SASANO22MMP",
     "Bank Name": "EQUINOR ASA",
@@ -378,8 +378,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SASA",
-    "bankCode": "NO",
+    "bankCode": "SASA",
+    "countryCode": "NO",
     "branchCode": "TPD",
     "SWIFT Code": "SASANO22TPD",
     "Bank Name": "EQUINOR ASA",
@@ -391,8 +391,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STKS",
-    "bankCode": "NO",
+    "bankCode": "STKS",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "STKSNO22",
     "Bank Name": "EQUINOR ASSET MANAGEMENT AS",
@@ -404,8 +404,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOLT",
-    "bankCode": "NO",
+    "bankCode": "FOLT",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "FOLTNOKK",
     "Bank Name": "FOLKETRYGDFONDET",
@@ -417,8 +417,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRSF",
-    "bankCode": "NO",
+    "bankCode": "FRSF",
+    "countryCode": "NO",
     "branchCode": "OB2",
     "SWIFT Code": "FRSFNOB2",
     "Bank Name": "FRENDE SKADEFORSIKRING AS",
@@ -430,8 +430,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRSF",
-    "bankCode": "NO",
+    "bankCode": "FRSF",
+    "countryCode": "NO",
     "branchCode": "OB3",
     "SWIFT Code": "FRSFNOB3",
     "Bank Name": "FRENDE SKADEFORSIKRING AS",
@@ -443,8 +443,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "NO",
+    "bankCode": "HAND",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "HANDNOKK",
     "Bank Name": "HANDELSBANKEN",
@@ -456,8 +456,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "NO",
+    "bankCode": "HAND",
+    "countryCode": "NO",
     "branchCode": "CUS",
     "SWIFT Code": "HANDNOKKCUS",
     "Bank Name": "HANDELSBANKEN",
@@ -469,8 +469,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INKT",
-    "bankCode": "NO",
+    "bankCode": "INKT",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "INKTNOK2",
     "Bank Name": "INDUSTRIFINANS KPITALFORVALTNING AS",
@@ -482,8 +482,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAS",
-    "bankCode": "NO",
+    "bankCode": "ISAS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "ISASNOK2",
     "Bank Name": "INSTABANK ASA",
@@ -496,8 +496,8 @@ const norway = [
   },
   {},
   {
-    "countryCode": "KOBA",
-    "bankCode": "NO",
+    "bankCode": "KOBA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "KOBANOKK",
     "Bank Name": "KOMMUNALBANKEN AS",
@@ -509,8 +509,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBGG",
-    "bankCode": "NO",
+    "bankCode": "KBGG",
+    "countryCode": "NO",
     "branchCode": "O2K",
     "SWIFT Code": "KBGGNO2K",
     "Bank Name": "KONGSBERG GRUPPEN ASA",
@@ -522,8 +522,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D08",
     "SWIFT Code": "LNLNNOB2D08",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -535,8 +535,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D15",
     "SWIFT Code": "LNLNNOB2D15",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -548,8 +548,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D09",
     "SWIFT Code": "LNLNNOB2D09",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -561,8 +561,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D10",
     "SWIFT Code": "LNLNNOB2D10",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -574,8 +574,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D11",
     "SWIFT Code": "LNLNNOB2D11",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -587,8 +587,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D14",
     "SWIFT Code": "LNLNNOB2D14",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -600,8 +600,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D18",
     "SWIFT Code": "LNLNNOB2D18",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -613,8 +613,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D12",
     "SWIFT Code": "LNLNNOB2D12",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -626,8 +626,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "HAU",
     "SWIFT Code": "SPRONO22HAU",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -639,8 +639,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "JPL",
     "SWIFT Code": "SPRONO22JPL",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -652,8 +652,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "KRS",
     "SWIFT Code": "SPRONO22KRS",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -665,8 +665,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "OLN",
     "SWIFT Code": "SPRONO22OLN",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -678,8 +678,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "SDS",
     "SWIFT Code": "SPRONO22SDS",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -691,8 +691,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "SOL",
     "SWIFT Code": "SPRONO22SOL",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -704,8 +704,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SPRONO22",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -717,8 +717,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAR",
-    "bankCode": "NO",
+    "bankCode": "SPAR",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SPARNO22",
     "Bank Name": "SPAREBANKEN MOERE",
@@ -730,8 +730,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAOE",
-    "bankCode": "NO",
+    "bankCode": "SAOE",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SAOENO22",
     "Bank Name": "SPAREBANKEN OEST",
@@ -743,8 +743,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOFJ",
-    "bankCode": "NO",
+    "bankCode": "SOFJ",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SOFJNO22",
     "Bank Name": "SPAREBANKEN SOGN OG FJORDANE",
@@ -756,8 +756,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPSO",
-    "bankCode": "NO",
+    "bankCode": "SPSO",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SPSONO22",
     "Bank Name": "SPAREBANKEN SOR",
@@ -769,8 +769,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAV",
-    "bankCode": "NO",
+    "bankCode": "SPAV",
+    "countryCode": "NO",
     "branchCode": "OBB",
     "SWIFT Code": "SPAVNOBB",
     "Bank Name": "SPAREBANKEN VEST",
@@ -782,8 +782,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STRB",
-    "bankCode": "NO",
+    "bankCode": "STRB",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "STRBNO22",
     "Bank Name": "STOREBRAND ASSET MANAGEMENT",
@@ -795,8 +795,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKGN",
-    "bankCode": "NO",
+    "bankCode": "SKGN",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SKGNNO22",
     "Bank Name": "STOREBRAND ASSET MANAGEMENT",
@@ -808,8 +808,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STFB",
-    "bankCode": "NO",
+    "bankCode": "STFB",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "STFBNOKK",
     "Bank Name": "STOREBRAND BANK ASA",
@@ -821,8 +821,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FISA",
-    "bankCode": "NO",
+    "bankCode": "FISA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "FISANOKK",
     "Bank Name": "SWEDBANK AB",
@@ -834,8 +834,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWED",
-    "bankCode": "NO",
+    "bankCode": "SWED",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "SWEDNOKK",
     "Bank Name": "SWEDBANK NORGE",
@@ -847,8 +847,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEOR",
-    "bankCode": "NO",
+    "bankCode": "TEOR",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "TEORNO22",
     "Bank Name": "TELENOR ASA",
@@ -860,8 +860,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEOR",
-    "bankCode": "NO",
+    "bankCode": "TEOR",
+    "countryCode": "NO",
     "branchCode": "O2F",
     "SWIFT Code": "TEORNO2F",
     "Bank Name": "TELENOR ASA",
@@ -873,8 +873,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFBA",
-    "bankCode": "NO",
+    "bankCode": "TFBA",
+    "countryCode": "NO",
     "branchCode": "OB2",
     "SWIFT Code": "TFBANOB2",
     "Bank Name": "TF BANK AB",
@@ -886,8 +886,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NKAS",
-    "bankCode": "NO",
+    "bankCode": "NKAS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NKASNOK2",
     "Bank Name": "VERDIPAPIRFONDET NORDEA FRN KREDITT",
@@ -899,8 +899,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPSN",
-    "bankCode": "NO",
+    "bankCode": "VPSN",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "VPSNNOKK",
     "Bank Name": "VERDIPAPIRSENTRALEN, VPS",
@@ -912,8 +912,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPSN",
-    "bankCode": "NO",
+    "bankCode": "VPSN",
+    "countryCode": "NO",
     "branchCode": "REC",
     "SWIFT Code": "VPSNNOKKREC",
     "Bank Name": "VERDIPAPIRSENTRALEN, VPS",
@@ -925,8 +925,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPSN",
-    "bankCode": "NO",
+    "bankCode": "VPSN",
+    "countryCode": "NO",
     "branchCode": "CCP",
     "SWIFT Code": "VPSNNOKKCCP",
     "Bank Name": "VERDIPAPIRSENTRALEN, VPS",
@@ -938,8 +938,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPSN",
-    "bankCode": "NO",
+    "bankCode": "VPSN",
+    "countryCode": "NO",
     "branchCode": "CLE",
     "SWIFT Code": "VPSNNOKKCLE",
     "Bank Name": "VERDIPAPIRSENTRALEN, VPS",
@@ -951,8 +951,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPSN",
-    "bankCode": "NO",
+    "bankCode": "VPSN",
+    "countryCode": "NO",
     "branchCode": "CLR",
     "SWIFT Code": "VPSNNOKKCLR",
     "Bank Name": "VERDIPAPIRSENTRALEN, VPS",
@@ -964,8 +964,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "NO",
+    "bankCode": "VPAY",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "VPAYNOK2",
     "Bank Name": "VIVA PAYMENT SERVICES SINGLE MEMBER S.A. - NORWAY BRANCH",
@@ -977,8 +977,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAWI",
-    "bankCode": "NO",
+    "bankCode": "WAWI",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "WAWINO22",
     "Bank Name": "WALLENIUS WILHELMSEN ASA",
@@ -990,8 +990,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YARA",
-    "bankCode": "NO",
+    "bankCode": "YARA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "YARANOKK",
     "Bank Name": "YARA INTERNATIONAL ASA",
@@ -1003,8 +1003,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEFN",
-    "bankCode": "NO",
+    "bankCode": "NEFN",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "NEFNNOKK",
     "Bank Name": "NORDNET BANK NUF",
@@ -1016,8 +1016,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFFA",
-    "bankCode": "NO",
+    "bankCode": "NFFA",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "NFFANO22",
     "Bank Name": "NORDNORGE FINANS FORUM ASA",
@@ -1029,8 +1029,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "NBHKNOKK",
     "Bank Name": "NORGES BANK",
@@ -1042,8 +1042,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "OKA",
     "SWIFT Code": "NBHKNOKA",
     "Bank Name": "NORGES BANK",
@@ -1055,8 +1055,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "BRA",
     "SWIFT Code": "NBHKNOKKBRA",
     "Bank Name": "NORGES BANK",
@@ -1068,8 +1068,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "SKK",
     "SWIFT Code": "NBHKNOKKSKK",
     "Bank Name": "NORGES BANK",
@@ -1081,8 +1081,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "MOA",
     "SWIFT Code": "NBHKNOKKMOA",
     "Bank Name": "NORGES BANK",
@@ -1094,8 +1094,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "TVA",
     "SWIFT Code": "NBHKNOKKTVA",
     "Bank Name": "NORGES BANK",
@@ -1107,8 +1107,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "ASA",
     "SWIFT Code": "NBHKNOKKASA",
     "Bank Name": "NORGES BANK",
@@ -1120,8 +1120,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "SIL",
     "SWIFT Code": "NBHKNOKKSIL",
     "Bank Name": "NORGES BANK",
@@ -1133,8 +1133,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "KOL",
     "SWIFT Code": "NBHKNOKKKOL",
     "Bank Name": "NORGES BANK",
@@ -1146,8 +1146,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "005",
     "SWIFT Code": "NBHKNOKK005",
     "Bank Name": "NORGES BANK",
@@ -1159,8 +1159,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "006",
     "SWIFT Code": "NBHKNOKK006",
     "Bank Name": "NORGES BANK",
@@ -1172,8 +1172,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "007",
     "SWIFT Code": "NBHKNOKK007",
     "Bank Name": "NORGES BANK",
@@ -1185,8 +1185,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "008",
     "SWIFT Code": "NBHKNOKK008",
     "Bank Name": "NORGES BANK",
@@ -1198,8 +1198,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "009",
     "SWIFT Code": "NBHKNOKK009",
     "Bank Name": "NORGES BANK",
@@ -1211,8 +1211,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "010",
     "SWIFT Code": "NBHKNOKK010",
     "Bank Name": "NORGES BANK",
@@ -1224,8 +1224,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "011",
     "SWIFT Code": "NBHKNOKK011",
     "Bank Name": "NORGES BANK",
@@ -1237,8 +1237,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "012",
     "SWIFT Code": "NBHKNOKK012",
     "Bank Name": "NORGES BANK",
@@ -1250,8 +1250,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "013",
     "SWIFT Code": "NBHKNOKK013",
     "Bank Name": "NORGES BANK",
@@ -1263,8 +1263,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "014",
     "SWIFT Code": "NBHKNOKK014",
     "Bank Name": "NORGES BANK",
@@ -1276,8 +1276,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "015",
     "SWIFT Code": "NBHKNOKK015",
     "Bank Name": "NORGES BANK",
@@ -1289,8 +1289,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "016",
     "SWIFT Code": "NBHKNOKK016",
     "Bank Name": "NORGES BANK",
@@ -1302,8 +1302,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "017",
     "SWIFT Code": "NBHKNOKK017",
     "Bank Name": "NORGES BANK",
@@ -1315,8 +1315,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "018",
     "SWIFT Code": "NBHKNOKK018",
     "Bank Name": "NORGES BANK",
@@ -1328,8 +1328,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "019",
     "SWIFT Code": "NBHKNOKK019",
     "Bank Name": "NORGES BANK",
@@ -1341,8 +1341,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "020",
     "SWIFT Code": "NBHKNOKK020",
     "Bank Name": "NORGES BANK",
@@ -1354,8 +1354,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "021",
     "SWIFT Code": "NBHKNOKK021",
     "Bank Name": "NORGES BANK",
@@ -1367,8 +1367,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "022",
     "SWIFT Code": "NBHKNOKK022",
     "Bank Name": "NORGES BANK",
@@ -1380,8 +1380,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "023",
     "SWIFT Code": "NBHKNOKK023",
     "Bank Name": "NORGES BANK",
@@ -1393,8 +1393,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "024",
     "SWIFT Code": "NBHKNOKK024",
     "Bank Name": "NORGES BANK",
@@ -1406,8 +1406,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "025",
     "SWIFT Code": "NBHKNOKK025",
     "Bank Name": "NORGES BANK",
@@ -1419,8 +1419,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "026",
     "SWIFT Code": "NBHKNOKK026",
     "Bank Name": "NORGES BANK",
@@ -1432,8 +1432,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "027",
     "SWIFT Code": "NBHKNOKK027",
     "Bank Name": "NORGES BANK",
@@ -1445,8 +1445,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "028",
     "SWIFT Code": "NBHKNOKK028",
     "Bank Name": "NORGES BANK",
@@ -1458,8 +1458,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "029",
     "SWIFT Code": "NBHKNOKK029",
     "Bank Name": "NORGES BANK",
@@ -1471,8 +1471,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "030",
     "SWIFT Code": "NBHKNOKK030",
     "Bank Name": "NORGES BANK",
@@ -1484,8 +1484,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "031",
     "SWIFT Code": "NBHKNOKK031",
     "Bank Name": "NORGES BANK",
@@ -1497,8 +1497,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "032",
     "SWIFT Code": "NBHKNOKK032",
     "Bank Name": "NORGES BANK",
@@ -1510,8 +1510,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "033",
     "SWIFT Code": "NBHKNOKK033",
     "Bank Name": "NORGES BANK",
@@ -1523,8 +1523,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "034",
     "SWIFT Code": "NBHKNOKK034",
     "Bank Name": "NORGES BANK",
@@ -1536,8 +1536,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "035",
     "SWIFT Code": "NBHKNOKK035",
     "Bank Name": "NORGES BANK",
@@ -1549,8 +1549,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "036",
     "SWIFT Code": "NBHKNOKK036",
     "Bank Name": "NORGES BANK",
@@ -1562,8 +1562,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "037",
     "SWIFT Code": "NBHKNOKK037",
     "Bank Name": "NORGES BANK",
@@ -1575,8 +1575,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "038",
     "SWIFT Code": "NBHKNOKK038",
     "Bank Name": "NORGES BANK",
@@ -1588,8 +1588,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "039",
     "SWIFT Code": "NBHKNOKK039",
     "Bank Name": "NORGES BANK",
@@ -1601,8 +1601,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "040",
     "SWIFT Code": "NBHKNOKK040",
     "Bank Name": "NORGES BANK",
@@ -1614,8 +1614,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "041",
     "SWIFT Code": "NBHKNOKK041",
     "Bank Name": "NORGES BANK",
@@ -1627,8 +1627,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "042",
     "SWIFT Code": "NBHKNOKK042",
     "Bank Name": "NORGES BANK",
@@ -1640,8 +1640,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "043",
     "SWIFT Code": "NBHKNOKK043",
     "Bank Name": "NORGES BANK",
@@ -1653,8 +1653,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "044",
     "SWIFT Code": "NBHKNOKK044",
     "Bank Name": "NORGES BANK",
@@ -1666,8 +1666,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "045",
     "SWIFT Code": "NBHKNOKK045",
     "Bank Name": "NORGES BANK",
@@ -1679,8 +1679,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "046",
     "SWIFT Code": "NBHKNOKK046",
     "Bank Name": "NORGES BANK",
@@ -1692,8 +1692,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "047",
     "SWIFT Code": "NBHKNOKK047",
     "Bank Name": "NORGES BANK",
@@ -1705,8 +1705,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "048",
     "SWIFT Code": "NBHKNOKK048",
     "Bank Name": "NORGES BANK",
@@ -1718,8 +1718,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "049",
     "SWIFT Code": "NBHKNOKK049",
     "Bank Name": "NORGES BANK",
@@ -1731,8 +1731,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "050",
     "SWIFT Code": "NBHKNOKK050",
     "Bank Name": "NORGES BANK",
@@ -1744,8 +1744,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "100",
     "SWIFT Code": "NBHKNOKK100",
     "Bank Name": "NORGES BANK",
@@ -1757,8 +1757,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "101",
     "SWIFT Code": "NBHKNOKK101",
     "Bank Name": "NORGES BANK",
@@ -1770,8 +1770,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "102",
     "SWIFT Code": "NBHKNOKK102",
     "Bank Name": "NORGES BANK",
@@ -1783,8 +1783,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "103",
     "SWIFT Code": "NBHKNOKK103",
     "Bank Name": "NORGES BANK",
@@ -1796,8 +1796,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "S01",
     "SWIFT Code": "NBHKNOKKS01",
     "Bank Name": "NORGES BANK",
@@ -1809,8 +1809,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "S02",
     "SWIFT Code": "NBHKNOKKS02",
     "Bank Name": "NORGES BANK",
@@ -1822,8 +1822,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "S03",
     "SWIFT Code": "NBHKNOKKS03",
     "Bank Name": "NORGES BANK",
@@ -1835,8 +1835,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "S04",
     "SWIFT Code": "NBHKNOKKS04",
     "Bank Name": "NORGES BANK",
@@ -1848,8 +1848,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "S05",
     "SWIFT Code": "NBHKNOKKS05",
     "Bank Name": "NORGES BANK",
@@ -1861,8 +1861,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "TIA",
     "SWIFT Code": "NBHKNOKKTIA",
     "Bank Name": "NORGES BANK",
@@ -1874,8 +1874,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBHK",
-    "bankCode": "NO",
+    "bankCode": "NBHK",
+    "countryCode": "NO",
     "branchCode": "TIK",
     "SWIFT Code": "NBHKNOKKTIK",
     "Bank Name": "NORGES BANK",
@@ -1887,8 +1887,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGIM",
-    "bankCode": "NO",
+    "bankCode": "NGIM",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "NGIMNOKK",
     "Bank Name": "NORGES BANK (DIVISION NORGES BANK INVESTMENT MANAGEMENT)",
@@ -1900,8 +1900,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBRE",
-    "bankCode": "NO",
+    "bankCode": "NBRE",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "NBRENOKK",
     "Bank Name": "NORGES BANK -DIV. REAL ASSETS",
@@ -1913,8 +1913,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NHYD",
-    "bankCode": "NO",
+    "bankCode": "NHYD",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "NHYDNOKK",
     "Bank Name": "NORSK HYDRO A.S.A., HYDRO FINANS",
@@ -1926,8 +1926,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NHYD",
-    "bankCode": "NO",
+    "bankCode": "NHYD",
+    "countryCode": "NO",
     "branchCode": "HIF",
     "SWIFT Code": "NHYDNOKKHIF",
     "Bank Name": "NORSK HYDRO A.S.A., HYDRO FINANS",
@@ -1939,8 +1939,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NHYD",
-    "bankCode": "NO",
+    "bankCode": "NHYD",
+    "countryCode": "NO",
     "branchCode": "HPJ",
     "SWIFT Code": "NHYDNOKKHPJ",
     "Bank Name": "NORSK HYDRO A.S.A., HYDRO FINANS",
@@ -1952,8 +1952,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODFO",
-    "bankCode": "NO",
+    "bankCode": "ODFO",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "ODFONOKK",
     "Bank Name": "ODIN FORVALTNING AS",
@@ -1965,8 +1965,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPAS",
-    "bankCode": "NO",
+    "bankCode": "OPAS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "OPASNOK2",
     "Bank Name": "OPTIN BANK ASA",
@@ -1978,8 +1978,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SASK",
-    "bankCode": "NO",
+    "bankCode": "SASK",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SASKNO22",
     "Bank Name": "SANDNES SPAREBANK",
@@ -1991,8 +1991,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSNO",
-    "bankCode": "NO",
+    "bankCode": "BSNO",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "BSNONOKK",
     "Bank Name": "SANTANDER CONSUMER BANK AS",
@@ -2004,8 +2004,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEGP",
-    "bankCode": "NO",
+    "bankCode": "SEGP",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "SEGPNOK2",
     "Bank Name": "SETTLE GROUP AS",
@@ -2017,8 +2017,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCL",
-    "bankCode": "NO",
+    "bankCode": "OSCL",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "OSCLNOKK",
     "Bank Name": "SIX X-CLEAR AG NORWEGIAN BRANCH",
@@ -2030,8 +2030,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCL",
-    "bankCode": "NO",
+    "bankCode": "OSCL",
+    "countryCode": "NO",
     "branchCode": "OKX",
     "SWIFT Code": "OSCLNOKX",
     "Bank Name": "SIX X-CLEAR AG NORWEGIAN BRANCH",
@@ -2043,8 +2043,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCL",
-    "bankCode": "NO",
+    "bankCode": "OSCL",
+    "countryCode": "NO",
     "branchCode": "CLN",
     "SWIFT Code": "OSCLNOKXCLN",
     "Bank Name": "SIX X-CLEAR AG NORWEGIAN BRANCH",
@@ -2056,8 +2056,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCL",
-    "bankCode": "NO",
+    "bankCode": "OSCL",
+    "countryCode": "NO",
     "branchCode": "CLR",
     "SWIFT Code": "OSCLNOKXCLR",
     "Bank Name": "SIX X-CLEAR AG NORWEGIAN BRANCH",
@@ -2069,8 +2069,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCL",
-    "bankCode": "NO",
+    "bankCode": "OSCL",
+    "countryCode": "NO",
     "branchCode": "LAN",
     "SWIFT Code": "OSCLNOKKLAN",
     "Bank Name": "SIX X-CLEAR AG NORWEGIAN BRANCH",
@@ -2082,8 +2082,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCL",
-    "bankCode": "NO",
+    "bankCode": "OSCL",
+    "countryCode": "NO",
     "branchCode": "VPO",
     "SWIFT Code": "OSCLNOKKVPO",
     "Bank Name": "SIX X-CLEAR AG NORWEGIAN BRANCH",
@@ -2095,8 +2095,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "NO",
+    "bankCode": "ESSE",
+    "countryCode": "NO",
     "branchCode": "PRB",
     "SWIFT Code": "ESSENOKXPRB",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN",
@@ -2108,8 +2108,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "NO",
+    "bankCode": "ESSE",
+    "countryCode": "NO",
     "branchCode": "CLS",
     "SWIFT Code": "ESSENOKXCLS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) OSLOFILIALEN",
@@ -2121,8 +2121,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "NO",
+    "bankCode": "ESSE",
+    "countryCode": "NO",
     "branchCode": "OKX",
     "SWIFT Code": "ESSENOKX",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) OSLOFILIALEN",
@@ -2134,8 +2134,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "NO",
+    "bankCode": "ESSE",
+    "countryCode": "NO",
     "branchCode": "CAL",
     "SWIFT Code": "ESSENOKXCAL",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) OSLOFILIALEN",
@@ -2147,8 +2147,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENSK",
-    "bankCode": "NO",
+    "bankCode": "ENSK",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "ENSKNOKK",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) OSLOFILIALEN (FORMERLY SEB ENSKILDA AS)",
@@ -2160,8 +2160,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "NO",
+    "bankCode": "ESSE",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "ESSENO22",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) OSLOFILIALEN (FORMERLY SEB PRIVATE BANKING)",
@@ -2173,8 +2173,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNOW",
-    "bankCode": "NO",
+    "bankCode": "SNOW",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SNOWNO22",
     "Bank Name": "SPAREBANK 1 NORD-NORGE",
@@ -2186,8 +2186,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHED",
-    "bankCode": "NO",
+    "bankCode": "SHED",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SHEDNO22",
     "Bank Name": "SPAREBANK 1 OSTLANDET (FORMERLY SPAREBANKEN HEDMARK)",
@@ -2199,8 +2199,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHED",
-    "bankCode": "NO",
+    "bankCode": "SHED",
+    "countryCode": "NO",
     "branchCode": "KVR",
     "SWIFT Code": "SHEDNO22KVR",
     "Bank Name": "SPAREBANK 1 OSTLANDET (FORMERLY SPAREBANKEN HEDMARK)",
@@ -2212,8 +2212,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPTR",
-    "bankCode": "NO",
+    "bankCode": "SPTR",
+    "countryCode": "NO",
     "branchCode": "SB1",
     "SWIFT Code": "SPTRNO22SB1",
     "Bank Name": "SPAREBANK 1 SMN",
@@ -2225,8 +2225,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPTR",
-    "bankCode": "NO",
+    "bankCode": "SPTR",
+    "countryCode": "NO",
     "branchCode": "O22",
     "SWIFT Code": "SPTRNO22",
     "Bank Name": "SPAREBANK 1 SMN",
@@ -2238,8 +2238,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "AGD",
     "SWIFT Code": "SPRONO22AGD",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -2251,8 +2251,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "BNE",
     "SWIFT Code": "SPRONO22BNE",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -2264,8 +2264,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "EGE",
     "SWIFT Code": "SPRONO22EGE",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -2277,8 +2277,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "FLE",
     "SWIFT Code": "SPRONO22FLE",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -2290,8 +2290,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRO",
-    "bankCode": "NO",
+    "bankCode": "SPRO",
+    "countryCode": "NO",
     "branchCode": "FOR",
     "SWIFT Code": "SPRONO22FOR",
     "Bank Name": "SPAREBANK 1 SR-BANK ASA",
@@ -2303,8 +2303,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "Z23",
     "SWIFT Code": "LNLNNOB2Z23",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2316,8 +2316,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "Z22",
     "SWIFT Code": "LNLNNOB2Z22",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2329,8 +2329,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "Z21",
     "SWIFT Code": "LNLNNOB2Z21",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2342,8 +2342,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "Z20",
     "SWIFT Code": "LNLNNOB2Z20",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2355,8 +2355,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "Z19",
     "SWIFT Code": "LNLNNOB2Z19",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2368,8 +2368,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "OB2",
     "SWIFT Code": "LNLNNOB2",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2381,8 +2381,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D27",
     "SWIFT Code": "LNLNNOB2D27",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2394,8 +2394,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D26",
     "SWIFT Code": "LNLNNOB2D26",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2407,8 +2407,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D25",
     "SWIFT Code": "LNLNNOB2D25",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2420,8 +2420,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D24",
     "SWIFT Code": "LNLNNOB2D24",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2433,8 +2433,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D23",
     "SWIFT Code": "LNLNNOB2D23",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2446,8 +2446,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D22",
     "SWIFT Code": "LNLNNOB2D22",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2459,8 +2459,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D21",
     "SWIFT Code": "LNLNNOB2D21",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2472,8 +2472,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D20",
     "SWIFT Code": "LNLNNOB2D20",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2485,8 +2485,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D19",
     "SWIFT Code": "LNLNNOB2D19",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2498,8 +2498,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D18",
     "SWIFT Code": "LNLNNOB2D18",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2511,8 +2511,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D17",
     "SWIFT Code": "LNLNNOB2D17",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2524,8 +2524,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D16",
     "SWIFT Code": "LNLNNOB2D16",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2537,8 +2537,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D15",
     "SWIFT Code": "LNLNNOB2D15",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2550,8 +2550,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D14",
     "SWIFT Code": "LNLNNOB2D14",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2563,8 +2563,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D13",
     "SWIFT Code": "LNLNNOB2D13",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2576,8 +2576,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D12",
     "SWIFT Code": "LNLNNOB2D12",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2589,8 +2589,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D11",
     "SWIFT Code": "LNLNNOB2D11",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2602,8 +2602,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D10",
     "SWIFT Code": "LNLNNOB2D10",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2615,8 +2615,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D09",
     "SWIFT Code": "LNLNNOB2D09",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2628,8 +2628,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D08",
     "SWIFT Code": "LNLNNOB2D08",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2641,8 +2641,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D07",
     "SWIFT Code": "LNLNNOB2D07",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2654,8 +2654,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D06",
     "SWIFT Code": "LNLNNOB2D06",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2667,8 +2667,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D04",
     "SWIFT Code": "LNLNNOB2D04",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2680,8 +2680,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D03",
     "SWIFT Code": "LNLNNOB2D03",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2693,8 +2693,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D02",
     "SWIFT Code": "LNLNNOB2D02",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2706,8 +2706,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "D01",
     "SWIFT Code": "LNLNNOB2D01",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2719,8 +2719,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNLN",
-    "bankCode": "NO",
+    "bankCode": "LNLN",
+    "countryCode": "NO",
     "branchCode": "014",
     "SWIFT Code": "LNLNNOB2014",
     "Bank Name": "LIVSFORSIKRINSSELSKAPET NORDEA LIV NORGE AS",
@@ -2732,8 +2732,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPBI",
-    "bankCode": "NO",
+    "bankCode": "CPBI",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "CPBINOKK",
     "Bank Name": "LOOMIS FX, GOLD AND SERVICES",
@@ -2745,8 +2745,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSN",
-    "bankCode": "NO",
+    "bankCode": "BBSN",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "BBSNNOKK",
     "Bank Name": "MASTERCARD PAYMENT SERVICES NORWAY AS",
@@ -2758,8 +2758,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSN",
-    "bankCode": "NO",
+    "bankCode": "BBSN",
+    "countryCode": "NO",
     "branchCode": "OKA",
     "SWIFT Code": "BBSNNOKA",
     "Bank Name": "MASTERCARD PAYMENT SERVICES NORWAY AS",
@@ -2771,8 +2771,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "NO",
+    "bankCode": "NDEA",
+    "countryCode": "NO",
     "branchCode": "NCL",
     "SWIFT Code": "NDEANOKKNCL",
     "Bank Name": "NORDEA BANK ABP, FILIAL I NORGE",
@@ -2784,8 +2784,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "NO",
+    "bankCode": "NDEA",
+    "countryCode": "NO",
     "branchCode": "OKK",
     "SWIFT Code": "NDEANOKK",
     "Bank Name": "NORDEA BANK ABP, FILIAL I NORGE",
@@ -2797,8 +2797,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "NO",
+    "bankCode": "NDEA",
+    "countryCode": "NO",
     "branchCode": "VPU",
     "SWIFT Code": "NDEANOKKVPU",
     "Bank Name": "NORDEA BANK ABP, FILIAL I NORGE",
@@ -2810,8 +2810,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "NO",
+    "bankCode": "NDEA",
+    "countryCode": "NO",
     "branchCode": "NKR",
     "SWIFT Code": "NDEANOKKNKR",
     "Bank Name": "NORDEA BANK ABP, FILIAL I NORGE",
@@ -2823,8 +2823,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "NO",
+    "bankCode": "NDEA",
+    "countryCode": "NO",
     "branchCode": "NEK",
     "SWIFT Code": "NDEANOKKNEK",
     "Bank Name": "NORDEA BANK ABP, FILIAL I NORGE",
@@ -2836,8 +2836,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NPAS",
-    "bankCode": "NO",
+    "bankCode": "NPAS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NPASNOK2",
     "Bank Name": "NORDEA FUNDS, NORWEGIAN BRANCH",
@@ -2849,8 +2849,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLSS",
-    "bankCode": "NO",
+    "bankCode": "NLSS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NLSSNOK2",
     "Bank Name": "NORDEA FUNDS, NORWEGIAN BRANCH",
@@ -2862,8 +2862,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLPA",
-    "bankCode": "NO",
+    "bankCode": "NLPA",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NLPANOK2",
     "Bank Name": "NORDEA FUNDS, NORWEGIAN BRANCH",
@@ -2875,8 +2875,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLIA",
-    "bankCode": "NO",
+    "bankCode": "NLIA",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NLIANOK2",
     "Bank Name": "NORDEA FUNDS, NORWEGIAN BRANCH",
@@ -2888,8 +2888,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLAS",
-    "bankCode": "NO",
+    "bankCode": "NLAS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NLASNOK2",
     "Bank Name": "NORDEA FUNDS, NORWEGIAN BRANCH",
@@ -2901,8 +2901,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLAE",
-    "bankCode": "NO",
+    "bankCode": "NLAE",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NLAENOK2",
     "Bank Name": "NORDEA FUNDS, NORWEGIAN BRANCH",
@@ -2914,8 +2914,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOTS",
-    "bankCode": "NO",
+    "bankCode": "NOTS",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NOTSNOK2",
     "Bank Name": "NORDEA OBLIGASJON II - ASSET SIDE",
@@ -2927,8 +2927,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBIE",
-    "bankCode": "NO",
+    "bankCode": "NBIE",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NBIENOK2",
     "Bank Name": "NORDEA OBLIGASJON III - ASSET SIDE",
@@ -2940,8 +2940,8 @@ const norway = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRCA",
-    "bankCode": "NO",
+    "bankCode": "NRCA",
+    "countryCode": "NO",
     "branchCode": "OK2",
     "SWIFT Code": "NRCANOK2",
     "Bank Name": "NORDIC CORPORATE BANK ASA",

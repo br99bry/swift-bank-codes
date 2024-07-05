@@ -1,7 +1,7 @@
 const brunei = [
   {
-    "countryCode": "BAID",
-    "bankCode": "BN",
+    "bankCode": "BAID",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "BAIDBNBB",
     "Bank Name": "BAIDURI BANK BERHAD",
@@ -13,8 +13,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBD",
-    "bankCode": "BN",
+    "bankCode": "BIBD",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "BIBDBNBB",
     "Bank Name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
@@ -26,8 +26,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "BN",
+    "bankCode": "BKCH",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "BKCHBNBB",
     "Bank Name": "BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH",
@@ -39,8 +39,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAG",
-    "bankCode": "BN",
+    "bankCode": "BIAG",
+    "countryCode": "BN",
     "branchCode": "NBS",
     "SWIFT Code": "BIAGBNBS",
     "Bank Name": "BIA",
@@ -52,8 +52,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMBD",
-    "bankCode": "BN",
+    "bankCode": "AMBD",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "AMBDBNBB",
     "Bank Name": "BRUNEI DARUSSALAM CENTRAL BANK",
@@ -66,8 +66,8 @@ const brunei = [
   },
   {},
   {
-    "countryCode": "MBBE",
-    "bankCode": "BN",
+    "bankCode": "MBBE",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "MBBEBNBB",
     "Bank Name": "MALAYAN BANKING BERHAD",
@@ -79,8 +79,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTAI",
-    "bankCode": "BN",
+    "bankCode": "PTAI",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "PTAIBNBB",
     "Bank Name": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
@@ -92,8 +92,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBB",
-    "bankCode": "BN",
+    "bankCode": "RHBB",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "RHBBBNBB",
     "Bank Name": "RHB BANK BERHAD, BRUNEI",
@@ -105,8 +105,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "BN",
+    "bankCode": "SCBL",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "SCBLBNBB",
     "Bank Name": "STANDARD CHARTERED BANK - BRUNEI",
@@ -118,8 +118,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "BN",
+    "bankCode": "UOVB",
+    "countryCode": "BN",
     "branchCode": "NBB",
     "SWIFT Code": "UOVBBNBB",
     "Bank Name": "UNITED OVERSEAS BANK LTD",
@@ -131,8 +131,8 @@ const brunei = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "BN",
+    "bankCode": "UOVB",
+    "countryCode": "BN",
     "branchCode": "NBC",
     "SWIFT Code": "UOVBBNBC",
     "Bank Name": "UNITED OVERSEAS BANK LTD",

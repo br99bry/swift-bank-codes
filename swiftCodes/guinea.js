@@ -1,7 +1,7 @@
 const guinea = [
   {
-    "countryCode": "ABNG",
-    "bankCode": "GN",
+    "bankCode": "ABNG",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "ABNGGNGN",
     "Bank Name": "ACCESS BANK GUINEE",
@@ -13,8 +13,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALGC",
-    "bankCode": "GN",
+    "bankCode": "ALGC",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "ALGCGNGN",
     "Bank Name": "AFRICAN LEASE GUINEE",
@@ -26,8 +26,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "GN",
+    "bankCode": "CCEI",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "CCEIGNGN",
     "Bank Name": "AFRILAND FIRST BANK GUINEE S A",
@@ -39,8 +39,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPC",
-    "bankCode": "GN",
+    "bankCode": "REPC",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "REPCGNGN",
     "Bank Name": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
@@ -52,8 +52,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPC",
-    "bankCode": "GN",
+    "bankCode": "REPC",
+    "countryCode": "GN",
     "branchCode": "NGA",
     "SWIFT Code": "REPCGNGA",
     "Bank Name": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
@@ -65,8 +65,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDGE",
-    "bankCode": "GN",
+    "bankCode": "BDGE",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "BDGEGNGN",
     "Bank Name": "BANQUE DE DEVELOPPEMENT DE GUINEE",
@@ -78,8 +78,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "GN",
+    "bankCode": "BICI",
+    "countryCode": "GN",
     "branchCode": "NCX",
     "SWIFT Code": "BICIGNCX",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA GUINEE",
@@ -91,8 +91,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISGU",
-    "bankCode": "GN",
+    "bankCode": "ISGU",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "ISGUGNGN",
     "Bank Name": "BANQUE ISLAMIQUE DE GUINEE",
@@ -104,8 +104,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIG",
-    "bankCode": "GN",
+    "bankCode": "BNIG",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "BNIGGNGN",
     "Bank Name": "BANQUE NATIONALE D'INVESTISSEMENT DE GUINEE-SA",
@@ -117,8 +117,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BQNG",
-    "bankCode": "GN",
+    "bankCode": "BQNG",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "BQNGGNGN",
     "Bank Name": "BANQUE NATIONALE DE GUINEE",
@@ -130,8 +130,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POMB",
-    "bankCode": "GN",
+    "bankCode": "POMB",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "POMBGNGN",
     "Bank Name": "BANQUE POPULAIRE MAROCO-GUINEENNE SA",
@@ -143,8 +143,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLI",
-    "bankCode": "GN",
+    "bankCode": "COLI",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "COLIGNGN",
     "Bank Name": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE DE GUINEE",
@@ -156,8 +156,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSGN",
-    "bankCode": "GN",
+    "bankCode": "BSGN",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "BSGNGNGN",
     "Bank Name": "BSIC GUINEE CONAKRY",
@@ -169,8 +169,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "GN",
+    "bankCode": "CORI",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "CORIGNGN",
     "Bank Name": "CORIS BANK INTERNATIONAL GUINEE S.A.",
@@ -182,8 +182,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIMM",
-    "bankCode": "GN",
+    "bankCode": "DIMM",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "DIMMGNGN",
     "Bank Name": "DIAMA BANK S.A.",
@@ -195,8 +195,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GN",
+    "bankCode": "ECOC",
+    "countryCode": "GN",
     "branchCode": "NCN",
     "SWIFT Code": "ECOCGNCN",
     "Bank Name": "ECOBANK GUINEE",
@@ -208,8 +208,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICMO",
-    "bankCode": "GN",
+    "bankCode": "ICMO",
+    "countryCode": "GN",
     "branchCode": "NCN",
     "SWIFT Code": "ICMOGNCN",
     "Bank Name": "FBNBANK GUINEA SA",
@@ -221,8 +221,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAO",
-    "bankCode": "GN",
+    "bankCode": "BIAO",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "BIAOGNGN",
     "Bank Name": "NSIA BANQUE GUINEE",
@@ -234,8 +234,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "GN",
+    "bankCode": "ORBK",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "ORBKGNGN",
     "Bank Name": "ORABANK GUINEE",
@@ -247,8 +247,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKYE",
-    "bankCode": "GN",
+    "bankCode": "SKYE",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "SKYEGNGN",
     "Bank Name": "SKYE BANK GUINEA S.A.",
@@ -260,8 +260,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFCO",
-    "bankCode": "GN",
+    "bankCode": "SFCO",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "SFCOGNGN",
     "Bank Name": "SOCIETE DE FINANCEMENT DU COMMERCE ET DE L'INDUSTRIE S.A.",
@@ -273,8 +273,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGGN",
-    "bankCode": "GN",
+    "bankCode": "SGGN",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "SGGNGNGN",
     "Bank Name": "SOCIETE GENERALE DE BANQUES EN GUINEE",
@@ -286,8 +286,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAG",
-    "bankCode": "GN",
+    "bankCode": "UBAG",
+    "countryCode": "GN",
     "branchCode": "NCN",
     "SWIFT Code": "UBAGGNCN",
     "Bank Name": "UNITED BANK FOR AFRICA GUINEA",
@@ -299,8 +299,8 @@ const guinea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBL",
-    "bankCode": "GN",
+    "bankCode": "FIBL",
+    "countryCode": "GN",
     "branchCode": "NGN",
     "SWIFT Code": "FIBLGNGN",
     "Bank Name": "VISTA BANK GUINEE SA",

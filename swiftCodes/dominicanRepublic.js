@@ -1,7 +1,7 @@
 const dominicanRepublic = [
   {
-    "countryCode": "NOSC",
-    "bankCode": "DO",
+    "bankCode": "NOSC",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "NOSCDOSD",
     "Bank Name": "SCOTIABANK REPUBLICA DOMINICANA, S.A., BANCO MULTIPLE",
@@ -13,8 +13,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACXA",
-    "bankCode": "DO",
+    "bankCode": "ACXA",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "ACXADOS2",
     "Bank Name": "AGENTE DE CAMBIO EXTRANJERO A.C.E., S.A.",
@@ -26,8 +26,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABHR",
-    "bankCode": "DO",
+    "bankCode": "ABHR",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "ABHRDOSD",
     "Bank Name": "ASOCIACION BONAO DE AHORROS Y PRESTAMOS",
@@ -39,8 +39,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIB",
-    "bankCode": "DO",
+    "bankCode": "ACIB",
+    "countryCode": "DO",
     "branchCode": "OSX",
     "SWIFT Code": "ACIBDOSX",
     "Bank Name": "ASOCIACION CIBAO DE AHORROS Y PRESTAMOS",
@@ -52,8 +52,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANAY",
-    "bankCode": "DO",
+    "bankCode": "ANAY",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "ANAYDOSD",
     "Bank Name": "ASOCIACION LA NACIONAL DE AHORROS Y PRESTAMOS",
@@ -65,8 +65,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALVR",
-    "bankCode": "DO",
+    "bankCode": "ALVR",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "ALVRDOS2",
     "Bank Name": "ASOCIACION LA VEGA REAL DE AHORROS Y PRESTAMOS",
@@ -78,8 +78,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMAR",
-    "bankCode": "DO",
+    "bankCode": "AMAR",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "AMARDOS2",
     "Bank Name": "ASOCIACION MOCANA DE AHORROS Y PRESTAMOS",
@@ -91,8 +91,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APOP",
-    "bankCode": "DO",
+    "bankCode": "APOP",
+    "countryCode": "DO",
     "branchCode": "OSX",
     "SWIFT Code": "APOPDOSX",
     "Bank Name": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS (APAP)",
@@ -104,8 +104,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGR",
-    "bankCode": "DO",
+    "bankCode": "BAGR",
+    "countryCode": "DO",
     "branchCode": "OSA",
     "SWIFT Code": "BAGRDOSA",
     "Bank Name": "BANCO AGRICOLA DE LA REPUBLICA DOMINICANA",
@@ -117,8 +117,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAC",
-    "bankCode": "DO",
+    "bankCode": "BAAC",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BAACDOSD",
     "Bank Name": "BANCO ATLANTICO DE AHORRO Y CREDITO, S.A.",
@@ -130,8 +130,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRD",
-    "bankCode": "DO",
+    "bankCode": "BCRD",
+    "countryCode": "DO",
     "branchCode": "OMA",
     "SWIFT Code": "BCRDDOSXOMA",
     "Bank Name": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
@@ -143,8 +143,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRD",
-    "bankCode": "DO",
+    "bankCode": "BCRD",
+    "countryCode": "DO",
     "branchCode": "SBC",
     "SWIFT Code": "BCRDDOSXSBC",
     "Bank Name": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
@@ -156,8 +156,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRD",
-    "bankCode": "DO",
+    "bankCode": "BCRD",
+    "countryCode": "DO",
     "branchCode": "OSX",
     "SWIFT Code": "BCRDDOSX",
     "Bank Name": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
@@ -169,8 +169,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHCD",
-    "bankCode": "DO",
+    "bankCode": "AHCD",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "AHCDDOS2",
     "Bank Name": "BANCO DE AHORRO Y CREDITO ADOPEM, S.A.",
@@ -182,8 +182,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHCC",
-    "bankCode": "DO",
+    "bankCode": "AHCC",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "AHCCDOS2",
     "Bank Name": "BANCO DE AHORRO Y CREDITO COFACI,S.A.",
@@ -195,8 +195,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHCO",
-    "bankCode": "DO",
+    "bankCode": "AHCO",
+    "countryCode": "DO",
     "branchCode": "OSM",
     "SWIFT Code": "AHCODOSM",
     "Bank Name": "BANCO DE AHORRO Y CREDITO CONFISA,S.A.",
@@ -208,8 +208,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHCG",
-    "bankCode": "DO",
+    "bankCode": "AHCG",
+    "countryCode": "DO",
     "branchCode": "OS3",
     "SWIFT Code": "AHCGDOS3",
     "Bank Name": "BANCO DE AHORRO Y CREDITO FIHOGAR,S.A.",
@@ -221,8 +221,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACFE",
-    "bankCode": "DO",
+    "bankCode": "ACFE",
+    "countryCode": "DO",
     "branchCode": "OSC",
     "SWIFT Code": "ACFEDOSC",
     "Bank Name": "BANCO DE AHORRO Y CREDITO FONDESA, S.A. (BANFONDESA)",
@@ -234,8 +234,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHRI",
-    "bankCode": "DO",
+    "bankCode": "AHRI",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "AHRIDOS2",
     "Bank Name": "BANCO DE AHORRO Y CREDITO JMMB BANK, S.A.",
@@ -247,8 +247,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNON",
-    "bankCode": "DO",
+    "bankCode": "UNON",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "UNONDOSD",
     "Bank Name": "BANCO DE AHORRO Y CREDITO UNION S.A.",
@@ -260,8 +260,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRRD",
-    "bankCode": "DO",
+    "bankCode": "BRRD",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BRRDDOSD",
     "Bank Name": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
@@ -273,8 +273,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PVDL",
-    "bankCode": "DO",
+    "bankCode": "PVDL",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "PVDLDOSD",
     "Bank Name": "BANCO MULTIPLE ACTIVO DOMINICANA, S.A.",
@@ -286,8 +286,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHCM",
-    "bankCode": "DO",
+    "bankCode": "AHCM",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "AHCMDOSD",
     "Bank Name": "BANCO MULTIPLE ADEMI. S.A.",
@@ -299,8 +299,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDI",
-    "bankCode": "DO",
+    "bankCode": "BBDI",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BBDIDOSD",
     "Bank Name": "BANCO MULTIPLE BDI, S.A.",
@@ -312,8 +312,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BELN",
-    "bankCode": "DO",
+    "bankCode": "BELN",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BELNDOSD",
     "Bank Name": "BANCO MULTIPLE BELLBANK",
@@ -325,8 +325,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBH",
-    "bankCode": "DO",
+    "bankCode": "BCBH",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BCBHDOSD",
     "Bank Name": "BANCO MULTIPLE BHD S.A.",
@@ -338,8 +338,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STGO",
-    "bankCode": "DO",
+    "bankCode": "STGO",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "STGODOSD",
     "Bank Name": "BANCO MULTIPLE CARIBE INTERNACIONAL, S.A.",
@@ -351,8 +351,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHCS",
-    "bankCode": "DO",
+    "bankCode": "AHCS",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "AHCSDOSD",
     "Bank Name": "BANCO MULTIPLE DE LAS AMERICAS, S.A",
@@ -364,8 +364,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCE",
-    "bankCode": "DO",
+    "bankCode": "BCCE",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BCCEDOSD",
     "Bank Name": "BANCO MULTIPLE LAFISE S.A.",
@@ -377,8 +377,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLDH",
-    "bankCode": "DO",
+    "bankCode": "BLDH",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BLDHDOSD",
     "Bank Name": "BANCO MULTIPLE LOPEZ DE HARO, S.A.",
@@ -390,8 +390,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRHR",
-    "bankCode": "DO",
+    "bankCode": "PRHR",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "PRHRDOSD",
     "Bank Name": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA",
@@ -403,8 +403,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCRZ",
-    "bankCode": "DO",
+    "bankCode": "SCRZ",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "SCRZDOSD",
     "Bank Name": "BANCO MULTIPLE SANTA CRUZ, S.A.",
@@ -416,8 +416,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPAR",
-    "bankCode": "DO",
+    "bankCode": "OPAR",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "OPARDOSD",
     "Bank Name": "BANCO OPTIMA DE AHORRO Y CREDITO, S.A.",
@@ -429,8 +429,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPDO",
-    "bankCode": "DO",
+    "bankCode": "BPDO",
+    "countryCode": "DO",
     "branchCode": "OSX",
     "SWIFT Code": "BPDODOSX",
     "Bank Name": "BANCO POPULAR DOMINICANO, S.A. BANCO MULTIPLE",
@@ -442,8 +442,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPDO",
-    "bankCode": "DO",
+    "bankCode": "BPDO",
+    "countryCode": "DO",
     "branchCode": "REM",
     "SWIFT Code": "BPDODOSXREM",
     "Bank Name": "BANCO POPULAR DOMINICANO, S.A. BANCO MULTIPLE",
@@ -455,8 +455,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIME",
-    "bankCode": "DO",
+    "bankCode": "VIME",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "VIMEDOSD",
     "Bank Name": "BANCO VIMENCA",
@@ -468,8 +468,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANS",
-    "bankCode": "DO",
+    "bankCode": "BANS",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BANSDOSD",
     "Bank Name": "BANESCO BANCO MULTIPLE, S.A.",
@@ -481,8 +481,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHDV",
-    "bankCode": "DO",
+    "bankCode": "BHDV",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "BHDVDOSD",
     "Bank Name": "BHD LEON PUESTO DE BOLSA, S.A.",
@@ -494,8 +494,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSHA",
-    "bankCode": "DO",
+    "bankCode": "CSHA",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "CSHADOS2",
     "Bank Name": "CASHAM S.A.",
@@ -507,8 +507,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVDP",
-    "bankCode": "DO",
+    "bankCode": "CVDP",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "CVDPDOSD",
     "Bank Name": "CEVALDOM DEPOSITO CENTRALIZADO DE VALORES, S.A.",
@@ -520,8 +520,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVDP",
-    "bankCode": "DO",
+    "bankCode": "CVDP",
+    "countryCode": "DO",
     "branchCode": "GAR",
     "SWIFT Code": "CVDPDOSDGAR",
     "Bank Name": "CEVALDOM DEPOSITO CENTRALIZADO DE VALORES, S.A.",
@@ -533,8 +533,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DO",
+    "bankCode": "CITI",
+    "countryCode": "DO",
     "branchCode": "022",
     "SWIFT Code": "CITIDOSD022",
     "Bank Name": "CITIBANK, N.A.",
@@ -546,8 +546,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DO",
+    "bankCode": "CITI",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "CITIDOSD",
     "Bank Name": "CITIBANK, N.A.",
@@ -559,8 +559,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "DO",
+    "bankCode": "CITI",
+    "countryCode": "DO",
     "branchCode": "CTV",
     "SWIFT Code": "CITIDOSDCTV",
     "Bank Name": "CITIBANK, N.A.",
@@ -572,8 +572,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCLC",
-    "bankCode": "DO",
+    "bankCode": "CCLC",
+    "countryCode": "DO",
     "branchCode": "OSM",
     "SWIFT Code": "CCLCDOSM",
     "Bank Name": "CORPORACION DE CREDITO LEASING CONFISA, S.A.",
@@ -585,8 +585,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRPL",
-    "bankCode": "DO",
+    "bankCode": "IRPL",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "IRPLDOSD",
     "Bank Name": "INVERSIONES AND RESERVAS S.A. PUESTO DE BOLSA",
@@ -598,8 +598,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIOV",
-    "bankCode": "DO",
+    "bankCode": "MIOV",
+    "countryCode": "DO",
     "branchCode": "OS2",
     "SWIFT Code": "MIOVDOS2",
     "Bank Name": "MIO MOVIL, S.A.",
@@ -611,8 +611,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCAR",
-    "bankCode": "DO",
+    "bankCode": "MCAR",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "MCARDOSD",
     "Bank Name": "MOTOR CREDITO, S.A., BANCO DE AHORRO Y CREDITO",
@@ -624,8 +624,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NITK",
-    "bankCode": "DO",
+    "bankCode": "NITK",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "NITKDOSD",
     "Bank Name": "NICKET S.A.",
@@ -637,8 +637,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PVPO",
-    "bankCode": "DO",
+    "bankCode": "PVPO",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "PVPODOSD",
     "Bank Name": "PRIMMA VALORES, S.A. PUESTO DE BOLSA",
@@ -650,8 +650,8 @@ const dominicanRepublic = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QDDM",
-    "bankCode": "DO",
+    "bankCode": "QDDM",
+    "countryCode": "DO",
     "branchCode": "OSD",
     "SWIFT Code": "QDDMDOSD",
     "Bank Name": "QIK BANCO DIGITAL DOMINICANO, S.A. BANCO MULTIPLE",

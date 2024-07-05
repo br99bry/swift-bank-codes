@@ -1,7 +1,7 @@
 const gabon = [
   {
-    "countryCode": "BICI",
-    "bankCode": "GA",
+    "bankCode": "BICI",
+    "countryCode": "GA",
     "branchCode": "ALX",
     "SWIFT Code": "BICIGALX",
     "Bank Name": "B.I.C.I. DU GABON",
@@ -13,8 +13,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "GA",
+    "bankCode": "BICI",
+    "countryCode": "GA",
     "branchCode": "ADL",
     "SWIFT Code": "BICIGALXADL",
     "Bank Name": "B.I.C.I. DU GABON",
@@ -26,8 +26,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "GA",
+    "bankCode": "BICI",
+    "countryCode": "GA",
     "branchCode": "MBT",
     "SWIFT Code": "BICIGALXMBT",
     "Bank Name": "B.I.C.I. DU GABON",
@@ -39,8 +39,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "GA",
+    "bankCode": "BICI",
+    "countryCode": "GA",
     "branchCode": "OLO",
     "SWIFT Code": "BICIGALXOLO",
     "Bank Name": "B.I.C.I. DU GABON",
@@ -52,8 +52,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "GA",
+    "bankCode": "BICI",
+    "countryCode": "GA",
     "branchCode": "MDA",
     "SWIFT Code": "BICIGALXMDA",
     "Bank Name": "B.I.C.I. DU GABON",
@@ -65,8 +65,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "GA",
+    "bankCode": "BICI",
+    "countryCode": "GA",
     "branchCode": "POG",
     "SWIFT Code": "BICIGALXPOG",
     "Bank Name": "B.I.C.I. DU GABON",
@@ -78,8 +78,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "GA",
+    "bankCode": "BEAC",
+    "countryCode": "GA",
     "branchCode": "520",
     "SWIFT Code": "BEACGALI520",
     "Bank Name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON",
@@ -91,8 +91,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "GA",
+    "bankCode": "BEAC",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "BEACGALI",
     "Bank Name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON",
@@ -104,8 +104,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "GA",
+    "bankCode": "BEAC",
+    "countryCode": "GA",
     "branchCode": "530",
     "SWIFT Code": "BEACGALI530",
     "Bank Name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON",
@@ -117,8 +117,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "GA",
+    "bankCode": "BEAC",
+    "countryCode": "GA",
     "branchCode": "510",
     "SWIFT Code": "BEACGALI510",
     "Bank Name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON",
@@ -130,8 +130,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GA",
+    "bankCode": "BGFI",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "BGFIGALI",
     "Bank Name": "BGFIBANK",
@@ -143,8 +143,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GA",
+    "bankCode": "BGFI",
+    "countryCode": "GA",
     "branchCode": "PTN",
     "SWIFT Code": "BGFIGALIPTN",
     "Bank Name": "BGFIBANK",
@@ -156,8 +156,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GA",
+    "bankCode": "BGFI",
+    "countryCode": "GA",
     "branchCode": "POG",
     "SWIFT Code": "BGFIGALIPOG",
     "Bank Name": "BGFIBANK",
@@ -169,8 +169,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GA",
+    "bankCode": "BGFI",
+    "countryCode": "GA",
     "branchCode": "OWD",
     "SWIFT Code": "BGFIGALIOWD",
     "Bank Name": "BGFIBANK",
@@ -182,8 +182,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GA",
+    "bankCode": "BGFI",
+    "countryCode": "GA",
     "branchCode": "MAL",
     "SWIFT Code": "BGFIGALIMAL",
     "Bank Name": "BGFIBANK",
@@ -195,8 +195,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "GA",
+    "bankCode": "BGFI",
+    "countryCode": "GA",
     "branchCode": "BKZ",
     "SWIFT Code": "BGFIGALIBKZ",
     "Bank Name": "BGFIBANK",
@@ -208,8 +208,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GA",
+    "bankCode": "CITI",
+    "countryCode": "GA",
     "branchCode": "ALX",
     "SWIFT Code": "CITIGALX",
     "Bank Name": "CITIBANK N.A.",
@@ -221,8 +221,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GA",
+    "bankCode": "CITI",
+    "countryCode": "GA",
     "branchCode": "TRD",
     "SWIFT Code": "CITIGALXTRD",
     "Bank Name": "CITIBANK N.A.",
@@ -234,8 +234,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GA",
+    "bankCode": "ECOC",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "ECOCGALI",
     "Bank Name": "ECOBANK GABON",
@@ -247,8 +247,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPG",
-    "bankCode": "GA",
+    "bankCode": "CCPG",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "CCPGGALI",
     "Bank Name": "GABON-POSTE",
@@ -260,8 +260,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "GA",
+    "bankCode": "ORBK",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "ORBKGALI",
     "Bank Name": "ORABANK GABON",
@@ -273,8 +273,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "GA",
+    "bankCode": "UNAF",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "UNAFGALI",
     "Bank Name": "UBA GABON",
@@ -286,8 +286,8 @@ const gabon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGAB",
-    "bankCode": "GA",
+    "bankCode": "UGAB",
+    "countryCode": "GA",
     "branchCode": "ALI",
     "SWIFT Code": "UGABGALI",
     "Bank Name": "UNION GABONAISE DE BANQUE",

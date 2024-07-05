@@ -1,7 +1,7 @@
 const nigeria = [
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "154",
     "SWIFT Code": "UNAFNGLA154",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -13,8 +13,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "125",
     "SWIFT Code": "UNAFNGLA125",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -26,8 +26,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "147",
     "SWIFT Code": "UNAFNGLA147",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -39,8 +39,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "UNAFNGLA",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -52,8 +52,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "138",
     "SWIFT Code": "UNAFNGLA138",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -65,8 +65,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "227",
     "SWIFT Code": "UNAFNGLA227",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -78,8 +78,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "026",
     "SWIFT Code": "UNAFNGLA026",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -91,8 +91,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "004",
     "SWIFT Code": "UNAFNGLA004",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -104,8 +104,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "219",
     "SWIFT Code": "UNAFNGLA219",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -117,8 +117,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "228",
     "SWIFT Code": "UNAFNGLA228",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -130,8 +130,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "008",
     "SWIFT Code": "UNAFNGLA008",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -143,8 +143,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "012",
     "SWIFT Code": "UNAFNGLA012",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -156,8 +156,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "303",
     "SWIFT Code": "UNAFNGLA303",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -169,8 +169,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "304",
     "SWIFT Code": "UNAFNGLA304",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -182,8 +182,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "306",
     "SWIFT Code": "UNAFNGLA306",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -195,8 +195,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "305",
     "SWIFT Code": "UNAFNGLA305",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -209,8 +209,8 @@ const nigeria = [
   },
   {},
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "011",
     "SWIFT Code": "UNAFNGLA011",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -222,8 +222,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "007",
     "SWIFT Code": "UNAFNGLA007",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -235,8 +235,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "005",
     "SWIFT Code": "UNAFNGLA005",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -248,8 +248,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "143",
     "SWIFT Code": "UNAFNGLA143",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -261,8 +261,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "006",
     "SWIFT Code": "UNAFNGLA006",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -275,8 +275,8 @@ const nigeria = [
   },
   {},
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "226",
     "SWIFT Code": "UNAFNGLA226",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -288,8 +288,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "002",
     "SWIFT Code": "UNAFNGLA002",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -301,8 +301,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "003",
     "SWIFT Code": "UNAFNGLA003",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -314,8 +314,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "150",
     "SWIFT Code": "UNAFNGLA150",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -327,8 +327,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "217",
     "SWIFT Code": "UNAFNGLA217",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -340,8 +340,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "130",
     "SWIFT Code": "UNAFNGLA130",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -353,8 +353,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "221",
     "SWIFT Code": "UNAFNGLA221",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -366,8 +366,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "016",
     "SWIFT Code": "UNAFNGLA016",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -379,8 +379,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "307",
     "SWIFT Code": "UNAFNGLA307",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -392,8 +392,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "205",
     "SWIFT Code": "UNAFNGLA205",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -405,8 +405,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "014",
     "SWIFT Code": "UNAFNGLA014",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -418,8 +418,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "302",
     "SWIFT Code": "UNAFNGLA302",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -431,8 +431,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "204",
     "SWIFT Code": "UNAFNGLA204",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -444,8 +444,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "181",
     "SWIFT Code": "UNAFNGLA181",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -457,8 +457,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "010",
     "SWIFT Code": "UNAFNGLA010",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -470,8 +470,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "127",
     "SWIFT Code": "UNAFNGLA127",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -483,8 +483,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "179",
     "SWIFT Code": "UNAFNGLA179",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -496,8 +496,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "067",
     "SWIFT Code": "UNAFNGLA067",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -509,8 +509,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "031",
     "SWIFT Code": "UNAFNGLA031",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -522,8 +522,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "099",
     "SWIFT Code": "UNAFNGLA099",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -535,8 +535,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "159",
     "SWIFT Code": "UNAFNGLA159",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -548,8 +548,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "050",
     "SWIFT Code": "UNAFNGLA050",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -561,8 +561,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "113",
     "SWIFT Code": "UNAFNGLA113",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -574,8 +574,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "160",
     "SWIFT Code": "UNAFNGLA160",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -587,8 +587,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "139",
     "SWIFT Code": "UNAFNGLA139",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -600,8 +600,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "115",
     "SWIFT Code": "UNAFNGLA115",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -613,8 +613,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "086",
     "SWIFT Code": "UNAFNGLA086",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -626,8 +626,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "022",
     "SWIFT Code": "UNAFNGLA022",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -639,8 +639,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "039",
     "SWIFT Code": "UNAFNGLA039",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -652,8 +652,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "087",
     "SWIFT Code": "UNAFNGLA087",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -665,8 +665,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "206",
     "SWIFT Code": "UNAFNGLA206",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -678,8 +678,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "220",
     "SWIFT Code": "UNAFNGLA220",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -691,8 +691,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "082",
     "SWIFT Code": "UNAFNGLA082",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -704,8 +704,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "080",
     "SWIFT Code": "UNAFNGLA080",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -717,8 +717,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "083",
     "SWIFT Code": "UNAFNGLA083",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -730,8 +730,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "046",
     "SWIFT Code": "UNAFNGLA046",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -743,8 +743,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "118",
     "SWIFT Code": "UNAFNGLA118",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -756,8 +756,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "210",
     "SWIFT Code": "UNAFNGLA210",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -769,8 +769,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "070",
     "SWIFT Code": "UNAFNGLA070",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -782,8 +782,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "025",
     "SWIFT Code": "UNAFNGLA025",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -795,8 +795,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "141",
     "SWIFT Code": "UNAFNGLA141",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -808,8 +808,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "024",
     "SWIFT Code": "UNAFNGLA024",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -821,8 +821,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "213",
     "SWIFT Code": "UNAFNGLA213",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -834,8 +834,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "193",
     "SWIFT Code": "UNAFNGLA193",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -847,8 +847,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "048",
     "SWIFT Code": "UNAFNGLA048",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -860,8 +860,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "032",
     "SWIFT Code": "UNAFNGLA032",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -873,8 +873,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "203",
     "SWIFT Code": "UNAFNGLA203",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -886,8 +886,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "065",
     "SWIFT Code": "UNAFNGLA065",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -899,8 +899,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIT",
-    "bankCode": "NG",
+    "bankCode": "ICIT",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "ICITNGLA",
     "Bank Name": "UNITY BANK PLC",
@@ -912,8 +912,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEGN",
-    "bankCode": "NG",
+    "bankCode": "VEGN",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "VEGNNGLA",
     "Bank Name": "VENTURE GARDEN NIGERIA LIMITED",
@@ -925,8 +925,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEMA",
-    "bankCode": "NG",
+    "bankCode": "WEMA",
+    "countryCode": "NG",
     "branchCode": "02K",
     "SWIFT Code": "WEMANGLA02K",
     "Bank Name": "WEMA BANK PLC",
@@ -938,8 +938,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEMA",
-    "bankCode": "NG",
+    "bankCode": "WEMA",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "WEMANGLA",
     "Bank Name": "WEMA BANK PLC",
@@ -951,8 +951,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEMA",
-    "bankCode": "NG",
+    "bankCode": "WEMA",
+    "countryCode": "NG",
     "branchCode": "02T",
     "SWIFT Code": "WEMANGLA02T",
     "Bank Name": "WEMA BANK PLC",
@@ -964,8 +964,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIB",
-    "bankCode": "NG",
+    "bankCode": "ZEIB",
+    "countryCode": "NG",
     "branchCode": "013",
     "SWIFT Code": "ZEIBNGLA013",
     "Bank Name": "ZENITH BANK PLC",
@@ -977,8 +977,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIB",
-    "bankCode": "NG",
+    "bankCode": "ZEIB",
+    "countryCode": "NG",
     "branchCode": "WEB",
     "SWIFT Code": "ZEIBNGLAWEB",
     "Bank Name": "ZENITH BANK PLC",
@@ -990,8 +990,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIB",
-    "bankCode": "NG",
+    "bankCode": "ZEIB",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "ZEIBNGLA",
     "Bank Name": "ZENITH BANK PLC",
@@ -1003,8 +1003,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEPC",
-    "bankCode": "NG",
+    "bankCode": "ZEPC",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "ZEPCNGLA",
     "Bank Name": "ZENITH PENSIONS CUSTODIAN LIMITED",
@@ -1016,8 +1016,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "NG",
+    "bankCode": "SCBL",
+    "countryCode": "NG",
     "branchCode": "STM",
     "SWIFT Code": "SCBLNGLASTM",
     "Bank Name": "STANDARD CHARTERED BANK NIGERIA LIMITED",
@@ -1029,8 +1029,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "NG",
+    "bankCode": "SCBL",
+    "countryCode": "NG",
     "branchCode": "TSY",
     "SWIFT Code": "SCBLNGLATSY",
     "Bank Name": "STANDARD CHARTERED BANK NIGERIA LIMITED",
@@ -1042,8 +1042,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "NG",
+    "bankCode": "SCBL",
+    "countryCode": "NG",
     "branchCode": "PYT",
     "SWIFT Code": "SCBLNGLAPYT",
     "Bank Name": "STANDARD CHARTERED BANK NIGERIA LIMITED",
@@ -1055,8 +1055,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAME",
-    "bankCode": "NG",
+    "bankCode": "NAME",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "NAMENGLA",
     "Bank Name": "STERLING BANK PLC",
@@ -1068,8 +1068,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAME",
-    "bankCode": "NG",
+    "bankCode": "NAME",
+    "countryCode": "NG",
     "branchCode": "SAF",
     "SWIFT Code": "NAMENGLASAF",
     "Bank Name": "STERLING BANK PLC",
@@ -1081,8 +1081,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUTG",
-    "bankCode": "NG",
+    "bankCode": "SUTG",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "SUTGNGLA",
     "Bank Name": "SUNTRUST BANK NIGERIA LIMITED",
@@ -1094,8 +1094,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAJJ",
-    "bankCode": "NG",
+    "bankCode": "TAJJ",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "TAJJNGLA",
     "Bank Name": "TAJ BANK LIMITED",
@@ -1107,8 +1107,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTRU",
-    "bankCode": "NG",
+    "bankCode": "TTRU",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "TTRUNGLA",
     "Bank Name": "TITAN TRUST BANK LIMITED",
@@ -1120,8 +1120,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBNI",
-    "bankCode": "NG",
+    "bankCode": "UBNI",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "UBNINGLA",
     "Bank Name": "UNION BANK OF NIGERIA PLC",
@@ -1133,8 +1133,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "088",
     "SWIFT Code": "UNAFNGLA088",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1146,8 +1146,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "171",
     "SWIFT Code": "UNAFNGLA171",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1159,8 +1159,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "223",
     "SWIFT Code": "UNAFNGLA223",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1172,8 +1172,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "055",
     "SWIFT Code": "UNAFNGLA055",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1185,8 +1185,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "114",
     "SWIFT Code": "UNAFNGLA114",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1198,8 +1198,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "215",
     "SWIFT Code": "UNAFNGLA215",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1211,8 +1211,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "056",
     "SWIFT Code": "UNAFNGLA056",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1224,8 +1224,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "175",
     "SWIFT Code": "UNAFNGLA175",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1237,8 +1237,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "164",
     "SWIFT Code": "UNAFNGLA164",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1250,8 +1250,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "030",
     "SWIFT Code": "UNAFNGLA030",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1263,8 +1263,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "044",
     "SWIFT Code": "UNAFNGLA044",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1276,8 +1276,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "117",
     "SWIFT Code": "UNAFNGLA117",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1289,8 +1289,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "094",
     "SWIFT Code": "UNAFNGLA094",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1302,8 +1302,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "034",
     "SWIFT Code": "UNAFNGLA034",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1315,8 +1315,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "222",
     "SWIFT Code": "UNAFNGLA222",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1329,8 +1329,8 @@ const nigeria = [
   },
   {},
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "084",
     "SWIFT Code": "UNAFNGLA084",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1342,8 +1342,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "123",
     "SWIFT Code": "UNAFNGLA123",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1355,8 +1355,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "054",
     "SWIFT Code": "UNAFNGLA054",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1368,8 +1368,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "152",
     "SWIFT Code": "UNAFNGLA152",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1381,8 +1381,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "126",
     "SWIFT Code": "UNAFNGLA126",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1394,8 +1394,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "043",
     "SWIFT Code": "UNAFNGLA043",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1407,8 +1407,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "040",
     "SWIFT Code": "UNAFNGLA040",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1420,8 +1420,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "166",
     "SWIFT Code": "UNAFNGLA166",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1433,8 +1433,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "042",
     "SWIFT Code": "UNAFNGLA042",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1446,8 +1446,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "112",
     "SWIFT Code": "UNAFNGLA112",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1459,8 +1459,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "132",
     "SWIFT Code": "UNAFNGLA132",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1472,8 +1472,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "218",
     "SWIFT Code": "UNAFNGLA218",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1485,8 +1485,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "023",
     "SWIFT Code": "UNAFNGLA023",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1498,8 +1498,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "049",
     "SWIFT Code": "UNAFNGLA049",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1511,8 +1511,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "098",
     "SWIFT Code": "UNAFNGLA098",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1524,8 +1524,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "062",
     "SWIFT Code": "UNAFNGLA062",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1537,8 +1537,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "064",
     "SWIFT Code": "UNAFNGLA064",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1550,8 +1550,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "153",
     "SWIFT Code": "UNAFNGLA153",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1563,8 +1563,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "195",
     "SWIFT Code": "UNAFNGLA195",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1576,8 +1576,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "224",
     "SWIFT Code": "UNAFNGLA224",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1589,8 +1589,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "169",
     "SWIFT Code": "UNAFNGLA169",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1602,8 +1602,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "066",
     "SWIFT Code": "UNAFNGLA066",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1615,8 +1615,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "060",
     "SWIFT Code": "UNAFNGLA060",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1628,8 +1628,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "136",
     "SWIFT Code": "UNAFNGLA136",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1641,8 +1641,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "NG",
+    "bankCode": "UNAF",
+    "countryCode": "NG",
     "branchCode": "137",
     "SWIFT Code": "UNAFNGLA137",
     "Bank Name": "UNITED BANK FOR AFRICA PLC",
@@ -1654,8 +1654,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPSB",
-    "bankCode": "NG",
+    "bankCode": "IPSB",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "IPSBNGLA",
     "Bank Name": "9 PAYMENT SERVICE BANK LIMITED",
@@ -1667,8 +1667,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASNI",
-    "bankCode": "NG",
+    "bankCode": "ASNI",
+    "countryCode": "NG",
     "branchCode": "GL2",
     "SWIFT Code": "ASNINGL2",
     "Bank Name": "ABSA SECURITIES NIGERIA LIMITED",
@@ -1680,8 +1680,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNG",
-    "bankCode": "NG",
+    "bankCode": "ABNG",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "ABNGNGLA",
     "Bank Name": "ACCESS BANK PLC",
@@ -1693,8 +1693,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFFC",
-    "bankCode": "NG",
+    "bankCode": "AFFC",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "AFFCNGLA",
     "Bank Name": "AFRICA FINANCE CORPORATION",
@@ -1706,8 +1706,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PASS",
-    "bankCode": "NG",
+    "bankCode": "PASS",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "PASSNGLA",
     "Bank Name": "AFRICAN EXPORT-IMPORT BANK",
@@ -1719,8 +1719,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMNG",
-    "bankCode": "NG",
+    "bankCode": "AMNG",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "AMNGNGLA",
     "Bank Name": "ASSET MANAGEMENT CORPORATION OF NIGERIA",
@@ -1732,8 +1732,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOIY",
-    "bankCode": "NG",
+    "bankCode": "BOIY",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "BOIYNGLA",
     "Bank Name": "BANK OF INDUSTRY FINANCIAL DEPARTMENT",
@@ -1745,8 +1745,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBNI",
-    "bankCode": "NG",
+    "bankCode": "CBNI",
+    "countryCode": "NG",
     "branchCode": "GLG",
     "SWIFT Code": "CBNINGLG",
     "Bank Name": "CENTRAL BANK OF NIGERIA",
@@ -1758,8 +1758,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBNI",
-    "bankCode": "NG",
+    "bankCode": "CBNI",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "CBNINGLA",
     "Bank Name": "CENTRAL BANK OF NIGERIA",
@@ -1771,8 +1771,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBNI",
-    "bankCode": "NG",
+    "bankCode": "CBNI",
+    "countryCode": "NG",
     "branchCode": "NGA",
     "SWIFT Code": "CBNINGLANGA",
     "Bank Name": "CENTRAL BANK OF NIGERIA",
@@ -1784,8 +1784,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSCY",
-    "bankCode": "NG",
+    "bankCode": "CSCY",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "CSCYNGLA",
     "Bank Name": "CENTRAL SECURITIES CLEARING SYSTEM PLC",
@@ -1797,8 +1797,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NG",
+    "bankCode": "CITI",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "CITINGLA",
     "Bank Name": "CITIBANK NIGERIA LIMITED",
@@ -1810,8 +1810,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NG",
+    "bankCode": "CITI",
+    "countryCode": "NG",
     "branchCode": "TRD",
     "SWIFT Code": "CITINGLATRD",
     "Bank Name": "CITIBANK NIGERIA LIMITED",
@@ -1823,8 +1823,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBB",
-    "bankCode": "NG",
+    "bankCode": "CMBB",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "CMBBNGLA",
     "Bank Name": "CORONATION MERCHANT BANK LIMITED",
@@ -1836,8 +1836,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "NG",
+    "bankCode": "ECOC",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "ECOCNGLA",
     "Bank Name": "ECOBANK NIGERIA LIMITED",
@@ -1849,8 +1849,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDHL",
-    "bankCode": "NG",
+    "bankCode": "KDHL",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "KDHLNGLA",
     "Bank Name": "FBNQUEST MERCHANT BANK LIMITED",
@@ -1862,8 +1862,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIDT",
-    "bankCode": "NG",
+    "bankCode": "FIDT",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "FIDTNGLA",
     "Bank Name": "FIDELITY BANK PLC",
@@ -1875,8 +1875,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBNI",
-    "bankCode": "NG",
+    "bankCode": "FBNI",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "FBNINGLA",
     "Bank Name": "FIRST BANK OF NIGERIA LTD",
@@ -1888,8 +1888,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBNI",
-    "bankCode": "NG",
+    "bankCode": "FBNI",
+    "countryCode": "NG",
     "branchCode": "GCS",
     "SWIFT Code": "FBNINGLAGCS",
     "Bank Name": "FIRST BANK OF NIGERIA LTD",
@@ -1901,8 +1901,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCMB",
-    "bankCode": "NG",
+    "bankCode": "FCMB",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "FCMBNGLA",
     "Bank Name": "FIRST CITY MONUMENT BANK LIMITED",
@@ -1914,8 +1914,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCMB",
-    "bankCode": "NG",
+    "bankCode": "FCMB",
+    "countryCode": "NG",
     "branchCode": "WEB",
     "SWIFT Code": "FCMBNGLAWEB",
     "Bank Name": "FIRST CITY MONUMENT BANK LIMITED",
@@ -1927,8 +1927,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMDQ",
-    "bankCode": "NG",
+    "bankCode": "FMDQ",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "FMDQNGLA",
     "Bank Name": "FMDQ SECURITIES EXCHANGE LIMITED",
@@ -1940,8 +1940,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSDH",
-    "bankCode": "NG",
+    "bankCode": "FSDH",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "FSDHNGLA",
     "Bank Name": "FSDH MERCHANT BANK LTD",
@@ -1953,8 +1953,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLOU",
-    "bankCode": "NG",
+    "bankCode": "GLOU",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "GLOUNGLA",
     "Bank Name": "GLOBUS BANK LIMITED",
@@ -1966,8 +1966,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GMBL",
-    "bankCode": "NG",
+    "bankCode": "GMBL",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "GMBLNGLA",
     "Bank Name": "GREENWICH MERCHANT BANK LIMITED",
@@ -1979,8 +1979,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "NG",
+    "bankCode": "GTBI",
+    "countryCode": "NG",
     "branchCode": "IFP",
     "SWIFT Code": "GTBINGLAIFP",
     "Bank Name": "GUARANTY TRUST BANK PLC",
@@ -1992,8 +1992,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "NG",
+    "bankCode": "GTBI",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "GTBINGLA",
     "Bank Name": "GUARANTY TRUST BANK PLC",
@@ -2005,8 +2005,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBCL",
-    "bankCode": "NG",
+    "bankCode": "HBCL",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "HBCLNGLA",
     "Bank Name": "HERITAGE BANK PLC",
@@ -2018,8 +2018,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HPSB",
-    "bankCode": "NG",
+    "bankCode": "HPSB",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "HPSBNGLA",
     "Bank Name": "HOPE PSBANK",
@@ -2031,8 +2031,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INTW",
-    "bankCode": "NG",
+    "bankCode": "INTW",
+    "countryCode": "NG",
     "branchCode": "GL2",
     "SWIFT Code": "INTWNGL2",
     "Bank Name": "INTERSWITCH LIMITED",
@@ -2044,8 +2044,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAIZ",
-    "bankCode": "NG",
+    "bankCode": "JAIZ",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "JAIZNGLA",
     "Bank Name": "JAIZ BANK PLC",
@@ -2057,8 +2057,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLNI",
-    "bankCode": "NG",
+    "bankCode": "PLNI",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "PLNINGLA",
     "Bank Name": "KEYSTONE BANK LIMITED",
@@ -2070,8 +2070,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOTU",
-    "bankCode": "NG",
+    "bankCode": "LOTU",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "LOTUNGLA",
     "Bank Name": "LOTUS BANK LIMITED",
@@ -2083,8 +2083,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMPS",
-    "bankCode": "NG",
+    "bankCode": "MMPS",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "MMPSNGLA",
     "Bank Name": "MONEYMASTER PAYMENT SERVICE BANK LIMITED",
@@ -2096,8 +2096,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLNG",
-    "bankCode": "NG",
+    "bankCode": "NLNG",
+    "countryCode": "NG",
     "branchCode": "GLP",
     "SWIFT Code": "NLNGNGLP",
     "Bank Name": "NIGERIA LNG LIMITED",
@@ -2109,8 +2109,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXM",
-    "bankCode": "NG",
+    "bankCode": "NEXM",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "NEXMNGLA",
     "Bank Name": "NIGERIAN EXPORT IMPORT BANK",
@@ -2122,8 +2122,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNPC",
-    "bankCode": "NG",
+    "bankCode": "NNPC",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "NNPCNGLA",
     "Bank Name": "NIGERIAN NATIONAL PETROLEUM COMPANY LIMITED",
@@ -2135,8 +2135,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NVMB",
-    "bankCode": "NG",
+    "bankCode": "NVMB",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "NVMBNGLA",
     "Bank Name": "NOVA MERCHANT BANK LIMITED",
@@ -2148,8 +2148,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPTS",
-    "bankCode": "NG",
+    "bankCode": "OPTS",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "OPTSNGLA",
     "Bank Name": "OPTIMUS BANK LIMITED",
@@ -2161,8 +2161,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARA",
-    "bankCode": "NG",
+    "bankCode": "PARA",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "PARANGLA",
     "Bank Name": "PARALLEX BANK LIMITED",
@@ -2174,8 +2174,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRDT",
-    "bankCode": "NG",
+    "bankCode": "PRDT",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "PRDTNGLA",
     "Bank Name": "POLARIS BANK LIMITED",
@@ -2187,8 +2187,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTRU",
-    "bankCode": "NG",
+    "bankCode": "PTRU",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "PTRUNGLA",
     "Bank Name": "PREMIUM TRUST BANK LIMITED",
@@ -2200,8 +2200,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMPL",
-    "bankCode": "NG",
+    "bankCode": "UMPL",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "UMPLNGLA",
     "Bank Name": "PROVIDUSBANK PLC",
@@ -2213,8 +2213,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "NG",
+    "bankCode": "FIRN",
+    "countryCode": "NG",
     "branchCode": "RMS",
     "SWIFT Code": "FIRNNGLARMS",
     "Bank Name": "RAND MERCHANT BANK NIGERIA LIMITED",
@@ -2226,8 +2226,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "NG",
+    "bankCode": "FIRN",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "FIRNNGLA",
     "Bank Name": "RAND MERCHANT BANK NIGERIA LIMITED",
@@ -2239,8 +2239,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNIG",
-    "bankCode": "NG",
+    "bankCode": "SNIG",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "SNIGNGLA",
     "Bank Name": "SIGNATURE BANK LIMITED",
@@ -2252,8 +2252,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "NG",
+    "bankCode": "SBIC",
+    "countryCode": "NG",
     "branchCode": "GLX",
     "SWIFT Code": "SBICNGLX",
     "Bank Name": "STANBIC IBTC BANK PLC",
@@ -2265,8 +2265,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STIK",
-    "bankCode": "NG",
+    "bankCode": "STIK",
+    "countryCode": "NG",
     "branchCode": "GL2",
     "SWIFT Code": "STIKNGL2",
     "Bank Name": "STANBIC IBTC STOCKBROKERS LIMITED",
@@ -2278,8 +2278,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "NG",
+    "bankCode": "SCBL",
+    "countryCode": "NG",
     "branchCode": "GLA",
     "SWIFT Code": "SCBLNGLA",
     "Bank Name": "STANDARD CHARTERED BANK NIGERIA LIMITED",
@@ -2291,8 +2291,8 @@ const nigeria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "NG",
+    "bankCode": "SCBL",
+    "countryCode": "NG",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLNGLASSU",
     "Bank Name": "STANDARD CHARTERED BANK NIGERIA LIMITED",

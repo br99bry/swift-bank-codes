@@ -1,7 +1,7 @@
 const ethiopia = [
   {
-    "countryCode": "ABAY",
-    "bankCode": "ET",
+    "bankCode": "ABAY",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ABAYETAA",
     "Bank Name": "ABAY BANK S.C.",
@@ -13,8 +13,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSC",
-    "bankCode": "ET",
+    "bankCode": "ABSC",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ABSCETAA",
     "Bank Name": "ADDIS INTERNATIONAL BANK S.C.",
@@ -26,8 +26,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFUN",
-    "bankCode": "ET",
+    "bankCode": "AFUN",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "AFUNETAA",
     "Bank Name": "AFRICAN UNION",
@@ -39,8 +39,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHUU",
-    "bankCode": "ET",
+    "bankCode": "AHUU",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "AHUUETAA",
     "Bank Name": "AHADU BANK S.C.",
@@ -52,8 +52,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMHR",
-    "bankCode": "ET",
+    "bankCode": "AMHR",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "AMHRETAA",
     "Bank Name": "AMHARA BANK S.C.",
@@ -65,8 +65,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AWIN",
-    "bankCode": "ET",
+    "bankCode": "AWIN",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "AWINETAA",
     "Bank Name": "AWASH BANK S.C",
@@ -78,8 +78,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABYS",
-    "bankCode": "ET",
+    "bankCode": "ABYS",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ABYSETAA",
     "Bank Name": "BANK OF ABYSSINIA",
@@ -91,8 +91,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BERH",
-    "bankCode": "ET",
+    "bankCode": "BERH",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "BERHETAA",
     "Bank Name": "BERHAN BANK SC",
@@ -104,8 +104,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNA",
-    "bankCode": "ET",
+    "bankCode": "BUNA",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "BUNAETAA",
     "Bank Name": "BUNNA INTERNATIONAL BANK S.C",
@@ -117,8 +117,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "CBETETAA",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -130,8 +130,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "ARA",
     "SWIFT Code": "CBETETAAARA",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -143,8 +143,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "DIR",
     "SWIFT Code": "CBETETAADIR",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -156,8 +156,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "FIN",
     "SWIFT Code": "CBETETAAFIN",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -169,8 +169,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "IBD",
     "SWIFT Code": "CBETETAAIBD",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -182,8 +182,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "MEH",
     "SWIFT Code": "CBETETAAMEH",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -195,8 +195,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "TEM",
     "SWIFT Code": "CBETETAATEM",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -208,8 +208,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "DOC",
     "SWIFT Code": "CBETETAADOC",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -221,8 +221,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBET",
-    "bankCode": "ET",
+    "bankCode": "CBET",
+    "countryCode": "ET",
     "branchCode": "TRY",
     "SWIFT Code": "CBETETAATRY",
     "Bank Name": "COMMERCIAL BANK OF ETHIOPIA",
@@ -234,8 +234,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBOR",
-    "bankCode": "ET",
+    "bankCode": "CBOR",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "CBORETAA",
     "Bank Name": "COOPERATIVE BANK OF OROMIA S.C.",
@@ -247,8 +247,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DASH",
-    "bankCode": "ET",
+    "bankCode": "DASH",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "DASHETAA",
     "Bank Name": "DASHEN BANK S.C.",
@@ -260,8 +260,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEET",
-    "bankCode": "ET",
+    "bankCode": "DEET",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "DEETETAA",
     "Bank Name": "DEVELOPMENT BANK OF ETHIOPIA",
@@ -273,8 +273,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENAT",
-    "bankCode": "ET",
+    "bankCode": "ENAT",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ENATETAA",
     "Bank Name": "ENAT BANK S.C",
@@ -286,8 +286,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDAA",
-    "bankCode": "ET",
+    "bankCode": "GDAA",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "GDAAETAA",
     "Bank Name": "GADAA BANK SC",
@@ -299,8 +299,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGA",
-    "bankCode": "ET",
+    "bankCode": "DEGA",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "DEGAETAA",
     "Bank Name": "GLOBAL BANK ETHIOPIA S.C (FORMERLY DEBUB GLOBAL BANK S.C)",
@@ -312,8 +312,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOBT",
-    "bankCode": "ET",
+    "bankCode": "GOBT",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "GOBTETAA",
     "Bank Name": "GOH BETOCH BANK S.C.",
@@ -325,8 +325,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNTD",
-    "bankCode": "ET",
+    "bankCode": "UNTD",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "UNTDETAA",
     "Bank Name": "HIBRET BANK SHARE COMPANY",
@@ -338,8 +338,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIJR",
-    "bankCode": "ET",
+    "bankCode": "HIJR",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "HIJRETAA",
     "Bank Name": "HIJRA BANK SHARE COMPANY",
@@ -351,8 +351,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBS",
-    "bankCode": "ET",
+    "bankCode": "LIBS",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "LIBSETAA",
     "Bank Name": "LION INTERNATIONAL BANK S.C.",
@@ -364,8 +364,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBET",
-    "bankCode": "ET",
+    "bankCode": "NBET",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "NBETETAA",
     "Bank Name": "NATIONAL BANK OF ETHIOPIA",
@@ -377,8 +377,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBI",
-    "bankCode": "ET",
+    "bankCode": "NIBI",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "NIBIETAA",
     "Bank Name": "NIB INTERNATIONAL BANK S.C.",
@@ -390,8 +390,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSCO",
-    "bankCode": "ET",
+    "bankCode": "OSCO",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "OSCOETAA",
     "Bank Name": "OMO BANK SHARE COMPANY",
@@ -403,8 +403,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORIR",
-    "bankCode": "ET",
+    "bankCode": "ORIR",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ORIRETAA",
     "Bank Name": "OROMIA INTERNATIONAL BANK S.C.",
@@ -416,8 +416,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMSI",
-    "bankCode": "ET",
+    "bankCode": "RMSI",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "RMSIETAA",
     "Bank Name": "RAMMIS BANK SHARE COMPANY",
@@ -429,8 +429,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMFI",
-    "bankCode": "ET",
+    "bankCode": "RMFI",
+    "countryCode": "ET",
     "branchCode": "TA2",
     "SWIFT Code": "RMFIETA2",
     "Bank Name": "RAYS MICRO FINANCE INSTITUTION S.C",
@@ -442,8 +442,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBEE",
-    "bankCode": "ET",
+    "bankCode": "SBEE",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "SBEEETAA",
     "Bank Name": "SHABELLE BANK SHARE COMPANY",
@@ -455,8 +455,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDMA",
-    "bankCode": "ET",
+    "bankCode": "SDMA",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "SDMAETAA",
     "Bank Name": "SIDAMA BANK S.C",
@@ -468,8 +468,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINQ",
-    "bankCode": "ET",
+    "bankCode": "SINQ",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "SINQETAA",
     "Bank Name": "SIINQEE BANK S,C",
@@ -481,8 +481,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSDY",
-    "bankCode": "ET",
+    "bankCode": "TSDY",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "TSDYETAA",
     "Bank Name": "TSEDEY BANK SC",
@@ -494,8 +494,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSCP",
-    "bankCode": "ET",
+    "bankCode": "TSCP",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "TSCPETAA",
     "Bank Name": "TSEHAY BANK S.C",
@@ -507,8 +507,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEGA",
-    "bankCode": "ET",
+    "bankCode": "WEGA",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "WEGAETAA",
     "Bank Name": "WEGAGEN BANK S.C.",
@@ -520,8 +520,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAMZ",
-    "bankCode": "ET",
+    "bankCode": "ZAMZ",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ZAMZETAA",
     "Bank Name": "ZAMZAM BANK S.C",
@@ -533,8 +533,8 @@ const ethiopia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEME",
-    "bankCode": "ET",
+    "bankCode": "ZEME",
+    "countryCode": "ET",
     "branchCode": "TAA",
     "SWIFT Code": "ZEMEETAA",
     "Bank Name": "ZEMEN BANK S.C.",

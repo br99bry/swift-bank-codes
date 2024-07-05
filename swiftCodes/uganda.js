@@ -1,7 +1,7 @@
 const uganda = [
   {
-    "countryCode": "ABCF",
-    "bankCode": "UG",
+    "bankCode": "ABCF",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "ABCFUGKA",
     "Bank Name": "ABC CAPITAL BANK LIMITED",
@@ -13,8 +13,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "UG",
+    "bankCode": "BARC",
+    "countryCode": "UG",
     "branchCode": "GKX",
     "SWIFT Code": "BARCUGKX",
     "Bank Name": "ABSA BANK UGANDA LIMITED",
@@ -26,8 +26,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "UG",
+    "bankCode": "CCEI",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "CCEIUGKA",
     "Bank Name": "AFRILAND FIRST BANK UGANDA LIMITED",
@@ -39,8 +39,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "UG",
+    "bankCode": "AFRI",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "AFRIUGKA",
     "Bank Name": "BANK OF AFRICA-UGANDA LTD.",
@@ -52,8 +52,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "UG",
+    "bankCode": "BARB",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "BARBUGKA",
     "Bank Name": "BANK OF BARODA (UGANDA) LIMITED",
@@ -65,8 +65,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "UG",
+    "bankCode": "BKID",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "BKIDUGKA",
     "Bank Name": "BANK OF INDIA (UGANDA) LTD",
@@ -78,8 +78,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGBA",
-    "bankCode": "UG",
+    "bankCode": "UGBA",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "UGBAUGKA",
     "Bank Name": "BANK OF UGANDA",
@@ -91,8 +91,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIE",
-    "bankCode": "UG",
+    "bankCode": "CAIE",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "CAIEUGKA",
     "Bank Name": "CAIRO BANK UGANDA",
@@ -104,8 +104,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CERB",
-    "bankCode": "UG",
+    "bankCode": "CERB",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "CERBUGKA",
     "Bank Name": "CENTENARY RURAL DEVELOPMENT BANK LIMITED",
@@ -117,8 +117,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "UG",
+    "bankCode": "CITI",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "CITIUGKA",
     "Bank Name": "CITIBANK UGANDA LIMITED",
@@ -130,8 +130,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "UG",
+    "bankCode": "CITI",
+    "countryCode": "UG",
     "branchCode": "TRD",
     "SWIFT Code": "CITIUGKATRD",
     "Bank Name": "CITIBANK UGANDA LIMITED",
@@ -143,8 +143,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDFO",
-    "bankCode": "UG",
+    "bankCode": "CDFO",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "CDFOUGKA",
     "Bank Name": "CREDIT FONCIER LIMITED",
@@ -156,8 +156,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DFCU",
-    "bankCode": "UG",
+    "bankCode": "DFCU",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "DFCUUGKA",
     "Bank Name": "DFCU BANK LIMITED",
@@ -169,8 +169,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTKE",
-    "bankCode": "UG",
+    "bankCode": "DTKE",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "DTKEUGKA",
     "Bank Name": "DIAMOND TRUST BANK UGANDA LIMITED",
@@ -182,8 +182,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDE",
-    "bankCode": "UG",
+    "bankCode": "AFDE",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "AFDEUGKA",
     "Bank Name": "EAST AFRICAN DEVELOPMENT BANK",
@@ -195,8 +195,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "UG",
+    "bankCode": "ECOC",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "ECOCUGKA",
     "Bank Name": "ECOBANK UGANDA",
@@ -208,8 +208,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQBL",
-    "bankCode": "UG",
+    "bankCode": "EQBL",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "EQBLUGKA",
     "Bank Name": "EQUITY BANK UGANDA LTD",
@@ -221,8 +221,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTN",
-    "bankCode": "UG",
+    "bankCode": "EXTN",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "EXTNUGKA",
     "Bank Name": "EXIM BANK (UGANDA) LIMITED",
@@ -234,8 +234,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTBL",
-    "bankCode": "UG",
+    "bankCode": "FTBL",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "FTBLUGKA",
     "Bank Name": "FINANCE TRUST BANK LTD",
@@ -247,8 +247,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "UG",
+    "bankCode": "GTBI",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "GTBIUGKA",
     "Bank Name": "GUARANTY TRUST BANK (UGANDA) LTD",
@@ -260,8 +260,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFIN",
-    "bankCode": "UG",
+    "bankCode": "HFIN",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "HFINUGKA",
     "Bank Name": "HOUSING FINANCE BANK LTD.",
@@ -273,8 +273,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORIN",
-    "bankCode": "UG",
+    "bankCode": "ORIN",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "ORINUGKA",
     "Bank Name": "I AND M BANK (UGANDA) LIMITED",
@@ -286,8 +286,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "UG",
+    "bankCode": "KCBL",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "KCBLUGKA",
     "Bank Name": "KCB BANK UGANDA LIMITED",
@@ -299,8 +299,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBD",
-    "bankCode": "UG",
+    "bankCode": "MCBD",
+    "countryCode": "UG",
     "branchCode": "GKB",
     "SWIFT Code": "MCBDUGKB",
     "Bank Name": "MERCANTILE CREDIT BANK LTD",
@@ -312,8 +312,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAF",
-    "bankCode": "UG",
+    "bankCode": "CBAF",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "CBAFUGKA",
     "Bank Name": "NCBA BANK UGANDA LIMITED",
@@ -325,8 +325,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPUG",
-    "bankCode": "UG",
+    "bankCode": "OPUG",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "OPUGUGKA",
     "Bank Name": "OPPORTUNITY BANK",
@@ -338,8 +338,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGPB",
-    "bankCode": "UG",
+    "bankCode": "UGPB",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "UGPBUGKA",
     "Bank Name": "POSTBANK UGANDA LIMITED",
@@ -351,8 +351,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOPF",
-    "bankCode": "UG",
+    "bankCode": "TOPF",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "TOPFUGKA",
     "Bank Name": "SALAAM BANK LIMITED",
@@ -364,8 +364,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "UG",
+    "bankCode": "SBIC",
+    "countryCode": "UG",
     "branchCode": "GKX",
     "SWIFT Code": "SBICUGKX",
     "Bank Name": "STANBIC BANK UGANDA LIMITED",
@@ -377,8 +377,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "UG",
+    "bankCode": "SCBL",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "SCBLUGKA",
     "Bank Name": "STANDARD CHARTERED BANK UGANDA LIMITED",
@@ -390,8 +390,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "UG",
+    "bankCode": "SCBL",
+    "countryCode": "UG",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLUGKASSU",
     "Bank Name": "STANDARD CHARTERED BANK UGANDA LIMITED",
@@ -403,8 +403,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TROA",
-    "bankCode": "UG",
+    "bankCode": "TROA",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "TROAUGKA",
     "Bank Name": "TROPICAL BANK LTD",
@@ -416,8 +416,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGSX",
-    "bankCode": "UG",
+    "bankCode": "UGSX",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "UGSXUGKA",
     "Bank Name": "UGANDA SECURITIES EXCHANGE LIMITED",
@@ -429,8 +429,8 @@ const uganda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "UG",
+    "bankCode": "UNAF",
+    "countryCode": "UG",
     "branchCode": "GKA",
     "SWIFT Code": "UNAFUGKA",
     "Bank Name": "UNITED BANK FOR AFRICA (UGANDA) LTD",

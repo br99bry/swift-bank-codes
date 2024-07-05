@@ -1,7 +1,7 @@
 const argentina = [
   {
-    "countryCode": "BFRP",
-    "bankCode": "AR",
+    "bankCode": "BFRP",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BFRPARBA",
     "Bank Name": "BANCO BBVA ARGENTINA S.A.",
@@ -13,8 +13,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICA",
-    "bankCode": "AR",
+    "bankCode": "BICA",
+    "countryCode": "AR",
     "branchCode": "RBS",
     "SWIFT Code": "BICAARBS",
     "Bank Name": "BANCO BICA  S.A.",
@@ -26,8 +26,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "AR",
+    "bankCode": "ITAU",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "ITAUARBA",
     "Bank Name": "BANCO BMA S.A.U.",
@@ -39,8 +39,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRA",
-    "bankCode": "AR",
+    "bankCode": "BCRA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BCRAARBA",
     "Bank Name": "BANCO CENTRAL DE LA REPUBLICA ARGENTINA",
@@ -52,8 +52,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMFB",
-    "bankCode": "AR",
+    "bankCode": "CMFB",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "CMFBARBA",
     "Bank Name": "BANCO CMF S.A.",
@@ -65,8 +65,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNIA",
-    "bankCode": "AR",
+    "bankCode": "CNIA",
+    "countryCode": "AR",
     "branchCode": "RBR",
     "SWIFT Code": "CNIAARBR",
     "Bank Name": "BANCO COINAG S.A.",
@@ -78,8 +78,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLLU",
-    "bankCode": "AR",
+    "bankCode": "CLLU",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "CLLUARBA",
     "Bank Name": "BANCO COLUMBIA S.A.",
@@ -91,8 +91,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUIL",
-    "bankCode": "AR",
+    "bankCode": "QUIL",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "QUILARBA",
     "Bank Name": "BANCO COMAFI S.A.",
@@ -104,8 +104,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOO",
-    "bankCode": "AR",
+    "bankCode": "BCOO",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BCOOARBA",
     "Bank Name": "BANCO CREDICOOP COOPERATIVO LIMITADO",
@@ -117,8 +117,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCFA",
-    "bankCode": "AR",
+    "bankCode": "MCFA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "MCFAARBA",
     "Bank Name": "BANCO DE COMERCIO S.A.",
@@ -130,8 +130,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOR",
-    "bankCode": "AR",
+    "bankCode": "BCOR",
+    "countryCode": "AR",
     "branchCode": "RBC",
     "SWIFT Code": "BCORARBC",
     "Bank Name": "BANCO DE CORRIENTES S.A.",
@@ -143,8 +143,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFSA",
-    "bankCode": "AR",
+    "bankCode": "BFSA",
+    "countryCode": "AR",
     "branchCode": "RBF",
     "SWIFT Code": "BFSAARBF",
     "Bank Name": "BANCO DE FORMOSA S.A.",
@@ -156,8 +156,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GABA",
-    "bankCode": "AR",
+    "bankCode": "GABA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "GABAARBA",
     "Bank Name": "BANCO DE GALICIA Y BUENOS AIRES",
@@ -169,8 +169,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICX",
-    "bankCode": "AR",
+    "bankCode": "BICX",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BICXARBA",
     "Bank Name": "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
@@ -183,8 +183,8 @@ const argentina = [
   },
   {},
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "BAH",
     "SWIFT Code": "NACNARBABAH",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -196,8 +196,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "NACNARBA",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -209,8 +209,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "CCL",
     "SWIFT Code": "NACNARBACCL",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -222,8 +222,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "CON",
     "SWIFT Code": "NACNARBACON",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -235,8 +235,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "COR",
     "SWIFT Code": "NACNARBACOR",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -248,8 +248,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "CTS",
     "SWIFT Code": "NACNARBACTS",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -261,8 +261,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "MPL",
     "SWIFT Code": "NACNARBAMPL",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -274,8 +274,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "MEN",
     "SWIFT Code": "NACNARBAMEN",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -287,8 +287,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "NEU",
     "SWIFT Code": "NACNARBANEU",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -300,8 +300,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "PER",
     "SWIFT Code": "NACNARBAPER",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -313,8 +313,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "POS",
     "SWIFT Code": "NACNARBAPOS",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -326,8 +326,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "RAF",
     "SWIFT Code": "NACNARBARAF",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -339,8 +339,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "REC",
     "SWIFT Code": "NACNARBAREC",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -352,8 +352,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "RCU",
     "SWIFT Code": "NACNARBARCU",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -365,8 +365,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "ROS",
     "SWIFT Code": "NACNARBAROS",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -378,8 +378,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "SAL",
     "SWIFT Code": "NACNARBASAL",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -391,8 +391,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "SJU",
     "SWIFT Code": "NACNARBASJU",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -404,8 +404,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "SMT",
     "SWIFT Code": "NACNARBASMT",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -417,8 +417,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "SRA",
     "SWIFT Code": "NACNARBASRA",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -430,8 +430,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "SFE",
     "SWIFT Code": "NACNARBASFE",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -443,8 +443,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "AR",
+    "bankCode": "NACN",
+    "countryCode": "AR",
     "branchCode": "VMA",
     "SWIFT Code": "NACNARBAVMA",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -456,8 +456,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAMP",
-    "bankCode": "AR",
+    "bankCode": "PAMP",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "PAMPARBA",
     "Bank Name": "BANCO DE LA PAMPA S.E.M.",
@@ -469,8 +469,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAMP",
-    "bankCode": "AR",
+    "bankCode": "PAMP",
+    "countryCode": "AR",
     "branchCode": "200",
     "SWIFT Code": "PAMPARBA200",
     "Bank Name": "BANCO DE LA PAMPA S.E.M.",
@@ -482,8 +482,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAMP",
-    "bankCode": "AR",
+    "bankCode": "PAMP",
+    "countryCode": "AR",
     "branchCode": "001",
     "SWIFT Code": "PAMPARBA001",
     "Bank Name": "BANCO DE LA PAMPA S.E.M.",
@@ -495,8 +495,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBA",
-    "bankCode": "AR",
+    "bankCode": "PRBA",
+    "countryCode": "AR",
     "branchCode": "BAH",
     "SWIFT Code": "PRBAARBABAH",
     "Bank Name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
@@ -508,8 +508,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBA",
-    "bankCode": "AR",
+    "bankCode": "PRBA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "PRBAARBA",
     "Bank Name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
@@ -521,8 +521,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBA",
-    "bankCode": "AR",
+    "bankCode": "PRBA",
+    "countryCode": "AR",
     "branchCode": "LPT",
     "SWIFT Code": "PRBAARBALPT",
     "Bank Name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
@@ -534,8 +534,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBA",
-    "bankCode": "AR",
+    "bankCode": "PRBA",
+    "countryCode": "AR",
     "branchCode": "MP1",
     "SWIFT Code": "PRBAARBAMP1",
     "Bank Name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
@@ -547,8 +547,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORD",
-    "bankCode": "AR",
+    "bankCode": "CORD",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "CORDARBA",
     "Bank Name": "BANCO DE LA PROVINCIA DE CORDOBA",
@@ -560,8 +560,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORD",
-    "bankCode": "AR",
+    "bankCode": "CORD",
+    "countryCode": "AR",
     "branchCode": "COR",
     "SWIFT Code": "CORDARBACOR",
     "Bank Name": "BANCO DE LA PROVINCIA DE CORDOBA",
@@ -573,8 +573,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPNE",
-    "bankCode": "AR",
+    "bankCode": "BPNE",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BPNEARBA",
     "Bank Name": "BANCO DE LA PROVINCIA DEL NEUQUEN S.A.",
@@ -586,8 +586,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BROU",
-    "bankCode": "AR",
+    "bankCode": "BROU",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BROUARBA",
     "Bank Name": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
@@ -599,8 +599,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSJU",
-    "bankCode": "AR",
+    "bankCode": "BSJU",
+    "countryCode": "AR",
     "branchCode": "RBJ",
     "SWIFT Code": "BSJUARBJ",
     "Bank Name": "BANCO DE SAN JUAN SA",
@@ -612,8 +612,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSC",
-    "bankCode": "AR",
+    "bankCode": "BPSC",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BPSCARBA",
     "Bank Name": "BANCO DE SANTA CRUZ S A",
@@ -625,8 +625,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTI",
-    "bankCode": "AR",
+    "bankCode": "BSTI",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BSTIARBA",
     "Bank Name": "BANCO DE SERVICIOS Y TRANSACCIONES SA",
@@ -638,8 +638,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAVA",
-    "bankCode": "AR",
+    "bankCode": "BAVA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BAVAARBA",
     "Bank Name": "BANCO DE VALORES",
@@ -651,8 +651,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCH",
-    "bankCode": "AR",
+    "bankCode": "BPCH",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BPCHARBA",
     "Bank Name": "BANCO DEL CHUBUT S.A.",
@@ -664,8 +664,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHIP",
-    "bankCode": "AR",
+    "bankCode": "BHIP",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BHIPARBA",
     "Bank Name": "BANCO HIPOTECARIO S.A.",
@@ -677,8 +677,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBIA",
-    "bankCode": "AR",
+    "bankCode": "NBIA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "NBIAARBA",
     "Bank Name": "BANCO INDUSTRIAL S.A.",
@@ -690,8 +690,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJUL",
-    "bankCode": "AR",
+    "bankCode": "BJUL",
+    "countryCode": "AR",
     "branchCode": "RBC",
     "SWIFT Code": "BJULARBC",
     "Bank Name": "BANCO JULIO SOCIEDAD ANONIMA",
@@ -703,8 +703,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSU",
-    "bankCode": "AR",
+    "bankCode": "BOSU",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BOSUARBA",
     "Bank Name": "BANCO MACRO S.A.",
@@ -716,8 +716,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MARI",
-    "bankCode": "AR",
+    "bankCode": "MARI",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "MARIARBA",
     "Bank Name": "BANCO MARIVA S.A.",
@@ -729,8 +729,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRD",
-    "bankCode": "AR",
+    "bankCode": "BMRD",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BMRDARBA",
     "Bank Name": "BANCO MERIDIAN S.A.",
@@ -742,8 +742,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUNR",
-    "bankCode": "AR",
+    "bankCode": "MUNR",
+    "countryCode": "AR",
     "branchCode": "RBR",
     "SWIFT Code": "MUNRARBR",
     "Bank Name": "BANCO MUNICIPAL DE ROSARIO",
@@ -755,8 +755,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "AR",
+    "bankCode": "BSUD",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BSUDARBA",
     "Bank Name": "BANCO PATAGONIA S.A.",
@@ -768,8 +768,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAPI",
-    "bankCode": "AR",
+    "bankCode": "BAPI",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BAPIARBA",
     "Bank Name": "BANCO PIANO S.A.",
@@ -781,8 +781,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTFA",
-    "bankCode": "AR",
+    "bankCode": "TTFA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "TTFAARBA",
     "Bank Name": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
@@ -794,8 +794,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAE",
-    "bankCode": "AR",
+    "bankCode": "BSAE",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BSAEARBA",
     "Bank Name": "BANCO SAENZ S.A.",
@@ -807,8 +807,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "AR",
+    "bankCode": "BSCH",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BSCHARBA",
     "Bank Name": "BANCO SANTANDER ARGENTINA S.A.",
@@ -820,8 +820,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "AR",
+    "bankCode": "BSCH",
+    "countryCode": "AR",
     "branchCode": "SSS",
     "SWIFT Code": "BSCHARBASSS",
     "Bank Name": "BANCO SANTANDER ARGENTINA S.A.",
@@ -833,8 +833,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUP",
-    "bankCode": "AR",
+    "bankCode": "BSUP",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BSUPARBA",
     "Bank Name": "BANCO SUPERVIELLE",
@@ -846,8 +846,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUP",
-    "bankCode": "AR",
+    "bankCode": "BSUP",
+    "countryCode": "AR",
     "branchCode": "EXT",
     "SWIFT Code": "BSUPARBAEXT",
     "Bank Name": "BANCO SUPERVIELLE",
@@ -859,8 +859,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUP",
-    "bankCode": "AR",
+    "bankCode": "BSUP",
+    "countryCode": "AR",
     "branchCode": "FIN",
     "SWIFT Code": "BSUPARBAFIN",
     "Bank Name": "BANCO SUPERVIELLE",
@@ -872,8 +872,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUP",
-    "bankCode": "AR",
+    "bankCode": "BSUP",
+    "countryCode": "AR",
     "branchCode": "TIT",
     "SWIFT Code": "BSUPARBATIT",
     "Bank Name": "BANCO SUPERVIELLE",
@@ -885,8 +885,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUP",
-    "bankCode": "AR",
+    "bankCode": "BSUP",
+    "countryCode": "AR",
     "branchCode": "DOC",
     "SWIFT Code": "BSUPARBADOC",
     "Bank Name": "BANCO SUPERVIELLE",
@@ -898,8 +898,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOIB",
-    "bankCode": "AR",
+    "bankCode": "VOIB",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "VOIBARBA",
     "Bank Name": "BANCO VOII S.A.",
@@ -911,8 +911,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AR",
+    "bankCode": "BKCH",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BKCHARBA",
     "Bank Name": "BANK OF CHINA LIMITED SUCURSAL BUENOS AIRES",
@@ -924,8 +924,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIIN",
-    "bankCode": "AR",
+    "bankCode": "BIIN",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BIINARBA",
     "Bank Name": "BIBANK S.A.",
@@ -937,8 +937,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AR",
+    "bankCode": "BNPA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BNPAARBA",
     "Bank Name": "BNP PARIBAS - SUCCURSALE DE BUENOS AIRES",
@@ -950,8 +950,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAVL",
-    "bankCode": "AR",
+    "bankCode": "CAVL",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "CAVLARBA",
     "Bank Name": "CAJA DE VALORES S.A.",
@@ -963,8 +963,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AR",
+    "bankCode": "CITI",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "CITIARBA",
     "Bank Name": "CITIBANK N.A.",
@@ -976,8 +976,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACO",
-    "bankCode": "AR",
+    "bankCode": "BACO",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BACOARBA",
     "Bank Name": "HSBC BANK ARGENTINA SA",
@@ -989,8 +989,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACO",
-    "bankCode": "AR",
+    "bankCode": "BACO",
+    "countryCode": "AR",
     "branchCode": "RCM",
     "SWIFT Code": "BACOARBARCM",
     "Bank Name": "HSBC BANK ARGENTINA SA",
@@ -1002,8 +1002,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AR",
+    "bankCode": "ICBK",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "ICBKARBA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
@@ -1015,8 +1015,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AR",
+    "bankCode": "ICBK",
+    "countryCode": "AR",
     "branchCode": "GCM",
     "SWIFT Code": "ICBKARBAGCM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
@@ -1028,8 +1028,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AR",
+    "bankCode": "ICBK",
+    "countryCode": "AR",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKARBACLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
@@ -1041,8 +1041,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AR",
+    "bankCode": "ICBK",
+    "countryCode": "AR",
     "branchCode": "GCD",
     "SWIFT Code": "ICBKARBAGCD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.U",
@@ -1054,8 +1054,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "AR",
+    "bankCode": "CHAS",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "CHASARBA",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., BUENOS AIRES BRANCH",
@@ -1067,8 +1067,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCFI",
-    "bankCode": "AR",
+    "bankCode": "MCFI",
+    "countryCode": "AR",
     "branchCode": "RBM",
     "SWIFT Code": "MCFIARBM",
     "Bank Name": "MONTEMAR COMPANIA FINANCIERA S.A.",
@@ -1080,8 +1080,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BERA",
-    "bankCode": "AR",
+    "bankCode": "BERA",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BERAARBA",
     "Bank Name": "NUEVO BANCO DE ENTRE RIOS S.A.",
@@ -1093,8 +1093,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSF",
-    "bankCode": "AR",
+    "bankCode": "BPSF",
+    "countryCode": "AR",
     "branchCode": "A86",
     "SWIFT Code": "BPSFARBAA86",
     "Bank Name": "NUEVO BANCO DE SANTA FE S.A.",
@@ -1106,8 +1106,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSF",
-    "bankCode": "AR",
+    "bankCode": "BPSF",
+    "countryCode": "AR",
     "branchCode": "000",
     "SWIFT Code": "BPSFARBA000",
     "Bank Name": "NUEVO BANCO DE SANTA FE S.A.",
@@ -1119,8 +1119,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSF",
-    "bankCode": "AR",
+    "bankCode": "BPSF",
+    "countryCode": "AR",
     "branchCode": "A45",
     "SWIFT Code": "BPSFARBAA45",
     "Bank Name": "NUEVO BANCO DE SANTA FE S.A.",
@@ -1132,8 +1132,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSF",
-    "bankCode": "AR",
+    "bankCode": "BPSF",
+    "countryCode": "AR",
     "branchCode": "500",
     "SWIFT Code": "BPSFARBA500",
     "Bank Name": "NUEVO BANCO DE SANTA FE S.A.",
@@ -1145,8 +1145,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSF",
-    "bankCode": "AR",
+    "bankCode": "BPSF",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BPSFARBA",
     "Bank Name": "NUEVO BANCO DE SANTA FE S.A.",
@@ -1158,8 +1158,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACH",
-    "bankCode": "AR",
+    "bankCode": "BACH",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "BACHARBA",
     "Bank Name": "NUEVO BANCO DEL CHACO S.A.",
@@ -1171,8 +1171,8 @@ const argentina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCF",
-    "bankCode": "AR",
+    "bankCode": "MFCF",
+    "countryCode": "AR",
     "branchCode": "RBA",
     "SWIFT Code": "MFCFARBA",
     "Bank Name": "REBA COMPANIA FINANCIERA",

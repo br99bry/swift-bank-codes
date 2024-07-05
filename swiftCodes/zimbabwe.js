@@ -1,7 +1,7 @@
 const zimbabwe = [
   {
-    "countryCode": "ABTI",
-    "bankCode": "ZW",
+    "bankCode": "ABTI",
+    "countryCode": "ZW",
     "branchCode": "WH2",
     "SWIFT Code": "ABTIZWH2",
     "Bank Name": "ABC STOCKBROKERS (PRIVATE) LIMITED",
@@ -13,8 +13,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRZ",
-    "bankCode": "ZW",
+    "bankCode": "AGRZ",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "AGRZZWHA",
     "Bank Name": "AFC COMMERCIAL BANK LIMITED",
@@ -26,8 +26,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMBZ",
-    "bankCode": "ZW",
+    "bankCode": "FMBZ",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "FMBZZWHX",
     "Bank Name": "AFRICAN BANKING CORP.OF ZIMBABWE LTD.",
@@ -39,8 +39,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFCN",
-    "bankCode": "ZW",
+    "bankCode": "AFCN",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "AFCNZWHA",
     "Bank Name": "AFRICAN CENTURY LIMITED",
@@ -52,8 +52,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBZ",
-    "bankCode": "ZW",
+    "bankCode": "COBZ",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "COBZZWHA",
     "Bank Name": "CBZ BANK LIMITED",
@@ -65,8 +65,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CABS",
-    "bankCode": "ZW",
+    "bankCode": "CABS",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "CABSZWHA",
     "Bank Name": "CENTRAL AFRICA BUILDING SOCIETY",
@@ -78,8 +78,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COCU",
-    "bankCode": "ZW",
+    "bankCode": "COCU",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "COCUZWHA",
     "Bank Name": "COMESA CLEARING HOUSE",
@@ -91,8 +91,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "ZW",
+    "bankCode": "ECOC",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "ECOCZWHX",
     "Bank Name": "ECOBANK ZIMBABWE LIMITED",
@@ -104,8 +104,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMPW",
-    "bankCode": "ZW",
+    "bankCode": "EMPW",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "EMPWZWHX",
     "Bank Name": "EMPOWERBANK LIMITED",
@@ -117,8 +117,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBCP",
-    "bankCode": "ZW",
+    "bankCode": "FBCP",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "FBCPZWHA",
     "Bank Name": "FBC BANK LTD",
@@ -130,8 +130,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCG",
-    "bankCode": "ZW",
+    "bankCode": "FRCG",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "FRCGZWHX",
     "Bank Name": "FIRST CAPITAL BANK IN ASSOCIATION WITH BARCLAYS",
@@ -143,8 +143,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "ZW",
+    "bankCode": "BARC",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "BARCZWHX",
     "Bank Name": "FIRST CAPITAL BANK LIMITED",
@@ -156,8 +156,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBSP",
-    "bankCode": "ZW",
+    "bankCode": "GBSP",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "GBSPZWHA",
     "Bank Name": "GETBUCKS MICROFINANCE BANK LIMITED",
@@ -169,8 +169,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IESP",
-    "bankCode": "ZW",
+    "bankCode": "IESP",
+    "countryCode": "ZW",
     "branchCode": "WH2",
     "SWIFT Code": "IESPZWH2",
     "Bank Name": "IMARA EDWARDS SECURITIES (PRIVATE) LIMITED",
@@ -182,8 +182,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZDBL",
-    "bankCode": "ZW",
+    "bankCode": "ZDBL",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "ZDBLZWHA",
     "Bank Name": "INFRASTRUCTURE DEVELOPMENT BANK OF ZIMBABWE",
@@ -195,8 +195,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDOR",
-    "bankCode": "ZW",
+    "bankCode": "NDOR",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "NDORZWHX",
     "Bank Name": "INNBUCKS MICROBANK LIMITED",
@@ -208,8 +208,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LMLD",
-    "bankCode": "ZW",
+    "bankCode": "LMLD",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "LMLDZWHA",
     "Bank Name": "LION MICROFINANCE LIMITED",
@@ -221,8 +221,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBOZ",
-    "bankCode": "ZW",
+    "bankCode": "MBOZ",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "MBOZZWHA",
     "Bank Name": "METBANK LIMITED",
@@ -234,8 +234,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABY",
-    "bankCode": "ZW",
+    "bankCode": "NABY",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "NABYZWHA",
     "Bank Name": "NATIONAL BUILDING SOCIETY",
@@ -247,8 +247,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCA",
-    "bankCode": "ZW",
+    "bankCode": "MBCA",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "MBCAZWHX",
     "Bank Name": "NEDBANK ZIMBABWE LIMITED",
@@ -260,8 +260,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMBL",
-    "bankCode": "ZW",
+    "bankCode": "NMBL",
+    "countryCode": "ZW",
     "branchCode": "BYO",
     "SWIFT Code": "NMBLZWHXBYO",
     "Bank Name": "NMB BANK LIMITED",
@@ -273,8 +273,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMBL",
-    "bankCode": "ZW",
+    "bankCode": "NMBL",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "NMBLZWHX",
     "Bank Name": "NMB BANK LIMITED",
@@ -286,8 +286,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PWSB",
-    "bankCode": "ZW",
+    "bankCode": "PWSB",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "PWSBZWHX",
     "Bank Name": "PEOPLE'S OWN SAVINGS BANK",
@@ -299,8 +299,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REBZ",
-    "bankCode": "ZW",
+    "bankCode": "REBZ",
+    "countryCode": "ZW",
     "branchCode": "WHB",
     "SWIFT Code": "REBZZWHB",
     "Bank Name": "RESERVE BANK OF ZIMBABWE",
@@ -312,8 +312,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REBZ",
-    "bankCode": "ZW",
+    "bankCode": "REBZ",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "REBZZWHA",
     "Bank Name": "RESERVE BANK OF ZIMBABWE",
@@ -325,8 +325,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REBZ",
-    "bankCode": "ZW",
+    "bankCode": "REBZ",
+    "countryCode": "ZW",
     "branchCode": "WHQ",
     "SWIFT Code": "REBZZWHQ",
     "Bank Name": "RESERVE BANK OF ZIMBABWE",
@@ -338,8 +338,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REBZ",
-    "bankCode": "ZW",
+    "bankCode": "REBZ",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "REBZZWHX",
     "Bank Name": "RESERVE BANK OF ZIMBABWE",
@@ -351,8 +351,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REBZ",
-    "bankCode": "ZW",
+    "bankCode": "REBZ",
+    "countryCode": "ZW",
     "branchCode": "PCH",
     "SWIFT Code": "REBZZWHXPCH",
     "Bank Name": "RESERVE BANK OF ZIMBABWE",
@@ -364,8 +364,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "ZW",
+    "bankCode": "SBIC",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "SBICZWHX",
     "Bank Name": "STANBIC BANK ZIMBABWE LIMITED",
@@ -377,8 +377,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZW",
+    "bankCode": "SCBL",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "SCBLZWHX",
     "Bank Name": "STANDARD CHARTERED BANK ZIMBABWE LIMITED",
@@ -390,8 +390,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "ZW",
+    "bankCode": "SCBL",
+    "countryCode": "ZW",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLZWHXSSU",
     "Bank Name": "STANDARD CHARTERED BANK ZIMBABWE LIMITED",
@@ -403,8 +403,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBL",
-    "bankCode": "ZW",
+    "bankCode": "STBL",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "STBLZWHX",
     "Bank Name": "STEWARD BANK LIMITED",
@@ -416,8 +416,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMFB",
-    "bankCode": "ZW",
+    "bankCode": "SMFB",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "SMFBZWHA",
     "Bank Name": "SUCCESS MICROFINANCE BANK LIMITED",
@@ -429,8 +429,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBCO",
-    "bankCode": "ZW",
+    "bankCode": "ZBCO",
+    "countryCode": "ZW",
     "branchCode": "BYO",
     "SWIFT Code": "ZBCOZWHXBYO",
     "Bank Name": "ZB BANK LTD",
@@ -442,8 +442,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBCO",
-    "bankCode": "ZW",
+    "bankCode": "ZBCO",
+    "countryCode": "ZW",
     "branchCode": "WHX",
     "SWIFT Code": "ZBCOZWHX",
     "Bank Name": "ZB BANK LTD",
@@ -455,8 +455,8 @@ const zimbabwe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZWMF",
-    "bankCode": "ZW",
+    "bankCode": "ZWMF",
+    "countryCode": "ZW",
     "branchCode": "WHA",
     "SWIFT Code": "ZWMFZWHA",
     "Bank Name": "ZIMBABWE WOMEN'S MICROFINANCE BANK LIMITED",

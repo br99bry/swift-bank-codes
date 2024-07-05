@@ -1,7 +1,7 @@
 const malta = [
   {
-    "countryCode": "FEMA",
-    "bankCode": "MT",
+    "bankCode": "FEMA",
+    "countryCode": "MT",
     "branchCode": "DCA",
     "SWIFT Code": "FEMAMTMADCA",
     "Bank Name": "MULTITUDE BANK P.L.C.",
@@ -13,8 +13,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXD",
-    "bankCode": "MT",
+    "bankCode": "NEXD",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "NEXDMTM2",
     "Bank Name": "NEXTMARKETS TRADING LTD",
@@ -26,8 +26,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOCB",
-    "bankCode": "MT",
+    "bankCode": "VOCB",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "VOCBMTMT",
     "Bank Name": "NOVUM BANK LTD",
@@ -39,8 +39,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFTE",
-    "bankCode": "MT",
+    "bankCode": "CFTE",
+    "countryCode": "MT",
     "branchCode": "TM3",
     "SWIFT Code": "CFTEMTM3",
     "Bank Name": "OPENPAYD FINANCIAL SERVICES MALTA LTD",
@@ -52,8 +52,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAPY",
-    "bankCode": "MT",
+    "bankCode": "PAPY",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "PAPYMTMT",
     "Bank Name": "PAPAYA LTD",
@@ -66,8 +66,8 @@ const malta = [
   },
   {},
   {
-    "countryCode": "REVC",
-    "bankCode": "MT",
+    "bankCode": "REVC",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "REVCMTM2",
     "Bank Name": "REPLICA SICAV PLC",
@@ -79,8 +79,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMMN",
-    "bankCode": "MT",
+    "bankCode": "RMMN",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "RMMNMTM2",
     "Bank Name": "RMB MANAGEMENT LIMITED",
@@ -92,8 +92,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBMT",
-    "bankCode": "MT",
+    "bankCode": "SBMT",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "SBMTMTMT",
     "Bank Name": "SPARKASSE BANK MALTA PLC",
@@ -105,8 +105,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIMV",
-    "bankCode": "MT",
+    "bankCode": "TIMV",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "TIMVMTM2",
     "Bank Name": "TIMBERLAND INVEST LIMITED",
@@ -118,8 +118,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPML",
-    "bankCode": "MT",
+    "bankCode": "TPML",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "TPMLMTMT",
     "Bank Name": "TRANSACT PAYMENTS MALTA LTD",
@@ -132,8 +132,8 @@ const malta = [
   },
   {},
   {
-    "countryCode": "TRPE",
-    "bankCode": "MT",
+    "bankCode": "TRPE",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "TRPEMTMT",
     "Bank Name": "TRUEVO PAYMENTS LTD",
@@ -145,8 +145,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRUM",
-    "bankCode": "MT",
+    "bankCode": "TRUM",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "TRUMMTM2",
     "Bank Name": "TRUMIA LIMITED",
@@ -159,8 +159,8 @@ const malta = [
   },
   {},
   {
-    "countryCode": "VPAY",
-    "bankCode": "MT",
+    "bankCode": "VPAY",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "VPAYMTM2",
     "Bank Name": "VIVA PAYMENT SERVICES SINGLE MEMBER S.A. MALTA BRANCH",
@@ -172,8 +172,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COPX",
-    "bankCode": "MT",
+    "bankCode": "COPX",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "COPXMTMT",
     "Bank Name": "W AND J COPPINI AND CO",
@@ -185,8 +185,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WCOR",
-    "bankCode": "MT",
+    "bankCode": "WCOR",
+    "countryCode": "MT",
     "branchCode": "TMQ",
     "SWIFT Code": "WCORMTMQ",
     "Bank Name": "WEBCOR INVESTMENTS LTD",
@@ -198,8 +198,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITHO",
-    "bankCode": "MT",
+    "bankCode": "ITHO",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "ITHOMTM2",
     "Bank Name": "A2A INTERNATIONAL HOLDINGS LIMITED",
@@ -211,8 +211,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "MT",
+    "bankCode": "AKBK",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "AKBKMTMT",
     "Bank Name": "AKBANK T.A.S. (MALTA BRANCH)",
@@ -224,8 +224,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APAH",
-    "bankCode": "MT",
+    "bankCode": "APAH",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "APAHMTMT",
     "Bank Name": "ALPHA FX EUROPE LIMITED",
@@ -237,8 +237,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APAH",
-    "bankCode": "MT",
+    "bankCode": "APAH",
+    "countryCode": "MT",
     "branchCode": "TMV",
     "SWIFT Code": "APAHMTMV",
     "Bank Name": "ALPHA FX EUROPE LIMITED",
@@ -250,8 +250,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANFV",
-    "bankCode": "MT",
+    "bankCode": "ANFV",
+    "countryCode": "MT",
     "branchCode": "TMM",
     "SWIFT Code": "ANFVMTMM",
     "Bank Name": "ANDARIA FINANCIAL SERVICES LIMITED",
@@ -263,8 +263,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APSB",
-    "bankCode": "MT",
+    "bankCode": "APSB",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "APSBMTMT",
     "Bank Name": "APS BANK PLC.",
@@ -276,8 +276,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLLG",
-    "bankCode": "MT",
+    "bankCode": "BLLG",
+    "countryCode": "MT",
     "branchCode": "TMB",
     "SWIFT Code": "BLLGMTMB",
     "Bank Name": "BALLINGER EU LIMITED",
@@ -289,8 +289,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLLG",
-    "bankCode": "MT",
+    "bankCode": "BLLG",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "BLLGMTMT",
     "Bank Name": "BALLINGER MARKETS LTD.",
@@ -302,8 +302,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VALL",
-    "bankCode": "MT",
+    "bankCode": "VALL",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "VALLMTMT",
     "Bank Name": "BANK OF VALLETTA P.L.C.",
@@ -315,8 +315,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIF",
-    "bankCode": "MT",
+    "bankCode": "BNIF",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "BNIFMTMT",
     "Bank Name": "BNF BANK PLC (FORMERLY BANIF BANK MALTA)",
@@ -328,8 +328,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MALT",
-    "bankCode": "MT",
+    "bankCode": "MALT",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "MALTMTMT",
     "Bank Name": "CENTRAL BANK OF MALTA",
@@ -341,8 +341,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MALT",
-    "bankCode": "MT",
+    "bankCode": "MALT",
+    "countryCode": "MT",
     "branchCode": "ECM",
     "SWIFT Code": "MALTMTMTECM",
     "Bank Name": "CENTRAL BANK OF MALTA",
@@ -354,8 +354,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MALT",
-    "bankCode": "MT",
+    "bankCode": "MALT",
+    "countryCode": "MT",
     "branchCode": "GCP",
     "SWIFT Code": "MALTMTMTGCP",
     "Bank Name": "CENTRAL BANK OF MALTA",
@@ -367,8 +367,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "MT",
+    "bankCode": "CITC",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "CITCMTMT",
     "Bank Name": "CITCO CUSTODY LIMITED",
@@ -380,8 +380,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBP",
-    "bankCode": "MT",
+    "bankCode": "TGBP",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "TGBPMTMT",
     "Bank Name": "CONVERA MALTA FINANCIAL LIMITED",
@@ -393,8 +393,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBHL",
-    "bankCode": "MT",
+    "bankCode": "FBHL",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "FBHLMTMT",
     "Bank Name": "CREDIT EUROPE BANK N.V. MALTA BRANCH",
@@ -406,8 +406,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRXB",
-    "bankCode": "MT",
+    "bankCode": "CRXB",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "CRXBMTMT",
     "Bank Name": "CREDORAX BANK LIMITED",
@@ -419,8 +419,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIEU",
-    "bankCode": "MT",
+    "bankCode": "DIEU",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "DIEUMTMT",
     "Bank Name": "DERIV INVESTMENTS (EUROPE) LIMITED",
@@ -432,8 +432,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMB",
-    "bankCode": "MT",
+    "bankCode": "ECMB",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "ECMBMTMT",
     "Bank Name": "ECCM BANK PLC",
@@ -445,8 +445,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMOE",
-    "bankCode": "MT",
+    "bankCode": "EMOE",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "EMOEMTM2",
     "Bank Name": "EMONEY PLC",
@@ -458,8 +458,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMON",
-    "bankCode": "MT",
+    "bankCode": "EMON",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "EMONMTM2",
     "Bank Name": "EMONEY PLC",
@@ -471,8 +471,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMSY",
-    "bankCode": "MT",
+    "bankCode": "EMSY",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "EMSYMTMT",
     "Bank Name": "EMP SYSTEMS LIMITED",
@@ -484,8 +484,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDMB",
-    "bankCode": "MT",
+    "bankCode": "EDMB",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "EDMBMTM2",
     "Bank Name": "EUROPEAN DEPOSITARY BANK SA MALTA BRANCH",
@@ -497,8 +497,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVNE",
-    "bankCode": "MT",
+    "bankCode": "EVNE",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "EVNEMTM2",
     "Bank Name": "EVEREST NETWORK LTD.",
@@ -510,8 +510,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCMF",
-    "bankCode": "MT",
+    "bankCode": "FCMF",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "FCMFMTMT",
     "Bank Name": "FCM BANK LIMITED",
@@ -523,8 +523,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIMB",
-    "bankCode": "MT",
+    "bankCode": "FIMB",
+    "countryCode": "MT",
     "branchCode": "TM3",
     "SWIFT Code": "FIMBMTM3",
     "Bank Name": "FIMBANK PLC",
@@ -536,8 +536,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYMX",
-    "bankCode": "MT",
+    "bankCode": "PYMX",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "PYMXMTMT",
     "Bank Name": "FINANCE INCORPORATED LIMITED",
@@ -549,8 +549,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYMX",
-    "bankCode": "MT",
+    "bankCode": "PYMX",
+    "countryCode": "MT",
     "branchCode": "TMA",
     "SWIFT Code": "PYMXMTMA",
     "Bank Name": "FINANCE INCORPORATED LIMITED",
@@ -562,8 +562,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYMX",
-    "bankCode": "MT",
+    "bankCode": "PYMX",
+    "countryCode": "MT",
     "branchCode": "MAL",
     "SWIFT Code": "PYMXMTMTMAL",
     "Bank Name": "FINANCE INCORPORATED LIMITED",
@@ -575,8 +575,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIND",
-    "bankCode": "MT",
+    "bankCode": "FIND",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "FINDMTMT",
     "Bank Name": "FINDUCTIVE LTD.",
@@ -588,8 +588,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "MT",
+    "bankCode": "TGBA",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "TGBAMTMT",
     "Bank Name": "GARANTI BANK, MALTA BRANCH",
@@ -601,8 +601,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSES",
-    "bankCode": "MT",
+    "bankCode": "GSES",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "GSESMTMT",
     "Bank Name": "GLOBAL SHARES EXECUTION SERVICES LIMITED",
@@ -614,8 +614,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMEB",
-    "bankCode": "MT",
+    "bankCode": "MMEB",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "MMEBMTMT",
     "Bank Name": "HSBC BANK MALTA P.L.C.",
@@ -627,8 +627,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIGB",
-    "bankCode": "MT",
+    "bankCode": "IIGB",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "IIGBMTMT",
     "Bank Name": "IIG BANK (MALTA) LTD",
@@ -640,8 +640,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICDR",
-    "bankCode": "MT",
+    "bankCode": "ICDR",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "ICDRMTMT",
     "Bank Name": "INSIGNIA CARDS LIMITED",
@@ -653,8 +653,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IZOL",
-    "bankCode": "MT",
+    "bankCode": "IZOL",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "IZOLMTMT",
     "Bank Name": "IZOLA BANK PLC",
@@ -666,8 +666,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGIT",
-    "bankCode": "MT",
+    "bankCode": "KGIT",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "KGITMTMT",
     "Bank Name": "KAIZEN GAMING INTERNATIONAL LIMITED",
@@ -679,8 +679,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRK",
-    "bankCode": "MT",
+    "bankCode": "AGRK",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "AGRKMTMT",
     "Bank Name": "LIDION BANK PLC",
@@ -692,8 +692,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBMA",
-    "bankCode": "MT",
+    "bankCode": "LBMA",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "LBMAMTMT",
     "Bank Name": "LOMBARD BANK MALTA PLC",
@@ -705,8 +705,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XMAL",
-    "bankCode": "MT",
+    "bankCode": "XMAL",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "XMALMTMT",
     "Bank Name": "MALTA STOCK EXCHANGE",
@@ -718,8 +718,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBWM",
-    "bankCode": "MT",
+    "bankCode": "MBWM",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "MBWMMTMT",
     "Bank Name": "MEDIRECT BANK (MALTA) PLC",
@@ -731,8 +731,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBWM",
-    "bankCode": "MT",
+    "bankCode": "MBWM",
+    "countryCode": "MT",
     "branchCode": "010",
     "SWIFT Code": "MBWMMTMT010",
     "Bank Name": "MEDIRECT BANK (MALTA) PLC",
@@ -744,8 +744,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCB",
-    "bankCode": "MT",
+    "bankCode": "MFCB",
+    "countryCode": "MT",
     "branchCode": "TMS",
     "SWIFT Code": "MFCBMTMS",
     "Bank Name": "MERKANTI BANK LIMITED",
@@ -757,8 +757,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFMA",
-    "bankCode": "MT",
+    "bankCode": "MFMA",
+    "countryCode": "MT",
     "branchCode": "TM2",
     "SWIFT Code": "MFMAMTM2",
     "Bank Name": "MIFINITY MALTA LIMITED",
@@ -770,8 +770,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCUH",
-    "bankCode": "MT",
+    "bankCode": "CCUH",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "CCUHMTMT",
     "Bank Name": "MONEYBASE",
@@ -783,8 +783,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCUH",
-    "bankCode": "MT",
+    "bankCode": "CCUH",
+    "countryCode": "MT",
     "branchCode": "MBB",
     "SWIFT Code": "CCUHMTMTMBB",
     "Bank Name": "MONEYBASE",
@@ -796,8 +796,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTCC",
-    "bankCode": "MT",
+    "bankCode": "MTCC",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "MTCCMTMT",
     "Bank Name": "MTACC LIMITED",
@@ -809,8 +809,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTCC",
-    "bankCode": "MT",
+    "bankCode": "MTCC",
+    "countryCode": "MT",
     "branchCode": "STJ",
     "SWIFT Code": "MTCCMTMTSTJ",
     "Bank Name": "MTACC LIMITED",
@@ -822,8 +822,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEMA",
-    "bankCode": "MT",
+    "bankCode": "FEMA",
+    "countryCode": "MT",
     "branchCode": "TMA",
     "SWIFT Code": "FEMAMTMA",
     "Bank Name": "MULTITUDE BANK P.L.C.",
@@ -835,8 +835,8 @@ const malta = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEMA",
-    "bankCode": "MT",
+    "bankCode": "FEMA",
+    "countryCode": "MT",
     "branchCode": "TMT",
     "SWIFT Code": "FEMAMTMT",
     "Bank Name": "MULTITUDE BANK P.L.C.",

@@ -1,7 +1,7 @@
 const nepal = [
   {
-    "countryCode": "ADBL",
-    "bankCode": "NP",
+    "bankCode": "ADBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "ADBLNPKA",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK LTD",
@@ -13,8 +13,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTZN",
-    "bankCode": "NP",
+    "bankCode": "CTZN",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "CTZNNPKA",
     "Bank Name": "CITIZENS BANK INTERNATIONAL LIMITED",
@@ -26,8 +26,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVBL",
-    "bankCode": "NP",
+    "bankCode": "EVBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "EVBLNPKA",
     "Bank Name": "EVEREST BANK LTD.",
@@ -39,8 +39,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLBB",
-    "bankCode": "NP",
+    "bankCode": "GLBB",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "GLBBNPKA",
     "Bank Name": "GLOBAL IME BANK LIMITED",
@@ -52,8 +52,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIMA",
-    "bankCode": "NP",
+    "bankCode": "HIMA",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "HIMANPKA",
     "Bank Name": "HIMALAYAN BANK LTD.",
@@ -65,8 +65,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KMBL",
-    "bankCode": "NP",
+    "bankCode": "KMBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "KMBLNPKA",
     "Bank Name": "KUMARI BANK LTD",
@@ -78,8 +78,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LXBL",
-    "bankCode": "NP",
+    "bankCode": "LXBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "LXBLNPKA",
     "Bank Name": "LAXMI SUNRISE BANK LIMITED",
@@ -91,8 +91,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLN",
-    "bankCode": "NP",
+    "bankCode": "MBLN",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "MBLNNPKA",
     "Bank Name": "MACHHAPUCHCHHRE BANK LIMITED",
@@ -104,8 +104,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NARB",
-    "bankCode": "NP",
+    "bankCode": "NARB",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NARBNPKA",
     "Bank Name": "NABIL BANK LIMITED",
@@ -117,8 +117,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEBL",
-    "bankCode": "NP",
+    "bankCode": "NEBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NEBLNPKA",
     "Bank Name": "NEPAL BANK LIMITED",
@@ -130,8 +130,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NINF",
-    "bankCode": "NP",
+    "bankCode": "NINF",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NINFNPKA",
     "Bank Name": "NEPAL INFRASTRUCTURE BANK LTD",
@@ -143,8 +143,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBL",
-    "bankCode": "NP",
+    "bankCode": "NIBL",
+    "countryCode": "NP",
     "branchCode": "PKT",
     "SWIFT Code": "NIBLNPKT",
     "Bank Name": "NEPAL INVESTMENT MEGA BANK LTD.",
@@ -156,8 +156,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBL",
-    "bankCode": "NP",
+    "bankCode": "NRBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NRBLNPKA",
     "Bank Name": "NEPAL RASTRA BANK",
@@ -169,8 +169,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBL",
-    "bankCode": "NP",
+    "bankCode": "NRBL",
+    "countryCode": "NP",
     "branchCode": "FED",
     "SWIFT Code": "NRBLNPKAFED",
     "Bank Name": "NEPAL RASTRA BANK",
@@ -182,8 +182,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSBI",
-    "bankCode": "NP",
+    "bankCode": "NSBI",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NSBINPKA",
     "Bank Name": "NEPAL SBI BANK LTD",
@@ -195,8 +195,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSBI",
-    "bankCode": "NP",
+    "bankCode": "NSBI",
+    "countryCode": "NP",
     "branchCode": "001",
     "SWIFT Code": "NSBINPKA001",
     "Bank Name": "NEPAL SBI BANK LTD",
@@ -208,8 +208,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NICE",
-    "bankCode": "NP",
+    "bankCode": "NICE",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NICENPKA",
     "Bank Name": "NIC ASIA BANK LIMITED",
@@ -221,8 +221,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMBB",
-    "bankCode": "NP",
+    "bankCode": "NMBB",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "NMBBNPKA",
     "Bank Name": "NMB BANK LTD",
@@ -234,8 +234,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRVU",
-    "bankCode": "NP",
+    "bankCode": "PRVU",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "PRVUNPKA",
     "Bank Name": "PRABHU BANK LTD",
@@ -247,8 +247,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBL",
-    "bankCode": "NP",
+    "bankCode": "PCBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "PCBLNPKA",
     "Bank Name": "PRIME COMMERCIAL BANK LTD",
@@ -260,8 +260,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBBA",
-    "bankCode": "NP",
+    "bankCode": "RBBA",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "RBBANPKA",
     "Bank Name": "RASTRIYA BANIJYA BANK LTD.",
@@ -273,8 +273,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNMA",
-    "bankCode": "NP",
+    "bankCode": "SNMA",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "SNMANPKA",
     "Bank Name": "SANIMA BANK LIMITED",
@@ -286,8 +286,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIDD",
-    "bankCode": "NP",
+    "bankCode": "SIDD",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "SIDDNPKA",
     "Bank Name": "SIDDHARTHA BANK LIMITED",
@@ -299,8 +299,8 @@ const nepal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "NP",
+    "bankCode": "SCBL",
+    "countryCode": "NP",
     "branchCode": "PKA",
     "SWIFT Code": "SCBLNPKA",
     "Bank Name": "STANDARD CHARTERED BANK NEPAL LIMITED",

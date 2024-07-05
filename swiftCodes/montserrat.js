@@ -1,7 +1,7 @@
 const montserrat = [
   {
-    "countryCode": "BKMO",
-    "bankCode": "MS",
+    "bankCode": "BKMO",
+    "countryCode": "MS",
     "branchCode": "SMS",
     "SWIFT Code": "BKMOMSMS",
     "Bank Name": "BANK OF MONTSERRAT LIMITED",

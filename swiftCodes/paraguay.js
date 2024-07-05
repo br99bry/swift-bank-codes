@@ -1,7 +1,7 @@
 const paraguay = [
   {
-    "countryCode": "BNIT",
-    "bankCode": "PY",
+    "bankCode": "BNIT",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "BNITPYPA",
     "Bank Name": "BANCO ATLAS S.A.",
@@ -13,8 +13,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMAM",
-    "bankCode": "PY",
+    "bankCode": "AMAM",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "AMAMPYPA",
     "Bank Name": "BANCO BASA S.A.",
@@ -26,8 +26,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPA",
-    "bankCode": "PY",
+    "bankCode": "BCPA",
+    "countryCode": "PY",
     "branchCode": "YPB",
     "SWIFT Code": "BCPAPYPB",
     "Bank Name": "BANCO CENTRAL DEL PARAGUAY",
@@ -39,8 +39,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPA",
-    "bankCode": "PY",
+    "bankCode": "BCPA",
+    "countryCode": "PY",
     "branchCode": "YPD",
     "SWIFT Code": "BCPAPYPD",
     "Bank Name": "BANCO CENTRAL DEL PARAGUAY",
@@ -52,8 +52,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPA",
-    "bankCode": "PY",
+    "bankCode": "BCPA",
+    "countryCode": "PY",
     "branchCode": "YPR",
     "SWIFT Code": "BCPAPYPR",
     "Bank Name": "BANCO CENTRAL DEL PARAGUAY",
@@ -65,8 +65,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPA",
-    "bankCode": "PY",
+    "bankCode": "BCPA",
+    "countryCode": "PY",
     "branchCode": "YPX",
     "SWIFT Code": "BCPAPYPX",
     "Bank Name": "BANCO CENTRAL DEL PARAGUAY",
@@ -78,8 +78,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPA",
-    "bankCode": "PY",
+    "bankCode": "BCPA",
+    "countryCode": "PY",
     "branchCode": "GON",
     "SWIFT Code": "BCPAPYPXGON",
     "Bank Name": "BANCO CENTRAL DEL PARAGUAY",
@@ -91,8 +91,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCNA",
-    "bankCode": "PY",
+    "bankCode": "BCNA",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "BCNAPYPA",
     "Bank Name": "BANCO CONTINENTAL SAECA",
@@ -104,8 +104,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "PY",
+    "bankCode": "NACN",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "NACNPYPA",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -117,8 +117,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "PY",
+    "bankCode": "NACN",
+    "countryCode": "PY",
     "branchCode": "0PC",
     "SWIFT Code": "NACNPYPA0PC",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -130,8 +130,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "PY",
+    "bankCode": "NACN",
+    "countryCode": "PY",
     "branchCode": "0PE",
     "SWIFT Code": "NACNPYPA0PE",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -143,8 +143,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "PY",
+    "bankCode": "NACN",
+    "countryCode": "PY",
     "branchCode": "0P3",
     "SWIFT Code": "NACNPYPA0P3",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -156,8 +156,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "PY",
+    "bankCode": "BRAS",
+    "countryCode": "PY",
     "branchCode": "YPX",
     "SWIFT Code": "BRASPYPX",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -169,8 +169,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAMI",
-    "bankCode": "PY",
+    "bankCode": "FAMI",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "FAMIPYPA",
     "Bank Name": "BANCO FAMILIAR S.A.E.C.A.",
@@ -182,8 +182,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGNB",
-    "bankCode": "PY",
+    "bankCode": "BGNB",
+    "countryCode": "PY",
     "branchCode": "YPX",
     "SWIFT Code": "BGNBPYPX",
     "Bank Name": "BANCO GNB PARAGUAY S.A.",
@@ -195,8 +195,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBBR",
-    "bankCode": "PY",
+    "bankCode": "UBBR",
+    "countryCode": "PY",
     "branchCode": "TSS",
     "SWIFT Code": "UBBRPYPXTSS",
     "Bank Name": "BANCO ITAU PARAGUAY S.A.",
@@ -208,8 +208,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBBR",
-    "bankCode": "PY",
+    "bankCode": "UBBR",
+    "countryCode": "PY",
     "branchCode": "YPX",
     "SWIFT Code": "UBBRPYPX",
     "Bank Name": "BANCO ITAU PARAGUAY S.A.",
@@ -221,8 +221,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNFA",
-    "bankCode": "PY",
+    "bankCode": "BNFA",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "BNFAPYPA",
     "Bank Name": "BANCO NACIONAL DE FOMENTO",
@@ -234,8 +234,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOP",
-    "bankCode": "PY",
+    "bankCode": "BCOP",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "BCOPPYPA",
     "Bank Name": "BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)",
@@ -247,8 +247,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BISA",
-    "bankCode": "PY",
+    "bankCode": "BISA",
+    "countryCode": "PY",
     "branchCode": "YPE",
     "SWIFT Code": "BISAPYPE",
     "Bank Name": "BANCO RIO SAECA",
@@ -260,8 +260,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIPJ",
-    "bankCode": "PY",
+    "bankCode": "FIPJ",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "FIPJPYPA",
     "Bank Name": "FINANCIERA PARAGUAYO JAPONESA SAECA",
@@ -273,8 +273,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMA",
-    "bankCode": "PY",
+    "bankCode": "COMA",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "COMAPYPA",
     "Bank Name": "FINANCIERA UENO S.A.E.C.A.",
@@ -286,8 +286,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOPL",
-    "bankCode": "PY",
+    "bankCode": "FOPL",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "FOPLPYPA",
     "Bank Name": "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
@@ -299,8 +299,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIFA",
-    "bankCode": "PY",
+    "bankCode": "IIFA",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "IIFAPYPA",
     "Bank Name": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (INTERFISA BANCO)",
@@ -312,8 +312,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLRA",
-    "bankCode": "PY",
+    "bankCode": "SLRA",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "SLRAPYPA",
     "Bank Name": "SOLAR BANCO S.A.E.",
@@ -325,8 +325,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUD",
-    "bankCode": "PY",
+    "bankCode": "BSUD",
+    "countryCode": "PY",
     "branchCode": "YPX",
     "SWIFT Code": "BSUDPYPX",
     "Bank Name": "SUDAMERIS BANK S.A.E.C.A.",
@@ -338,8 +338,8 @@ const paraguay = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VISC",
-    "bankCode": "PY",
+    "bankCode": "VISC",
+    "countryCode": "PY",
     "branchCode": "YPA",
     "SWIFT Code": "VISCPYPA",
     "Bank Name": "VISION BANCO S.A.E.C.A.",

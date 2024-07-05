@@ -1,7 +1,7 @@
 const mali = [
   {
-    "countryCode": "AFRI",
-    "bankCode": "ML",
+    "bankCode": "AFRI",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "AFRIMLBA",
     "Bank Name": "BANK OF AFRICA - MALI",
@@ -13,8 +13,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "ML",
+    "bankCode": "AFRI",
+    "countryCode": "ML",
     "branchCode": "022",
     "SWIFT Code": "AFRIMLBA022",
     "Bank Name": "BANK OF AFRICA - MALI",
@@ -26,8 +26,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "ML",
+    "bankCode": "BCAO",
+    "countryCode": "ML",
     "branchCode": "MOP",
     "SWIFT Code": "BCAOMLBAMOP",
     "Bank Name": "BANQUE (MALI) CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
@@ -39,8 +39,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATML",
-    "bankCode": "ML",
+    "bankCode": "ATML",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "ATMLMLBA",
     "Bank Name": "BANQUE ATLANTIQUE MALI",
@@ -52,8 +52,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "ML",
+    "bankCode": "BCAO",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BCAOMLBA",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -65,8 +65,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "ML",
+    "bankCode": "BCAO",
+    "countryCode": "ML",
     "branchCode": "SIK",
     "SWIFT Code": "BCAOMLBASIK",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -78,8 +78,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALIM",
-    "bankCode": "ML",
+    "bankCode": "ALIM",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "ALIMMLBA",
     "Bank Name": "BANQUE COMMERCIALE DU SAHEL SA",
@@ -91,8 +91,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDMA",
-    "bankCode": "ML",
+    "bankCode": "BDMA",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BDMAMLBA",
     "Bank Name": "BANQUE DE DEVELOPPEMENT DU MALI - S.A.",
@@ -104,8 +104,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIPM",
-    "bankCode": "ML",
+    "bankCode": "BIPM",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BIPMMLBA",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE MALI SA.",
@@ -117,8 +117,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSM",
-    "bankCode": "ML",
+    "bankCode": "BMSM",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BMSMMLBA",
     "Bank Name": "BANQUE MALIENNE DE SOLIDARITE",
@@ -130,8 +130,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAD",
-    "bankCode": "ML",
+    "bankCode": "BNAD",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BNADMLBA",
     "Bank Name": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
@@ -143,8 +143,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "ML",
+    "bankCode": "BSAH",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BSAHMLBA",
     "Bank Name": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (MALI) S.A.",
@@ -156,8 +156,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLI",
-    "bankCode": "ML",
+    "bankCode": "COLI",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "COLIMLBA",
     "Bank Name": "BCI-MALI",
@@ -169,8 +169,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "ML",
+    "bankCode": "BICI",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "BICIMLBA",
     "Bank Name": "BICIM",
@@ -182,8 +182,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "ML",
+    "bankCode": "CORI",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "CORIMLBA",
     "Bank Name": "CORIS BANK INTERNATIONAL",
@@ -196,8 +196,8 @@ const mali = [
   },
   {},
   {
-    "countryCode": "ORBK",
-    "bankCode": "ML",
+    "bankCode": "ORBK",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "ORBKMLBA",
     "Bank Name": "ORABANK MALI",
@@ -209,8 +209,8 @@ const mali = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "ML",
+    "bankCode": "UNAF",
+    "countryCode": "ML",
     "branchCode": "LBA",
     "SWIFT Code": "UNAFMLBA",
     "Bank Name": "UNITED BANK FOR AFRICA MALI SA",

@@ -1,7 +1,7 @@
 const tajikistan = [
   {
-    "countryCode": "ACTJ",
-    "bankCode": "TJ",
+    "bankCode": "ACTJ",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "ACTJTJ22",
     "Bank Name": "ACCESSBANK TAJIKISTAN",
@@ -14,8 +14,8 @@ const tajikistan = [
   },
   {},
   {
-    "countryCode": "ARUN",
-    "bankCode": "TJ",
+    "bankCode": "ARUN",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "ARUNTJ22",
     "Bank Name": "ARGUN",
@@ -27,8 +27,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRTA",
-    "bankCode": "TJ",
+    "bankCode": "BRTA",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "BRTATJ22",
     "Bank Name": "CJSC 'BONKI RUSHDI TOJIKISTON'",
@@ -40,8 +40,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KZKO",
-    "bankCode": "TJ",
+    "bankCode": "KZKO",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "KZKOTJ22",
     "Bank Name": "CJSC ACTIV BANK",
@@ -53,8 +53,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARVD",
-    "bankCode": "TJ",
+    "bankCode": "ARVD",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "ARVDTJ22",
     "Bank Name": "CJSC BANK ARVAND",
@@ -66,8 +66,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBTK",
-    "bankCode": "TJ",
+    "bankCode": "IBTK",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "IBTKTJ22",
     "Bank Name": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
@@ -79,8 +79,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABW",
-    "bankCode": "TJ",
+    "bankCode": "NABW",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "NABWTJ22",
     "Bank Name": "CJSC MDO 'IMON INTERNATIONAL'",
@@ -92,8 +92,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUMO",
-    "bankCode": "TJ",
+    "bankCode": "HUMO",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "HUMOTJ22",
     "Bank Name": "CJSC MICROCREDIT DEPOSIT ORGANIZATION HUMO",
@@ -105,8 +105,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPRB",
-    "bankCode": "TJ",
+    "bankCode": "SPRB",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "SPRBTJ22",
     "Bank Name": "CJSC SPITAMEN BANK",
@@ -118,8 +118,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCMD",
-    "bankCode": "TJ",
+    "bankCode": "LCMD",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "LCMDTJ22",
     "Bank Name": "CLOSED JOINT STOCK COMPANY DUSHANBE CITY BANK",
@@ -131,8 +131,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EJSA",
-    "bankCode": "TJ",
+    "bankCode": "EJSA",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "EJSATJ22",
     "Bank Name": "ESKHATA BANK OPENED JOINT STOCK COMPANY",
@@ -144,8 +144,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDMA",
-    "bankCode": "TJ",
+    "bankCode": "MDMA",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "MDMATJ22",
     "Bank Name": "LIMITED LIABILITY COMPANY MICROCREDIT DEPOSIT ORGANIZATION 'MATIN' (LLC MDO MATIN)",
@@ -157,8 +157,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCOC",
-    "bankCode": "TJ",
+    "bankCode": "LCOC",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "LCOCTJ22",
     "Bank Name": "LIMITED LIABILITY COMPANY NONBANKING CREDIT  ORGANIZATION 'VASL'",
@@ -171,8 +171,8 @@ const tajikistan = [
   },
   {},
   {
-    "countryCode": "LMMS",
-    "bankCode": "TJ",
+    "bankCode": "LMMS",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "LMMSTJ22",
     "Bank Name": "LLC MDO EMIN SARMOYA",
@@ -184,8 +184,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRVT",
-    "bankCode": "TJ",
+    "bankCode": "SRVT",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "SRVTTJ22",
     "Bank Name": "LLC MDO SARVAT",
@@ -197,8 +197,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRKT",
-    "bankCode": "TJ",
+    "bankCode": "BRKT",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "BRKTTJ22",
     "Bank Name": "LLC MICROCREDIT DEPOSIT ORGANIZATIO N BARAKAT",
@@ -210,8 +210,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATJ",
-    "bankCode": "TJ",
+    "bankCode": "NATJ",
+    "countryCode": "TJ",
     "branchCode": "FIN",
     "SWIFT Code": "NATJTJ22FIN",
     "Bank Name": "NATIONAL BANK OF TAJIKISTAN",
@@ -223,8 +223,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATJ",
-    "bankCode": "TJ",
+    "bankCode": "NATJ",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "NATJTJ22",
     "Bank Name": "NATIONAL BANK OF TAJIKISTAN",
@@ -236,8 +236,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBTF",
-    "bankCode": "TJ",
+    "bankCode": "CBTF",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "CBTFTJ22",
     "Bank Name": "OJSC COMMERCE BANK OF TAJIKISTAN",
@@ -249,8 +249,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOHB",
-    "bankCode": "TJ",
+    "bankCode": "SOHB",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "SOHBTJ22",
     "Bank Name": "OPEN JOINT-STOCK COMPANY 'TAWHIDBANK'",
@@ -262,8 +262,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTJK",
-    "bankCode": "TJ",
+    "bankCode": "OTJK",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "OTJKTJ22",
     "Bank Name": "ORIENBANK, OPEN JOINT STOCK COMPANY",
@@ -275,8 +275,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASSE",
-    "bankCode": "TJ",
+    "bankCode": "ASSE",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "ASSETJ22",
     "Bank Name": "STATE UNITARY ENTERPRISE SAVINGS BANK OF THE REPUBLIC OF TAJIKISTAN 'AMONATBONK' (SUE SB RT 'AMONATBONK')",
@@ -288,8 +288,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUTL",
-    "bankCode": "TJ",
+    "bankCode": "SUTL",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "SUTLTJ22",
     "Bank Name": "STATE UNITARY ENTERPRISED INDUSTRIAL AND EXPORT BANK OF TAJIKISTAN 'SANOATSODIROTBONK'",
@@ -301,8 +301,8 @@ const tajikistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMBT",
-    "bankCode": "TJ",
+    "bankCode": "FMBT",
+    "countryCode": "TJ",
     "branchCode": "J22",
     "SWIFT Code": "FMBTTJ22",
     "Bank Name": "THE FIRST MICROFINANCEBANK",

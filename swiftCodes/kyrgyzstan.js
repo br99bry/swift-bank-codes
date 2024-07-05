@@ -1,7 +1,7 @@
 const kyrgyzstan = [
   {
-    "countryCode": "AJRA",
-    "bankCode": "KG",
+    "bankCode": "AJRA",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "AJRAKG22",
     "Bank Name": "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)",
@@ -13,8 +13,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBTP",
-    "bankCode": "KG",
+    "bankCode": "BBTP",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "BBTPKG22",
     "Bank Name": "BAI-TUSHUM BANK OJSC",
@@ -26,8 +26,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAKA",
-    "bankCode": "KG",
+    "bankCode": "BAKA",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "BAKAKG22",
     "Bank Name": "BAKAI BANK OJSC",
@@ -39,8 +39,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCJ",
-    "bankCode": "KG",
+    "bankCode": "ASCJ",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "ASCJKG22",
     "Bank Name": "BANK OF ASIA CJSC",
@@ -52,8 +52,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECBI",
-    "bankCode": "KG",
+    "bankCode": "ECBI",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "ECBIKG22",
     "Bank Name": "CJSC ECOISLAMICBANK",
@@ -65,8 +65,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBAN",
-    "bankCode": "KG",
+    "bankCode": "FBAN",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "FBANKG22",
     "Bank Name": "CJSC FINCA BANK",
@@ -78,8 +78,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEMI",
-    "bankCode": "KG",
+    "bankCode": "DEMI",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "DEMIKG22",
     "Bank Name": "DEMIR KYRGYZ INTERNATIONAL BANK",
@@ -91,8 +91,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOSS",
-    "bankCode": "KG",
+    "bankCode": "DOSS",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "DOSSKG22",
     "Bank Name": "DOS-CREDOBANK OJSC",
@@ -104,8 +104,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYRG",
-    "bankCode": "KG",
+    "bankCode": "KYRG",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "KYRGKG22",
     "Bank Name": "EURASIAN SAVINGS BANK, OJSC",
@@ -117,8 +117,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIKB",
-    "bankCode": "KG",
+    "bankCode": "FIKB",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "FIKBKG22",
     "Bank Name": "FINANCECREDITBANK KAB",
@@ -130,8 +130,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSCE",
-    "bankCode": "KG",
+    "bankCode": "JSCE",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "JSCEKG22",
     "Bank Name": "JOINT STOCK COMPANY 'EURASIAN CURRENCY AND STOCK EXCHANGE INVESTMENT EXCHANGE 'UNION''",
@@ -143,8 +143,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOMP",
-    "bankCode": "KG",
+    "bankCode": "KOMP",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "KOMPKG22",
     "Bank Name": "KOMPANION BANK CLOSED JOINT-STOCK COMPANY",
@@ -156,8 +156,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSBC",
-    "bankCode": "KG",
+    "bankCode": "KSBC",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "KSBCKG22",
     "Bank Name": "KSB COMMERCIAL BANK CLOSED JOINT-STOCK COMPANY",
@@ -169,8 +169,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KICB",
-    "bankCode": "KG",
+    "bankCode": "KICB",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "KICBKG22",
     "Bank Name": "KYRGYZ INVESTMENT AND CREDIT BANK",
@@ -182,8 +182,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "KG",
+    "bankCode": "NBPA",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "NBPAKG22",
     "Bank Name": "NATIONAL BANK OF PAKISTAN BISHKEK BRANCH",
@@ -195,8 +195,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBKI",
-    "bankCode": "KG",
+    "bankCode": "NBKI",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "NBKIKG22",
     "Bank Name": "NATIONAL BANK OF THE KYRGYZ REPUBLIC",
@@ -208,8 +208,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIYL",
-    "bankCode": "KG",
+    "bankCode": "AIYL",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "AIYLKG22",
     "Bank Name": "OJSC AIYL BANK",
@@ -221,8 +221,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYRS",
-    "bankCode": "KG",
+    "bankCode": "KYRS",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "KYRSKG22",
     "Bank Name": "OJSC COMMERCIAL BANK KYRGYZSTAN",
@@ -234,8 +234,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAKA",
-    "bankCode": "KG",
+    "bankCode": "MAKA",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "MAKAKG22",
     "Bank Name": "OJSC HALYK BANK KYRGYZSTAN",
@@ -247,8 +247,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAKY",
-    "bankCode": "KG",
+    "bankCode": "KAKY",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "KAKYKG22",
     "Bank Name": "OJSC KYRGYZKOMMERTSBANK",
@@ -260,8 +260,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SESV",
-    "bankCode": "KG",
+    "bankCode": "SESV",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "SESVKG22",
     "Bank Name": "OJSC RSK BANK",
@@ -273,8 +273,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RINB",
-    "bankCode": "KG",
+    "bankCode": "RINB",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "RINBKG22",
     "Bank Name": "OPEN JOINT STOCK COMPANY KEREMET BANK",
@@ -286,8 +286,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENEJ",
-    "bankCode": "KG",
+    "bankCode": "ENEJ",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "ENEJKG22",
     "Bank Name": "OPTIMA BANK OJSC",
@@ -299,8 +299,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKIL",
-    "bankCode": "KG",
+    "bankCode": "AKIL",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "AKILKG22",
     "Bank Name": "THE OPEN JOINT-STOCK COMPANY CAPITAL BANK",
@@ -312,8 +312,8 @@ const kyrgyzstan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOLU",
-    "bankCode": "KG",
+    "bankCode": "TOLU",
+    "countryCode": "KG",
     "branchCode": "G22",
     "SWIFT Code": "TOLUKG22",
     "Bank Name": "TOLUBAY BANK - CLOSED JOINT STOCK COMPANY",

@@ -1,7 +1,7 @@
 const canada = [
   {
-    "countryCode": "MEXO",
-    "bankCode": "CA",
+    "bankCode": "MEXO",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "MEXOCAT2",
     "Bank Name": "MERCANTILE EXCHANGE CORPORATION",
@@ -13,8 +13,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "CA",
+    "bankCode": "DCAG",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "DCAGCAMM",
     "Bank Name": "MERCEDES-BENZ FINANCE CANADA INC.",
@@ -26,8 +26,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEMT",
-    "bankCode": "CA",
+    "bankCode": "MEMT",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "MEMTCAT2",
     "Bank Name": "MERCURY MERCANTILE TECHNOLOGIES INC",
@@ -39,8 +39,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCI",
-    "bankCode": "CA",
+    "bankCode": "MLCI",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "MLCICATT",
     "Bank Name": "MERRILL LYNCH CANADA, INC",
@@ -52,8 +52,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCI",
-    "bankCode": "CA",
+    "bankCode": "MLCI",
+    "countryCode": "CA",
     "branchCode": "TOR",
     "SWIFT Code": "MLCICATTTOR",
     "Bank Name": "MERRILL LYNCH CANADA, INC",
@@ -65,8 +65,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCI",
-    "bankCode": "CA",
+    "bankCode": "MLCI",
+    "countryCode": "CA",
     "branchCode": "TSY",
     "SWIFT Code": "MLCICATTTSY",
     "Bank Name": "MERRILL LYNCH CANADA, INC",
@@ -78,8 +78,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRI",
-    "bankCode": "CA",
+    "bankCode": "MIRI",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "MIRICAMM",
     "Bank Name": "MIRABAUD CANADA INC.",
@@ -91,8 +91,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CA",
+    "bankCode": "MHCB",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "MHCBCATT",
     "Bank Name": "MIZUHO BANK, LTD., CANADA BRANCH",
@@ -104,8 +104,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MJKG",
-    "bankCode": "CA",
+    "bankCode": "MJKG",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "MJKGCA22",
     "Bank Name": "MJK GROUP INC.",
@@ -117,8 +117,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLFN",
-    "bankCode": "CA",
+    "bankCode": "MLFN",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "MLFNCA82",
     "Bank Name": "MOLTOPAY FINANCIAL LIMITED",
@@ -130,8 +130,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNCA",
-    "bankCode": "CA",
+    "bankCode": "MNCA",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "MNCACATT",
     "Bank Name": "MONEX CANADA, INC.",
@@ -144,8 +144,8 @@ const canada = [
   },
   {},
   {
-    "countryCode": "MSCA",
-    "bankCode": "CA",
+    "bankCode": "MSCA",
+    "countryCode": "CA",
     "branchCode": "MON",
     "SWIFT Code": "MSCACATXMON",
     "Bank Name": "MORGAN STANLEY CANADA LIMITED",
@@ -157,8 +157,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCA",
-    "bankCode": "CA",
+    "bankCode": "MSCA",
+    "countryCode": "CA",
     "branchCode": "ATX",
     "SWIFT Code": "MSCACATX",
     "Bank Name": "MORGAN STANLEY CANADA LIMITED",
@@ -170,8 +170,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTXX",
-    "bankCode": "CA",
+    "bankCode": "MTXX",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "MTXXCA22",
     "Bank Name": "MTFX INC",
@@ -183,8 +183,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CA",
+    "bankCode": "BOTK",
+    "countryCode": "CA",
     "branchCode": "ATX",
     "SWIFT Code": "BOTKCATX",
     "Bank Name": "MUFG BANK, LTD., CANADA BRANCH",
@@ -196,8 +196,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CA",
+    "bankCode": "BOTK",
+    "countryCode": "CA",
     "branchCode": "VCR",
     "SWIFT Code": "BOTKCATXVCR",
     "Bank Name": "MUFG BANK, LTD., CANADA BRANCH",
@@ -209,8 +209,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCD",
-    "bankCode": "CA",
+    "bankCode": "MSCD",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "MSCDCA8V",
     "Bank Name": "MUFG SECURITIES (CANADA), LTD",
@@ -222,8 +222,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NART",
-    "bankCode": "CA",
+    "bankCode": "NART",
+    "countryCode": "CA",
     "branchCode": "ANN",
     "SWIFT Code": "NARTCANN",
     "Bank Name": "NARL REFINING LIMITED PARTNERSHIP",
@@ -235,8 +235,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "CA",
+    "bankCode": "NATX",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "NATXCAMM",
     "Bank Name": "NATIXIS CANADA BRANCH",
@@ -249,8 +249,8 @@ const canada = [
   },
   {},
   {
-    "countryCode": "NOPN",
-    "bankCode": "CA",
+    "bankCode": "NOPN",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "NOPNCAM2",
     "Bank Name": "NORTHERN PROVIDENCE INVESTMENTS",
@@ -262,8 +262,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPB",
-    "bankCode": "CA",
+    "bankCode": "OTPB",
+    "countryCode": "CA",
     "branchCode": "A2T",
     "SWIFT Code": "OTPBCA2T",
     "Bank Name": "ONTARIO TEACHERS' PENSION PLAN BOARD",
@@ -275,8 +275,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORMO",
-    "bankCode": "CA",
+    "bankCode": "ORMO",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "ORMOCA22",
     "Bank Name": "ORBIT MONEY INC.",
@@ -288,8 +288,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTCI",
-    "bankCode": "CA",
+    "bankCode": "OTCI",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "OTCICA82",
     "Bank Name": "OTRY CAPITAL INC.",
@@ -301,8 +301,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDPY",
-    "bankCode": "CA",
+    "bankCode": "FDPY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "FDPYCA82",
     "Bank Name": "PAPEL E-MONEY SERVICES LTD.",
@@ -315,8 +315,8 @@ const canada = [
   },
   {},
   {
-    "countryCode": "PYFA",
-    "bankCode": "CA",
+    "bankCode": "PYFA",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PYFACA82",
     "Bank Name": "PAYFU FINANCE LTD",
@@ -328,8 +328,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAYF",
-    "bankCode": "CA",
+    "bankCode": "PAYF",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PAYFCA82",
     "Bank Name": "PAYMIQ FINANCIAL GROUP LTD",
@@ -341,8 +341,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYCP",
-    "bankCode": "CA",
+    "bankCode": "PYCP",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PYCPCA82",
     "Bank Name": "PAYNOMAD CAPITAL LTD",
@@ -354,8 +354,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPCV",
-    "bankCode": "CA",
+    "bankCode": "PPCV",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PPCVCA82",
     "Bank Name": "PAYPUGS CARDS SERVICES LTD.",
@@ -367,8 +367,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYFC",
-    "bankCode": "CA",
+    "bankCode": "PYFC",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PYFCCA82",
     "Bank Name": "PAYRISE FINANCE LTD.",
@@ -380,8 +380,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYFI",
-    "bankCode": "CA",
+    "bankCode": "PYFI",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PYFICA82",
     "Bank Name": "PAYSIMPLE FINANCIAL INC",
@@ -393,8 +393,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEIC",
-    "bankCode": "CA",
+    "bankCode": "PEIC",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PEICCA82",
     "Bank Name": "PENNYPAL FINANCE LTD.",
@@ -406,8 +406,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRCO",
-    "bankCode": "CA",
+    "bankCode": "BRCO",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "BRCOCAMM",
     "Bank Name": "PGM GLOBAL INC.",
@@ -419,8 +419,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CA",
+    "bankCode": "PICT",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "PICTCAMM",
     "Bank Name": "PICTET CANADA L.P.",
@@ -433,8 +433,8 @@ const canada = [
   },
   {},
   {
-    "countryCode": "PICT",
-    "bankCode": "CA",
+    "bankCode": "PICT",
+    "countryCode": "CA",
     "branchCode": "CUS",
     "SWIFT Code": "PICTCAMMCUS",
     "Bank Name": "PICTET CANADA L.P.",
@@ -446,8 +446,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CA",
+    "bankCode": "PICT",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "PICTCAM2",
     "Bank Name": "PICTET OVERSEAS INC.",
@@ -459,8 +459,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CA",
+    "bankCode": "PICT",
+    "countryCode": "CA",
     "branchCode": "COR",
     "SWIFT Code": "PICTCAM2COR",
     "Bank Name": "PICTET OVERSEAS INC.",
@@ -472,8 +472,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNCC",
-    "bankCode": "CA",
+    "bankCode": "PNCC",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "PNCCCA22",
     "Bank Name": "PNC BANK CANADA BRANCH",
@@ -485,8 +485,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPP",
-    "bankCode": "CA",
+    "bankCode": "POPP",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "POPPCA82",
     "Bank Name": "POPCORNPAY LTD.",
@@ -498,8 +498,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPIM",
-    "bankCode": "CA",
+    "bankCode": "PPIM",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "PPIMCAM2",
     "Bank Name": "POWER PACIFIC INVESTMENT MANAGEMENT INC.",
@@ -511,8 +511,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSNN",
-    "bankCode": "CA",
+    "bankCode": "PSNN",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "PSNNCAMM",
     "Bank Name": "POWER SUSTAINABLE INVESTMENT MANAGEMENT INC",
@@ -525,8 +525,8 @@ const canada = [
   },
   {},
   {
-    "countryCode": "PSPB",
-    "bankCode": "CA",
+    "bankCode": "PSPB",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "PSPBCAMM",
     "Bank Name": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
@@ -538,8 +538,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSPB",
-    "bankCode": "CA",
+    "bankCode": "PSPB",
+    "countryCode": "CA",
     "branchCode": "AMA",
     "SWIFT Code": "PSPBCAMA",
     "Bank Name": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
@@ -552,8 +552,8 @@ const canada = [
   },
   {},
   {
-    "countryCode": "PUTD",
-    "bankCode": "CA",
+    "bankCode": "PUTD",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PUTDCA82",
     "Bank Name": "PUREMTEK TRADING LTD.",
@@ -565,8 +565,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPNV",
-    "bankCode": "CA",
+    "bankCode": "PPNV",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "PPNVCAT2",
     "Bank Name": "PURPOSE INVESTMENTS INC.",
@@ -578,8 +578,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HQQC",
-    "bankCode": "CA",
+    "bankCode": "HQQC",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "HQQCCAMM",
     "Bank Name": "HYDRO-QUEBEC",
@@ -591,8 +591,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICNA",
-    "bankCode": "CA",
+    "bankCode": "ICNA",
+    "countryCode": "CA",
     "branchCode": "A66",
     "SWIFT Code": "ICNACA66",
     "Bank Name": "ICE NGX CANADA INC.",
@@ -604,8 +604,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CA",
+    "bankCode": "ICIC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "ICICCATT",
     "Bank Name": "ICICI BANK CANADA",
@@ -617,8 +617,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CA",
+    "bankCode": "ICIC",
+    "countryCode": "CA",
     "branchCode": "COP",
     "SWIFT Code": "ICICCATTCOP",
     "Bank Name": "ICICI BANK CANADA",
@@ -630,8 +630,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CA",
+    "bankCode": "ICIC",
+    "countryCode": "CA",
     "branchCode": "GTS",
     "SWIFT Code": "ICICCATTGTS",
     "Bank Name": "ICICI BANK CANADA",
@@ -643,8 +643,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CA",
+    "bankCode": "ICIC",
+    "countryCode": "CA",
     "branchCode": "RTL",
     "SWIFT Code": "ICICCATTRTL",
     "Bank Name": "ICICI BANK CANADA",
@@ -656,8 +656,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CA",
+    "bankCode": "ICIC",
+    "countryCode": "CA",
     "branchCode": "TSY",
     "SWIFT Code": "ICICCATTTSY",
     "Bank Name": "ICICI BANK CANADA",
@@ -669,8 +669,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CA",
+    "bankCode": "ICBK",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "ICBKCAT2",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)",
@@ -682,8 +682,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CA",
+    "bankCode": "ICBK",
+    "countryCode": "CA",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKCAT2CLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)",
@@ -695,8 +695,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITIM",
-    "bankCode": "CA",
+    "bankCode": "ITIM",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "ITIMCAM2",
     "Bank Name": "INTACT INVESTMENT MANAGEMENT INC.",
@@ -708,8 +708,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "CA",
+    "bankCode": "IBKR",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "IBKRCAMM",
     "Bank Name": "INTERACTIVE BROKERS CANADA INC.",
@@ -721,8 +721,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IATA",
-    "bankCode": "CA",
+    "bankCode": "IATA",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "IATACAMM",
     "Bank Name": "INTERNATIONAL AIR TRANSPORT ASSOCIATION",
@@ -734,8 +734,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFMI",
-    "bankCode": "CA",
+    "bankCode": "AFMI",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "AFMICATT",
     "Bank Name": "INVESCO CANADA LTD",
@@ -747,8 +747,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMRO",
-    "bankCode": "CA",
+    "bankCode": "IMRO",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "IMROCATT",
     "Bank Name": "INVESTMENT MANAGEMENT CORPORATION OF ONTARIO",
@@ -760,8 +760,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMRO",
-    "bankCode": "CA",
+    "bankCode": "IMRO",
+    "countryCode": "CA",
     "branchCode": "ATB",
     "SWIFT Code": "IMROCATB",
     "Bank Name": "INVESTMENT MANAGEMENT CORPORATION OF ONTARIO",
@@ -773,8 +773,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGMF",
-    "bankCode": "CA",
+    "bankCode": "IGMF",
+    "countryCode": "CA",
     "branchCode": "A44",
     "SWIFT Code": "IGMFCA44",
     "Bank Name": "INVESTORS GROUP FINANCIAL SERVICES INC",
@@ -786,8 +786,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGMF",
-    "bankCode": "CA",
+    "bankCode": "IGMF",
+    "countryCode": "CA",
     "branchCode": "004",
     "SWIFT Code": "IGMFCA44004",
     "Bank Name": "INVESTORS GROUP FINANCIAL SERVICES INC",
@@ -799,8 +799,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGMF",
-    "bankCode": "CA",
+    "bankCode": "IGMF",
+    "countryCode": "CA",
     "branchCode": "002",
     "SWIFT Code": "IGMFCA44002",
     "Bank Name": "INVESTORS GROUP FINANCIAL SERVICES INC",
@@ -812,8 +812,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGMF",
-    "bankCode": "CA",
+    "bankCode": "IGMF",
+    "countryCode": "CA",
     "branchCode": "003",
     "SWIFT Code": "IGMFCA44003",
     "Bank Name": "INVESTORS GROUP FINANCIAL SERVICES INC",
@@ -825,8 +825,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGMF",
-    "bankCode": "CA",
+    "bankCode": "IGMF",
+    "countryCode": "CA",
     "branchCode": "001",
     "SWIFT Code": "IGMFCA44001",
     "Bank Name": "INVESTORS GROUP FINANCIAL SERVICES INC",
@@ -838,8 +838,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISPA",
-    "bankCode": "CA",
+    "bankCode": "ISPA",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "ISPACA82",
     "Bank Name": "ISWISS PAY LIMITED",
@@ -851,8 +851,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICSO",
-    "bankCode": "CA",
+    "bankCode": "ICSO",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "ICSOCATT",
     "Bank Name": "ITALIAN CANADIAN SAVINGS AND CREDIT UNION LIMITED",
@@ -864,8 +864,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMS",
-    "bankCode": "CA",
+    "bankCode": "JPMS",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "JPMSCATT",
     "Bank Name": "J.P. MORGAN SECURITIES CANADA INC.",
@@ -877,8 +877,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEFF",
-    "bankCode": "CA",
+    "bankCode": "JEFF",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "JEFFCATT",
     "Bank Name": "JEFFERIES SECURITIES, INC.",
@@ -890,8 +890,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPGC",
-    "bankCode": "CA",
+    "bankCode": "JPGC",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "JPGCCA8V",
     "Bank Name": "JIM PATTISON LTD.",
@@ -903,8 +903,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CA",
+    "bankCode": "CHAS",
+    "countryCode": "CA",
     "branchCode": "CTS",
     "SWIFT Code": "CHASCATTCTS",
     "Bank Name": "JPMORGAN CHASE BANK, TORONTO BRANCH",
@@ -916,8 +916,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CA",
+    "bankCode": "CHAS",
+    "countryCode": "CA",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASCATTENQ",
     "Bank Name": "JPMORGAN CHASE BANK, TORONTO BRANCH",
@@ -929,8 +929,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CA",
+    "bankCode": "CHAS",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CHASCATT",
     "Bank Name": "JPMORGAN CHASE BANK, TORONTO BRANCH",
@@ -942,8 +942,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CA",
+    "bankCode": "CHAS",
+    "countryCode": "CA",
     "branchCode": "NVS",
     "SWIFT Code": "CHASCATTNVS",
     "Bank Name": "JPMORGAN CHASE BANK, TORONTO BRANCH",
@@ -955,8 +955,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JFIF",
-    "bankCode": "CA",
+    "bankCode": "JFIF",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "JFIFCA82",
     "Bank Name": "JSC-JUERGEN FITSCHEN AND CO. INTERNATIONALE FINANZDIENSTLEISTUNG A.G.",
@@ -968,8 +968,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "CA",
+    "bankCode": "KOEX",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "KOEXCATT",
     "Bank Name": "KEB HANA BANK CANADA",
@@ -981,8 +981,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEEC",
-    "bankCode": "CA",
+    "bankCode": "KEEC",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "KEECCA22",
     "Bank Name": "KEEP TECHNOLOGIES CORP.",
@@ -994,8 +994,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KPSA",
-    "bankCode": "CA",
+    "bankCode": "KPSA",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "KPSACAT2",
     "Bank Name": "KNIT PAYMENT SERVICES (CANADA) INC.",
@@ -1007,8 +1007,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LALL",
-    "bankCode": "CA",
+    "bankCode": "LALL",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "LALLCAMM",
     "Bank Name": "LALLEMAND INC",
@@ -1020,8 +1020,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEQP",
-    "bankCode": "CA",
+    "bankCode": "LEQP",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "LEQPCAT2",
     "Bank Name": "LANGDON EQUITY PARTNERS LTD",
@@ -1033,8 +1033,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAPM",
-    "bankCode": "CA",
+    "bankCode": "LAPM",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "LAPMCA82",
     "Bank Name": "LAPSA PAYMENTS LTD.",
@@ -1046,8 +1046,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLCM",
-    "bankCode": "CA",
+    "bankCode": "BLCM",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "BLCMCAMM",
     "Bank Name": "LAURENTIAN BANK OF CANADA",
@@ -1059,8 +1059,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOPY",
-    "bankCode": "CA",
+    "bankCode": "LOPY",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "LOPYCAT2",
     "Bank Name": "LOOP PAYMENTS INC.",
@@ -1072,8 +1072,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAIN",
-    "bankCode": "CA",
+    "bankCode": "MAIN",
+    "countryCode": "CA",
     "branchCode": "A2A",
     "SWIFT Code": "MAINCA2A",
     "Bank Name": "MAGNA INTERNATIONAL INC.",
@@ -1085,8 +1085,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAIN",
-    "bankCode": "CA",
+    "bankCode": "MAIN",
+    "countryCode": "CA",
     "branchCode": "A2B",
     "SWIFT Code": "MAINCA2B",
     "Bank Name": "MAGNA INTERNATIONAL INC.",
@@ -1098,8 +1098,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "CA",
+    "bankCode": "MFCT",
+    "countryCode": "CA",
     "branchCode": "ATB",
     "SWIFT Code": "MFCTCATB",
     "Bank Name": "MANUFACTURERS LIFE INSURANCE COMPANY",
@@ -1111,8 +1111,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "CA",
+    "bankCode": "MFCT",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "MFCTCATT",
     "Bank Name": "MANULIFE FINANCIAL CORPORATION",
@@ -1124,8 +1124,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRCT",
-    "bankCode": "CA",
+    "bankCode": "MRCT",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "MRCTCAT2",
     "Bank Name": "MAPLE ROCK CAPITAL PARTNERS INC.",
@@ -1137,8 +1137,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRIE",
-    "bankCode": "CA",
+    "bankCode": "MRIE",
+    "countryCode": "CA",
     "branchCode": "A2V",
     "SWIFT Code": "MRIECA2V",
     "Bank Name": "MARTINREA INTERNATIONAL INC.",
@@ -1150,8 +1150,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCFO",
-    "bankCode": "CA",
+    "bankCode": "MCFO",
+    "countryCode": "CA",
     "branchCode": "ANN",
     "SWIFT Code": "MCFOCANN",
     "Bank Name": "MCCAIN FOODS LIMITED",
@@ -1163,8 +1163,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNMN",
-    "bankCode": "CA",
+    "bankCode": "FNMN",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "FNMNCAW2",
     "Bank Name": "MD FINANCIAL MANAGEMENT INC",
@@ -1176,8 +1176,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CA",
+    "bankCode": "ICBC",
+    "countryCode": "CA",
     "branchCode": "RMD",
     "SWIFT Code": "ICBCCATTRMD",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. CANADA BRANCH",
@@ -1189,8 +1189,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CA",
+    "bankCode": "ICBC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "ICBCCATT",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. CANADA BRANCH",
@@ -1202,8 +1202,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CA",
+    "bankCode": "ICBC",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "ICBCCATTVAN",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. CANADA BRANCH",
@@ -1215,8 +1215,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTEN",
-    "bankCode": "CA",
+    "bankCode": "MTEN",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "MTENCA82",
     "Bank Name": "MELON TECHNOLOGIES LIMITED",
@@ -1228,8 +1228,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "OME",
     "SWIFT Code": "FMCCCATMOME",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1241,8 +1241,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "PEM",
     "SWIFT Code": "FMCCCATMPEM",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1254,8 +1254,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "DEA",
     "SWIFT Code": "FMCCCATMDEA",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1267,8 +1267,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "IPF",
     "SWIFT Code": "FMCCCATMIPF",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1280,8 +1280,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "EIS",
     "SWIFT Code": "FMCCCATMEIS",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1293,8 +1293,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "MFC",
     "SWIFT Code": "FMCCCATMMFC",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1306,8 +1306,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "JST",
     "SWIFT Code": "FMCCCATMJST",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1319,8 +1319,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "DOR",
     "SWIFT Code": "FMCCCATMDOR",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1332,8 +1332,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "FIN",
     "SWIFT Code": "FMCCCATMFIN",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1345,8 +1345,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "BUD",
     "SWIFT Code": "FMCCCATMBUD",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1358,8 +1358,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "OST",
     "SWIFT Code": "FMCCCATMOST",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1371,8 +1371,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "OTP",
     "SWIFT Code": "FMCCCATMOTP",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1384,8 +1384,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "HOP",
     "SWIFT Code": "FMCCCATMHOP",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1397,8 +1397,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "AEG",
     "SWIFT Code": "FMCCCATMAEG",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1410,8 +1410,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "CAM",
     "SWIFT Code": "FMCCCATMCAM",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1423,8 +1423,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "CBA",
     "SWIFT Code": "FMCCCATMCBA",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1436,8 +1436,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "GMA",
     "SWIFT Code": "FMCCCATMGMA",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1449,8 +1449,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "GOO",
     "SWIFT Code": "FMCCCATMGOO",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1462,8 +1462,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "IAS",
     "SWIFT Code": "FMCCCATMIAS",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1475,8 +1475,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "PHN",
     "SWIFT Code": "FMCCCATMPHN",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1488,8 +1488,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "PSP",
     "SWIFT Code": "FMCCCATMPSP",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1501,8 +1501,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "WAR",
     "SWIFT Code": "FMCCCATMWAR",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -1514,8 +1514,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "CA",
+    "bankCode": "SBOS",
+    "countryCode": "CA",
     "branchCode": "ATX",
     "SWIFT Code": "SBOSCATX",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH",
@@ -1527,8 +1527,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "CA",
+    "bankCode": "SBOS",
+    "countryCode": "CA",
     "branchCode": "IFS",
     "SWIFT Code": "SBOSCATXIFS",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH",
@@ -1540,8 +1540,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNPN",
-    "bankCode": "CA",
+    "bankCode": "SNPN",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "SNPNCAM2",
     "Bank Name": "STONEPINE ASSET MANAGEMENT INC.",
@@ -1553,8 +1553,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTO",
-    "bankCode": "CA",
+    "bankCode": "SMTO",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "SMTOCATT",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION, CANADA BRANCH",
@@ -1566,8 +1566,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLOC",
-    "bankCode": "CA",
+    "bankCode": "SLOC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "SLOCCATT",
     "Bank Name": "SUN LIFE ASSURANCE COMPANY OF CANADA",
@@ -1579,8 +1579,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLNC",
-    "bankCode": "CA",
+    "bankCode": "SLNC",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "SLNCCAT2",
     "Bank Name": "SUN LIFE INSURANCE (CANADA) LIMITED",
@@ -1592,8 +1592,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUPY",
-    "bankCode": "CA",
+    "bankCode": "SUPY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "SUPYCA82",
     "Bank Name": "SUN PAY LIMITED",
@@ -1605,8 +1605,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUEE",
-    "bankCode": "CA",
+    "bankCode": "SUEE",
+    "countryCode": "CA",
     "branchCode": "A66",
     "SWIFT Code": "SUEECA66",
     "Bank Name": "SUNCOR ENERGY SERVICES INC.",
@@ -1618,8 +1618,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLMP",
-    "bankCode": "CA",
+    "bankCode": "TLMP",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "TLMPCA82",
     "Bank Name": "TALIS MAN PAY LTD.",
@@ -1631,8 +1631,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAZC",
-    "bankCode": "CA",
+    "bankCode": "TAZC",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "TAZCCA82",
     "Bank Name": "TAZAPAY CANADA CORP.",
@@ -1644,8 +1644,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THTC",
-    "bankCode": "CA",
+    "bankCode": "THTC",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "THTCCA22",
     "Bank Name": "THAMOR TRADING CORPORATION",
@@ -1657,8 +1657,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MELN",
-    "bankCode": "CA",
+    "bankCode": "MELN",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "MELNCATT",
     "Bank Name": "THE BANK OF NEW YORK MELLON, TORONTO BRANCH",
@@ -1670,8 +1670,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "CGY",
     "SWIFT Code": "NOSCCATTCGY",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1683,8 +1683,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TPC",
     "SWIFT Code": "NOSCCATTTPC",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1696,8 +1696,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "HFX",
     "SWIFT Code": "NOSCCATTHFX",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1709,8 +1709,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TB5",
     "SWIFT Code": "NOSCCATTTB5",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1722,8 +1722,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "MTL",
     "SWIFT Code": "NOSCCATTMTL",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1735,8 +1735,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TPM",
     "SWIFT Code": "NOSCCATTTPM",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1748,8 +1748,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "MT1",
     "SWIFT Code": "NOSCCATTMT1",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1761,8 +1761,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "OTT",
     "SWIFT Code": "NOSCCATTOTT",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1774,8 +1774,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "SKN",
     "SWIFT Code": "NOSCCATTSKN",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1787,8 +1787,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "FXA",
     "SWIFT Code": "NOSCCATTFXA",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1800,8 +1800,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TOR",
     "SWIFT Code": "NOSCCATTTOR",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1813,8 +1813,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TPT",
     "SWIFT Code": "NOSCCATTTPT",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1826,8 +1826,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TPG",
     "SWIFT Code": "NOSCCATTTPG",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1839,8 +1839,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "MTB",
     "SWIFT Code": "NOSCCATTMTB",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1852,8 +1852,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "CT1",
     "SWIFT Code": "NOSCCATTCT1",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1865,8 +1865,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "CT2",
     "SWIFT Code": "NOSCCATTCT2",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -1878,8 +1878,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUFN",
-    "bankCode": "CA",
+    "bankCode": "QUFN",
+    "countryCode": "CA",
     "branchCode": "A62",
     "SWIFT Code": "QUFNCA62",
     "Bank Name": "QUANT FINANCIAL LTD.",
@@ -1891,8 +1891,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "CA",
+    "bankCode": "RABO",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "RABOCATT",
     "Bank Name": "RABOBANK CANADA",
@@ -1904,8 +1904,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOPY",
-    "bankCode": "CA",
+    "bankCode": "SOPY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "SOPYCA82",
     "Bank Name": "RAS PAYMENT SYSTEMS LTD.",
@@ -1917,8 +1917,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBRS",
-    "bankCode": "CA",
+    "bankCode": "RBRS",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "RBRSCA8V",
     "Bank Name": "RB GLOBAL, INC.",
@@ -1930,8 +1930,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBDS",
-    "bankCode": "CA",
+    "bankCode": "RBDS",
+    "countryCode": "CA",
     "branchCode": "ATR",
     "SWIFT Code": "RBDSCATR",
     "Bank Name": "RBC DOMINION SECURITIES INC.",
@@ -1943,8 +1943,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTR",
-    "bankCode": "CA",
+    "bankCode": "ROTR",
+    "countryCode": "CA",
     "branchCode": "MPC",
     "SWIFT Code": "ROTRCATTMPC",
     "Bank Name": "RBC INVESTOR SERVICES TRUST",
@@ -1956,8 +1956,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTR",
-    "bankCode": "CA",
+    "bankCode": "ROTR",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "ROTRCATT",
     "Bank Name": "RBC INVESTOR SERVICES TRUST",
@@ -1969,8 +1969,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTR",
-    "bankCode": "CA",
+    "bankCode": "ROTR",
+    "countryCode": "CA",
     "branchCode": "DER",
     "SWIFT Code": "ROTRCATTDER",
     "Bank Name": "RBC INVESTOR SERVICES TRUST",
@@ -1982,8 +1982,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTR",
-    "bankCode": "CA",
+    "bankCode": "ROTR",
+    "countryCode": "CA",
     "branchCode": "TIC",
     "SWIFT Code": "ROTRCATTTIC",
     "Bank Name": "RBC INVESTOR SERVICES TRUST",
@@ -1995,8 +1995,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTR",
-    "bankCode": "CA",
+    "bankCode": "ROTR",
+    "countryCode": "CA",
     "branchCode": "TSC",
     "SWIFT Code": "ROTRCATTTSC",
     "Bank Name": "RBC INVESTOR SERVICES TRUST",
@@ -2008,8 +2008,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTR",
-    "bankCode": "CA",
+    "bankCode": "ROTR",
+    "countryCode": "CA",
     "branchCode": "LEN",
     "SWIFT Code": "ROTRCATTLEN",
     "Bank Name": "RBC INVESTOR SERVICES TRUST",
@@ -2021,8 +2021,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REEP",
-    "bankCode": "CA",
+    "bankCode": "REEP",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "REEPCA82",
     "Bank Name": "REEPAY FINANCE LTD.",
@@ -2034,8 +2034,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REEP",
-    "bankCode": "CA",
+    "bankCode": "REEP",
+    "countryCode": "CA",
     "branchCode": "001",
     "SWIFT Code": "REEPCA82001",
     "Bank Name": "REEPAY FINANCE LTD.",
@@ -2047,8 +2047,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFTE",
-    "bankCode": "CA",
+    "bankCode": "RFTE",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "RFTECAT2",
     "Bank Name": "RELAY FINANCIAL TECHNOLOGIES INC",
@@ -2060,8 +2060,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPD",
-    "bankCode": "CA",
+    "bankCode": "REPD",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "REPDCAT2",
     "Bank Name": "REMITWARE PAYMENTS CANADA INC",
@@ -2073,8 +2073,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RICX",
-    "bankCode": "CA",
+    "bankCode": "RICX",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "RICXCAT2",
     "Bank Name": "RICHARDSON INTERNATIONAL CURRENCY EXCHANGE INC.",
@@ -2086,8 +2086,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "CIC",
     "SWIFT Code": "ROYCCAT2CIC",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2099,8 +2099,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "HIC",
     "SWIFT Code": "ROYCCAT2HIC",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2112,8 +2112,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "MIC",
     "SWIFT Code": "ROYCCAT2MIC",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2125,8 +2125,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "ROYCCAT2",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2138,8 +2138,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "IBO",
     "SWIFT Code": "ROYCCAT2IBO",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2151,8 +2151,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "ECL",
     "SWIFT Code": "ROYCCAT2ECL",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2164,8 +2164,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "AT3",
     "SWIFT Code": "ROYCCAT3",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2177,8 +2177,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "IMM",
     "SWIFT Code": "ROYCCAT3IMM",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2190,8 +2190,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "CLS",
     "SWIFT Code": "ROYCCAT2CLS",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2203,8 +2203,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "GLA",
     "SWIFT Code": "ROYCCAT2GLA",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2216,8 +2216,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "VFS",
     "SWIFT Code": "ROYCCAT2VFS",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2229,8 +2229,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "VIC",
     "SWIFT Code": "ROYCCAT2VIC",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2242,8 +2242,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CA",
+    "bankCode": "ROYC",
+    "countryCode": "CA",
     "branchCode": "WIC",
     "SWIFT Code": "ROYCCAT2WIC",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2255,8 +2255,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFMI",
-    "bankCode": "CA",
+    "bankCode": "GFMI",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "GFMICATT",
     "Bank Name": "SAGEN MORTGAGE INSURANCE COMPANY CANADA",
@@ -2268,8 +2268,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "CA",
+    "bankCode": "SBIN",
+    "countryCode": "CA",
     "branchCode": "ATX",
     "SWIFT Code": "SBINCATX",
     "Bank Name": "SBI CANADA BANK",
@@ -2281,8 +2281,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "CA",
+    "bankCode": "SBIN",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "SBINCATXVAN",
     "Bank Name": "SBI CANADA BANK",
@@ -2294,8 +2294,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCMC",
-    "bankCode": "CA",
+    "bankCode": "SCMC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "SCMCCATT",
     "Bank Name": "SCOTIA CAPITAL INC.",
@@ -2307,8 +2307,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCMC",
-    "bankCode": "CA",
+    "bankCode": "SCMC",
+    "countryCode": "CA",
     "branchCode": "EG2",
     "SWIFT Code": "SCMCCATTEG2",
     "Bank Name": "SCOTIA CAPITAL INC.",
@@ -2320,8 +2320,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCMC",
-    "bankCode": "CA",
+    "bankCode": "SCMC",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "SCMCCAT2",
     "Bank Name": "SCOTIA MCLEOD INC.",
@@ -2333,8 +2333,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHFN",
-    "bankCode": "CA",
+    "bankCode": "SHFN",
+    "countryCode": "CA",
     "branchCode": "A62",
     "SWIFT Code": "SHFNCA62",
     "Bank Name": "SHIFT CONNECT LTD.",
@@ -2346,8 +2346,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "CA",
+    "bankCode": "SHBK",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "SHBKCATT",
     "Bank Name": "SHINHAN BANK CANADA",
@@ -2359,8 +2359,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHOF",
-    "bankCode": "CA",
+    "bankCode": "SHOF",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "SHOFCAW2",
     "Bank Name": "SHOPIFY INC",
@@ -2372,8 +2372,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIR",
-    "bankCode": "CA",
+    "bankCode": "SWIR",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "SWIRCA8V",
     "Bank Name": "SIERRA WIRELESS INC.",
@@ -2385,8 +2385,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLPF",
-    "bankCode": "CA",
+    "bankCode": "SLPF",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "SLPFCAT2",
     "Bank Name": "SLC MANAGEMENT PRIVATE FIXED INCOME PLUS FUND",
@@ -2398,8 +2398,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLST",
-    "bankCode": "CA",
+    "bankCode": "SLST",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "SLSTCAT2",
     "Bank Name": "SLC MANAGEMENT SHORT TERM PRIVATE FIXED INCOME PLUS FUND",
@@ -2411,8 +2411,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNCL",
-    "bankCode": "CA",
+    "bankCode": "SNCL",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "SNCLCAMM",
     "Bank Name": "SNC-LAVALIN GROUP INC.",
@@ -2424,8 +2424,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "CA",
+    "bankCode": "SOGE",
+    "countryCode": "CA",
     "branchCode": "AMB",
     "SWIFT Code": "SOGECAMB",
     "Bank Name": "SOCIETE GENERALE (CANADA BRANCH)",
@@ -2437,8 +2437,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "CA",
+    "bankCode": "SOGE",
+    "countryCode": "CA",
     "branchCode": "TOR",
     "SWIFT Code": "SOGECAMBTOR",
     "Bank Name": "SOCIETE GENERALE (CANADA BRANCH)",
@@ -2450,8 +2450,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEWG",
-    "bankCode": "CA",
+    "bankCode": "NEWG",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "NEWGCAMM",
     "Bank Name": "SOCIETE GENERALE CAPITAL CANADA INC.",
@@ -2463,8 +2463,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMAC",
-    "bankCode": "CA",
+    "bankCode": "SMAC",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "SMACCA8V",
     "Bank Name": "SP MARITIME (CANADA) INC.",
@@ -2476,8 +2476,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPHG",
-    "bankCode": "CA",
+    "bankCode": "SPHG",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "SPHGCA82",
     "Bank Name": "SPACEFEX TECHNOLOGIES LIMITED",
@@ -2489,8 +2489,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPNM",
-    "bankCode": "CA",
+    "bankCode": "SPNM",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "SPNMCAT2",
     "Bank Name": "SPRUCEGROVE INVESTMENT MANAGEMENT",
@@ -2502,8 +2502,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "IKO",
     "SWIFT Code": "FMCCCATMIKO",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -2515,8 +2515,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMCC",
-    "bankCode": "CA",
+    "bankCode": "FMCC",
+    "countryCode": "CA",
     "branchCode": "ATM",
     "SWIFT Code": "FMCCCATM",
     "Bank Name": "SS AND C TECHNOLOGIES CANADA CORP",
@@ -2528,8 +2528,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CA",
+    "bankCode": "BNPA",
+    "countryCode": "CA",
     "branchCode": "SUB",
     "SWIFT Code": "BNPACAMMSUB",
     "Bank Name": "BNP PARIBAS, CANADA BRANCH",
@@ -2541,8 +2541,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CA",
+    "bankCode": "BNPA",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "BNPACAMM",
     "Bank Name": "BNP PARIBAS, CANADA BRANCH",
@@ -2554,8 +2554,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CA",
+    "bankCode": "BNPA",
+    "countryCode": "CA",
     "branchCode": "TTT",
     "SWIFT Code": "BNPACAMMTTT",
     "Bank Name": "BNP PARIBAS, CANADA BRANCH",
@@ -2567,8 +2567,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CA",
+    "bankCode": "BNPA",
+    "countryCode": "CA",
     "branchCode": "VVV",
     "SWIFT Code": "BNPACAMMVVV",
     "Bank Name": "BNP PARIBAS, CANADA BRANCH",
@@ -2580,8 +2580,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIHO",
-    "bankCode": "CA",
+    "bankCode": "BIHO",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "BIHOCAMM",
     "Bank Name": "BOMBARDIER INC.",
@@ -2593,8 +2593,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIK",
-    "bankCode": "CA",
+    "bankCode": "BRIK",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "BRIKCAT2",
     "Bank Name": "BREINROCK LIMITED",
@@ -2606,8 +2606,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCVM",
-    "bankCode": "CA",
+    "bankCode": "BCVM",
+    "countryCode": "CA",
     "branchCode": "A8G",
     "SWIFT Code": "BCVMCA8G",
     "Bank Name": "BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION",
@@ -2619,8 +2619,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCVM",
-    "bankCode": "CA",
+    "bankCode": "BCVM",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "BCVMCA8V",
     "Bank Name": "BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION",
@@ -2632,8 +2632,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMZ",
-    "bankCode": "CA",
+    "bankCode": "BAMZ",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "BAMZCATT",
     "Bank Name": "BROOKFIELD ASSET MANAGEMENT",
@@ -2645,8 +2645,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMZ",
-    "bankCode": "CA",
+    "bankCode": "BAMZ",
+    "countryCode": "CA",
     "branchCode": "ATB",
     "SWIFT Code": "BAMZCATB",
     "Bank Name": "BROOKFIELD ASSET MANAGEMENT",
@@ -2658,8 +2658,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRP",
-    "bankCode": "CA",
+    "bankCode": "BBRP",
+    "countryCode": "CA",
     "branchCode": "AWA",
     "SWIFT Code": "BBRPCAWA",
     "Bank Name": "BROOKFIELD BRP CANADA CORP.",
@@ -2671,8 +2671,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLVM",
-    "bankCode": "CA",
+    "bankCode": "CLVM",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "CLVMCAT2",
     "Bank Name": "CALDWELL INVESTMENT MANAGEMENT LTD.",
@@ -2684,8 +2684,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMFX",
-    "bankCode": "CA",
+    "bankCode": "CMFX",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CMFXCATT",
     "Bank Name": "CAMBRIDGE MERCANTILE CORP.",
@@ -2697,8 +2697,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEMT",
-    "bankCode": "CA",
+    "bankCode": "CEMT",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CEMTCATT",
     "Bank Name": "CAMECO CORPORATION",
@@ -2710,8 +2710,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDIC",
-    "bankCode": "CA",
+    "bankCode": "CDIC",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "CDICCAW2",
     "Bank Name": "CANADA DEPOSIT INSURANCE CORPORATION",
@@ -2723,8 +2723,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNLA",
-    "bankCode": "CA",
+    "bankCode": "CNLA",
+    "countryCode": "CA",
     "branchCode": "CLI",
     "SWIFT Code": "CNLACA44CLI",
     "Bank Name": "CANADA LIFE ASSURANCE COMPANY",
@@ -2736,8 +2736,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNLA",
-    "bankCode": "CA",
+    "bankCode": "CNLA",
+    "countryCode": "CA",
     "branchCode": "A44",
     "SWIFT Code": "CNLACA44",
     "Bank Name": "CANADA LIFE ASSURANCE COMPANY",
@@ -2749,8 +2749,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMHC",
-    "bankCode": "CA",
+    "bankCode": "CMHC",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "CMHCCAW2",
     "Bank Name": "CANADA MORTGAGE AND HOUSING CORPORATION",
@@ -2762,8 +2762,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPPB",
-    "bankCode": "CA",
+    "bankCode": "CPPB",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CPPBCATT",
     "Bank Name": "CANADA PENSION PLAN INVESTMENT BOARD",
@@ -2775,8 +2775,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPPB",
-    "bankCode": "CA",
+    "bankCode": "CPPB",
+    "countryCode": "CA",
     "branchCode": "ATA",
     "SWIFT Code": "CPPBCATA",
     "Bank Name": "CANADA PENSION PLAN INVESTMENT BOARD",
@@ -2788,8 +2788,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCGS",
-    "bankCode": "CA",
+    "bankCode": "CCGS",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "CCGSCAT2",
     "Bank Name": "CANADA POST CORPORATION REGISTERED PENSION PLAN",
@@ -2801,8 +2801,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "CA",
+    "bankCode": "CIBC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CIBCCATT",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",
@@ -2814,8 +2814,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "CA",
+    "bankCode": "CIBC",
+    "countryCode": "CA",
     "branchCode": "CMI",
     "SWIFT Code": "CIBCCATTCMI",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",
@@ -2827,8 +2827,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "CA",
+    "bankCode": "CIBC",
+    "countryCode": "CA",
     "branchCode": "CWM",
     "SWIFT Code": "CIBCCATTCWM",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",
@@ -2840,8 +2840,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "CA",
+    "bankCode": "CIBC",
+    "countryCode": "CA",
     "branchCode": "CLS",
     "SWIFT Code": "CIBCCATTCLS",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",
@@ -2853,8 +2853,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNRR",
-    "bankCode": "CA",
+    "bankCode": "CNRR",
+    "countryCode": "CA",
     "branchCode": "AMB",
     "SWIFT Code": "CNRRCAMB",
     "Bank Name": "CANADIAN NATIONAL RAILWAY COMPANY",
@@ -2866,8 +2866,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNRR",
-    "bankCode": "CA",
+    "bankCode": "CNRR",
+    "countryCode": "CA",
     "branchCode": "AMT",
     "SWIFT Code": "CNRRCAMT",
     "Bank Name": "CANADIAN NATIONAL RAILWAY COMPANY",
@@ -2879,8 +2879,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPAA",
-    "bankCode": "CA",
+    "bankCode": "CPAA",
+    "countryCode": "CA",
     "branchCode": "A2A",
     "SWIFT Code": "CPAACA2A",
     "Bank Name": "CANADIAN PAYMENTS ASSOCIATION",
@@ -2892,8 +2892,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPAA",
-    "bankCode": "CA",
+    "bankCode": "CPAA",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "CPAACA22",
     "Bank Name": "CANADIAN PAYMENTS ASSOCIATION",
@@ -2905,8 +2905,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPAA",
-    "bankCode": "CA",
+    "bankCode": "CPAA",
+    "countryCode": "CA",
     "branchCode": "A23",
     "SWIFT Code": "CPAACA23",
     "Bank Name": "CANADIAN PAYMENTS ASSOCIATION",
@@ -2918,8 +2918,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDSL",
-    "bankCode": "CA",
+    "bankCode": "CDSL",
+    "countryCode": "CA",
     "branchCode": "SMD",
     "SWIFT Code": "CDSLCATTSMD",
     "Bank Name": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
@@ -2931,8 +2931,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDSL",
-    "bankCode": "CA",
+    "bankCode": "CDSL",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CDSLCATT",
     "Bank Name": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
@@ -2944,8 +2944,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "CAL",
     "SWIFT Code": "CUCXCATTCAL",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -2957,8 +2957,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "REG",
     "SWIFT Code": "CUCXCATTREG",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -2970,8 +2970,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "ONT",
     "SWIFT Code": "CUCXCATTONT",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -2983,8 +2983,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CUCXCATT",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -2996,8 +2996,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "CUCXCATTVAN",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -3009,8 +3009,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "INV",
     "SWIFT Code": "CUCXCATTINV",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -3022,8 +3022,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCX",
-    "bankCode": "CA",
+    "bankCode": "CUCX",
+    "countryCode": "CA",
     "branchCode": "WPG",
     "SWIFT Code": "CUCXCATTWPG",
     "Bank Name": "CENTRAL 1 CREDIT UNION",
@@ -3035,8 +3035,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPH",
-    "bankCode": "CA",
+    "bankCode": "CEPH",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "CEPHCA82",
     "Bank Name": "CEPHEUS PAYMENT CORP.",
@@ -3048,8 +3048,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHZI",
-    "bankCode": "CA",
+    "bankCode": "CHZI",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "CHZICA82",
     "Bank Name": "CHIIZU INC.",
@@ -3061,8 +3061,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CA",
+    "bankCode": "PCBC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "PCBCCATT",
     "Bank Name": "CHINA CONSTRUCTION BANK TORONTO BRANCH",
@@ -3074,8 +3074,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGAA",
-    "bankCode": "CA",
+    "bankCode": "CGAA",
+    "countryCode": "CA",
     "branchCode": "AMB",
     "SWIFT Code": "CGAACAMB",
     "Bank Name": "CIBC ASSET MANAGEMENT INC.",
@@ -3087,8 +3087,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMTY",
-    "bankCode": "CA",
+    "bankCode": "CMTY",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CMTYCATT",
     "Bank Name": "CIBC MELLON TRUST COMPANY",
@@ -3100,8 +3100,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMTY",
-    "bankCode": "CA",
+    "bankCode": "CMTY",
+    "countryCode": "CA",
     "branchCode": "ATB",
     "SWIFT Code": "CMTYCATB",
     "Bank Name": "CIBC MELLON TRUST COMPANY",
@@ -3113,8 +3113,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBL",
-    "bankCode": "CA",
+    "bankCode": "CTBL",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CTBLCATT",
     "Bank Name": "CIDEL ASSET MANAGEMENT INC",
@@ -3126,8 +3126,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBL",
-    "bankCode": "CA",
+    "bankCode": "CTBL",
+    "countryCode": "CA",
     "branchCode": "AT3",
     "SWIFT Code": "CTBLCAT3",
     "Bank Name": "CIDEL BANK CANADA",
@@ -3139,8 +3139,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBL",
-    "bankCode": "CA",
+    "bankCode": "CTBL",
+    "countryCode": "CA",
     "branchCode": "A66",
     "SWIFT Code": "CTBLCA66",
     "Bank Name": "CIDEL TRUST COMPANY",
@@ -3152,8 +3152,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "CA",
+    "bankCode": "CITC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CITCCATT",
     "Bank Name": "CITCO BANK CANADA",
@@ -3165,8 +3165,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CA",
+    "bankCode": "CITI",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CITICATT",
     "Bank Name": "CITIBANK CANADA",
@@ -3178,8 +3178,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "MTT",
     "SWIFT Code": "NOSCCATTMTT",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3191,8 +3191,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "OTC",
     "SWIFT Code": "NOSCCATTOTC",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3204,8 +3204,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL1",
     "SWIFT Code": "NOSCCATTTL1",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3217,8 +3217,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL2",
     "SWIFT Code": "NOSCCATTTL2",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3230,8 +3230,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL3",
     "SWIFT Code": "NOSCCATTTL3",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3243,8 +3243,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL4",
     "SWIFT Code": "NOSCCATTTL4",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3256,8 +3256,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL5",
     "SWIFT Code": "NOSCCATTTL5",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3269,8 +3269,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL6",
     "SWIFT Code": "NOSCCATTTL6",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3282,8 +3282,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL7",
     "SWIFT Code": "NOSCCATTTL7",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3295,8 +3295,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TR1",
     "SWIFT Code": "NOSCCATTTR1",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3308,8 +3308,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL8",
     "SWIFT Code": "NOSCCATTTL8",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3321,8 +3321,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TL9",
     "SWIFT Code": "NOSCCATTTL9",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3334,8 +3334,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TLA",
     "SWIFT Code": "NOSCCATTTLA",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3347,8 +3347,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TLB",
     "SWIFT Code": "NOSCCATTTLB",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3360,8 +3360,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TLC",
     "SWIFT Code": "NOSCCATTTLC",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3373,8 +3373,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TLD",
     "SWIFT Code": "NOSCCATTTLD",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3386,8 +3386,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "SEC",
     "SWIFT Code": "NOSCCATTSEC",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3399,8 +3399,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "NOSCCATT",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3412,8 +3412,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "BSM",
     "SWIFT Code": "NOSCCATTBSM",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3425,8 +3425,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TLE",
     "SWIFT Code": "NOSCCATTTLE",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3438,8 +3438,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "CST",
     "SWIFT Code": "NOSCCATTCST",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3451,8 +3451,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "COL",
     "SWIFT Code": "NOSCCATTCOL",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3464,8 +3464,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "CLS",
     "SWIFT Code": "NOSCCATTCLS",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3477,8 +3477,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "GES",
     "SWIFT Code": "NOSCCATTGES",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3490,8 +3490,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "MOC",
     "SWIFT Code": "NOSCCATTMOC",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3503,8 +3503,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TFS",
     "SWIFT Code": "NOSCCATTTFS",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3516,8 +3516,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "STF",
     "SWIFT Code": "NOSCCATTSTF",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3529,8 +3529,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "VCR",
     "SWIFT Code": "NOSCCATTVCR",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3542,8 +3542,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TPV",
     "SWIFT Code": "NOSCCATTTPV",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3555,8 +3555,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "WPG",
     "SWIFT Code": "NOSCCATTWPG",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3568,8 +3568,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "TPW",
     "SWIFT Code": "NOSCCATTTPW",
     "Bank Name": "THE BANK OF NOVA SCOTIA",
@@ -3581,8 +3581,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNLA",
-    "bankCode": "CA",
+    "bankCode": "CNLA",
+    "countryCode": "CA",
     "branchCode": "A4B",
     "SWIFT Code": "CNLACA4B",
     "Bank Name": "THE CANADA LIFE ASSURANCE COMPANY",
@@ -3594,8 +3594,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "CA",
+    "bankCode": "MFCT",
+    "countryCode": "CA",
     "branchCode": "ATA",
     "SWIFT Code": "MFCTCATA",
     "Bank Name": "THE MANUFACTURERS LIFE INSURANCE COMPANY",
@@ -3607,8 +3607,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "CA",
+    "bankCode": "CNOR",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CNORCATT",
     "Bank Name": "THE NORTHERN TRUST COMPANY, CANADA",
@@ -3620,8 +3620,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "CA",
+    "bankCode": "TDOM",
+    "countryCode": "CA",
     "branchCode": "CAL",
     "SWIFT Code": "TDOMCATTCAL",
     "Bank Name": "TORONTO-DOMINION BANK, THE",
@@ -3633,8 +3633,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "CA",
+    "bankCode": "TDOM",
+    "countryCode": "CA",
     "branchCode": "MTL",
     "SWIFT Code": "TDOMCATTMTL",
     "Bank Name": "TORONTO-DOMINION BANK, THE",
@@ -3646,8 +3646,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "CA",
+    "bankCode": "TDOM",
+    "countryCode": "CA",
     "branchCode": "TOR",
     "SWIFT Code": "TDOMCATTTOR",
     "Bank Name": "TORONTO-DOMINION BANK, THE",
@@ -3659,8 +3659,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "CA",
+    "bankCode": "TDOM",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "TDOMCATT",
     "Bank Name": "TORONTO-DOMINION BANK, THE",
@@ -3672,8 +3672,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "CA",
+    "bankCode": "TDOM",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "TDOMCATTVAN",
     "Bank Name": "TORONTO-DOMINION BANK, THE",
@@ -3685,8 +3685,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRLA",
-    "bankCode": "CA",
+    "bankCode": "TRLA",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "TRLACAMM",
     "Bank Name": "TRANS-CANADA CAPITAL INC.",
@@ -3698,8 +3698,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRLA",
-    "bankCode": "CA",
+    "bankCode": "TRLA",
+    "countryCode": "CA",
     "branchCode": "AMB",
     "SWIFT Code": "TRLACAMB",
     "Bank Name": "TRANS-CANADA CAPITAL INC.",
@@ -3711,8 +3711,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CA",
+    "bankCode": "UBSW",
+    "countryCode": "CA",
     "branchCode": "MTL",
     "SWIFT Code": "UBSWCATTMTL",
     "Bank Name": "UBS BANK (CANADA)",
@@ -3724,8 +3724,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CA",
+    "bankCode": "UBSW",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "UBSWCATT",
     "Bank Name": "UBS BANK (CANADA)",
@@ -3737,8 +3737,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CA",
+    "bankCode": "UBSW",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "UBSWCATTVAN",
     "Bank Name": "UBS BANK (CANADA)",
@@ -3750,8 +3750,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CA",
+    "bankCode": "UBSW",
+    "countryCode": "CA",
     "branchCode": "ATS",
     "SWIFT Code": "UBSWCATS",
     "Bank Name": "UBS SECURITIES CANADA INC",
@@ -3763,8 +3763,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "CA",
+    "bankCode": "UOVB",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "UOVBCA8V",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED VANCOUVER BRANCH",
@@ -3776,8 +3776,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAPA",
-    "bankCode": "CA",
+    "bankCode": "VAPA",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "VAPACA82",
     "Bank Name": "VALENS PAY LIMITED",
@@ -3789,8 +3789,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTZN",
-    "bankCode": "CA",
+    "bankCode": "CTZN",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "CTZNCA8V",
     "Bank Name": "VANCITY CREDIT UNION",
@@ -3802,8 +3802,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTZN",
-    "bankCode": "CA",
+    "bankCode": "CTZN",
+    "countryCode": "CA",
     "branchCode": "001",
     "SWIFT Code": "CTZNCA8V001",
     "Bank Name": "VANCITY CREDIT UNION",
@@ -3815,8 +3815,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBCE",
-    "bankCode": "CA",
+    "bankCode": "VBCE",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "VBCECA82",
     "Bank Name": "VANCOUVER BULLION AND CURRENCY EXCHANGE LTD.",
@@ -3828,8 +3828,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CA",
+    "bankCode": "CITI",
+    "countryCode": "CA",
     "branchCode": "BCH",
     "SWIFT Code": "CITICATTBCH",
     "Bank Name": "CITIBANK CANADA",
@@ -3841,8 +3841,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CA",
+    "bankCode": "CITI",
+    "countryCode": "CA",
     "branchCode": "617",
     "SWIFT Code": "CITICATT617",
     "Bank Name": "CITIBANK CANADA",
@@ -3854,8 +3854,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CA",
+    "bankCode": "CITI",
+    "countryCode": "CA",
     "branchCode": "615",
     "SWIFT Code": "CITICATT615",
     "Bank Name": "CITIBANK CANADA",
@@ -3867,8 +3867,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CA",
+    "bankCode": "CITI",
+    "countryCode": "CA",
     "branchCode": "623",
     "SWIFT Code": "CITICATT623",
     "Bank Name": "CITIBANK CANADA",
@@ -3880,8 +3880,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCK",
-    "bankCode": "CA",
+    "bankCode": "CMCK",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "CMCKCAT2",
     "Bank Name": "CMC MARKETS CANADA INC.",
@@ -3893,8 +3893,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCLF",
-    "bankCode": "CA",
+    "bankCode": "CCLF",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "CCLFCA82",
     "Bank Name": "CONNOR, CLARK AND LUNN FINANCIAL GROUP LTD.",
@@ -3906,8 +3906,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCLF",
-    "bankCode": "CA",
+    "bankCode": "CCLF",
+    "countryCode": "CA",
     "branchCode": "INV",
     "SWIFT Code": "CCLFCA82INV",
     "Bank Name": "CONNOR, CLARK AND LUNN FINANCIAL GROUP LTD.",
@@ -3919,8 +3919,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CA",
+    "bankCode": "CRES",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "CRESCATT",
     "Bank Name": "CREDIT SUISSE AG, TORONTO BRANCH",
@@ -3932,8 +3932,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CA",
+    "bankCode": "CRES",
+    "countryCode": "CA",
     "branchCode": "VIS",
     "SWIFT Code": "CRESCATTVIS",
     "Bank Name": "CREDIT SUISSE AG, TORONTO BRANCH",
@@ -3945,8 +3945,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CA",
+    "bankCode": "CTCB",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "CTCBCA8V",
     "Bank Name": "CTBC BANK CORP. (CANADA)",
@@ -3958,8 +3958,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUDC",
-    "bankCode": "CA",
+    "bankCode": "CUDC",
+    "countryCode": "CA",
     "branchCode": "A92",
     "SWIFT Code": "CUDCCA92",
     "Bank Name": "CURRENCIES DIRECT CANADA INC",
@@ -3971,8 +3971,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAFN",
-    "bankCode": "CA",
+    "bankCode": "DAFN",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "DAFNCA82",
     "Bank Name": "DAXIL FINANCE LTD.",
@@ -3984,8 +3984,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENN",
-    "bankCode": "CA",
+    "bankCode": "DENN",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "DENNCA82",
     "Bank Name": "DESTA FINANCE LTD",
@@ -3997,8 +3997,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CA",
+    "bankCode": "DEUT",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "DEUTCATT",
     "Bank Name": "DEUTSCHE BANK AG, CANADA BRANCH",
@@ -4010,8 +4010,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIEE",
-    "bankCode": "CA",
+    "bankCode": "DIEE",
+    "countryCode": "CA",
     "branchCode": "A66",
     "SWIFT Code": "DIEECA66",
     "Bank Name": "DIGITAL COMMERCE BANK",
@@ -4023,8 +4023,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DMIC",
-    "bankCode": "CA",
+    "bankCode": "DMIC",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "DMICCA82",
     "Bank Name": "DIXON MITCHELL INVESTMENT COUNSEL INC",
@@ -4036,8 +4036,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENCR",
-    "bankCode": "CA",
+    "bankCode": "ENCR",
+    "countryCode": "CA",
     "branchCode": "A88",
     "SWIFT Code": "ENCRCA88",
     "Bank Name": "ENCOREFX INC.",
@@ -4049,8 +4049,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBC",
-    "bankCode": "CA",
+    "bankCode": "EXBC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "EXBCCATT",
     "Bank Name": "EXCHANGE BANK OF CANADA",
@@ -4062,8 +4062,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDCO",
-    "bankCode": "CA",
+    "bankCode": "EDCO",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "EDCOCAW2",
     "Bank Name": "EXPORT DEVELOPMENT CANADA",
@@ -4075,8 +4075,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAGC",
-    "bankCode": "CA",
+    "bankCode": "FAGC",
+    "countryCode": "CA",
     "branchCode": "A22",
     "SWIFT Code": "FAGCCA22",
     "Bank Name": "FALCON GLOBAL CAPITAL INC.",
@@ -4088,8 +4088,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAFA",
-    "bankCode": "CA",
+    "bankCode": "FAFA",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "FAFACA82",
     "Bank Name": "FASTPAY FINANCIAL INC.",
@@ -4101,8 +4101,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCTI",
-    "bankCode": "CA",
+    "bankCode": "FCTI",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "FCTICATT",
     "Bank Name": "FCT INSURANCE COMPANY LTD",
@@ -4114,8 +4114,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCDQ",
-    "bankCode": "CA",
+    "bankCode": "CCDQ",
+    "countryCode": "CA",
     "branchCode": "AMA",
     "SWIFT Code": "CCDQCAMA",
     "Bank Name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
@@ -4127,8 +4127,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCDQ",
-    "bankCode": "CA",
+    "bankCode": "CCDQ",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "CCDQCAMM",
     "Bank Name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
@@ -4140,8 +4140,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCDQ",
-    "bankCode": "CA",
+    "bankCode": "CCDQ",
+    "countryCode": "CA",
     "branchCode": "IMM",
     "SWIFT Code": "CCDQCAMMIMM",
     "Bank Name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
@@ -4153,8 +4153,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCCL",
-    "bankCode": "CA",
+    "bankCode": "FCCL",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "FCCLCATT",
     "Bank Name": "FIDELITY CLEARING CANADA ULC",
@@ -4166,8 +4166,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCAI",
-    "bankCode": "CA",
+    "bankCode": "FCAI",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "FCAICAMM",
     "Bank Name": "FIERA CAPITAL CORPORATION",
@@ -4179,8 +4179,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCAI",
-    "bankCode": "CA",
+    "bankCode": "FCAI",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "FCAICAM2",
     "Bank Name": "FIERA CAPITAL CORPORATION",
@@ -4192,8 +4192,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNG",
-    "bankCode": "CA",
+    "bankCode": "FNNG",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "FNNGCA8V",
     "Bank Name": "FINNING INTERNATIONAL INC",
@@ -4205,8 +4205,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNF",
-    "bankCode": "CA",
+    "bankCode": "FNNF",
+    "countryCode": "CA",
     "branchCode": "A62",
     "SWIFT Code": "FNNFCA62",
     "Bank Name": "FINOFO INC.",
@@ -4218,8 +4218,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNPY",
-    "bankCode": "CA",
+    "bankCode": "FNPY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "FNPYCA82",
     "Bank Name": "FINTECT PAY LTD.",
@@ -4231,8 +4231,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIYY",
-    "bankCode": "CA",
+    "bankCode": "FIYY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "FIYYCA82",
     "Bank Name": "FINVISE PAY LTD.",
@@ -4244,8 +4244,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIYM",
-    "bankCode": "CA",
+    "bankCode": "FIYM",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "FIYMCAW2",
     "Bank Name": "FINVOKA PAYMENTS INC.",
@@ -4257,8 +4257,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFFX",
-    "bankCode": "CA",
+    "bankCode": "FFFX",
+    "countryCode": "CA",
     "branchCode": "A66",
     "SWIFT Code": "FFFXCA66",
     "Bank Name": "FIRMA FOREIGN EXCHANGE CORPORATION",
@@ -4270,8 +4270,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "CA",
+    "bankCode": "FCBK",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "FCBKCA8V",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -4283,8 +4283,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "CA",
+    "bankCode": "FCBK",
+    "countryCode": "CA",
     "branchCode": "909",
     "SWIFT Code": "FCBKCA8V909",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -4296,8 +4296,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOAI",
-    "bankCode": "CA",
+    "bankCode": "FOAI",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "FOAICA82",
     "Bank Name": "FORUS CAPITAL LTD",
@@ -4309,8 +4309,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GILA",
-    "bankCode": "CA",
+    "bankCode": "GILA",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "GILACAMM",
     "Bank Name": "GILDAN ACTIVEWEAR INC.",
@@ -4322,8 +4322,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLCE",
-    "bankCode": "CA",
+    "bankCode": "GLCE",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "GLCECAT2",
     "Bank Name": "GLOBAL CURRENCY SERVICES INC",
@@ -4335,8 +4335,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLCR",
-    "bankCode": "CA",
+    "bankCode": "GLCR",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "GLCRCATT",
     "Bank Name": "GLOBALTRADE CORPORATION",
@@ -4348,8 +4348,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUCA",
-    "bankCode": "CA",
+    "bankCode": "GUCA",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "GUCACATT",
     "Bank Name": "GUARDIAN CAPITAL LP",
@@ -4361,8 +4361,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAV",
-    "bankCode": "CA",
+    "bankCode": "GUAV",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "GUAVCATT",
     "Bank Name": "GUAVA PAY CANADA INC",
@@ -4374,8 +4374,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBZU",
-    "bankCode": "CA",
+    "bankCode": "HBZU",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "HBZUCATT",
     "Bank Name": "HABIB CANADIAN BANK",
@@ -4387,8 +4387,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIFX",
-    "bankCode": "CA",
+    "bankCode": "HIFX",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "HIFXCATT",
     "Bank Name": "HIFX CANADA INC",
@@ -4400,8 +4400,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBC",
-    "bankCode": "CA",
+    "bankCode": "HKBC",
+    "countryCode": "CA",
     "branchCode": "MON",
     "SWIFT Code": "HKBCCATTMON",
     "Bank Name": "HSBC BANK CANADA",
@@ -4413,8 +4413,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBC",
-    "bankCode": "CA",
+    "bankCode": "HKBC",
+    "countryCode": "CA",
     "branchCode": "CLS",
     "SWIFT Code": "HKBCCATTCLS",
     "Bank Name": "HSBC BANK CANADA",
@@ -4426,8 +4426,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBC",
-    "bankCode": "CA",
+    "bankCode": "HKBC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "HKBCCATT",
     "Bank Name": "HSBC BANK CANADA",
@@ -4439,8 +4439,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBC",
-    "bankCode": "CA",
+    "bankCode": "HKBC",
+    "countryCode": "CA",
     "branchCode": "INV",
     "SWIFT Code": "HKBCCATTINV",
     "Bank Name": "HSBC BANK CANADA",
@@ -4452,8 +4452,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKBC",
-    "bankCode": "CA",
+    "bankCode": "HKBC",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "HKBCCATTVAN",
     "Bank Name": "HSBC BANK CANADA",
@@ -4465,8 +4465,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSCI",
-    "bankCode": "CA",
+    "bankCode": "HSCI",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "HSCICATT",
     "Bank Name": "HSBC SECURITIES CANADA (INC)",
@@ -4478,8 +4478,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGOP",
-    "bankCode": "CA",
+    "bankCode": "AGOP",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "AGOPCATT",
     "Bank Name": "AECON",
@@ -4491,8 +4491,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIVV",
-    "bankCode": "CA",
+    "bankCode": "AIVV",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "AIVVCATT",
     "Bank Name": "AGF INVESTMENTS INC.",
@@ -4504,8 +4504,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACNA",
-    "bankCode": "CA",
+    "bankCode": "ACNA",
+    "countryCode": "CA",
     "branchCode": "A2Q",
     "SWIFT Code": "ACNACA2Q",
     "Bank Name": "AIR CANADA",
@@ -4517,8 +4517,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACMT",
-    "bankCode": "CA",
+    "bankCode": "ACMT",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "ACMTCAMM",
     "Bank Name": "AIR CANADA PENSION MASTER TRUST FUND",
@@ -4530,8 +4530,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIMC",
-    "bankCode": "CA",
+    "bankCode": "AIMC",
+    "countryCode": "CA",
     "branchCode": "A66",
     "SWIFT Code": "AIMCCA66",
     "Bank Name": "ALBERTA INVESTMENT MANAGEMENT CORPORATION",
@@ -4543,8 +4543,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIMY",
-    "bankCode": "CA",
+    "bankCode": "AIMY",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "AIMYCAMM",
     "Bank Name": "AMERICAN IRON AND METAL COMPANY INC.",
@@ -4556,8 +4556,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMPF",
-    "bankCode": "CA",
+    "bankCode": "AMPF",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "AMPFCA82",
     "Bank Name": "AMPR FINANCE LTD.",
@@ -4569,8 +4569,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARYY",
-    "bankCode": "CA",
+    "bankCode": "ARYY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "ARYYCA82",
     "Bank Name": "ARFEX PAY LTD.",
@@ -4582,8 +4582,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIL",
-    "bankCode": "CA",
+    "bankCode": "ASIL",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "ASILCATT",
     "Bank Name": "ASCENDANTFX CAPITAL INC",
@@ -4595,8 +4595,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATBR",
-    "bankCode": "CA",
+    "bankCode": "ATBR",
+    "countryCode": "CA",
     "branchCode": "A6E",
     "SWIFT Code": "ATBRCA6E",
     "Bank Name": "ATB FINANCIAL",
@@ -4608,8 +4608,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATLF",
-    "bankCode": "CA",
+    "bankCode": "ATLF",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "ATLFCA82",
     "Bank Name": "ATLASPAY FINANCE LTD",
@@ -4621,8 +4621,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAYY",
-    "bankCode": "CA",
+    "bankCode": "BAYY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "BAYYCA82",
     "Bank Name": "BANCORAGE PAY CORP.",
@@ -4634,8 +4634,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CA",
+    "bankCode": "BOFA",
+    "countryCode": "CA",
     "branchCode": "CAD",
     "SWIFT Code": "BOFACATTCAD",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
@@ -4647,8 +4647,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CA",
+    "bankCode": "BOFA",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "BOFACATT",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
@@ -4660,8 +4660,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CA",
+    "bankCode": "BOFA",
+    "countryCode": "CA",
     "branchCode": "FCS",
     "SWIFT Code": "BOFACATTFCS",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
@@ -4673,8 +4673,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CA",
+    "bankCode": "BOFA",
+    "countryCode": "CA",
     "branchCode": "GRC",
     "SWIFT Code": "BOFACATTGRC",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
@@ -4686,8 +4686,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CA",
+    "bankCode": "BOFA",
+    "countryCode": "CA",
     "branchCode": "TSY",
     "SWIFT Code": "BOFACATTTSY",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
@@ -4699,8 +4699,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CA",
+    "bankCode": "BOFA",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "BOFACATTVAN",
     "Bank Name": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
@@ -4712,8 +4712,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAN",
-    "bankCode": "CA",
+    "bankCode": "BCAN",
+    "countryCode": "CA",
     "branchCode": "AW2",
     "SWIFT Code": "BCANCAW2",
     "Bank Name": "BANK OF CANADA",
@@ -4725,8 +4725,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CA",
+    "bankCode": "BKCH",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "BKCHCATT",
     "Bank Name": "BANK OF CHINA (CANADA)",
@@ -4738,8 +4738,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CA",
+    "bankCode": "BKCH",
+    "countryCode": "CA",
     "branchCode": "VAN",
     "SWIFT Code": "BKCHCATTVAN",
     "Bank Name": "BANK OF CHINA (CANADA)",
@@ -4751,8 +4751,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CA",
+    "bankCode": "BKCH",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "BKCHCAT2",
     "Bank Name": "BANK OF CHINA TORONTO BRANCH",
@@ -4764,8 +4764,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "AM3",
     "SWIFT Code": "BOFMCAM3",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4777,8 +4777,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "AM2",
     "SWIFT Code": "BOFMCAM2",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4790,8 +4790,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "BMO",
     "SWIFT Code": "BOFMCAT2BMO",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4803,8 +4803,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "NBB",
     "SWIFT Code": "BOFMCAM2NBB",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4816,8 +4816,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "CLS",
     "SWIFT Code": "BOFMCAT2CLS",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4829,8 +4829,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "FXM",
     "SWIFT Code": "BOFMCAT2FXM",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4842,8 +4842,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "GCT",
     "SWIFT Code": "BOFMCAT2GCT",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4855,8 +4855,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CA",
+    "bankCode": "BOFM",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "BOFMCAT2",
     "Bank Name": "BANK OF MONTREAL, THE",
@@ -4868,8 +4868,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "CMS",
     "SWIFT Code": "NOSCCATMCMS",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4881,8 +4881,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "GTB",
     "SWIFT Code": "NOSCCATMGTB",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4894,8 +4894,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "REC",
     "SWIFT Code": "NOSCCATMREC",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4907,8 +4907,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "ESC",
     "SWIFT Code": "NOSCCATMESC",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4920,8 +4920,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "GLS",
     "SWIFT Code": "NOSCCATMGLS",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4933,8 +4933,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "PBG",
     "SWIFT Code": "NOSCCATMPBG",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4946,8 +4946,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "ATM",
     "SWIFT Code": "NOSCCATM",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4959,8 +4959,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "SEC",
     "SWIFT Code": "NOSCCATMSEC",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4972,8 +4972,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CA",
+    "bankCode": "NOSC",
+    "countryCode": "CA",
     "branchCode": "WM1",
     "SWIFT Code": "NOSCCATMWM1",
     "Bank Name": "BANK OF NOVA SCOTIA",
@@ -4985,8 +4985,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDC",
-    "bankCode": "CA",
+    "bankCode": "BNDC",
+    "countryCode": "CA",
     "branchCode": "AMM",
     "SWIFT Code": "BNDCCAMM",
     "Bank Name": "BANQUE NATIONALE DU CANADA",
@@ -4998,8 +4998,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDC",
-    "bankCode": "CA",
+    "bankCode": "BNDC",
+    "countryCode": "CA",
     "branchCode": "CUS",
     "SWIFT Code": "BNDCCAMMCUS",
     "Bank Name": "BANQUE NATIONALE DU CANADA",
@@ -5011,8 +5011,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDC",
-    "bankCode": "CA",
+    "bankCode": "BNDC",
+    "countryCode": "CA",
     "branchCode": "INT",
     "SWIFT Code": "BNDCCAMMINT",
     "Bank Name": "BANQUE NATIONALE DU CANADA",
@@ -5024,8 +5024,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDC",
-    "bankCode": "CA",
+    "bankCode": "BNDC",
+    "countryCode": "CA",
     "branchCode": "VAL",
     "SWIFT Code": "BNDCCAMMVAL",
     "Bank Name": "BANQUE NATIONALE DU CANADA",
@@ -5037,8 +5037,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDC",
-    "bankCode": "CA",
+    "bankCode": "BNDC",
+    "countryCode": "CA",
     "branchCode": "IMM",
     "SWIFT Code": "BNDCCAMMIMM",
     "Bank Name": "BANQUE NATIONALE DU CANADA",
@@ -5050,8 +5050,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRGC",
-    "bankCode": "CA",
+    "bankCode": "BRGC",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "BRGCCATT",
     "Bank Name": "BARRICK GOLD CORPORATION",
@@ -5063,8 +5063,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOC",
-    "bankCode": "CA",
+    "bankCode": "BLOC",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "BLOCCA8V",
     "Bank Name": "BAUSCH + LOMB CORPORATION",
@@ -5076,8 +5076,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHCN",
-    "bankCode": "CA",
+    "bankCode": "BHCN",
+    "countryCode": "CA",
     "branchCode": "A8V",
     "SWIFT Code": "BHCNCA8V",
     "Bank Name": "BAUSCH HEALTH COMPANIES INC.",
@@ -5089,8 +5089,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFXC",
-    "bankCode": "CA",
+    "bankCode": "BFXC",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "BFXCCAT2",
     "Bank Name": "BENDIX FOREIGN EXCHANGE CORPORATION",
@@ -5102,8 +5102,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGCO",
-    "bankCode": "CA",
+    "bankCode": "BGCO",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "BGCOCATT",
     "Bank Name": "BEUTEL, GOODMAN AND COMPANY LTD.",
@@ -5115,8 +5115,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIMM",
-    "bankCode": "CA",
+    "bankCode": "RIMM",
+    "countryCode": "CA",
     "branchCode": "A2W",
     "SWIFT Code": "RIMMCA2W",
     "Bank Name": "BLACKBERRY LIMITED",
@@ -5128,8 +5128,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAPY",
-    "bankCode": "CA",
+    "bankCode": "VAPY",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "VAPYCAT2",
     "Bank Name": "VAULT PAYMENTS INC.",
@@ -5141,8 +5141,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEPY",
-    "bankCode": "CA",
+    "bankCode": "VEPY",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "VEPYCA82",
     "Bank Name": "VEQTOR PAY LTD.",
@@ -5154,8 +5154,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEIE",
-    "bankCode": "CA",
+    "bankCode": "WEIE",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "WEIECAT2",
     "Bank Name": "WEALTHSIMPLE INVESTMENTS INC.",
@@ -5167,8 +5167,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WSCP",
-    "bankCode": "CA",
+    "bankCode": "WSCP",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "WSCPCAT2",
     "Bank Name": "WELLINGTON SQUARE CAPITAL PARTNERS INC.",
@@ -5180,8 +5180,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "CA",
+    "bankCode": "PNBP",
+    "countryCode": "CA",
     "branchCode": "LIQ",
     "SWIFT Code": "PNBPCATTLIQ",
     "Bank Name": "WELLS FARGO BANK, N. A. CANADIAN BRANCH",
@@ -5193,8 +5193,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "CA",
+    "bankCode": "PNBP",
+    "countryCode": "CA",
     "branchCode": "ATT",
     "SWIFT Code": "PNBPCATT",
     "Bank Name": "WELLS FARGO BANK, N. A. CANADIAN BRANCH",
@@ -5206,8 +5206,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYFN",
-    "bankCode": "CA",
+    "bankCode": "PYFN",
+    "countryCode": "CA",
     "branchCode": "A82",
     "SWIFT Code": "PYFNCA82",
     "Bank Name": "XAMAX FINANCE LTD",
@@ -5219,8 +5219,8 @@ const canada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZRCP",
-    "bankCode": "CA",
+    "bankCode": "ZRCP",
+    "countryCode": "CA",
     "branchCode": "AT2",
     "SWIFT Code": "ZRCPCAT2",
     "Bank Name": "ZYRIO CORPORATION",

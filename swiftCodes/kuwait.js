@@ -1,7 +1,7 @@
 const kuwait = [
   {
-    "countryCode": "APWA",
-    "bankCode": "KW",
+    "bankCode": "APWA",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "APWAKWKW",
     "Bank Name": "AGILITY PUBLIC WAREHOUSING COMPANY K.S.C.P",
@@ -13,8 +13,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKME",
-    "bankCode": "KW",
+    "bankCode": "BKME",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BKMEKWKW",
     "Bank Name": "AHLI UNITED BANK K.S.C.P.",
@@ -26,8 +26,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKK",
-    "bankCode": "KW",
+    "bankCode": "ABKK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "ABKKKWKW",
     "Bank Name": "AL AHLI BANK OF KUWAIT K.S.C.P",
@@ -39,8 +39,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKK",
-    "bankCode": "KW",
+    "bankCode": "ABKK",
+    "countryCode": "KW",
     "branchCode": "ACI",
     "SWIFT Code": "ABKKKWKWACI",
     "Bank Name": "AL AHLI BANK OF KUWAIT K.S.C.P",
@@ -52,8 +52,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGHM",
-    "bankCode": "KW",
+    "bankCode": "MGHM",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "MGHMKWKW",
     "Bank Name": "AL MULLA GROUP HOLDING CO. KSCC",
@@ -65,8 +65,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMIE",
-    "bankCode": "KW",
+    "bankCode": "AMIE",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "AMIEKWKW",
     "Bank Name": "AL MULLA INTERNATIONAL EXCHANGE CO",
@@ -78,8 +78,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMIE",
-    "bankCode": "KW",
+    "bankCode": "AMIE",
+    "countryCode": "KW",
     "branchCode": "1ME",
     "SWIFT Code": "AMIEKWKW1ME",
     "Bank Name": "AL MULLA INTERNATIONAL EXCHANGE CO",
@@ -91,8 +91,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMIE",
-    "bankCode": "KW",
+    "bankCode": "AMIE",
+    "countryCode": "KW",
     "branchCode": "2ME",
     "SWIFT Code": "AMIEKWKW2ME",
     "Bank Name": "AL MULLA INTERNATIONAL EXCHANGE CO",
@@ -104,8 +104,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAAC",
-    "bankCode": "KW",
+    "bankCode": "AAAC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "AAACKWKW",
     "Bank Name": "AL MUZAINI EXCHANGE CO. KSCC",
@@ -117,8 +117,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIEN",
-    "bankCode": "KW",
+    "bankCode": "NIEN",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "NIENKWKW",
     "Bank Name": "AL NADA INTERNATIONAL EXCHANGE COMPANY WLL",
@@ -130,8 +130,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RJHI",
-    "bankCode": "KW",
+    "bankCode": "RJHI",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "RJHIKWKW",
     "Bank Name": "AL RAJHI BANK, KUWAIT",
@@ -143,8 +143,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFBO",
-    "bankCode": "KW",
+    "bankCode": "AFBO",
+    "countryCode": "KW",
     "branchCode": "WK2",
     "SWIFT Code": "AFBOKWK2",
     "Bank Name": "AL-WASEET FINANCIAL BUSINESS CO. (K.S.C)CLOSED",
@@ -156,8 +156,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXCW",
-    "bankCode": "KW",
+    "bankCode": "AXCW",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "AXCWKWKW",
     "Bank Name": "AMAN EXCHANGE CO. WLL",
@@ -169,8 +169,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFDC",
-    "bankCode": "KW",
+    "bankCode": "KFDC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KFDCKWKW",
     "Bank Name": "AMERICANA KUWAIT COMPANY FOR RESTAURANTS WLL",
@@ -182,8 +182,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFED",
-    "bankCode": "KW",
+    "bankCode": "AFED",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "AFEDKWKW",
     "Bank Name": "ARAB FUND FOR ECONOMIC AND SOCIAL DEVELOPMENT",
@@ -195,8 +195,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFGP",
-    "bankCode": "KW",
+    "bankCode": "AFGP",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "AFGPKWKW",
     "Bank Name": "ARZAN FINANCIAL GROUP FOR FINANCING AND INVESTMENTS K.P.S.C",
@@ -208,8 +208,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BECX",
-    "bankCode": "KW",
+    "bankCode": "BECX",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BECXKWKW",
     "Bank Name": "BAHRAIN EXCHANGE COMPANY WLL",
@@ -221,8 +221,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMUS",
-    "bankCode": "KW",
+    "bankCode": "BMUS",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BMUSKWKW",
     "Bank Name": "BANKMUSCAT",
@@ -234,8 +234,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBKU",
-    "bankCode": "KW",
+    "bankCode": "BBKU",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BBKUKWKW",
     "Bank Name": "BBK",
@@ -247,8 +247,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "KW",
+    "bankCode": "BNPA",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BNPAKWKW",
     "Bank Name": "BNP PARIBAS KUWAIT",
@@ -260,8 +260,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBYN",
-    "bankCode": "KW",
+    "bankCode": "BBYN",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BBYNKWKW",
     "Bank Name": "BOUBYAN BANK (K.S.C)",
@@ -273,8 +273,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRGN",
-    "bankCode": "KW",
+    "bankCode": "BRGN",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "BRGNKWKW",
     "Bank Name": "BURGAN BANK K.P.S.C",
@@ -286,8 +286,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKU",
-    "bankCode": "KW",
+    "bankCode": "CBKU",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "CBKUKWKW",
     "Bank Name": "CENTRAL BANK OF KUWAIT",
@@ -299,8 +299,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBKU",
-    "bankCode": "KW",
+    "bankCode": "CBKU",
+    "countryCode": "KW",
     "branchCode": "BOD",
     "SWIFT Code": "CBKUKWKWBOD",
     "Bank Name": "CENTRAL BANK OF KUWAIT",
@@ -312,8 +312,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "KW",
+    "bankCode": "CITI",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "CITIKWKW",
     "Bank Name": "CITIBANK N.A.",
@@ -325,8 +325,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A14",
     "SWIFT Code": "COMBKWKWA14",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -338,8 +338,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A19",
     "SWIFT Code": "COMBKWKWA19",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -351,8 +351,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A66",
     "SWIFT Code": "COMBKWKWA66",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -364,8 +364,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A11",
     "SWIFT Code": "COMBKWKWA11",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -377,8 +377,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A06",
     "SWIFT Code": "COMBKWKWA06",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -390,8 +390,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A04",
     "SWIFT Code": "COMBKWKWA04",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -403,8 +403,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A27",
     "SWIFT Code": "COMBKWKWA27",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -416,8 +416,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A34",
     "SWIFT Code": "COMBKWKWA34",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -429,8 +429,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A2O",
     "SWIFT Code": "COMBKWKWA2O",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -442,8 +442,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A16",
     "SWIFT Code": "COMBKWKWA16",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -455,8 +455,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A35",
     "SWIFT Code": "COMBKWKWA35",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -468,8 +468,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A07",
     "SWIFT Code": "COMBKWKWA07",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -481,8 +481,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A08",
     "SWIFT Code": "COMBKWKWA08",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -494,8 +494,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A15",
     "SWIFT Code": "COMBKWKWA15",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -507,8 +507,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "COMBKWKW",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -520,8 +520,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A05",
     "SWIFT Code": "COMBKWKWA05",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -533,8 +533,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A02",
     "SWIFT Code": "COMBKWKWA02",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -546,8 +546,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A36",
     "SWIFT Code": "COMBKWKWA36",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -559,8 +559,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A25",
     "SWIFT Code": "COMBKWKWA25",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -572,8 +572,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A56",
     "SWIFT Code": "COMBKWKWA56",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -585,8 +585,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A60",
     "SWIFT Code": "COMBKWKWA60",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -598,8 +598,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A58",
     "SWIFT Code": "COMBKWKWA58",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -611,8 +611,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A57",
     "SWIFT Code": "COMBKWKWA57",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -624,8 +624,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A45",
     "SWIFT Code": "COMBKWKWA45",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -637,8 +637,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A32",
     "SWIFT Code": "COMBKWKWA32",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -650,8 +650,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A20",
     "SWIFT Code": "COMBKWKWA20",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -663,8 +663,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A52",
     "SWIFT Code": "COMBKWKWA52",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -676,8 +676,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "COM",
     "SWIFT Code": "COMBKWKWCOM",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -689,8 +689,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "SEC",
     "SWIFT Code": "COMBKWKWSEC",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -702,8 +702,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A62",
     "SWIFT Code": "COMBKWKWA62",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -715,8 +715,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A41",
     "SWIFT Code": "COMBKWKWA41",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -728,8 +728,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A09",
     "SWIFT Code": "COMBKWKWA09",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -741,8 +741,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "FXS",
     "SWIFT Code": "COMBKWKWFXS",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -754,8 +754,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A38",
     "SWIFT Code": "COMBKWKWA38",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -767,8 +767,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "GTT",
     "SWIFT Code": "COMBKWKWGTT",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -780,8 +780,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A64",
     "SWIFT Code": "COMBKWKWA64",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -793,8 +793,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A01",
     "SWIFT Code": "COMBKWKWA01",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -806,8 +806,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "INT",
     "SWIFT Code": "COMBKWKWINT",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -819,8 +819,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A63",
     "SWIFT Code": "COMBKWKWA63",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -832,8 +832,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A43",
     "SWIFT Code": "COMBKWKWA43",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -845,8 +845,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "LCS",
     "SWIFT Code": "COMBKWKWLCS",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -858,8 +858,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A44",
     "SWIFT Code": "COMBKWKWA44",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -871,8 +871,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A31",
     "SWIFT Code": "COMBKWKWA31",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -884,8 +884,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "B00",
     "SWIFT Code": "COMBKWKWB00",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -897,8 +897,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A47",
     "SWIFT Code": "COMBKWKWA47",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -910,8 +910,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A40",
     "SWIFT Code": "COMBKWKWA40",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -923,8 +923,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "SWI",
     "SWIFT Code": "COMBKWKWSWI",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -936,8 +936,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A54",
     "SWIFT Code": "COMBKWKWA54",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -949,8 +949,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A30",
     "SWIFT Code": "COMBKWKWA30",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -962,8 +962,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A51",
     "SWIFT Code": "COMBKWKWA51",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -975,8 +975,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A55",
     "SWIFT Code": "COMBKWKWA55",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -988,8 +988,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "TLX",
     "SWIFT Code": "COMBKWKWTLX",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1001,8 +1001,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A53",
     "SWIFT Code": "COMBKWKWA53",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1014,8 +1014,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A42",
     "SWIFT Code": "COMBKWKWA42",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1027,8 +1027,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A65",
     "SWIFT Code": "COMBKWKWA65",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1040,8 +1040,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A24",
     "SWIFT Code": "COMBKWKWA24",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1053,8 +1053,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A17",
     "SWIFT Code": "COMBKWKWA17",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1066,8 +1066,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A10",
     "SWIFT Code": "COMBKWKWA10",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1079,8 +1079,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A67",
     "SWIFT Code": "COMBKWKWA67",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1092,8 +1092,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A18",
     "SWIFT Code": "COMBKWKWA18",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1105,8 +1105,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A12",
     "SWIFT Code": "COMBKWKWA12",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1118,8 +1118,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A33",
     "SWIFT Code": "COMBKWKWA33",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1131,8 +1131,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A23",
     "SWIFT Code": "COMBKWKWA23",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1144,8 +1144,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A48",
     "SWIFT Code": "COMBKWKWA48",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1157,8 +1157,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A26",
     "SWIFT Code": "COMBKWKWA26",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1170,8 +1170,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A39",
     "SWIFT Code": "COMBKWKWA39",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1183,8 +1183,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A21",
     "SWIFT Code": "COMBKWKWA21",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1196,8 +1196,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A28",
     "SWIFT Code": "COMBKWKWA28",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1209,8 +1209,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A13",
     "SWIFT Code": "COMBKWKWA13",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1222,8 +1222,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMB",
-    "bankCode": "KW",
+    "bankCode": "COMB",
+    "countryCode": "KW",
     "branchCode": "A46",
     "SWIFT Code": "COMBKWKWA46",
     "Bank Name": "COMMERCIAL BANK OF KUWAIT KPSC",
@@ -1235,8 +1235,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "KW",
+    "bankCode": "DOHB",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "DOHBKWKW",
     "Bank Name": "DOHA BANK",
@@ -1248,8 +1248,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQPC",
-    "bankCode": "KW",
+    "bankCode": "EQPC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "EQPCKWKW",
     "Bank Name": "EQUATE PETROCHEMICAL COMPANY KSCC",
@@ -1261,8 +1261,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "KW",
+    "bankCode": "NBAD",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "NBADKWKW",
     "Bank Name": "FIRST ABU DHABI BANK (FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -1274,8 +1274,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULB",
-    "bankCode": "KW",
+    "bankCode": "GULB",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "GULBKWKW",
     "Bank Name": "GULF BANK, K.S.C.P.",
@@ -1287,8 +1287,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULB",
-    "bankCode": "KW",
+    "bankCode": "GULB",
+    "countryCode": "KW",
     "branchCode": "TFS",
     "SWIFT Code": "GULBKWKWTFS",
     "Bank Name": "GULF BANK, K.S.C.P.",
@@ -1300,8 +1300,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULB",
-    "bankCode": "KW",
+    "bankCode": "GULB",
+    "countryCode": "KW",
     "branchCode": "TRO",
     "SWIFT Code": "GULBKWKWTRO",
     "Bank Name": "GULF BANK, K.S.C.P.",
@@ -1313,8 +1313,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULB",
-    "bankCode": "KW",
+    "bankCode": "GULB",
+    "countryCode": "KW",
     "branchCode": "VOS",
     "SWIFT Code": "GULBKWKWVOS",
     "Bank Name": "GULF BANK, K.S.C.P.",
@@ -1326,8 +1326,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCHS",
-    "bankCode": "KW",
+    "bankCode": "GCHS",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "GCHSKWKW",
     "Bank Name": "GULF CRYO HOLDING CO. KSCC",
@@ -1339,8 +1339,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCCO",
-    "bankCode": "KW",
+    "bankCode": "GCCO",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "GCCOKWKW",
     "Bank Name": "GULF CUSTODY COMPANY",
@@ -1352,8 +1352,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCOR",
-    "bankCode": "KW",
+    "bankCode": "GCOR",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "GCORKWKW",
     "Bank Name": "GULF INVESTMENT CORPORATION",
@@ -1365,8 +1365,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBME",
-    "bankCode": "KW",
+    "bankCode": "HBME",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "HBMEKWKW",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -1378,8 +1378,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "KW",
+    "bankCode": "ICBK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "ICBKKWKW",
     "Bank Name": "ICBC KUWAIT BRANCH",
@@ -1391,8 +1391,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPGH",
-    "bankCode": "KW",
+    "bankCode": "IPGH",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "IPGHKWKW",
     "Bank Name": "INDEPENDENT PETROLEUM GROUP",
@@ -1404,8 +1404,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKU",
-    "bankCode": "KW",
+    "bankCode": "IBKU",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "IBKUKWKW",
     "Bank Name": "INDUSTRIAL BANK OF KUWAIT K.S.C., THE",
@@ -1417,8 +1417,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIDC",
-    "bankCode": "KW",
+    "bankCode": "TIDC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "TIDCKWKW",
     "Bank Name": "INVESTMENT DAR COMPANY K.S.C.C, THE",
@@ -1430,8 +1430,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KMCO",
-    "bankCode": "KW",
+    "bankCode": "KMCO",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KMCOKWKW",
     "Bank Name": "KAMCO INVESTMENT COMPANY K.S.C. (PUBLIC)",
@@ -1443,8 +1443,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KNPC",
-    "bankCode": "KW",
+    "bankCode": "KNPC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KNPCKWKW",
     "Bank Name": "KNPC",
@@ -1456,8 +1456,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KACC",
-    "bankCode": "KW",
+    "bankCode": "KACC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KACCKWKW",
     "Bank Name": "KUWAIT AIRWAYS CORPORATION",
@@ -1469,8 +1469,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAFO",
-    "bankCode": "KW",
+    "bankCode": "KAFO",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KAFOKWKW",
     "Bank Name": "KUWAIT AVIATION FUELLING COMPANY, K.S.C",
@@ -1482,8 +1482,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCK",
-    "bankCode": "KW",
+    "bankCode": "KCCK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KCCKKWKW",
     "Bank Name": "KUWAIT CLEARING COMPANY SAK",
@@ -1495,8 +1495,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFHO",
-    "bankCode": "KW",
+    "bankCode": "KFHO",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KFHOKWKW",
     "Bank Name": "KUWAIT FINANCE HOUSE K.S.C.P.",
@@ -1508,8 +1508,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFCE",
-    "bankCode": "KW",
+    "bankCode": "KFCE",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KFCEKWKW",
     "Bank Name": "KUWAIT FINANCIAL CENTRE K.P.S.C.",
@@ -1521,8 +1521,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFPE",
-    "bankCode": "KW",
+    "bankCode": "KFPE",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KFPEKWKW",
     "Bank Name": "KUWAIT FOREIGN PETROLEUM EXPLORATION COMPANY KSCC",
@@ -1534,8 +1534,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFAE",
-    "bankCode": "KW",
+    "bankCode": "KFAE",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KFAEKWKW",
     "Bank Name": "KUWAIT FUND FOR ARAB ECONOMIC DEVELOPMENT",
@@ -1547,8 +1547,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGOC",
-    "bankCode": "KW",
+    "bankCode": "KGOC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KGOCKWKW",
     "Bank Name": "KUWAIT GULF OIL CO. K.S.C",
@@ -1560,8 +1560,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIPM",
-    "bankCode": "KW",
+    "bankCode": "KIPM",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KIPMKWKW",
     "Bank Name": "KUWAIT INTEGRATED PETROLEUM INDUSTRIES CO. K.S.C.C.C.C.",
@@ -1573,8 +1573,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWIB",
-    "bankCode": "KW",
+    "bankCode": "KWIB",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KWIBKWKW",
     "Bank Name": "KUWAIT INTERNATIONAL BANK",
@@ -1586,8 +1586,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIAK",
-    "bankCode": "KW",
+    "bankCode": "KIAK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KIAKKWKW",
     "Bank Name": "KUWAIT INVESTMENT AUTHORITY",
@@ -1599,8 +1599,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIAK",
-    "bankCode": "KW",
+    "bankCode": "KIAK",
+    "countryCode": "KW",
     "branchCode": "WKB",
     "SWIFT Code": "KIAKKWKB",
     "Bank Name": "KUWAIT INVESTMENT AUTHORITY",
@@ -1612,8 +1612,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KICO",
-    "bankCode": "KW",
+    "bankCode": "KICO",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KICOKWKW",
     "Bank Name": "KUWAIT INVESTMENT COMPANY (S.A.K.)",
@@ -1625,8 +1625,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUOC",
-    "bankCode": "KW",
+    "bankCode": "KUOC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KUOCKWKW",
     "Bank Name": "KUWAIT OIL COMPANY K.S.C.",
@@ -1638,8 +1638,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOTA",
-    "bankCode": "KW",
+    "bankCode": "KOTA",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KOTAKWKW",
     "Bank Name": "KUWAIT OIL TANKER CO. S.A.K.",
@@ -1651,8 +1651,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KPCO",
-    "bankCode": "KW",
+    "bankCode": "KPCO",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KPCOKWKW",
     "Bank Name": "KUWAIT PETROLEUM CORPORATION",
@@ -1664,8 +1664,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTCK",
-    "bankCode": "KW",
+    "bankCode": "KTCK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "KTCKKWKW",
     "Bank Name": "KUWAIT TELECOMMUNICATION COMPANY (K.S.C.)",
@@ -1677,8 +1677,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "KW",
+    "bankCode": "MSHQ",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "MSHQKWKW",
     "Bank Name": "MASHREQBANK PSC.",
@@ -1690,8 +1690,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFB",
-    "bankCode": "KW",
+    "bankCode": "MEFB",
+    "countryCode": "KW",
     "branchCode": "WK2",
     "SWIFT Code": "MEFBKWK2",
     "Bank Name": "MIDDLE EAST FINANCIAL BROKERAGE CO.",
@@ -1703,8 +1703,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAN",
-    "bankCode": "KW",
+    "bankCode": "MNAN",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "MNANKWKW",
     "Bank Name": "MOHAMMED NASER AL SAYER AND SONS EST. CO",
@@ -1716,8 +1716,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "KW",
+    "bankCode": "NBOK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "NBOKKWKW",
     "Bank Name": "NATIONAL BANK OF KUWAIT S.A.K.P.",
@@ -1729,8 +1729,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NICK",
-    "bankCode": "KW",
+    "bankCode": "NICK",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "NICKKWKW",
     "Bank Name": "NATIONAL INVESTMENTS COMPANY K.S.C. (CLOSED)",
@@ -1742,8 +1742,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFIC",
-    "bankCode": "KW",
+    "bankCode": "NFIC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "NFICKWKW",
     "Bank Name": "NOOR FINANCIAL INVESTMENT COMPANY",
@@ -1755,8 +1755,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMAN",
-    "bankCode": "KW",
+    "bankCode": "OMAN",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "OMANKWKW",
     "Bank Name": "OMAN EXCHANGE CO. WLL",
@@ -1768,8 +1768,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIPC",
-    "bankCode": "KW",
+    "bankCode": "PIPC",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "PIPCKWKW",
     "Bank Name": "PETROCHEMICAL INDUSTRIES COMPANY K.S.C.",
@@ -1781,8 +1781,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PISU",
-    "bankCode": "KW",
+    "bankCode": "PISU",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "PISUKWKW",
     "Bank Name": "PUBLIC INSTITUTION FOR SOCIAL SECURITY,THE",
@@ -1794,8 +1794,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "KW",
+    "bankCode": "QNBA",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "QNBAKWKW",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -1807,8 +1807,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WRBA",
-    "bankCode": "KW",
+    "bankCode": "WRBA",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "WRBAKWKW",
     "Bank Name": "WARBA BANK",
@@ -1820,8 +1820,8 @@ const kuwait = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALGW",
-    "bankCode": "KW",
+    "bankCode": "ALGW",
+    "countryCode": "KW",
     "branchCode": "WKW",
     "SWIFT Code": "ALGWKWKW",
     "Bank Name": "YUSUF AHMED ALGHANIM AND SONS WLL",

@@ -1,7 +1,7 @@
 const macedonia = [
   {
-    "countryCode": "CECB",
-    "bankCode": "MK",
+    "bankCode": "CECB",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "CECBMK22",
     "Bank Name": "CENTRAL COOPERATIVE BANK AD SKOPJE",
@@ -13,8 +13,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBDP",
-    "bankCode": "MK",
+    "bankCode": "MBDP",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "MBDPMK22",
     "Bank Name": "DEVELOPMENT BANK OF NORTH MACEDONIA JSC SKOPJE",
@@ -26,8 +26,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXPC",
-    "bankCode": "MK",
+    "bankCode": "EXPC",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "EXPCMK22",
     "Bank Name": "HALKBANK AD SKOPJE",
@@ -39,8 +39,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAPB",
-    "bankCode": "MK",
+    "bankCode": "KAPB",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "KAPBMK22",
     "Bank Name": "KAPITAL BANKA AD SKOPJE",
@@ -52,8 +52,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "BTB",
     "SWIFT Code": "KOBSMK2XBTB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -65,8 +65,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "GVB",
     "SWIFT Code": "KOBSMK2XGVB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -78,8 +78,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "KVB",
     "SWIFT Code": "KOBSMK2XKVB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -91,8 +91,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "KOB",
     "SWIFT Code": "KOBSMK2XKOB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -104,8 +104,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "KUB",
     "SWIFT Code": "KOBSMK2XKUB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -117,8 +117,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "OHB",
     "SWIFT Code": "KOBSMK2XOHB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -130,8 +130,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "PRB",
     "SWIFT Code": "KOBSMK2XPRB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -143,8 +143,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "K2X",
     "SWIFT Code": "KOBSMK2X",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -156,8 +156,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "STB",
     "SWIFT Code": "KOBSMK2XSTB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -170,8 +170,8 @@ const macedonia = [
   },
   {},
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "TEB",
     "SWIFT Code": "KOBSMK2XTEB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -183,8 +183,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBS",
-    "bankCode": "MK",
+    "bankCode": "KOBS",
+    "countryCode": "MK",
     "branchCode": "VEB",
     "SWIFT Code": "KOBSMK2XVEB",
     "Bank Name": "KOMERCIJALNA BANKA AD SKOPJE",
@@ -196,8 +196,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBRM",
-    "bankCode": "MK",
+    "bankCode": "NBRM",
+    "countryCode": "MK",
     "branchCode": "K2X",
     "SWIFT Code": "NBRMMK2X",
     "Bank Name": "NATIONAL BANK OF THE REPUBLIC OF NORTH MACEDONIA",
@@ -209,8 +209,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBRM",
-    "bankCode": "MK",
+    "bankCode": "NBRM",
+    "countryCode": "MK",
     "branchCode": "K2A",
     "SWIFT Code": "NBRMMK2A",
     "Bank Name": "NATIONAL BANK OF THE REPUBLIC OF NORTH MACEDONIA",
@@ -222,8 +222,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUTN",
-    "bankCode": "MK",
+    "bankCode": "TUTN",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "TUTNMK22",
     "Bank Name": "NLB BANKA AD SKOPJE",
@@ -235,8 +235,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBU",
-    "bankCode": "MK",
+    "bankCode": "PRBU",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "PRBUMK22",
     "Bank Name": "PROCREDIT BANK, MACEDONIA (FORMERLY PRO BUSINESS BANK A.D. SKOPJE)",
@@ -248,8 +248,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRSK",
-    "bankCode": "MK",
+    "bankCode": "KRSK",
+    "countryCode": "MK",
     "branchCode": "K2X",
     "SWIFT Code": "KRSKMK2X",
     "Bank Name": "SILK ROAD BANK AD SKOPJE",
@@ -261,8 +261,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSB",
-    "bankCode": "MK",
+    "bankCode": "INSB",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "INSBMK22",
     "Bank Name": "SPARKASSE BANK AD SKOPJE",
@@ -274,8 +274,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STOB",
-    "bankCode": "MK",
+    "bankCode": "STOB",
+    "countryCode": "MK",
     "branchCode": "K2X",
     "SWIFT Code": "STOBMK2X",
     "Bank Name": "STOPANSKA BANKA A.D.",
@@ -287,8 +287,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBB",
-    "bankCode": "MK",
+    "bankCode": "STBB",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "STBBMK22",
     "Bank Name": "STOPANSKA BANKA AD BITOLA",
@@ -300,8 +300,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTXB",
-    "bankCode": "MK",
+    "bankCode": "TTXB",
+    "countryCode": "MK",
     "branchCode": "K2X",
     "SWIFT Code": "TTXBMK2X",
     "Bank Name": "TTK BANKA AD SKOPJE",
@@ -313,8 +313,8 @@ const macedonia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UIBM",
-    "bankCode": "MK",
+    "bankCode": "UIBM",
+    "countryCode": "MK",
     "branchCode": "K22",
     "SWIFT Code": "UIBMMK22",
     "Bank Name": "UNIVERSAL INVESTMENT BANK AD SKOPJE (UNIBANK)",

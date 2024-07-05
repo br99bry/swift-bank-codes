@@ -1,7 +1,7 @@
 const swaziland = [
   {
-    "countryCode": "SWAZ",
-    "bankCode": "SZ",
+    "bankCode": "SWAZ",
+    "countryCode": "SZ",
     "branchCode": "ZMB",
     "SWIFT Code": "SWAZSZMB",
     "Bank Name": "CENTRAL BANK OF ESWATINI",
@@ -13,8 +13,8 @@ const swaziland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FARP",
-    "bankCode": "SZ",
+    "bankCode": "FARP",
+    "countryCode": "SZ",
     "branchCode": "ZMA",
     "SWIFT Code": "FARPSZMA",
     "Bank Name": "FARMERS BANK (PTY) LTD",
@@ -26,8 +26,8 @@ const swaziland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "SZ",
+    "bankCode": "FIRN",
+    "countryCode": "SZ",
     "branchCode": "ZMX",
     "SWIFT Code": "FIRNSZMX",
     "Bank Name": "FIRST NATIONAL BANK OF ESWATINI LIMITED",
@@ -39,8 +39,8 @@ const swaziland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESW",
-    "bankCode": "SZ",
+    "bankCode": "NESW",
+    "countryCode": "SZ",
     "branchCode": "ZMX",
     "SWIFT Code": "NESWSZMX",
     "Bank Name": "NEDBANK ESWATINI LIMITED",
@@ -52,8 +52,8 @@ const swaziland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "SZ",
+    "bankCode": "SBIC",
+    "countryCode": "SZ",
     "branchCode": "ZMX",
     "SWIFT Code": "SBICSZMX",
     "Bank Name": "STANDARD BANK ESWATINI LIMITED",
@@ -65,8 +65,8 @@ const swaziland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDSB",
-    "bankCode": "SZ",
+    "bankCode": "SDSB",
+    "countryCode": "SZ",
     "branchCode": "ZMB",
     "SWIFT Code": "SDSBSZMB",
     "Bank Name": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",

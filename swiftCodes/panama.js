@@ -1,7 +1,7 @@
 const panama = [
   {
-    "countryCode": "KEHP",
-    "bankCode": "PA",
+    "bankCode": "KEHP",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "KEHPPAPA",
     "Bank Name": "KEEN HOLDING S.A, (BANCO PRIVAL S.A.)",
@@ -13,8 +13,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "PA",
+    "bankCode": "ICBC",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "ICBCPAPA",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
@@ -26,8 +26,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPAN",
-    "bankCode": "PA",
+    "bankCode": "MPAN",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "MPANPAPA",
     "Bank Name": "MERCANTIL BANCO, S.A.",
@@ -39,8 +39,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METO",
-    "bankCode": "PA",
+    "bankCode": "METO",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "METOPAPA",
     "Bank Name": "METROBANK S.A.",
@@ -52,8 +52,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMGB",
-    "bankCode": "PA",
+    "bankCode": "MMGB",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "MMGBPAPA",
     "Bank Name": "MMG BANK CORPORATION",
@@ -65,8 +65,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCTB",
-    "bankCode": "PA",
+    "bankCode": "MCTB",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "MCTBPAPA",
     "Bank Name": "MULTIBANK INC.",
@@ -78,8 +78,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPSO",
-    "bankCode": "PA",
+    "bankCode": "OPSO",
+    "countryCode": "PA",
     "branchCode": "AP2",
     "SWIFT Code": "OPSOPAP2",
     "Bank Name": "OPM SECURITY CORPORATION",
@@ -91,8 +91,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "PA",
+    "bankCode": "PACI",
+    "countryCode": "PA",
     "branchCode": "APX",
     "SWIFT Code": "PACIPAPX",
     "Bank Name": "PACIFIC BANK",
@@ -104,8 +104,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPDO",
-    "bankCode": "PA",
+    "bankCode": "BPDO",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BPDOPAPA",
     "Bank Name": "POPULAR BANK LTD. INC.",
@@ -118,8 +118,8 @@ const panama = [
   },
   {},
   {
-    "countryCode": "TOWE",
-    "bankCode": "PA",
+    "bankCode": "TOWE",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "TOWEPAPA",
     "Bank Name": "TOWERBANK INTERNATIONAL, INC.",
@@ -131,8 +131,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIB",
-    "bankCode": "PA",
+    "bankCode": "UNIB",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "UNIBPAPA",
     "Bank Name": "UNIBANK, S.A.",
@@ -144,8 +144,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBP",
-    "bankCode": "PA",
+    "bankCode": "ASBP",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "ASBPPAPA",
     "Bank Name": "ASB BANK CORP.",
@@ -157,8 +157,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATPN",
-    "bankCode": "PA",
+    "bankCode": "ATPN",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "ATPNPAPA",
     "Bank Name": "ATLAS BANK (PANAMA), S.A.",
@@ -170,8 +170,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBA",
-    "bankCode": "PA",
+    "bankCode": "AUBA",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "AUBAPAPA",
     "Bank Name": "AUSTROBANK (OVERSEAS) PANAMA S.A.",
@@ -183,8 +183,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACPM",
-    "bankCode": "PA",
+    "bankCode": "ACPM",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "ACPMPAPA",
     "Bank Name": "AUTORIDAD DEL CANAL DE PANAMA",
@@ -196,8 +196,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIN",
-    "bankCode": "PA",
+    "bankCode": "BCIN",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BCINPAPA",
     "Bank Name": "BAC INTERNATIONAL BANK, INC.",
@@ -209,8 +209,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAL",
-    "bankCode": "PA",
+    "bankCode": "BAAL",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BAALPAPA",
     "Bank Name": "BANCO ALIADO, S.A.",
@@ -222,8 +222,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTK",
-    "bankCode": "PA",
+    "bankCode": "AZTK",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "AZTKPAPA",
     "Bank Name": "BANCO AZTECA (PANAMA), S.A.",
@@ -235,8 +235,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRDA",
-    "bankCode": "PA",
+    "bankCode": "CRDA",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "CRDAPAPA",
     "Bank Name": "BANCO CREDIT ANDORRA (PANAMA) S.A.",
@@ -248,8 +248,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFE",
-    "bankCode": "PA",
+    "bankCode": "CAFE",
+    "countryCode": "PA",
     "branchCode": "ZLC",
     "SWIFT Code": "CAFEPAPAZLC",
     "Bank Name": "BANCO DAVIVIENDA (PANAMA), S.A.",
@@ -261,8 +261,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFE",
-    "bankCode": "PA",
+    "bankCode": "CAFE",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "CAFEPAPA",
     "Bank Name": "BANCO DAVIVIENDA (PANAMA), S.A.",
@@ -274,8 +274,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVP",
-    "bankCode": "PA",
+    "bankCode": "DAVP",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "DAVPPAPA",
     "Bank Name": "BANCO DAVIVIENDA INTERNACIONAL (PANAMA), S.A.",
@@ -287,8 +287,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "PA",
+    "bankCode": "BBOG",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BBOGPAPA",
     "Bank Name": "BANCO DE BOGOTA (PANAMA), S.A.",
@@ -300,8 +300,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOG",
-    "bankCode": "PA",
+    "bankCode": "BBOG",
+    "countryCode": "PA",
     "branchCode": "APB",
     "SWIFT Code": "BBOGPAPB",
     "Bank Name": "BANCO DE BOGOTA S.A",
@@ -313,8 +313,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPL",
-    "bankCode": "PA",
+    "bankCode": "BCPL",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BCPLPAPA",
     "Bank Name": "BANCO DE CREDITO DEL PERU SUCURSAL PANAMA",
@@ -326,8 +326,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "PA",
+    "bankCode": "OCCI",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "OCCIPAPA",
     "Bank Name": "BANCO DE OCCIDENTE (PANAMA), S.A.",
@@ -339,8 +339,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDSA",
-    "bankCode": "PA",
+    "bankCode": "BDSA",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BDSAPAPA",
     "Bank Name": "BANCO DELTA, S.A.",
@@ -352,8 +352,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCOH",
-    "bankCode": "PA",
+    "bankCode": "FCOH",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "FCOHPAPA",
     "Bank Name": "BANCO FICOHSA (PANAMA), S.A.",
@@ -365,8 +365,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGE",
-    "bankCode": "PA",
+    "bankCode": "BAGE",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BAGEPAPA",
     "Bank Name": "BANCO GENERAL S A",
@@ -378,8 +378,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSR",
-    "bankCode": "PA",
+    "bankCode": "COSR",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "COSRPAPA",
     "Bank Name": "BANCO INTERNACIONAL DE COSTA RICA S.A.",
@@ -391,8 +391,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCE",
-    "bankCode": "PA",
+    "bankCode": "BCCE",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BCCEPAPA",
     "Bank Name": "BANCO LAFISE PANAMA",
@@ -404,8 +404,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLAE",
-    "bankCode": "PA",
+    "bankCode": "BLAE",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BLAEPAPA",
     "Bank Name": "BANCO LATINOAMERICANO DE COMERCIO EXTERIOR, S.A. (BLADEX)",
@@ -417,8 +417,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAPA",
-    "bankCode": "PA",
+    "bankCode": "NAPA",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "NAPAPAPA",
     "Bank Name": "BANCO NACIONAL DE PANAMA",
@@ -430,8 +430,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "PA",
+    "bankCode": "PICH",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "PICHPAPA",
     "Bank Name": "BANCO PICHINCHA PANAMA, S.A.",
@@ -443,8 +443,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "PA",
+    "bankCode": "COLO",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "COLOPAPA",
     "Bank Name": "BANCOLOMBIA (PANAMA), S.A.",
@@ -456,8 +456,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLO",
-    "bankCode": "PA",
+    "bankCode": "COLO",
+    "countryCode": "PA",
     "branchCode": "APS",
     "SWIFT Code": "COLOPAPS",
     "Bank Name": "BANCOLOMBIA S.A. (SUCURSAL PANAMA)",
@@ -469,8 +469,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANS",
-    "bankCode": "PA",
+    "bankCode": "BANS",
+    "countryCode": "PA",
     "branchCode": "COR",
     "SWIFT Code": "BANSPAPACOR",
     "Bank Name": "BANESCO S.A.",
@@ -482,8 +482,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANS",
-    "bankCode": "PA",
+    "bankCode": "BANS",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BANSPAPA",
     "Bank Name": "BANESCO S.A.",
@@ -495,8 +495,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAY",
-    "bankCode": "PA",
+    "bankCode": "GUAY",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "GUAYPAPA",
     "Bank Name": "BANISI, S.A.",
@@ -508,8 +508,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "PA",
+    "bankCode": "MIDL",
+    "countryCode": "PA",
     "branchCode": "CLN",
     "SWIFT Code": "MIDLPAPACLN",
     "Bank Name": "BANISTMO S.A",
@@ -521,8 +521,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "PA",
+    "bankCode": "MIDL",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "MIDLPAPA",
     "Bank Name": "BANISTMO S.A",
@@ -534,8 +534,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "PA",
+    "bankCode": "MIDL",
+    "countryCode": "PA",
     "branchCode": "001",
     "SWIFT Code": "MIDLPAPA001",
     "Bank Name": "BANISTMO S.A",
@@ -547,8 +547,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PA",
+    "bankCode": "BKCH",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BKCHPAPA",
     "Bank Name": "BANK OF CHINA, PANAMA BRANCH",
@@ -560,8 +560,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "PA",
+    "bankCode": "NOSC",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "NOSCPAPA",
     "Bank Name": "BANK OF NOVA SCOTIA, THE",
@@ -573,8 +573,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOL",
-    "bankCode": "PA",
+    "bankCode": "BBOL",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BBOLPAPA",
     "Bank Name": "BBP BANK, S.A.",
@@ -586,8 +586,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTB",
-    "bankCode": "PA",
+    "bankCode": "BCTB",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BCTBPAPA",
     "Bank Name": "BCT BANK INTERNATIONAL, S.A.",
@@ -599,8 +599,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHIN",
-    "bankCode": "PA",
+    "bankCode": "BHIN",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BHINPAPA",
     "Bank Name": "BHD INTERNATIONAL BANK (PANAMA), S.A.",
@@ -612,8 +612,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAK",
-    "bankCode": "PA",
+    "bankCode": "BIAK",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BIAKPAPA",
     "Bank Name": "BI-BANK, S.A.",
@@ -625,8 +625,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRB",
-    "bankCode": "PA",
+    "bankCode": "BPRB",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BPRBPAPA",
     "Bank Name": "BPR BANK S.A.",
@@ -638,8 +638,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAHR",
-    "bankCode": "PA",
+    "bankCode": "CAHR",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "CAHRPAPA",
     "Bank Name": "CAJA DE AHORROS",
@@ -651,8 +651,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KNAL",
-    "bankCode": "PA",
+    "bankCode": "KNAL",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "KNALPAPA",
     "Bank Name": "CANAL BANK, S. A. (BMF)",
@@ -664,8 +664,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPTY",
-    "bankCode": "PA",
+    "bankCode": "LPTY",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "LPTYPAPA",
     "Bank Name": "CENTRAL LATINOAMERICANA DE VALORES",
@@ -677,8 +677,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PA",
+    "bankCode": "CITI",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "CITIPAPA",
     "Bank Name": "CITIBANK N.A. SUCURSAL PANAMA",
@@ -690,8 +690,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PA",
+    "bankCode": "CITI",
+    "countryCode": "PA",
     "branchCode": "SFE",
     "SWIFT Code": "CITIPAPASFE",
     "Bank Name": "CITIBANK N.A. SUCURSAL PANAMA",
@@ -703,8 +703,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLD",
-    "bankCode": "PA",
+    "bankCode": "CRLD",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "CRLDPAPA",
     "Bank Name": "CREDICORP BANK S.A",
@@ -716,8 +716,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLBL",
-    "bankCode": "PA",
+    "bankCode": "GLBL",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "GLBLPAPA",
     "Bank Name": "GLOBAL BANK CORPORATION",
@@ -729,8 +729,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNBK",
-    "bankCode": "PA",
+    "bankCode": "GNBK",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "GNBKPAPA",
     "Bank Name": "GNB SUDAMERIS BANK S.A.",
@@ -742,8 +742,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "PA",
+    "bankCode": "ICBK",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "ICBKPAPA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
@@ -755,8 +755,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBNK",
-    "bankCode": "PA",
+    "bankCode": "IBNK",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "IBNKPAPA",
     "Bank Name": "INTELIGO BANK LTD",
@@ -768,8 +768,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTO",
-    "bankCode": "PA",
+    "bankCode": "BCTO",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "BCTOPAPA",
     "Bank Name": "ITAU (PANAMA) S.A.",
@@ -781,8 +781,8 @@ const panama = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "PA",
+    "bankCode": "KOEX",
+    "countryCode": "PA",
     "branchCode": "APA",
     "SWIFT Code": "KOEXPAPA",
     "Bank Name": "KEB HANA BANK",

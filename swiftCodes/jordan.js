@@ -1,7 +1,7 @@
 const jordan = [
   {
-    "countryCode": "ALEY",
-    "bankCode": "JO",
+    "bankCode": "ALEY",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "ALEYJOAM",
     "Bank Name": "AL ALAMI EXCHANGE COMPANY",
@@ -13,8 +13,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RJHI",
-    "bankCode": "JO",
+    "bankCode": "RJHI",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "RJHIJOAM",
     "Bank Name": "AL RAJHI BANK , JORDAN BRANCH",
@@ -26,8 +26,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEL",
-    "bankCode": "JO",
+    "bankCode": "ALEL",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "ALELJOAM",
     "Bank Name": "ALAWNEH EXCHANGE L.L.C",
@@ -39,8 +39,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "119",
     "SWIFT Code": "ARABJOAX119",
     "Bank Name": "ARAB BANK PLC",
@@ -52,8 +52,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "133",
     "SWIFT Code": "ARABJOAX133",
     "Bank Name": "ARAB BANK PLC",
@@ -65,8 +65,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "131",
     "SWIFT Code": "ARABJOAX131",
     "Bank Name": "ARAB BANK PLC",
@@ -78,8 +78,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "126",
     "SWIFT Code": "ARABJOAX126",
     "Bank Name": "ARAB BANK PLC",
@@ -91,8 +91,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "501",
     "SWIFT Code": "ARABJOAX501",
     "Bank Name": "ARAB BANK PLC",
@@ -104,8 +104,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "CUT",
     "SWIFT Code": "ARABJOAXCUT",
     "Bank Name": "ARAB BANK PLC",
@@ -117,8 +117,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "TRF",
     "SWIFT Code": "ARABJOAXTRF",
     "Bank Name": "ARAB BANK PLC",
@@ -130,8 +130,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "SLR",
     "SWIFT Code": "ARABJOAXSLR",
     "Bank Name": "ARAB BANK PLC",
@@ -143,8 +143,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "DLR",
     "SWIFT Code": "ARABJOAXDLR",
     "Bank Name": "ARAB BANK PLC",
@@ -156,8 +156,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "134",
     "SWIFT Code": "ARABJOAX134",
     "Bank Name": "ARAB BANK PLC",
@@ -169,8 +169,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "128",
     "SWIFT Code": "ARABJOAX128",
     "Bank Name": "ARAB BANK PLC",
@@ -182,8 +182,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "SEC",
     "SWIFT Code": "ARABJOAXSEC",
     "Bank Name": "ARAB BANK PLC",
@@ -195,8 +195,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "ARABJOAX",
     "Bank Name": "ARAB BANK PLC",
@@ -208,8 +208,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "INT",
     "SWIFT Code": "ARABJOAXINT",
     "Bank Name": "ARAB BANK PLC",
@@ -221,8 +221,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "115",
     "SWIFT Code": "ARABJOAX115",
     "Bank Name": "ARAB BANK PLC",
@@ -234,8 +234,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "116",
     "SWIFT Code": "ARABJOAX116",
     "Bank Name": "ARAB BANK PLC",
@@ -247,8 +247,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "113",
     "SWIFT Code": "ARABJOAX113",
     "Bank Name": "ARAB BANK PLC",
@@ -260,8 +260,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "100",
     "SWIFT Code": "ARABJOAX100",
     "Bank Name": "ARAB BANK PLC",
@@ -273,8 +273,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "111",
     "SWIFT Code": "ARABJOAX111",
     "Bank Name": "ARAB BANK PLC",
@@ -286,8 +286,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "112",
     "SWIFT Code": "ARABJOAX112",
     "Bank Name": "ARAB BANK PLC",
@@ -299,8 +299,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "117",
     "SWIFT Code": "ARABJOAX117",
     "Bank Name": "ARAB BANK PLC",
@@ -312,8 +312,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "139",
     "SWIFT Code": "ARABJOAX139",
     "Bank Name": "ARAB BANK PLC",
@@ -325,8 +325,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "OPS",
     "SWIFT Code": "ARABJOAXOPS",
     "Bank Name": "ARAB BANK PLC",
@@ -338,8 +338,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "PBD",
     "SWIFT Code": "ARABJOAXPBD",
     "Bank Name": "ARAB BANK PLC",
@@ -351,8 +351,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "108",
     "SWIFT Code": "ARABJOAX108",
     "Bank Name": "ARAB BANK PLC",
@@ -364,8 +364,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "138",
     "SWIFT Code": "ARABJOAX138",
     "Bank Name": "ARAB BANK PLC",
@@ -377,8 +377,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "118",
     "SWIFT Code": "ARABJOAX118",
     "Bank Name": "ARAB BANK PLC",
@@ -390,8 +390,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "130",
     "SWIFT Code": "ARABJOAX130",
     "Bank Name": "ARAB BANK PLC",
@@ -403,8 +403,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "110",
     "SWIFT Code": "ARABJOAX110",
     "Bank Name": "ARAB BANK PLC",
@@ -416,8 +416,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "TKD",
     "SWIFT Code": "ARABJOAXTKD",
     "Bank Name": "ARAB BANK PLC",
@@ -429,8 +429,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "125",
     "SWIFT Code": "ARABJOAX125",
     "Bank Name": "ARAB BANK PLC",
@@ -442,8 +442,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "162",
     "SWIFT Code": "ARABJOAX162",
     "Bank Name": "ARAB BANK PLC",
@@ -455,8 +455,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "114",
     "SWIFT Code": "ARABJOAX114",
     "Bank Name": "ARAB BANK PLC",
@@ -468,8 +468,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "122",
     "SWIFT Code": "ARABJOAX122",
     "Bank Name": "ARAB BANK PLC",
@@ -481,8 +481,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "120",
     "SWIFT Code": "ARABJOAX120",
     "Bank Name": "ARAB BANK PLC",
@@ -494,8 +494,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "107",
     "SWIFT Code": "ARABJOAX107",
     "Bank Name": "ARAB BANK PLC",
@@ -507,8 +507,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "102",
     "SWIFT Code": "ARABJOAX102",
     "Bank Name": "ARAB BANK PLC",
@@ -520,8 +520,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "104",
     "SWIFT Code": "ARABJOAX104",
     "Bank Name": "ARAB BANK PLC",
@@ -533,8 +533,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "105",
     "SWIFT Code": "ARABJOAX105",
     "Bank Name": "ARAB BANK PLC",
@@ -546,8 +546,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "161",
     "SWIFT Code": "ARABJOAX161",
     "Bank Name": "ARAB BANK PLC",
@@ -559,8 +559,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "JO",
+    "bankCode": "ARAB",
+    "countryCode": "JO",
     "branchCode": "121",
     "SWIFT Code": "ARABJOAX121",
     "Bank Name": "ARAB BANK PLC",
@@ -572,8 +572,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCJ",
-    "bankCode": "JO",
+    "bankCode": "ABCJ",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "ABCJJOAM",
     "Bank Name": "ARAB BANKING CORPORATION (JORDAN)",
@@ -585,8 +585,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJIB",
-    "bankCode": "JO",
+    "bankCode": "AJIB",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "AJIBJOAX",
     "Bank Name": "ARAB JORDAN INVESTMENT BANK",
@@ -598,8 +598,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJIB",
-    "bankCode": "JO",
+    "bankCode": "AJIB",
+    "countryCode": "JO",
     "branchCode": "600",
     "SWIFT Code": "AJIBJOAX600",
     "Bank Name": "ARAB JORDAN INVESTMENT BANK",
@@ -611,8 +611,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSI",
-    "bankCode": "JO",
+    "bankCode": "UBSI",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "UBSIJOAX",
     "Bank Name": "BANK ALETIHAD",
@@ -624,8 +624,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJOR",
-    "bankCode": "JO",
+    "bankCode": "BJOR",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "BJORJOAX",
     "Bank Name": "BANK OF JORDAN PLC",
@@ -637,8 +637,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJOR",
-    "bankCode": "JO",
+    "bankCode": "BJOR",
+    "countryCode": "JO",
     "branchCode": "BHM",
     "SWIFT Code": "BJORJOAXBHM",
     "Bank Name": "BANK OF JORDAN PLC",
@@ -650,8 +650,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJOR",
-    "bankCode": "JO",
+    "bankCode": "BJOR",
+    "countryCode": "JO",
     "branchCode": "CNC",
     "SWIFT Code": "BJORJOAXCNC",
     "Bank Name": "BANK OF JORDAN PLC",
@@ -663,8 +663,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "JO",
+    "bankCode": "BLOM",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "BLOMJOAM",
     "Bank Name": "BLOM BANK S.A.L.",
@@ -676,8 +676,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAAB",
-    "bankCode": "JO",
+    "bankCode": "CAAB",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "CAABJOAM",
     "Bank Name": "CAIRO AMMAN BANK",
@@ -689,8 +689,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFBK",
-    "bankCode": "JO",
+    "bankCode": "EFBK",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "EFBKJOAM",
     "Bank Name": "CAPITAL BANK OF JORDAN",
@@ -702,8 +702,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBJO",
-    "bankCode": "JO",
+    "bankCode": "CBJO",
+    "countryCode": "JO",
     "branchCode": "OA2",
     "SWIFT Code": "CBJOJOA2",
     "Bank Name": "CENTRAL BANK OF JORDAN",
@@ -715,8 +715,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBJO",
-    "bankCode": "JO",
+    "bankCode": "CBJO",
+    "countryCode": "JO",
     "branchCode": "OA3",
     "SWIFT Code": "CBJOJOA3",
     "Bank Name": "CENTRAL BANK OF JORDAN",
@@ -728,8 +728,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBJO",
-    "bankCode": "JO",
+    "bankCode": "CBJO",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "CBJOJOAX",
     "Bank Name": "CENTRAL BANK OF JORDAN",
@@ -741,8 +741,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBJO",
-    "bankCode": "JO",
+    "bankCode": "CBJO",
+    "countryCode": "JO",
     "branchCode": "02A",
     "SWIFT Code": "CBJOJOAX02A",
     "Bank Name": "CENTRAL BANK OF JORDAN",
@@ -754,8 +754,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBJO",
-    "bankCode": "JO",
+    "bankCode": "CBJO",
+    "countryCode": "JO",
     "branchCode": "021",
     "SWIFT Code": "CBJOJOAX021",
     "Bank Name": "CENTRAL BANK OF JORDAN",
@@ -767,8 +767,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JO",
+    "bankCode": "CITI",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "CITIJOAX",
     "Bank Name": "CITIBANK N.A.",
@@ -780,8 +780,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "JO",
+    "bankCode": "ARLB",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "ARLBJOAM",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -793,8 +793,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBHO",
-    "bankCode": "JO",
+    "bankCode": "HBHO",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "HBHOJOAX",
     "Bank Name": "HOUSING BANK FOR TRADE AND FINANCE, THE",
@@ -806,8 +806,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIFB",
-    "bankCode": "JO",
+    "bankCode": "JIFB",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "JIFBJOAM",
     "Bank Name": "INVESTBANK",
@@ -819,8 +819,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIBA",
-    "bankCode": "JO",
+    "bankCode": "IIBA",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "IIBAJOAM",
     "Bank Name": "ISLAMIC INTERNATIONAL ARAB BANK",
@@ -832,8 +832,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIBA",
-    "bankCode": "JO",
+    "bankCode": "IIBA",
+    "countryCode": "JO",
     "branchCode": "JBC",
     "SWIFT Code": "IIBAJOAMJBC",
     "Bank Name": "ISLAMIC INTERNATIONAL ARAB BANK",
@@ -845,8 +845,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIBA",
-    "bankCode": "JO",
+    "bankCode": "IIBA",
+    "countryCode": "JO",
     "branchCode": "100",
     "SWIFT Code": "IIBAJOAM100",
     "Bank Name": "ISLAMIC INTERNATIONAL ARAB BANK",
@@ -858,8 +858,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIBA",
-    "bankCode": "JO",
+    "bankCode": "IIBA",
+    "countryCode": "JO",
     "branchCode": "300",
     "SWIFT Code": "IIBAJOAM300",
     "Bank Name": "ISLAMIC INTERNATIONAL ARAB BANK",
@@ -871,8 +871,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIBA",
-    "bankCode": "JO",
+    "bankCode": "IIBA",
+    "countryCode": "JO",
     "branchCode": "200",
     "SWIFT Code": "IIBAJOAM200",
     "Bank Name": "ISLAMIC INTERNATIONAL ARAB BANK",
@@ -884,8 +884,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JONB",
-    "bankCode": "JO",
+    "bankCode": "JONB",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "JONBJOAX",
     "Bank Name": "JORDAN AHLI BANK PLC",
@@ -897,8 +897,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JGBA",
-    "bankCode": "JO",
+    "bankCode": "JGBA",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "JGBAJOAM",
     "Bank Name": "JORDAN COMMERCIAL BANK",
@@ -910,8 +910,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "JIBAJOAM",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -923,8 +923,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "111",
     "SWIFT Code": "JIBAJOAM111",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -936,8 +936,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "113",
     "SWIFT Code": "JIBAJOAM113",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -949,8 +949,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "110",
     "SWIFT Code": "JIBAJOAM110",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -962,8 +962,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "115",
     "SWIFT Code": "JIBAJOAM115",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -975,8 +975,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "112",
     "SWIFT Code": "JIBAJOAM112",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -988,8 +988,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIBA",
-    "bankCode": "JO",
+    "bankCode": "JIBA",
+    "countryCode": "JO",
     "branchCode": "114",
     "SWIFT Code": "JIBAJOAM114",
     "Bank Name": "JORDAN ISLAMIC BANK",
@@ -1001,8 +1001,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JKBA",
-    "bankCode": "JO",
+    "bankCode": "JKBA",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "JKBAJOAM",
     "Bank Name": "JORDAN KUWAIT BANK",
@@ -1014,8 +1014,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAKS",
-    "bankCode": "JO",
+    "bankCode": "MAKS",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "MAKSJOAX",
     "Bank Name": "KAMAL EXCHANGE CO L.L.C",
@@ -1027,8 +1027,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUEO",
-    "bankCode": "JO",
+    "bankCode": "MUEO",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "MUEOJOAM",
     "Bank Name": "MUSHARBASH EXCHANGE L.L.C",
@@ -1040,8 +1040,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAFB",
-    "bankCode": "JO",
+    "bankCode": "RAFB",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "RAFBJOAM",
     "Bank Name": "RAFIDAIN BANK",
@@ -1053,8 +1053,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JDIB",
-    "bankCode": "JO",
+    "bankCode": "JDIB",
+    "countryCode": "JO",
     "branchCode": "OAM",
     "SWIFT Code": "JDIBJOAM",
     "Bank Name": "SAFWA ISLAMIC BANK",
@@ -1066,8 +1066,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEDC",
-    "bankCode": "JO",
+    "bankCode": "SEDC",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "SEDCJOAX",
     "Bank Name": "SECURITIES DEPOSITORY CENTER",
@@ -1079,8 +1079,8 @@ const jordan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "JO",
+    "bankCode": "SCBL",
+    "countryCode": "JO",
     "branchCode": "OAX",
     "SWIFT Code": "SCBLJOAX",
     "Bank Name": "STANDARD CHARTERED BANK",

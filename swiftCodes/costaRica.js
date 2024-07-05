@@ -1,7 +1,7 @@
 const costaRica = [
   {
-    "countryCode": "BLSO",
-    "bankCode": "CR",
+    "bankCode": "BLSO",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BLSOCRSJ",
     "Bank Name": "BAC LATAM SSC SOCIEDAD ANONIMA",
@@ -13,8 +13,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLSO",
-    "bankCode": "CR",
+    "bankCode": "BLSO",
+    "countryCode": "CR",
     "branchCode": "RS2",
     "SWIFT Code": "BLSOCRS2",
     "Bank Name": "BAC LATAM SSC SOCIEDAD ANONIMA",
@@ -26,8 +26,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSNJ",
-    "bankCode": "CR",
+    "bankCode": "BSNJ",
+    "countryCode": "CR",
     "branchCode": "DPR",
     "SWIFT Code": "BSNJCRSJDPR",
     "Bank Name": "BANCO BAC SAN JOSE",
@@ -39,8 +39,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSNJ",
-    "bankCode": "CR",
+    "bankCode": "BSNJ",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BSNJCRSJ",
     "Bank Name": "BANCO BAC SAN JOSE",
@@ -52,8 +52,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCIO",
-    "bankCode": "CR",
+    "bankCode": "CCIO",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "CCIOCRSJ",
     "Bank Name": "BANCO BCT S.A.",
@@ -65,8 +65,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCIO",
-    "bankCode": "CR",
+    "bankCode": "CCIO",
+    "countryCode": "CR",
     "branchCode": "BBI",
     "SWIFT Code": "CCIOCRSJBBI",
     "Bank Name": "BANCO BCT S.A.",
@@ -78,8 +78,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTAY",
-    "bankCode": "CR",
+    "bankCode": "KTAY",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "KTAYCRSJ",
     "Bank Name": "BANCO CATHAY DE COSTA RICA, S.A.",
@@ -91,8 +91,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCR",
-    "bankCode": "CR",
+    "bankCode": "BCCR",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BCCRCRSJ",
     "Bank Name": "BANCO CENTRAL DE COSTA RICA",
@@ -104,8 +104,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BXBA",
-    "bankCode": "CR",
+    "bankCode": "BXBA",
+    "countryCode": "CR",
     "branchCode": "DPR",
     "SWIFT Code": "BXBACRSJDPR",
     "Bank Name": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
@@ -117,8 +117,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BXBA",
-    "bankCode": "CR",
+    "bankCode": "BXBA",
+    "countryCode": "CR",
     "branchCode": "DP1",
     "SWIFT Code": "BXBACRSJDP1",
     "Bank Name": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
@@ -130,8 +130,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BXBA",
-    "bankCode": "CR",
+    "bankCode": "BXBA",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BXBACRSJ",
     "Bank Name": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
@@ -143,8 +143,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRI",
-    "bankCode": "CR",
+    "bankCode": "BCRI",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BCRICRSJ",
     "Bank Name": "BANCO DE COSTA RICA",
@@ -156,8 +156,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGE",
-    "bankCode": "CR",
+    "bankCode": "BAGE",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BAGECRSJ",
     "Bank Name": "BANCO GENERAL (COSTA RICA), S.A.",
@@ -169,8 +169,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMP",
-    "bankCode": "CR",
+    "bankCode": "BIMP",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BIMPCRSJ",
     "Bank Name": "BANCO IMPROSA, S.A.",
@@ -182,8 +182,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCE",
-    "bankCode": "CR",
+    "bankCode": "BCCE",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BCCECRSJ",
     "Bank Name": "BANCO LAFISE S.A.",
@@ -195,8 +195,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCR",
-    "bankCode": "CR",
+    "bankCode": "BNCR",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BNCRCRSJ",
     "Bank Name": "BANCO NACIONAL DE COSTA RICA",
@@ -208,8 +208,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCR",
-    "bankCode": "CR",
+    "bankCode": "BNCR",
+    "countryCode": "CR",
     "branchCode": "GCI",
     "SWIFT Code": "BNCRCRSJGCI",
     "Bank Name": "BANCO NACIONAL DE COSTA RICA",
@@ -221,8 +221,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPDC",
-    "bankCode": "CR",
+    "bankCode": "BPDC",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BPDCCRSJ",
     "Bank Name": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
@@ -234,8 +234,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMK",
-    "bankCode": "CR",
+    "bankCode": "PRMK",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "PRMKCRSJ",
     "Bank Name": "BANCO PROMERICA",
@@ -247,8 +247,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICEL",
-    "bankCode": "CR",
+    "bankCode": "ICEL",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "ICELCRSJ",
     "Bank Name": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
@@ -260,8 +260,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICVS",
-    "bankCode": "CR",
+    "bankCode": "ICVS",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "ICVSCRSJ",
     "Bank Name": "INTERCLEAR CENTRAL DE VALORES, S.A.",
@@ -273,8 +273,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDSO",
-    "bankCode": "CR",
+    "bankCode": "BDSO",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "BDSOCRSJ",
     "Bank Name": "PRIVAL BANK (COSTA RICA) S.A.",
@@ -286,8 +286,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CR",
+    "bankCode": "NOSC",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "NOSCCRSJ",
     "Bank Name": "SCOTIABANK DE COSTA RICA",
@@ -299,8 +299,8 @@ const costaRica = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TELD",
-    "bankCode": "CR",
+    "bankCode": "TELD",
+    "countryCode": "CR",
     "branchCode": "RSJ",
     "SWIFT Code": "TELDCRSJ",
     "Bank Name": "TELEDOLAR S.A.",

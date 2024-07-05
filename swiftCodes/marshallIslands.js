@@ -1,7 +1,7 @@
 const marshallIslands = [
   {
-    "countryCode": "BOMD",
-    "bankCode": "MH",
+    "bankCode": "BOMD",
+    "countryCode": "MH",
     "branchCode": "H22",
     "SWIFT Code": "BOMDMH22",
     "Bank Name": "BANK OF MARSHALL ISLANDS",
@@ -13,8 +13,8 @@ const marshallIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAGG",
-    "bankCode": "MH",
+    "bankCode": "PAGG",
+    "countryCode": "MH",
     "branchCode": "H22",
     "SWIFT Code": "PAGGMH22",
     "Bank Name": "PAMEROY MANAGEMENT LTD",
@@ -26,8 +26,8 @@ const marshallIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEEC",
-    "bankCode": "MH",
+    "bankCode": "TEEC",
+    "countryCode": "MH",
     "branchCode": "H22",
     "SWIFT Code": "TEECMH22",
     "Bank Name": "TEEKAY CORPORATION",

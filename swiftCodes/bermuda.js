@@ -1,8 +1,8 @@
 const bermuda = [
   {},
   {
-    "countryCode": "AXSB",
-    "bankCode": "BM",
+    "bankCode": "AXSB",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "AXSBBMHM",
     "Bank Name": "AXIS SPECIALTY LIMITED",
@@ -14,8 +14,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTB",
-    "bankCode": "BM",
+    "bankCode": "BNTB",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "BNTBBMHM",
     "Bank Name": "BANK OF N.T. BUTTERFIELD AND SON LIMITED, THE",
@@ -27,8 +27,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPBK",
-    "bankCode": "BM",
+    "bankCode": "BPBK",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "BPBKBMHM",
     "Bank Name": "BERMUDA COMMERCIAL BANK LIMITED",
@@ -40,8 +40,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEMA",
-    "bankCode": "BM",
+    "bankCode": "BEMA",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "BEMABMHM",
     "Bank Name": "BERMUDA MONETARY AUTHORITY",
@@ -53,8 +53,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSR",
-    "bankCode": "BM",
+    "bankCode": "BOSR",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "BOSRBMHM",
     "Bank Name": "BOSTON RE LTD",
@@ -66,8 +66,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSR",
-    "bankCode": "BM",
+    "bankCode": "BOSR",
+    "countryCode": "BM",
     "branchCode": "VIS",
     "SWIFT Code": "BOSRBMHMVIS",
     "Bank Name": "BOSTON RE LTD",
@@ -81,8 +81,8 @@ const bermuda = [
   {},
   {},
   {
-    "countryCode": "BNTB",
-    "bankCode": "BM",
+    "bankCode": "BNTB",
+    "countryCode": "BM",
     "branchCode": "MHS",
     "SWIFT Code": "BNTBBMHS",
     "Bank Name": "BUTTERFIELD TRUST (BERMUDA) LIMITED",
@@ -94,8 +94,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTLY",
-    "bankCode": "BM",
+    "bankCode": "CTLY",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "CTLYBMHM",
     "Bank Name": "CATALYST RE INTERNATIONAL LTD.",
@@ -107,8 +107,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGP",
-    "bankCode": "BM",
+    "bankCode": "CAGP",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "CAGPBMHM",
     "Bank Name": "CLARIEN BANK LIMITED",
@@ -120,8 +120,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNVX",
-    "bankCode": "BM",
+    "bankCode": "CNVX",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "CNVXBMHM",
     "Bank Name": "CONVEX GROUP LIMITED",
@@ -133,8 +133,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVIN",
-    "bankCode": "BM",
+    "bankCode": "EVIN",
+    "countryCode": "BM",
     "branchCode": "MHH",
     "SWIFT Code": "EVINBMHH",
     "Bank Name": "EVEREST INTERNATIONAL REINSURANCE, LTD",
@@ -146,8 +146,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBE",
-    "bankCode": "BM",
+    "bankCode": "ERBE",
+    "countryCode": "BM",
     "branchCode": "MHH",
     "SWIFT Code": "ERBEBMHH",
     "Bank Name": "EVEREST REINSURANCE (BERMUDA), LTD",
@@ -159,8 +159,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIHG",
-    "bankCode": "BM",
+    "bankCode": "FIHG",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "FIHGBMHM",
     "Bank Name": "FIDELIS INSURANCE HOLDINGS LIMITED",
@@ -172,8 +172,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLDI",
-    "bankCode": "BM",
+    "bankCode": "FLDI",
+    "countryCode": "BM",
     "branchCode": "MH2",
     "SWIFT Code": "FLDIBMH2",
     "Bank Name": "FIL DISTRIBUTORS",
@@ -186,8 +186,8 @@ const bermuda = [
   },
   {},
   {
-    "countryCode": "BBDA",
-    "bankCode": "BM",
+    "bankCode": "BBDA",
+    "countryCode": "BM",
     "branchCode": "CTS",
     "SWIFT Code": "BBDABMHMCTS",
     "Bank Name": "HSBC BANK BERMUDA LIMITED",
@@ -200,8 +200,8 @@ const bermuda = [
   },
   {},
   {
-    "countryCode": "IVZL",
-    "bankCode": "BM",
+    "bankCode": "IVZL",
+    "countryCode": "BM",
     "branchCode": "MHH",
     "SWIFT Code": "IVZLBMHH",
     "Bank Name": "INVESCO LTD",
@@ -213,8 +213,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEBN",
-    "bankCode": "BM",
+    "bankCode": "JEBN",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "JEBNBMHM",
     "Bank Name": "JEWEL BANCORP LIMITED",
@@ -226,8 +226,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLRI",
-    "bankCode": "BM",
+    "bankCode": "MLRI",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "MLRIBMHM",
     "Bank Name": "MERRILL LYNCH REINSURANCE SOLUTIONS LIMITED",
@@ -239,8 +239,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEPH",
-    "bankCode": "BM",
+    "bankCode": "NEPH",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "NEPHBMHM",
     "Bank Name": "NEPHILA CAPITAL LTD.",
@@ -252,8 +252,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSR",
-    "bankCode": "BM",
+    "bankCode": "NOSR",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "NOSRBMHM",
     "Bank Name": "NOMURA SECURITIES (BERMUDA) LIMITED",
@@ -265,8 +265,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "BM",
+    "bankCode": "NOVR",
+    "countryCode": "BM",
     "branchCode": "035",
     "SWIFT Code": "NOVRBMHM035",
     "Bank Name": "NOVARTIS SECURITIES INVESTMENT LTD",
@@ -278,8 +278,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "BM",
+    "bankCode": "NOVR",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "NOVRBMHM",
     "Bank Name": "NOVARTIS SECURITIES INVESTMENT LTD",
@@ -291,8 +291,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "BM",
+    "bankCode": "NOVR",
+    "countryCode": "BM",
     "branchCode": "019",
     "SWIFT Code": "NOVRBMHM019",
     "Bank Name": "NOVARTIS SECURITIES INVESTMENT LTD",
@@ -304,8 +304,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RRHL",
-    "bankCode": "BM",
+    "bankCode": "RRHL",
+    "countryCode": "BM",
     "branchCode": "MHL",
     "SWIFT Code": "RRHLBMHL",
     "Bank Name": "RENAISSANCERE HOLDINGS LTD.",
@@ -317,8 +317,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROCH",
-    "bankCode": "BM",
+    "bankCode": "ROCH",
+    "countryCode": "BM",
     "branchCode": "MHA",
     "SWIFT Code": "ROCHBMHA",
     "Bank Name": "ROCHE INTERTRADE LIMITED",
@@ -330,8 +330,8 @@ const bermuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIH",
-    "bankCode": "BM",
+    "bankCode": "SOIH",
+    "countryCode": "BM",
     "branchCode": "MHM",
     "SWIFT Code": "SOIHBMHM",
     "Bank Name": "SOMPO INTERNATIONAL HOLDINGS LTD.",

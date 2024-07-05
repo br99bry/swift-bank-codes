@@ -1,7 +1,7 @@
 const trinidadAndTobago = [
   {
-    "countryCode": "ANBA",
-    "bankCode": "TT",
+    "bankCode": "ANBA",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "ANBATTPS",
     "Bank Name": "ANSA BANK LIMITED",
@@ -13,8 +13,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBTT",
-    "bankCode": "TT",
+    "bankCode": "CBTT",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "CBTTTTPS",
     "Bank Name": "CENTRAL BANK OF TRINIDAD AND TOBAGO",
@@ -26,8 +26,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TT",
+    "bankCode": "CITI",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "CITITTPS",
     "Bank Name": "CITIBANK (TRINIDAD AND TOBAGO) LIMITED",
@@ -39,8 +39,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DFLT",
-    "bankCode": "TT",
+    "bankCode": "DFLT",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "DFLTTTPS",
     "Bank Name": "DEVELOPMENT FINANCE LIMITED",
@@ -52,8 +52,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCTT",
-    "bankCode": "TT",
+    "bankCode": "FCTT",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "FCTTTTPS",
     "Bank Name": "FIRST CITIZENS BANK LIMITED",
@@ -65,8 +65,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "TT",
+    "bankCode": "FCIB",
+    "countryCode": "TT",
     "branchCode": "TP2",
     "SWIFT Code": "FCIBTTP2",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (TRINIDAD AND TOBAGO) LIMITED",
@@ -78,8 +78,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JMMB",
-    "bankCode": "TT",
+    "bankCode": "JMMB",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "JMMBTTPS",
     "Bank Name": "JMMB BANK (T AND T) LIMITED",
@@ -91,8 +91,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTT",
-    "bankCode": "TT",
+    "bankCode": "RBTT",
+    "countryCode": "TT",
     "branchCode": "TPX",
     "SWIFT Code": "RBTTTTPX",
     "Bank Name": "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)",
@@ -104,8 +104,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "TT",
+    "bankCode": "RBNK",
+    "countryCode": "TT",
     "branchCode": "TPX",
     "SWIFT Code": "RBNKTTPX",
     "Bank Name": "REPUBLIC BANK LIMITED",
@@ -117,8 +117,8 @@ const trinidadAndTobago = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "TT",
+    "bankCode": "NOSC",
+    "countryCode": "TT",
     "branchCode": "TPS",
     "SWIFT Code": "NOSCTTPS",
     "Bank Name": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",

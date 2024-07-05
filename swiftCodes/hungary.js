@@ -1,7 +1,7 @@
 const hungary = [
   {
-    "countryCode": "OTPJ",
-    "bankCode": "HU",
+    "bankCode": "OTPJ",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "OTPJHUHB",
     "Bank Name": "OTP MORTGAGEBANK LTD",
@@ -13,8 +13,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPP",
-    "bankCode": "HU",
+    "bankCode": "OTPP",
+    "countryCode": "HU",
     "branchCode": "UH2",
     "SWIFT Code": "OTPPHUH2",
     "Bank Name": "OTP PENZTARSZOLGALTATO ZRT",
@@ -26,8 +26,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFHB",
-    "bankCode": "HU",
+    "bankCode": "PFHB",
+    "countryCode": "HU",
     "branchCode": "UH2",
     "SWIFT Code": "PFHBHUH2",
     "Bank Name": "PATRIA FINANCE HUNGARIAN BRANCH OFFICE",
@@ -39,8 +39,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCOH",
-    "bankCode": "HU",
+    "bankCode": "PCOH",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "PCOHHUHB",
     "Bank Name": "PEDRANO CONSTRUCTION HUNGARY EPITOIPARI KFT.",
@@ -53,8 +53,8 @@ const hungary = [
   },
   {},
   {
-    "countryCode": "UBRT",
-    "bankCode": "HU",
+    "bankCode": "UBRT",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "UBRTHUHB",
     "Bank Name": "RAIFFEISEN BANK ZRT.",
@@ -66,8 +66,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "HU",
+    "bankCode": "REVO",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "REVOHUHB",
     "Bank Name": "REVOLUT BANK UAB MAGYARORSZAGI FIOKTELEPE",
@@ -79,8 +79,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FHJB",
-    "bankCode": "HU",
+    "bankCode": "FHJB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "FHJBHUHB",
     "Bank Name": "TAKAREK JELZALOGBANK NYRT",
@@ -92,8 +92,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THZT",
-    "bankCode": "HU",
+    "bankCode": "THZT",
+    "countryCode": "HU",
     "branchCode": "UHH",
     "SWIFT Code": "THZTHUHH",
     "Bank Name": "TRIVE HUNGARY",
@@ -105,8 +105,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "HU",
+    "bankCode": "BACX",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "BACXHUHB",
     "Bank Name": "UNICREDIT BANK HUNGARY ZRT.",
@@ -118,8 +118,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "HU",
+    "bankCode": "BACX",
+    "countryCode": "HU",
     "branchCode": "CUS",
     "SWIFT Code": "BACXHUHBCUS",
     "Bank Name": "UNICREDIT BANK HUNGARY ZRT.",
@@ -131,8 +131,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "HU",
+    "bankCode": "BACX",
+    "countryCode": "HU",
     "branchCode": "INM",
     "SWIFT Code": "BACXHUHBINM",
     "Bank Name": "UNICREDIT BANK HUNGARY ZRT.",
@@ -145,8 +145,8 @@ const hungary = [
   },
   {},
   {
-    "countryCode": "VPAY",
-    "bankCode": "HU",
+    "bankCode": "VPAY",
+    "countryCode": "HU",
     "branchCode": "UH2",
     "SWIFT Code": "VPAYHUH2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. HUNGARIAN BRANCH",
@@ -158,8 +158,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAHZ",
-    "bankCode": "HU",
+    "bankCode": "WAHZ",
+    "countryCode": "HU",
     "branchCode": "U2B",
     "SWIFT Code": "WAHZHU2B",
     "Bank Name": "WIZZ AIR HUNGARY PLC",
@@ -171,8 +171,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMRZ",
-    "bankCode": "HU",
+    "bankCode": "NMRZ",
+    "countryCode": "HU",
     "branchCode": "U22",
     "SWIFT Code": "NMRZHU22",
     "Bank Name": "4IG NYILVANOSAN MUKODO RESZVENYTARSASAG",
@@ -184,8 +184,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKKH",
-    "bankCode": "HU",
+    "bankCode": "AKKH",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "AKKHHUHB",
     "Bank Name": "ALLAMADOSSAG KEZELO KOZPONT RT.",
@@ -197,8 +197,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HU",
+    "bankCode": "BKCH",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "BKCHHUHB",
     "Bank Name": "BANK OF CHINA (CENTRAL AND EASTERN EUROPE) LIMITED",
@@ -210,8 +210,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "HU",
+    "bankCode": "BKCH",
+    "countryCode": "HU",
     "branchCode": "UHH",
     "SWIFT Code": "BKCHHUHH",
     "Bank Name": "BANK OF CHINA LIMITED HUNGARIAN BRANCH",
@@ -223,8 +223,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIX",
-    "bankCode": "HU",
+    "bankCode": "BBIX",
+    "countryCode": "HU",
     "branchCode": "UHH",
     "SWIFT Code": "BBIXHUHH",
     "Bank Name": "BINX",
@@ -236,8 +236,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "HU",
+    "bankCode": "BNPA",
+    "countryCode": "HU",
     "branchCode": "UHX",
     "SWIFT Code": "BNPAHUHX",
     "Bank Name": "BNP PARIBAS, HUNGARY BRANCH",
@@ -249,8 +249,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "HU",
+    "bankCode": "PCBC",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "PCBCHUHB",
     "Bank Name": "CHINA CONSTRUCTION BANK (EUROPE) S.A. HUNGARY BRANCH",
@@ -262,8 +262,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBH",
-    "bankCode": "HU",
+    "bankCode": "CIBH",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "CIBHHUHB",
     "Bank Name": "CIB BANK LTD. (FORMERLY CENTRAL-EUROPEAN INT.BANK LTD.)",
@@ -275,8 +275,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HU",
+    "bankCode": "CITI",
+    "countryCode": "HU",
     "branchCode": "UHX",
     "SWIFT Code": "CITIHUHX",
     "Bank Name": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
@@ -288,8 +288,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HU",
+    "bankCode": "CITI",
+    "countryCode": "HU",
     "branchCode": "CUS",
     "SWIFT Code": "CITIHUHXCUS",
     "Bank Name": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
@@ -301,8 +301,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "HU",
+    "bankCode": "CITI",
+    "countryCode": "HU",
     "branchCode": "TRD",
     "SWIFT Code": "CITIHUHXTRD",
     "Bank Name": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
@@ -314,8 +314,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "HU",
+    "bankCode": "DEUT",
+    "countryCode": "HU",
     "branchCode": "U2B",
     "SWIFT Code": "DEUTHU2B",
     "Bank Name": "DEUTSCHE BANK AG HUNGARY BRANCH",
@@ -327,8 +327,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTBA",
-    "bankCode": "HU",
+    "bankCode": "DTBA",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "DTBAHUHB",
     "Bank Name": "DUNA TAKAREK BANK ZRT.",
@@ -340,8 +340,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELFZ",
-    "bankCode": "HU",
+    "bankCode": "ELFZ",
+    "countryCode": "HU",
     "branchCode": "UHH",
     "SWIFT Code": "ELFZHUHH",
     "Bank Name": "ELSO FEDEZETKEZELO ZRT.",
@@ -353,8 +353,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQIT",
-    "bankCode": "HU",
+    "bankCode": "EQIT",
+    "countryCode": "HU",
     "branchCode": "UH2",
     "SWIFT Code": "EQITHUH2",
     "Bank Name": "EQUILOR INVESTMENT LTD.",
@@ -366,8 +366,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "HU",
+    "bankCode": "GIBA",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "GIBAHUHB",
     "Bank Name": "ERSTE BANK HUNGARY ZRT",
@@ -379,8 +379,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLTP",
-    "bankCode": "HU",
+    "bankCode": "FLTP",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "FLTPHUHB",
     "Bank Name": "FUNDAMENTA-LAKASKASSZA LAKASTAKAREKPENZTAR RT",
@@ -392,8 +392,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHUN",
-    "bankCode": "HU",
+    "bankCode": "GHUN",
+    "countryCode": "HU",
     "branchCode": "AFR",
     "SWIFT Code": "GHUNHUHBAFR",
     "Bank Name": "GIRO ZRT.",
@@ -405,8 +405,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHUN",
-    "bankCode": "HU",
+    "bankCode": "GHUN",
+    "countryCode": "HU",
     "branchCode": "GIR",
     "SWIFT Code": "GHUNHUHBGIR",
     "Bank Name": "GIRO ZRT.",
@@ -418,8 +418,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHUN",
-    "bankCode": "HU",
+    "bankCode": "GHUN",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "GHUNHUHB",
     "Bank Name": "GIRO ZRT.",
@@ -431,8 +431,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNBA",
-    "bankCode": "HU",
+    "bankCode": "GNBA",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "GNBAHUHB",
     "Bank Name": "GRANIT BANK ZRT.",
@@ -444,8 +444,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBID",
-    "bankCode": "HU",
+    "bankCode": "HBID",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "HBIDHUHB",
     "Bank Name": "HUNGARIAN DEVELOPMENT BANK PLC",
@@ -457,8 +457,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUST",
-    "bankCode": "HU",
+    "bankCode": "HUST",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "HUSTHUHB",
     "Bank Name": "HUNGARIAN STATE TREASURY",
@@ -470,8 +470,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "HU",
+    "bankCode": "INGB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "INGBHUHB",
     "Bank Name": "ING BANK N.V. HUNGARY BRANCH",
@@ -483,8 +483,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "HU",
+    "bankCode": "IBKR",
+    "countryCode": "HU",
     "branchCode": "UHH",
     "SWIFT Code": "IBKRHUHH",
     "Bank Name": "INTERACTIVE BROKERS CENTRAL EUROPE ZRT.",
@@ -496,8 +496,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIBM",
-    "bankCode": "HU",
+    "bankCode": "IIBM",
+    "countryCode": "HU",
     "branchCode": "U22",
     "SWIFT Code": "IIBMHU22",
     "Bank Name": "INTERNATIONAL INVESTMENT BANK",
@@ -509,8 +509,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKHB",
-    "bankCode": "HU",
+    "bankCode": "OKHB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "OKHBHUHB",
     "Bank Name": "K AND H BANK ZRT.(FORMERLY KERESKEDELMI ES HITELBANK RT)",
@@ -522,8 +522,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKHB",
-    "bankCode": "HU",
+    "bankCode": "OKHB",
+    "countryCode": "HU",
     "branchCode": "CUS",
     "SWIFT Code": "OKHBHUHBCUS",
     "Bank Name": "K AND H BANK ZRT.(FORMERLY KERESKEDELMI ES HITELBANK RT)",
@@ -535,8 +535,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "HU",
+    "bankCode": "KODB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "KODBHUHB",
     "Bank Name": "KDB BANK EUROPE LTD.",
@@ -548,8 +548,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSZF",
-    "bankCode": "HU",
+    "bankCode": "KSZF",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "KSZFHUHB",
     "Bank Name": "KELER CCP LTD",
@@ -561,8 +561,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KELR",
-    "bankCode": "HU",
+    "bankCode": "KELR",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "KELRHUHB",
     "Bank Name": "KELER KOZPONTI ERTEKTAR ZARTKORUEN MUKODO RESZVENYTARSASAG",
@@ -574,8 +574,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KELR",
-    "bankCode": "HU",
+    "bankCode": "KELR",
+    "countryCode": "HU",
     "branchCode": "UHA",
     "SWIFT Code": "KELRHUHA",
     "Bank Name": "KELER KOZPONTI ERTEKTAR ZARTKORUEN MUKODO RESZVENYTARSASAG",
@@ -587,8 +587,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KELR",
-    "bankCode": "HU",
+    "bankCode": "KELR",
+    "countryCode": "HU",
     "branchCode": "ABC",
     "SWIFT Code": "KELRHUHBABC",
     "Bank Name": "KELER KOZPONTI ERTEKTAR ZARTKORUEN MUKODO RESZVENYTARSASAG",
@@ -600,8 +600,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KELR",
-    "bankCode": "HU",
+    "bankCode": "KELR",
+    "countryCode": "HU",
     "branchCode": "COM",
     "SWIFT Code": "KELRHUHBCOM",
     "Bank Name": "KELER ZRT.",
@@ -613,8 +613,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBWE",
-    "bankCode": "HU",
+    "bankCode": "HBWE",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "HBWEHUHB",
     "Bank Name": "MAGNET BANK ZRT.",
@@ -626,8 +626,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBH",
-    "bankCode": "HU",
+    "bankCode": "MCBH",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "MCBHHUHB",
     "Bank Name": "MAGYAR CETELEM BANK ZRT.",
@@ -639,8 +639,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEXI",
-    "bankCode": "HU",
+    "bankCode": "HEXI",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "HEXIHUHB",
     "Bank Name": "MAGYAR EXPORT IMPORT BANK ZRT.",
@@ -652,8 +652,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MANE",
-    "bankCode": "HU",
+    "bankCode": "MANE",
+    "countryCode": "HU",
     "branchCode": "AFR",
     "SWIFT Code": "MANEHUHHAFR",
     "Bank Name": "MAGYAR NEMZETI BANK",
@@ -665,8 +665,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MANE",
-    "bankCode": "HU",
+    "bankCode": "MANE",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "MANEHUHB",
     "Bank Name": "MAGYAR NEMZETI BANK",
@@ -678,8 +678,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MANE",
-    "bankCode": "HU",
+    "bankCode": "MANE",
+    "countryCode": "HU",
     "branchCode": "UHH",
     "SWIFT Code": "MANEHUHH",
     "Bank Name": "MAGYAR NEMZETI BANK",
@@ -691,8 +691,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUPO",
-    "bankCode": "HU",
+    "bankCode": "HUPO",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "HUPOHUHB",
     "Bank Name": "MAGYAR POSTA ZRT",
@@ -704,8 +704,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUDA",
-    "bankCode": "HU",
+    "bankCode": "BUDA",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "BUDAHUHB",
     "Bank Name": "MBH BANK NYRT.",
@@ -717,8 +717,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKKB",
-    "bankCode": "HU",
+    "bankCode": "MKKB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "MKKBHUHB",
     "Bank Name": "MBH BANK NYRT.",
@@ -730,8 +730,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRKB",
-    "bankCode": "HU",
+    "bankCode": "MRKB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "MRKBHUHB",
     "Bank Name": "MERKANTIL VALTO ES VAGYONBEFEKTETO BANK RT.",
@@ -743,8 +743,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLH",
-    "bankCode": "HU",
+    "bankCode": "MOLH",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "MOLHHUHB",
     "Bank Name": "MOL HUNGARIAN OIL AND GAS PLC",
@@ -756,8 +756,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLH",
-    "bankCode": "HU",
+    "bankCode": "MOLH",
+    "countryCode": "HU",
     "branchCode": "UHN",
     "SWIFT Code": "MOLHHUHN",
     "Bank Name": "MOL HUNGARIAN OIL AND GAS PLC",
@@ -769,8 +769,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAKB",
-    "bankCode": "HU",
+    "bankCode": "TAKB",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "TAKBHUHB",
     "Bank Name": "MTB MAGYAR TAKAREKSZOVETKEZETI BANK",
@@ -782,8 +782,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFSZ",
-    "bankCode": "HU",
+    "bankCode": "OFSZ",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "OFSZHUHB",
     "Bank Name": "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZARTKORUEN  MUKODO RESZVENYTARSASAG",
@@ -795,8 +795,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "HU",
+    "bankCode": "OBKL",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "OBKLHUHB",
     "Bank Name": "OBERBANK AG",
@@ -808,8 +808,8 @@ const hungary = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "HU",
+    "bankCode": "OTPV",
+    "countryCode": "HU",
     "branchCode": "UHB",
     "SWIFT Code": "OTPVHUHB",
     "Bank Name": "OTP BANK PLC.",

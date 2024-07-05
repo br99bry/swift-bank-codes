@@ -1,7 +1,7 @@
 const togo = [
   {
-    "countryCode": "ALTB",
-    "bankCode": "TG",
+    "bankCode": "ALTB",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "ALTBTGTG",
     "Bank Name": "AFRICAN LEASE TOGO SA",
@@ -13,8 +13,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "TG",
+    "bankCode": "AFRI",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "AFRITGTG",
     "Bank Name": "BANK OF AFRICA TOGO",
@@ -26,8 +26,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATTG",
-    "bankCode": "TG",
+    "bankCode": "ATTG",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "ATTGTGTG",
     "Bank Name": "BANQUE ATLANTIQUE TOGO",
@@ -39,8 +39,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "TG",
+    "bankCode": "BCAO",
+    "countryCode": "TG",
     "branchCode": "KAR",
     "SWIFT Code": "BCAOTGTGKAR",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -52,8 +52,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "TG",
+    "bankCode": "BCAO",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BCAOTGTG",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -65,8 +65,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDMA",
-    "bankCode": "TG",
+    "bankCode": "BDMA",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BDMATGTG",
     "Bank Name": "BANQUE DE DEVELOPPEMENT DU MALI AU TOGO (BDM-TOGO)",
@@ -78,8 +78,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BILT",
-    "bankCode": "TG",
+    "bankCode": "BILT",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BILTTGTG",
     "Bank Name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU TOGO",
@@ -91,8 +91,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOAD",
-    "bankCode": "TG",
+    "bankCode": "BOAD",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BOADTGTG",
     "Bank Name": "BANQUE OUEST AFRICAINE DE DEVELOPPEMENT (BOAD)",
@@ -104,8 +104,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "TG",
+    "bankCode": "BSAH",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BSAHTGTG",
     "Bank Name": "BSIC TOGO SA",
@@ -117,8 +117,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHRR",
-    "bankCode": "TG",
+    "bankCode": "CHRR",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "CHRRTGTG",
     "Bank Name": "CAISSE REGIONALE DE REFINANCEMENT HYPOTHECAIRE DE L'UEMOA (CRRH- UEMOA)",
@@ -130,8 +130,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "TG",
+    "bankCode": "CORI",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "CORITGTG",
     "Bank Name": "CORIS BANK INTERNATIONAL TOGO",
@@ -143,8 +143,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "GTU",
     "SWIFT Code": "ECOCTGTU",
     "Bank Name": "ECOBANK TOGO",
@@ -156,8 +156,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "GTX",
     "SWIFT Code": "ECOCTGTX",
     "Bank Name": "ECOBANK TOGO",
@@ -169,8 +169,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "ECOCTGTG",
     "Bank Name": "ECOBANK TOGO",
@@ -182,8 +182,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "GTS",
     "SWIFT Code": "ECOCTGTS",
     "Bank Name": "ECOBANK TOGO",
@@ -195,8 +195,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "BID",
     "SWIFT Code": "ECOCTGTGBID",
     "Bank Name": "ECOBANK TOGO",
@@ -208,8 +208,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "GTA",
     "SWIFT Code": "ECOCTGTA",
     "Bank Name": "ECOBANK TOGO",
@@ -221,8 +221,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "EPI",
     "SWIFT Code": "ECOCTGTGEPI",
     "Bank Name": "ECOBANK TOGO",
@@ -234,8 +234,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "ETI",
     "SWIFT Code": "ECOCTGTGETI",
     "Bank Name": "ECOBANK TOGO",
@@ -247,8 +247,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TG",
+    "bankCode": "ECOC",
+    "countryCode": "TG",
     "branchCode": "WPS",
     "SWIFT Code": "ECOCTGTGWPS",
     "Bank Name": "ECOBANK TOGO",
@@ -260,8 +260,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBID",
-    "bankCode": "TG",
+    "bankCode": "EBID",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "EBIDTGTG",
     "Bank Name": "ECOWAS BANK FOR INVESTMENT AND DEVELOPMENT",
@@ -273,8 +273,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCI",
-    "bankCode": "TG",
+    "bankCode": "BTCI",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BTCITGTG",
     "Bank Name": "INTERNATIONAL BUSINESS BANK TOGO",
@@ -286,8 +286,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBLN",
-    "bankCode": "TG",
+    "bankCode": "DBLN",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "DBLNTGTG",
     "Bank Name": "NSIA BANQUE TOGO",
@@ -299,8 +299,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "TG",
+    "bankCode": "ORBK",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "ORBKTGTG",
     "Bank Name": "ORABANK TOGO",
@@ -312,8 +312,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "TG",
+    "bankCode": "ORBK",
+    "countryCode": "TG",
     "branchCode": "BJ1",
     "SWIFT Code": "ORBKTGTGBJ1",
     "Bank Name": "ORABANK TOGO",
@@ -325,8 +325,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "TG",
+    "bankCode": "ORBK",
+    "countryCode": "TG",
     "branchCode": "OGP",
     "SWIFT Code": "ORBKTGTGOGP",
     "Bank Name": "ORABANK TOGO",
@@ -338,8 +338,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOTO",
-    "bankCode": "TG",
+    "bankCode": "SOTO",
+    "countryCode": "TG",
     "branchCode": "GTL",
     "SWIFT Code": "SOTOTGTL",
     "Bank Name": "SOCIETE DES POSTES DU TOGO",
@@ -351,8 +351,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "TG",
+    "bankCode": "SOGE",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "SOGETGTG",
     "Bank Name": "SOCIETE GENERALE BENIN SUCCURSALE DU TOGO",
@@ -364,8 +364,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIAB",
-    "bankCode": "TG",
+    "bankCode": "SIAB",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "SIABTGTG",
     "Bank Name": "SOCIETE INTER-AFRICAINE DE BANQUE",
@@ -377,8 +377,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNU",
-    "bankCode": "TG",
+    "bankCode": "SUNU",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "SUNUTGTG",
     "Bank Name": "SUNU BANK TOGO",
@@ -390,8 +390,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPEC",
-    "bankCode": "TG",
+    "bankCode": "BPEC",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "BPECTGTG",
     "Bank Name": "SUNU BANK TOGO",
@@ -403,8 +403,8 @@ const togo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNTB",
-    "bankCode": "TG",
+    "bankCode": "UNTB",
+    "countryCode": "TG",
     "branchCode": "GTG",
     "SWIFT Code": "UNTBTGTG",
     "Bank Name": "UNION TOGOLAISE DE BANQUE",

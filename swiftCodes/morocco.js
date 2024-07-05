@@ -1,7 +1,7 @@
 const morocco = [
   {
-    "countryCode": "ABBM",
-    "bankCode": "MA",
+    "bankCode": "ABBM",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "ABBMMAMC",
     "Bank Name": "AL BARID BANK",
@@ -13,8 +13,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "250",
     "SWIFT Code": "ARABMAMC250",
     "Bank Name": "ARAB BANK PLC",
@@ -26,8 +26,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "260",
     "SWIFT Code": "ARABMAMC260",
     "Bank Name": "ARAB BANK PLC.",
@@ -39,8 +39,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "ARABMAMC",
     "Bank Name": "ARAB BANK PLC.",
@@ -52,8 +52,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "210",
     "SWIFT Code": "ARABMAMC210",
     "Bank Name": "ARAB BANK PLC.",
@@ -65,8 +65,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "240",
     "SWIFT Code": "ARABMAMC240",
     "Bank Name": "ARAB BANK PLC.",
@@ -78,8 +78,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "220",
     "SWIFT Code": "ARABMAMC220",
     "Bank Name": "ARAB BANK PLC.",
@@ -91,8 +91,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "221",
     "SWIFT Code": "ARABMAMC221",
     "Bank Name": "ARAB BANK PLC.",
@@ -104,8 +104,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "MA",
+    "bankCode": "ARAB",
+    "countryCode": "MA",
     "branchCode": "230",
     "SWIFT Code": "ARABMAMC230",
     "Bank Name": "ARAB BANK PLC.",
@@ -117,8 +117,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIBS",
-    "bankCode": "MA",
+    "bankCode": "AIBS",
+    "countryCode": "MA",
     "branchCode": "AMT",
     "SWIFT Code": "AIBSMAMT",
     "Bank Name": "ATTIJARI INTERNATIONAL BANK S.A. - BANQUE OFF SHORE",
@@ -130,8 +130,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "MA",
+    "bankCode": "BCMA",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "BCMAMAMC",
     "Bank Name": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
@@ -143,8 +143,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "MA",
+    "bankCode": "BCMA",
+    "countryCode": "MA",
     "branchCode": "ATI",
     "SWIFT Code": "BCMAMAMCATI",
     "Bank Name": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
@@ -156,8 +156,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "MA",
+    "bankCode": "BCMA",
+    "countryCode": "MA",
     "branchCode": "BAS",
     "SWIFT Code": "BCMAMAMCBAS",
     "Bank Name": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
@@ -169,8 +169,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "MA",
+    "bankCode": "BCMA",
+    "countryCode": "MA",
     "branchCode": "DEV",
     "SWIFT Code": "BCMAMAMCDEV",
     "Bank Name": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
@@ -182,8 +182,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "MA",
+    "bankCode": "BSAB",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "BSABMAMC",
     "Bank Name": "BANCO DE SABADELL, S.A.",
@@ -195,8 +195,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAM",
-    "bankCode": "MA",
+    "bankCode": "BKAM",
+    "countryCode": "MA",
     "branchCode": "AMR",
     "SWIFT Code": "BKAMMAMR",
     "Bank Name": "BANK AL-MAGHRIB",
@@ -208,8 +208,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASSF",
-    "bankCode": "MA",
+    "bankCode": "ASSF",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "ASSFMAMC",
     "Bank Name": "BANK ASSAFA",
@@ -221,8 +221,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "BTI",
     "SWIFT Code": "BMCEMAMCBTI",
     "Bank Name": "BANK OF AFRICA",
@@ -234,8 +234,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "BMCEMAMC",
     "Bank Name": "BANK OF AFRICA",
@@ -247,8 +247,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "COR",
     "SWIFT Code": "BMCEMAMCCOR",
     "Bank Name": "BANK OF AFRICA",
@@ -260,8 +260,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "BCB",
     "SWIFT Code": "BMCEMAMCBCB",
     "Bank Name": "BANK OF AFRICA",
@@ -273,8 +273,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "MRE",
     "SWIFT Code": "BMCEMAMCMRE",
     "Bank Name": "BANK OF AFRICA",
@@ -287,8 +287,8 @@ const morocco = [
   },
   {},
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "TCM",
     "SWIFT Code": "BMCEMAMCTCM",
     "Bank Name": "BANK OF AFRICA",
@@ -300,8 +300,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "MA",
+    "bankCode": "BMCE",
+    "countryCode": "MA",
     "branchCode": "TZF",
     "SWIFT Code": "BMCEMAMCTZF",
     "Bank Name": "BANK OF AFRICA",
@@ -313,8 +313,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "BCPOMAMC",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -326,8 +326,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "BKO",
     "SWIFT Code": "BCPOMAMCBKO",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -339,8 +339,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "MON",
     "SWIFT Code": "BCPOMAMCMON",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -352,8 +352,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "REC",
     "SWIFT Code": "BCPOMAMCREC",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -365,8 +365,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "DOC",
     "SWIFT Code": "BCPOMAMCDOC",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -378,8 +378,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "FIN",
     "SWIFT Code": "BCPOMAMCFIN",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -391,8 +391,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "MRE",
     "SWIFT Code": "BCPOMAMCMRE",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -404,8 +404,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "YSR",
     "SWIFT Code": "BCPOMAMCYSR",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -417,8 +417,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "CIB",
     "SWIFT Code": "BCPOMAMCCIB",
     "Bank Name": "BANQUE CENTRALE POPULAIRE",
@@ -430,8 +430,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCI",
-    "bankCode": "MA",
+    "bankCode": "BMCI",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "BMCIMAMC",
     "Bank Name": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -443,8 +443,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCI",
-    "bankCode": "MA",
+    "bankCode": "BMCI",
+    "countryCode": "MA",
     "branchCode": "NFP",
     "SWIFT Code": "BMCIMAMCNFP",
     "Bank Name": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -456,8 +456,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCI",
-    "bankCode": "MA",
+    "bankCode": "BMCI",
+    "countryCode": "MA",
     "branchCode": "TOF",
     "SWIFT Code": "BMCIMAMCTOF",
     "Bank Name": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -469,8 +469,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "CES",
     "SWIFT Code": "BCPOMAMCCES",
     "Bank Name": "BANQUE POPULAIRE AGADIR",
@@ -482,8 +482,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "ALH",
     "SWIFT Code": "BCPOMAMCALH",
     "Bank Name": "BANQUE POPULAIRE AL HOCEIMA",
@@ -495,8 +495,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "BNM",
     "SWIFT Code": "BCPOMAMCBNM",
     "Bank Name": "BANQUE POPULAIRE BENI MELLAL",
@@ -508,8 +508,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "BRK",
     "SWIFT Code": "BCPOMAMCBRK",
     "Bank Name": "BANQUE POPULAIRE BERKANE",
@@ -521,8 +521,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "CAS",
     "SWIFT Code": "BCPOMAMCCAS",
     "Bank Name": "BANQUE POPULAIRE CASA-ANFA",
@@ -534,8 +534,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "ELJ",
     "SWIFT Code": "BCPOMAMCELJ",
     "Bank Name": "BANQUE POPULAIRE EL JADIDA",
@@ -547,8 +547,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "FES",
     "SWIFT Code": "BCPOMAMCFES",
     "Bank Name": "BANQUE POPULAIRE FES",
@@ -560,8 +560,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "GHA",
     "SWIFT Code": "BCPOMAMCGHA",
     "Bank Name": "BANQUE POPULAIRE GHARB",
@@ -573,8 +573,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "LAY",
     "SWIFT Code": "BCPOMAMCLAY",
     "Bank Name": "BANQUE POPULAIRE LAAYOUNE",
@@ -586,8 +586,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "MKH",
     "SWIFT Code": "BCPOMAMCMKH",
     "Bank Name": "BANQUE POPULAIRE MARRAKECH",
@@ -599,8 +599,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "MEK",
     "SWIFT Code": "BCPOMAMCMEK",
     "Bank Name": "BANQUE POPULAIRE MEKNES",
@@ -612,8 +612,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "NAD",
     "SWIFT Code": "BCPOMAMCNAD",
     "Bank Name": "BANQUE POPULAIRE NADOR",
@@ -625,8 +625,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "OUJ",
     "SWIFT Code": "BCPOMAMCOUJ",
     "Bank Name": "BANQUE POPULAIRE OUJDA",
@@ -638,8 +638,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "RAB",
     "SWIFT Code": "BCPOMAMCRAB",
     "Bank Name": "BANQUE POPULAIRE RABAT",
@@ -651,8 +651,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "SAF",
     "SWIFT Code": "BCPOMAMCSAF",
     "Bank Name": "BANQUE POPULAIRE SAFI",
@@ -664,8 +664,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPO",
-    "bankCode": "MA",
+    "bankCode": "BCPO",
+    "countryCode": "MA",
     "branchCode": "TAT",
     "SWIFT Code": "BCPOMAMCTAT",
     "Bank Name": "BANQUE POPULAIRE TANGER",
@@ -677,8 +677,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEDC",
-    "bankCode": "MA",
+    "bankCode": "MEDC",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "MEDCMAMC",
     "Bank Name": "BCP SECURITIES SERVICES",
@@ -690,8 +690,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CADG",
-    "bankCode": "MA",
+    "bankCode": "CADG",
+    "countryCode": "MA",
     "branchCode": "AMR",
     "SWIFT Code": "CADGMAMR",
     "Bank Name": "CAISSE DE DEPOT ET DE GESTION",
@@ -703,8 +703,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "MA",
+    "bankCode": "CAIX",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "CAIXMAMC",
     "Bank Name": "CAIXABANK, S.A. SUCCURSALE AU MAROC",
@@ -716,8 +716,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDGC",
-    "bankCode": "MA",
+    "bankCode": "RDGC",
+    "countryCode": "MA",
     "branchCode": "AMR",
     "SWIFT Code": "RDGCMAMR",
     "Bank Name": "CDG CAPITAL",
@@ -729,8 +729,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFG",
-    "bankCode": "MA",
+    "bankCode": "CAFG",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "CAFGMAMC",
     "Bank Name": "CFG BANK",
@@ -742,8 +742,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAFG",
-    "bankCode": "MA",
+    "bankCode": "CAFG",
+    "countryCode": "MA",
     "branchCode": "CFM",
     "SWIFT Code": "CAFGMAMCCFM",
     "Bank Name": "CFG BANK",
@@ -755,8 +755,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MA",
+    "bankCode": "CITI",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "CITIMAMC",
     "Bank Name": "CITIBANK MAGHREB",
@@ -768,8 +768,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MA",
+    "bankCode": "CITI",
+    "countryCode": "MA",
     "branchCode": "TRD",
     "SWIFT Code": "CITIMAMCTRD",
     "Bank Name": "CITIBANK MAGHREB",
@@ -781,8 +781,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAMS",
-    "bankCode": "MA",
+    "bankCode": "RAMS",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "RAMSMAMC",
     "Bank Name": "COMPAGNIE NATIONALE ROYAL AIR MAROC",
@@ -794,8 +794,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNCA",
-    "bankCode": "MA",
+    "bankCode": "CNCA",
+    "countryCode": "MA",
     "branchCode": "AMR",
     "SWIFT Code": "CNCAMAMR",
     "Bank Name": "CREDIT AGRICOLE DU MAROC",
@@ -807,8 +807,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNCA",
-    "bankCode": "MA",
+    "bankCode": "CNCA",
+    "countryCode": "MA",
     "branchCode": "AAB",
     "SWIFT Code": "CNCAMAMRAAB",
     "Bank Name": "CREDIT AGRICOLE DU MAROC",
@@ -820,8 +820,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "706",
     "SWIFT Code": "CDMAMAMC706",
     "Bank Name": "CREDIT DU MAROC",
@@ -833,8 +833,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "702",
     "SWIFT Code": "CDMAMAMC702",
     "Bank Name": "CREDIT DU MAROC",
@@ -846,8 +846,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "701",
     "SWIFT Code": "CDMAMAMC701",
     "Bank Name": "CREDIT DU MAROC",
@@ -859,8 +859,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "PAR",
     "SWIFT Code": "CDMAMAMCPAR",
     "Bank Name": "CREDIT DU MAROC",
@@ -872,8 +872,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "CDMAMAMC",
     "Bank Name": "CREDIT DU MAROC",
@@ -885,8 +885,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "COS",
     "SWIFT Code": "CDMAMAMCCOS",
     "Bank Name": "CREDIT DU MAROC",
@@ -898,8 +898,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "703",
     "SWIFT Code": "CDMAMAMC703",
     "Bank Name": "CREDIT DU MAROC",
@@ -911,8 +911,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "700",
     "SWIFT Code": "CDMAMAMC700",
     "Bank Name": "CREDIT DU MAROC",
@@ -924,8 +924,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "707",
     "SWIFT Code": "CDMAMAMC707",
     "Bank Name": "CREDIT DU MAROC",
@@ -937,8 +937,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "704",
     "SWIFT Code": "CDMAMAMC704",
     "Bank Name": "CREDIT DU MAROC",
@@ -950,8 +950,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "708",
     "SWIFT Code": "CDMAMAMC708",
     "Bank Name": "CREDIT DU MAROC",
@@ -963,8 +963,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "709",
     "SWIFT Code": "CDMAMAMC709",
     "Bank Name": "CREDIT DU MAROC",
@@ -976,8 +976,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDMA",
-    "bankCode": "MA",
+    "bankCode": "CDMA",
+    "countryCode": "MA",
     "branchCode": "705",
     "SWIFT Code": "CDMAMAMC705",
     "Bank Name": "CREDIT DU MAROC",
@@ -989,8 +989,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIHM",
-    "bankCode": "MA",
+    "bankCode": "CIHM",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "CIHMMAMC",
     "Bank Name": "CREDIT IMMOBILIER ET HOTELIER",
@@ -1002,8 +1002,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIHM",
-    "bankCode": "MA",
+    "bankCode": "CIHM",
+    "countryCode": "MA",
     "branchCode": "DEP",
     "SWIFT Code": "CIHMMAMCDEP",
     "Bank Name": "CREDIT IMMOBILIER ET HOTELIER",
@@ -1015,8 +1015,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIHM",
-    "bankCode": "MA",
+    "bankCode": "CIHM",
+    "countryCode": "MA",
     "branchCode": "SDM",
     "SWIFT Code": "CIHMMAMCSDM",
     "Bank Name": "CREDIT IMMOBILIER ET HOTELIER",
@@ -1028,8 +1028,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIHM",
-    "bankCode": "MA",
+    "bankCode": "CIHM",
+    "countryCode": "MA",
     "branchCode": "UBP",
     "SWIFT Code": "CIHMMAMCUBP",
     "Bank Name": "CREDIT IMMOBILIER ET HOTELIER",
@@ -1041,8 +1041,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOCP",
-    "bankCode": "MA",
+    "bankCode": "GOCP",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "GOCPMAMC",
     "Bank Name": "GROUPE OCP",
@@ -1054,8 +1054,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFCH",
-    "bankCode": "MA",
+    "bankCode": "OFCH",
+    "countryCode": "MA",
     "branchCode": "AMR",
     "SWIFT Code": "OFCHMAMR",
     "Bank Name": "OFFICE DES CHANGES",
@@ -1067,8 +1067,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMB",
-    "bankCode": "MA",
+    "bankCode": "SGMB",
+    "countryCode": "MA",
     "branchCode": "PA1",
     "SWIFT Code": "SGMBMAMCPA1",
     "Bank Name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
@@ -1080,8 +1080,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMB",
-    "bankCode": "MA",
+    "bankCode": "SGMB",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "SGMBMAMC",
     "Bank Name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
@@ -1093,8 +1093,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMB",
-    "bankCode": "MA",
+    "bankCode": "SGMB",
+    "countryCode": "MA",
     "branchCode": "CMI",
     "SWIFT Code": "SGMBMAMCCMI",
     "Bank Name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
@@ -1106,8 +1106,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMB",
-    "bankCode": "MA",
+    "bankCode": "SGMB",
+    "countryCode": "MA",
     "branchCode": "FCM",
     "SWIFT Code": "SGMBMAMCFCM",
     "Bank Name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
@@ -1119,8 +1119,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMB",
-    "bankCode": "MA",
+    "bankCode": "SGMB",
+    "countryCode": "MA",
     "branchCode": "SFS",
     "SWIFT Code": "SGMBMAMCSFS",
     "Bank Name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
@@ -1132,8 +1132,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMB",
-    "bankCode": "MA",
+    "bankCode": "SGMB",
+    "countryCode": "MA",
     "branchCode": "TIT",
     "SWIFT Code": "SGMBMAMCTIT",
     "Bank Name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
@@ -1145,8 +1145,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGTG",
-    "bankCode": "MA",
+    "bankCode": "SGTG",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "SGTGMAMC",
     "Bank Name": "SOCIETE GENERALE OFFSHORE",
@@ -1158,8 +1158,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMNI",
-    "bankCode": "MA",
+    "bankCode": "UMNI",
+    "countryCode": "MA",
     "branchCode": "AMM",
     "SWIFT Code": "UMNIMAMM",
     "Bank Name": "UMNIA BANK",
@@ -1171,8 +1171,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMAB",
-    "bankCode": "MA",
+    "bankCode": "UMAB",
+    "countryCode": "MA",
     "branchCode": "AMC",
     "SWIFT Code": "UMABMAMC",
     "Bank Name": "UNION MAROCAINE DE BANQUES",
@@ -1184,8 +1184,8 @@ const morocco = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WACO",
-    "bankCode": "MA",
+    "bankCode": "WACO",
+    "countryCode": "MA",
     "branchCode": "AMM",
     "SWIFT Code": "WACOMAMM",
     "Bank Name": "WANA CORPORATE",

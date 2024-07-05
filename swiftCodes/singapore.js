@@ -1,7 +1,7 @@
 const singapore = [
   {
-    "countryCode": "HOCT",
-    "bankCode": "SG",
+    "bankCode": "HOCT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "HOCTSGS2",
     "Bank Name": "SP HOME COOLING PTE. LTD",
@@ -13,8 +13,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOPT",
-    "bankCode": "SG",
+    "bankCode": "HOPT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "HOPTSGS2",
     "Bank Name": "SP HOME PTE. LTD.",
@@ -26,8 +26,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNP",
-    "bankCode": "SG",
+    "bankCode": "SUNP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SUNPSGS2",
     "Bank Name": "SP SUSTAINABILITY AND ENGINEERING PTE. LTD.",
@@ -39,8 +39,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPVP",
-    "bankCode": "SG",
+    "bankCode": "SPVP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SPVPSGS2",
     "Bank Name": "SPIEI VIETNAM PTE. LTD.",
@@ -52,8 +52,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVST",
-    "bankCode": "SG",
+    "bankCode": "SVST",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SVSTSGS2",
     "Bank Name": "SPIEI VIETNAM SOLAR PTE LTD",
@@ -65,8 +65,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNI",
-    "bankCode": "SG",
+    "bankCode": "SCNI",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SCNISGS2",
     "Bank Name": "SPRINGS CAPITAL MANAGEMENT (SINGAPORE) PTE. LTD.",
@@ -78,8 +78,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXPT",
-    "bankCode": "SG",
+    "bankCode": "SXPT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SXPTSGS2",
     "Bank Name": "SPX PTE. LTD.",
@@ -91,8 +91,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SCBLSGSG",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -104,8 +104,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "EQI",
     "SWIFT Code": "SCBLSGSGEQI",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -117,8 +117,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "FIN",
     "SWIFT Code": "SCBLSGSGFIN",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -130,8 +130,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "CDP",
     "SWIFT Code": "SCBLSGSGCDP",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -143,8 +143,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "ZOP",
     "SWIFT Code": "SCBLSGSGZOP",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -156,8 +156,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "FTL",
     "SWIFT Code": "SCBLSGSGFTL",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -169,8 +169,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "GPE",
     "SWIFT Code": "SCBLSGSGGPE",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -182,8 +182,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "ZPB",
     "SWIFT Code": "SCBLSGSGZPB",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -195,8 +195,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "G22",
     "SWIFT Code": "SCBLSG22",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -208,8 +208,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "ZOP",
     "SWIFT Code": "SCBLSG22ZOP",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -221,8 +221,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "ZPB",
     "SWIFT Code": "SCBLSG22ZPB",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -234,8 +234,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "WMO",
     "SWIFT Code": "SCBLSG22WMO",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -247,8 +247,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "GPE",
     "SWIFT Code": "SCBLSG22GPE",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -260,8 +260,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "STM",
     "SWIFT Code": "SCBLSG22STM",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -273,8 +273,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SG",
+    "bankCode": "SCBL",
+    "countryCode": "SG",
     "branchCode": "EQI",
     "SWIFT Code": "SCBLSG22EQI",
     "Bank Name": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
@@ -286,8 +286,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "SG",
+    "bankCode": "SBIN",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SBINSGSG",
     "Bank Name": "STATE BANK OF INDIA",
@@ -299,8 +299,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "SG",
+    "bankCode": "SBOS",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "SBOSSGSX",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
@@ -312,8 +312,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "SG",
+    "bankCode": "SBOS",
+    "countryCode": "SG",
     "branchCode": "AGC",
     "SWIFT Code": "SBOSSGSXAGC",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
@@ -325,8 +325,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "SG",
+    "bankCode": "SBOS",
+    "countryCode": "SG",
     "branchCode": "AGD",
     "SWIFT Code": "SBOSSGSXAGD",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
@@ -338,8 +338,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "SG",
+    "bankCode": "SBOS",
+    "countryCode": "SG",
     "branchCode": "TAD",
     "SWIFT Code": "SBOSSGSXTAD",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
@@ -351,8 +351,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGLU",
-    "bankCode": "SG",
+    "bankCode": "IGLU",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "IGLUSGSG",
     "Bank Name": "STONEX FINANCIAL PTE. LTD.",
@@ -364,8 +364,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRHP",
-    "bankCode": "SG",
+    "bankCode": "SRHP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SRHPSGSG",
     "Bank Name": "STORHUB MANAGEMENT PTE. LTD.",
@@ -377,8 +377,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "SG",
+    "bankCode": "SMBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SMBCSGSG",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -390,8 +390,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "SG",
+    "bankCode": "STBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "STBCSGSG",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK LIMITED, SINGAPORE BRANH",
@@ -403,8 +403,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUJR",
-    "bankCode": "SG",
+    "bankCode": "SUJR",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SUJRSGSG",
     "Bank Name": "SURBANA JURONG PRIVATE LIMITED",
@@ -416,8 +416,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLIE",
-    "bankCode": "SG",
+    "bankCode": "SLIE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SLIESGSG",
     "Bank Name": "SWISS LIFE (SINGAPORE) PTE. LTD.",
@@ -429,8 +429,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYME",
-    "bankCode": "SG",
+    "bankCode": "SYME",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SYMESGSG",
     "Bank Name": "SYNERGY MARINE PTE. LTD.",
@@ -442,8 +442,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPBK",
-    "bankCode": "SG",
+    "bankCode": "TPBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TPBKSGSG",
     "Bank Name": "TAIPEI FUBON COMMERCIAL BANK CO.,LTD",
@@ -455,8 +455,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "SG",
+    "bankCode": "TSIB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TSIBSGSG",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD. SINGAPORE BRANCH",
@@ -468,8 +468,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAZC",
-    "bankCode": "SG",
+    "bankCode": "TAZC",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "TAZCSGS2",
     "Bank Name": "TAZAPAY PTE. LTD.",
@@ -481,8 +481,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TESV",
-    "bankCode": "SG",
+    "bankCode": "TESV",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "TESVSGS2",
     "Bank Name": "TECHCREATE SOLUTION PRIVATE LIMITED",
@@ -494,8 +494,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIMI",
-    "bankCode": "SG",
+    "bankCode": "TIMI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TIMISGSG",
     "Bank Name": "TEMPLETON ASSET MANAGEMENT LTD",
@@ -507,8 +507,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIMI",
-    "bankCode": "SG",
+    "bankCode": "TIMI",
+    "countryCode": "SG",
     "branchCode": "BEM",
     "SWIFT Code": "TIMISGSGBEM",
     "Bank Name": "TEMPLETON ASSET MANAGEMENT LTD",
@@ -520,8 +520,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TENP",
-    "bankCode": "SG",
+    "bankCode": "TENP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TENPSGSG",
     "Bank Name": "TES-ENVIROCORP PTE. LTD.",
@@ -533,8 +533,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "SG",
+    "bankCode": "BEAS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BEASSGSG",
     "Bank Name": "THE BANK OF EAST ASIA LIMITED",
@@ -546,8 +546,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "SG",
+    "bankCode": "IRVT",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "IRVTSGSX",
     "Bank Name": "THE BANK OF NEW YORK MELLON, SINGAPORE BRANCH",
@@ -559,8 +559,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "SG",
+    "bankCode": "NOSC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NOSCSGSG",
     "Bank Name": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
@@ -572,8 +572,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "SG",
+    "bankCode": "NOSC",
+    "countryCode": "SG",
     "branchCode": "GFI",
     "SWIFT Code": "NOSCSGSGGFI",
     "Bank Name": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
@@ -585,8 +585,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "SG",
+    "bankCode": "NOSC",
+    "countryCode": "SG",
     "branchCode": "IMM",
     "SWIFT Code": "NOSCSGSGIMM",
     "Bank Name": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
@@ -598,8 +598,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMA",
-    "bankCode": "SG",
+    "bankCode": "HAMA",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "HAMASGS2",
     "Bank Name": "THE BANK OF YOKOHAMA, LTD. SINGAPORE BRANCH",
@@ -611,8 +611,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDPL",
-    "bankCode": "SG",
+    "bankCode": "CDPL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CDPLSGSG",
     "Bank Name": "THE CENTRAL DEPOSITORY (PTE) LIMITED",
@@ -624,8 +624,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDPL",
-    "bankCode": "SG",
+    "bankCode": "CDPL",
+    "countryCode": "SG",
     "branchCode": "001",
     "SWIFT Code": "CDPLSGSG001",
     "Bank Name": "THE CENTRAL DEPOSITORY (PTE) LIMITED",
@@ -637,8 +637,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHGK",
-    "bankCode": "SG",
+    "bankCode": "CHGK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CHGKSGSG",
     "Bank Name": "THE CHUGOKU BANK, LTD. SINGAPORE BRANCH",
@@ -650,8 +650,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGP",
-    "bankCode": "SG",
+    "bankCode": "INGP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "INGPSGSG",
     "Bank Name": "BANK OF SINGAPORE LIMITED (FORMERLY ING ASIA PRIVATE BANK LIMITED)",
@@ -663,8 +663,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "SG",
+    "bankCode": "BKTW",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BKTWSGSG",
     "Bank Name": "BANK OF TAIWAN",
@@ -676,8 +676,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "SG",
+    "bankCode": "PICT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PICTSGSG",
     "Bank Name": "BANK PICTET AND CIE (ASIA) LTD",
@@ -689,8 +689,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "SG",
+    "bankCode": "PICT",
+    "countryCode": "SG",
     "branchCode": "COR",
     "SWIFT Code": "PICTSGSGCOR",
     "Bank Name": "BANK PICTET AND CIE (ASIA) LTD",
@@ -702,8 +702,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SACH",
-    "bankCode": "SG",
+    "bankCode": "SACH",
+    "countryCode": "SG",
     "branchCode": "G22",
     "SWIFT Code": "SACHSG22",
     "Bank Name": "BANKING COMPUTER SERVICES PRIVATE LIMITED",
@@ -715,8 +715,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SACH",
-    "bankCode": "SG",
+    "bankCode": "SACH",
+    "countryCode": "SG",
     "branchCode": "G32",
     "SWIFT Code": "SACHSG32",
     "Bank Name": "BANKING COMPUTER SERVICES PRIVATE LIMITED",
@@ -728,8 +728,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "SG",
+    "bankCode": "BARC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BARCSGSG",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -741,8 +741,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "SG",
+    "bankCode": "BARC",
+    "countryCode": "SG",
     "branchCode": "GSW",
     "SWIFT Code": "BARCSGSW",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -754,8 +754,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNOR",
-    "bankCode": "SG",
+    "bankCode": "BNOR",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BNORSGSG",
     "Bank Name": "BDO UNIBANK, INC., SINGAPORE BRANCH",
@@ -767,8 +767,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "SG",
+    "bankCode": "BNPA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BNPASGSG",
     "Bank Name": "BNP PARIBAS - SINGAPORE BRANCH",
@@ -780,8 +780,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "SG",
+    "bankCode": "BNPA",
+    "countryCode": "SG",
     "branchCode": "WMB",
     "SWIFT Code": "BNPASGSGWMB",
     "Bank Name": "BNP PARIBAS - SINGAPORE BRANCH",
@@ -793,8 +793,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "SG",
+    "bankCode": "PARB",
+    "countryCode": "SG",
     "branchCode": "TPC",
     "SWIFT Code": "PARBSGSGTPC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -806,8 +806,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPTS",
-    "bankCode": "SG",
+    "bankCode": "BPTS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BPTSSGSG",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -819,8 +819,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "SG",
+    "bankCode": "PARB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PARBSGSG",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -832,8 +832,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "SG",
+    "bankCode": "PARB",
+    "countryCode": "SG",
     "branchCode": "ESI",
     "SWIFT Code": "PARBSGSGESI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -845,8 +845,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "SG",
+    "bankCode": "PARB",
+    "countryCode": "SG",
     "branchCode": "ISI",
     "SWIFT Code": "PARBSGSGISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -858,8 +858,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "SG",
+    "bankCode": "PARB",
+    "countryCode": "SG",
     "branchCode": "MOO",
     "SWIFT Code": "PARBSGSGMOO",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -871,8 +871,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPT",
-    "bankCode": "SG",
+    "bankCode": "BNPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BNPTSGSG",
     "Bank Name": "BNP PARIBAS TRUST SERVICES SINGAPORE LIMITED  (TRUST AND TA ONLY)",
@@ -884,8 +884,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNSI",
-    "bankCode": "SG",
+    "bankCode": "BNSI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BNSISGSG",
     "Bank Name": "BNS ASIA LIMITED",
@@ -897,8 +897,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLPR",
-    "bankCode": "SG",
+    "bankCode": "BLPR",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BLPRSGSG",
     "Bank Name": "BOLLORE LOGISTICS ASIA-PACIFIC CORPORATE PTE LTD",
@@ -910,8 +910,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BORD",
-    "bankCode": "SG",
+    "bankCode": "BORD",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "BORDSGSX",
     "Bank Name": "BORDIER AND CIE (SINGAPORE) LTD",
@@ -923,8 +923,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSI",
-    "bankCode": "SG",
+    "bankCode": "BPSI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BPSISGSG",
     "Bank Name": "BP SINGAPORE PTE LIMITED",
@@ -936,8 +936,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPID",
-    "bankCode": "SG",
+    "bankCode": "BPID",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "BPIDSGS2",
     "Bank Name": "BROAD PEAK INVESTMENT ADVISERS PTE",
@@ -949,8 +949,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPPT",
-    "bankCode": "SG",
+    "bankCode": "LPPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "LPPTSGSG",
     "Bank Name": "BW LPG HOLDING PTE. LTD.",
@@ -962,8 +962,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BWMA",
-    "bankCode": "SG",
+    "bankCode": "BWMA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BWMASGSG",
     "Bank Name": "BW MARITIME PTE LTD",
@@ -975,8 +975,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "SG",
+    "bankCode": "AGRI",
+    "countryCode": "SG",
     "branchCode": "G2X",
     "SWIFT Code": "AGRISG2X",
     "Bank Name": "CA INDOSUEZ (SWITZERLAND) SA, SINGAPORE BRANCH",
@@ -988,8 +988,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "SG",
+    "bankCode": "CIBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CIBCSGSG",
     "Bank Name": "CANADIAN IMPERIAL BANK OF COMMERCE",
@@ -1001,8 +1001,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTSF",
-    "bankCode": "SG",
+    "bankCode": "CTSF",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CTSFSGSG",
     "Bank Name": "CARGILL TSF ASIA PTE. LTD.",
@@ -1014,8 +1014,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "SG",
+    "bankCode": "UWCB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "UWCBSGSG",
     "Bank Name": "CATHAY UNITED BANK SINGAPORE BRANCH",
@@ -1027,8 +1027,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBPV",
-    "bankCode": "SG",
+    "bankCode": "CBPV",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "CBPVSGS2",
     "Bank Name": "CBIPAY PRIVATE LIMITED",
@@ -1040,8 +1040,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNSP",
-    "bankCode": "SG",
+    "bankCode": "CNSP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "CNSPSGS2",
     "Bank Name": "CCB INTERNATIONAL (SINGAPORE) PTE. LTD.",
@@ -1053,8 +1053,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "SG",
+    "bankCode": "CCBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CCBCSGSG",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD.",
@@ -1066,8 +1066,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPHA",
-    "bankCode": "SG",
+    "bankCode": "CPHA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CPHASGSG",
     "Bank Name": "CHEVRON PHILLIPS CHEMICALS ASIA PTE. LTD.",
@@ -1079,8 +1079,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWHK",
-    "bankCode": "SG",
+    "bankCode": "KWHK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KWHKSGSG",
     "Bank Name": "CHINA CITIC BANK INTERNATIONAL LIMITED SINGAPORE BRANCH",
@@ -1092,8 +1092,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "SG",
+    "bankCode": "PCBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PCBCSGSG",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION, SINGAPORE BRANCH",
@@ -1105,8 +1105,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "SG",
+    "bankCode": "PCBC",
+    "countryCode": "SG",
     "branchCode": "CIS",
     "SWIFT Code": "PCBCSGSGCIS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION, SINGAPORE BRANCH",
@@ -1118,8 +1118,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHNF",
-    "bankCode": "SG",
+    "bankCode": "CHNF",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CHNFSGSG",
     "Bank Name": "CHINA INTERNATIONAL FACTORING (SINGAPORE) PTE LTD",
@@ -1131,8 +1131,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "SG",
+    "bankCode": "CMBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CMBCSGSG",
     "Bank Name": "CHINA MERCHANTS BANK SINGAPORE BRANCH",
@@ -1144,8 +1144,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "SG",
+    "bankCode": "CMBC",
+    "countryCode": "SG",
     "branchCode": "PBD",
     "SWIFT Code": "CMBCSGSGPBD",
     "Bank Name": "CHINA MERCHANTS BANK SINGAPORE BRANCH",
@@ -1157,8 +1157,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "SG",
+    "bankCode": "CIBB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CIBBSGSG",
     "Bank Name": "CIMB BANK BERHAD",
@@ -1170,8 +1170,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "GSL",
     "SWIFT Code": "CITISGSL",
     "Bank Name": "CITIBANK SINGAPORE LIMITED",
@@ -1183,8 +1183,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "GCB",
     "SWIFT Code": "CITISGSGGCB",
     "Bank Name": "CITIBANK SINGAPORE LTD",
@@ -1196,8 +1196,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CITISGSG",
     "Bank Name": "CITIBANK,N.A.",
@@ -1209,8 +1209,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "ICE",
     "SWIFT Code": "CITISGSGICE",
     "Bank Name": "CITIBANK,N.A.",
@@ -1222,8 +1222,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "CC1",
     "SWIFT Code": "CITISGSGCC1",
     "Bank Name": "CITIBANK,N.A.",
@@ -1235,8 +1235,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "CDP",
     "SWIFT Code": "CITISGSGCDP",
     "Bank Name": "CITIBANK,N.A.",
@@ -1248,8 +1248,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "EFX",
     "SWIFT Code": "CITISGSGEFX",
     "Bank Name": "CITIBANK,N.A.",
@@ -1261,8 +1261,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "NRI",
     "SWIFT Code": "CITISGSGNRI",
     "Bank Name": "CITIBANK,N.A.",
@@ -1274,8 +1274,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "PBG",
     "SWIFT Code": "CITISGSGPBG",
     "Bank Name": "CITIBANK,N.A.",
@@ -1287,8 +1287,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "DFA",
     "SWIFT Code": "CITISGSGDFA",
     "Bank Name": "CITIBANK,N.A.",
@@ -1300,8 +1300,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GELA",
-    "bankCode": "SG",
+    "bankCode": "GELA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GELASGSG",
     "Bank Name": "THE GREAT EASTERN LIFE ASSURANCE COMPANY LIMITED",
@@ -1313,8 +1313,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABK",
-    "bankCode": "SG",
+    "bankCode": "HABK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HABKSGSG",
     "Bank Name": "THE HACHIJUNI BANK, LTD. SINGAPORE BRANCH",
@@ -1326,8 +1326,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HSBCSGSG",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1339,8 +1339,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "CLS",
     "SWIFT Code": "HSBCSGSGCLS",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1352,8 +1352,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "CNC",
     "SWIFT Code": "HSBCSGSGCNC",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1365,8 +1365,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "BLC",
     "SWIFT Code": "HSBCSGSGBLC",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1378,8 +1378,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "GWS",
     "SWIFT Code": "HSBCSGSGGWS",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1391,8 +1391,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "ISV",
     "SWIFT Code": "HSBCSGSGISV",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1404,8 +1404,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "GPI",
     "SWIFT Code": "HSBCSGSGGPI",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1417,8 +1417,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "PBD",
     "SWIFT Code": "HSBCSGSGPBD",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1430,8 +1430,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "WBS",
     "SWIFT Code": "HSBCSGSGWBS",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1443,8 +1443,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "FEX",
     "SWIFT Code": "HSBCSGSGFEX",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -1456,8 +1456,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIBA",
-    "bankCode": "SG",
+    "bankCode": "TIBA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TIBASGSG",
     "Bank Name": "THE ISLAMIC BANK OF ASIA LIMITED",
@@ -1469,8 +1469,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IYOB",
-    "bankCode": "SG",
+    "bankCode": "IYOB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "IYOBSGSG",
     "Bank Name": "THE IYO BANK, LTD. SINGAPORE BRANCH",
@@ -1482,8 +1482,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "SG",
+    "bankCode": "KODB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KODBSGSG",
     "Bank Name": "THE KOREA DEVELOPMENT BANK,SINGAPORE BRANCH",
@@ -1495,8 +1495,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "GSC",
     "SWIFT Code": "MASGSGSC",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1508,8 +1508,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPA",
     "SWIFT Code": "MASGSGSCTPA",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1521,8 +1521,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPB",
     "SWIFT Code": "MASGSGSCTPB",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1534,8 +1534,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPC",
     "SWIFT Code": "MASGSGSCTPC",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1547,8 +1547,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQC",
     "SWIFT Code": "MASGSGSCTQC",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1560,8 +1560,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPD",
     "SWIFT Code": "MASGSGSCTPD",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1573,8 +1573,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPE",
     "SWIFT Code": "MASGSGSCTPE",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1586,8 +1586,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPF",
     "SWIFT Code": "MASGSGSCTPF",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1599,8 +1599,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPG",
     "SWIFT Code": "MASGSGSCTPG",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1612,8 +1612,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPH",
     "SWIFT Code": "MASGSGSCTPH",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1625,8 +1625,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPI",
     "SWIFT Code": "MASGSGSCTPI",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1638,8 +1638,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPJ",
     "SWIFT Code": "MASGSGSCTPJ",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1651,8 +1651,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPK",
     "SWIFT Code": "MASGSGSCTPK",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1664,8 +1664,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPL",
     "SWIFT Code": "MASGSGSCTPL",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1677,8 +1677,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPM",
     "SWIFT Code": "MASGSGSCTPM",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1690,8 +1690,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPN",
     "SWIFT Code": "MASGSGSCTPN",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1703,8 +1703,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPO",
     "SWIFT Code": "MASGSGSCTPO",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1716,8 +1716,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPP",
     "SWIFT Code": "MASGSGSCTPP",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1729,8 +1729,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPQ",
     "SWIFT Code": "MASGSGSCTPQ",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1742,8 +1742,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPR",
     "SWIFT Code": "MASGSGSCTPR",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1755,8 +1755,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPS",
     "SWIFT Code": "MASGSGSCTPS",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1768,8 +1768,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPT",
     "SWIFT Code": "MASGSGSCTPT",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1781,8 +1781,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPU",
     "SWIFT Code": "MASGSGSCTPU",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1794,8 +1794,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPV",
     "SWIFT Code": "MASGSGSCTPV",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1807,8 +1807,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPW",
     "SWIFT Code": "MASGSGSCTPW",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1820,8 +1820,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPX",
     "SWIFT Code": "MASGSGSCTPX",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1833,8 +1833,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPY",
     "SWIFT Code": "MASGSGSCTPY",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1846,8 +1846,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TPZ",
     "SWIFT Code": "MASGSGSCTPZ",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1859,8 +1859,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQA",
     "SWIFT Code": "MASGSGSCTQA",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1872,8 +1872,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQB",
     "SWIFT Code": "MASGSGSCTQB",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1885,8 +1885,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQD",
     "SWIFT Code": "MASGSGSCTQD",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1898,8 +1898,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQE",
     "SWIFT Code": "MASGSGSCTQE",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1911,8 +1911,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQF",
     "SWIFT Code": "MASGSGSCTQF",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1924,8 +1924,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQG",
     "SWIFT Code": "MASGSGSCTQG",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1937,8 +1937,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQH",
     "SWIFT Code": "MASGSGSCTQH",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -1950,8 +1950,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SG",
+    "bankCode": "CITI",
+    "countryCode": "SG",
     "branchCode": "HUB",
     "SWIFT Code": "CITISGSGHUB",
     "Bank Name": "CITIBANK,N.A.",
@@ -1963,8 +1963,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIDV",
-    "bankCode": "SG",
+    "bankCode": "CIDV",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CIDVSGSG",
     "Bank Name": "CITY DEVELOPMENTS LIMITED",
@@ -1976,8 +1976,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLIP",
-    "bankCode": "SG",
+    "bankCode": "CLIP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CLIPSGSG",
     "Bank Name": "CLARENCY SINGAPORE PTE. LTD.",
@@ -1989,8 +1989,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSS",
-    "bankCode": "SG",
+    "bankCode": "CLSS",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "CLSSSGS2",
     "Bank Name": "CLSA SINGAPORE PTE LTD.",
@@ -2002,8 +2002,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSS",
-    "bankCode": "SG",
+    "bankCode": "CLSS",
+    "countryCode": "SG",
     "branchCode": "CWM",
     "SWIFT Code": "CLSSSGSGCWM",
     "Bank Name": "CLSA SINGAPORE PTE LTD.",
@@ -2015,8 +2015,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSS",
-    "bankCode": "SG",
+    "bankCode": "CLSS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CLSSSGSG",
     "Bank Name": "CLSA SINGAPORE PTE LTD.",
@@ -2028,8 +2028,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSS",
-    "bankCode": "SG",
+    "bankCode": "CLSS",
+    "countryCode": "SG",
     "branchCode": "CHV",
     "SWIFT Code": "CLSSSGSGCHV",
     "Bank Name": "CLSA SINGAPORE PTE LTD.",
@@ -2041,8 +2041,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCK",
-    "bankCode": "SG",
+    "bankCode": "CMCK",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "CMCKSGS2",
     "Bank Name": "CMC MARKETS SINGAPORE PTE. LTD.",
@@ -2054,8 +2054,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "SG",
+    "bankCode": "COBA",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "COBASGSX",
     "Bank Name": "COMMERZBANK AG, SINGAPORE BRANCH",
@@ -2067,8 +2067,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "SG",
+    "bankCode": "CTBA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CTBASGSG",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -2080,8 +2080,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIEV",
-    "bankCode": "SG",
+    "bankCode": "CIEV",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CIEVSGSG",
     "Bank Name": "COMPETROL INTERNATIONAL INVESTMENTS PRIVATE LIMITED",
@@ -2093,8 +2093,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCAP",
-    "bankCode": "SG",
+    "bankCode": "MCAP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MCAPSGSG",
     "Bank Name": "CONDUIT SECURITIES PTE. LTD.",
@@ -2106,8 +2106,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "SG",
+    "bankCode": "CRLY",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CRLYSGSG",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -2119,8 +2119,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "SG",
+    "bankCode": "CRLY",
+    "countryCode": "SG",
     "branchCode": "COM",
     "SWIFT Code": "CRLYSGSGCOM",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -2132,8 +2132,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "SG",
+    "bankCode": "CRLY",
+    "countryCode": "SG",
     "branchCode": "940",
     "SWIFT Code": "CRLYSGSG940",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -2145,8 +2145,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "SG",
+    "bankCode": "CMCI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CMCISGSG",
     "Bank Name": "CREDIT INDUSTRIEL ET COMMERCIAL - SINGAPORE BRANCH",
@@ -2158,8 +2158,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "SG",
+    "bankCode": "CSFB",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "CSFBSGSX",
     "Bank Name": "CREDIT SUISSE (SINGAPORE) LIMITED",
@@ -2171,8 +2171,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "SG",
+    "bankCode": "CSFB",
+    "countryCode": "SG",
     "branchCode": "VIS",
     "SWIFT Code": "CSFBSGSXVIS",
     "Bank Name": "CREDIT SUISSE (SINGAPORE) LIMITED",
@@ -2184,8 +2184,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSPB",
-    "bankCode": "SG",
+    "bankCode": "CSPB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CSPBSGSG",
     "Bank Name": "CREDIT SUISSE AG, SINGAPORE BRANCH",
@@ -2197,8 +2197,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "SG",
+    "bankCode": "CRES",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CRESSGSG",
     "Bank Name": "CREDIT SUISSE AG, SINGAPORE BRANCH",
@@ -2210,8 +2210,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "SG",
+    "bankCode": "CSFB",
+    "countryCode": "SG",
     "branchCode": "GSE",
     "SWIFT Code": "CSFBSGSE",
     "Bank Name": "CREDIT SUISSE SECURITIES (SINGAPORE) PTE LIMITED",
@@ -2223,8 +2223,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "SG",
+    "bankCode": "CSFB",
+    "countryCode": "SG",
     "branchCode": "VIS",
     "SWIFT Code": "CSFBSGSEVIS",
     "Bank Name": "CREDIT SUISSE SECURITIES (SINGAPORE) PTE LIMITED",
@@ -2236,8 +2236,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEGS",
-    "bankCode": "SG",
+    "bankCode": "CEGS",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "CEGSSGS2",
     "Bank Name": "CRESCENT ASSET MANAGEMENT ASIA PTE. LTD.",
@@ -2249,8 +2249,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "SG",
+    "bankCode": "CTCB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CTCBSGSG",
     "Bank Name": "CTBC BANK CO., LTD., SINGAPORE BRANCH",
@@ -2262,8 +2262,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "SG",
+    "bankCode": "CTCB",
+    "countryCode": "SG",
     "branchCode": "006",
     "SWIFT Code": "CTCBSGSG006",
     "Bank Name": "CTBC BANK CO., LTD., SINGAPORE BRANCH",
@@ -2275,8 +2275,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUDP",
-    "bankCode": "SG",
+    "bankCode": "CUDP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "CUDPSGS2",
     "Bank Name": "CURRENCIES DIRECT PTE LTD",
@@ -2288,8 +2288,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DASM",
-    "bankCode": "SG",
+    "bankCode": "DASM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DASMSGSG",
     "Bank Name": "DAIWA CAPITAL MARKETS SINGAPORE LIMITED",
@@ -2301,8 +2301,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAAT",
-    "bankCode": "SG",
+    "bankCode": "DAAT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DAATSGSG",
     "Bank Name": "DANONE ASIA PTE LTD",
@@ -2314,8 +2314,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "DBSSSGS2",
     "Bank Name": "DBS BANK LTD",
@@ -2327,8 +2327,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DBSSSGSG",
     "Bank Name": "DBS BANK LTD",
@@ -2340,8 +2340,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "API",
     "SWIFT Code": "DBSSSGSGAPI",
     "Bank Name": "DBS BANK LTD",
@@ -2353,8 +2353,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "DOD",
     "SWIFT Code": "DBSSSGSGDOD",
     "Bank Name": "DBS BANK LTD",
@@ -2366,8 +2366,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "IBD",
     "SWIFT Code": "DBSSSGSGIBD",
     "Bank Name": "DBS BANK LTD",
@@ -2379,8 +2379,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "LAO",
     "SWIFT Code": "DBSSSGSGLAO",
     "Bank Name": "DBS BANK LTD",
@@ -2392,8 +2392,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "PCG",
     "SWIFT Code": "DBSSSGSGPCG",
     "Bank Name": "DBS BANK LTD",
@@ -2405,8 +2405,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "VEC",
     "SWIFT Code": "DBSSSGSGVEC",
     "Bank Name": "DBS BANK LTD",
@@ -2418,8 +2418,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "SG",
+    "bankCode": "DBSS",
+    "countryCode": "SG",
     "branchCode": "DRV",
     "SWIFT Code": "DBSSSGSGDRV",
     "Bank Name": "DBS BANK LTD",
@@ -2431,8 +2431,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBGH",
-    "bankCode": "SG",
+    "bankCode": "DBGH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DBGHSGSG",
     "Bank Name": "DBS GROUP HOLDINGS",
@@ -2444,8 +2444,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSE",
-    "bankCode": "SG",
+    "bankCode": "DBSE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DBSESGSG",
     "Bank Name": "DBS VICKERS SECURITIES (SINGAPORE) PTE LTD",
@@ -2457,8 +2457,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "DIA",
     "SWIFT Code": "DEUTSGSGDIA",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -2470,8 +2470,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DEUTSGSG",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -2483,8 +2483,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "EBP",
     "SWIFT Code": "DEUTSGSREBP",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -2496,8 +2496,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "GSR",
     "SWIFT Code": "DEUTSGSR",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -2509,8 +2509,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "GMO",
     "SWIFT Code": "DEUTSGSGGMO",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -2522,8 +2522,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTSGSGCUS",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -2535,8 +2535,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "GSP",
     "SWIFT Code": "DEUTSGSP",
     "Bank Name": "DEUTSCHE BANK AG (PRIVATE BANKING)",
@@ -2548,8 +2548,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SG",
+    "bankCode": "DEUT",
+    "countryCode": "SG",
     "branchCode": "HKH",
     "SWIFT Code": "DEUTSGSPHKH",
     "Bank Name": "DEUTSCHE BANK AG (PRIVATE BANKING)",
@@ -2561,8 +2561,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DVSE",
-    "bankCode": "SG",
+    "bankCode": "DVSE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DVSESGSG",
     "Bank Name": "DFS VENTURE SINGAPORE (PTE) LIMITED",
@@ -2574,8 +2574,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DKSH",
-    "bankCode": "SG",
+    "bankCode": "DKSH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DKSHSGSG",
     "Bank Name": "DKSH MANAGEMENT PTE LTD",
@@ -2587,8 +2587,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENO",
-    "bankCode": "SG",
+    "bankCode": "GENO",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GENOSGSG",
     "Bank Name": "DZ BANK AG, SINGAPORE BRANCH",
@@ -2600,8 +2600,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACLP",
-    "bankCode": "SG",
+    "bankCode": "ACLP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ACLPSGSG",
     "Bank Name": "ABAXX CLEARING PTE. LTD.",
@@ -2613,8 +2613,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNC",
-    "bankCode": "SG",
+    "bankCode": "ABNC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ABNCSGSG",
     "Bank Name": "ABN AMRO CLEARING BANK N.V.",
@@ -2626,8 +2626,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADIE",
-    "bankCode": "SG",
+    "bankCode": "ADIE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ADIESGSG",
     "Bank Name": "ADVANCE INTELLIGENCE PTE. LTD.",
@@ -2639,8 +2639,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISOS",
-    "bankCode": "SG",
+    "bankCode": "ISOS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ISOSSGSG",
     "Bank Name": "AEA INTERNATIONAL HOLDINGS PTE LTD",
@@ -2652,8 +2652,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AOPT",
-    "bankCode": "SG",
+    "bankCode": "AOPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "AOPTSGSG",
     "Bank Name": "AGODA COMPANY PTE. LTD.",
@@ -2665,8 +2665,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "SG",
+    "bankCode": "ABOC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ABOCSGSG",
     "Bank Name": "AGRICULTURAL BANK OF CHINA LIMITED, SINGAPORE BRANCH",
@@ -2678,8 +2678,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "SG",
+    "bankCode": "AIAC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "AIACSGSG",
     "Bank Name": "AIA SINGAPORE PRIVATE LIMITED",
@@ -2691,8 +2691,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIPE",
-    "bankCode": "SG",
+    "bankCode": "AIPE",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "AIPESGS2",
     "Bank Name": "AIRWALLET PTE",
@@ -2704,8 +2704,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APMP",
-    "bankCode": "SG",
+    "bankCode": "APMP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "APMPSGSG",
     "Bank Name": "ALETA PLANET MES PTE. LTD.",
@@ -2717,8 +2717,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGHL",
-    "bankCode": "SG",
+    "bankCode": "AGHL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "AGHLSGSG",
     "Bank Name": "ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED",
@@ -2730,8 +2730,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASED",
-    "bankCode": "SG",
+    "bankCode": "ASED",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "ASEDSGS2",
     "Bank Name": "ALIPAY SINGAPORE E-COMMERCE PRIVATE LIMITED",
@@ -2743,8 +2743,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALLF",
-    "bankCode": "SG",
+    "bankCode": "ALLF",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ALLFSGSG",
     "Bank Name": "ALLFUNDS SINGAPORE BRANCH",
@@ -2756,8 +2756,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALHP",
-    "bankCode": "SG",
+    "bankCode": "ALHP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "ALHPSGS2",
     "Bank Name": "ALPHAGREP PTE LTD",
@@ -2769,8 +2769,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANTP",
-    "bankCode": "SG",
+    "bankCode": "ANTP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ANTPSGSG",
     "Bank Name": "ANEXT BANK PTE. LTD.",
@@ -2782,8 +2782,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIEP",
-    "bankCode": "SG",
+    "bankCode": "AIEP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "AIEPSGSG",
     "Bank Name": "APRIL INTERNATIONAL ENTERPRISE PTE. LTD.",
@@ -2795,8 +2795,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIEP",
-    "bankCode": "SG",
+    "bankCode": "AIEP",
+    "countryCode": "SG",
     "branchCode": "IWC",
     "SWIFT Code": "AIEPSGSGIWC",
     "Bank Name": "APRIL INTERNATIONAL ENTERPRISE PTE. LTD.",
@@ -2808,8 +2808,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "SG",
+    "bankCode": "ARAB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ARABSGSG",
     "Bank Name": "ARAB BANK PLC",
@@ -2821,8 +2821,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCO",
-    "bankCode": "SG",
+    "bankCode": "ABCO",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ABCOSGSG",
     "Bank Name": "ARAB BANKING CORPORATION (B.S.C.), SINGAPORE BRANCH",
@@ -2834,8 +2834,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APEP",
-    "bankCode": "SG",
+    "bankCode": "APEP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "APEPSGSG",
     "Bank Name": "ASIA PACIFIC CLEAR PTE. LTD.",
@@ -2847,8 +2847,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APPT",
-    "bankCode": "SG",
+    "bankCode": "APPT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "APPTSGS2",
     "Bank Name": "ASPIRE FT PTE. LTD",
@@ -2860,8 +2860,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMOS",
-    "bankCode": "SG",
+    "bankCode": "AMOS",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "AMOSSGS2",
     "Bank Name": "ASSET MANAGEMENT ONE SINGAPORE PTE",
@@ -2873,8 +2873,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APAT",
-    "bankCode": "SG",
+    "bankCode": "APAT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "APATSGS2",
     "Bank Name": "ATLANTIC PARTNERS ASIA (SG) PTE. LTD.",
@@ -2886,8 +2886,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "SG",
+    "bankCode": "ANZB",
+    "countryCode": "SG",
     "branchCode": "AFX",
     "SWIFT Code": "ANZBSGSXAFX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -2899,8 +2899,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "SG",
+    "bankCode": "ANZB",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "ANZBSGSX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -2912,8 +2912,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIS",
-    "bankCode": "SG",
+    "bankCode": "AXIS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "AXISSGSG",
     "Bank Name": "AXIS BANK LIMITED",
@@ -2925,8 +2925,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIS",
-    "bankCode": "SG",
+    "bankCode": "AXIS",
+    "countryCode": "SG",
     "branchCode": "IPB",
     "SWIFT Code": "AXISSGSGIPB",
     "Bank Name": "AXIS BANK LIMITED",
@@ -2938,8 +2938,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBET",
-    "bankCode": "SG",
+    "bankCode": "BBET",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BBETSGSG",
     "Bank Name": "B.B. ENERGY (ASIA) PTE LTD",
@@ -2951,8 +2951,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "SG",
+    "bankCode": "BBVA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BBVASGSG",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA SINGAPORE BRANCH",
@@ -2964,8 +2964,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "SG",
+    "bankCode": "BSCH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BSCHSGSG",
     "Bank Name": "BANCO SANTANDER, S.A. SINGAPORE BRANCH UEN:T11FC0193K A PUBLIC LTD LIABILITY CO INCORPORATED IN SPAIN",
@@ -2977,8 +2977,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "SG",
+    "bankCode": "BKKB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BKKBSGSG",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LIMITED",
@@ -2990,8 +2990,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARA",
-    "bankCode": "SG",
+    "bankCode": "SARA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SARASGSG",
     "Bank Name": "BANK J. SAFRA SARASIN LTD, SINGAPORE BRANCH",
@@ -3003,8 +3003,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "SG",
+    "bankCode": "BAER",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BAERSGSG",
     "Bank Name": "BANK JULIUS BAER AND CO. LTD.",
@@ -3016,8 +3016,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "SG",
+    "bankCode": "BMRI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BMRISGSG",
     "Bank Name": "BANK MANDIRI (PERSERO)TBK. PT",
@@ -3029,8 +3029,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "SG",
+    "bankCode": "BNIN",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BNINSGSG",
     "Bank Name": "BANK NEGARA INDONESIA (PERSERO) P.T.",
@@ -3042,8 +3042,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "SG",
+    "bankCode": "BOFA",
+    "countryCode": "SG",
     "branchCode": "TRY",
     "SWIFT Code": "BOFASG3XTRY",
     "Bank Name": "BANK OF AMERICA (SINGAPORE) LTD.",
@@ -3055,8 +3055,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "SG",
+    "bankCode": "BOFA",
+    "countryCode": "SG",
     "branchCode": "G3X",
     "SWIFT Code": "BOFASG3X",
     "Bank Name": "BANK OF AMERICA (SINGAPORE) LTD.",
@@ -3068,8 +3068,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "SG",
+    "bankCode": "BOFA",
+    "countryCode": "SG",
     "branchCode": "JVC",
     "SWIFT Code": "BOFASG3XJVC",
     "Bank Name": "BANK OF AMERICA (SINGAPORE) LTD.",
@@ -3081,8 +3081,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "SG",
+    "bankCode": "BOFA",
+    "countryCode": "SG",
     "branchCode": "EMG",
     "SWIFT Code": "BOFASG3XEMG",
     "Bank Name": "BANK OF AMERICA (SINGAPORE) LTD.",
@@ -3094,8 +3094,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "SG",
+    "bankCode": "BOFA",
+    "countryCode": "SG",
     "branchCode": "G2X",
     "SWIFT Code": "BOFASG2X",
     "Bank Name": "BANK OF AMERICA, N.A. SINGAPORE",
@@ -3107,8 +3107,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "SG",
+    "bankCode": "BOFA",
+    "countryCode": "SG",
     "branchCode": "VAM",
     "SWIFT Code": "BOFASG2XVAM",
     "Bank Name": "BANK OF AMERICA, N.A. SINGAPORE",
@@ -3120,8 +3120,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "SG",
+    "bankCode": "BARB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BARBSGSG",
     "Bank Name": "BANK OF BARODA",
@@ -3133,8 +3133,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "SG",
+    "bankCode": "BKCH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BKCHSGSG",
     "Bank Name": "BANK OF CHINA LIMITED",
@@ -3146,8 +3146,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "SG",
+    "bankCode": "BKCH",
+    "countryCode": "SG",
     "branchCode": "PBG",
     "SWIFT Code": "BKCHSGSGPBG",
     "Bank Name": "BANK OF CHINA LIMITED",
@@ -3159,8 +3159,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "SG",
+    "bankCode": "BKCH",
+    "countryCode": "SG",
     "branchCode": "CUS",
     "SWIFT Code": "BKCHSGSGCUS",
     "Bank Name": "BANK OF CHINA LIMITED",
@@ -3172,8 +3172,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "SG",
+    "bankCode": "COMM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "COMMSGSG",
     "Bank Name": "BANK OF COMMUNICATIONS CO., LTD SINGAPORE BRANCH",
@@ -3185,8 +3185,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "SG",
+    "bankCode": "BKID",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BKIDSGSG",
     "Bank Name": "BANK OF INDIA",
@@ -3198,8 +3198,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "SG",
+    "bankCode": "BOFM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BOFMSGSG",
     "Bank Name": "BANK OF MONTREAL, SINGAPORE BRANCH",
@@ -3211,8 +3211,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "SG",
+    "bankCode": "BOFM",
+    "countryCode": "SG",
     "branchCode": "GTB",
     "SWIFT Code": "BOFMSGSGGTB",
     "Bank Name": "BANK OF MONTREAL, SINGAPORE BRANCH",
@@ -3224,8 +3224,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "SG",
+    "bankCode": "BOFM",
+    "countryCode": "SG",
     "branchCode": "PWM",
     "SWIFT Code": "BOFMSGSGPWM",
     "Bank Name": "BANK OF MONTREAL, SINGAPORE BRANCH",
@@ -3237,8 +3237,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "SG",
+    "bankCode": "BOFM",
+    "countryCode": "SG",
     "branchCode": "FXM",
     "SWIFT Code": "BOFMSGSGFXM",
     "Bank Name": "BANK OF MONTREAL, SINGAPORE BRANCH",
@@ -3250,8 +3250,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMP",
-    "bankCode": "SG",
+    "bankCode": "MSMP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MSMPSGSG",
     "Bank Name": "MAYWOOD ASSET MANAGEMENT PTE. LTD.",
@@ -3263,8 +3263,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "SG",
+    "bankCode": "ICBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ICBCSGSG",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., SINGAPORE BRANCH",
@@ -3276,8 +3276,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMET",
-    "bankCode": "SG",
+    "bankCode": "MMET",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MMETSGSG",
     "Bank Name": "MERCANTILE AND MARITIME ENERGY PTE LTD",
@@ -3289,8 +3289,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DFIS",
-    "bankCode": "SG",
+    "bankCode": "DFIS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DFISSGSG",
     "Bank Name": "MERCEDES-BENZ FINANCIAL SERVICES SINGAPORE LTD.",
@@ -3302,8 +3302,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "SG",
+    "bankCode": "DCAG",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "DCAGSGSG",
     "Bank Name": "MERCEDES-BENZ SINGAPORE PTE. LTD.",
@@ -3315,8 +3315,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "SG",
+    "bankCode": "DCAG",
+    "countryCode": "SG",
     "branchCode": "TWN",
     "SWIFT Code": "DCAGSGSGTWN",
     "Bank Name": "MERCEDES-BENZ SINGAPORE PTE. LTD.",
@@ -3328,8 +3328,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "SG",
+    "bankCode": "DCAG",
+    "countryCode": "SG",
     "branchCode": "INR",
     "SWIFT Code": "DCAGSGSGINR",
     "Bank Name": "MERCEDES-BENZ SINGAPORE PTE. LTD.",
@@ -3341,8 +3341,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "SG",
+    "bankCode": "DCAG",
+    "countryCode": "SG",
     "branchCode": "IBA",
     "SWIFT Code": "DCAGSGSGIBA",
     "Bank Name": "MERCEDES-BENZ SINGAPORE PTE. LTD.",
@@ -3354,8 +3354,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLSS",
-    "bankCode": "SG",
+    "bankCode": "MLSS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MLSSSGSG",
     "Bank Name": "MERRILL LYNCH (SINGAPORE) PTE. LTD.",
@@ -3367,8 +3367,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLSS",
-    "bankCode": "SG",
+    "bankCode": "MLSS",
+    "countryCode": "SG",
     "branchCode": "IND",
     "SWIFT Code": "MLSSSGSGIND",
     "Bank Name": "MERRILL LYNCH (SINGAPORE) PTE. LTD.",
@@ -3380,8 +3380,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBC",
-    "bankCode": "SG",
+    "bankCode": "MTBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MTBCSGSG",
     "Bank Name": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
@@ -3393,8 +3393,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "SG",
+    "bankCode": "MHCB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MHCBSGSG",
     "Bank Name": "MIZUHO BANK, LTD. SINGAPORE BRANCH",
@@ -3406,8 +3406,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHSC",
-    "bankCode": "SG",
+    "bankCode": "MHSC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MHSCSGSG",
     "Bank Name": "MIZUHO SECURITIES (SINGAPORE) PTE. LTD.",
@@ -3419,8 +3419,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "GSM",
     "SWIFT Code": "MASGSGSM",
     "Bank Name": "MONETARY AUTHORITY OF SINGAPORE (THE)",
@@ -3432,8 +3432,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MASGSGSG",
     "Bank Name": "MONETARY AUTHORITY OF SINGAPORE, THE",
@@ -3445,8 +3445,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNPT",
-    "bankCode": "SG",
+    "bankCode": "MNPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MNPTSGSG",
     "Bank Name": "MONFX PTE. LTD.",
@@ -3458,8 +3458,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "SG",
+    "bankCode": "MSSA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MSSASGSG",
     "Bank Name": "MORGAN STANLEY BANK ASIA LIMITED",
@@ -3471,8 +3471,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "SG",
+    "bankCode": "MSSA",
+    "countryCode": "SG",
     "branchCode": "CTR",
     "SWIFT Code": "MSSASGSGCTR",
     "Bank Name": "MORGAN STANLEY BANK ASIA LIMITED",
@@ -3484,8 +3484,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "SG",
+    "bankCode": "MSAM",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "MSAMSGSX",
     "Bank Name": "MORGAN STANLEY INVESTMENT MANAGEMENT COMPANY",
@@ -3497,8 +3497,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "SG",
+    "bankCode": "BOTK",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "BOTKSGSX",
     "Bank Name": "MUFG BANK, LTD.",
@@ -3510,8 +3510,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "SG",
+    "bankCode": "NATA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NATASGSG",
     "Bank Name": "NATIONAL AUSTRALIA BANK",
@@ -3523,8 +3523,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "SG",
+    "bankCode": "NBOK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NBOKSGSG",
     "Bank Name": "NATIONAL BANK OF KUWAIT S.A.K.P",
@@ -3536,8 +3536,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "SG",
+    "bankCode": "NATX",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NATXSGSG",
     "Bank Name": "NATIXIS",
@@ -3549,8 +3549,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "SG",
+    "bankCode": "RBOS",
+    "countryCode": "SG",
     "branchCode": "NWB",
     "SWIFT Code": "RBOSSGSGNWB",
     "Bank Name": "NATWEST MARKETS PLC SINGAPORE BRANCH",
@@ -3562,8 +3562,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "SG",
+    "bankCode": "RBOS",
+    "countryCode": "SG",
     "branchCode": "RSI",
     "SWIFT Code": "RBOSSGSGRSI",
     "Bank Name": "NATWEST MARKETS PLC SINGAPORE BRANCH",
@@ -3575,8 +3575,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "SG",
+    "bankCode": "RBOS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "RBOSSGSG",
     "Bank Name": "NATWEST MARKETS PLC SINGAPORE BRANCH",
@@ -3588,8 +3588,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "SG",
+    "bankCode": "RBOS",
+    "countryCode": "SG",
     "branchCode": "EQT",
     "SWIFT Code": "RBOSSGSGEQT",
     "Bank Name": "NATWEST MARKETS PLC SINGAPORE BRANCH",
@@ -3601,8 +3601,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLGI",
-    "bankCode": "SG",
+    "bankCode": "NLGI",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "NLGISGS2",
     "Bank Name": "NIPPON LIFE GLOBAL INVESTORS SINGAPORE LIMITED",
@@ -3614,8 +3614,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISPT",
-    "bankCode": "SG",
+    "bankCode": "ISPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ISPTSGSG",
     "Bank Name": "NIUM PTE. LTD.",
@@ -3627,8 +3627,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISPT",
-    "bankCode": "SG",
+    "bankCode": "ISPT",
+    "countryCode": "SG",
     "branchCode": "GSA",
     "SWIFT Code": "ISPTSGSA",
     "Bank Name": "NIUM PTE. LTD.",
@@ -3640,8 +3640,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCM",
-    "bankCode": "SG",
+    "bankCode": "NOCM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NOCMSGSG",
     "Bank Name": "NOMURA ASSET MANAGEMENT SINGAPORE LTD",
@@ -3653,8 +3653,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOIS",
-    "bankCode": "SG",
+    "bankCode": "NOIS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NOISSGSG",
     "Bank Name": "NOMURA INVESTMENTS (SINGAPORE) PTE",
@@ -3666,8 +3666,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNOM",
-    "bankCode": "SG",
+    "bankCode": "SNOM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SNOMSGSG",
     "Bank Name": "NOMURA SINGAPORE LIMITED",
@@ -3679,8 +3679,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLA",
-    "bankCode": "SG",
+    "bankCode": "NOLA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NOLASGSG",
     "Bank Name": "NORDDEUTSCHE LANDESBANK GIROZENTRALE",
@@ -3692,8 +3692,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCU",
-    "bankCode": "SG",
+    "bankCode": "NOCU",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NOCUSGSG",
     "Bank Name": "NORINCHUKIN BANK, THE",
@@ -3705,8 +3705,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "SG",
+    "bankCode": "CNOR",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CNORSGSG",
     "Bank Name": "NORTHERN TRUST COMPANY",
@@ -3718,8 +3718,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSP",
-    "bankCode": "SG",
+    "bankCode": "OCSP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "OCSPSGSG",
     "Bank Name": "OCBC SECURITIES PRIVATE LIMITED",
@@ -3731,8 +3731,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONXP",
-    "bankCode": "SG",
+    "bankCode": "ONXP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ONXPSGSG",
     "Bank Name": "OCEAN NETWORK EXPRESS PTE. LTD.",
@@ -3744,8 +3744,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCMA",
-    "bankCode": "SG",
+    "bankCode": "OCMA",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "OCMASGS2",
     "Bank Name": "OCM ASIA CREDIT I PTE. LTD.",
@@ -3757,8 +3757,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFTT",
-    "bankCode": "SG",
+    "bankCode": "OFTT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "OFTTSGS2",
     "Bank Name": "OFFSETPAY PTE LTD",
@@ -3770,8 +3770,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OLAH",
-    "bankCode": "SG",
+    "bankCode": "OLAH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "OLAHSGSG",
     "Bank Name": "OLAM AGRI HOLDINGS LIMITED",
@@ -3783,8 +3783,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMAC",
-    "bankCode": "SG",
+    "bankCode": "OMAC",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "OMACSGS2",
     "Bank Name": "OMERS CAPITAL MARKETS ASIA HOLDINGS PTE. LTD.",
@@ -3796,8 +3796,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONCT",
-    "bankCode": "SG",
+    "bankCode": "ONCT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "ONCTSGS2",
     "Bank Name": "ONCHAIN CUSTODIAN PTE LTD",
@@ -3809,8 +3809,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KARP",
-    "bankCode": "SG",
+    "bankCode": "KARP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "KARPSGS2",
     "Bank Name": "OPAL FINTECH PTE LTD",
@@ -3822,8 +3822,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "SG",
+    "bankCode": "OCBC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "OCBCSGSG",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
@@ -3835,8 +3835,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "SG",
+    "bankCode": "OCBC",
+    "countryCode": "SG",
     "branchCode": "GCF",
     "SWIFT Code": "OCBCSGSGGCF",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
@@ -3848,8 +3848,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "SG",
+    "bankCode": "OCBC",
+    "countryCode": "SG",
     "branchCode": "GWO",
     "SWIFT Code": "OCBCSGSGGWO",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
@@ -3861,8 +3861,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYPT",
-    "bankCode": "SG",
+    "bankCode": "PYPT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "PYPTSGS2",
     "Bank Name": "PAYPAL PTE. LTD.",
@@ -3874,8 +3874,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSMN",
-    "bankCode": "SG",
+    "bankCode": "PSMN",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "PSMNSGS2",
     "Bank Name": "PERSEVERANCE ASSET MANAGEMENT INTERNATIONAL (SINGAPORE) PTE. LTD.",
@@ -3887,8 +3887,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PINP",
-    "bankCode": "SG",
+    "bankCode": "PINP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PINPSGSG",
     "Bank Name": "PETREDEC INTERNATIONAL PTE LTD FINANCIAL DEPARTMENT",
@@ -3900,8 +3900,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBA",
-    "bankCode": "SG",
+    "bankCode": "UCBA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "UCBASGSG",
     "Bank Name": "UCO BANK",
@@ -3913,8 +3913,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "SG",
+    "bankCode": "UBPG",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "UBPGSGSX",
     "Bank Name": "UNION BANCAIRE PRIVEE UBP SA SINGAPORE BRANCH",
@@ -3926,8 +3926,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "SG",
+    "bankCode": "UOVB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "UOVBSGSG",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED",
@@ -3939,8 +3939,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "SG",
+    "bankCode": "UOVB",
+    "countryCode": "SG",
     "branchCode": "CSD",
     "SWIFT Code": "UOVBSGSGCSD",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED",
@@ -3952,8 +3952,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "SG",
+    "bankCode": "UOVB",
+    "countryCode": "SG",
     "branchCode": "CMS",
     "SWIFT Code": "UOVBSGSGCMS",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED",
@@ -3965,8 +3965,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHPL",
-    "bankCode": "SG",
+    "bankCode": "KHPL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KHPLSGSG",
     "Bank Name": "UOB KAY HIAN PTE LIMITED",
@@ -3978,8 +3978,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UQTP",
-    "bankCode": "SG",
+    "bankCode": "UQTP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "UQTPSGS2",
     "Bank Name": "UQPAY PTE. LTD.",
@@ -3991,8 +3991,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VZAP",
-    "bankCode": "SG",
+    "bankCode": "VZAP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "VZAPSGSG",
     "Bank Name": "VERIZON ASIA PACIFIC HOLDINGS PTE.",
@@ -4004,8 +4004,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTOA",
-    "bankCode": "SG",
+    "bankCode": "VTOA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "VTOASGSG",
     "Bank Name": "VITOL ASIA PTE LTD",
@@ -4017,8 +4017,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WATP",
-    "bankCode": "SG",
+    "bankCode": "WATP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "WATPSGS2",
     "Bank Name": "WALLEX TECHNOLOGIES PTE LTD",
@@ -4030,8 +4030,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "SG",
+    "bankCode": "PNBP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PNBPSGSG",
     "Bank Name": "WELLS FARGO BANK, NA",
@@ -4043,8 +4043,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "SG",
+    "bankCode": "WPAC",
+    "countryCode": "SG",
     "branchCode": "TRD",
     "SWIFT Code": "WPACSGSGTRD",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -4056,8 +4056,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "SG",
+    "bankCode": "WPAC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "WPACSGSG",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -4069,8 +4069,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "SG",
+    "bankCode": "WPAC",
+    "countryCode": "SG",
     "branchCode": "TSY",
     "SWIFT Code": "WPACSGSGTSY",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -4082,8 +4082,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WILM",
-    "bankCode": "SG",
+    "bankCode": "WILM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "WILMSGSG",
     "Bank Name": "WILMAR INTERNATIONAL LIMITED",
@@ -4095,8 +4095,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRWI",
-    "bankCode": "SG",
+    "bankCode": "TRWI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TRWISGSG",
     "Bank Name": "WISE ASIA-PACIFIC PTE LTD",
@@ -4108,8 +4108,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "SG",
+    "bankCode": "HVBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HVBKSGSG",
     "Bank Name": "WOORI BANK, SINGAPORE",
@@ -4121,8 +4121,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOTP",
-    "bankCode": "SG",
+    "bankCode": "WOTP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "WOTPSGS2",
     "Bank Name": "WOTRANSFER PTE. LTD.",
@@ -4134,8 +4134,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPNP",
-    "bankCode": "SG",
+    "bankCode": "XPNP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "XPNPSGSG",
     "Bank Name": "XENDIT",
@@ -4147,8 +4147,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XFEP",
-    "bankCode": "SG",
+    "bankCode": "XFEP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "XFEPSGSG",
     "Bank Name": "XFERS",
@@ -4160,8 +4160,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQI",
     "SWIFT Code": "MASGSGSCTQI",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4173,8 +4173,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQJ",
     "SWIFT Code": "MASGSGSCTQJ",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4186,8 +4186,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQK",
     "SWIFT Code": "MASGSGSCTQK",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4199,8 +4199,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQL",
     "SWIFT Code": "MASGSGSCTQL",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4212,8 +4212,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQM",
     "SWIFT Code": "MASGSGSCTQM",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4225,8 +4225,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQN",
     "SWIFT Code": "MASGSGSCTQN",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4238,8 +4238,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQO",
     "SWIFT Code": "MASGSGSCTQO",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4251,8 +4251,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQP",
     "SWIFT Code": "MASGSGSCTQP",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4264,8 +4264,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQQ",
     "SWIFT Code": "MASGSGSCTQQ",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4277,8 +4277,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQR",
     "SWIFT Code": "MASGSGSCTQR",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4290,8 +4290,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQS",
     "SWIFT Code": "MASGSGSCTQS",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4303,8 +4303,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQT",
     "SWIFT Code": "MASGSGSCTQT",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4316,8 +4316,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQU",
     "SWIFT Code": "MASGSGSCTQU",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4329,8 +4329,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQV",
     "SWIFT Code": "MASGSGSCTQV",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4342,8 +4342,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQW",
     "SWIFT Code": "MASGSGSCTQW",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4355,8 +4355,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQX",
     "SWIFT Code": "MASGSGSCTQX",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4368,8 +4368,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQY",
     "SWIFT Code": "MASGSGSCTQY",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4381,8 +4381,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "TQZ",
     "SWIFT Code": "MASGSGSCTQZ",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4394,8 +4394,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "NPA",
     "SWIFT Code": "MASGSGSCNPA",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4407,8 +4407,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "NPB",
     "SWIFT Code": "MASGSGSCNPB",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4420,8 +4420,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "NPC",
     "SWIFT Code": "MASGSGSCNPC",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4433,8 +4433,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "NPD",
     "SWIFT Code": "MASGSGSCNPD",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4446,8 +4446,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTA",
     "SWIFT Code": "MASGSGSCVTA",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4459,8 +4459,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTB",
     "SWIFT Code": "MASGSGSCVTB",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4472,8 +4472,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTC",
     "SWIFT Code": "MASGSGSCVTC",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4485,8 +4485,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTD",
     "SWIFT Code": "MASGSGSCVTD",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4498,8 +4498,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTE",
     "SWIFT Code": "MASGSGSCVTE",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4511,8 +4511,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTF",
     "SWIFT Code": "MASGSGSCVTF",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4524,8 +4524,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTG",
     "SWIFT Code": "MASGSGSCVTG",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4537,8 +4537,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "VTH",
     "SWIFT Code": "MASGSGSCVTH",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4550,8 +4550,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "RTG",
     "SWIFT Code": "MASGSGSCRTG",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4563,8 +4563,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MASG",
-    "bankCode": "SG",
+    "bankCode": "MASG",
+    "countryCode": "SG",
     "branchCode": "SSS",
     "SWIFT Code": "MASGSGSCSSS",
     "Bank Name": "THE MONETARY AUTHORITY OF SINGAPORE",
@@ -4576,8 +4576,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SG",
+    "bankCode": "NCBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NCBKSGSG",
     "Bank Name": "THE SAUDI NATIONAL BANK SINGAPORE BRANCH",
@@ -4589,8 +4589,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "SG",
+    "bankCode": "SCSB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SCSBSGSG",
     "Bank Name": "THE SHANGHAI COMMERCIAL AND SAVINGS BANK, LTD.",
@@ -4602,8 +4602,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHIZ",
-    "bankCode": "SG",
+    "bankCode": "SHIZ",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SHIZSGSG",
     "Bank Name": "THE SHIZUOKA BANK, LTD. SINGAPORE BRANCH",
@@ -4615,8 +4615,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STDN",
-    "bankCode": "SG",
+    "bankCode": "STDN",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "STDNSGSG",
     "Bank Name": "THE STRAITS TRADING COMPANY LIMITED",
@@ -4628,8 +4628,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THAI",
-    "bankCode": "SG",
+    "bankCode": "THAI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "THAISGSG",
     "Bank Name": "THUNES ASIA PRIVATE LIMITED",
@@ -4641,8 +4641,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "SG",
+    "bankCode": "TDOM",
+    "countryCode": "SG",
     "branchCode": "G2S",
     "SWIFT Code": "TDOMSG2S",
     "Bank Name": "TORONTO DOMINION (SOUTH EAST ASIA) LTD.",
@@ -4654,8 +4654,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "SG",
+    "bankCode": "TDOM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TDOMSGSG",
     "Bank Name": "TORONTO DOMINION BANK",
@@ -4667,8 +4667,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRLF",
-    "bankCode": "SG",
+    "bankCode": "TRLF",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "TRLFSGS2",
     "Bank Name": "TRANSFERCLEAR PTE LTD",
@@ -4680,8 +4680,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAPT",
-    "bankCode": "SG",
+    "bankCode": "TAPT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "TAPTSGS2",
     "Bank Name": "TRANSFERMATE PTE LTD",
@@ -4693,8 +4693,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRPV",
-    "bankCode": "SG",
+    "bankCode": "TRPV",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "TRPVSGS2",
     "Bank Name": "TRANSWAP PRIVATE LIMITED",
@@ -4706,8 +4706,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRBU",
-    "bankCode": "SG",
+    "bankCode": "TRBU",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "TRBUSGSG",
     "Bank Name": "TRUST BANK SINGAPORE LIMITED",
@@ -4719,8 +4719,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAF",
-    "bankCode": "SG",
+    "bankCode": "UBAF",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "UBAFSGSX",
     "Bank Name": "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES",
@@ -4732,8 +4732,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "SG",
+    "bankCode": "UBSW",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "UBSWSGSX",
     "Bank Name": "UBS AG SINGAPORE BRANCH",
@@ -4745,8 +4745,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "SG",
+    "bankCode": "UBSW",
+    "countryCode": "SG",
     "branchCode": "E1M",
     "SWIFT Code": "UBSWSGSGE1M",
     "Bank Name": "UBS AG SINGAPORE BRANCH",
@@ -4758,8 +4758,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "SG",
+    "bankCode": "UBSW",
+    "countryCode": "SG",
     "branchCode": "CLS",
     "SWIFT Code": "UBSWSGSGCLS",
     "Bank Name": "UBS AG SINGAPORE BRANCH",
@@ -4771,8 +4771,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "SG",
+    "bankCode": "UBSW",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "UBSWSGSG",
     "Bank Name": "UBS AG SINGAPORE BRANCH",
@@ -4784,8 +4784,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "SG",
+    "bankCode": "UBSW",
+    "countryCode": "SG",
     "branchCode": "CIC",
     "SWIFT Code": "UBSWSGSGCIC",
     "Bank Name": "UBS AG SINGAPORE BRANCH",
@@ -4797,8 +4797,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSA",
-    "bankCode": "SG",
+    "bankCode": "UBSA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "UBSASGSG",
     "Bank Name": "UBS ASSET MANAGEMENT (SINGAPORE) LTD",
@@ -4810,8 +4810,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "SG",
+    "bankCode": "ICIC",
+    "countryCode": "SG",
     "branchCode": "RET",
     "SWIFT Code": "ICICSGSGRET",
     "Bank Name": "ICICI BANK LIMITED",
@@ -4823,8 +4823,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "SG",
+    "bankCode": "ICIC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ICICSGSG",
     "Bank Name": "ICICI BANK LIMITED",
@@ -4836,8 +4836,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "SG",
+    "bankCode": "ICIC",
+    "countryCode": "SG",
     "branchCode": "CTS",
     "SWIFT Code": "ICICSGSGCTS",
     "Bank Name": "ICICI BANK LIMITED",
@@ -4849,8 +4849,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "SG",
+    "bankCode": "ICIC",
+    "countryCode": "SG",
     "branchCode": "IPB",
     "SWIFT Code": "ICICSGSGIPB",
     "Bank Name": "ICICI BANK LIMITED",
@@ -4862,8 +4862,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "SG",
+    "bankCode": "ICIC",
+    "countryCode": "SG",
     "branchCode": "MOG",
     "SWIFT Code": "ICICSGSGMOG",
     "Bank Name": "ICICI BANK LIMITED",
@@ -4875,8 +4875,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDIB",
-    "bankCode": "SG",
+    "bankCode": "IDIB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "IDIBSGSG",
     "Bank Name": "INDIAN BANK",
@@ -4888,8 +4888,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOBA",
-    "bankCode": "SG",
+    "bankCode": "IOBA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "IOBASGSG",
     "Bank Name": "INDIAN OVERSEAS BANK",
@@ -4901,8 +4901,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "SG",
+    "bankCode": "ICBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ICBKSGSG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -4914,8 +4914,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "SG",
+    "bankCode": "ICBK",
+    "countryCode": "SG",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKSGSGCLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -4927,8 +4927,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "SG",
+    "bankCode": "INGB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "INGBSGSG",
     "Bank Name": "ING BANK N.V.",
@@ -4940,8 +4940,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "SG",
+    "bankCode": "IBKR",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "IBKRSGSG",
     "Bank Name": "INTERACTIVE BROKERS SINGAPORE PTE. LTD.",
@@ -4953,8 +4953,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIEE",
-    "bankCode": "SG",
+    "bankCode": "HIEE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HIEESGSG",
     "Bank Name": "INTERNATIONAL EXCHANGE CO (SINGAPORE) PTE LTD",
@@ -4966,8 +4966,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "SG",
+    "bankCode": "BCIT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BCITSGSG",
     "Bank Name": "INTESA SANPAOLO S.P.A. SINGAPORE BRANCH",
@@ -4979,8 +4979,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBOC",
-    "bankCode": "SG",
+    "bankCode": "PBOC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PBOCSGSG",
     "Bank Name": "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD., SINGAPORE",
@@ -4992,8 +4992,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IICP",
-    "bankCode": "SG",
+    "bankCode": "IICP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "IICPSGSG",
     "Bank Name": "IVF INVESTMENT AND CREDIT PTE. LTD.",
@@ -5005,8 +5005,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMSE",
-    "bankCode": "SG",
+    "bankCode": "CMSE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CMSESGSG",
     "Bank Name": "J.P. MORGAN (S.E.A.) LIMITED",
@@ -5018,8 +5018,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMSE",
-    "bankCode": "SG",
+    "bankCode": "CMSE",
+    "countryCode": "SG",
     "branchCode": "JPS",
     "SWIFT Code": "CMSESGSGJPS",
     "Bank Name": "J.P. MORGAN (S.E.A.) LIMITED",
@@ -5031,8 +5031,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEJP",
-    "bankCode": "SG",
+    "bankCode": "JEJP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "JEJPSGSG",
     "Bank Name": "JEBSEN AND JESSEN PTE LTD",
@@ -5044,8 +5044,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "SG",
+    "bankCode": "CHAS",
+    "countryCode": "SG",
     "branchCode": "GSP",
     "SWIFT Code": "CHASSGSP",
     "Bank Name": "JPMORGAN CHASE BANK NA, SINGAPORE (PRIVATE BANKING)",
@@ -5057,8 +5057,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "SG",
+    "bankCode": "CHAS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CHASSGSG",
     "Bank Name": "JPMORGAN CHASE BANK, N.A.",
@@ -5070,8 +5070,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "SG",
+    "bankCode": "CHAS",
+    "countryCode": "SG",
     "branchCode": "TRO",
     "SWIFT Code": "CHASSGSGTRO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A.",
@@ -5083,8 +5083,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "SG",
+    "bankCode": "CHAS",
+    "countryCode": "SG",
     "branchCode": "PBI",
     "SWIFT Code": "CHASSGSGPBI",
     "Bank Name": "JPMORGAN CHASE BANK, N.A.",
@@ -5096,8 +5096,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "SG",
+    "bankCode": "KRED",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "KREDSGSX",
     "Bank Name": "KBC BANK N.V. SINGAPORE BRANCH",
@@ -5109,8 +5109,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "SG",
+    "bankCode": "KOEX",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KOEXSGSG",
     "Bank Name": "KEB HANA BANK SINGAPORE BRANCH",
@@ -5122,8 +5122,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEPC",
-    "bankCode": "SG",
+    "bankCode": "KEPC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KEPCSGSG",
     "Bank Name": "KEPPEL LTD.",
@@ -5135,8 +5135,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXIK",
-    "bankCode": "SG",
+    "bankCode": "EXIK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "EXIKSGSG",
     "Bank Name": "KEXIM GLOBAL (SINGAPORE) LTD.",
@@ -5148,8 +5148,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSIG",
-    "bankCode": "SG",
+    "bankCode": "KSIG",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KSIGSGSG",
     "Bank Name": "KEYSIGHT TECHNOLOGIES SINGAPORE (HOLDINGS) PTE LTD",
@@ -5161,8 +5161,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEYI",
-    "bankCode": "SG",
+    "bankCode": "KEYI",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "KEYISGS2",
     "Bank Name": "KEYSTONE INVESTORS PTE. LTD",
@@ -5174,8 +5174,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "SG",
+    "bankCode": "CZNB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "CZNBSGSG",
     "Bank Name": "KOOKMIN BANK CO.,LTD. SINGAPORE BRANCH",
@@ -5187,8 +5187,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRTH",
-    "bankCode": "SG",
+    "bankCode": "KRTH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KRTHSGSG",
     "Bank Name": "KRUNG THAI BANK PCL, SINGAPORE BRANCH",
@@ -5200,8 +5200,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUSP",
-    "bankCode": "SG",
+    "bankCode": "KUSP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "KUSPSGSG",
     "Bank Name": "KULICKE AND SOFFA PTE LTD",
@@ -5213,8 +5213,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "SG",
+    "bankCode": "LBOT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "LBOTSGSG",
     "Bank Name": "LAND BANK OF TAIWAN, SINGAPORE BRANCH",
@@ -5226,8 +5226,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOLA",
-    "bankCode": "SG",
+    "bankCode": "SOLA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SOLASGSG",
     "Bank Name": "LANDESBANK BADEN-WUERTTEMBERG",
@@ -5239,8 +5239,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "SG",
+    "bankCode": "BLFL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BLFLSGSG",
     "Bank Name": "LGT BANK (SINGAPORE) LTD.",
@@ -5252,8 +5252,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "SG",
+    "bankCode": "BLFL",
+    "countryCode": "SG",
     "branchCode": "EXC",
     "SWIFT Code": "BLFLSGSGEXC",
     "Bank Name": "LGT BANK (SINGAPORE) LTD.",
@@ -5265,8 +5265,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OAML",
-    "bankCode": "SG",
+    "bankCode": "OAML",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "OAMLSGSG",
     "Bank Name": "LION GLOBAL INVESTORS LTD",
@@ -5278,8 +5278,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIGP",
-    "bankCode": "SG",
+    "bankCode": "LIGP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "LIGPSGSG",
     "Bank Name": "LIQUID GROUP PTE. LTD.",
@@ -5291,8 +5291,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "SG",
+    "bankCode": "LOCY",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "LOCYSGSG",
     "Bank Name": "LOMBARD ODIER (SINGAPORE) LTD",
@@ -5304,8 +5304,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "SG",
+    "bankCode": "LOCY",
+    "countryCode": "SG",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYSGSGNDP",
     "Bank Name": "LOMBARD ODIER (SINGAPORE) LTD",
@@ -5317,8 +5317,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDCP",
-    "bankCode": "SG",
+    "bankCode": "MDCP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MDCPSGSG",
     "Bank Name": "M-DAQ CASHPORT PTE LTD",
@@ -5330,8 +5330,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "SG",
+    "bankCode": "MACQ",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MACQSGSG",
     "Bank Name": "MACQUARIE BANK LIMITED, SINGAPORE BRANCH",
@@ -5343,8 +5343,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "SG",
+    "bankCode": "MBBE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MBBESGSG",
     "Bank Name": "MALAYAN BANKING BERHAD",
@@ -5356,8 +5356,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "SG",
+    "bankCode": "MBBE",
+    "countryCode": "SG",
     "branchCode": "RWM",
     "SWIFT Code": "MBBESGSGRWM",
     "Bank Name": "MALAYAN BANKING BERHAD",
@@ -5369,8 +5369,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "SG",
+    "bankCode": "MFCT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MFCTSGSG",
     "Bank Name": "MANULIFE (SINGAPORE) PTE. LTD",
@@ -5382,8 +5382,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSPI",
-    "bankCode": "SG",
+    "bankCode": "SSPI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SSPISGSG",
     "Bank Name": "MARIBANK SINGAPORE PRIVATE LIMITED",
@@ -5395,8 +5395,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRPE",
-    "bankCode": "SG",
+    "bankCode": "MRPE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MRPESGSG",
     "Bank Name": "MARKETNODE PTE. LTD.",
@@ -5408,8 +5408,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAYP",
-    "bankCode": "SG",
+    "bankCode": "MAYP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MAYPSGSG",
     "Bank Name": "MATCHMOVE PAY PTE. LTD.",
@@ -5421,8 +5421,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSTE",
-    "bankCode": "SG",
+    "bankCode": "MSTE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "MSTESGSG",
     "Bank Name": "MAXEON SOLAR TECHNOLOGIES, LTD.",
@@ -5434,8 +5434,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "SG",
+    "bankCode": "MBBE",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "MBBESGS2",
     "Bank Name": "MAYBANK SINGAPORE LIMITED",
@@ -5447,8 +5447,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "SG",
+    "bankCode": "MBBE",
+    "countryCode": "SG",
     "branchCode": "RWM",
     "SWIFT Code": "MBBESGS2RWM",
     "Bank Name": "MAYBANK SINGAPORE LIMITED",
@@ -5460,8 +5460,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBM",
-    "bankCode": "SG",
+    "bankCode": "PNBM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PNBMSGSG",
     "Bank Name": "PHILIPPINE NATIONAL BANK-SINGAPORE",
@@ -5473,8 +5473,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLPT",
-    "bankCode": "SG",
+    "bankCode": "PLPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PLPTSGSG",
     "Bank Name": "PIL PTE. LTD.",
@@ -5486,8 +5486,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIPP",
-    "bankCode": "SG",
+    "bankCode": "PIPP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "PIPPSGSG",
     "Bank Name": "PIPO (SG) PTE. LTD.",
@@ -5499,8 +5499,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "SG",
+    "bankCode": "BRIN",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BRINSGSG",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK., SINGAPORE BRANCH",
@@ -5512,8 +5512,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "SG",
+    "bankCode": "QNBA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "QNBASGSG",
     "Bank Name": "QATAR NATIONAL BANK (Q.P.S.C)",
@@ -5525,8 +5525,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "SG",
+    "bankCode": "QNBA",
+    "countryCode": "SG",
     "branchCode": "SLQ",
     "SWIFT Code": "QNBASGSGSLQ",
     "Bank Name": "QATAR NATIONAL BANK (Q.P.S.C)",
@@ -5538,8 +5538,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "SG",
+    "bankCode": "RABO",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "RABOSGSG",
     "Bank Name": "RABOBANK SINGAPORE",
@@ -5551,8 +5551,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAPY",
-    "bankCode": "SG",
+    "bankCode": "RAPY",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "RAPYSGS2",
     "Bank Name": "RAPYD HOLDINGS PTE LTD",
@@ -5564,8 +5564,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSPT",
-    "bankCode": "SG",
+    "bankCode": "RSPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "RSPTSGSG",
     "Bank Name": "REC SOLAR PTE. LTD.",
@@ -5577,8 +5577,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFCM",
-    "bankCode": "SG",
+    "bankCode": "AFCM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "AFCMSGSG",
     "Bank Name": "RESONA MERCHANT BANK ASIA LIMITED",
@@ -5590,8 +5590,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGSS",
-    "bankCode": "SG",
+    "bankCode": "RGSS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "RGSSSGSG",
     "Bank Name": "REVANTAGE GLOBAL SERVICES ASIA PTE. LTD.",
@@ -5603,8 +5603,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "SG",
+    "bankCode": "REVO",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "REVOSGS2",
     "Bank Name": "REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.",
@@ -5616,8 +5616,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGEP",
-    "bankCode": "SG",
+    "bankCode": "RGEP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "RGEPSGSG",
     "Bank Name": "RGE PTE. LTD.",
@@ -5629,8 +5629,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBB",
-    "bankCode": "SG",
+    "bankCode": "RHBB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "RHBBSGSG",
     "Bank Name": "RHB BANK BERHAD",
@@ -5642,8 +5642,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "SG",
+    "bankCode": "ROYC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ROYCSGSG",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -5655,8 +5655,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "SG",
+    "bankCode": "ROYC",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "ROYCSGS2",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -5668,8 +5668,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "SG",
+    "bankCode": "ROYC",
+    "countryCode": "SG",
     "branchCode": "GSS",
     "SWIFT Code": "ROYCSGSGGSS",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -5681,8 +5681,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "SG",
+    "bankCode": "SWHQ",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SWHQSGSG",
     "Bank Name": "S.W.I.F.T",
@@ -5694,8 +5694,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBST",
-    "bankCode": "SG",
+    "bankCode": "SBST",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SBSTSGSG",
     "Bank Name": "SBI SECURITIES (SINGAPORE) PTE.LTD.",
@@ -5707,8 +5707,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SALI",
-    "bankCode": "SG",
+    "bankCode": "SALI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SALISGSG",
     "Bank Name": "SCHRODER AND CO (ASIA) LTD",
@@ -5720,8 +5720,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIMN",
-    "bankCode": "SG",
+    "bankCode": "SIMN",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SIMNSGSG",
     "Bank Name": "SCHRODER INVESTMENT MANAGEMENT (SINGAPORE) LTD",
@@ -5733,8 +5733,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDCS",
-    "bankCode": "SG",
+    "bankCode": "SDCS",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SDCSSGS2",
     "Bank Name": "SDC SCIENCE PARK PTE. LTD.",
@@ -5746,8 +5746,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDCL",
-    "bankCode": "SG",
+    "bankCode": "SDCL",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SDCLSGS2",
     "Bank Name": "SDC TAMPINES PTE. LTD.",
@@ -5759,8 +5759,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEND",
-    "bankCode": "SG",
+    "bankCode": "SEND",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SENDSGSG",
     "Bank Name": "SEMBCORP INDUSTRIES LTD",
@@ -5772,8 +5772,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMMR",
-    "bankCode": "SG",
+    "bankCode": "SMMR",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SMMRSGSG",
     "Bank Name": "SEMBCORP MARINE LTD",
@@ -5785,8 +5785,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "SG",
+    "bankCode": "SGSE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SGSESGSG",
     "Bank Name": "SG SECURITIES (SINGAPORE) PTE LTD",
@@ -5798,8 +5798,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGXB",
-    "bankCode": "SG",
+    "bankCode": "SGXB",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SGXBSGS2",
     "Bank Name": "SGX BOND TRADING PTE. LTD.",
@@ -5811,8 +5811,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGOP",
-    "bankCode": "SG",
+    "bankCode": "SGOP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SGOPSGS2",
     "Bank Name": "SGX GENERAL COUNTERPARTY PTE. LTD.",
@@ -5824,8 +5824,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "SG",
+    "bankCode": "SPDB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SPDBSGSG",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK CO.,LTD",
@@ -5837,8 +5837,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "SG",
+    "bankCode": "SHBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SHBKSGSG",
     "Bank Name": "SHINHAN BANK, SINGAPORE BRANCH",
@@ -5850,8 +5850,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "SG",
+    "bankCode": "SICO",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SICOSGSG",
     "Bank Name": "SIAM COMMERCIAL BANK PCL, THE",
@@ -5863,8 +5863,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIBA",
-    "bankCode": "SG",
+    "bankCode": "SIBA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SIBASGSG",
     "Bank Name": "SIEMENS BANK GMBH SINGAPORE BRANCH",
@@ -5876,8 +5876,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIVF",
-    "bankCode": "SG",
+    "bankCode": "SIVF",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SIVFSGSG",
     "Bank Name": "SING INVESTMENTS AND FINANCE LTD",
@@ -5889,8 +5889,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDCA",
-    "bankCode": "SG",
+    "bankCode": "SDCA",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SDCASGS2",
     "Bank Name": "SINGAPORE DISTRICT COOLING AMK PTE. LTD.",
@@ -5902,8 +5902,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XSIM",
-    "bankCode": "SG",
+    "bankCode": "XSIM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "XSIMSGSG",
     "Bank Name": "SINGAPORE EXCHANGE DERIVATIVES CLEARING LIMITED",
@@ -5915,8 +5915,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XSES",
-    "bankCode": "SG",
+    "bankCode": "XSES",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "XSESSGS2",
     "Bank Name": "SINGAPORE EXCHANGE LIMITED",
@@ -5928,8 +5928,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SILF",
-    "bankCode": "SG",
+    "bankCode": "SILF",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SILFSGSG",
     "Bank Name": "SINGAPORE LIFE LTD.",
@@ -5941,8 +5941,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGPL",
-    "bankCode": "SG",
+    "bankCode": "SGPL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SGPLSGSG",
     "Bank Name": "SINGAPORE POWER LIMITED",
@@ -5954,8 +5954,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLHP",
-    "bankCode": "SG",
+    "bankCode": "HLHP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HLHPSGSG",
     "Bank Name": "SINGAPORE SUPER HI DINING PTE LTD",
@@ -5967,8 +5967,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STNG",
-    "bankCode": "SG",
+    "bankCode": "STNG",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "STNGSGSG",
     "Bank Name": "SINGAPORE TECHNOLOGIES ENGINEERING LTD",
@@ -5980,8 +5980,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNPT",
-    "bankCode": "SG",
+    "bankCode": "SNPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SNPTSGSG",
     "Bank Name": "SINGCASH PTE. LTD.",
@@ -5993,8 +5993,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIOT",
-    "bankCode": "SG",
+    "bankCode": "SIOT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SIOTSGS2",
     "Bank Name": "SINGX SINGAPORE PTE LTD",
@@ -6006,8 +6006,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTH",
-    "bankCode": "SG",
+    "bankCode": "BSTH",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "BSTHSGSG",
     "Bank Name": "SIVANTOS PTE. LTD.",
@@ -6019,8 +6019,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SG",
+    "bankCode": "ESSE",
+    "countryCode": "SG",
     "branchCode": "CLS",
     "SWIFT Code": "ESSESGSGCLS",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL)",
@@ -6032,8 +6032,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "SG",
+    "bankCode": "ESSE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ESSESGSG",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL)",
@@ -6045,8 +6045,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLTT",
-    "bankCode": "SG",
+    "bankCode": "SLTT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "SLTTSGS2",
     "Bank Name": "SLEEK TECH (PTE. LTD.)",
@@ -6058,8 +6058,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NKSC",
-    "bankCode": "SG",
+    "bankCode": "NKSC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "NKSCSGSG",
     "Bank Name": "SMBC NIKKO SECURITIES (SINGAPORE) PTE. LTD.",
@@ -6071,8 +6071,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "SG",
+    "bankCode": "SOGE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SOGESGSG",
     "Bank Name": "SOCIETE GENERALE",
@@ -6084,8 +6084,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "SG",
+    "bankCode": "SOGE",
+    "countryCode": "SG",
     "branchCode": "CTI",
     "SWIFT Code": "SOGESGSGCTI",
     "Bank Name": "SOCIETE GENERALE",
@@ -6097,8 +6097,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMTT",
-    "bankCode": "SG",
+    "bankCode": "IMTT",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "IMTTSGS2",
     "Bank Name": "SP CARBON SOLUTIONS PTE. LTD.",
@@ -6110,8 +6110,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "SG",
+    "bankCode": "ESUN",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ESUNSGSG",
     "Bank Name": "E.SUN COMMERCIAL BANK, LTD.",
@@ -6123,8 +6123,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESIN",
-    "bankCode": "SG",
+    "bankCode": "ESIN",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "ESINSGS2",
     "Bank Name": "EASTSPRING INVESTMENTS SINGAPORE LIMITED",
@@ -6136,8 +6136,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESIN",
-    "bankCode": "SG",
+    "bankCode": "ESIN",
+    "countryCode": "SG",
     "branchCode": "GS3",
     "SWIFT Code": "ESINSGS3",
     "Bank Name": "EASTSPRING INVESTMENTS SINGAPORE LIMITED",
@@ -6149,8 +6149,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "SG",
+    "bankCode": "EFGB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "EFGBSGSG",
     "Bank Name": "EFG BANK AG SINGAPORE BRANCH",
@@ -6162,8 +6162,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "SG",
+    "bankCode": "EBIL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "EBILSGSG",
     "Bank Name": "EMIRATES NBD BANK PJSC (ENBD)",
@@ -6175,8 +6175,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEME",
-    "bankCode": "SG",
+    "bankCode": "FEME",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FEMESGSG",
     "Bank Name": "FAR EAST MINO ELECTRONIC PTE. LTD.",
@@ -6188,8 +6188,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPTE",
-    "bankCode": "SG",
+    "bankCode": "FPTE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FPTESGSG",
     "Bank Name": "FINACCEL PTE. LTD.",
@@ -6201,8 +6201,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNTP",
-    "bankCode": "SG",
+    "bankCode": "FNTP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "FNTPSGS2",
     "Bank Name": "FINMO TECH PTE. LTD.",
@@ -6214,8 +6214,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGBM",
-    "bankCode": "SG",
+    "bankCode": "FGBM",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FGBMSGSG",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -6227,8 +6227,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGBM",
-    "bankCode": "SG",
+    "bankCode": "FGBM",
+    "countryCode": "SG",
     "branchCode": "LAU",
     "SWIFT Code": "FGBMSGSGLAU",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -6240,8 +6240,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "SG",
+    "bankCode": "FCBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FCBKSGSG",
     "Bank Name": "FIRST COMMERCIAL BANK, LTD.",
@@ -6253,8 +6253,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FXMP",
-    "bankCode": "SG",
+    "bankCode": "FXMP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FXMPSGSG",
     "Bank Name": "FIXED AND MOBILE PTE. LTD.",
@@ -6266,8 +6266,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLEI",
-    "bankCode": "SG",
+    "bankCode": "FLEI",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FLEISGSG",
     "Bank Name": "FLEX LTD.",
@@ -6279,8 +6279,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOMP",
-    "bankCode": "SG",
+    "bankCode": "FOMP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "FOMPSGS2",
     "Bank Name": "FOMO PAY PTE. LTD.",
@@ -6292,8 +6292,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOMP",
-    "bankCode": "SG",
+    "bankCode": "FOMP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FOMPSGSG",
     "Bank Name": "FOMO PAY PTE. LTD.",
@@ -6305,8 +6305,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FANL",
-    "bankCode": "SG",
+    "bankCode": "FANL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FANLSGSG",
     "Bank Name": "FRASER AND NEAVE, LIMITED",
@@ -6318,8 +6318,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCPL",
-    "bankCode": "SG",
+    "bankCode": "FCPL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FCPLSGSG",
     "Bank Name": "FRASERS PROPERTY LIMITED",
@@ -6331,8 +6331,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THPL",
-    "bankCode": "SG",
+    "bankCode": "THPL",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "THPLSGSG",
     "Bank Name": "FULLERTON (PRIVATE) LIMITED",
@@ -6344,8 +6344,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFMC",
-    "bankCode": "SG",
+    "bankCode": "FFMC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FFMCSGSG",
     "Bank Name": "FULLERTON FUND MANAGEMENT COMPANY LTD",
@@ -6357,8 +6357,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSTE",
-    "bankCode": "SG",
+    "bankCode": "FSTE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "FSTESGSG",
     "Bank Name": "FUNDING SOCIETIES PTE. LTD.",
@@ -6370,8 +6370,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAOP",
-    "bankCode": "SG",
+    "bankCode": "GAOP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GAOPSGSG",
     "Bank Name": "GARENA ONLINE PRIVATE LIMITED",
@@ -6383,8 +6383,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSIC",
-    "bankCode": "SG",
+    "bankCode": "GSIC",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GSICSGSG",
     "Bank Name": "GIC PRIVATE LIMITED",
@@ -6396,8 +6396,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSIC",
-    "bankCode": "SG",
+    "bankCode": "GSIC",
+    "countryCode": "SG",
     "branchCode": "BAC",
     "SWIFT Code": "GSICSGSGBAC",
     "Bank Name": "GIC PRIVATE LIMITED",
@@ -6409,8 +6409,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSIC",
-    "bankCode": "SG",
+    "bankCode": "GSIC",
+    "countryCode": "SG",
     "branchCode": "CAC",
     "SWIFT Code": "GSICSGSGCAC",
     "Bank Name": "GIC PRIVATE LIMITED",
@@ -6422,8 +6422,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSIC",
-    "bankCode": "SG",
+    "bankCode": "GSIC",
+    "countryCode": "SG",
     "branchCode": "HAC",
     "SWIFT Code": "GSICSGSGHAC",
     "Bank Name": "GIC PRIVATE LIMITED",
@@ -6435,8 +6435,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTPE",
-    "bankCode": "SG",
+    "bankCode": "GTPE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GTPESGSG",
     "Bank Name": "GITI TIRE PTE LTD",
@@ -6448,8 +6448,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIPT",
-    "bankCode": "SG",
+    "bankCode": "GIPT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GIPTSGSG",
     "Bank Name": "GLL IHT PTE. LTD.",
@@ -6461,8 +6461,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEPE",
-    "bankCode": "SG",
+    "bankCode": "HEPE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HEPESGSG",
     "Bank Name": "GN HEARING PTE LTD",
@@ -6474,8 +6474,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSSG",
-    "bankCode": "SG",
+    "bankCode": "GSSG",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GSSGSGSG",
     "Bank Name": "GOLDMAN SACHS (SINGAPORE) PTE",
@@ -6487,8 +6487,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPNT",
-    "bankCode": "SG",
+    "bankCode": "GPNT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GPNTSGSG",
     "Bank Name": "GPAY NETWORK (S) PTE LTD",
@@ -6500,8 +6500,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHPE",
-    "bankCode": "SG",
+    "bankCode": "GHPE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GHPESGSG",
     "Bank Name": "GRABTAXI HOLDINGS PTE. LTD.",
@@ -6513,8 +6513,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLDT",
-    "bankCode": "SG",
+    "bankCode": "GLDT",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GLDTSGSG",
     "Bank Name": "GREEN LINK DIGITAL BANK PTE LTD",
@@ -6526,8 +6526,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTNS",
-    "bankCode": "SG",
+    "bankCode": "GTNS",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "GTNSSGS2",
     "Bank Name": "GTN ASIA FINANCIAL SERVICES (PTE.) LTD",
@@ -6539,8 +6539,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GXSP",
-    "bankCode": "SG",
+    "bankCode": "GXSP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "GXSPSGSG",
     "Bank Name": "GXS BANK PTE. LTD.",
@@ -6552,8 +6552,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GXSP",
-    "bankCode": "SG",
+    "bankCode": "GXSP",
+    "countryCode": "SG",
     "branchCode": "888",
     "SWIFT Code": "GXSPSGSG888",
     "Bank Name": "GXS BANK PTE. LTD.",
@@ -6565,8 +6565,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "SG",
+    "bankCode": "HABB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HABBSGSG",
     "Bank Name": "HABIB BANK LIMITED",
@@ -6578,8 +6578,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAFP",
-    "bankCode": "SG",
+    "bankCode": "HAFP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HAFPSGSG",
     "Bank Name": "HAFNIA SG PTE. LTD.",
@@ -6591,8 +6591,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "SG",
+    "bankCode": "HASE",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HASESGSG",
     "Bank Name": "HANG SENG BANK LIMITED",
@@ -6604,8 +6604,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HITP",
-    "bankCode": "SG",
+    "bankCode": "HITP",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "HITPSGS2",
     "Bank Name": "HITPAY PAYMENT SOLUTIONS PTE. LTD.",
@@ -6617,8 +6617,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "SG",
+    "bankCode": "HLBB",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HLBBSGSG",
     "Bank Name": "HL BANK, SINGAPORE",
@@ -6630,8 +6630,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "GS2",
     "SWIFT Code": "HSBCSGS2",
     "Bank Name": "HSBC BANK (SINGAPORE) LIMITED",
@@ -6643,8 +6643,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "SG",
+    "bankCode": "HSBC",
+    "countryCode": "SG",
     "branchCode": "GPI",
     "SWIFT Code": "HSBCSGS2GPI",
     "Bank Name": "HSBC BANK (SINGAPORE) LIMITED",
@@ -6656,8 +6656,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "SG",
+    "bankCode": "BBDA",
+    "countryCode": "SG",
     "branchCode": "GSX",
     "SWIFT Code": "BBDASGSX",
     "Bank Name": "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED",
@@ -6669,8 +6669,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "SG",
+    "bankCode": "BBDA",
+    "countryCode": "SG",
     "branchCode": "GCA",
     "SWIFT Code": "BBDASGSXGCA",
     "Bank Name": "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED",
@@ -6682,8 +6682,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "SG",
+    "bankCode": "BBDA",
+    "countryCode": "SG",
     "branchCode": "TAR",
     "SWIFT Code": "BBDASGSXTAR",
     "Bank Name": "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED",
@@ -6695,8 +6695,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HJCS",
-    "bankCode": "SG",
+    "bankCode": "HJCS",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HJCSSGSG",
     "Bank Name": "HSBC SECURITIES (SINGAPORE) PTE LTD",
@@ -6708,8 +6708,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "SG",
+    "bankCode": "HNBK",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "HNBKSGSG",
     "Bank Name": "HUA NAN COMMERCIAL BANK LTD",
@@ -6721,8 +6721,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBSA",
-    "bankCode": "SG",
+    "bankCode": "SBSA",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "SBSASGSG",
     "Bank Name": "ICBC STANDARD BANK PLC, SINGAPORE BRANCH",
@@ -6734,8 +6734,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIP",
-    "bankCode": "SG",
+    "bankCode": "ICIP",
+    "countryCode": "SG",
     "branchCode": "GSG",
     "SWIFT Code": "ICIPSGSG",
     "Bank Name": "ICE CLEAR SINGAPORE PTE LTD",
@@ -6747,8 +6747,8 @@ const singapore = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "SG",
+    "bankCode": "ICIC",
+    "countryCode": "SG",
     "branchCode": "COP",
     "SWIFT Code": "ICICSGSGCOP",
     "Bank Name": "ICICI BANK LIMITED",

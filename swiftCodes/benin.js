@@ -1,7 +1,7 @@
 const benin = [
   {
-    "countryCode": "AFRI",
-    "bankCode": "BJ",
+    "bankCode": "AFRI",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "AFRIBJBJ",
     "Bank Name": "BANK OF AFRICA - BENIN",
@@ -13,8 +13,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATBJ",
-    "bankCode": "BJ",
+    "bankCode": "ATBJ",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "ATBJBJBJ",
     "Bank Name": "BANQUE ATLANTIQUE DU BENIN",
@@ -26,8 +26,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "BJ",
+    "bankCode": "BCAO",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "BCAOBJBJ",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -39,8 +39,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "BJ",
+    "bankCode": "BCAO",
+    "countryCode": "BJ",
     "branchCode": "PAR",
     "SWIFT Code": "BCAOBJBJPAR",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -52,8 +52,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIIC",
-    "bankCode": "BJ",
+    "bankCode": "BIIC",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "BIICBJBJ",
     "Bank Name": "BANQUE INTERNATIONALE POUR L'INDUSTRIE ET LE COMMERCE BENIN",
@@ -65,8 +65,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFIC",
-    "bankCode": "BJ",
+    "bankCode": "AFIC",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "AFICBJBJ",
     "Bank Name": "BANQUE INTERNATIONALE POUR L'INDUSTRIE ET LE COMMERCE BENIN",
@@ -78,8 +78,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "BJ",
+    "bankCode": "BSAH",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "BSAHBJBJ",
     "Bank Name": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BENIN) S.A.",
@@ -91,8 +91,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "BJ",
+    "bankCode": "BGFI",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "BGFIBJBJ",
     "Bank Name": "BGFIBANK BENIN",
@@ -104,8 +104,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAO",
-    "bankCode": "BJ",
+    "bankCode": "CBAO",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "CBAOBJBJ",
     "Bank Name": "CBAO GROUP ATTIJARIWAFABANK",
@@ -117,8 +117,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "BJ",
+    "bankCode": "CCEI",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "CCEIBJBJ",
     "Bank Name": "CCEI BANK BENIN",
@@ -130,8 +130,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "BJ",
+    "bankCode": "CORI",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "CORIBJBJ",
     "Bank Name": "CORIS BANK INTERNATIONAL BENIN",
@@ -143,8 +143,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "BJ",
+    "bankCode": "ECOC",
+    "countryCode": "BJ",
     "branchCode": "JBJ",
     "SWIFT Code": "ECOCBJBJ",
     "Bank Name": "ECOBANK BENIN",
@@ -157,8 +157,8 @@ const benin = [
   },
   {},
   {
-    "countryCode": "DBLN",
-    "bankCode": "BJ",
+    "bankCode": "DBLN",
+    "countryCode": "BJ",
     "branchCode": "SEN",
     "SWIFT Code": "DBLNBJBJSEN",
     "Bank Name": "NSIA BANQUE BENIN SA",
@@ -170,8 +170,8 @@ const benin = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBLN",
-    "bankCode": "BJ",
+    "bankCode": "DBLN",
+    "countryCode": "BJ",
     "branchCode": "TGO",
     "SWIFT Code": "DBLNBJBJTGO",
     "Bank Name": "NSIA BANQUE BENIN SA",

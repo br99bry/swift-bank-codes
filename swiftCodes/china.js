@@ -1,7 +1,7 @@
 const china = [
   {
-    "countryCode": "HRCC",
-    "bankCode": "CN",
+    "bankCode": "HRCC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HRCCCNBH",
     "Bank Name": "ZHEJIANG HAIYAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -13,8 +13,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZHIE",
-    "bankCode": "CN",
+    "bankCode": "ZHIE",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZHIECNBH",
     "Bank Name": "ZHEJIANG HANGCHA IMP. AND EXP. CO. LTD",
@@ -26,8 +26,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YHBK",
-    "bankCode": "CN",
+    "bankCode": "YHBK",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "YHBKCNBH",
     "Bank Name": "ZHEJIANG HANGZHOU YUHANG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -39,8 +39,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCRC",
-    "bankCode": "CN",
+    "bankCode": "HCRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HCRCCNBJ",
     "Bank Name": "ZHEJIANG HECHENG RURAL COMMERCIAL BANK CO., LTD",
@@ -52,8 +52,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JRCC",
-    "bankCode": "CN",
+    "bankCode": "JRCC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "JRCCCNBH",
     "Bank Name": "ZHEJIANG JIANDE RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -65,8 +65,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJRU",
-    "bankCode": "CN",
+    "bankCode": "ZJRU",
+    "countryCode": "CN",
     "branchCode": "NBI",
     "SWIFT Code": "ZJRUCNBI",
     "Bank Name": "ZHEJIANG JIANGSHAN RURAL COMMERCIAL BANK",
@@ -78,8 +78,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJJR",
-    "bankCode": "CN",
+    "bankCode": "ZJJR",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZJJRCNBZ",
     "Bank Name": "ZHEJIANG JIASHAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -91,8 +91,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJCT",
-    "bankCode": "CN",
+    "bankCode": "ZJCT",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ZJCTCNBJ",
     "Bank Name": "ZHEJIANG JINHUA CHENGTAI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -104,8 +104,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZLRC",
-    "bankCode": "CN",
+    "bankCode": "ZLRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ZLRCCNBJ",
     "Bank Name": "ZHEJIANG LANXI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -117,8 +117,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LRCC",
-    "bankCode": "CN",
+    "bankCode": "LRCC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "LRCCCNBH",
     "Bank Name": "ZHEJIANG LINAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -130,8 +130,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHBK",
-    "bankCode": "CN",
+    "bankCode": "LHBK",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "LHBKCNBH",
     "Bank Name": "ZHEJIANG LINHAI RURAL COMMERCIAL BANK COMPANY  LIMITED",
@@ -143,8 +143,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZLRO",
-    "bankCode": "CN",
+    "bankCode": "ZLRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "ZLROCNB2",
     "Bank Name": "ZHEJIANG LONGYONG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -156,8 +156,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJMT",
-    "bankCode": "CN",
+    "bankCode": "ZJMT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ZJMTCNSH",
     "Bank Name": "ZHEJIANG MINTAI COMMERCIAL BANK",
@@ -169,8 +169,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRDP",
-    "bankCode": "CN",
+    "bankCode": "PRDP",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "PRDPCNBN",
     "Bank Name": "ZHEJIANG PANAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -182,8 +182,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHRC",
-    "bankCode": "CN",
+    "bankCode": "PHRC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "PHRCCNSH",
     "Bank Name": "ZHEJIANG PINGHU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -195,8 +195,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QTBK",
-    "bankCode": "CN",
+    "bankCode": "QTBK",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "QTBKCNBQ",
     "Bank Name": "ZHEJIANG QINGTIAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -208,8 +208,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZRRC",
-    "bankCode": "CN",
+    "bankCode": "ZRRC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZRRCCNBZ",
     "Bank Name": "ZHEJIANG RUIAN RURAL COMMERCIAL BANK",
@@ -221,8 +221,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJRC",
-    "bankCode": "CN",
+    "bankCode": "ZJRC",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "ZJRCCN2N",
     "Bank Name": "ZHEJIANG RURAL COMMERCIAL UNITED BANK CO.,LTD.",
@@ -234,8 +234,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJRC",
-    "bankCode": "CN",
+    "bankCode": "ZJRC",
+    "countryCode": "CN",
     "branchCode": "302",
     "SWIFT Code": "ZJRCCN2N302",
     "Bank Name": "ZHEJIANG RURAL COMMERCIAL UNITED BANK CO.,LTD.",
@@ -247,8 +247,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZSIC",
-    "bankCode": "CN",
+    "bankCode": "ZSIC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "ZSICCNBS",
     "Bank Name": "ZHEJIANG SANHUA INTELLIGENT CONTROLS CO., LTD.",
@@ -260,8 +260,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZSRO",
-    "bankCode": "CN",
+    "bankCode": "ZSRO",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZSROCNBZ",
     "Bank Name": "ZHEJIANG SHANGYU RURAL COMMERCIAL BANK CO.,LTD",
@@ -273,8 +273,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXHX",
-    "bankCode": "CN",
+    "bankCode": "SXHX",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SXHXCNBS",
     "Bank Name": "ZHEJIANG SHAOXING HENGXIN RURAL COMMERCIAL BANK   COMPANY LIMITED",
@@ -286,8 +286,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJTL",
-    "bankCode": "CN",
+    "bankCode": "ZJTL",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZJTLCNBH",
     "Bank Name": "ZHEJIANG TAILONG COMMERCIAL BANK CO.,LTD",
@@ -299,8 +299,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZTHR",
-    "bankCode": "CN",
+    "bankCode": "ZTHR",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "ZTHRCNBT",
     "Bank Name": "ZHEJIANG TAIZHOU HUANGYAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -312,8 +312,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZTJR",
-    "bankCode": "CN",
+    "bankCode": "ZTJR",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZTJRCNBZ",
     "Bank Name": "ZHEJIANG TAIZHOU JIAOJIANG RURAL COMMERCIAL BANK CO., LTD",
@@ -325,8 +325,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLRB",
-    "bankCode": "CN",
+    "bankCode": "TLRB",
+    "countryCode": "CN",
     "branchCode": "N2A",
     "SWIFT Code": "TLRBCN2A",
     "Bank Name": "ZHEJIANG TONGLU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -338,8 +338,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TXRC",
-    "bankCode": "CN",
+    "bankCode": "TXRC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "TXRCCNBT",
     "Bank Name": "ZHEJIANG TONGXIANG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -351,8 +351,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZWSC",
-    "bankCode": "CN",
+    "bankCode": "ZWSC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "ZWSCCNBT",
     "Bank Name": "ZHEJIANG WANSHENG COMPANY LIMITED",
@@ -364,8 +364,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WRCO",
-    "bankCode": "CN",
+    "bankCode": "WRCO",
+    "countryCode": "CN",
     "branchCode": "NBW",
     "SWIFT Code": "WRCOCNBW",
     "Bank Name": "ZHEJIANG WENCHENG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -377,8 +377,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WLBK",
-    "bankCode": "CN",
+    "bankCode": "WLBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "WLBKCNSH",
     "Bank Name": "ZHEJIANG WENLING RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -390,8 +390,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCBK",
-    "bankCode": "CN",
+    "bankCode": "LCBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "LCBKCNSH",
     "Bank Name": "ZHEJIANG WENZHOU LUCHENG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -403,8 +403,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OHBK",
-    "bankCode": "CN",
+    "bankCode": "OHBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "OHBKCNSH",
     "Bank Name": "ZHEJIANG WENZHOU OUHAI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -416,8 +416,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OHBK",
-    "bankCode": "CN",
+    "bankCode": "OHBK",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "OHBKCNSH001",
     "Bank Name": "ZHEJIANG WENZHOU OUHAI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -429,8 +429,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZWRC",
-    "bankCode": "CN",
+    "bankCode": "ZWRC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZWRCCNBZ",
     "Bank Name": "ZHEJIANG WUYI RURAL COMMERCIAL BANK",
@@ -442,8 +442,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXCB",
-    "bankCode": "CN",
+    "bankCode": "HXCB",
+    "countryCode": "CN",
     "branchCode": "N2H",
     "SWIFT Code": "HXCBCN2H",
     "Bank Name": "ZHEJIANG XIAOSHAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -455,8 +455,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZXCI",
-    "bankCode": "CN",
+    "bankCode": "ZXCI",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZXCICNBH",
     "Bank Name": "ZHEJIANG XINAN CHEMICAL INDUSTRIAL GROUP CO., LTD.",
@@ -468,8 +468,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZXBK",
-    "bankCode": "CN",
+    "bankCode": "ZXBK",
+    "countryCode": "CN",
     "branchCode": "N2X",
     "SWIFT Code": "ZXBKCN2X",
     "Bank Name": "ZHEJIANG XINCHANG RURAL COMMERCIAL BANK COMPANY   LIMITED",
@@ -481,8 +481,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YWBK",
-    "bankCode": "CN",
+    "bankCode": "YWBK",
+    "countryCode": "CN",
     "branchCode": "N2X",
     "SWIFT Code": "YWBKCN2X",
     "Bank Name": "ZHEJIANG YIWU RURAL COMMERCIAL BANK CO.,LTD",
@@ -494,8 +494,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YRCB",
-    "bankCode": "CN",
+    "bankCode": "YRCB",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "YRCBCNBH",
     "Bank Name": "ZHEJIANG YONGKANG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -507,8 +507,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZQRC",
-    "bankCode": "CN",
+    "bankCode": "ZQRC",
+    "countryCode": "CN",
     "branchCode": "NBW",
     "SWIFT Code": "ZQRCCNBW",
     "Bank Name": "ZHEJIANG YUEQING RURAL COMMERCIAL BANK",
@@ -520,8 +520,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJYR",
-    "bankCode": "CN",
+    "bankCode": "ZJYR",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "ZJYRCNBY",
     "Bank Name": "ZHEJIANG YUHUAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -533,8 +533,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJZD",
-    "bankCode": "CN",
+    "bankCode": "ZJZD",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZJZDCNBZ",
     "Bank Name": "ZHEJIANG ZHOUSHAN DINGHAI OCEAN RURAL COMMERCIAL BANK CO.,LTD",
@@ -546,8 +546,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJPT",
-    "bankCode": "CN",
+    "bankCode": "ZJPT",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZJPTCNBZ",
     "Bank Name": "ZHEJIANG ZHOUSHAN PUTUO RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -559,8 +559,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJRB",
-    "bankCode": "CN",
+    "bankCode": "ZJRB",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZJRBCNBH",
     "Bank Name": "ZHEJIANG ZHUJI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -572,8 +572,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZTSH",
-    "bankCode": "CN",
+    "bankCode": "ZTSH",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "ZTSHCNBS",
     "Bank Name": "ZHENGWEI TECHNOLOGY (SHENZHEN) LIMITED",
@@ -585,8 +585,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZXBC",
-    "bankCode": "CN",
+    "bankCode": "ZXBC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ZXBCCNSH",
     "Bank Name": "ZHENGXIN BANK CO., LTD.",
@@ -599,8 +599,8 @@ const china = [
   },
   {},
   {
-    "countryCode": "ZRCU",
-    "bankCode": "CN",
+    "bankCode": "ZRCU",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "ZRCUCNB2",
     "Bank Name": "ZHENKANG RURAL CREDIT UNION",
@@ -612,8 +612,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCFC",
-    "bankCode": "CN",
+    "bankCode": "ZCFC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ZCFCCNSH",
     "Bank Name": "ZHONG CHUAN FINANCE CO.,LTD.",
@@ -625,8 +625,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZHFC",
-    "bankCode": "CN",
+    "bankCode": "ZHFC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ZHFCCNBJ",
     "Bank Name": "ZHONG HE FINANCE COMPANY LIMITED",
@@ -638,8 +638,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WJM",
     "SWIFT Code": "ADBNCNBJWJM",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -651,8 +651,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JZ1",
     "SWIFT Code": "ADBNCNBJJZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -664,8 +664,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JJN",
     "SWIFT Code": "ADBNCNBJJJN",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -677,8 +677,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HJX",
     "SWIFT Code": "ADBNCNBJHJX",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -690,8 +690,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "KM1",
     "SWIFT Code": "ADBNCNBJKM1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -703,8 +703,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JLW",
     "SWIFT Code": "ADBNCNBJJLW",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -716,8 +716,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SLF",
     "SWIFT Code": "ADBNCNBJSLF",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -729,8 +729,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "LZ1",
     "SWIFT Code": "ADBNCNBJLZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -742,8 +742,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NLY",
     "SWIFT Code": "ADBNCNBJNLY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -755,8 +755,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JLC",
     "SWIFT Code": "ADBNCNBJJLC",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -768,8 +768,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "LY1",
     "SWIFT Code": "ADBNCNBJLY1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -781,8 +781,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HLA",
     "SWIFT Code": "ADBNCNBJHLA",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -794,8 +794,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "MAS",
     "SWIFT Code": "ADBNCNBJMAS",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -807,8 +807,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "GMM",
     "SWIFT Code": "ADBNCNBJGMM",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -820,8 +820,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HMD",
     "SWIFT Code": "ADBNCNBJHMD",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -833,8 +833,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HSF",
     "SWIFT Code": "ADBNCNBJHSF",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -846,8 +846,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NC1",
     "SWIFT Code": "ADBNCNBJNC1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -859,8 +859,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NJ1",
     "SWIFT Code": "ADBNCNBJNJ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -872,8 +872,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NN1",
     "SWIFT Code": "ADBNCNBJNN1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -885,8 +885,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NNN",
     "SWIFT Code": "ADBNCNBJNNN",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -898,8 +898,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NT1",
     "SWIFT Code": "ADBNCNBJNT1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -911,8 +911,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZNY",
     "SWIFT Code": "ADBNCNBJZNY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -924,8 +924,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NB1",
     "SWIFT Code": "ADBNCNBJNB1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -937,8 +937,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "FND",
     "SWIFT Code": "ADBNCNBJFND",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -950,8 +950,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SPJ",
     "SWIFT Code": "ADBNCNBJSPJ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -963,8 +963,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZPY",
     "SWIFT Code": "ADBNCNBJZPY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -976,8 +976,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WQJ",
     "SWIFT Code": "ADBNCNBJWQJ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -989,8 +989,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SQD",
     "SWIFT Code": "ADBNCNBJSQD",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1002,8 +1002,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "LQY",
     "SWIFT Code": "ADBNCNBJLQY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1015,8 +1015,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SQH",
     "SWIFT Code": "ADBNCNBJSQH",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1028,8 +1028,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HQH",
     "SWIFT Code": "ADBNCNBJHQH",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1041,8 +1041,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JRZ",
     "SWIFT Code": "ADBNCNBJJRZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1054,8 +1054,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SH1",
     "SWIFT Code": "ADBNCNBJSH1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1067,8 +1067,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZSQ",
     "SWIFT Code": "ADBNCNBJZSQ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1080,8 +1080,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CSY",
     "SWIFT Code": "ADBNCNBJCSY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1093,8 +1093,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SY1",
     "SWIFT Code": "ADBNCNBJSY1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1106,8 +1106,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "GSZ",
     "SWIFT Code": "ADBNCNBJGSZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1119,8 +1119,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "ADBNCNBJSJZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1132,8 +1132,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WSY",
     "SWIFT Code": "ADBNCNBJWSY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1145,8 +1145,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WSZ",
     "SWIFT Code": "ADBNCNBJWSZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1158,8 +1158,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NSQ",
     "SWIFT Code": "ADBNCNBJNSQ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1171,8 +1171,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SZ1",
     "SWIFT Code": "ADBNCNBJSZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1184,8 +1184,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JTA",
     "SWIFT Code": "ADBNCNBJJTA",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1197,8 +1197,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "TY1",
     "SWIFT Code": "ADBNCNBJTY1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1210,8 +1210,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NTZ",
     "SWIFT Code": "ADBNCNBJNTZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1223,8 +1223,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "STS",
     "SWIFT Code": "ADBNCNBJSTS",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1236,8 +1236,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "TJ1",
     "SWIFT Code": "ADBNCNBJTJ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1249,8 +1249,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "STL",
     "SWIFT Code": "ADBNCNBJSTL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1262,8 +1262,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HTL",
     "SWIFT Code": "ADBNCNBJHTL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1275,8 +1275,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "URM",
     "SWIFT Code": "ADBNCNBJURM",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1288,8 +1288,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "280",
     "SWIFT Code": "ABOCCNBJ280",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -1301,8 +1301,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "290",
     "SWIFT Code": "ABOCCNBJ290",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -1314,8 +1314,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "160",
     "SWIFT Code": "ABOCCNBJ160",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -1327,8 +1327,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HAQ",
     "SWIFT Code": "ADBNCNBJHAQ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1340,8 +1340,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "BC1",
     "SWIFT Code": "ADBNCNBJBC1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1353,8 +1353,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CBS",
     "SWIFT Code": "ADBNCNBJCBS",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1366,8 +1366,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SBD",
     "SWIFT Code": "ADBNCNBJSBD",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1379,8 +1379,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ADBNCNBJNBH",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1392,8 +1392,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ADBNCNBJ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1405,8 +1405,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "BKD",
     "SWIFT Code": "ADBNCNBJBKD",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1418,8 +1418,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "BJ1",
     "SWIFT Code": "ADBNCNBJBJ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1431,8 +1431,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JBZ",
     "SWIFT Code": "ADBNCNBJJBZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1444,8 +1444,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SCZ",
     "SWIFT Code": "ADBNCNBJSCZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1457,8 +1457,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CC1",
     "SWIFT Code": "ADBNCNBJCC1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1470,8 +1470,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CCD",
     "SWIFT Code": "ADBNCNBJCCD",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1483,8 +1483,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CS1",
     "SWIFT Code": "ADBNCNBJCS1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1496,8 +1496,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CZ1",
     "SWIFT Code": "ADBNCNBJCZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1509,8 +1509,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CD1",
     "SWIFT Code": "ADBNCNBJCD1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1522,8 +1522,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HCF",
     "SWIFT Code": "ADBNCNBJHCF",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1535,8 +1535,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CQ1",
     "SWIFT Code": "ADBNCNBJCQ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1548,8 +1548,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CWZ",
     "SWIFT Code": "ADBNCNBJCWZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1561,8 +1561,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "KDL",
     "SWIFT Code": "ADBNCNBJKDL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1574,8 +1574,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SDL",
     "SWIFT Code": "ADBNCNBJSDL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1587,8 +1587,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "KRL",
     "SWIFT Code": "ADBNCNBJKRL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1600,8 +1600,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JDZ",
     "SWIFT Code": "ADBNCNBJJDZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1613,8 +1613,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "GDG",
     "SWIFT Code": "ADBNCNBJGDG",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1626,8 +1626,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "DY1",
     "SWIFT Code": "ADBNCNBJDY1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1639,8 +1639,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WES",
     "SWIFT Code": "ADBNCNBJWES",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1652,8 +1652,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NFC",
     "SWIFT Code": "ADBNCNBJNFC",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1665,8 +1665,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "FZ1",
     "SWIFT Code": "ADBNCNBJFZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1678,8 +1678,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NGZ",
     "SWIFT Code": "ADBNCNBJNGZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1691,8 +1691,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "GZ1",
     "SWIFT Code": "ADBNCNBJGZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1704,8 +1704,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "GY1",
     "SWIFT Code": "ADBNCNBJGY1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1717,8 +1717,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HK1",
     "SWIFT Code": "ADBNCNBJHK1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1730,8 +1730,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SHD",
     "SWIFT Code": "ADBNCNBJSHD",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1743,8 +1743,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HZ1",
     "SWIFT Code": "ADBNCNBJHZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1756,8 +1756,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HRB",
     "SWIFT Code": "ADBNCNBJHRB",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1769,8 +1769,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HF1",
     "SWIFT Code": "ADBNCNBJHF1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1782,8 +1782,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HHG",
     "SWIFT Code": "ADBNCNBJHHG",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1795,8 +1795,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SHS",
     "SWIFT Code": "ADBNCNBJSHS",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1808,8 +1808,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JHZ",
     "SWIFT Code": "ADBNCNBJJHZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1821,8 +1821,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HH1",
     "SWIFT Code": "ADBNCNBJHH1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1834,8 +1834,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "KHH",
     "SWIFT Code": "ADBNCNBJKHH",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1847,8 +1847,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NHA",
     "SWIFT Code": "ADBNCNBJNHA",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1860,8 +1860,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WHG",
     "SWIFT Code": "ADBNCNBJWHG",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1873,8 +1873,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SHL",
     "SWIFT Code": "ADBNCNBJSHL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1886,8 +1886,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "UYL",
     "SWIFT Code": "ADBNCNBJUYL",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1899,8 +1899,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HJM",
     "SWIFT Code": "ADBNCNBJHJM",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1912,8 +1912,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZJZ",
     "SWIFT Code": "ADBNCNBJZJZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1925,8 +1925,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JN1",
     "SWIFT Code": "ADBNCNBJJN1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -1938,8 +1938,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZAJ",
     "SWIFT Code": "ICBKCNBJZAJ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -1951,8 +1951,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HEN",
     "SWIFT Code": "ICBKCNBJHEN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -1964,8 +1964,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZZU",
     "SWIFT Code": "ICBKCNBJZZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -1977,8 +1977,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZJG",
     "SWIFT Code": "ICBKCNBJZJG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -1990,8 +1990,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZSN",
     "SWIFT Code": "ICBKCNBJZSN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2003,8 +2003,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZSZ",
     "SWIFT Code": "ICBKCNBJZSZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2016,8 +2016,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZSC",
     "SWIFT Code": "ICBKCNBJZSC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2029,8 +2029,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HQA",
     "SWIFT Code": "ICBKCNBJHQA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2042,8 +2042,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "EFZ",
     "SWIFT Code": "ICBKCNBJEFZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2055,8 +2055,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZHZ",
     "SWIFT Code": "ICBKCNBJZHZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2068,8 +2068,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZHI",
     "SWIFT Code": "ICBKCNBJZHI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2081,8 +2081,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZBO",
     "SWIFT Code": "ICBKCNBJZBO",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -2094,8 +2094,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HNZ",
     "SWIFT Code": "ICBKCNBJHNZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED   HAINAN BRANCH(FT)",
@@ -2107,8 +2107,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "680",
     "SWIFT Code": "FJIBCNBA680",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2120,8 +2120,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "700",
     "SWIFT Code": "FJIBCNBA700",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2133,8 +2133,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "660",
     "SWIFT Code": "FJIBCNBA660",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2146,8 +2146,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "730",
     "SWIFT Code": "FJIBCNBA730",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2159,8 +2159,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "580",
     "SWIFT Code": "FJIBCNBA580",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2172,8 +2172,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "620",
     "SWIFT Code": "FJIBCNBA620",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2185,8 +2185,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "FJIBCNBA",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2198,8 +2198,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "FJIBCNBB",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2211,8 +2211,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "601",
     "SWIFT Code": "FJIBCNBA601",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2224,8 +2224,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "FJIBCNBA030",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2237,8 +2237,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "500",
     "SWIFT Code": "FJIBCNBA500",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2250,8 +2250,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "720",
     "SWIFT Code": "FJIBCNBA720",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2263,8 +2263,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "791",
     "SWIFT Code": "FJIBCNBA791",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2276,8 +2276,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "790",
     "SWIFT Code": "FJIBCNBA790",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2289,8 +2289,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "530",
     "SWIFT Code": "FJIBCNBA530",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2302,8 +2302,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "650",
     "SWIFT Code": "FJIBCNBA650",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2315,8 +2315,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "520",
     "SWIFT Code": "FJIBCNBA520",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2328,8 +2328,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "690",
     "SWIFT Code": "FJIBCNBA690",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2341,8 +2341,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "591",
     "SWIFT Code": "FJIBCNBA591",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2354,8 +2354,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "710",
     "SWIFT Code": "FJIBCNBA710",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2367,8 +2367,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "570",
     "SWIFT Code": "FJIBCNBA570",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2380,8 +2380,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "750",
     "SWIFT Code": "FJIBCNBA750",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2393,8 +2393,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "910",
     "SWIFT Code": "FJIBCNBA910",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2406,8 +2406,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "420",
     "SWIFT Code": "FJIBCNBA420",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2419,8 +2419,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "540",
     "SWIFT Code": "FJIBCNBA540",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2432,8 +2432,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "560",
     "SWIFT Code": "FJIBCNBA560",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2445,8 +2445,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "640",
     "SWIFT Code": "FJIBCNBA640",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2458,8 +2458,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "390",
     "SWIFT Code": "FJIBCNBA390",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2471,8 +2471,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "550",
     "SWIFT Code": "FJIBCNBA550",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2484,8 +2484,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "480",
     "SWIFT Code": "FJIBCNBA480",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2497,8 +2497,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "450",
     "SWIFT Code": "FJIBCNBA450",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2510,8 +2510,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "610",
     "SWIFT Code": "FJIBCNBA610",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2523,8 +2523,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "130",
     "SWIFT Code": "FJIBCNBA130",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2536,8 +2536,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "360",
     "SWIFT Code": "FJIBCNBA360",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2549,8 +2549,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "778",
     "SWIFT Code": "FJIBCNBA778",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2562,8 +2562,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "780",
     "SWIFT Code": "FJIBCNBA780",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2575,8 +2575,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "FIN",
     "SWIFT Code": "FJIBCNBAFIN",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -2588,8 +2588,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "CQB",
     "SWIFT Code": "HCCBCNBHCQB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2601,8 +2601,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "DLB",
     "SWIFT Code": "HCCBCNBHDLB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2614,8 +2614,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "DQB",
     "SWIFT Code": "HCCBCNBHDQB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2627,8 +2627,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HCCBCNBH",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2640,8 +2640,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "ACS",
     "SWIFT Code": "HCCBCNBHACS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2653,8 +2653,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "FZS",
     "SWIFT Code": "HCCBCNBHFZS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2666,8 +2666,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "YYB",
     "SWIFT Code": "HCCBCNBHYYB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2679,8 +2679,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "JQS",
     "SWIFT Code": "HCCBCNBHJQS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2692,8 +2692,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "KJS",
     "SWIFT Code": "HCCBCNBHKJS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2705,8 +2705,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "SFS",
     "SWIFT Code": "HCCBCNBHSFS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2718,8 +2718,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "HGB",
     "SWIFT Code": "HCCBCNBHHGB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2731,8 +2731,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "JBS",
     "SWIFT Code": "HCCBCNBHJBS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2744,8 +2744,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "JMS",
     "SWIFT Code": "HCCBCNBHJMS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2757,8 +2757,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "HLS",
     "SWIFT Code": "HCCBCNBHHLS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2770,8 +2770,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "JXB",
     "SWIFT Code": "HCCBCNBHJXB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2783,8 +2783,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "MSS",
     "SWIFT Code": "HCCBCNBHMSS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2796,8 +2796,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "MKB",
     "SWIFT Code": "HCCBCNBHMKB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2809,8 +2809,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "MDB",
     "SWIFT Code": "HCCBCNBHMDB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2822,8 +2822,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "SFH",
     "SWIFT Code": "HCCBCNBHSFH",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2835,8 +2835,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "SYB",
     "SWIFT Code": "HCCBCNBHSYB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2848,8 +2848,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "SYS",
     "SWIFT Code": "HCCBCNBHSYS",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2861,8 +2861,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "SHB",
     "SWIFT Code": "HCCBCNBHSHB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2874,8 +2874,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "LQB",
     "SWIFT Code": "HCCBCNBHLQB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2887,8 +2887,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "TJB",
     "SWIFT Code": "HCCBCNBHTJB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -2900,8 +2900,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEIC",
-    "bankCode": "CN",
+    "bankCode": "HEIC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HEICCNBH",
     "Bank Name": "HARBIN ELECTRIC INTERNATIONAL COMPANY LIMITED",
@@ -2913,8 +2913,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRBI",
-    "bankCode": "CN",
+    "bankCode": "HRBI",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HRBICNBH",
     "Bank Name": "HARBIN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -2926,8 +2926,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFMC",
-    "bankCode": "CN",
+    "bankCode": "HFMC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HFMCCNBJ",
     "Bank Name": "HARVEST FUND MANAGEMENT CO., LTD.",
@@ -2939,8 +2939,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HHWC",
-    "bankCode": "CN",
+    "bankCode": "HHWC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "HHWCCNBT",
     "Bank Name": "HEBEI HUATONG WIRES AND CABLES GROUP CO., LTD.",
@@ -2952,8 +2952,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSTR",
-    "bankCode": "CN",
+    "bankCode": "HSTR",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HSTRCNBH",
     "Bank Name": "HEFEI SCIENCE AND TECHNOLOGY RURAL COMMERCIAL BANKCO., LTD",
@@ -2965,8 +2965,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRCM",
-    "bankCode": "CN",
+    "bankCode": "HRCM",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HRCMCNBH",
     "Bank Name": "HEI HE RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -2978,8 +2978,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DRCB",
-    "bankCode": "CN",
+    "bankCode": "DRCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "DRCBCNBJ",
     "Bank Name": "HEILONGJIANG DONGNING RURAL COMMERCIAL BANK CO., LTD.",
@@ -2991,8 +2991,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMRO",
-    "bankCode": "CN",
+    "bankCode": "HMRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HMROCNB2",
     "Bank Name": "HEILONGJIANG MISHAN  RURAL COMMERCIAL BANK CO., LTD",
@@ -3004,8 +3004,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSRC",
-    "bankCode": "CN",
+    "bankCode": "HSRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HSRCCNB2",
     "Bank Name": "HEILONGJIANG SUIFENHE RURAL COMMERCIAL BANK CO.   LTD",
@@ -3017,8 +3017,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXRC",
-    "bankCode": "CN",
+    "bankCode": "HXRC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "HXRCCNBZ",
     "Bank Name": "HENAN XINZHENG RURAL COMMERCIAL BANK CO.,LTD.",
@@ -3030,8 +3030,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HGDM",
-    "bankCode": "CN",
+    "bankCode": "HGDM",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "HGDMCNBD",
     "Bank Name": "HENGDIAN GROUP DMEGC MAGNETICS CO.,LTD.",
@@ -3043,8 +3043,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRCL",
-    "bankCode": "CN",
+    "bankCode": "HRCL",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HRCLCNB2",
     "Bank Name": "HEZE RURAL COMMERCIAL BANK CO.,LTD",
@@ -3056,8 +3056,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLOG",
-    "bankCode": "CN",
+    "bankCode": "HLOG",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "HLOGCNBS",
     "Bank Name": "HICHAIN LOGISTICS CO., LTD.",
@@ -3069,8 +3069,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HISF",
-    "bankCode": "CN",
+    "bankCode": "HISF",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "HISFCNBQ",
     "Bank Name": "HISENSE FINANCE CO., LTD",
@@ -3082,8 +3082,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNAF",
-    "bankCode": "CN",
+    "bankCode": "HNAF",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HNAFCNBJ",
     "Bank Name": "HNA GROUP FINANCE CO., LTD",
@@ -3095,8 +3095,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOMC",
-    "bankCode": "CN",
+    "bankCode": "HOMC",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "HOMCCNBF",
     "Bank Name": "HOMESTAR CORPORATION",
@@ -3108,8 +3108,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDCL",
-    "bankCode": "CN",
+    "bankCode": "HDCL",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "HDCLCNBS",
     "Bank Name": "HONOR DEVICE CO.,LTD.",
@@ -3121,8 +3121,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "HSBCCNSHBJG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3134,8 +3134,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "CGN",
     "SWIFT Code": "HSBCCNSHCGN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3147,8 +3147,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "CNG",
     "SWIFT Code": "HSBCCNSHCNG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3160,8 +3160,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "CGU",
     "SWIFT Code": "HSBCCNSHCGU",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3173,8 +3173,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "HSBCCNSHCQG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3186,8 +3186,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "HSBCCNSHDLN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3199,8 +3199,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "DNG",
     "SWIFT Code": "HSBCCNSHDNG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3212,8 +3212,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "GZF",
     "SWIFT Code": "HSBCCNSHGZF",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3225,8 +3225,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "FZU",
     "SWIFT Code": "HSBCCNSHFZU",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -3238,8 +3238,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "532",
     "SWIFT Code": "BKSHCNBJ532",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3251,8 +3251,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "335",
     "SWIFT Code": "BKSHCNBJ335",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3264,8 +3264,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BKSHCNBJ",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3277,8 +3277,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "311",
     "SWIFT Code": "BKSHCNBJ311",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3290,8 +3290,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "315",
     "SWIFT Code": "BKSHCNBJ315",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3303,8 +3303,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "022",
     "SWIFT Code": "BKSHCNBJ022",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3316,8 +3316,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "319",
     "SWIFT Code": "BKSHCNBJ319",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3329,8 +3329,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "313",
     "SWIFT Code": "BKSHCNBJ313",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -3342,8 +3342,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHLD",
-    "bankCode": "CN",
+    "bankCode": "BHLD",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "BHLDCNBD",
     "Bank Name": "BANK OF HULUDAO CO., LTD.",
@@ -3355,8 +3355,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRXJ",
-    "bankCode": "CN",
+    "bankCode": "HRXJ",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "HRXJCNBC",
     "Bank Name": "BANK OF HUNAN CORPORATION LIMITED",
@@ -3368,8 +3368,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKHZ",
-    "bankCode": "CN",
+    "bankCode": "BKHZ",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "BKHZCNBH",
     "Bank Name": "BANK OF HUZHOU CO.,LTD",
@@ -3381,8 +3381,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "009",
     "SWIFT Code": "HSSYCNBH009",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3394,8 +3394,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "005",
     "SWIFT Code": "HSSYCNBH005",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3407,8 +3407,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "003",
     "SWIFT Code": "HSSYCNBH003",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3420,8 +3420,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HSSYCNBH",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3433,8 +3433,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "HSSYCNBH001",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3446,8 +3446,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "006",
     "SWIFT Code": "HSSYCNBH006",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3459,8 +3459,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "011",
     "SWIFT Code": "HSSYCNBH011",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3472,8 +3472,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "HSSYCNBH002",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3485,8 +3485,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "007",
     "SWIFT Code": "HSSYCNBH007",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3498,8 +3498,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "008",
     "SWIFT Code": "HSSYCNBH008",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3511,8 +3511,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "004",
     "SWIFT Code": "HSSYCNBH004",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3524,8 +3524,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSY",
-    "bankCode": "CN",
+    "bankCode": "HSSY",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "HSSYCNBH010",
     "Bank Name": "BANK OF INNER MONGOLIA CO.,LTD.",
@@ -3537,8 +3537,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJS",
-    "bankCode": "CN",
+    "bankCode": "BOJS",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "BOJSCNBN",
     "Bank Name": "BANK OF JIANGSU CO LTD",
@@ -3550,8 +3550,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJS",
-    "bankCode": "CN",
+    "bankCode": "BOJS",
+    "countryCode": "CN",
     "branchCode": "020",
     "SWIFT Code": "BOJSCNBN020",
     "Bank Name": "BANK OF JIANGSU CO LTD",
@@ -3563,8 +3563,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJS",
-    "bankCode": "CN",
+    "bankCode": "BOJS",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "BOJSCNBN010",
     "Bank Name": "BANK OF JIANGSU CO LTD",
@@ -3576,8 +3576,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJX",
-    "bankCode": "CN",
+    "bankCode": "BOJX",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BOJXCNBJ",
     "Bank Name": "BANK OF JIAXING CO., LTD.",
@@ -3589,8 +3589,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JLBK",
-    "bankCode": "CN",
+    "bankCode": "JLBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "JLBKCNBJ",
     "Bank Name": "BANK OF JILIN CO., LTD",
@@ -3602,8 +3602,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JHCB",
-    "bankCode": "CN",
+    "bankCode": "JHCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "JHCBCNBJ",
     "Bank Name": "BANK OF JINHUA (FORMERLY JINHUA CITY COMMERCIAL BANK)",
@@ -3615,8 +3615,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKJN",
-    "bankCode": "CN",
+    "bankCode": "BKJN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BKJNCNBJ",
     "Bank Name": "BANK OF JINING CO.LTD",
@@ -3628,8 +3628,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "ASN",
     "SWIFT Code": "JZCBCNBJASN",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3641,8 +3641,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "JZCBCNBJBJG",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3654,8 +3654,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "BXI",
     "SWIFT Code": "JZCBCNBJBXI",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3667,8 +3667,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "CYG",
     "SWIFT Code": "JZCBCNBJCYG",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3680,8 +3680,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "JZCBCNBJDLN",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3693,8 +3693,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "DDG",
     "SWIFT Code": "JZCBCNBJDDG",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3706,8 +3706,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "FSN",
     "SWIFT Code": "JZCBCNBJFSN",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3719,8 +3719,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "FXN",
     "SWIFT Code": "JZCBCNBJFXN",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3732,8 +3732,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "HEB",
     "SWIFT Code": "JZCBCNBJHEB",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3745,8 +3745,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "HLD",
     "SWIFT Code": "JZCBCNBJHLD",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3758,8 +3758,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "JZCBCNBJ",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3771,8 +3771,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "JZH",
     "SWIFT Code": "JZCBCNBJJZH",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3784,8 +3784,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "LYG",
     "SWIFT Code": "JZCBCNBJLYG",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3797,8 +3797,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "SYN",
     "SWIFT Code": "JZCBCNBJSYN",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3810,8 +3810,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "JZCBCNBJTJN",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3823,8 +3823,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JZCB",
-    "bankCode": "CN",
+    "bankCode": "JZCB",
+    "countryCode": "CN",
     "branchCode": "YKU",
     "SWIFT Code": "JZCBCNBJYKU",
     "Bank Name": "BANK OF JINZHOU CO.,LTD.",
@@ -3836,8 +3836,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJJ",
-    "bankCode": "CN",
+    "bankCode": "BOJJ",
+    "countryCode": "CN",
     "branchCode": "020",
     "SWIFT Code": "BOJJCNBJ020",
     "Bank Name": "BANK OF JIUJIANG CO.,LTD",
@@ -3849,8 +3849,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJJ",
-    "bankCode": "CN",
+    "bankCode": "BOJJ",
+    "countryCode": "CN",
     "branchCode": "551",
     "SWIFT Code": "BOJJCNBJ551",
     "Bank Name": "BANK OF JIUJIANG CO.,LTD",
@@ -3862,8 +3862,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJJ",
-    "bankCode": "CN",
+    "bankCode": "BOJJ",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BOJJCNBJ",
     "Bank Name": "BANK OF JIUJIANG CO.,LTD",
@@ -3875,8 +3875,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJJ",
-    "bankCode": "CN",
+    "bankCode": "BOJJ",
+    "countryCode": "CN",
     "branchCode": "791",
     "SWIFT Code": "BOJJCNBJ791",
     "Bank Name": "BANK OF JIUJIANG CO.,LTD",
@@ -3888,8 +3888,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FTC",
     "SWIFT Code": "COMMCNSHFTC",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3901,8 +3901,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FCU",
     "SWIFT Code": "COMMCNSHFCU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3914,8 +3914,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "COMMCNSH",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3927,8 +3927,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "COMMCNSHSHI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3940,8 +3940,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "COMMCNSHFTU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3953,8 +3953,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SQU",
     "SWIFT Code": "COMMCNSHSQU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3966,8 +3966,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SRO",
     "SWIFT Code": "COMMCNSHSRO",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3979,8 +3979,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "STU",
     "SWIFT Code": "COMMCNSHSTU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -3992,8 +3992,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SGN",
     "SWIFT Code": "COMMCNSHSGN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4005,8 +4005,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SXG",
     "SWIFT Code": "COMMCNSHSXG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4018,8 +4018,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SYC",
     "SWIFT Code": "COMMCNSHSYC",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4031,8 +4031,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SYG",
     "SWIFT Code": "COMMCNSHSYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4044,8 +4044,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "COMMCNSHSZN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4057,8 +4057,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SQF",
     "SWIFT Code": "COMMCNSHSQF",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4070,8 +4070,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SHZ",
     "SWIFT Code": "COMMCNSHSHZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4083,8 +4083,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "COMMCNSHSJZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4096,8 +4096,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SYN",
     "SWIFT Code": "COMMCNSHSYN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4109,8 +4109,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SHU",
     "SWIFT Code": "COMMCNSHSHU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4122,8 +4122,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SPG",
     "SWIFT Code": "COMMCNSHSPG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4135,8 +4135,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SYB",
     "SWIFT Code": "COMMCNSHSYB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4148,8 +4148,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "COMMCNSHSHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4161,8 +4161,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SUI",
     "SWIFT Code": "COMMCNSHSUI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4174,8 +4174,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SQN",
     "SWIFT Code": "COMMCNSHSQN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4187,8 +4187,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SUA",
     "SWIFT Code": "COMMCNSHSUA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4200,8 +4200,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SUZ",
     "SWIFT Code": "COMMCNSHSUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4213,8 +4213,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TAN",
     "SWIFT Code": "COMMCNSHTAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4226,8 +4226,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TYN",
     "SWIFT Code": "COMMCNSHTYN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4239,8 +4239,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TAI",
     "SWIFT Code": "COMMCNSHTAI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4252,8 +4252,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TAA",
     "SWIFT Code": "COMMCNSHTAA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4265,8 +4265,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TSN",
     "SWIFT Code": "COMMCNSHTSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4278,8 +4278,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "COMMCNSHTJN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4291,8 +4291,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TGU",
     "SWIFT Code": "COMMCNSHTGU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4304,8 +4304,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TSI",
     "SWIFT Code": "COMMCNSHTSI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4317,8 +4317,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "THA",
     "SWIFT Code": "COMMCNSHTHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4330,8 +4330,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TLG",
     "SWIFT Code": "COMMCNSHTLG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4343,8 +4343,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WLM",
     "SWIFT Code": "COMMCNSHWLM",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4356,8 +4356,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WFG",
     "SWIFT Code": "COMMCNSHWFG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4369,8 +4369,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WHI",
     "SWIFT Code": "COMMCNSHWHI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4382,8 +4382,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WNN",
     "SWIFT Code": "COMMCNSHWNN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4395,8 +4395,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WSN",
     "SWIFT Code": "COMMCNSHWSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4408,8 +4408,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WEN",
     "SWIFT Code": "COMMCNSHWEN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4421,8 +4421,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WHA",
     "SWIFT Code": "COMMCNSHWHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4434,8 +4434,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WHN",
     "SWIFT Code": "COMMCNSHWHN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4447,8 +4447,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WHU",
     "SWIFT Code": "COMMCNSHWHU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4460,8 +4460,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WWI",
     "SWIFT Code": "COMMCNSHWWI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4473,8 +4473,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WXI",
     "SWIFT Code": "COMMCNSHWXI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4486,8 +4486,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WZG",
     "SWIFT Code": "COMMCNSHWZG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4499,8 +4499,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "WUZ",
     "SWIFT Code": "COMMCNSHWUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4512,8 +4512,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IMN",
     "SWIFT Code": "COMMCNSHIMN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4525,8 +4525,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HLI",
     "SWIFT Code": "COMMCNSHHLI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -4538,8 +4538,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFBL",
-    "bankCode": "CN",
+    "bankCode": "TFBL",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "TFBLCNSHGZH",
     "Bank Name": "TAI FUNG BANK LIMITED SHANGHAI BRANCH",
@@ -4551,8 +4551,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFBL",
-    "bankCode": "CN",
+    "bankCode": "TFBL",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "TFBLCNSH",
     "Bank Name": "TAI FUNG BANK LIMITED SHANGHAI BRANCH",
@@ -4564,8 +4564,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCRB",
-    "bankCode": "CN",
+    "bankCode": "TCRB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "TCRBCNSH",
     "Bank Name": "TAICANG RURAL COMMERCIAL BANK",
@@ -4577,8 +4577,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "CN",
+    "bankCode": "MBBT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "MBBTCNSH",
     "Bank Name": "TAIWAN BUSINESS BANK, LTD. SHANGHAI BRANCH",
@@ -4590,8 +4590,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "CN",
+    "bankCode": "MBBT",
+    "countryCode": "CN",
     "branchCode": "WUH",
     "SWIFT Code": "MBBTCNSHWUH",
     "Bank Name": "TAIWAN BUSINESS BANK, LTD. SHANGHAI BRANCH",
@@ -4603,8 +4603,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "CN",
+    "bankCode": "TACB",
+    "countryCode": "CN",
     "branchCode": "918",
     "SWIFT Code": "TACBCNBS918",
     "Bank Name": "TAIWAN COOPERATIVE BANK",
@@ -4616,8 +4616,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "CN",
+    "bankCode": "TACB",
+    "countryCode": "CN",
     "branchCode": "912",
     "SWIFT Code": "TACBCNBS912",
     "Bank Name": "TAIWAN COOPERATIVE BANK",
@@ -4629,8 +4629,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "CN",
+    "bankCode": "TACB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "TACBCNBS",
     "Bank Name": "TAIWAN COOPERATIVE BANK",
@@ -4642,8 +4642,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TACB",
-    "bankCode": "CN",
+    "bankCode": "TACB",
+    "countryCode": "CN",
     "branchCode": "911",
     "SWIFT Code": "TACBCNBS911",
     "Bank Name": "TAIWAN COOPERATIVE BANK",
@@ -4655,8 +4655,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCLH",
-    "bankCode": "CN",
+    "bankCode": "TCLH",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "TCLHCNBH",
     "Bank Name": "TCL INDUSTRIES HOLDINGS CO., LTD",
@@ -4668,8 +4668,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "BEASCNSHBJG",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4681,8 +4681,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "CSA",
     "SWIFT Code": "BEASCNSHCSA",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4694,8 +4694,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "BEASCNSHCDU",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4707,8 +4707,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "CQN",
     "SWIFT Code": "BEASCNSHCQN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4720,8 +4720,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "BEASCNSHDLN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4733,8 +4733,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "FZU",
     "SWIFT Code": "BEASCNSHFZU",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4746,8 +4746,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "GZU",
     "SWIFT Code": "BEASCNSHGZU",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4759,8 +4759,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "HZU",
     "SWIFT Code": "BEASCNSHHZU",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4772,8 +4772,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "HRB",
     "SWIFT Code": "BEASCNSHHRB",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4785,8 +4785,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "HFI",
     "SWIFT Code": "BEASCNSHHFI",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4798,8 +4798,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "JIN",
     "SWIFT Code": "BEASCNSHJIN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4811,8 +4811,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "KMG",
     "SWIFT Code": "BEASCNSHKMG",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4824,8 +4824,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "NCN",
     "SWIFT Code": "BEASCNSHNCN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4837,8 +4837,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "NJG",
     "SWIFT Code": "BEASCNSHNJG",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4850,8 +4850,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "NNG",
     "SWIFT Code": "BEASCNSHNNG",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4863,8 +4863,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "NBO",
     "SWIFT Code": "BEASCNSHNBO",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4876,8 +4876,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "BEASCNSHQDO",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4889,8 +4889,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BEASCNSH",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4902,8 +4902,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "CCC",
     "SWIFT Code": "BEASCNSHCCC",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4915,8 +4915,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "CTC",
     "SWIFT Code": "BEASCNSHCTC",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4928,8 +4928,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "ZMQ",
     "SWIFT Code": "BEASCNSHZMQ",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4941,8 +4941,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SUB",
     "SWIFT Code": "BEASCNSHSUB",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4954,8 +4954,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "BEASCNSHSHA",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4967,8 +4967,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SYG",
     "SWIFT Code": "BEASCNSHSYG",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4980,8 +4980,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "QHI",
     "SWIFT Code": "BEASCNSHQHI",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -4993,8 +4993,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "BEASCNSHSZN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5006,8 +5006,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "BEASCNSHSJZ",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5019,8 +5019,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SZU",
     "SWIFT Code": "BEASCNSHSZU",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5032,8 +5032,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "BEASCNSHTJN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5045,8 +5045,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "URM",
     "SWIFT Code": "BEASCNSHURM",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5058,8 +5058,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "WHN",
     "SWIFT Code": "BEASCNSHWHN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5071,8 +5071,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "WUX",
     "SWIFT Code": "BEASCNSHWUX",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5084,8 +5084,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "SMN",
     "SWIFT Code": "BEASCNSHSMN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5097,8 +5097,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "BXN",
     "SWIFT Code": "BEASCNSHBXN",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5110,8 +5110,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "ZHZ",
     "SWIFT Code": "BEASCNSHZHZ",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5123,8 +5123,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAS",
-    "bankCode": "CN",
+    "bankCode": "BEAS",
+    "countryCode": "CN",
     "branchCode": "ZHI",
     "SWIFT Code": "BEASCNSHZHI",
     "Bank Name": "THE BANK OF EAST ASIA (CHINA) LIMITED",
@@ -5136,8 +5136,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAGO",
-    "bankCode": "CN",
+    "bankCode": "NAGO",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NAGOCNBN",
     "Bank Name": "THE BANK OF NAGOYA,LTD. NANTONG BRANCH",
@@ -5149,8 +5149,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "CN",
+    "bankCode": "BNYM",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BNYMCNBJ",
     "Bank Name": "THE BANK OF NEW YORK MELLON, BEIJING",
@@ -5162,8 +5162,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "CN",
+    "bankCode": "IRVT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "IRVTCNSH",
     "Bank Name": "THE BANK OF NEW YORK MELLON, SHANGHAI BRANCH",
@@ -5175,8 +5175,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMA",
-    "bankCode": "CN",
+    "bankCode": "HAMA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "HAMACNSH",
     "Bank Name": "THE BANK OF YOKOHAMA, LTD. SHANGHAI BRANCH",
@@ -5188,8 +5188,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZGG",
     "SWIFT Code": "COMMCNSHZGG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -5201,8 +5201,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZYI",
     "SWIFT Code": "COMMCNSHZYI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -5214,8 +5214,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLCB",
-    "bankCode": "CN",
+    "bankCode": "DLCB",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "DLCBCNBD",
     "Bank Name": "BANK OF DALIAN",
@@ -5227,8 +5227,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLCB",
-    "bankCode": "CN",
+    "bankCode": "DLCB",
+    "countryCode": "CN",
     "branchCode": "SHF",
     "SWIFT Code": "DLCBCNBDSHF",
     "Bank Name": "BANK OF DALIAN",
@@ -5240,8 +5240,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGCB",
-    "bankCode": "CN",
+    "bankCode": "DGCB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "DGCBCN22",
     "Bank Name": "BANK OF DONGGUAN CO.,LTD",
@@ -5253,8 +5253,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKFS",
-    "bankCode": "CN",
+    "bankCode": "BKFS",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "BKFSCNBF",
     "Bank Name": "BANK OF FUSHUN CO.,LTD",
@@ -5266,8 +5266,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FXBK",
-    "bankCode": "CN",
+    "bankCode": "FXBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "FXBKCNBJ",
     "Bank Name": "BANK OF FUXIN",
@@ -5279,8 +5279,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSBK",
-    "bankCode": "CN",
+    "bankCode": "GSBK",
+    "countryCode": "CN",
     "branchCode": "NBG",
     "SWIFT Code": "GSBKCNBG",
     "Bank Name": "BANK OF GANSU CO,LTD.",
@@ -5292,8 +5292,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKGZ",
-    "bankCode": "CN",
+    "bankCode": "BKGZ",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "BKGZCNBN",
     "Bank Name": "BANK OF GANZHOU CO.,LTD.",
@@ -5305,8 +5305,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GZCB",
-    "bankCode": "CN",
+    "bankCode": "GZCB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "GZCBCN22",
     "Bank Name": "BANK OF GUANGZHOU",
@@ -5318,8 +5318,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GYCB",
-    "bankCode": "CN",
+    "bankCode": "GYCB",
+    "countryCode": "CN",
     "branchCode": "NSI",
     "SWIFT Code": "GYCBCNSI",
     "Bank Name": "BANK OF GUIYANG (FORMALLY:GUIYANG COMMERCIAL BANK)",
@@ -5331,8 +5331,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOGZ",
-    "bankCode": "CN",
+    "bankCode": "BOGZ",
+    "countryCode": "CN",
     "branchCode": "NBG",
     "SWIFT Code": "BOGZCNBG",
     "Bank Name": "BANK OF GUIZHOU CO.,LTD",
@@ -5344,8 +5344,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HACD",
-    "bankCode": "CN",
+    "bankCode": "HACD",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HACDCNBH",
     "Bank Name": "BANK OF HAINAN CO.,LTD.",
@@ -5357,8 +5357,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKHD",
-    "bankCode": "CN",
+    "bankCode": "BKHD",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BKHDCNBJ",
     "Bank Name": "BANK OF HANDAN CO., LTD.",
@@ -5370,8 +5370,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "BJB",
     "SWIFT Code": "HZCBCN2HBJB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5383,8 +5383,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "FYB",
     "SWIFT Code": "HZCBCN2HFYB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5396,8 +5396,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "N2H",
     "SWIFT Code": "HZCBCN2H",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5409,8 +5409,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "CAB",
     "SWIFT Code": "HZCBCN2HCAB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5422,8 +5422,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "JDB",
     "SWIFT Code": "HZCBCN2HJDB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5435,8 +5435,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "LAB",
     "SWIFT Code": "HZCBCN2HLAB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5448,8 +5448,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "LPB",
     "SWIFT Code": "HZCBCN2HLPB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5461,8 +5461,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "TLB",
     "SWIFT Code": "HZCBCN2HTLB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5474,8 +5474,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "OSB",
     "SWIFT Code": "HZCBCN2HOSB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5487,8 +5487,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "YHB",
     "SWIFT Code": "HZCBCN2HYHB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5500,8 +5500,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "HFB",
     "SWIFT Code": "HZCBCN2HHFB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5513,8 +5513,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "DQB",
     "SWIFT Code": "HZCBCN2HDQB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5526,8 +5526,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "HZB",
     "SWIFT Code": "HZCBCN2HHZB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5539,8 +5539,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "JXB",
     "SWIFT Code": "HZCBCN2HJXB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5552,8 +5552,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "TXB",
     "SWIFT Code": "HZCBCN2HTXB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5565,8 +5565,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "JHB",
     "SWIFT Code": "HZCBCN2HJHB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5578,8 +5578,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "LSB",
     "SWIFT Code": "HZCBCN2HLSB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5591,8 +5591,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "NJB",
     "SWIFT Code": "HZCBCN2HNJB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5604,8 +5604,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "CXB",
     "SWIFT Code": "HZCBCN2HCXB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5617,8 +5617,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "HZCBCN2HNBB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5630,8 +5630,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "YYB",
     "SWIFT Code": "HZCBCN2HYYB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5643,8 +5643,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "QZB",
     "SWIFT Code": "HZCBCN2HQZB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5656,8 +5656,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "HZCBCN2HFTU",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5669,8 +5669,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "SHB",
     "SWIFT Code": "HZCBCN2HSHB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5682,8 +5682,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "ZMB",
     "SWIFT Code": "HZCBCN2HZMB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5695,8 +5695,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "SXB",
     "SWIFT Code": "HZCBCN2HSXB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5708,8 +5708,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "SZB",
     "SWIFT Code": "HZCBCN2HSZB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5721,8 +5721,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "TZB",
     "SWIFT Code": "HZCBCN2HTZB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5734,8 +5734,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "WZB",
     "SWIFT Code": "HZCBCN2HWZB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5747,8 +5747,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HZCB",
-    "bankCode": "CN",
+    "bankCode": "HZCB",
+    "countryCode": "CN",
     "branchCode": "ZSB",
     "SWIFT Code": "HZCBCN2HZSB",
     "Bank Name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
@@ -5760,8 +5760,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "312",
     "SWIFT Code": "BKSHCNBJ312",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -5773,8 +5773,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "317",
     "SWIFT Code": "BKSHCNBJ317",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -5786,8 +5786,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "314",
     "SWIFT Code": "BKSHCNBJ314",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -5799,8 +5799,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "310",
     "SWIFT Code": "BKSHCNBJ310",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -5812,8 +5812,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "318",
     "SWIFT Code": "BKSHCNBJ318",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -5825,8 +5825,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSH",
-    "bankCode": "CN",
+    "bankCode": "BKSH",
+    "countryCode": "CN",
     "branchCode": "316",
     "SWIFT Code": "BKSHCNBJ316",
     "Bank Name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
@@ -5838,8 +5838,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "212",
     "SWIFT Code": "CIBKCNBJ212",
     "Bank Name": "CHINA CITIC BANK",
@@ -5851,8 +5851,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "316",
     "SWIFT Code": "CIBKCNBJ316",
     "Bank Name": "CHINA CITIC BANK",
@@ -5864,8 +5864,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "412",
     "SWIFT Code": "CIBKCNBJ412",
     "Bank Name": "CHINA CITIC BANK",
@@ -5877,8 +5877,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "255",
     "SWIFT Code": "CIBKCNBJ255",
     "Bank Name": "CHINA CITIC BANK",
@@ -5890,8 +5890,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCTG",
-    "bankCode": "CN",
+    "bankCode": "CCTG",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CCTGCNBJ",
     "Bank Name": "CHINA COAL TECHNOLOGY AND ENGINEERING GROUP CORP.",
@@ -5903,8 +5903,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HUY",
     "SWIFT Code": "PCBCCNBJHUY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5916,8 +5916,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "UZX",
     "SWIFT Code": "PCBCCNBJUZX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5929,8 +5929,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "QHX",
     "SWIFT Code": "PCBCCNBJQHX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5942,8 +5942,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "YNX",
     "SWIFT Code": "PCBCCNBJYNX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5955,8 +5955,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LNA",
     "SWIFT Code": "PCBCCNBJLNA",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5968,8 +5968,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBB",
     "SWIFT Code": "PCBCCNBJHBB",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5981,8 +5981,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "PCBCCNBJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -5994,8 +5994,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBG",
-    "bankCode": "CN",
+    "bankCode": "CCBG",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CCBGCNBJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6007,8 +6007,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HYX",
     "SWIFT Code": "PCBCCNBJHYX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6020,8 +6020,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "BJX",
     "SWIFT Code": "PCBCCNBJBJX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6033,8 +6033,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "CDR",
     "SWIFT Code": "PCBCCNBJCDR",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6046,8 +6046,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "COS",
     "SWIFT Code": "PCBCCNBJCOS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6059,8 +6059,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GIS",
     "SWIFT Code": "PCBCCNBJGIS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6072,8 +6072,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GPS",
     "SWIFT Code": "PCBCCNBJGPS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6085,8 +6085,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LHM",
     "SWIFT Code": "PCBCCNBJLHM",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6098,8 +6098,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ICC",
     "SWIFT Code": "PCBCCNBJICC",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6111,8 +6111,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HOT",
     "SWIFT Code": "PCBCCNBJHOT",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6124,8 +6124,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDB",
     "SWIFT Code": "PCBCCNBJSDB",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6137,8 +6137,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HUX",
     "SWIFT Code": "PCBCCNBJHUX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6150,8 +6150,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSC",
     "SWIFT Code": "PCBCCNBJJSC",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6163,8 +6163,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDC",
     "SWIFT Code": "PCBCCNBJGDC",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6176,8 +6176,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SCX",
     "SWIFT Code": "PCBCCNBJSCX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6189,8 +6189,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "CQX",
     "SWIFT Code": "PCBCCNBJCQX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6202,8 +6202,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "DLX",
     "SWIFT Code": "PCBCCNBJDLX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6215,8 +6215,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LND",
     "SWIFT Code": "PCBCCNBJLND",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6228,8 +6228,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LJD",
     "SWIFT Code": "PCBCCNBJLJD",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6241,8 +6241,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDD",
     "SWIFT Code": "PCBCCNBJSDD",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6254,8 +6254,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDD",
     "SWIFT Code": "PCBCCNBJGDD",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6267,8 +6267,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDY",
     "SWIFT Code": "PCBCCNBJSDY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6280,8 +6280,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDF",
     "SWIFT Code": "PCBCCNBJGDF",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6293,8 +6293,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FJX",
     "SWIFT Code": "PCBCCNBJFJX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6306,8 +6306,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FFX",
     "SWIFT Code": "PCBCCNBJFFX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6319,8 +6319,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FJA",
     "SWIFT Code": "PCBCCNBJFJA",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6332,8 +6332,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FJF",
     "SWIFT Code": "PCBCCNBJFJF",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6345,8 +6345,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDX",
     "SWIFT Code": "PCBCCNBJGDX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6358,8 +6358,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HNX",
     "SWIFT Code": "PCBCCNBJHNX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6371,8 +6371,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBH",
     "SWIFT Code": "PCBCCNBJHBH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6384,8 +6384,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJY",
     "SWIFT Code": "PCBCCNBJZJY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6397,8 +6397,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJX",
     "SWIFT Code": "PCBCCNBJZJX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6410,8 +6410,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HRX",
     "SWIFT Code": "PCBCCNBJHRX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6423,8 +6423,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LJX",
     "SWIFT Code": "PCBCCNBJLJX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6436,8 +6436,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "AHX",
     "SWIFT Code": "PCBCCNBJAHX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6449,8 +6449,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LJH",
     "SWIFT Code": "PCBCCNBJLJH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6462,8 +6462,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "YNH",
     "SWIFT Code": "PCBCCNBJYNH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6475,8 +6475,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSH",
     "SWIFT Code": "PCBCCNBJJSH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -6488,8 +6488,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IAN",
     "SWIFT Code": "COMMCNSHIAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6501,8 +6501,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IYG",
     "SWIFT Code": "COMMCNSHIYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6514,8 +6514,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ITN",
     "SWIFT Code": "COMMCNSHITN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6527,8 +6527,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IXI",
     "SWIFT Code": "COMMCNSHIXI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6540,8 +6540,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ING",
     "SWIFT Code": "COMMCNSHING",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6553,8 +6553,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IYA",
     "SWIFT Code": "COMMCNSHIYA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6566,8 +6566,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IGN",
     "SWIFT Code": "COMMCNSHIGN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6579,8 +6579,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ILG",
     "SWIFT Code": "COMMCNSHILG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6592,8 +6592,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ITI",
     "SWIFT Code": "COMMCNSHITI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6605,8 +6605,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IXG",
     "SWIFT Code": "COMMCNSHIXG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6618,8 +6618,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IYB",
     "SWIFT Code": "COMMCNSHIYB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6631,8 +6631,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IYU",
     "SWIFT Code": "COMMCNSHIYU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6644,8 +6644,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IIN",
     "SWIFT Code": "COMMCNSHIIN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6657,8 +6657,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ICG",
     "SWIFT Code": "COMMCNSHICG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6670,8 +6670,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "UCG",
     "SWIFT Code": "COMMCNSHUCG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6683,8 +6683,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IUZ",
     "SWIFT Code": "COMMCNSHIUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6696,8 +6696,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YAA",
     "SWIFT Code": "COMMCNSHYAA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6709,8 +6709,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YBN",
     "SWIFT Code": "COMMCNSHYBN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6722,8 +6722,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YCA",
     "SWIFT Code": "COMMCNSHYCA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6735,8 +6735,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YQN",
     "SWIFT Code": "COMMCNSHYQN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6748,8 +6748,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YAN",
     "SWIFT Code": "COMMCNSHYAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6761,8 +6761,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YTI",
     "SWIFT Code": "COMMCNSHYTI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6774,8 +6774,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YBA",
     "SWIFT Code": "COMMCNSHYBA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6787,8 +6787,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YCG",
     "SWIFT Code": "COMMCNSHYCG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6800,8 +6800,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YCC",
     "SWIFT Code": "COMMCNSHYCC",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6813,8 +6813,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YCN",
     "SWIFT Code": "COMMCNSHYCN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6826,8 +6826,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YKU",
     "SWIFT Code": "COMMCNSHYKU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6839,8 +6839,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YWU",
     "SWIFT Code": "COMMCNSHYWU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6852,8 +6852,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YYA",
     "SWIFT Code": "COMMCNSHYYA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6865,8 +6865,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YON",
     "SWIFT Code": "COMMCNSHYON",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6878,8 +6878,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YYG",
     "SWIFT Code": "COMMCNSHYYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6891,8 +6891,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YLA",
     "SWIFT Code": "COMMCNSHYLA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6904,8 +6904,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YLN",
     "SWIFT Code": "COMMCNSHYLN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6917,8 +6917,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YCB",
     "SWIFT Code": "COMMCNSHYCB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6930,8 +6930,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YXI",
     "SWIFT Code": "COMMCNSHYXI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6943,8 +6943,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZZG",
     "SWIFT Code": "COMMCNSHZZG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6956,8 +6956,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZJJ",
     "SWIFT Code": "COMMCNSHZJJ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6969,8 +6969,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZJK",
     "SWIFT Code": "COMMCNSHZJK",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6982,8 +6982,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZHA",
     "SWIFT Code": "COMMCNSHZHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -6995,8 +6995,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZJA",
     "SWIFT Code": "COMMCNSHZJA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7008,8 +7008,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZQG",
     "SWIFT Code": "COMMCNSHZQG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7021,8 +7021,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZTG",
     "SWIFT Code": "COMMCNSHZTG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7034,8 +7034,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZHE",
     "SWIFT Code": "COMMCNSHZHE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7047,8 +7047,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZJG",
     "SWIFT Code": "COMMCNSHZJG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7060,8 +7060,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZSN",
     "SWIFT Code": "COMMCNSHZSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7073,8 +7073,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZSA",
     "SWIFT Code": "COMMCNSHZSA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7086,8 +7086,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HGI",
     "SWIFT Code": "COMMCNSHHGI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7099,8 +7099,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZHI",
     "SWIFT Code": "COMMCNSHZHI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7112,8 +7112,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZHU",
     "SWIFT Code": "COMMCNSHZHU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7125,8 +7125,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ZBO",
     "SWIFT Code": "COMMCNSHZBO",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -7138,8 +7138,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCNBHMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, HARBIN BRANCH",
@@ -7151,8 +7151,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCNBHTSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, HARBIN BRANCH",
@@ -7164,8 +7164,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCNBHTRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, HARBIN BRANCH",
@@ -7177,8 +7177,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CHASCNSH",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
@@ -7190,8 +7190,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "FAX",
     "SWIFT Code": "CHASCNSHFAX",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
@@ -7203,8 +7203,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCNSHMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
@@ -7216,8 +7216,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCNSHTSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
@@ -7229,8 +7229,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCNSHTRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
@@ -7242,8 +7242,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "CHASCNBZ",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHENZHEN BRANCH",
@@ -7255,8 +7255,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCNBZMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHENZHEN BRANCH",
@@ -7268,8 +7268,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CHASCNBS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SUZHOU BRANCH",
@@ -7281,8 +7281,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCNBSMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SUZHOU BRANCH",
@@ -7294,8 +7294,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCNBSTSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SUZHOU BRANCH",
@@ -7307,8 +7307,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCNBSTRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SUZHOU BRANCH",
@@ -7320,8 +7320,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NBX",
     "SWIFT Code": "CHASCNBX",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, TIANJIN BRANCH",
@@ -7333,8 +7333,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "LND",
     "SWIFT Code": "CHASCNBXLND",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, TIANJIN BRANCH",
@@ -7346,8 +7346,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCNBXMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, TIANJIN BRANCH",
@@ -7359,8 +7359,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCNBXTSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, TIANJIN BRANCH",
@@ -7372,8 +7372,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCNBXTRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, TIANJIN BRANCH",
@@ -7385,8 +7385,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEXM",
-    "bankCode": "CN",
+    "bankCode": "KEXM",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "KEXMCNBA",
     "Bank Name": "KAILLEY ENTERPRISE (XIAMEN) CO., LTD.",
@@ -7398,8 +7398,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASI",
-    "bankCode": "CN",
+    "bankCode": "KASI",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "KASICNBS",
     "Bank Name": "KASIKORNBANK (CHINA) COMPANY LIMITED",
@@ -7411,8 +7411,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "CN",
+    "bankCode": "KRED",
+    "countryCode": "CN",
     "branchCode": "NSX",
     "SWIFT Code": "KREDCNSX",
     "Bank Name": "KBC BANK NV",
@@ -7424,8 +7424,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBN",
-    "bankCode": "CN",
+    "bankCode": "HNBN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HNBNCNBJ",
     "Bank Name": "KEB HANA BANK (CHINA) COMPANY LIMITED",
@@ -7437,8 +7437,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBC",
-    "bankCode": "CN",
+    "bankCode": "KCBC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "KCBCCNBT",
     "Bank Name": "KINCHENG BANK OF TIANJIN CO., LTD.",
@@ -7450,8 +7450,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOGR",
-    "bankCode": "CN",
+    "bankCode": "KOGR",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "KOGRCNBS",
     "Bank Name": "KONKA GROUP CO., LTD.",
@@ -7463,8 +7463,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "CN",
+    "bankCode": "CZNB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CZNBCNBJ",
     "Bank Name": "KOOKMIN BANK (CHINA) LIMITED",
@@ -7476,8 +7476,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "CN",
+    "bankCode": "CZNB",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "CZNBCNBJBJG",
     "Bank Name": "KOOKMIN BANK (CHINA) LIMITED",
@@ -7489,8 +7489,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "CN",
+    "bankCode": "CZNB",
+    "countryCode": "CN",
     "branchCode": "GZU",
     "SWIFT Code": "CZNBCNBJGZU",
     "Bank Name": "KOOKMIN BANK (CHINA) LIMITED",
@@ -7502,8 +7502,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "CN",
+    "bankCode": "CZNB",
+    "countryCode": "CN",
     "branchCode": "HRB",
     "SWIFT Code": "CZNBCNBJHRB",
     "Bank Name": "KOOKMIN BANK (CHINA) LIMITED",
@@ -7515,8 +7515,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "CN",
+    "bankCode": "CZNB",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "CZNBCNBJSHA",
     "Bank Name": "KOOKMIN BANK (CHINA) LIMITED",
@@ -7528,8 +7528,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "CN",
+    "bankCode": "CZNB",
+    "countryCode": "CN",
     "branchCode": "SZU",
     "SWIFT Code": "CZNBCNBJSZU",
     "Bank Name": "KOOKMIN BANK (CHINA) LIMITED",
@@ -7541,8 +7541,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "CN",
+    "bankCode": "KODB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "KODBCN22",
     "Bank Name": "KOREA DEVELOPMENT BANK GUANGZHOU BRANCH",
@@ -7554,8 +7554,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "CN",
+    "bankCode": "KODB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "KODBCNBS",
     "Bank Name": "KOREA DEVELOPMENT BANK, SHENYANG BRANCH",
@@ -7567,8 +7567,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "CN",
+    "bankCode": "KODB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "KODBCNSH",
     "Bank Name": "KOREA DEVELOPMENT BANK, THE",
@@ -7580,8 +7580,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "CN",
+    "bankCode": "KODB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "KODBCNBJ",
     "Bank Name": "KOREA DEVELOPMENT BANK., BEIJING BRANCH",
@@ -7593,8 +7593,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "CN",
+    "bankCode": "KODB",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "KODBCNBQ",
     "Bank Name": "KOREA DEVELOPMENT BANK., QINGDAO BRANCH",
@@ -7606,8 +7606,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTKG",
-    "bankCode": "CN",
+    "bankCode": "KTKG",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "KTKGCNBC",
     "Bank Name": "KTK GROUP CO., LTD",
@@ -7619,8 +7619,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCRC",
-    "bankCode": "CN",
+    "bankCode": "KCRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "KCRCCNB2",
     "Bank Name": "KUNMING CHENGGONG RURAL CREDIT COOPERATIVES",
@@ -7632,8 +7632,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YNRC",
-    "bankCode": "CN",
+    "bankCode": "YNRC",
+    "countryCode": "CN",
     "branchCode": "NBK",
     "SWIFT Code": "YNRCCNBK",
     "Bank Name": "KUNMING GUANDU RURAL COOPERATIVE BANK",
@@ -7645,8 +7645,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWDR",
-    "bankCode": "CN",
+    "bankCode": "KWDR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "KWDRCNB2",
     "Bank Name": "KUNMING WUHUA DISTRICT RURAL CREDIT COOPERATIVE",
@@ -7658,8 +7658,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KXRC",
-    "bankCode": "CN",
+    "bankCode": "KXRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "KXRCCNB2",
     "Bank Name": "KUNMING XISHAN RURAL CREDIT COOPERATIVE UNION",
@@ -7671,8 +7671,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSRB",
-    "bankCode": "CN",
+    "bankCode": "KSRB",
+    "countryCode": "CN",
     "branchCode": "NBK",
     "SWIFT Code": "KSRBCNBK",
     "Bank Name": "KUNSHAN RURAL COMMERCIAL BANK",
@@ -7684,8 +7684,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "HZB",
     "SWIFT Code": "LWCBCNBJHZB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7697,8 +7697,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "JNA",
     "SWIFT Code": "LWCBCNBJJNA",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7710,8 +7710,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "JNB",
     "SWIFT Code": "LWCBCNBJJNB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7723,8 +7723,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "LWCBCNBJ",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7736,8 +7736,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "LCB",
     "SWIFT Code": "LWCBCNBJLCB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7749,8 +7749,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "LYB",
     "SWIFT Code": "LWCBCNBJLYB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7762,8 +7762,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "RZB",
     "SWIFT Code": "LWCBCNBJRZB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7775,8 +7775,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "TAB",
     "SWIFT Code": "LWCBCNBJTAB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -7788,8 +7788,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPM",
-    "bankCode": "CN",
+    "bankCode": "CNPM",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CNPMCNBS",
     "Bank Name": "CMB INTERNATIONAL CAPITAL MANAGEMENT (SHENZHEN) LIMITED",
@@ -7801,8 +7801,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBA",
-    "bankCode": "CN",
+    "bankCode": "WUBA",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "WUBACN22",
     "Bank Name": "CMB WING LUNG BANK LIMITED GUANGZHOU BRANCH",
@@ -7814,8 +7814,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBA",
-    "bankCode": "CN",
+    "bankCode": "WUBA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "WUBACNSH",
     "Bank Name": "CMB WING LUNG BANK LIMITED SHANGHAI BRANCH",
@@ -7827,8 +7827,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBA",
-    "bankCode": "CN",
+    "bankCode": "WUBA",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "WUBACNBS",
     "Bank Name": "CMB WING LUNG BANK LIMITED SHENZHEN BRANCH",
@@ -7840,8 +7840,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOO",
-    "bankCode": "CN",
+    "bankCode": "CNOO",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CNOOCNBJ",
     "Bank Name": "CNOOC FINANCE CORPORATION LIMITED",
@@ -7853,8 +7853,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFFC",
-    "bankCode": "CN",
+    "bankCode": "CFFC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CFFCCNBJ",
     "Bank Name": "COFCO FINANCE CORPORATION LIMITED",
@@ -7866,8 +7866,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "CN",
+    "bankCode": "COBA",
+    "countryCode": "CN",
     "branchCode": "NSX",
     "SWIFT Code": "COBACNSX",
     "Bank Name": "COMMERZBANK AG",
@@ -7879,8 +7879,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "CN",
+    "bankCode": "COBA",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "COBACNBJ",
     "Bank Name": "COMMERZBANK AG BEIJING BRANCH",
@@ -7892,8 +7892,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "CN",
+    "bankCode": "CTBA",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CTBACNBJ",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -7905,8 +7905,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "CN",
+    "bankCode": "CTBA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CTBACNSH",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -7918,8 +7918,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "CN",
+    "bankCode": "RABO",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "RABOCNSH",
     "Bank Name": "COOPERATIEVE RABOBANK U.A. SHANGHAI BRANCH",
@@ -7931,8 +7931,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFI",
-    "bankCode": "CN",
+    "bankCode": "CSFI",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CSFICNSH",
     "Bank Name": "COSCO SHIPPING FINANCE CO., LTD",
@@ -7944,8 +7944,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRFP",
-    "bankCode": "CN",
+    "bankCode": "CRFP",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CRFPCNBJ",
     "Bank Name": "CRCC FINANCE COMPANY LIMITED",
@@ -7957,8 +7957,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "CN",
+    "bankCode": "CRLY",
+    "countryCode": "CN",
     "branchCode": "COM",
     "SWIFT Code": "CRLYCNSHCOM",
     "Bank Name": "CREDIT AGRICOLE (CHINA) CO., LTD.",
@@ -7970,8 +7970,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "CN",
+    "bankCode": "CRLY",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CRLYCNSH",
     "Bank Name": "CREDIT AGRICOLE CIB (CHINA) LIMITED",
@@ -7983,8 +7983,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CN",
+    "bankCode": "CRES",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CRESCNSH",
     "Bank Name": "CREDIT SUISSE AG SHANGHAI BRANCH",
@@ -7996,8 +7996,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIPS",
-    "bankCode": "CN",
+    "bankCode": "CIPS",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CIPSCNSH",
     "Bank Name": "CROSS-BORDER INTERBANK PAYMENT SYSTEM",
@@ -8009,8 +8009,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CN",
+    "bankCode": "CTCB",
+    "countryCode": "CN",
     "branchCode": "869",
     "SWIFT Code": "CTCBCNSH869",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -8022,8 +8022,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CN",
+    "bankCode": "CTCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CTCBCNSH",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -8035,8 +8035,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CN",
+    "bankCode": "CTCB",
+    "countryCode": "CN",
     "branchCode": "870",
     "SWIFT Code": "CTCBCNSH870",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -8048,8 +8048,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CN",
+    "bankCode": "CTCB",
+    "countryCode": "CN",
     "branchCode": "859",
     "SWIFT Code": "CTCBCNSH859",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -8061,8 +8061,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CN",
+    "bankCode": "CTCB",
+    "countryCode": "CN",
     "branchCode": "860",
     "SWIFT Code": "CTCBCNSH860",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -8074,8 +8074,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "CN",
+    "bankCode": "CTCB",
+    "countryCode": "CN",
     "branchCode": "868",
     "SWIFT Code": "CTCBCNSH868",
     "Bank Name": "CTBC BANK CO., LTD",
@@ -8087,8 +8087,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAEB",
-    "bankCode": "CN",
+    "bankCode": "DAEB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "DAEBCNSH",
     "Bank Name": "DAEGU BANK LTD, SHANGHAI BRANCH",
@@ -8100,8 +8100,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSBA",
-    "bankCode": "CN",
+    "bankCode": "DSBA",
+    "countryCode": "CN",
     "branchCode": "NCH",
     "SWIFT Code": "DSBACNBXNCH",
     "Bank Name": "DAH SING BANK (CHINA) LIMITED",
@@ -8113,8 +8113,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSBA",
-    "bankCode": "CN",
+    "bankCode": "DSBA",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "DSBACNBXSHA",
     "Bank Name": "DAH SING BANK (CHINA) LIMITED",
@@ -8126,8 +8126,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSBA",
-    "bankCode": "CN",
+    "bankCode": "DSBA",
+    "countryCode": "CN",
     "branchCode": "NBX",
     "SWIFT Code": "DSBACNBX",
     "Bank Name": "DAH SING BANK (CHINA) LIMITED",
@@ -8139,8 +8139,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSBA",
-    "bankCode": "CN",
+    "bankCode": "DSBA",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "DSBACNB2",
     "Bank Name": "DAH SING BANKLIMITED SHENZHEN BRAN",
@@ -8152,8 +8152,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHHI",
-    "bankCode": "CN",
+    "bankCode": "DHHI",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "DHHICNBD",
     "Bank Name": "DALIAN HUARUI HEAVY INDUSTRY GROUP CO., LTD.",
@@ -8165,8 +8165,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "DBSSCNSHBJG",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8178,8 +8178,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "CQU",
     "SWIFT Code": "DBSSCNSHCQU",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8191,8 +8191,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "DGN",
     "SWIFT Code": "DBSSCNSHDGN",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8204,8 +8204,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "GZU",
     "SWIFT Code": "DBSSCNSHGZU",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8217,8 +8217,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "HZU",
     "SWIFT Code": "DBSSCNSHHZU",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8230,8 +8230,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "NNG",
     "SWIFT Code": "DBSSCNSHNNG",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8243,8 +8243,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "DBSSCNSHQDO",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8256,8 +8256,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "DBSSCNSHFTZ",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8269,8 +8269,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "IBD",
     "SWIFT Code": "DBSSCNSHIBD",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8282,8 +8282,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "OFI",
     "SWIFT Code": "DBSSCNSHOFI",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8295,8 +8295,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "DBSSCNSH",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8308,8 +8308,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "DBSSCNSHSZN",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8321,8 +8321,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "SUU",
     "SWIFT Code": "DBSSCNSHSUU",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8334,8 +8334,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "DBSSCNSHTJN",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8347,8 +8347,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "CN",
+    "bankCode": "DBSS",
+    "countryCode": "CN",
     "branchCode": "SAN",
     "SWIFT Code": "DBSSCNSHSAN",
     "Bank Name": "DBS BANK (CHINA) LIMITED",
@@ -8360,8 +8360,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSR",
-    "bankCode": "CN",
+    "bankCode": "DBSR",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "DBSRCNS2",
     "Bank Name": "DBS SECURITIES(CHINA) CO., LTD.",
@@ -8373,8 +8373,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELG",
-    "bankCode": "CN",
+    "bankCode": "DELG",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "DELGCNBN",
     "Bank Name": "DELI GROUP CO., LTD.",
@@ -8386,8 +8386,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DQBK",
-    "bankCode": "CN",
+    "bankCode": "DQBK",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "DQBKCNBD",
     "Bank Name": "DEQING RURAL COMMERCIAL BANK",
@@ -8399,8 +8399,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "DEUTCNSHBJG",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -8412,8 +8412,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "DEUTCNBJ",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -8425,8 +8425,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "DEUTCNSHCQG",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -8438,8 +8438,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBJ",
-    "bankCode": "CN",
+    "bankCode": "RCBJ",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "RCBJCNBJ",
     "Bank Name": "JIANGSU JINGJIANG RURAL COMMERCIAL BANK CO., LTD",
@@ -8451,8 +8451,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JLRO",
-    "bankCode": "CN",
+    "bankCode": "JLRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JLROCNB2",
     "Bank Name": "JIANGSU LIANSHUI RURAL COMMERCIAL BANK CO.,LTD",
@@ -8464,8 +8464,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JLRC",
-    "bankCode": "CN",
+    "bankCode": "JLRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JLRCCNB2",
     "Bank Name": "JIANGSU LISHUI RURAL COMMERCIAL BANK CO.",
@@ -8477,8 +8477,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRCB",
-    "bankCode": "CN",
+    "bankCode": "NRCB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NRCBCNBN",
     "Bank Name": "JIANGSU NANTONG RURAL COMMERCIAL BANK CO., LTD",
@@ -8490,8 +8490,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PZCB",
-    "bankCode": "CN",
+    "bankCode": "PZCB",
+    "countryCode": "CN",
     "branchCode": "NBP",
     "SWIFT Code": "PZCBCNBP",
     "Bank Name": "JIANGSU PIZHOU RURAL COMMERCIAL BANK",
@@ -8503,8 +8503,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RRCB",
-    "bankCode": "CN",
+    "bankCode": "RRCB",
+    "countryCode": "CN",
     "branchCode": "NBR",
     "SWIFT Code": "RRCBCNBR",
     "Bank Name": "JIANGSU RUDONG RURAL COMMERCIAL BANK CO., LTD.",
@@ -8516,8 +8516,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGCB",
-    "bankCode": "CN",
+    "bankCode": "RGCB",
+    "countryCode": "CN",
     "branchCode": "NBR",
     "SWIFT Code": "RGCBCNBR",
     "Bank Name": "JIANGSU RUGAO RURAL COMMERCIAL BANK",
@@ -8529,8 +8529,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JRCU",
-    "bankCode": "CN",
+    "bankCode": "JRCU",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JRCUCNB2",
     "Bank Name": "JIANGSU RURAL CREDIT UNION",
@@ -8542,8 +8542,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSCB",
-    "bankCode": "CN",
+    "bankCode": "JSCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "JSCBCNSH",
     "Bank Name": "JIANGSU SHEYANG RURAL COMMERCIAL BANK CO.,LTD.",
@@ -8555,8 +8555,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSRO",
-    "bankCode": "CN",
+    "bankCode": "JSRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JSROCNB2",
     "Bank Name": "JIANGSU SIHONG RURAL COMMERCIAL BANK CO., LTD",
@@ -8568,8 +8568,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WJRB",
-    "bankCode": "CN",
+    "bankCode": "WJRB",
+    "countryCode": "CN",
     "branchCode": "NBW",
     "SWIFT Code": "WJRBCNBW",
     "Bank Name": "JIANGSU SUZHOU RURAL COMMERCIAL BANK CO., LTD (FORMERLY JIANGSU WUJIANG RURAL COMMERCIAL BANK)",
@@ -8581,8 +8581,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTRC",
-    "bankCode": "CN",
+    "bankCode": "JTRC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "JTRCCNBT",
     "Bank Name": "JIANGSU TAIXING RURAL COMMERCIAL BANK",
@@ -8594,8 +8594,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTRO",
-    "bankCode": "CN",
+    "bankCode": "JTRO",
+    "countryCode": "CN",
     "branchCode": "NST",
     "SWIFT Code": "JTROCNST",
     "Bank Name": "JIANGSU TAIZHOU RURAL COMMERCIAL BANK CO.,LTD",
@@ -8607,8 +8607,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBX",
-    "bankCode": "CN",
+    "bankCode": "RCBX",
+    "countryCode": "CN",
     "branchCode": "NBX",
     "SWIFT Code": "RCBXCNBX",
     "Bank Name": "JIANGSU XINGHUA RURAL COMMERCIAL BANK CO.,LTD",
@@ -8620,8 +8620,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JXRO",
-    "bankCode": "CN",
+    "bankCode": "JXRO",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "JXROCNBB",
     "Bank Name": "JIANGSU XINYI RURAL COMMERCIAL BANK CO., LTD",
@@ -8633,8 +8633,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JXRR",
-    "bankCode": "CN",
+    "bankCode": "JXRR",
+    "countryCode": "CN",
     "branchCode": "NBR",
     "SWIFT Code": "JXRRCNBR",
     "Bank Name": "JIANGSU XUYI RURAL COMMERCIAL BANK CO.,LTD",
@@ -8646,8 +8646,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYHR",
-    "bankCode": "CN",
+    "bankCode": "JYHR",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "JYHRCNBC",
     "Bank Name": "JIANGSU YANCHENG RURAL COMMERCIAL BANK CO., LTD",
@@ -8659,8 +8659,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YZRC",
-    "bankCode": "CN",
+    "bankCode": "YZRC",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "YZRCCNBY",
     "Bank Name": "JIANGSU YANGZHOU RURAL COMMERCIAL BANK",
@@ -8672,8 +8672,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "URCC",
-    "bankCode": "CN",
+    "bankCode": "URCC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "URCCCNSH",
     "Bank Name": "JIANGSU YIXING RURAL COMMERCIAL BANK CO,.LTD",
@@ -8685,8 +8685,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBZ",
-    "bankCode": "CN",
+    "bankCode": "RCBZ",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "RCBZCNSH",
     "Bank Name": "JIANGSU ZHANGJIAGANG RURAL COMMERCIAL BANK CO.,LTD.",
@@ -8698,8 +8698,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JRZC",
-    "bankCode": "CN",
+    "bankCode": "JRZC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "JRZCCNBN",
     "Bank Name": "JIANGSU ZIJIN RURAL COMMERCIAL BANK CO., LTD.",
@@ -8711,8 +8711,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCK",
-    "bankCode": "CN",
+    "bankCode": "NCCK",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NCCKCNBN",
     "Bank Name": "JIANGXI BANK",
@@ -8724,8 +8724,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JDRC",
-    "bankCode": "CN",
+    "bankCode": "JDRC",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "JDRCCNBY",
     "Bank Name": "JILIN DUNHUA RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -8737,8 +8737,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCRR",
-    "bankCode": "CN",
+    "bankCode": "HCRR",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HCRRCNBH",
     "Bank Name": "JILIN HUNCHUN RURAL COMMERCIAL BANK",
@@ -8750,8 +8750,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTCB",
-    "bankCode": "CN",
+    "bankCode": "JTCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "JTCBCNBJ",
     "Bank Name": "JILIN JIUTAI RURAL COMMERCIAL BANK CO.,LTD",
@@ -8763,8 +8763,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFBK",
-    "bankCode": "CN",
+    "bankCode": "RFBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "RFBKCNBJ",
     "Bank Name": "JINAN RURAL COMMERCIAL BANK CO.,LTD",
@@ -8776,8 +8776,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JIRM",
-    "bankCode": "CN",
+    "bankCode": "JIRM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JIRMCNB2",
     "Bank Name": "JINGDEZHEN RURAL COMMERCIAL BANK CO., LTD",
@@ -8789,8 +8789,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JISO",
-    "bankCode": "CN",
+    "bankCode": "JISO",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "JISOCNSH",
     "Bank Name": "JINKO SOLAR CO., LTD.",
@@ -8802,8 +8802,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JRCP",
-    "bankCode": "CN",
+    "bankCode": "JRCP",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JRCPCNB2",
     "Bank Name": "JINPING RURAL CREDIT COOPERATIVES",
@@ -8815,8 +8815,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSHB",
-    "bankCode": "CN",
+    "bankCode": "JSHB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "JSHBCNBJ",
     "Bank Name": "JINSHANGBANK CO.,LTD",
@@ -8828,8 +8828,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYPS",
-    "bankCode": "CN",
+    "bankCode": "JYPS",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JYPSCNB2",
     "Bank Name": "JINYUAN PRESIDENT SECURITIES CO., LTD",
@@ -8841,8 +8841,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOGI",
-    "bankCode": "CN",
+    "bankCode": "JOGI",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "JOGICNBH",
     "Bank Name": "JIUSAN OILS AND GRAINS INDUSTRIES GROUP CO., LTD.",
@@ -8854,8 +8854,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CHASCNBJ",
     "Bank Name": "JP MORGAN CHASE BANK (CHINA) COMPANY LIMITED",
@@ -8867,8 +8867,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "BUL",
     "SWIFT Code": "CHASCNBJBUL",
     "Bank Name": "JP MORGAN CHASE BANK (CHINA) COMPANY LIMITED",
@@ -8880,8 +8880,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "LOC",
     "SWIFT Code": "CHASCNBJLOC",
     "Bank Name": "JP MORGAN CHASE BANK (CHINA) COMPANY LIMITED",
@@ -8893,8 +8893,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCNBJTRO",
     "Bank Name": "JP MORGAN CHASE BANK (CHINA) COMPANY LIMITED",
@@ -8906,8 +8906,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "CHASCNS2",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) CO LTD-SHANGHAI FTU",
@@ -8919,8 +8919,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "CHASCN22",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED BEJING BRANCH",
@@ -8932,8 +8932,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCN22TRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED BEJING BRANCH",
@@ -8945,8 +8945,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCN22MTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED BEJING BRANCH",
@@ -8958,8 +8958,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCN22TSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED BEJING BRANCH",
@@ -8971,8 +8971,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CHASCNBC",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, CHENGDU BRANCH",
@@ -8984,8 +8984,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCNBCMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, CHENGDU BRANCH",
@@ -8997,8 +8997,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCNBCTSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, CHENGDU BRANCH",
@@ -9010,8 +9010,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCNBCTRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, CHENGDU BRANCH",
@@ -9023,8 +9023,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "N2G",
     "SWIFT Code": "CHASCN2G",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, GUANGZHOU BRANCH",
@@ -9036,8 +9036,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "MTS",
     "SWIFT Code": "CHASCN2GMTS",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, GUANGZHOU BRANCH",
@@ -9049,8 +9049,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TSD",
     "SWIFT Code": "CHASCN2GTSD",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, GUANGZHOU BRANCH",
@@ -9062,8 +9062,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "TRO",
     "SWIFT Code": "CHASCN2GTRO",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, GUANGZHOU BRANCH",
@@ -9075,8 +9075,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CN",
+    "bankCode": "CHAS",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "CHASCNBH",
     "Bank Name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, HARBIN BRANCH",
@@ -9088,8 +9088,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCIG",
-    "bankCode": "CN",
+    "bankCode": "XCIG",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "XCIGCNBJ",
     "Bank Name": "XINXING CATHAY INTERNATIONAL GROUP FINANCE CO.,LTD.",
@@ -9101,8 +9101,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IYRC",
-    "bankCode": "CN",
+    "bankCode": "IYRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "IYRCCNB2",
     "Bank Name": "XINYU RURAL COMMERCIAL BANK CO., LTD",
@@ -9114,8 +9114,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HHRC",
-    "bankCode": "CN",
+    "bankCode": "HHRC",
+    "countryCode": "CN",
     "branchCode": "NBX",
     "SWIFT Code": "HHRCCNBX",
     "Bank Name": "XUZHOU RURAL COMMERCIAL BANK CO.,LTD",
@@ -9127,8 +9127,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMBK",
-    "bankCode": "CN",
+    "bankCode": "YMBK",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "YMBKCNBD",
     "Bank Name": "YAMAGUCHI BANK, LTD., THE, DALIAN BRANCH",
@@ -9140,8 +9140,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMBK",
-    "bankCode": "CN",
+    "bankCode": "YMBK",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "YMBKCNBQ",
     "Bank Name": "YAMAGUCHI BANK, LTD., THE, QINGDAO BRANCH",
@@ -9153,8 +9153,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YBRC",
-    "bankCode": "CN",
+    "bankCode": "YBRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "YBRCCNBJ",
     "Bank Name": "YANBIAN RURAL COMMERCIAL BANK",
@@ -9166,8 +9166,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YGAI",
-    "bankCode": "CN",
+    "bankCode": "YGAI",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "YGAICNSH",
     "Bank Name": "YANFENG INTERNATIONAL AUTOMOTIVE TECHNOLOGY CO,.LTD.",
@@ -9179,8 +9179,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOFC",
-    "bankCode": "CN",
+    "bankCode": "YOFC",
+    "countryCode": "CN",
     "branchCode": "NBW",
     "SWIFT Code": "YOFCCNBW",
     "Bank Name": "YANGTZE OPTICAL FIBRE AND CABLE JOINT STOCK LIMITED COMPANY",
@@ -9192,8 +9192,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YTCB",
-    "bankCode": "CN",
+    "bankCode": "YTCB",
+    "countryCode": "CN",
     "branchCode": "00A",
     "SWIFT Code": "YTCBCNSD00A",
     "Bank Name": "YANTAI BANK CO., LTD.",
@@ -9205,8 +9205,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YTCB",
-    "bankCode": "CN",
+    "bankCode": "YTCB",
+    "countryCode": "CN",
     "branchCode": "NSD",
     "SWIFT Code": "YTCBCNSD",
     "Bank Name": "YANTAI BANK CO., LTD.",
@@ -9218,8 +9218,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YJPE",
-    "bankCode": "CN",
+    "bankCode": "YJPE",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "YJPECNBY",
     "Bank Name": "YANTAI JEREH PETROLEUM EQUIPMENT AND TECHNOLOGIES CO., LTD",
@@ -9231,8 +9231,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZFRB",
-    "bankCode": "CN",
+    "bankCode": "ZFRB",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "ZFRBCNBQ",
     "Bank Name": "YANTAI RURAL COMMERCIAL BANK CO.,LTD",
@@ -9244,8 +9244,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YICH",
-    "bankCode": "CN",
+    "bankCode": "YICH",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YICHCNB2",
     "Bank Name": "YICHUN RURAL COMMERCIAL BANK CO., LTD",
@@ -9257,8 +9257,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YIRC",
-    "bankCode": "CN",
+    "bankCode": "YIRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YIRCCNB2",
     "Bank Name": "YINGTAN RURAL COMMERCIAL BANK CO., LTD",
@@ -9270,8 +9270,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YZBK",
-    "bankCode": "CN",
+    "bankCode": "YZBK",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "YZBKCN2N",
     "Bank Name": "YINZHOU BANK",
@@ -9283,8 +9283,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YACR",
-    "bankCode": "CN",
+    "bankCode": "YACR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YACRCNB2",
     "Bank Name": "YUNNAN ANNING CHOUZHOU RURAL COMMERCIAL BANK",
@@ -9296,8 +9296,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YBRO",
-    "bankCode": "CN",
+    "bankCode": "YBRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YBROCNB2",
     "Bank Name": "YUNNAN BINCHUAN RURAL COMMERCIAL BANK CO., LTD",
@@ -9309,8 +9309,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YCRC",
-    "bankCode": "CN",
+    "bankCode": "YCRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YCRCCNB2",
     "Bank Name": "YUNNAN CHANGNING RURAL COMMERCIAL BANK CO.,LTD",
@@ -9322,8 +9322,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YCRO",
-    "bankCode": "CN",
+    "bankCode": "YCRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YCROCNB2",
     "Bank Name": "YUNNAN CHUXIONG RURAL COMMERCIAL BANK CO., LTD",
@@ -9335,8 +9335,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YDCR",
-    "bankCode": "CN",
+    "bankCode": "YDCR",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "YDCRCNBD",
     "Bank Name": "YUNNAN DALI CITY RURAL COMMERCIAL BANK CO., LTD.",
@@ -9348,8 +9348,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YFRC",
-    "bankCode": "CN",
+    "bankCode": "YFRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YFRCCNB2",
     "Bank Name": "YUNNAN FENGQING RURAL COMMERCIAL BANK CO.,LTD",
@@ -9361,8 +9361,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YUNH",
-    "bankCode": "CN",
+    "bankCode": "YUNH",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "YUNHCNBY",
     "Bank Name": "YUNNAN HONGTA BANK CO., LTD.",
@@ -9374,8 +9374,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YJRO",
-    "bankCode": "CN",
+    "bankCode": "YJRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YJROCNB2",
     "Bank Name": "YUNNAN JINGDONG RURAL COMMERCIAL BANK CO.,LTD",
@@ -9387,8 +9387,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YJRC",
-    "bankCode": "CN",
+    "bankCode": "YJRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YJRCCNB2",
     "Bank Name": "YUNNAN JINGHONG RURAL COMMERCIAL BANK CO.,LTD",
@@ -9400,8 +9400,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YLLR",
-    "bankCode": "CN",
+    "bankCode": "YLLR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YLLRCNB2",
     "Bank Name": "YUNNAN LINCANG LINXIANG RURAL COMMERCIAL BANK CO.,LTD.",
@@ -9413,8 +9413,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YLRC",
-    "bankCode": "CN",
+    "bankCode": "YLRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YLRCCNB2",
     "Bank Name": "YUNNAN LONGCHUAN RURAL COMMERCIAL BANK CO.,LTD",
@@ -9426,8 +9426,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMRR",
-    "bankCode": "CN",
+    "bankCode": "YMRR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YMRRCNB2",
     "Bank Name": "YUNNAN MAGUAN RURAL COMMERCIAL BANK CO., LTD",
@@ -9439,8 +9439,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMRO",
-    "bankCode": "CN",
+    "bankCode": "YMRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YMROCNB2",
     "Bank Name": "YUNNAN MANGSHI  RURAL COMMERCIAL BANK CO., LTD",
@@ -9452,8 +9452,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMRE",
-    "bankCode": "CN",
+    "bankCode": "YMRE",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YMRECNB2",
     "Bank Name": "YUNNAN MENGZI RURAL COMMERCIAL BANK CO., LTD",
@@ -9465,8 +9465,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMRM",
-    "bankCode": "CN",
+    "bankCode": "YMRM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YMRMCNB2",
     "Bank Name": "YUNNAN MILE RURAL COMMERCIAL BANK CO., LTD",
@@ -9478,8 +9478,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YPSR",
-    "bankCode": "CN",
+    "bankCode": "YPSR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YPSRCNB2",
     "Bank Name": "YUNNAN PUER SIMAO RURAL COMMERCIAL BANK CO.,LTD",
@@ -9491,8 +9491,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YSRC",
-    "bankCode": "CN",
+    "bankCode": "YSRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YSRCCNB2",
     "Bank Name": "YUNNAN SONGMING RURAL COMMERCIAL BANK CO., LTD",
@@ -9504,8 +9504,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YTRC",
-    "bankCode": "CN",
+    "bankCode": "YTRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YTRCCNB2",
     "Bank Name": "YUNNAN TENGCHONG RURAL COMMERCIAL BANK CO.,LTD",
@@ -9517,8 +9517,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YTRO",
-    "bankCode": "CN",
+    "bankCode": "YTRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YTROCNB2",
     "Bank Name": "YUNNAN TONGHAI RURAL COMMERCIAL BANK CO., LTD",
@@ -9530,8 +9530,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YWRC",
-    "bankCode": "CN",
+    "bankCode": "YWRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YWRCCNB2",
     "Bank Name": "YUNNAN WENSHAN RURAL COMMERCIAL BANK CO., LTD",
@@ -9543,8 +9543,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YXRC",
-    "bankCode": "CN",
+    "bankCode": "YXRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YXRCCNB2",
     "Bank Name": "YUNNAN XIANGYUN RURAL COMMERCIAL BANK CO.,LTD",
@@ -9556,8 +9556,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YYRC",
-    "bankCode": "CN",
+    "bankCode": "YYRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YYRCCNB2",
     "Bank Name": "YUNNAN YINGJIANG RURAL COMMERCIAL BANK CO., LTD",
@@ -9569,8 +9569,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YYRM",
-    "bankCode": "CN",
+    "bankCode": "YYRM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YYRMCNB2",
     "Bank Name": "YUNNAN YONGSHENG RURAL COMMERCIAL BANK CO.,LTD",
@@ -9582,8 +9582,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YYRO",
-    "bankCode": "CN",
+    "bankCode": "YYRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YYROCNB2",
     "Bank Name": "YUNNAN YULONG RURAL COMMERCIAL BANK CO., LTD",
@@ -9595,8 +9595,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YYHR",
-    "bankCode": "CN",
+    "bankCode": "YYHR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "YYHRCNB2",
     "Bank Name": "YUNNAN YUXI HONGTA RURAL COMMERCIAL BANK CO.,LTD",
@@ -9608,8 +9608,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YUCC",
-    "bankCode": "CN",
+    "bankCode": "YUCC",
+    "countryCode": "CN",
     "branchCode": "NBK",
     "SWIFT Code": "YUCCCNBK",
     "Bank Name": "YUNTIANHUA UNITED COMMERCE CO.,LTD",
@@ -9621,8 +9621,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZDRC",
-    "bankCode": "CN",
+    "bankCode": "ZDRC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZDRCCNBZ",
     "Bank Name": "ZHAOQING RURAL COMMERCIAL BANK CO.,LTD.",
@@ -9634,8 +9634,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCRC",
-    "bankCode": "CN",
+    "bankCode": "ZCRC",
+    "countryCode": "CN",
     "branchCode": "NBW",
     "SWIFT Code": "ZCRCCNBW",
     "Bank Name": "ZHEJIANG CANGNAN RURAL COMMERCIAL BANK CO.,LTD",
@@ -9647,8 +9647,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCXI",
-    "bankCode": "CN",
+    "bankCode": "ZCXI",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZCXICNBH",
     "Bank Name": "ZHEJIANG CHANGXING RURAL COMMERCIAL BANK CORP., LTD",
@@ -9660,8 +9660,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZCB",
-    "bankCode": "CN",
+    "bankCode": "CZCB",
+    "countryCode": "CN",
     "branchCode": "N2X",
     "SWIFT Code": "CZCBCN2X",
     "Bank Name": "ZHEJIANG CHOUZHOU COMMERCIAL BANK CO.,LTD",
@@ -9673,8 +9673,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCIG",
-    "bankCode": "CN",
+    "bankCode": "ZCIG",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZCIGCNBH",
     "Bank Name": "ZHEJIANG COMMUNICATIONS INVESTMENT GROUP CO.,LTD",
@@ -9686,8 +9686,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJDR",
-    "bankCode": "CN",
+    "bankCode": "ZJDR",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "ZJDRCNBD",
     "Bank Name": "ZHEJIANG DONGYANG RURAL COMMERCIAL BANK CO. LTD",
@@ -9699,8 +9699,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZHEC",
-    "bankCode": "CN",
+    "bankCode": "ZHEC",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "ZHECCNBB",
     "Bank Name": "ZHEJIANG E-COMMERCE BANK CO., LTD.",
@@ -9712,8 +9712,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FYBK",
-    "bankCode": "CN",
+    "bankCode": "FYBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "FYBKCNSH",
     "Bank Name": "ZHEJIANG FUYANG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -9725,8 +9725,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBC",
-    "bankCode": "CN",
+    "bankCode": "HNBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HNBCCNBJ",
     "Bank Name": "ZHEJIANG HAINING RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -9738,8 +9738,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "777",
     "SWIFT Code": "FJIBCNBA777",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9751,8 +9751,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "779",
     "SWIFT Code": "FJIBCNBA779",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9764,8 +9764,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "600",
     "SWIFT Code": "FJIBCNBA600",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9777,8 +9777,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "760",
     "SWIFT Code": "FJIBCNBA760",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9790,8 +9790,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "630",
     "SWIFT Code": "FJIBCNBA630",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9803,8 +9803,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "670",
     "SWIFT Code": "FJIBCNBA670",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9816,8 +9816,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "820",
     "SWIFT Code": "FJIBCNBA820",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9829,8 +9829,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "510",
     "SWIFT Code": "FJIBCNBA510",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9842,8 +9842,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "850",
     "SWIFT Code": "FJIBCNBA850",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9855,8 +9855,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "590",
     "SWIFT Code": "FJIBCNBA590",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9868,8 +9868,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "800",
     "SWIFT Code": "FJIBCNBA800",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9881,8 +9881,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "260",
     "SWIFT Code": "FJIBCNBA260",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9894,8 +9894,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "900",
     "SWIFT Code": "FJIBCNBA900",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9907,8 +9907,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "810",
     "SWIFT Code": "FJIBCNBA810",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9920,8 +9920,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "830",
     "SWIFT Code": "FJIBCNBA830",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9933,8 +9933,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "230",
     "SWIFT Code": "FJIBCNBA230",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9946,8 +9946,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJIB",
-    "bankCode": "CN",
+    "bankCode": "FJIB",
+    "countryCode": "CN",
     "branchCode": "880",
     "SWIFT Code": "FJIBCNBA880",
     "Bank Name": "INDUSTRIAL BANK CO.,LTD.",
@@ -9959,8 +9959,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "BJX",
     "SWIFT Code": "IBKOCNBTBJX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -9972,8 +9972,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "QDX",
     "SWIFT Code": "IBKOCNBTQDX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -9985,8 +9985,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "SYX",
     "SWIFT Code": "IBKOCNBTSYX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -9998,8 +9998,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "SHZ",
     "SWIFT Code": "IBKOCNBTSHZ",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -10011,8 +10011,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "SZX",
     "SWIFT Code": "IBKOCNBTSZX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -10024,8 +10024,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "IBKOCNBT",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -10037,8 +10037,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "TJX",
     "SWIFT Code": "IBKOCNBTTJX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -10050,8 +10050,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "WHX",
     "SWIFT Code": "IBKOCNBTWHX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -10063,8 +10063,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "CN",
+    "bankCode": "IBKO",
+    "countryCode": "CN",
     "branchCode": "YTX",
     "SWIFT Code": "IBKOCNBTYTX",
     "Bank Name": "INDUSTRIAL BANK OF KOREA (CHINA) LIMITED",
@@ -10076,8 +10076,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "CN",
+    "bankCode": "INGB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "INGBCNSH",
     "Bank Name": "ING BANK N.V. SHANGHAI BRANCH",
@@ -10089,8 +10089,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "CN",
+    "bankCode": "INGB",
+    "countryCode": "CN",
     "branchCode": "OFF",
     "SWIFT Code": "INGBCNSHOFF",
     "Bank Name": "ING BANK N.V. SHANGHAI BRANCH",
@@ -10102,8 +10102,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "CN",
+    "bankCode": "INGB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "INGBCNBJ",
     "Bank Name": "ING BANK N.V., BEIJING BRANCH",
@@ -10115,8 +10115,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMHJ",
-    "bankCode": "CN",
+    "bankCode": "IMHJ",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "IMHJCNBH",
     "Bank Name": "INNER MONGOLIA HOHHOT JINGU RURAL COMMERCIAL BANK CO., LTD.",
@@ -10128,8 +10128,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMRC",
-    "bankCode": "CN",
+    "bankCode": "IMRC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "IMRCCNBH",
     "Bank Name": "INNER MONGOLIA RURAL CREDIT UNION",
@@ -10141,8 +10141,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFEG",
-    "bankCode": "CN",
+    "bankCode": "IFEG",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "IFEGCNSH",
     "Bank Name": "INTERNATIONAL FAR EASTERN LEASING CO.,LTD",
@@ -10154,8 +10154,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "CN",
+    "bankCode": "BCIT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BCITCNSH",
     "Bank Name": "INTESA SANPAOLO SPA SHANGHAI",
@@ -10167,8 +10167,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGWF",
-    "bankCode": "CN",
+    "bankCode": "IGWF",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "IGWFCNB2",
     "Bank Name": "INVESCO GREAT WALL FUND MANAGEMENT CO., LTD.",
@@ -10180,8 +10180,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSCC",
-    "bankCode": "CN",
+    "bankCode": "MSCC",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "MSCCCNS2",
     "Bank Name": "J.P. MORGAN SECURITIES (CHINA) COMPANY LIMITED",
@@ -10193,8 +10193,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCCF",
-    "bankCode": "CN",
+    "bankCode": "JCCF",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "JCCFCNBN",
     "Bank Name": "JCC FINANCIAL CO., LTD.",
@@ -10206,8 +10206,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JRCO",
-    "bankCode": "CN",
+    "bankCode": "JRCO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JRCOCNB2",
     "Bank Name": "JI'AN RURAL COMMERCIAL BANK CO.,LTD",
@@ -10219,8 +10219,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCRR",
-    "bankCode": "CN",
+    "bankCode": "JCRR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "JCRRCNB2",
     "Bank Name": "JIANG CHENG RURAL CREDIT COOPERATIVE",
@@ -10232,8 +10232,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCXH",
-    "bankCode": "CN",
+    "bankCode": "RCXH",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "RCXHCNBJ",
     "Bank Name": "JIANGMEN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -10245,8 +10245,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBRC",
-    "bankCode": "CN",
+    "bankCode": "JBRC",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "JBRCCNBY",
     "Bank Name": "JIANGSU BINHAI RURAL COMMERCIAL BANK CO., LTD",
@@ -10258,8 +10258,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DFCB",
-    "bankCode": "CN",
+    "bankCode": "DFCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "DFCBCNSH",
     "Bank Name": "JIANGSU DAFENG RURAL COMMERCIAL BANK CO.,LTD",
@@ -10271,8 +10271,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYCB",
-    "bankCode": "CN",
+    "bankCode": "DYCB",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "DYCBCNBD",
     "Bank Name": "JIANGSU DANYANG RURAL COMMERCIAL BANK CO.,LTD",
@@ -10284,8 +10284,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JDRE",
-    "bankCode": "CN",
+    "bankCode": "JDRE",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "JDRECNBD",
     "Bank Name": "JIANGSU DONGTAI RURAL COMMERCIAL BANK CO.LTD",
@@ -10297,8 +10297,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRCB",
-    "bankCode": "CN",
+    "bankCode": "HRCB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "HRCBCNBN",
     "Bank Name": "JIANGSU HAIAN RURAL COMMERCIAL BANK CO.,LTD",
@@ -10310,8 +10310,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMCB",
-    "bankCode": "CN",
+    "bankCode": "HMCB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "HMCBCNBN",
     "Bank Name": "JIANGSU HAIMEN RURAL COMMERCIAL BANK CO.,LTD.",
@@ -10323,8 +10323,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JHRC",
-    "bankCode": "CN",
+    "bankCode": "JHRC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "JHRCCNBH",
     "Bank Name": "JIANGSU HUAIAN RURAL COMMERCIAL BANK CO.,LTD",
@@ -10336,8 +10336,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JJRC",
-    "bankCode": "CN",
+    "bankCode": "JJRC",
+    "countryCode": "CN",
     "branchCode": "NBR",
     "SWIFT Code": "JJRCCNBR",
     "Bank Name": "JIANGSU JIANGDU RURAL COMMERCIAL BANK CO. LTD",
@@ -10349,8 +10349,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCWJ",
-    "bankCode": "CN",
+    "bankCode": "RCWJ",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "RCWJCNSH",
     "Bank Name": "JIANGSU JIANGNAN RURAL COMMERCIAL BANK CO.,LTD.(FORMALY JIANGSU WUJIN RURAL BANK)",
@@ -10362,8 +10362,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JRCB",
-    "bankCode": "CN",
+    "bankCode": "JRCB",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "JRCBCNBY",
     "Bank Name": "JIANGSU JIANGYAN RURAL COMMERCIAL BANK CO., LTD",
@@ -10375,8 +10375,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYCB",
-    "bankCode": "CN",
+    "bankCode": "JYCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "JYCBCNSH",
     "Bank Name": "JIANGSU JIANGYIN RURAL COMMERCIAL BANK",
@@ -10388,8 +10388,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJT",
     "SWIFT Code": "PCBCCNBJZJT",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10401,8 +10401,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBT",
     "SWIFT Code": "PCBCCNBJHBT",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10414,8 +10414,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "TJX",
     "SWIFT Code": "PCBCCNBJTJX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10427,8 +10427,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "TFX",
     "SWIFT Code": "PCBCCNBJTFX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10440,8 +10440,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDW",
     "SWIFT Code": "PCBCCNBJSDW",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10453,8 +10453,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDH",
     "SWIFT Code": "PCBCCNBJSDH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10466,8 +10466,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJW",
     "SWIFT Code": "PCBCCNBJZJW",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10479,8 +10479,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSW",
     "SWIFT Code": "PCBCCNBJJSW",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10492,8 +10492,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SMX",
     "SWIFT Code": "PCBCCNBJSMX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10505,8 +10505,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "MFX",
     "SWIFT Code": "PCBCCNBJMFX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10518,8 +10518,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SXX",
     "SWIFT Code": "PCBCCNBJSXX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10531,8 +10531,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NME",
     "SWIFT Code": "PCBCCNBJNME",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10544,8 +10544,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "IXJ",
     "SWIFT Code": "PCBCCNBJIXJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10557,8 +10557,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSQ",
     "SWIFT Code": "PCBCCNBJJSQ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10570,8 +10570,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JLH",
     "SWIFT Code": "PCBCCNBJJLH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10583,8 +10583,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JLY",
     "SWIFT Code": "PCBCCNBJJLY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10596,8 +10596,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSE",
     "SWIFT Code": "PCBCCNBJJSE",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10609,8 +10609,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSY",
     "SWIFT Code": "PCBCCNBJJSY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10622,8 +10622,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "YTX",
     "SWIFT Code": "PCBCCNBJYTX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10635,8 +10635,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HP3",
     "SWIFT Code": "PCBCCNBJHP3",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10648,8 +10648,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NXX",
     "SWIFT Code": "PCBCCNBJNXX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10661,8 +10661,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LNY",
     "SWIFT Code": "PCBCCNBJLNY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10674,8 +10674,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDA",
     "SWIFT Code": "PCBCCNBJSDA",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10687,8 +10687,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FJZ",
     "SWIFT Code": "PCBCCNBJFJZ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10700,8 +10700,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDA",
     "SWIFT Code": "PCBCCNBJGDA",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10713,8 +10713,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDQ",
     "SWIFT Code": "PCBCCNBJGDQ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10726,8 +10726,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HAX",
     "SWIFT Code": "PCBCCNBJHAX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10739,8 +10739,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSZ",
     "SWIFT Code": "PCBCCNBJJSZ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10752,8 +10752,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDZ",
     "SWIFT Code": "PCBCCNBJGDZ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10765,8 +10765,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJZ",
     "SWIFT Code": "PCBCCNBJZJZ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10778,8 +10778,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZHX",
     "SWIFT Code": "PCBCCNBJZHX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10791,8 +10791,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDZ",
     "SWIFT Code": "PCBCCNBJSDZ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -10804,8 +10804,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNEG",
-    "bankCode": "CN",
+    "bankCode": "CNEG",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CNEGCNSH",
     "Bank Name": "CHINA CONSTRUCTION EIGHTH ENGINEERING DIVISION CORP. LTD.",
@@ -10817,8 +10817,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHG",
-    "bankCode": "CN",
+    "bankCode": "CCHG",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CCHGCNBJ",
     "Bank Name": "CHINA CONSTRUCTION TECHNOLOGY CONSULTING CO.,LTD.",
@@ -10830,8 +10830,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "SDBCCNBJGZH",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10843,8 +10843,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "IAN",
     "SWIFT Code": "SDBCCNBJIAN",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10856,8 +10856,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SDBCCNBJ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10869,8 +10869,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "801",
     "SWIFT Code": "SDBCCNBJ801",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10882,8 +10882,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "BDP",
     "SWIFT Code": "SDBCCNBJBDP",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10895,8 +10895,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "800",
     "SWIFT Code": "SDBCCNBJ800",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10908,8 +10908,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "802",
     "SWIFT Code": "SDBCCNBJ802",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10921,8 +10921,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "JLN",
     "SWIFT Code": "SDBCCNBJJLN",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10934,8 +10934,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "HUN",
     "SWIFT Code": "SDBCCNBJHUN",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10947,8 +10947,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SCH",
     "SWIFT Code": "SDBCCNBJSCH",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10960,8 +10960,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "CHQ",
     "SWIFT Code": "SDBCCNBJCHQ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10973,8 +10973,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "SDBCCNBJDLN",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10986,8 +10986,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "FUJ",
     "SWIFT Code": "SDBCCNBJFUJ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -10999,8 +10999,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "GUD",
     "SWIFT Code": "SDBCCNBJGUD",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -11012,8 +11012,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "HAN",
     "SWIFT Code": "SDBCCNBJHAN",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -11025,8 +11025,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "ZHJ",
     "SWIFT Code": "SDBCCNBJZHJ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -11038,8 +11038,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "015",
     "SWIFT Code": "MSBCCNBJ015",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11051,8 +11051,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "081",
     "SWIFT Code": "MSBCCNBJ081",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11064,8 +11064,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0E2",
     "SWIFT Code": "MSBCCNBJ0E2",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11077,8 +11077,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "003",
     "SWIFT Code": "MSBCCNBJ003",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11090,8 +11090,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "013",
     "SWIFT Code": "MSBCCNBJ013",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11103,8 +11103,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0E8",
     "SWIFT Code": "MSBCCNBJ0E8",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11116,8 +11116,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "036",
     "SWIFT Code": "MSBCCNBJ036",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11129,8 +11129,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "007",
     "SWIFT Code": "MSBCCNBJ007",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11142,8 +11142,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A6",
     "SWIFT Code": "MSBCCNBJ0A6",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11155,8 +11155,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "034",
     "SWIFT Code": "MSBCCNBJ034",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11168,8 +11168,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "048",
     "SWIFT Code": "MSBCCNBJ048",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11181,8 +11181,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "044",
     "SWIFT Code": "MSBCCNBJ044",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11194,8 +11194,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0F9",
     "SWIFT Code": "MSBCCNBJ0F9",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11207,8 +11207,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "064",
     "SWIFT Code": "MSBCCNBJ064",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11220,8 +11220,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "060",
     "SWIFT Code": "MSBCCNBJ060",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11233,8 +11233,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "073",
     "SWIFT Code": "MSBCCNBJ073",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11246,8 +11246,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0B7",
     "SWIFT Code": "MSBCCNBJ0B7",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11259,8 +11259,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C5",
     "SWIFT Code": "MSBCCNBJ0C5",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11272,8 +11272,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "045",
     "SWIFT Code": "MSBCCNBJ045",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11285,8 +11285,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "057",
     "SWIFT Code": "MSBCCNBJ057",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11298,8 +11298,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A1",
     "SWIFT Code": "MSBCCNBJ0A1",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11311,8 +11311,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "074",
     "SWIFT Code": "MSBCCNBJ074",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11324,8 +11324,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "016",
     "SWIFT Code": "MSBCCNBJ016",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11337,8 +11337,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "086",
     "SWIFT Code": "MSBCCNBJ086",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11350,8 +11350,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "083",
     "SWIFT Code": "MSBCCNBJ083",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11363,8 +11363,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "022",
     "SWIFT Code": "MSBCCNBJ022",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11376,8 +11376,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A8",
     "SWIFT Code": "MSBCCNBJ0A8",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11389,8 +11389,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A0",
     "SWIFT Code": "MSBCCNBJ0A0",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11402,8 +11402,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0LS",
     "SWIFT Code": "MSBCCNBJ0LS",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11415,8 +11415,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0F8",
     "SWIFT Code": "MSBCCNBJ0F8",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11428,8 +11428,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0E6",
     "SWIFT Code": "MSBCCNBJ0E6",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11441,8 +11441,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "079",
     "SWIFT Code": "MSBCCNBJ079",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11454,8 +11454,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "084",
     "SWIFT Code": "MSBCCNBJ084",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11467,8 +11467,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C4",
     "SWIFT Code": "MSBCCNBJ0C4",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11480,8 +11480,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "043",
     "SWIFT Code": "MSBCCNBJ043",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11493,8 +11493,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "039",
     "SWIFT Code": "MSBCCNBJ039",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11506,8 +11506,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "077",
     "SWIFT Code": "MSBCCNBJ077",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11519,8 +11519,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "035",
     "SWIFT Code": "MSBCCNBJ035",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11532,8 +11532,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "008",
     "SWIFT Code": "MSBCCNBJ008",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11545,8 +11545,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "055",
     "SWIFT Code": "MSBCCNBJ055",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11558,8 +11558,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "049",
     "SWIFT Code": "MSBCCNBJ049",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11571,8 +11571,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "047",
     "SWIFT Code": "MSBCCNBJ047",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11584,8 +11584,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "019",
     "SWIFT Code": "MSBCCNBJ019",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11597,8 +11597,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A3",
     "SWIFT Code": "MSBCCNBJ0A3",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11610,8 +11610,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "056",
     "SWIFT Code": "MSBCCNBJ056",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11623,8 +11623,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "027",
     "SWIFT Code": "MSBCCNBJ027",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11636,8 +11636,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "051",
     "SWIFT Code": "MSBCCNBJ051",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11649,8 +11649,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "023",
     "SWIFT Code": "MSBCCNBJ023",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11662,8 +11662,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C9",
     "SWIFT Code": "MSBCCNBJ0C9",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11675,8 +11675,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "024",
     "SWIFT Code": "MSBCCNBJ024",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -11688,8 +11688,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "AGT",
     "SWIFT Code": "BKCHCNBJAGT",
     "Bank Name": "BANK OF CHINA",
@@ -11701,8 +11701,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BKCHCNBJ",
     "Bank Name": "BANK OF CHINA",
@@ -11714,8 +11714,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "CUS",
     "SWIFT Code": "BKCHCNBJCUS",
     "Bank Name": "BANK OF CHINA",
@@ -11727,8 +11727,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "85A",
     "SWIFT Code": "BKCHCNBJ85A",
     "Bank Name": "BANK OF CHINA",
@@ -11740,8 +11740,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "840",
     "SWIFT Code": "BKCHCNBJ840",
     "Bank Name": "BANK OF CHINA",
@@ -11753,8 +11753,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "970",
     "SWIFT Code": "BKCHCNBJ970",
     "Bank Name": "BANK OF CHINA",
@@ -11766,8 +11766,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95E",
     "SWIFT Code": "BKCHCNBJ95E",
     "Bank Name": "BANK OF CHINA",
@@ -11779,8 +11779,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "41P",
     "SWIFT Code": "BKCHCNBJ41P",
     "Bank Name": "BANK OF CHINA",
@@ -11792,8 +11792,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "570",
     "SWIFT Code": "BKCHCNBJ570",
     "Bank Name": "BANK OF CHINA",
@@ -11805,8 +11805,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "59A",
     "SWIFT Code": "BKCHCNBJ59A",
     "Bank Name": "BANK OF CHINA",
@@ -11818,8 +11818,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "81A",
     "SWIFT Code": "BKCHCNBJ81A",
     "Bank Name": "BANK OF CHINA",
@@ -11831,8 +11831,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82N",
     "SWIFT Code": "BKCHCNBJ82N",
     "Bank Name": "BANK OF CHINA",
@@ -11844,8 +11844,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82H",
     "SWIFT Code": "BKCHCNBJ82H",
     "Bank Name": "BANK OF CHINA",
@@ -11857,8 +11857,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82B",
     "SWIFT Code": "BKCHCNBJ82B",
     "Bank Name": "BANK OF CHINA",
@@ -11870,8 +11870,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "87D",
     "SWIFT Code": "BKCHCNBJ87D",
     "Bank Name": "BANK OF CHINA",
@@ -11883,8 +11883,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44W",
     "SWIFT Code": "BKCHCNBJ44W",
     "Bank Name": "BANK OF CHINA",
@@ -11896,8 +11896,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "49H",
     "SWIFT Code": "BKCHCNBJ49H",
     "Bank Name": "BANK OF CHINA",
@@ -11909,8 +11909,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44A",
     "SWIFT Code": "BKCHCNBJ44A",
     "Bank Name": "BANK OF CHINA",
@@ -11922,8 +11922,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44E",
     "SWIFT Code": "BKCHCNBJ44E",
     "Bank Name": "BANK OF CHINA",
@@ -11935,8 +11935,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44C",
     "SWIFT Code": "BKCHCNBJ44C",
     "Bank Name": "BANK OF CHINA",
@@ -11948,8 +11948,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44B",
     "SWIFT Code": "BKCHCNBJ44B",
     "Bank Name": "BANK OF CHINA",
@@ -11961,8 +11961,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73E",
     "SWIFT Code": "BKCHCNBJ73E",
     "Bank Name": "BANK OF CHINA",
@@ -11974,8 +11974,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73T",
     "SWIFT Code": "BKCHCNBJ73T",
     "Bank Name": "BANK OF CHINA",
@@ -11987,8 +11987,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "F20",
     "SWIFT Code": "BKCHCNBJF20",
     "Bank Name": "BANK OF CHINA",
@@ -12000,8 +12000,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "720",
     "SWIFT Code": "BKCHCNBJ720",
     "Bank Name": "BANK OF CHINA",
@@ -12013,8 +12013,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73M",
     "SWIFT Code": "BKCHCNBJ73M",
     "Bank Name": "BANK OF CHINA",
@@ -12026,8 +12026,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73L",
     "SWIFT Code": "BKCHCNBJ73L",
     "Bank Name": "BANK OF CHINA",
@@ -12039,8 +12039,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "F30",
     "SWIFT Code": "BKCHCNBJF30",
     "Bank Name": "BANK OF CHINA",
@@ -12052,8 +12052,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "42G",
     "SWIFT Code": "BKCHCNBJ42G",
     "Bank Name": "BANK OF CHINA",
@@ -12065,8 +12065,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "49C",
     "SWIFT Code": "BKCHCNBJ49C",
     "Bank Name": "BANK OF CHINA",
@@ -12078,8 +12078,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "240",
     "SWIFT Code": "BKCHCNBJ240",
     "Bank Name": "BANK OF CHINA",
@@ -12091,8 +12091,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "F50",
     "SWIFT Code": "BKCHCNBJF50",
     "Bank Name": "BANK OF CHINA",
@@ -12104,8 +12104,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "740",
     "SWIFT Code": "BKCHCNBJ740",
     "Bank Name": "BANK OF CHINA",
@@ -12117,8 +12117,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92C",
     "SWIFT Code": "BKCHCNBJ92C",
     "Bank Name": "BANK OF CHINA",
@@ -12130,8 +12130,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "910",
     "SWIFT Code": "BKCHCNBJ910",
     "Bank Name": "BANK OF CHINA",
@@ -12143,8 +12143,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "860",
     "SWIFT Code": "BKCHCNBJ860",
     "Bank Name": "BANK OF CHINA",
@@ -12156,8 +12156,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "87A",
     "SWIFT Code": "BKCHCNBJ87A",
     "Bank Name": "BANK OF CHINA",
@@ -12169,8 +12169,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "780",
     "SWIFT Code": "BKCHCNBJ780",
     "Bank Name": "BANK OF CHINA",
@@ -12182,8 +12182,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "87F",
     "SWIFT Code": "BKCHCNBJ87F",
     "Bank Name": "BANK OF CHINA",
@@ -12195,8 +12195,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "880",
     "SWIFT Code": "BKCHCNBJ880",
     "Bank Name": "BANK OF CHINA",
@@ -12208,8 +12208,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "47A",
     "SWIFT Code": "BKCHCNBJ47A",
     "Bank Name": "BANK OF CHINA",
@@ -12221,8 +12221,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "89D",
     "SWIFT Code": "BKCHCNBJ89D",
     "Bank Name": "BANK OF CHINA",
@@ -12234,8 +12234,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "89K",
     "SWIFT Code": "BKCHCNBJ89K",
     "Bank Name": "BANK OF CHINA",
@@ -12247,8 +12247,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92G",
     "SWIFT Code": "BKCHCNBJ92G",
     "Bank Name": "BANK OF CHINA",
@@ -12260,8 +12260,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "87B",
     "SWIFT Code": "BKCHCNBJ87B",
     "Bank Name": "BANK OF CHINA",
@@ -12273,8 +12273,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44N",
     "SWIFT Code": "BKCHCNBJ44N",
     "Bank Name": "BANK OF CHINA",
@@ -12286,8 +12286,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44K",
     "SWIFT Code": "BKCHCNBJ44K",
     "Bank Name": "BANK OF CHINA",
@@ -12299,8 +12299,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44P",
     "SWIFT Code": "BKCHCNBJ44P",
     "Bank Name": "BANK OF CHINA",
@@ -12312,8 +12312,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44M",
     "SWIFT Code": "BKCHCNBJ44M",
     "Bank Name": "BANK OF CHINA",
@@ -12325,8 +12325,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44L",
     "SWIFT Code": "BKCHCNBJ44L",
     "Bank Name": "BANK OF CHINA",
@@ -12338,8 +12338,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05A",
     "SWIFT Code": "HXBKCNBJ05A",
     "Bank Name": "HUA XIA BANK",
@@ -12351,8 +12351,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "20A",
     "SWIFT Code": "HXBKCNBJ20A",
     "Bank Name": "HUA XIA BANK",
@@ -12364,8 +12364,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02H",
     "SWIFT Code": "HXBKCNBJ02H",
     "Bank Name": "HUA XIA BANK",
@@ -12377,8 +12377,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05G",
     "SWIFT Code": "HXBKCNBJ05G",
     "Bank Name": "HUA XIA BANK",
@@ -12390,8 +12390,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "040",
     "SWIFT Code": "HXBKCNBJ040",
     "Bank Name": "HUA XIA BANK",
@@ -12403,8 +12403,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "04A",
     "SWIFT Code": "HXBKCNBJ04A",
     "Bank Name": "HUA XIA BANK",
@@ -12416,8 +12416,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "230",
     "SWIFT Code": "HXBKCNBJ230",
     "Bank Name": "HUA XIA BANK",
@@ -12429,8 +12429,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "120",
     "SWIFT Code": "HXBKCNBJ120",
     "Bank Name": "HUA XIA BANK",
@@ -12442,8 +12442,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "070",
     "SWIFT Code": "HXBKCNBJ070",
     "Bank Name": "HUA XIA BANK",
@@ -12455,8 +12455,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "080",
     "SWIFT Code": "HXBKCNBJ080",
     "Bank Name": "HUA XIA BANK",
@@ -12468,8 +12468,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01L",
     "SWIFT Code": "HXBKCNBJ01L",
     "Bank Name": "HUA XIA BANK",
@@ -12481,8 +12481,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "011",
     "SWIFT Code": "HXBKCNBJ011",
     "Bank Name": "HUA XIA BANK",
@@ -12494,8 +12494,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "090",
     "SWIFT Code": "HXBKCNBJ090",
     "Bank Name": "HUA XIA BANK",
@@ -12507,8 +12507,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02B",
     "SWIFT Code": "HXBKCNBJ02B",
     "Bank Name": "HUA XIA BANK",
@@ -12520,8 +12520,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01G",
     "SWIFT Code": "HXBKCNBJ01G",
     "Bank Name": "HUA XIA BANK",
@@ -12533,8 +12533,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08B",
     "SWIFT Code": "HXBKCNBJ08B",
     "Bank Name": "HUA XIA BANK",
@@ -12546,8 +12546,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "180",
     "SWIFT Code": "HXBKCNBJ180",
     "Bank Name": "HUA XIA BANK",
@@ -12559,8 +12559,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "170",
     "SWIFT Code": "HXBKCNBJ170",
     "Bank Name": "HUA XIA BANK",
@@ -12572,8 +12572,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05D",
     "SWIFT Code": "HXBKCNBJ05D",
     "Bank Name": "HUA XIA BANK",
@@ -12585,8 +12585,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "021",
     "SWIFT Code": "HXBKCNBJ021",
     "Bank Name": "HUA XIA BANK",
@@ -12598,8 +12598,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "140",
     "SWIFT Code": "HXBKCNBJ140",
     "Bank Name": "HUA XIA BANK",
@@ -12611,8 +12611,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "22A",
     "SWIFT Code": "HXBKCNBJ22A",
     "Bank Name": "HUA XIA BANK",
@@ -12624,8 +12624,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01W",
     "SWIFT Code": "HXBKCNBJ01W",
     "Bank Name": "HUA XIA BANK",
@@ -12637,8 +12637,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "20B",
     "SWIFT Code": "HXBKCNBJ20B",
     "Bank Name": "HUA XIA BANK",
@@ -12650,8 +12650,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "160",
     "SWIFT Code": "HXBKCNBJ160",
     "Bank Name": "HUA XIA BANK",
@@ -12663,8 +12663,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "14A",
     "SWIFT Code": "HXBKCNBJ14A",
     "Bank Name": "HUA XIA BANK",
@@ -12676,8 +12676,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08D",
     "SWIFT Code": "HXBKCNBJ08D",
     "Bank Name": "HUA XIA BANK",
@@ -12689,8 +12689,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "360",
     "SWIFT Code": "HXBKCNBJ360",
     "Bank Name": "HUA XIA BANK",
@@ -12702,8 +12702,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01E",
     "SWIFT Code": "HXBKCNBJ01E",
     "Bank Name": "HUA XIA BANK",
@@ -12715,8 +12715,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01F",
     "SWIFT Code": "HXBKCNBJ01F",
     "Bank Name": "HUA XIA BANK",
@@ -12728,8 +12728,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01H",
     "SWIFT Code": "HXBKCNBJ01H",
     "Bank Name": "HUA XIA BANK",
@@ -12741,8 +12741,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05B",
     "SWIFT Code": "HXBKCNBJ05B",
     "Bank Name": "HUA XIA BANK",
@@ -12754,8 +12754,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "14B",
     "SWIFT Code": "HXBKCNBJ14B",
     "Bank Name": "HUA XIA BANK",
@@ -12767,8 +12767,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "320",
     "SWIFT Code": "HXBKCNBJ320",
     "Bank Name": "HUA XIA BANK",
@@ -12780,8 +12780,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "12B",
     "SWIFT Code": "HXBKCNBJ12B",
     "Bank Name": "HUA XIA BANK",
@@ -12793,8 +12793,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "06A",
     "SWIFT Code": "HXBKCNBJ06A",
     "Bank Name": "HUA XIA BANK",
@@ -12806,8 +12806,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08G",
     "SWIFT Code": "HXBKCNBJ08G",
     "Bank Name": "HUA XIA BANK",
@@ -12819,8 +12819,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10H",
     "SWIFT Code": "HXBKCNBJ10H",
     "Bank Name": "HUA XIA BANK",
@@ -12832,8 +12832,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "290",
     "SWIFT Code": "HXBKCNBJ290",
     "Bank Name": "HUA XIA BANK",
@@ -12845,8 +12845,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "260",
     "SWIFT Code": "HXBKCNBJ260",
     "Bank Name": "HUA XIA BANK",
@@ -12858,8 +12858,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10E",
     "SWIFT Code": "HXBKCNBJ10E",
     "Bank Name": "HUA XIA BANK",
@@ -12871,8 +12871,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02F",
     "SWIFT Code": "HXBKCNBJ02F",
     "Bank Name": "HUA XIA BANK",
@@ -12884,8 +12884,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10C",
     "SWIFT Code": "HXBKCNBJ10C",
     "Bank Name": "HUA XIA BANK",
@@ -12897,8 +12897,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCRD",
-    "bankCode": "CN",
+    "bankCode": "HCRD",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HCRDCNB2",
     "Bank Name": "HUAIYANG COUNTY RURAL CREDIT COOPERATIVES UNION",
@@ -12910,8 +12910,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSSA",
-    "bankCode": "CN",
+    "bankCode": "HSSA",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "HSSACNS2",
     "Bank Name": "HUATAI SECURITIES (SHANGHAI) ASSET MANAGEMENT CO.,LTD",
@@ -12923,8 +12923,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUSE",
-    "bankCode": "CN",
+    "bankCode": "HUSE",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "HUSECNBN",
     "Bank Name": "HUATAI SECURITIES CO., LTD.",
@@ -12936,8 +12936,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUSE",
-    "bankCode": "CN",
+    "bankCode": "HUSE",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "HUSECNBN001",
     "Bank Name": "HUATAI SECURITIES CO., LTD.",
@@ -12949,8 +12949,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUFM",
-    "bankCode": "CN",
+    "bankCode": "HUFM",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "HUFMCNS2",
     "Bank Name": "HUATAI-PINEBRIDGE FUND MANAGEMENT CO., LTD.",
@@ -12962,8 +12962,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HWTC",
-    "bankCode": "CN",
+    "bankCode": "HWTC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "HWTCCNBS",
     "Bank Name": "HUAWEI TECHNOLOGIES CO., LTD",
@@ -12975,8 +12975,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBBK",
-    "bankCode": "CN",
+    "bankCode": "HBBK",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "HBBKCNBN",
     "Bank Name": "HUBEI BANK CO, LTD.",
@@ -12988,8 +12988,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "TJF",
     "SWIFT Code": "SZDBCNBSTJF",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13001,8 +13001,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "TJB",
     "SWIFT Code": "SZDBCNBSTJB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13014,8 +13014,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "WLM",
     "SWIFT Code": "SZDBCNBSWLM",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13027,8 +13027,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "WZB",
     "SWIFT Code": "SZDBCNBSWZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13040,8 +13040,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "WHB",
     "SWIFT Code": "SZDBCNBSWHB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13053,8 +13053,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "WXB",
     "SWIFT Code": "SZDBCNBSWXB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13066,8 +13066,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "BXM",
     "SWIFT Code": "SZDBCNBSBXM",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13079,8 +13079,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "BXA",
     "SWIFT Code": "SZDBCNBSBXA",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13092,8 +13092,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "YCB",
     "SWIFT Code": "SZDBCNBSYCB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13105,8 +13105,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "ZZB",
     "SWIFT Code": "SZDBCNBSZZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13118,8 +13118,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "ZSB",
     "SWIFT Code": "SZDBCNBSZSB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13131,8 +13131,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "ZHB",
     "SWIFT Code": "SZDBCNBSZHB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -13144,8 +13144,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PING",
-    "bankCode": "CN",
+    "bankCode": "PING",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "PINGCNB2",
     "Bank Name": "PING AN FUND MANAGEMENT COMPANY LIMITED",
@@ -13157,8 +13157,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIIC",
-    "bankCode": "CN",
+    "bankCode": "PIIC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "PIICCNB2",
     "Bank Name": "PING AN INSURANCE (GROUP) COMPANY OF CHINA, LTD.",
@@ -13170,8 +13170,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFCO",
-    "bankCode": "CN",
+    "bankCode": "PFCO",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "PFCOCNBJ",
     "Bank Name": "POLY FINANCE COMPANY LIMITED",
@@ -13183,8 +13183,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBC",
-    "bankCode": "CN",
+    "bankCode": "PSBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "PSBCCNBJ",
     "Bank Name": "POSTAL SAVINGS BANK OF CHINA",
@@ -13196,8 +13196,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBC",
-    "bankCode": "CN",
+    "bankCode": "PSBC",
+    "countryCode": "CN",
     "branchCode": "CSD",
     "SWIFT Code": "PSBCCNBJCSD",
     "Bank Name": "POSTAL SAVINGS BANK OF CHINA",
@@ -13209,8 +13209,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBC",
-    "bankCode": "CN",
+    "bankCode": "PSBC",
+    "countryCode": "CN",
     "branchCode": "ZSH",
     "SWIFT Code": "PSBCCNBJZSH",
     "Bank Name": "POSTAL SAVINGS BANK OF CHINA",
@@ -13222,8 +13222,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSBC",
-    "bankCode": "CN",
+    "bankCode": "PSBC",
+    "countryCode": "CN",
     "branchCode": "443",
     "SWIFT Code": "PSBCCNBJ443",
     "Bank Name": "POSTAL SAVINGS BANK OF CHINA",
@@ -13235,8 +13235,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCEC",
-    "bankCode": "CN",
+    "bankCode": "PCEC",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "PCECCNBC",
     "Bank Name": "POWERCHINA CHENGDU ENGINEERING CORPORATION LIMITED",
@@ -13248,8 +13248,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMRI",
-    "bankCode": "CN",
+    "bankCode": "BMRI",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BMRICNSH",
     "Bank Name": "PT BANK MANDIRI (PERSERO) TBK SHANGHAI BRANCH",
@@ -13261,8 +13261,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHKS",
-    "bankCode": "CN",
+    "bankCode": "PHKS",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "PHKSCNB2",
     "Bank Name": "PUBLIC BANK (HONG KONG) LIMITED, SHENZHEN BRANCH",
@@ -13274,8 +13274,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QDCB",
-    "bankCode": "CN",
+    "bankCode": "QDCB",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "QDCBCNBQ",
     "Bank Name": "QIDONG RURAL COMMERCIAL BANK",
@@ -13287,8 +13287,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JNSH",
-    "bankCode": "CN",
+    "bankCode": "JNSH",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "JNSHCNBN",
     "Bank Name": "QILU BANK CO., LTD.",
@@ -13300,8 +13300,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCZR",
-    "bankCode": "CN",
+    "bankCode": "QCZR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "QCZRCNB2",
     "Bank Name": "QINGDAO CHENYANG ZHUJIANG RURAL BANK CO.,LTD",
@@ -13313,8 +13313,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QDRC",
-    "bankCode": "CN",
+    "bankCode": "QDRC",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "QDRCCNBQ",
     "Bank Name": "QINGDAO RURAL COMMERCIAL BANK CORPORATION (FORMERLY HUAFENG RURAL COOPERATIVE BANK OF QINGDAO)",
@@ -13326,8 +13326,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCRC",
-    "bankCode": "CN",
+    "bankCode": "QCRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "QCRCCNB2",
     "Bank Name": "QINGGANG COUNTY RURAL CREDIT COOPERATIVE ASSOCIATION",
@@ -13339,8 +13339,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "100",
     "SWIFT Code": "ZBBKCNBZ100",
     "Bank Name": "QISHANG BANK",
@@ -13352,8 +13352,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "004",
     "SWIFT Code": "ZBBKCNBZ004",
     "Bank Name": "QISHANG BANK",
@@ -13365,8 +13365,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "005",
     "SWIFT Code": "ZBBKCNBZ005",
     "Bank Name": "QISHANG BANK",
@@ -13378,8 +13378,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "003",
     "SWIFT Code": "ZBBKCNBZ003",
     "Bank Name": "QISHANG BANK",
@@ -13391,8 +13391,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "007",
     "SWIFT Code": "ZBBKCNBZ007",
     "Bank Name": "QISHANG BANK",
@@ -13404,8 +13404,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "009",
     "SWIFT Code": "ZBBKCNBZ009",
     "Bank Name": "QISHANG BANK",
@@ -13417,8 +13417,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "006",
     "SWIFT Code": "ZBBKCNBZ006",
     "Bank Name": "QISHANG BANK",
@@ -13430,8 +13430,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "008",
     "SWIFT Code": "ZBBKCNBZ008",
     "Bank Name": "QISHANG BANK",
@@ -13443,8 +13443,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "ZBBKCNBZ002",
     "Bank Name": "QISHANG BANK",
@@ -13456,8 +13456,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "ZBBKCNBZ200",
     "Bank Name": "QISHANG BANK",
@@ -13469,8 +13469,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZBBKCNBZ",
     "Bank Name": "QISHANG BANK",
@@ -13482,8 +13482,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBBK",
-    "bankCode": "CN",
+    "bankCode": "ZBBK",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "ZBBKCNBZ001",
     "Bank Name": "QISHANG BANK",
@@ -13495,8 +13495,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QRCB",
-    "bankCode": "CN",
+    "bankCode": "QRCB",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "QRCBCNBZ",
     "Bank Name": "QUANZHOU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -13508,8 +13508,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "CN",
+    "bankCode": "RZBA",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "RZBACNBJ",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -13521,8 +13521,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIHD",
-    "bankCode": "CN",
+    "bankCode": "RIHD",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "RIHDCNBJ",
     "Bank Name": "REIGNWOOD INVESTMENT (CHINA) CO.,LTD.",
@@ -13534,8 +13534,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDRC",
-    "bankCode": "CN",
+    "bankCode": "RDRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "RDRCCNB2",
     "Bank Name": "RIZHAO DONGGANG RURAL COMMERCIAL BANK CO., LTD",
@@ -13547,8 +13547,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLRC",
-    "bankCode": "CN",
+    "bankCode": "RLRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "RLRCCNB2",
     "Bank Name": "RIZHAO LANSHAN RURAL COMMERCIAL BANK CO., LTD",
@@ -13560,8 +13560,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "CN",
+    "bankCode": "ROYC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ROYCCNBJ",
     "Bank Name": "ROYAL BANK OF CANADA BEIJING BRANCH",
@@ -13573,8 +13573,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSRE",
-    "bankCode": "CN",
+    "bankCode": "SSRE",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SSRECNB2",
     "Bank Name": "SANMENXIA SHANZHOU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -13586,8 +13586,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGRO",
-    "bankCode": "CN",
+    "bankCode": "SGRO",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "SGROCNBC",
     "Bank Name": "SANY GROUP CO., LTD",
@@ -13599,8 +13599,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFHR",
-    "bankCode": "CN",
+    "bankCode": "SFHR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SFHRCNB2",
     "Bank Name": "SHAANXI FUPING HUIFA RURAL BANK CO., LTD",
@@ -13612,8 +13612,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SQRO",
-    "bankCode": "CN",
+    "bankCode": "SQRO",
+    "countryCode": "CN",
     "branchCode": "NBX",
     "SWIFT Code": "SQROCNBX",
     "Bank Name": "SHAANXI QINNONG RURAL COMMERCIAL BANK CO., LTD",
@@ -13625,8 +13625,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLRM",
-    "bankCode": "CN",
+    "bankCode": "SLRM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SLRMCNB2",
     "Bank Name": "SHANDONG LIJIN RURAL COMMERCIAL BANK CO.,LTD",
@@ -13638,8 +13638,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAMC",
-    "bankCode": "CN",
+    "bankCode": "ZAMC",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "ZAMCCNS2",
     "Bank Name": "ZHONG OU ASSET MANAGEMENT COMPANY CO., LTD",
@@ -13651,8 +13651,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZSRC",
-    "bankCode": "CN",
+    "bankCode": "ZSRC",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "ZSRCCNBB",
     "Bank Name": "ZHONGSHAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -13664,8 +13664,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZTEC",
-    "bankCode": "CN",
+    "bankCode": "ZTEC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "ZTECCNBS",
     "Bank Name": "ZHONGXING TELECOMMUNICATION EQUIPMENT CORPORATION",
@@ -13677,8 +13677,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZHON",
-    "bankCode": "CN",
+    "bankCode": "ZHON",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ZHONCNBJ",
     "Bank Name": "ZHONGYUAN BANK CO., LTD",
@@ -13690,8 +13690,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZRCB",
-    "bankCode": "CN",
+    "bankCode": "ZRCB",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZRCBCNBZ",
     "Bank Name": "ZHUHAI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -13703,8 +13703,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCTE",
-    "bankCode": "CN",
+    "bankCode": "ZCTE",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "ZCTECNBB",
     "Bank Name": "ZHUZHOU CRRC TIMES ELECTRIC CO., LTD.",
@@ -13716,8 +13716,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZIRI",
-    "bankCode": "CN",
+    "bankCode": "ZIRI",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "ZIRICNB2",
     "Bank Name": "ZIIOT RESEARCH INSTITUTE",
@@ -13729,8 +13729,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZHIC",
-    "bankCode": "CN",
+    "bankCode": "ZHIC",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "ZHICCNBC",
     "Bank Name": "ZOOMLION HEAVY INDUSTRY SCIENCE AND TECHNOLOGY CO., LTD.",
@@ -13742,8 +13742,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZKTC",
-    "bankCode": "CN",
+    "bankCode": "ZKTC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "ZKTCCNBS",
     "Bank Name": "ZTE KANGXUN TELECOM CO.,LTD",
@@ -13755,8 +13755,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SQRM",
-    "bankCode": "CN",
+    "bankCode": "SQRM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SQRMCNB2",
     "Bank Name": "SHANDONG QIXIA RURAL COMMERCIAL BANK CO,LTD",
@@ -13768,8 +13768,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZDRB",
-    "bankCode": "CN",
+    "bankCode": "ZDRB",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "ZDRBCNBQ",
     "Bank Name": "SHANDONG ZHANGDIAN RURAL COMMERCIAL BANK",
@@ -13781,8 +13781,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPF",
-    "bankCode": "CN",
+    "bankCode": "SAPF",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SAPFCNSH",
     "Bank Name": "SHANGHAI AUTOMOTIVE GROUP FINANCE CORPORATION LIMITED",
@@ -13794,8 +13794,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBK",
-    "bankCode": "CN",
+    "bankCode": "SCBK",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "SCBKCNBSSHA",
     "Bank Name": "SHANGHAI COMMERCIAL BANK LIMITED",
@@ -13807,8 +13807,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBK",
-    "bankCode": "CN",
+    "bankCode": "SCBK",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SCBKCNBS",
     "Bank Name": "SHANGHAI COMMERCIAL BANK LIMITED",
@@ -13820,8 +13820,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVSA",
-    "bankCode": "CN",
+    "bankCode": "SVSA",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "SVSACNS2",
     "Bank Name": "SHANGHAI EVERBRIGHT SECURITIES ASSET MANAGEMENT CO.,LTD",
@@ -13833,8 +13833,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGJS",
-    "bankCode": "CN",
+    "bankCode": "SGJS",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "SGJSCNS2",
     "Bank Name": "SHANGHAI GUOTAI JUNAN SECURITIES ASSET MANAGEMENT CO LTD",
@@ -13846,8 +13846,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHRB",
-    "bankCode": "CN",
+    "bankCode": "SHRB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SHRBCNSH",
     "Bank Name": "SHANGHAI HUA RUI BANK LIMITED",
@@ -13859,8 +13859,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLNT",
-    "bankCode": "CN",
+    "bankCode": "SLNT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SLNTCNSH",
     "Bank Name": "SHANGHAI LANTU INFORMATION TECHNOLOGY CO., LTD.",
@@ -13872,8 +13872,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "390",
     "SWIFT Code": "SPDBCNSH390",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13885,8 +13885,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "610",
     "SWIFT Code": "SPDBCNSH610",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13898,8 +13898,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "660",
     "SWIFT Code": "SPDBCNSH660",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13911,8 +13911,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "130",
     "SWIFT Code": "SPDBCNSH130",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13924,8 +13924,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "870",
     "SWIFT Code": "SPDBCNSH870",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13937,8 +13937,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "110",
     "SWIFT Code": "SPDBCNSH110",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13950,8 +13950,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "430",
     "SWIFT Code": "SPDBCNSH430",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13963,8 +13963,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "FT3",
     "SWIFT Code": "SPDBCNSHFT3",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13976,8 +13976,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "SPDBCNSH010",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -13989,8 +13989,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "370",
     "SWIFT Code": "SPDBCNSH370",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14002,8 +14002,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "340",
     "SWIFT Code": "SPDBCNSH340",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14015,8 +14015,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "FT1",
     "SWIFT Code": "SPDBCNSHFT1",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14028,8 +14028,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "336",
     "SWIFT Code": "SPDBCNSH336",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14041,8 +14041,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "650",
     "SWIFT Code": "SPDBCNSH650",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14054,8 +14054,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "580",
     "SWIFT Code": "SPDBCNSH580",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14067,8 +14067,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "590",
     "SWIFT Code": "SPDBCNSH590",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14080,8 +14080,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "120",
     "SWIFT Code": "SPDBCNSH120",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14093,8 +14093,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "SPDBCNSH050",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14106,8 +14106,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "480",
     "SWIFT Code": "SPDBCNSH480",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14119,8 +14119,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "640",
     "SWIFT Code": "SPDBCNSH640",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14132,8 +14132,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "361",
     "SWIFT Code": "SPDBCNSH361",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14145,8 +14145,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "630",
     "SWIFT Code": "SPDBCNSH630",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14158,8 +14158,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "342",
     "SWIFT Code": "SPDBCNSH342",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14171,8 +14171,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "170",
     "SWIFT Code": "SPDBCNSH170",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14184,8 +14184,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "NSA",
     "SWIFT Code": "SPDBCNSA",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14197,8 +14197,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SPDBCNSH",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14210,8 +14210,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "SPDBCNSHFTU",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14223,8 +14223,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "OSA",
     "SWIFT Code": "SPDBCNSHOSA",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14236,8 +14236,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "FT0",
     "SWIFT Code": "SPDBCNSHFT0",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14249,8 +14249,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "160",
     "SWIFT Code": "SPDBCNSH160",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14262,8 +14262,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "FT2",
     "SWIFT Code": "SPDBCNSHFT2",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14275,8 +14275,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "SPDBCNSH030",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14288,8 +14288,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "450",
     "SWIFT Code": "SPDBCNSH450",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14301,8 +14301,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "373",
     "SWIFT Code": "SPDBCNSH373",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14314,8 +14314,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "680",
     "SWIFT Code": "SPDBCNSH680",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14327,8 +14327,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "FT4",
     "SWIFT Code": "SPDBCNSHFT4",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14340,8 +14340,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "080",
     "SWIFT Code": "SPDBCNSH080",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14353,8 +14353,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "600",
     "SWIFT Code": "SPDBCNSH600",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14366,8 +14366,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "385",
     "SWIFT Code": "SPDBCNSH385",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14379,8 +14379,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "180",
     "SWIFT Code": "SPDBCNSH180",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14392,8 +14392,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "040",
     "SWIFT Code": "SPDBCNSH040",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -14405,8 +14405,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "21A",
     "SWIFT Code": "BKCHCNBJ21A",
     "Bank Name": "BANK OF CHINA",
@@ -14418,8 +14418,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "BKCHCNBJ200",
     "Bank Name": "BANK OF CHINA",
@@ -14431,8 +14431,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "HX0",
     "SWIFT Code": "BKCHCNBJHX0",
     "Bank Name": "BANK OF CHINA",
@@ -14444,8 +14444,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "760",
     "SWIFT Code": "BKCHCNBJ760",
     "Bank Name": "BANK OF CHINA",
@@ -14457,8 +14457,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "51D",
     "SWIFT Code": "BKCHCNBJ51D",
     "Bank Name": "BANK OF CHINA",
@@ -14470,8 +14470,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92B",
     "SWIFT Code": "BKCHCNBJ92B",
     "Bank Name": "BANK OF CHINA",
@@ -14483,8 +14483,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "61A",
     "SWIFT Code": "BKCHCNBJ61A",
     "Bank Name": "BANK OF CHINA",
@@ -14496,8 +14496,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "600",
     "SWIFT Code": "BKCHCNBJ600",
     "Bank Name": "BANK OF CHINA",
@@ -14509,8 +14509,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "79A",
     "SWIFT Code": "BKCHCNBJ79A",
     "Bank Name": "BANK OF CHINA",
@@ -14522,8 +14522,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95C",
     "SWIFT Code": "BKCHCNBJ95C",
     "Bank Name": "BANK OF CHINA",
@@ -14535,8 +14535,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "49A",
     "SWIFT Code": "BKCHCNBJ49A",
     "Bank Name": "BANK OF CHINA",
@@ -14548,8 +14548,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73A",
     "SWIFT Code": "BKCHCNBJ73A",
     "Bank Name": "BANK OF CHINA",
@@ -14561,8 +14561,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "620",
     "SWIFT Code": "BKCHCNBJ620",
     "Bank Name": "BANK OF CHINA",
@@ -14574,8 +14574,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "98D",
     "SWIFT Code": "BKCHCNBJ98D",
     "Bank Name": "BANK OF CHINA",
@@ -14587,8 +14587,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "280",
     "SWIFT Code": "BKCHCNBJ280",
     "Bank Name": "BANK OF CHINA",
@@ -14600,8 +14600,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "85C",
     "SWIFT Code": "BKCHCNBJ85C",
     "Bank Name": "BANK OF CHINA",
@@ -14613,8 +14613,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "42W",
     "SWIFT Code": "BKCHCNBJ42W",
     "Bank Name": "BANK OF CHINA",
@@ -14626,8 +14626,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95H",
     "SWIFT Code": "BKCHCNBJ95H",
     "Bank Name": "BANK OF CHINA",
@@ -14639,8 +14639,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "51A",
     "SWIFT Code": "BKCHCNBJ51A",
     "Bank Name": "BANK OF CHINA",
@@ -14652,8 +14652,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "260",
     "SWIFT Code": "BKCHCNBJ260",
     "Bank Name": "BANK OF CHINA",
@@ -14665,8 +14665,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82C",
     "SWIFT Code": "BKCHCNBJ82C",
     "Bank Name": "BANK OF CHINA",
@@ -14678,8 +14678,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "49G",
     "SWIFT Code": "BKCHCNBJ49G",
     "Bank Name": "BANK OF CHINA",
@@ -14691,8 +14691,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "98S",
     "SWIFT Code": "BKCHCNBJ98S",
     "Bank Name": "BANK OF CHINA",
@@ -14704,8 +14704,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73D",
     "SWIFT Code": "BKCHCNBJ73D",
     "Bank Name": "BANK OF CHINA",
@@ -14717,8 +14717,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "43P",
     "SWIFT Code": "BKCHCNBJ43P",
     "Bank Name": "BANK OF CHINA",
@@ -14730,8 +14730,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "43A",
     "SWIFT Code": "BKCHCNBJ43A",
     "Bank Name": "BANK OF CHINA",
@@ -14743,8 +14743,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "530",
     "SWIFT Code": "BKCHCNBJ530",
     "Bank Name": "BANK OF CHINA",
@@ -14756,8 +14756,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95D",
     "SWIFT Code": "BKCHCNBJ95D",
     "Bank Name": "BANK OF CHINA",
@@ -14769,8 +14769,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "44T",
     "SWIFT Code": "BKCHCNBJ44T",
     "Bank Name": "BANK OF CHINA",
@@ -14782,8 +14782,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92E",
     "SWIFT Code": "BKCHCNBJ92E",
     "Bank Name": "BANK OF CHINA",
@@ -14795,8 +14795,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "GHQ",
     "SWIFT Code": "BKCHCNBJGHQ",
     "Bank Name": "BANK OF CHINA",
@@ -14808,8 +14808,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "45P",
     "SWIFT Code": "BKCHCNBJ45P",
     "Bank Name": "BANK OF CHINA",
@@ -14821,8 +14821,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "98C",
     "SWIFT Code": "BKCHCNBJ98C",
     "Bank Name": "BANK OF CHINA",
@@ -14834,8 +14834,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "400",
     "SWIFT Code": "BKCHCNBJ400",
     "Bank Name": "BANK OF CHINA GUANGDONG BRANCH",
@@ -14847,8 +14847,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "42A",
     "SWIFT Code": "BKCHCNBJ42A",
     "Bank Name": "BANK OF CHINA GUANGZHOU BRANCH",
@@ -14860,8 +14860,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CQCB",
-    "bankCode": "CN",
+    "bankCode": "CQCB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "CQCBCN22",
     "Bank Name": "BANK OF CHONGQING",
@@ -14873,8 +14873,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "N3X",
     "SWIFT Code": "COMMCN3X",
     "Bank Name": "BANK OF COMMUNICATIONS, CO. LTD.",
@@ -14886,8 +14886,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NSC",
     "SWIFT Code": "COMMCNSC",
     "Bank Name": "BANK OF COMMUNICATIONS, CO. LTD.",
@@ -14899,8 +14899,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "OBU",
     "SWIFT Code": "COMMCN3XOBU",
     "Bank Name": "BANK OF COMMUNICATIONS, CO. LTD.",
@@ -14912,8 +14912,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "AKS",
     "SWIFT Code": "COMMCNSHAKS",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -14925,8 +14925,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "AQG",
     "SWIFT Code": "COMMCNSHAQG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -14938,8 +14938,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ASN",
     "SWIFT Code": "COMMCNSHASN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -14951,8 +14951,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "AYG",
     "SWIFT Code": "COMMCNSHAYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -14964,8 +14964,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BSE",
     "SWIFT Code": "COMMCNSHBSE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -14977,8 +14977,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BDG",
     "SWIFT Code": "COMMCNSHBDG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -14990,8 +14990,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "IAA",
     "SWIFT Code": "COMMCNSHIAA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -15003,8 +15003,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BJI",
     "SWIFT Code": "COMMCNSHBJI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -15016,8 +15016,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BSN",
     "SWIFT Code": "COMMCNSHBSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -15029,8 +15029,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BTU",
     "SWIFT Code": "COMMCNSHBTU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -15042,8 +15042,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BYG",
     "SWIFT Code": "COMMCNSHBYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -15055,8 +15055,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "DEUTCNSHGZH",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -15068,8 +15068,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "DEUTCNSHQDO",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -15081,8 +15081,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "LFC",
     "SWIFT Code": "DEUTCNSHLFC",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -15094,8 +15094,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "DEUTCNSH",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -15107,8 +15107,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTCNSHCUS",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -15120,8 +15120,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CN",
+    "bankCode": "DEUT",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "DEUTCNSHTJN",
     "Bank Name": "DEUTSCHE BANK (CHINA) CO. LTD.",
@@ -15133,8 +15133,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECL",
-    "bankCode": "CN",
+    "bankCode": "DECL",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "DECLCNBJ001",
     "Bank Name": "DEZHOU BANK CO.,LTD",
@@ -15146,8 +15146,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECL",
-    "bankCode": "CN",
+    "bankCode": "DECL",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "DECLCNBJ",
     "Bank Name": "DEZHOU BANK CO.,LTD",
@@ -15159,8 +15159,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECL",
-    "bankCode": "CN",
+    "bankCode": "DECL",
+    "countryCode": "CN",
     "branchCode": "003",
     "SWIFT Code": "DECLCNBJ003",
     "Bank Name": "DEZHOU BANK CO.,LTD",
@@ -15172,8 +15172,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECL",
-    "bankCode": "CN",
+    "bankCode": "DECL",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "DECLCNBJ002",
     "Bank Name": "DEZHOU BANK CO.,LTD",
@@ -15185,8 +15185,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCIC",
-    "bankCode": "CN",
+    "bankCode": "DCIC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "DCICCNBJ",
     "Bank Name": "DIGITAL CURRENCY INSTITUTE PEOPLE'S BANK OF CHINA",
@@ -15198,8 +15198,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGCC",
-    "bankCode": "CN",
+    "bankCode": "DGCC",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "DGCCCN22",
     "Bank Name": "DONGGUAN RURAL COMMERCIAL BANK CO.,LTD.",
@@ -15211,8 +15211,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "BZH",
     "SWIFT Code": "DYSHCNBJBZH",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15224,8 +15224,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "DYSHCNBJ",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15237,8 +15237,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "JNB",
     "SWIFT Code": "DYSHCNBJJNB",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15250,8 +15250,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "QDB",
     "SWIFT Code": "DYSHCNBJQDB",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15263,8 +15263,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "WFB",
     "SWIFT Code": "DYSHCNBJWFB",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15276,8 +15276,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "YTB",
     "SWIFT Code": "DYSHCNBJYTB",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15289,8 +15289,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYSH",
-    "bankCode": "CN",
+    "bankCode": "DYSH",
+    "countryCode": "CN",
     "branchCode": "ZBO",
     "SWIFT Code": "DYSHCNBJZBO",
     "Bank Name": "DONGYING BANK CO., LTD",
@@ -15302,8 +15302,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUME",
-    "bankCode": "CN",
+    "bankCode": "FUME",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "FUMECN2N",
     "Bank Name": "E FUND MANAGEMENT CO., LTD.",
@@ -15315,8 +15315,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRCU",
-    "bankCode": "CN",
+    "bankCode": "SRCU",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SRCUCNB2",
     "Bank Name": "E SHAN RURAL CREDIT UNION",
@@ -15328,8 +15328,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "CN",
+    "bankCode": "ESUN",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "ESUNCNBB",
     "Bank Name": "E.SUN BANK (CHINA) COMPANY, LTD.",
@@ -15341,8 +15341,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAQS",
-    "bankCode": "CN",
+    "bankCode": "EAQS",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "EAQSCNB2",
     "Bank Name": "EAST ASIA QIANHAI SECURITIES CO., LTD.",
@@ -15354,8 +15354,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWBK",
-    "bankCode": "CN",
+    "bankCode": "EWBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "EWBKCNSH",
     "Bank Name": "EAST WEST BANK (CHINA) LTD",
@@ -15367,8 +15367,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAPY",
-    "bankCode": "CN",
+    "bankCode": "EAPY",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "EAPYCNB2",
     "Bank Name": "EASY PAY CO. LTD",
@@ -15380,8 +15380,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPFA",
-    "bankCode": "CN",
+    "bankCode": "EPFA",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "EPFACNS2",
     "Bank Name": "EVERBRIGHT PGIM FUND MANAGEMENT CO.",
@@ -15393,8 +15393,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "150",
     "SWIFT Code": "HFBACNSD150",
     "Bank Name": "EVERGROWING BANK",
@@ -15406,8 +15406,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "033",
     "SWIFT Code": "HFBACNSD033",
     "Bank Name": "EVERGROWING BANK",
@@ -15419,8 +15419,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "170",
     "SWIFT Code": "HFBACNSD170",
     "Bank Name": "EVERGROWING BANK",
@@ -15432,8 +15432,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "060",
     "SWIFT Code": "HFBACNSD060",
     "Bank Name": "EVERGROWING BANK",
@@ -15445,8 +15445,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "070",
     "SWIFT Code": "HFBACNSD070",
     "Bank Name": "EVERGROWING BANK",
@@ -15458,8 +15458,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "035",
     "SWIFT Code": "HFBACNSD035",
     "Bank Name": "EVERGROWING BANK",
@@ -15471,8 +15471,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "031",
     "SWIFT Code": "HFBACNSD031",
     "Bank Name": "EVERGROWING BANK",
@@ -15484,8 +15484,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "090",
     "SWIFT Code": "HFBACNSD090",
     "Bank Name": "EVERGROWING BANK",
@@ -15497,8 +15497,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "091",
     "SWIFT Code": "HFBACNSD091",
     "Bank Name": "EVERGROWING BANK",
@@ -15510,8 +15510,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "HFBACNSD200",
     "Bank Name": "EVERGROWING BANK",
@@ -15523,8 +15523,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "HFBACNSD050",
     "Bank Name": "EVERGROWING BANK",
@@ -15536,8 +15536,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "220",
     "SWIFT Code": "HFBACNSD220",
     "Bank Name": "EVERGROWING BANK",
@@ -15549,8 +15549,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "037",
     "SWIFT Code": "HFBACNSD037",
     "Bank Name": "EVERGROWING BANK",
@@ -15562,8 +15562,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "NSD",
     "SWIFT Code": "HFBACNSD",
     "Bank Name": "EVERGROWING BANK",
@@ -15575,8 +15575,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "HFBACNSD030",
     "Bank Name": "EVERGROWING BANK",
@@ -15588,8 +15588,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "032",
     "SWIFT Code": "HFBACNSD032",
     "Bank Name": "EVERGROWING BANK",
@@ -15601,8 +15601,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "100",
     "SWIFT Code": "HFBACNSD100",
     "Bank Name": "EVERGROWING BANK",
@@ -15614,8 +15614,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "045",
     "SWIFT Code": "HFBACNSD045",
     "Bank Name": "EVERGROWING BANK",
@@ -15627,8 +15627,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "034",
     "SWIFT Code": "HFBACNSD034",
     "Bank Name": "EVERGROWING BANK",
@@ -15640,8 +15640,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "040",
     "SWIFT Code": "HFBACNSD040",
     "Bank Name": "EVERGROWING BANK",
@@ -15653,8 +15653,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "042",
     "SWIFT Code": "HFBACNSD042",
     "Bank Name": "EVERGROWING BANK",
@@ -15666,8 +15666,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "130",
     "SWIFT Code": "HFBACNSD130",
     "Bank Name": "EVERGROWING BANK",
@@ -15679,8 +15679,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "020",
     "SWIFT Code": "HFBACNSD020",
     "Bank Name": "EVERGROWING BANK",
@@ -15692,8 +15692,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "092",
     "SWIFT Code": "HFBACNSD092",
     "Bank Name": "EVERGROWING BANK",
@@ -15705,8 +15705,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PASC",
-    "bankCode": "CN",
+    "bankCode": "PASC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "PASCCNSH",
     "Bank Name": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
@@ -15718,8 +15718,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "CN",
+    "bankCode": "BBVA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BBVACNSH",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -15731,8 +15731,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "CN",
+    "bankCode": "BRAS",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BRASCNSH",
     "Bank Name": "BANCO DO BRASIL SHANGHAI",
@@ -15744,8 +15744,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "CN",
+    "bankCode": "BSCH",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BSCHCNBJ",
     "Bank Name": "BANCO SANTANDER S.A. BEIJING BRANCH",
@@ -15757,8 +15757,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "CN",
+    "bankCode": "BSCH",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BSCHCNSH",
     "Bank Name": "BANCO SANTANDER, S.A. SHANGHAI BRANCH",
@@ -15770,8 +15770,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "CN",
+    "bankCode": "BKKB",
+    "countryCode": "CN",
     "branchCode": "PEK",
     "SWIFT Code": "BKKBCNSHPEK",
     "Bank Name": "BANGKOK BANK (CHINA) COMPANY LIMITED",
@@ -15783,8 +15783,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "CN",
+    "bankCode": "BKKB",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "BKKBCNSHCQG",
     "Bank Name": "BANGKOK BANK (CHINA) COMPANY LIMITED",
@@ -15796,8 +15796,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "CN",
+    "bankCode": "BKKB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BKKBCNSH",
     "Bank Name": "BANGKOK BANK (CHINA) COMPANY LIMITED",
@@ -15809,8 +15809,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "CN",
+    "bankCode": "BKKB",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "BKKBCNSHSHA",
     "Bank Name": "BANGKOK BANK (CHINA) COMPANY LIMITED",
@@ -15822,8 +15822,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "CN",
+    "bankCode": "BKKB",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "BKKBCNSHSZN",
     "Bank Name": "BANGKOK BANK (CHINA) COMPANY LIMITED",
@@ -15835,8 +15835,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "CN",
+    "bankCode": "BKKB",
+    "countryCode": "CN",
     "branchCode": "SMN",
     "SWIFT Code": "BKKBCNSHSMN",
     "Bank Name": "BANGKOK BANK (CHINA) COMPANY LIMITED",
@@ -15848,8 +15848,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "CN",
+    "bankCode": "BMCE",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BMCECNSH",
     "Bank Name": "BANK OF AFRICA . SHANGHAI BRANCH",
@@ -15861,8 +15861,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CN",
+    "bankCode": "BOFA",
+    "countryCode": "CN",
     "branchCode": "N4X",
     "SWIFT Code": "BOFACN4X",
     "Bank Name": "BANK OF AMERICA, N.A. (GUANGZHOU BRANCH)",
@@ -15874,8 +15874,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CN",
+    "bankCode": "BOFA",
+    "countryCode": "CN",
     "branchCode": "BEI",
     "SWIFT Code": "BOFACN3XBEI",
     "Bank Name": "BANK OF AMERICA, N.A. BEIJING",
@@ -15887,8 +15887,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CN",
+    "bankCode": "BOFA",
+    "countryCode": "CN",
     "branchCode": "N3X",
     "SWIFT Code": "BOFACN3X",
     "Bank Name": "BANK OF AMERICA, N.A. SHANGHAI",
@@ -15900,8 +15900,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANBK",
-    "bankCode": "CN",
+    "bankCode": "ANBK",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "ANBKCNBA",
     "Bank Name": "BANK OF ANSHAN CO., LTD. (FORMERLY ANSHAN CITY COMMERCIAL BANK)",
@@ -15913,8 +15913,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BJCNCNBJ",
     "Bank Name": "BANK OF BEIJING",
@@ -15926,8 +15926,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "021",
     "SWIFT Code": "BJCNCNBJ021",
     "Bank Name": "BANK OF BEIJING",
@@ -15939,8 +15939,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "024",
     "SWIFT Code": "BJCNCNBJ024",
     "Bank Name": "BANK OF BEIJING",
@@ -15952,8 +15952,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "022",
     "SWIFT Code": "BJCNCNBJ022",
     "Bank Name": "BANK OF BEIJING",
@@ -15965,8 +15965,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "BJCNCNBJQDO",
     "Bank Name": "BANK OF BEIJING",
@@ -15978,8 +15978,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "WSI",
     "SWIFT Code": "BJCNCNBJWSI",
     "Bank Name": "BANK OF BEIJING",
@@ -15991,8 +15991,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "023",
     "SWIFT Code": "BJCNCNBJ023",
     "Bank Name": "BANK OF BEIJING",
@@ -16004,8 +16004,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "CHS",
     "SWIFT Code": "BJCNCNBJCHS",
     "Bank Name": "BANK OF BEIJING",
@@ -16017,8 +16017,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "HZU",
     "SWIFT Code": "BJCNCNBJHZU",
     "Bank Name": "BANK OF BEIJING",
@@ -16030,8 +16030,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "JNA",
     "SWIFT Code": "BJCNCNBJJNA",
     "Bank Name": "BANK OF BEIJING",
@@ -16043,8 +16043,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "NCG",
     "SWIFT Code": "BJCNCNBJNCG",
     "Bank Name": "BANK OF BEIJING",
@@ -16056,8 +16056,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "NJG",
     "SWIFT Code": "BJCNCNBJNJG",
     "Bank Name": "BANK OF BEIJING",
@@ -16069,8 +16069,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "NBO",
     "SWIFT Code": "BJCNCNBJNBO",
     "Bank Name": "BANK OF BEIJING",
@@ -16082,8 +16082,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "BJCNCNBJSHI",
     "Bank Name": "BANK OF BEIJING",
@@ -16095,8 +16095,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "BJCNCNBJFTZ",
     "Bank Name": "BANK OF BEIJING",
@@ -16108,8 +16108,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "BJCNCNBJSZN",
     "Bank Name": "BANK OF BEIJING",
@@ -16121,8 +16121,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "BJCNCNBJSJZ",
     "Bank Name": "BANK OF BEIJING",
@@ -16134,8 +16134,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "SZU",
     "SWIFT Code": "BJCNCNBJSZU",
     "Bank Name": "BANK OF BEIJING",
@@ -16147,8 +16147,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "BJCNCNBJTJN",
     "Bank Name": "BANK OF BEIJING",
@@ -16160,8 +16160,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "WLM",
     "SWIFT Code": "BJCNCNBJWLM",
     "Bank Name": "BANK OF BEIJING",
@@ -16173,8 +16173,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJCN",
-    "bankCode": "CN",
+    "bankCode": "BJCN",
+    "countryCode": "CN",
     "branchCode": "SAN",
     "SWIFT Code": "BJCNCNBJSAN",
     "Bank Name": "BANK OF BEIJING",
@@ -16186,8 +16186,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHCC",
-    "bankCode": "CN",
+    "bankCode": "CHCC",
+    "countryCode": "CN",
     "branchCode": "NSS",
     "SWIFT Code": "CHCCCNSS",
     "Bank Name": "BANK OF CHANGSHA",
@@ -16199,8 +16199,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHCC",
-    "bankCode": "CN",
+    "bankCode": "CHCC",
+    "countryCode": "CN",
     "branchCode": "CSB",
     "SWIFT Code": "CHCCCNSSCSB",
     "Bank Name": "BANK OF CHANGSHA",
@@ -16212,8 +16212,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHCC",
-    "bankCode": "CN",
+    "bankCode": "CHCC",
+    "countryCode": "CN",
     "branchCode": "GZB",
     "SWIFT Code": "CHCCCNSSGZB",
     "Bank Name": "BANK OF CHANGSHA",
@@ -16225,8 +16225,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CYBK",
-    "bankCode": "CN",
+    "bankCode": "CYBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CYBKCNBJ",
     "Bank Name": "BANK OF CHAOYANG",
@@ -16238,8 +16238,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBOC",
-    "bankCode": "CN",
+    "bankCode": "CBOC",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CBOCCNBC",
     "Bank Name": "BANK OF CHENGDU CO.,LTD",
@@ -16251,8 +16251,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBOC",
-    "bankCode": "CN",
+    "bankCode": "CBOC",
+    "countryCode": "CN",
     "branchCode": "IBD",
     "SWIFT Code": "CBOCCNBCIBD",
     "Bank Name": "BANK OF CHENGDU CO.,LTD",
@@ -16264,8 +16264,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82D",
     "SWIFT Code": "BKCHCNBJ82D",
     "Bank Name": "BANK OF CHINA",
@@ -16277,8 +16277,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "89A",
     "SWIFT Code": "BKCHCNBJ89A",
     "Bank Name": "BANK OF CHINA",
@@ -16290,8 +16290,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "49B",
     "SWIFT Code": "BKCHCNBJ49B",
     "Bank Name": "BANK OF CHINA",
@@ -16303,8 +16303,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "BPS",
     "SWIFT Code": "BKCHCNBJBPS",
     "Bank Name": "BANK OF CHINA",
@@ -16316,8 +16316,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "CMI",
     "SWIFT Code": "BKCHCNBJCMI",
     "Bank Name": "BANK OF CHINA",
@@ -16329,8 +16329,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "DEP",
     "SWIFT Code": "BKCHCNBJDEP",
     "Bank Name": "BANK OF CHINA",
@@ -16342,8 +16342,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "110",
     "SWIFT Code": "BKCHCNBJ110",
     "Bank Name": "BANK OF CHINA",
@@ -16355,8 +16355,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZHRC",
-    "bankCode": "CN",
+    "bankCode": "ZHRC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZHRCCNBZ",
     "Bank Name": "NINGBO ZHENHAI RURAL COMMERCIAL BANK",
@@ -16368,8 +16368,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NONC",
-    "bankCode": "CN",
+    "bankCode": "NONC",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "NONCCNS2",
     "Bank Name": "NOMURA ORIENT INTERNATIONAL SECURITIES CO., LTD",
@@ -16381,8 +16381,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACF",
-    "bankCode": "CN",
+    "bankCode": "NACF",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "NACFCNBJ",
     "Bank Name": "NONGHYUP BANK BEIJING BRANCH",
@@ -16394,8 +16394,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "CN",
+    "bankCode": "NDEA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NDEACNSH",
     "Bank Name": "NORDEA BANK AB SHANGHAI BRANCH",
@@ -16407,8 +16407,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIGF",
-    "bankCode": "CN",
+    "bankCode": "NIGF",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "NIGFCNBJ",
     "Bank Name": "NORTH INDUSTRIES GROUP FINANCE COMPANY LTD.",
@@ -16420,8 +16420,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "CN",
+    "bankCode": "OCBC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "OCBCCNSH",
     "Bank Name": "OCBC BANK LIMITED",
@@ -16433,8 +16433,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSAM",
-    "bankCode": "CN",
+    "bankCode": "OSAM",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "OSAMCNS2",
     "Bank Name": "ORIENT SECURITIES ASSET MANAGEMENT CO.LTD",
@@ -16446,8 +16446,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCTG",
-    "bankCode": "CN",
+    "bankCode": "OCTG",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "OCTGCNBS",
     "Bank Name": "OVERSEAS CHINESE TOWN ENTERPRISE LIMITED COMPANY",
@@ -16459,8 +16459,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFUM",
-    "bankCode": "CN",
+    "bankCode": "PFUM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "PFUMCNB2",
     "Bank Name": "PENGHUA FUND MANAGEMENT CO., LTD.",
@@ -16472,8 +16472,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBOC",
-    "bankCode": "CN",
+    "bankCode": "PBOC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "PBOCCNBJ",
     "Bank Name": "PEOPLE'S BANK OF CHINA, THE/SAFE",
@@ -16485,8 +16485,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBOC",
-    "bankCode": "CN",
+    "bankCode": "PBOC",
+    "countryCode": "CN",
     "branchCode": "NSF",
     "SWIFT Code": "PBOCCNSF",
     "Bank Name": "PEOPLE'S BANK OF CHINA, THE/SAFE",
@@ -16498,8 +16498,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBOC",
-    "bankCode": "CN",
+    "bankCode": "PBOC",
+    "countryCode": "CN",
     "branchCode": "CFT",
     "SWIFT Code": "PBOCCNSFCFT",
     "Bank Name": "PEOPLE'S BANK OF CHINA, THE/SAFE",
@@ -16511,8 +16511,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBOC",
-    "bankCode": "CN",
+    "bankCode": "PBOC",
+    "countryCode": "CN",
     "branchCode": "CFX",
     "SWIFT Code": "PBOCCNSFCFX",
     "Bank Name": "PEOPLE'S BANK OF CHINA, THE/SAFE",
@@ -16524,8 +16524,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEPO",
-    "bankCode": "CN",
+    "bankCode": "PEPO",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "PEPOCNBJ",
     "Bank Name": "PEOPLE.CN CO.,LTD.",
@@ -16537,8 +16537,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PWRD",
-    "bankCode": "CN",
+    "bankCode": "PWRD",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "PWRDCNBJ",
     "Bank Name": "PERFECT WORLD CO., LTD.",
@@ -16550,8 +16550,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "BJB",
     "SWIFT Code": "SZDBCNBSBJB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16563,8 +16563,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "CCB",
     "SWIFT Code": "SZDBCNBSCCB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16576,8 +16576,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "CSB",
     "SWIFT Code": "SZDBCNBSCSB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16589,8 +16589,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "CDB",
     "SWIFT Code": "SZDBCNBSCDB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16602,8 +16602,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "CQB",
     "SWIFT Code": "SZDBCNBSCQB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16615,8 +16615,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "DLB",
     "SWIFT Code": "SZDBCNBSDLB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16628,8 +16628,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "DGB",
     "SWIFT Code": "SZDBCNBSDGB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16641,8 +16641,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "FSB",
     "SWIFT Code": "SZDBCNBSFSB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16654,8 +16654,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "FZB",
     "SWIFT Code": "SZDBCNBSFZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16667,8 +16667,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "GZB",
     "SWIFT Code": "SZDBCNBSGZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16680,8 +16680,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "HKB",
     "SWIFT Code": "SZDBCNBSHKB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16693,8 +16693,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "HZB",
     "SWIFT Code": "SZDBCNBSHZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16706,8 +16706,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "HEB",
     "SWIFT Code": "SZDBCNBSHEB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16719,8 +16719,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "HFB",
     "SWIFT Code": "SZDBCNBSHFB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16732,8 +16732,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "HHH",
     "SWIFT Code": "SZDBCNBSHHH",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16745,8 +16745,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "HZH",
     "SWIFT Code": "SZDBCNBSHZH",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16758,8 +16758,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "JNB",
     "SWIFT Code": "SZDBCNBSJNB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16771,8 +16771,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "KMB",
     "SWIFT Code": "SZDBCNBSKMB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16784,8 +16784,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "LZB",
     "SWIFT Code": "SZDBCNBSLZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16797,8 +16797,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "NCB",
     "SWIFT Code": "SZDBCNBSNCB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16810,8 +16810,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "NJB",
     "SWIFT Code": "SZDBCNBSNJB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16823,8 +16823,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "SZDBCNBSNBB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16836,8 +16836,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "QDB",
     "SWIFT Code": "SZDBCNBSQDB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16849,8 +16849,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "QZB",
     "SWIFT Code": "SZDBCNBSQZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16862,8 +16862,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "SHB",
     "SWIFT Code": "SZDBCNBSSHB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16875,8 +16875,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "SHF",
     "SWIFT Code": "SZDBCNBSSHF",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16888,8 +16888,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "SYB",
     "SWIFT Code": "SZDBCNBSSYB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16901,8 +16901,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SZDBCNBS",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16914,8 +16914,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "NNB",
     "SWIFT Code": "SZDBCNBSNNB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16927,8 +16927,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "OSA",
     "SWIFT Code": "SZDBCNBSOSA",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16940,8 +16940,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "GYB",
     "SWIFT Code": "SZDBCNBSGYB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16953,8 +16953,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "SZB",
     "SWIFT Code": "SZDBCNBSSZB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16966,8 +16966,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "SZDBCNBSSJZ",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16979,8 +16979,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "SZF",
     "SWIFT Code": "SZDBCNBSSZF",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -16992,8 +16992,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZDB",
-    "bankCode": "CN",
+    "bankCode": "SZDB",
+    "countryCode": "CN",
     "branchCode": "TYB",
     "SWIFT Code": "SZDBCNBSTYB",
     "Bank Name": "PING AN BANK CO., LTD.",
@@ -17005,8 +17005,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWCB",
-    "bankCode": "CN",
+    "bankCode": "LWCB",
+    "countryCode": "CN",
     "branchCode": "ZXB",
     "SWIFT Code": "LWCBCNBJZXB",
     "Bank Name": "LAISHANG BANK CO., LTD (FORMERLY LAIWU CITY COMMERCIAL BANK CO., LTD)",
@@ -17018,8 +17018,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "CN",
+    "bankCode": "LBOT",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "LBOTCNBT",
     "Bank Name": "LAND BANK OF TAIWAN CO., LTD. TIANJIN BRANCH",
@@ -17031,8 +17031,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "CN",
+    "bankCode": "LBOT",
+    "countryCode": "CN",
     "branchCode": "NBW",
     "SWIFT Code": "LBOTCNBW",
     "Bank Name": "LAND BANK OF TAIWAN CO., LTD. WUHAN BRANCH",
@@ -17044,8 +17044,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOT",
-    "bankCode": "CN",
+    "bankCode": "LBOT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "LBOTCNSH",
     "Bank Name": "LAND BANK OF TAIWAN SHANGHAI BRANCH",
@@ -17057,8 +17057,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOLA",
-    "bankCode": "CN",
+    "bankCode": "SOLA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SOLACNSH",
     "Bank Name": "LANDESBANK BADEN-WUERTTEMBERG SHANGHAI BRANCH",
@@ -17070,8 +17070,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LSCC",
-    "bankCode": "CN",
+    "bankCode": "LSCC",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "LSCCCNBL",
     "Bank Name": "LESHAN CITY COMMERCIAL BANK",
@@ -17083,8 +17083,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCSS",
-    "bankCode": "CN",
+    "bankCode": "LCSS",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "LCSSCNBJ",
     "Bank Name": "LI NING (CHINA) SPORTS GOODS CO., LTD.",
@@ -17096,8 +17096,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORCB",
-    "bankCode": "CN",
+    "bankCode": "ORCB",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "ORCBCNBL",
     "Bank Name": "LIANYUNGANG ORIENT RURAL COMMERCIAL BANK CO.,LTD.",
@@ -17109,8 +17109,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDRM",
-    "bankCode": "CN",
+    "bankCode": "LDRM",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "LDRMCNBD",
     "Bank Name": "LIAONING DONGGANG RURAL COMMERCIAL BANK CO., LTD",
@@ -17122,8 +17122,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LISH",
-    "bankCode": "CN",
+    "bankCode": "LISH",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "LISHCNBS",
     "Bank Name": "LIAOSHEN BANK CO., LTD.",
@@ -17135,8 +17135,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGRC",
-    "bankCode": "CN",
+    "bankCode": "LGRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "LGRCCNB2",
     "Bank Name": "LIJIANG GUCHENG RURAL COMMERCIAL BANK CO., LTD",
@@ -17148,8 +17148,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LYCB",
-    "bankCode": "CN",
+    "bankCode": "LYCB",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "LYCBCNBL",
     "Bank Name": "LINSHANG BANK CO. LTD",
@@ -17161,8 +17161,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LYCB",
-    "bankCode": "CN",
+    "bankCode": "LYCB",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "LYCBCNBLNBA",
     "Bank Name": "LINSHANG BANK CO. LTD",
@@ -17174,8 +17174,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LYCB",
-    "bankCode": "CN",
+    "bankCode": "LYCB",
+    "countryCode": "CN",
     "branchCode": "RZB",
     "SWIFT Code": "LYCBCNBLRZB",
     "Bank Name": "LINSHANG BANK CO. LTD",
@@ -17187,8 +17187,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LYCB",
-    "bankCode": "CN",
+    "bankCode": "LYCB",
+    "countryCode": "CN",
     "branchCode": "WFB",
     "SWIFT Code": "LYCBCNBLWFB",
     "Bank Name": "LINSHANG BANK CO. LTD",
@@ -17200,8 +17200,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LJBC",
-    "bankCode": "CN",
+    "bankCode": "LJBC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "LJBCCNBH",
     "Bank Name": "LONGJIANG BANK CORPORATION",
@@ -17213,8 +17213,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWBK",
-    "bankCode": "CN",
+    "bankCode": "LWBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "LWBKCNSH",
     "Bank Name": "LONGWAN RURAL COMMERCIAL BANK",
@@ -17226,8 +17226,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCUD",
-    "bankCode": "CN",
+    "bankCode": "SCUD",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SCUDCNB2",
     "Bank Name": "LU SHUI CITY RURAL CREDIT UNION",
@@ -17239,8 +17239,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZLBK",
-    "bankCode": "CN",
+    "bankCode": "ZLBK",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "ZLBKCNBH",
     "Bank Name": "LUQIAO RURAL COMMERCIAL BANK",
@@ -17252,8 +17252,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUSO",
-    "bankCode": "CN",
+    "bankCode": "LUSO",
+    "countryCode": "CN",
     "branchCode": "N2G",
     "SWIFT Code": "LUSOCN2G",
     "Bank Name": "LUSO INTERNATIONAL BANKING LIMITED GUANGZHOU BRANCH",
@@ -17265,8 +17265,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUSO",
-    "bankCode": "CN",
+    "bankCode": "LUSO",
+    "countryCode": "CN",
     "branchCode": "HZB",
     "SWIFT Code": "LUSOCN2GHZB",
     "Bank Name": "LUSO INTERNATIONAL BANKING LIMITED GUANGZHOU BRANCH",
@@ -17278,8 +17278,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCCM",
-    "bankCode": "CN",
+    "bankCode": "LCCM",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "LCCMCNBL",
     "Bank Name": "LUZHOU BANK CO,. LTD",
@@ -17291,8 +17291,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LZNS",
-    "bankCode": "CN",
+    "bankCode": "LZNS",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "LZNSCNBL",
     "Bank Name": "LUZHOU RURAL COMMERCIAL BANK CO., LTD",
@@ -17304,8 +17304,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "CN",
+    "bankCode": "MBBE",
+    "countryCode": "CN",
     "branchCode": "NBK",
     "SWIFT Code": "MBBECNBK",
     "Bank Name": "MALAYAN BANKING BERHAD KUNMING BRANCH",
@@ -17317,8 +17317,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "CN",
+    "bankCode": "MBBE",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "MBBECNBS",
     "Bank Name": "MALAYAN BANKING BERHAD SHENZHEN BRANCH",
@@ -17330,8 +17330,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "CN",
+    "bankCode": "MBBE",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "MBBECNBJ",
     "Bank Name": "MALAYAN BANKING BERHAD,BEIJING BRANCH",
@@ -17343,8 +17343,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRUC",
-    "bankCode": "CN",
+    "bankCode": "MRUC",
+    "countryCode": "CN",
     "branchCode": "NBM",
     "SWIFT Code": "MRUCCNBM",
     "Bank Name": "MANCHURIA RURAL COMMERCIAL BANK CO., LTD",
@@ -17356,8 +17356,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFMC",
-    "bankCode": "CN",
+    "bankCode": "MFMC",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "MFMCCNS2",
     "Bank Name": "MAXWEALTH FUND MANAGEMENT COMPANY LIMITED",
@@ -17369,8 +17369,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "CN",
+    "bankCode": "MBBE",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "MBBECNSH",
     "Bank Name": "MAYBANK SHANGHAI",
@@ -17382,8 +17382,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CN",
+    "bankCode": "ICBC",
+    "countryCode": "CN",
     "branchCode": "NBO",
     "SWIFT Code": "ICBCCNBSNBO",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.      SUZHOU BRANCH",
@@ -17395,8 +17395,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CN",
+    "bankCode": "ICBC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "ICBCCNBS",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.      SUZHOU BRANCH",
@@ -17408,8 +17408,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CN",
+    "bankCode": "ICBC",
+    "countryCode": "CN",
     "branchCode": "KUS",
     "SWIFT Code": "ICBCCNBSKUS",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.      SUZHOU BRANCH",
@@ -17421,8 +17421,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "CN",
+    "bankCode": "ICBC",
+    "countryCode": "CN",
     "branchCode": "WUJ",
     "SWIFT Code": "ICBCCNBSWUJ",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.      SUZHOU BRANCH",
@@ -17434,8 +17434,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BTCBCNBJ",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17447,8 +17447,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "BT0",
     "SWIFT Code": "BTCBCNBJBT0",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17460,8 +17460,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "BT1",
     "SWIFT Code": "BTCBCNBJBT1",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17473,8 +17473,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "BM0",
     "SWIFT Code": "BTCBCNBJBM0",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17486,8 +17486,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "CHF",
     "SWIFT Code": "BTCBCNBJCHF",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17499,8 +17499,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "HH0",
     "SWIFT Code": "BTCBCNBJHH0",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17512,8 +17512,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "MZL",
     "SWIFT Code": "BTCBCNBJMZL",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17525,8 +17525,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "EDS",
     "SWIFT Code": "BTCBCNBJEDS",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17538,8 +17538,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "WLC",
     "SWIFT Code": "BTCBCNBJWLC",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17551,8 +17551,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "EL0",
     "SWIFT Code": "BTCBCNBJEL0",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17564,8 +17564,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTCB",
-    "bankCode": "CN",
+    "bankCode": "BTCB",
+    "countryCode": "CN",
     "branchCode": "SL0",
     "SWIFT Code": "BTCBCNBJSL0",
     "Bank Name": "MENGSHANG BANK CO., LTD",
@@ -17577,8 +17577,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGRC",
-    "bankCode": "CN",
+    "bankCode": "DGRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "DGRCCNBJ",
     "Bank Name": "MERCEDES-BENZ GROUP CHINA LTD.",
@@ -17590,8 +17590,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTC",
-    "bankCode": "CN",
+    "bankCode": "MBTC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "MBTCCNBN",
     "Bank Name": "METROPOLITAN BANK (CHINA) LTD",
@@ -17603,8 +17603,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTEH",
-    "bankCode": "CN",
+    "bankCode": "MTEH",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "MTEHCNBS",
     "Bank Name": "MGI TECH CO., LTD.",
@@ -17616,8 +17616,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCCB",
-    "bankCode": "CN",
+    "bankCode": "MCCB",
+    "countryCode": "CN",
     "branchCode": "NBM",
     "SWIFT Code": "MCCBCNBM",
     "Bank Name": "MIANYANG CITY COMMERCIAL BANK CO., LTD",
@@ -17629,8 +17629,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDEA",
-    "bankCode": "CN",
+    "bankCode": "MDEA",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "MDEACNBB",
     "Bank Name": "MIDEA GROUP CO., LTD.",
@@ -17642,8 +17642,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MINY",
-    "bankCode": "CN",
+    "bankCode": "MINY",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "MINYCNBJ",
     "Bank Name": "MINMETALS FINANCE COMPANY LIMITED",
@@ -17655,8 +17655,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HEB",
     "SWIFT Code": "COMMCNSHHEB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17668,8 +17668,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HFI",
     "SWIFT Code": "COMMCNSHHFI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17681,8 +17681,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HHB",
     "SWIFT Code": "COMMCNSHHHB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17694,8 +17694,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HSA",
     "SWIFT Code": "COMMCNSHHSA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17707,8 +17707,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HYG",
     "SWIFT Code": "COMMCNSHHYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17720,8 +17720,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HYN",
     "SWIFT Code": "COMMCNSHHYN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17733,8 +17733,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HZE",
     "SWIFT Code": "COMMCNSHHZE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17746,8 +17746,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HHH",
     "SWIFT Code": "COMMCNSHHHH",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17759,8 +17759,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HHE",
     "SWIFT Code": "COMMCNSHHHE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17772,8 +17772,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HAA",
     "SWIFT Code": "COMMCNSHHAA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17785,8 +17785,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HBI",
     "SWIFT Code": "COMMCNSHHBI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17798,8 +17798,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HHA",
     "SWIFT Code": "COMMCNSHHHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17811,8 +17811,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HNA",
     "SWIFT Code": "COMMCNSHHNA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17824,8 +17824,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HGG",
     "SWIFT Code": "COMMCNSHHGG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17837,8 +17837,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HSN",
     "SWIFT Code": "COMMCNSHHSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17850,8 +17850,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HSI",
     "SWIFT Code": "COMMCNSHHSI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17863,8 +17863,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "EZH",
     "SWIFT Code": "COMMCNSHEZH",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17876,8 +17876,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HUI",
     "SWIFT Code": "COMMCNSHHUI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17889,8 +17889,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HLD",
     "SWIFT Code": "COMMCNSHHLD",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17902,8 +17902,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HUZ",
     "SWIFT Code": "COMMCNSHHUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17915,8 +17915,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HRG",
     "SWIFT Code": "COMMCNSHHRG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17928,8 +17928,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "YLI",
     "SWIFT Code": "COMMCNSHYLI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17941,8 +17941,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JMS",
     "SWIFT Code": "COMMCNSHJMS",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17954,8 +17954,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JAN",
     "SWIFT Code": "COMMCNSHJAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17967,8 +17967,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JMN",
     "SWIFT Code": "COMMCNSHJMN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17980,8 +17980,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JZO",
     "SWIFT Code": "COMMCNSHJZO",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -17993,8 +17993,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JYN",
     "SWIFT Code": "COMMCNSHJYN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18006,8 +18006,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JXG",
     "SWIFT Code": "COMMCNSHJXG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18019,8 +18019,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JYG",
     "SWIFT Code": "COMMCNSHJYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18032,8 +18032,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JLN",
     "SWIFT Code": "COMMCNSHJLN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18045,8 +18045,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JNN",
     "SWIFT Code": "COMMCNSHJNN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18058,8 +18058,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JCG",
     "SWIFT Code": "COMMCNSHJCG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18071,8 +18071,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JDZ",
     "SWIFT Code": "COMMCNSHJDZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18084,8 +18084,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JMA",
     "SWIFT Code": "COMMCNSHJMA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18097,8 +18097,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JIA",
     "SWIFT Code": "COMMCNSHJIA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18110,8 +18110,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JHA",
     "SWIFT Code": "COMMCNSHJHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18123,8 +18123,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JNG",
     "SWIFT Code": "COMMCNSHJNG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18136,8 +18136,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JZG",
     "SWIFT Code": "COMMCNSHJZG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18149,8 +18149,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JIN",
     "SWIFT Code": "COMMCNSHJIN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18162,8 +18162,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JJG",
     "SWIFT Code": "COMMCNSHJJG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18175,8 +18175,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JQN",
     "SWIFT Code": "COMMCNSHJQN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18188,8 +18188,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "JXI",
     "SWIFT Code": "COMMCNSHJXI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18201,8 +18201,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "KFG",
     "SWIFT Code": "COMMCNSHKFG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18214,8 +18214,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "KMG",
     "SWIFT Code": "COMMCNSHKMG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18227,8 +18227,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LWU",
     "SWIFT Code": "COMMCNSHLWU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18240,8 +18240,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LFG",
     "SWIFT Code": "COMMCNSHLFG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18253,8 +18253,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LAN",
     "SWIFT Code": "COMMCNSHLAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18266,8 +18266,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LSN",
     "SWIFT Code": "COMMCNSHLSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18279,8 +18279,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "TAR",
     "SWIFT Code": "COMMCNSHTAR",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18292,8 +18292,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LYG",
     "SWIFT Code": "COMMCNSHLYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -18305,8 +18305,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GYG",
     "SWIFT Code": "ICBKCNBJGYG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18318,8 +18318,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GIZ",
     "SWIFT Code": "ICBKCNBJGIZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18331,8 +18331,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HKU",
     "SWIFT Code": "ICBKCNBJHKU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18344,8 +18344,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HNP",
     "SWIFT Code": "ICBKCNBJHNP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18357,8 +18357,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "EFH",
     "SWIFT Code": "ICBKCNBJEFH",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18370,8 +18370,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HZU",
     "SWIFT Code": "ICBKCNBJHZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18383,8 +18383,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZJP",
     "SWIFT Code": "ICBKCNBJZJP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18396,8 +18396,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HEB",
     "SWIFT Code": "ICBKCNBJHEB",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18409,8 +18409,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HEK",
     "SWIFT Code": "ICBKCNBJHEK",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18422,8 +18422,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HLJ",
     "SWIFT Code": "ICBKCNBJHLJ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18435,8 +18435,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "AHI",
     "SWIFT Code": "ICBKCNBJAHI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18448,8 +18448,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HFC",
     "SWIFT Code": "ICBKCNBJHFC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18461,8 +18461,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NMA",
     "SWIFT Code": "ICBKCNBJNMA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18474,8 +18474,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HYC",
     "SWIFT Code": "ICBKCNBJHYC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18487,8 +18487,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HSN",
     "SWIFT Code": "ICBKCNBJHSN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18500,8 +18500,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HUZ",
     "SWIFT Code": "ICBKCNBJHUZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18513,8 +18513,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HZC",
     "SWIFT Code": "ICBKCNBJHZC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18526,8 +18526,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HIC",
     "SWIFT Code": "ICBKCNBJHIC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18539,8 +18539,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "OBC",
     "SWIFT Code": "ICBKCNBJOBC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18552,8 +18552,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JMN",
     "SWIFT Code": "ICBKCNBJJMN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18565,8 +18565,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JSG",
     "SWIFT Code": "ICBKCNBJJSG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18578,8 +18578,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JLC",
     "SWIFT Code": "ICBKCNBJJLC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18591,8 +18591,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JNC",
     "SWIFT Code": "ICBKCNBJJNC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18604,8 +18604,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SDG",
     "SWIFT Code": "ICBKCNBJSDG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18617,8 +18617,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JHC",
     "SWIFT Code": "ICBKCNBJJHC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18630,8 +18630,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JNG",
     "SWIFT Code": "ICBKCNBJJNG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18643,8 +18643,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JZU",
     "SWIFT Code": "ICBKCNBJJZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18656,8 +18656,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JUJ",
     "SWIFT Code": "ICBKCNBJJUJ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18669,8 +18669,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "KFC",
     "SWIFT Code": "ICBKCNBJKFC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18682,8 +18682,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HUT",
     "SWIFT Code": "ICBKCNBJHUT",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18695,8 +18695,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "KMG",
     "SWIFT Code": "ICBKCNBJKMG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18708,8 +18708,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YUN",
     "SWIFT Code": "ICBKCNBJYUN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18721,8 +18721,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GSU",
     "SWIFT Code": "ICBKCNBJGSU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18734,8 +18734,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "LZU",
     "SWIFT Code": "ICBKCNBJLZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18747,8 +18747,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SZG",
     "SWIFT Code": "ICBKCNBJSZG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18760,8 +18760,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "LYG",
     "SWIFT Code": "ICBKCNBJLYG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18773,8 +18773,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "LYC",
     "SWIFT Code": "ICBKCNBJLYC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18786,8 +18786,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "LSC",
     "SWIFT Code": "ICBKCNBJLSC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18799,8 +18799,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "LYA",
     "SWIFT Code": "ICBKCNBJLYA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18812,8 +18812,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JSI",
     "SWIFT Code": "ICBKCNBJJSI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18825,8 +18825,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NCG",
     "SWIFT Code": "ICBKCNBJNCG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18838,8 +18838,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JSP",
     "SWIFT Code": "ICBKCNBJJSP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18851,8 +18851,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NJG",
     "SWIFT Code": "ICBKCNBJNJG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18864,8 +18864,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GSI",
     "SWIFT Code": "ICBKCNBJGSI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18877,8 +18877,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NTG",
     "SWIFT Code": "ICBKCNBJNTG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18890,8 +18890,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NYC",
     "SWIFT Code": "ICBKCNBJNYC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18903,8 +18903,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NBO",
     "SWIFT Code": "ICBKCNBJNBO",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18916,8 +18916,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "PDS",
     "SWIFT Code": "ICBKCNBJPDS",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18929,8 +18929,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "ICBKCNBJQDO",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18942,8 +18942,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "QHD",
     "SWIFT Code": "ICBKCNBJQHD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -18955,8 +18955,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92F",
     "SWIFT Code": "BKCHCNBJ92F",
     "Bank Name": "BANK OF CHINA",
@@ -18968,8 +18968,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "85B",
     "SWIFT Code": "BKCHCNBJ85B",
     "Bank Name": "BANK OF CHINA",
@@ -18981,8 +18981,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "51B",
     "SWIFT Code": "BKCHCNBJ51B",
     "Bank Name": "BANK OF CHINA",
@@ -18994,8 +18994,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "500",
     "SWIFT Code": "BKCHCNBJ500",
     "Bank Name": "BANK OF CHINA",
@@ -19007,8 +19007,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "56A",
     "SWIFT Code": "BKCHCNBJ56A",
     "Bank Name": "BANK OF CHINA",
@@ -19020,8 +19020,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92H",
     "SWIFT Code": "BKCHCNBJ92H",
     "Bank Name": "BANK OF CHINA",
@@ -19033,8 +19033,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82F",
     "SWIFT Code": "BKCHCNBJ82F",
     "Bank Name": "BANK OF CHINA",
@@ -19046,8 +19046,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "640",
     "SWIFT Code": "BKCHCNBJ640",
     "Bank Name": "BANK OF CHINA",
@@ -19059,8 +19059,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "660",
     "SWIFT Code": "BKCHCNBJ660",
     "Bank Name": "BANK OF CHINA",
@@ -19072,8 +19072,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "900",
     "SWIFT Code": "BKCHCNBJ900",
     "Bank Name": "BANK OF CHINA",
@@ -19085,8 +19085,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95A",
     "SWIFT Code": "BKCHCNBJ95A",
     "Bank Name": "BANK OF CHINA",
@@ -19098,8 +19098,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "49D",
     "SWIFT Code": "BKCHCNBJ49D",
     "Bank Name": "BANK OF CHINA",
@@ -19111,8 +19111,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "79C",
     "SWIFT Code": "BKCHCNBJ79C",
     "Bank Name": "BANK OF CHINA",
@@ -19124,8 +19124,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "42P",
     "SWIFT Code": "BKCHCNBJ42P",
     "Bank Name": "BANK OF CHINA",
@@ -19137,8 +19137,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "47K",
     "SWIFT Code": "BKCHCNBJ47K",
     "Bank Name": "BANK OF CHINA",
@@ -19150,8 +19150,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "87E",
     "SWIFT Code": "BKCHCNBJ87E",
     "Bank Name": "BANK OF CHINA",
@@ -19163,8 +19163,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "550",
     "SWIFT Code": "BKCHCNBJ550",
     "Bank Name": "BANK OF CHINA",
@@ -19176,8 +19176,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95I",
     "SWIFT Code": "BKCHCNBJ95I",
     "Bank Name": "BANK OF CHINA",
@@ -19189,8 +19189,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "940",
     "SWIFT Code": "BKCHCNBJ940",
     "Bank Name": "BANK OF CHINA",
@@ -19202,8 +19202,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "480",
     "SWIFT Code": "BKCHCNBJ480",
     "Bank Name": "BANK OF CHINA",
@@ -19215,8 +19215,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95G",
     "SWIFT Code": "BKCHCNBJ95G",
     "Bank Name": "BANK OF CHINA",
@@ -19228,8 +19228,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92A",
     "SWIFT Code": "BKCHCNBJ92A",
     "Bank Name": "BANK OF CHINA",
@@ -19241,8 +19241,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "89C",
     "SWIFT Code": "BKCHCNBJ89C",
     "Bank Name": "BANK OF CHINA",
@@ -19254,8 +19254,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73C",
     "SWIFT Code": "BKCHCNBJ73C",
     "Bank Name": "BANK OF CHINA",
@@ -19267,8 +19267,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "50A",
     "SWIFT Code": "BKCHCNBJ50A",
     "Bank Name": "BANK OF CHINA",
@@ -19280,8 +19280,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "23A",
     "SWIFT Code": "BKCHCNBJ23A",
     "Bank Name": "BANK OF CHINA",
@@ -19293,8 +19293,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "87C",
     "SWIFT Code": "BKCHCNBJ87C",
     "Bank Name": "BANK OF CHINA",
@@ -19306,8 +19306,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "73B",
     "SWIFT Code": "BKCHCNBJ73B",
     "Bank Name": "BANK OF CHINA",
@@ -19319,8 +19319,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "51E",
     "SWIFT Code": "BKCHCNBJ51E",
     "Bank Name": "BANK OF CHINA",
@@ -19332,8 +19332,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "75A",
     "SWIFT Code": "BKCHCNBJ75A",
     "Bank Name": "BANK OF CHINA",
@@ -19345,8 +19345,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "F00",
     "SWIFT Code": "BKCHCNBJF00",
     "Bank Name": "BANK OF CHINA",
@@ -19358,8 +19358,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "300",
     "SWIFT Code": "BKCHCNBJ300",
     "Bank Name": "BANK OF CHINA",
@@ -19371,8 +19371,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "S00",
     "SWIFT Code": "BKCHCNBJS00",
     "Bank Name": "BANK OF CHINA",
@@ -19384,8 +19384,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "41A",
     "SWIFT Code": "BKCHCNBJ41A",
     "Bank Name": "BANK OF CHINA",
@@ -19397,8 +19397,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "46P",
     "SWIFT Code": "BKCHCNBJ46P",
     "Bank Name": "BANK OF CHINA",
@@ -19410,8 +19410,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92D",
     "SWIFT Code": "BKCHCNBJ92D",
     "Bank Name": "BANK OF CHINA",
@@ -19423,8 +19423,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "810",
     "SWIFT Code": "BKCHCNBJ810",
     "Bank Name": "BANK OF CHINA",
@@ -19436,8 +19436,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "82A",
     "SWIFT Code": "BKCHCNBJ82A",
     "Bank Name": "BANK OF CHINA",
@@ -19449,8 +19449,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "F40",
     "SWIFT Code": "BKCHCNBJF40",
     "Bank Name": "BANK OF CHINA",
@@ -19462,8 +19462,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "45B",
     "SWIFT Code": "BKCHCNBJ45B",
     "Bank Name": "BANK OF CHINA",
@@ -19475,8 +19475,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "45A",
     "SWIFT Code": "BKCHCNBJ45A",
     "Bank Name": "BANK OF CHINA",
@@ -19488,8 +19488,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "220",
     "SWIFT Code": "BKCHCNBJ220",
     "Bank Name": "BANK OF CHINA",
@@ -19501,8 +19501,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "69A",
     "SWIFT Code": "BKCHCNBJ69A",
     "Bank Name": "BANK OF CHINA",
@@ -19514,8 +19514,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95B",
     "SWIFT Code": "BKCHCNBJ95B",
     "Bank Name": "BANK OF CHINA",
@@ -19527,8 +19527,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95L",
     "SWIFT Code": "BKCHCNBJ95L",
     "Bank Name": "BANK OF CHINA",
@@ -19540,8 +19540,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "680",
     "SWIFT Code": "BKCHCNBJ680",
     "Bank Name": "BANK OF CHINA",
@@ -19553,8 +19553,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "95N",
     "SWIFT Code": "BKCHCNBJ95N",
     "Bank Name": "BANK OF CHINA",
@@ -19566,8 +19566,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "92J",
     "SWIFT Code": "BKCHCNBJ92J",
     "Bank Name": "BANK OF CHINA",
@@ -19579,8 +19579,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "23H",
     "SWIFT Code": "BKCHCNBJ23H",
     "Bank Name": "BANK OF CHINA",
@@ -19592,8 +19592,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CN",
+    "bankCode": "BKCH",
+    "countryCode": "CN",
     "branchCode": "F10",
     "SWIFT Code": "BKCHCNBJF10",
     "Bank Name": "BANK OF CHINA",
@@ -19605,8 +19605,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BHI",
     "SWIFT Code": "COMMCNSHBHI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19618,8 +19618,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "COMMCNSHBJG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19631,8 +19631,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BBU",
     "SWIFT Code": "COMMCNSHBBU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19644,8 +19644,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BJE",
     "SWIFT Code": "COMMCNSHBJE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19657,8 +19657,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BIN",
     "SWIFT Code": "COMMCNSHBIN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19670,8 +19670,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "BOZ",
     "SWIFT Code": "COMMCNSHBOZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19683,8 +19683,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CAN",
     "SWIFT Code": "COMMCNSHCAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19696,8 +19696,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CCN",
     "SWIFT Code": "COMMCNSHCCN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19709,8 +19709,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CDA",
     "SWIFT Code": "COMMCNSHCDA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19722,8 +19722,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CJI",
     "SWIFT Code": "COMMCNSHCJI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19735,8 +19735,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CSA",
     "SWIFT Code": "COMMCNSHCSA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19748,8 +19748,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CZI",
     "SWIFT Code": "COMMCNSHCZI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19761,8 +19761,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CHA",
     "SWIFT Code": "COMMCNSHCHA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19774,8 +19774,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CHB",
     "SWIFT Code": "COMMCNSHCHB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19787,8 +19787,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CDE",
     "SWIFT Code": "COMMCNSHCDE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19800,8 +19800,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "COMMCNSHCDU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19813,8 +19813,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CHE",
     "SWIFT Code": "COMMCNSHCHE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19826,8 +19826,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CFG",
     "SWIFT Code": "COMMCNSHCFG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19839,8 +19839,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CHI",
     "SWIFT Code": "COMMCNSHCHI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19852,8 +19852,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "COMMCNSHCQG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19865,8 +19865,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CXG",
     "SWIFT Code": "COMMCNSHCXG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19878,8 +19878,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CHU",
     "SWIFT Code": "COMMCNSHCHU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19891,8 +19891,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DLI",
     "SWIFT Code": "COMMCNSHDLI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19904,8 +19904,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "COMMCNSHDLN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19917,8 +19917,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DDG",
     "SWIFT Code": "COMMCNSHDDG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19930,8 +19930,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DQG",
     "SWIFT Code": "COMMCNSHDQG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19943,8 +19943,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DTG",
     "SWIFT Code": "COMMCNSHDTG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19956,8 +19956,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DAZ",
     "SWIFT Code": "COMMCNSHDAZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19969,8 +19969,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DYA",
     "SWIFT Code": "COMMCNSHDYA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19982,8 +19982,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DEZ",
     "SWIFT Code": "COMMCNSHDEZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -19995,8 +19995,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DGN",
     "SWIFT Code": "COMMCNSHDGN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20008,8 +20008,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "DYG",
     "SWIFT Code": "COMMCNSHDYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20021,8 +20021,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FSA",
     "SWIFT Code": "COMMCNSHFSA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20034,8 +20034,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FSN",
     "SWIFT Code": "COMMCNSHFSN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20047,8 +20047,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FXN",
     "SWIFT Code": "COMMCNSHFXN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20060,8 +20060,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FYG",
     "SWIFT Code": "COMMCNSHFYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20073,8 +20073,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FUZ",
     "SWIFT Code": "COMMCNSHFUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20086,8 +20086,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "FUA",
     "SWIFT Code": "COMMCNSHFUA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20099,8 +20099,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "GAN",
     "SWIFT Code": "COMMCNSHGAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20112,8 +20112,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "GFT",
     "SWIFT Code": "COMMCNSHGFT",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20125,8 +20125,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "GUA",
     "SWIFT Code": "COMMCNSHGUA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20138,8 +20138,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "GGG",
     "SWIFT Code": "COMMCNSHGGG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20151,8 +20151,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "GLN",
     "SWIFT Code": "COMMCNSHGLN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20164,8 +20164,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "GYG",
     "SWIFT Code": "COMMCNSHGYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20177,8 +20177,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HNU",
     "SWIFT Code": "COMMCNSHHNU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20190,8 +20190,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HNN",
     "SWIFT Code": "COMMCNSHHNN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20203,8 +20203,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HMI",
     "SWIFT Code": "COMMCNSHHMI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20216,8 +20216,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HDN",
     "SWIFT Code": "COMMCNSHHDN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20229,8 +20229,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HAN",
     "SWIFT Code": "COMMCNSHHAN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20242,8 +20242,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "HZG",
     "SWIFT Code": "COMMCNSHHZG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -20255,8 +20255,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEFG",
-    "bankCode": "CN",
+    "bankCode": "AEFG",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "AEFGCNS2",
     "Bank Name": "AEGON-INDUSTRIAL FUND MANAGEMENT CO., LTD.",
@@ -20268,8 +20268,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "021",
     "SWIFT Code": "ABOCCNBJ021",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20281,8 +20281,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "191",
     "SWIFT Code": "ABOCCNBJ191",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20294,8 +20294,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "ABOCCNBJ002",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20307,8 +20307,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "ABOCCNBJ010",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20320,8 +20320,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "CMD",
     "SWIFT Code": "ABOCCNBJCMD",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20333,8 +20333,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "DEP",
     "SWIFT Code": "ABOCCNBJDEP",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20346,8 +20346,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "ABOCCNBJFTZ",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20359,8 +20359,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "CUS",
     "SWIFT Code": "ABOCCNBJCUS",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20372,8 +20372,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "211",
     "SWIFT Code": "ABOCCNBJ211",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20385,8 +20385,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ABOCCNBJ",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20398,8 +20398,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "999",
     "SWIFT Code": "ABOCCNBJ999",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20411,8 +20411,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "070",
     "SWIFT Code": "ABOCCNBJ070",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20424,8 +20424,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "180",
     "SWIFT Code": "ABOCCNBJ180",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20437,8 +20437,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "220",
     "SWIFT Code": "ABOCCNBJ220",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20450,8 +20450,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "310",
     "SWIFT Code": "ABOCCNBJ310",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20463,8 +20463,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "340",
     "SWIFT Code": "ABOCCNBJ340",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20476,8 +20476,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "130",
     "SWIFT Code": "ABOCCNBJ130",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20489,8 +20489,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "190",
     "SWIFT Code": "ABOCCNBJ190",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20502,8 +20502,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "230",
     "SWIFT Code": "ABOCCNBJ230",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20515,8 +20515,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "210",
     "SWIFT Code": "ABOCCNBJ210",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20528,8 +20528,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "110",
     "SWIFT Code": "ABOCCNBJ110",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20541,8 +20541,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "080",
     "SWIFT Code": "ABOCCNBJ080",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20554,8 +20554,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "120",
     "SWIFT Code": "ABOCCNBJ120",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20567,8 +20567,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "ABOCCNBJ050",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20580,8 +20580,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "302",
     "SWIFT Code": "ABOCCNBJ302",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20593,8 +20593,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "150",
     "SWIFT Code": "ABOCCNBJ150",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20606,8 +20606,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "240",
     "SWIFT Code": "ABOCCNBJ240",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20619,8 +20619,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "270",
     "SWIFT Code": "ABOCCNBJ270",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20632,8 +20632,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "250",
     "SWIFT Code": "ABOCCNBJ250",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20645,8 +20645,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "140",
     "SWIFT Code": "ABOCCNBJ140",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20658,8 +20658,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "100",
     "SWIFT Code": "ABOCCNBJ100",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20671,8 +20671,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "ABOCCNBJ200",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20684,8 +20684,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "390",
     "SWIFT Code": "ABOCCNBJ390",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20697,8 +20697,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "380",
     "SWIFT Code": "ABOCCNBJ380",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20710,8 +20710,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "099",
     "SWIFT Code": "ABOCCNBJ099",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20723,8 +20723,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "CCC",
     "SWIFT Code": "ABOCCNBJCCC",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20736,8 +20736,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "090",
     "SWIFT Code": "ABOCCNBJ090",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20749,8 +20749,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "060",
     "SWIFT Code": "ABOCCNBJ060",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20762,8 +20762,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "410",
     "SWIFT Code": "ABOCCNBJ410",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20775,8 +20775,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "ABOCCNBJ030",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20788,8 +20788,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "103",
     "SWIFT Code": "ABOCCNBJ103",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20801,8 +20801,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "040",
     "SWIFT Code": "ABOCCNBJ040",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20814,8 +20814,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "020",
     "SWIFT Code": "ABOCCNBJ020",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20827,8 +20827,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "303",
     "SWIFT Code": "ABOCCNBJ303",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20840,8 +20840,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "300",
     "SWIFT Code": "ABOCCNBJ300",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20853,8 +20853,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "301",
     "SWIFT Code": "ABOCCNBJ301",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20866,8 +20866,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "170",
     "SWIFT Code": "ABOCCNBJ170",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20879,8 +20879,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "400",
     "SWIFT Code": "ABOCCNBJ400",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20892,8 +20892,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "CN",
+    "bankCode": "ABOC",
+    "countryCode": "CN",
     "branchCode": "260",
     "SWIFT Code": "ABOCCNBJ260",
     "Bank Name": "AGRICULTURAL BANK OF CHINA, THE",
@@ -20905,8 +20905,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFCB",
-    "bankCode": "CN",
+    "bankCode": "HFCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "HFCBCNSH",
     "Bank Name": "HUISHANG BANK CORPORATION LTD",
@@ -20918,8 +20918,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRCN",
-    "bankCode": "CN",
+    "bankCode": "HRCN",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HRCNCNBH",
     "Bank Name": "HUIZHOU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -20931,8 +20931,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLRC",
-    "bankCode": "CN",
+    "bankCode": "NLRC",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "NLRCCNBL",
     "Bank Name": "HUNAN LILING RURAL COMMERCIAL BANK CO., LTD",
@@ -20944,8 +20944,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLJR",
-    "bankCode": "CN",
+    "bankCode": "HLJR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HLJRCNB2",
     "Bank Name": "HUNAN LIUYANG JIANGHUAI RURAL BANK CO.,LTD.",
@@ -20957,8 +20957,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLRC",
-    "bankCode": "CN",
+    "bankCode": "HLRC",
+    "countryCode": "CN",
     "branchCode": "NSC",
     "SWIFT Code": "HLRCCNSC",
     "Bank Name": "HUNAN LIUYANG RURAL COMMERCIAL BANK CO.,LTD",
@@ -20970,8 +20970,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXRR",
-    "bankCode": "CN",
+    "bankCode": "HXRR",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HXRRCNBH",
     "Bank Name": "HUNAN XINGSHA RURAL COMMERCIAL BANK",
@@ -20983,8 +20983,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HWRC",
-    "bankCode": "CN",
+    "bankCode": "HWRC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HWRCCNBH",
     "Bank Name": "HUZHOU WUXING RURAL COMMERCIAL BANK",
@@ -20996,8 +20996,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CN",
+    "bankCode": "ICIC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ICICCNSH",
     "Bank Name": "ICICI BANK LIMITED",
@@ -21009,8 +21009,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "CN",
+    "bankCode": "ICIC",
+    "countryCode": "CN",
     "branchCode": "TSY",
     "SWIFT Code": "ICICCNSHTSY",
     "Bank Name": "ICICI BANK LIMITED",
@@ -21022,8 +21022,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ASC",
     "SWIFT Code": "ICBKCNBJASC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21035,8 +21035,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "BDC",
     "SWIFT Code": "ICBKCNBJBDC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21048,8 +21048,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "BJI",
     "SWIFT Code": "ICBKCNBJBJI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21061,8 +21061,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "BTC",
     "SWIFT Code": "ICBKCNBJBTC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21074,8 +21074,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "BJM",
     "SWIFT Code": "ICBKCNBJBJM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21087,8 +21087,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CCS",
     "SWIFT Code": "ICBKCNBJCCS",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21100,8 +21100,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ICC",
     "SWIFT Code": "ICBKCNBJICC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21113,8 +21113,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "DRC",
     "SWIFT Code": "ICBKCNBJDRC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21126,8 +21126,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CSD",
     "SWIFT Code": "ICBKCNBJCSD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21139,8 +21139,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ICBKCNBJ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21152,8 +21152,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "OPE",
     "SWIFT Code": "ICBKCNBJOPE",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21165,8 +21165,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CCC",
     "SWIFT Code": "ICBKCNBJCCC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21178,8 +21178,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "BXC",
     "SWIFT Code": "ICBKCNBJBXC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21191,8 +21191,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "BIN",
     "SWIFT Code": "ICBKCNBJBIN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21204,8 +21204,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CCN",
     "SWIFT Code": "ICBKCNBJCCN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21217,8 +21217,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "JLP",
     "SWIFT Code": "ICBKCNBJJLP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21230,8 +21230,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CHS",
     "SWIFT Code": "ICBKCNBJCHS",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21243,8 +21243,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HUN",
     "SWIFT Code": "ICBKCNBJHUN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21256,8 +21256,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CZI",
     "SWIFT Code": "ICBKCNBJCZI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21269,8 +21269,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CZU",
     "SWIFT Code": "ICBKCNBJCZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21282,8 +21282,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CDE",
     "SWIFT Code": "ICBKCNBJCDE",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21295,8 +21295,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "ICBKCNBJCDU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21308,8 +21308,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SCN",
     "SWIFT Code": "ICBKCNBJSCN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21321,8 +21321,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "ICBKCNBJCQG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21334,8 +21334,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "ICBKCNBJDLN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21347,8 +21347,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "DDG",
     "SWIFT Code": "ICBKCNBJDDG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21360,8 +21360,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "DTC",
     "SWIFT Code": "ICBKCNBJDTC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21373,8 +21373,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "DZU",
     "SWIFT Code": "ICBKCNBJDZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21386,8 +21386,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "DGN",
     "SWIFT Code": "ICBKCNBJDGN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21399,8 +21399,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "FSN",
     "SWIFT Code": "ICBKCNBJFSN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21412,8 +21412,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SUD",
     "SWIFT Code": "ICBKCNBJSUD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21425,8 +21425,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "FUS",
     "SWIFT Code": "ICBKCNBJFUS",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21438,8 +21438,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "FJN",
     "SWIFT Code": "ICBKCNBJFJN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21451,8 +21451,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "FZU",
     "SWIFT Code": "ICBKCNBJFZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21464,8 +21464,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GAZ",
     "SWIFT Code": "ICBKCNBJGAZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21477,8 +21477,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GDG",
     "SWIFT Code": "ICBKCNBJGDG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21490,8 +21490,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GZU",
     "SWIFT Code": "ICBKCNBJGZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21503,8 +21503,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "EFG",
     "SWIFT Code": "ICBKCNBJEFG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21516,8 +21516,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GDZ",
     "SWIFT Code": "ICBKCNBJGDZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21529,8 +21529,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GZZ",
     "SWIFT Code": "ICBKCNBJGZZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21542,8 +21542,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "GLC",
     "SWIFT Code": "ICBKCNBJGLC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -21555,8 +21555,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "999",
     "SWIFT Code": "HFBACNSD999",
     "Bank Name": "EVERGROWING BANK",
@@ -21568,8 +21568,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "210",
     "SWIFT Code": "HFBACNSD210",
     "Bank Name": "EVERGROWING BANK",
@@ -21581,8 +21581,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "HFBACNSDFTU",
     "Bank Name": "EVERGROWING BANK",
@@ -21594,8 +21594,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "190",
     "SWIFT Code": "HFBACNSD190",
     "Bank Name": "EVERGROWING BANK",
@@ -21607,8 +21607,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "080",
     "SWIFT Code": "HFBACNSD080",
     "Bank Name": "EVERGROWING BANK",
@@ -21620,8 +21620,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "038",
     "SWIFT Code": "HFBACNSD038",
     "Bank Name": "EVERGROWING BANK",
@@ -21633,8 +21633,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "021",
     "SWIFT Code": "HFBACNSD021",
     "Bank Name": "EVERGROWING BANK",
@@ -21646,8 +21646,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "120",
     "SWIFT Code": "HFBACNSD120",
     "Bank Name": "EVERGROWING BANK",
@@ -21659,8 +21659,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "180",
     "SWIFT Code": "HFBACNSD180",
     "Bank Name": "EVERGROWING BANK",
@@ -21672,8 +21672,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "041",
     "SWIFT Code": "HFBACNSD041",
     "Bank Name": "EVERGROWING BANK",
@@ -21685,8 +21685,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "110",
     "SWIFT Code": "HFBACNSD110",
     "Bank Name": "EVERGROWING BANK",
@@ -21698,8 +21698,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "046",
     "SWIFT Code": "HFBACNSD046",
     "Bank Name": "EVERGROWING BANK",
@@ -21711,8 +21711,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "043",
     "SWIFT Code": "HFBACNSD043",
     "Bank Name": "EVERGROWING BANK",
@@ -21724,8 +21724,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "HFBACNSD010",
     "Bank Name": "EVERGROWING BANK",
@@ -21737,8 +21737,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "039",
     "SWIFT Code": "HFBACNSD039",
     "Bank Name": "EVERGROWING BANK",
@@ -21750,8 +21750,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "093",
     "SWIFT Code": "HFBACNSD093",
     "Bank Name": "EVERGROWING BANK",
@@ -21763,8 +21763,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "160",
     "SWIFT Code": "HFBACNSD160",
     "Bank Name": "EVERGROWING BANK",
@@ -21776,8 +21776,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFBA",
-    "bankCode": "CN",
+    "bankCode": "HFBA",
+    "countryCode": "CN",
     "branchCode": "036",
     "SWIFT Code": "HFBACNSD036",
     "Bank Name": "EVERGROWING BANK",
@@ -21789,8 +21789,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "EIBCCNBJ",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21802,8 +21802,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "BKD",
     "SWIFT Code": "EIBCCNBJBKD",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21815,8 +21815,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "BJB",
     "SWIFT Code": "EIBCCNBJBJB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21828,8 +21828,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "JLB",
     "SWIFT Code": "EIBCCNBJJLB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21841,8 +21841,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "HUN",
     "SWIFT Code": "EIBCCNBJHUN",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21854,8 +21854,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "CDB",
     "SWIFT Code": "EIBCCNBJCDB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21867,8 +21867,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "CQB",
     "SWIFT Code": "EIBCCNBJCQB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21880,8 +21880,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "DLB",
     "SWIFT Code": "EIBCCNBJDLB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21893,8 +21893,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "FJB",
     "SWIFT Code": "EIBCCNBJFJB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21906,8 +21906,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "GDB",
     "SWIFT Code": "EIBCCNBJGDB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21919,8 +21919,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "EIBCCNBJGZH",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21932,8 +21932,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "HNB",
     "SWIFT Code": "EIBCCNBJHNB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21945,8 +21945,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "ZJP",
     "SWIFT Code": "EIBCCNBJZJP",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21958,8 +21958,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "HLJ",
     "SWIFT Code": "EIBCCNBJHLJ",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21971,8 +21971,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "AHB",
     "SWIFT Code": "EIBCCNBJAHB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21984,8 +21984,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "NMG",
     "SWIFT Code": "EIBCCNBJNMG",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -21997,8 +21997,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "KXJ",
     "SWIFT Code": "EIBCCNBJKXJ",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22010,8 +22010,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "YNB",
     "SWIFT Code": "EIBCCNBJYNB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22023,8 +22023,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "GSB",
     "SWIFT Code": "EIBCCNBJGSB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22036,8 +22036,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "JXB",
     "SWIFT Code": "EIBCCNBJJXB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22049,8 +22049,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "NJB",
     "SWIFT Code": "EIBCCNBJNJB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22062,8 +22062,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "GXB",
     "SWIFT Code": "EIBCCNBJGXB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22075,8 +22075,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "EIBCCNBJNBB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22088,8 +22088,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "QDB",
     "SWIFT Code": "EIBCCNBJQDB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22101,8 +22101,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "EIBCCNBJSHA",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22114,8 +22114,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "SZT",
     "SWIFT Code": "EIBCCNBJSZT",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22127,8 +22127,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "HEB",
     "SWIFT Code": "EIBCCNBJHEB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22140,8 +22140,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "SXB",
     "SWIFT Code": "EIBCCNBJSXB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22153,8 +22153,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "TJB",
     "SWIFT Code": "EIBCCNBJTJB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22166,8 +22166,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "WXJ",
     "SWIFT Code": "EIBCCNBJWXJ",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22179,8 +22179,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "HUB",
     "SWIFT Code": "EIBCCNBJHUB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22192,8 +22192,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "SMB",
     "SWIFT Code": "EIBCCNBJSMB",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22205,8 +22205,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "QZU",
     "SWIFT Code": "ICBKCNBJQZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22218,8 +22218,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SSR",
     "SWIFT Code": "ICBKCNBJSSR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22231,8 +22231,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "QZC",
     "SWIFT Code": "ICBKCNBJQZC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22244,8 +22244,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "RIZ",
     "SWIFT Code": "ICBKCNBJRIZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22257,8 +22257,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SXA",
     "SWIFT Code": "ICBKCNBJSXA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22270,8 +22270,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "ICBKCNBJFTZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22283,8 +22283,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "PMD",
     "SWIFT Code": "ICBKCNBJPMD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22296,8 +22296,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "PBD",
     "SWIFT Code": "ICBKCNBJPBD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22309,8 +22309,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "ICBKCNBJFTU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22322,8 +22322,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "ICBKCNBJSHI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22335,8 +22335,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "STU",
     "SWIFT Code": "ICBKCNBJSTU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22348,8 +22348,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SXC",
     "SWIFT Code": "ICBKCNBJSXC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22361,8 +22361,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "LNP",
     "SWIFT Code": "ICBKCNBJLNP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22374,8 +22374,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SYG",
     "SWIFT Code": "ICBKCNBJSYG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22387,8 +22387,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SZX",
     "SWIFT Code": "ICBKCNBJSZX",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22400,8 +22400,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "ICBKCNBJSZN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22413,8 +22413,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HBI",
     "SWIFT Code": "ICBKCNBJHBI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22426,8 +22426,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "ICBKCNBJSJZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22439,8 +22439,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SZU",
     "SWIFT Code": "ICBKCNBJSZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22452,8 +22452,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "TAN",
     "SWIFT Code": "ICBKCNBJTAN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22465,8 +22465,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SSI",
     "SWIFT Code": "ICBKCNBJSSI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22478,8 +22478,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "TYU",
     "SWIFT Code": "ICBKCNBJTYU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22491,8 +22491,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "TZC",
     "SWIFT Code": "ICBKCNBJTZC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22504,8 +22504,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "TAZ",
     "SWIFT Code": "ICBKCNBJTAZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22517,8 +22517,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "TSN",
     "SWIFT Code": "ICBKCNBJTSN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22530,8 +22530,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "ICBKCNBJTJN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22543,8 +22543,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SJG",
     "SWIFT Code": "ICBKCNBJSJG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22556,8 +22556,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "WFG",
     "SWIFT Code": "ICBKCNBJWFG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22569,8 +22569,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "WHI",
     "SWIFT Code": "ICBKCNBJWHI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22582,8 +22582,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "WZU",
     "SWIFT Code": "ICBKCNBJWZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22595,8 +22595,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HUB",
     "SWIFT Code": "ICBKCNBJHUB",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22608,8 +22608,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "WHN",
     "SWIFT Code": "ICBKCNBJWHN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22621,8 +22621,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "WHU",
     "SWIFT Code": "ICBKCNBJWHU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22634,8 +22634,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "WSI",
     "SWIFT Code": "ICBKCNBJWSI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22647,8 +22647,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SMM",
     "SWIFT Code": "ICBKCNBJSMM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22660,8 +22660,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SAS",
     "SWIFT Code": "ICBKCNBJSAS",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22673,8 +22673,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SAN",
     "SWIFT Code": "ICBKCNBJSAN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22686,8 +22686,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "QHI",
     "SWIFT Code": "ICBKCNBJQHI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22699,8 +22699,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SXG",
     "SWIFT Code": "ICBKCNBJSXG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22712,8 +22712,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "SUZ",
     "SWIFT Code": "ICBKCNBJSUZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22725,8 +22725,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "HCC",
     "SWIFT Code": "ICBKCNBJHCC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22738,8 +22738,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YBA",
     "SWIFT Code": "ICBKCNBJYBA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22751,8 +22751,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YAN",
     "SWIFT Code": "ICBKCNBJYAN",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22764,8 +22764,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YPC",
     "SWIFT Code": "ICBKCNBJYPC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22777,8 +22777,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YZU",
     "SWIFT Code": "ICBKCNBJYZU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22790,8 +22790,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YTI",
     "SWIFT Code": "ICBKCNBJYTI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22803,8 +22803,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "NSA",
     "SWIFT Code": "ICBKCNBJNSA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22816,8 +22816,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YKU",
     "SWIFT Code": "ICBKCNBJYKU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22829,8 +22829,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "YCC",
     "SWIFT Code": "ICBKCNBJYCC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22842,8 +22842,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CN",
+    "bankCode": "ICBK",
+    "countryCode": "CN",
     "branchCode": "ZAG",
     "SWIFT Code": "ICBKCNBJZAG",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
@@ -22855,8 +22855,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "SXA",
     "SWIFT Code": "EIBCCNBJSXA",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22868,8 +22868,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "CN",
+    "bankCode": "EIBC",
+    "countryCode": "CN",
     "branchCode": "HEN",
     "SWIFT Code": "EIBCCNBJHEN",
     "Bank Name": "EXPORT-IMPORT BANK OF CHINA, THE",
@@ -22881,8 +22881,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FABM",
-    "bankCode": "CN",
+    "bankCode": "FABM",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "FABMCNSH",
     "Bank Name": "FIRST ABU DHABI BANK P.J.S.C SHANGHAI BRANCH",
@@ -22894,8 +22894,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "CN",
+    "bankCode": "FCBK",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "FCBKCNSHCDU",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -22907,8 +22907,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "CN",
+    "bankCode": "FCBK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "FCBKCNSH",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -22920,8 +22920,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "CN",
+    "bankCode": "FCBK",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "FCBKCNSHFTZ",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -22933,8 +22933,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "CN",
+    "bankCode": "FCBK",
+    "countryCode": "CN",
     "branchCode": "SMN",
     "SWIFT Code": "FCBKCNSHSMN",
     "Bank Name": "FIRST COMMERCIAL BANK",
@@ -22946,8 +22946,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCC",
-    "bankCode": "CN",
+    "bankCode": "FRCC",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "FRCCCNBB",
     "Bank Name": "FOSHAN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -22959,8 +22959,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRTC",
-    "bankCode": "CN",
+    "bankCode": "FRTC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "FRTCCNBS",
     "Bank Name": "FRIENDTIMES TECHNOLOGY INC.",
@@ -22972,8 +22972,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBC",
-    "bankCode": "CN",
+    "bankCode": "FSBC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "FSBCCNSH",
     "Bank Name": "FUBON BANK (CHINA) CO., LTD",
@@ -22985,8 +22985,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBC",
-    "bankCode": "CN",
+    "bankCode": "FSBC",
+    "countryCode": "CN",
     "branchCode": "FTS",
     "SWIFT Code": "FSBCCNSHFTS",
     "Bank Name": "FUBON BANK (CHINA) CO., LTD",
@@ -22998,8 +22998,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBC",
-    "bankCode": "CN",
+    "bankCode": "FSBC",
+    "countryCode": "CN",
     "branchCode": "600",
     "SWIFT Code": "FSBCCNSH600",
     "Bank Name": "FUBON BANK (CHINA) CO., LTD",
@@ -23011,8 +23011,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBC",
-    "bankCode": "CN",
+    "bankCode": "FSBC",
+    "countryCode": "CN",
     "branchCode": "800",
     "SWIFT Code": "FSBCCNSH800",
     "Bank Name": "FUBON BANK (CHINA) CO., LTD",
@@ -23024,8 +23024,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSBC",
-    "bankCode": "CN",
+    "bankCode": "FSBC",
+    "countryCode": "CN",
     "branchCode": "700",
     "SWIFT Code": "FSBCCNSH700",
     "Bank Name": "FUBON BANK (CHINA) CO., LTD",
@@ -23037,8 +23037,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCB",
-    "bankCode": "CN",
+    "bankCode": "KCCB",
+    "countryCode": "CN",
     "branchCode": "CQA",
     "SWIFT Code": "KCCBCN2KCQA",
     "Bank Name": "FUDIAN BANK CO., LTD",
@@ -23050,8 +23050,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCB",
-    "bankCode": "CN",
+    "bankCode": "KCCB",
+    "countryCode": "CN",
     "branchCode": "HKA",
     "SWIFT Code": "KCCBCN2KHKA",
     "Bank Name": "FUDIAN BANK CO., LTD",
@@ -23063,8 +23063,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCB",
-    "bankCode": "CN",
+    "bankCode": "KCCB",
+    "countryCode": "CN",
     "branchCode": "N2K",
     "SWIFT Code": "KCCBCN2K",
     "Bank Name": "FUDIAN BANK CO., LTD",
@@ -23076,8 +23076,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCRC",
-    "bankCode": "CN",
+    "bankCode": "FCRC",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "FCRCCNBC",
     "Bank Name": "FUJIAN CHANGLE RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23089,8 +23089,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFHR",
-    "bankCode": "CN",
+    "bankCode": "FFHR",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "FFHRCNBF",
     "Bank Name": "FUJIAN FUQING HUITONG RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23102,8 +23102,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFRC",
-    "bankCode": "CN",
+    "bankCode": "FFRC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "FFRCCNBZ",
     "Bank Name": "FUJIAN FUZHOU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23115,8 +23115,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FZCB",
-    "bankCode": "CN",
+    "bankCode": "FZCB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "FZCBCNBS",
     "Bank Name": "FUJIAN HAIXIA BANK",
@@ -23128,8 +23128,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJRO",
-    "bankCode": "CN",
+    "bankCode": "FJRO",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "FJROCNBF",
     "Bank Name": "FUJIAN JINJIANG RURAL COMMERCIAL BANK CO., LTD",
@@ -23141,8 +23141,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLRC",
-    "bankCode": "CN",
+    "bankCode": "FLRC",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "FLRCCNBL",
     "Bank Name": "FUJIAN LONGHAI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23154,8 +23154,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNRO",
-    "bankCode": "CN",
+    "bankCode": "FNRO",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "FNROCNBQ",
     "Bank Name": "FUJIAN NAN AN RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23167,8 +23167,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FJRC",
-    "bankCode": "CN",
+    "bankCode": "FJRC",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "FJRCCNBF",
     "Bank Name": "FUJIAN RURAL CREDIT UNION",
@@ -23180,8 +23180,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FZRC",
-    "bankCode": "CN",
+    "bankCode": "FZRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "FZRCCNBJ",
     "Bank Name": "FUJIAN ZHANGZHOU RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23193,8 +23193,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCV",
-    "bankCode": "CN",
+    "bankCode": "FRCV",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "FRCVCNB2",
     "Bank Name": "FUNING RURAL CREDIT COOPERATIVES",
@@ -23206,8 +23206,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FURO",
-    "bankCode": "CN",
+    "bankCode": "FURO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "FUROCNB2",
     "Bank Name": "FUZHOU RURAL COMMERCIAL BANK CO., LTD",
@@ -23219,8 +23219,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GARO",
-    "bankCode": "CN",
+    "bankCode": "GARO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GAROCNB2",
     "Bank Name": "GANZHOU RURAL COMMERCIAL BANK CO., LTD",
@@ -23232,8 +23232,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNFI",
-    "bankCode": "CN",
+    "bankCode": "GNFI",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "GNFICNBJ",
     "Bank Name": "GENERTEC FINANCE CO., LTD.",
@@ -23245,8 +23245,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDAC",
-    "bankCode": "CN",
+    "bankCode": "GDAC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GDACCNB2",
     "Bank Name": "GENGMA DAI AND WA AUTONOMOUS COUNTY RURAL CREDIT COOPERATIVES",
@@ -23258,8 +23258,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFMT",
-    "bankCode": "CN",
+    "bankCode": "GFMT",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "GFMTCNBZ",
     "Bank Name": "GF FUND MANAGEMENT CO., LTD.",
@@ -23271,8 +23271,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSGA",
-    "bankCode": "CN",
+    "bankCode": "GSGA",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GSGACNB2",
     "Bank Name": "GOLDMAN SACHS (CHINA) SECURITIES COMPANY LIMITED",
@@ -23284,8 +23284,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECC",
-    "bankCode": "CN",
+    "bankCode": "DECC",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "DECCCNBD",
     "Bank Name": "GREAT WALL WEST CHINA BANK CO.,LTD.",
@@ -23297,8 +23297,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSRC",
-    "bankCode": "CN",
+    "bankCode": "GSRC",
+    "countryCode": "CN",
     "branchCode": "NBG",
     "SWIFT Code": "GSRCCNBG",
     "Bank Name": "GUANGAN SIYUAN RURAL COMMERCIAL BANK CO., LTD.",
@@ -23310,8 +23310,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBRC",
-    "bankCode": "CN",
+    "bankCode": "GBRC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "GBRCCNBH",
     "Bank Name": "GUANGDONG BOLUO RURAL COMMERCIAL BANK CO., LTD",
@@ -23323,8 +23323,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEGF",
-    "bankCode": "CN",
+    "bankCode": "GEGF",
+    "countryCode": "CN",
     "branchCode": "N2G",
     "SWIFT Code": "GEGFCN2G",
     "Bank Name": "GUANGDONG ENERGY GROUP FINANCE CO., LTD.",
@@ -23336,8 +23336,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHGC",
-    "bankCode": "CN",
+    "bankCode": "GHGC",
+    "countryCode": "CN",
     "branchCode": "NBG",
     "SWIFT Code": "GHGCCNBG",
     "Bank Name": "GUANGDONG HAID GROUP CO.,LTD",
@@ -23349,8 +23349,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHRC",
-    "bankCode": "CN",
+    "bankCode": "GHRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GHRCCNB2",
     "Bank Name": "GUANGDONG HESHAN RURAL COMMERCIAL BANK CO., LTD",
@@ -23362,8 +23362,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDHB",
-    "bankCode": "CN",
+    "bankCode": "GDHB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "GDHBCN22",
     "Bank Name": "GUANGDONG HUAXING BANK CO.,LTD",
@@ -23375,8 +23375,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDHB",
-    "bankCode": "CN",
+    "bankCode": "GDHB",
+    "countryCode": "CN",
     "branchCode": "GZB",
     "SWIFT Code": "GDHBCN22GZB",
     "Bank Name": "GUANGDONG HUAXING BANK CO.,LTD",
@@ -23388,8 +23388,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCNH",
-    "bankCode": "CN",
+    "bankCode": "RCNH",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "RCNHCN22",
     "Bank Name": "GUANGDONG NANHAI RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23401,8 +23401,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDPB",
-    "bankCode": "CN",
+    "bankCode": "GDPB",
+    "countryCode": "CN",
     "branchCode": "SZX",
     "SWIFT Code": "GDPBCN22SZX",
     "Bank Name": "GUANGDONG NANYUE BANK CO.,LTD.",
@@ -23414,8 +23414,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDPB",
-    "bankCode": "CN",
+    "bankCode": "GDPB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "GDPBCN22",
     "Bank Name": "GUANGDONG NANYUE BANK CO.,LTD.",
@@ -23427,8 +23427,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRFC",
-    "bankCode": "CN",
+    "bankCode": "GRFC",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "GRFCCN22",
     "Bank Name": "GUANGDONG RISING FINANCE CO., LTD.",
@@ -23440,8 +23440,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCCS",
-    "bankCode": "CN",
+    "bankCode": "RCCS",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "RCCSCNBS",
     "Bank Name": "GUANGDONG SHUNDE RURAL COMMERCIAL BANK COMPANY LIMITED",
@@ -23453,8 +23453,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GXRC",
-    "bankCode": "CN",
+    "bankCode": "GXRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GXRCCNB2",
     "Bank Name": "GUANGDONG XINXING RURAL COMMERCIAL BANK CO., LTD",
@@ -23466,8 +23466,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGBK",
-    "bankCode": "CN",
+    "bankCode": "BGBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BGBKCNBJ",
     "Bank Name": "GUANGXI BEIBU GULF BANK CO.,LTD",
@@ -23479,8 +23479,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBRO",
-    "bankCode": "CN",
+    "bankCode": "GBRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GBROCNB2",
     "Bank Name": "GUANGXI BINYANG RURAL COMMERCIAL BANK CO.,LTD.",
@@ -23492,8 +23492,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCRO",
-    "bankCode": "CN",
+    "bankCode": "GCRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GCROCNB2",
     "Bank Name": "GUANGXI CANGWU RURAL COMMERCIAL BANK CO.,LTD.",
@@ -23505,8 +23505,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "380",
     "SWIFT Code": "SPDBCNSH380",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -23518,8 +23518,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "360",
     "SWIFT Code": "SPDBCNSH360",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -23531,8 +23531,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "140",
     "SWIFT Code": "SPDBCNSH140",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -23544,8 +23544,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "350",
     "SWIFT Code": "SPDBCNSH350",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -23557,8 +23557,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "330",
     "SWIFT Code": "SPDBCNSH330",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -23570,8 +23570,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDB",
-    "bankCode": "CN",
+    "bankCode": "SPDB",
+    "countryCode": "CN",
     "branchCode": "090",
     "SWIFT Code": "SPDBCNSH090",
     "Bank Name": "SHANGHAI PUDONG DEVELOPMENT BANK",
@@ -23583,8 +23583,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHRC",
-    "bankCode": "CN",
+    "bankCode": "SHRC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SHRCCNSH",
     "Bank Name": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD",
@@ -23596,8 +23596,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHRC",
-    "bankCode": "CN",
+    "bankCode": "SHRC",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "SHRCCNSHFTZ",
     "Bank Name": "SHANGHAI RURAL COMMERCIAL BANK CO., LTD",
@@ -23609,8 +23609,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSZH",
-    "bankCode": "CN",
+    "bankCode": "SSZH",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SSZHCNSH",
     "Bank Name": "SHANGHAI SANKUAI ZHISONG TECHNOLOGY CO., LTD",
@@ -23622,8 +23622,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXMT",
-    "bankCode": "CN",
+    "bankCode": "SXMT",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SXMTCNSH",
     "Bank Name": "SHANGHAI XINXING MULTIMEDIA TECHNOLOGY CO., LTD.",
@@ -23635,8 +23635,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHNG",
-    "bankCode": "CN",
+    "bankCode": "SHNG",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SHNGCNB2",
     "Bank Name": "SHANGRAO RURAL COMMERCIAL BANK CO., LTD",
@@ -23648,8 +23648,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHAX",
-    "bankCode": "CN",
+    "bankCode": "SHAX",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SHAXCNBS",
     "Bank Name": "SHANXI BANK CO., LTD.",
@@ -23661,8 +23661,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHEU",
-    "bankCode": "CN",
+    "bankCode": "SHEU",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SHEUCNB2",
     "Bank Name": "SHANXI SECURITIES",
@@ -23674,8 +23674,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YDBK",
-    "bankCode": "CN",
+    "bankCode": "YDBK",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "YDBKCNBL",
     "Bank Name": "SHANXI YAODU RURAL COMMERCIAL BANK CO.,LTD",
@@ -23687,8 +23687,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYCB",
-    "bankCode": "CN",
+    "bankCode": "SYCB",
+    "countryCode": "CN",
     "branchCode": "BJA",
     "SWIFT Code": "SYCBCNBYBJA",
     "Bank Name": "SHENGJING BANK CO.,LTD",
@@ -23700,8 +23700,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYCB",
-    "bankCode": "CN",
+    "bankCode": "SYCB",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "SYCBCNBY",
     "Bank Name": "SHENGJING BANK CO.,LTD",
@@ -23713,8 +23713,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYCB",
-    "bankCode": "CN",
+    "bankCode": "SYCB",
+    "countryCode": "CN",
     "branchCode": "TJA",
     "SWIFT Code": "SYCBCNBYTJA",
     "Bank Name": "SHENGJING BANK CO.,LTD",
@@ -23726,8 +23726,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZBK",
-    "bankCode": "CN",
+    "bankCode": "SZBK",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "SZBKCNBQ",
     "Bank Name": "SHENGZHOU RURAL COMMERCIAL BANK",
@@ -23739,8 +23739,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHY",
-    "bankCode": "CN",
+    "bankCode": "SWHY",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SWHYCNSH",
     "Bank Name": "SHENWAN HONGYUAN SECURITIES CO., LTD",
@@ -23752,8 +23752,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHAP",
-    "bankCode": "CN",
+    "bankCode": "SHAP",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SHAPCNBS",
     "Bank Name": "SHENZHEN ABSEN OPTOELECTRONIC CO., LTD.",
@@ -23765,8 +23765,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCLE",
-    "bankCode": "CN",
+    "bankCode": "SCLE",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "SCLECNBC",
     "Bank Name": "SHENZHEN CHUANGWEI-RGB ELECTRONICS CO., LTD.",
@@ -23778,8 +23778,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCYT",
-    "bankCode": "CN",
+    "bankCode": "SCYT",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SCYTCNBS",
     "Bank Name": "SHENZHEN COLORFUL YUGONG TECHNOLOGY DEVELOPMENT CO., LTD.",
@@ -23791,8 +23791,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGLC",
-    "bankCode": "CN",
+    "bankCode": "SGLC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SGLCCNBS",
     "Bank Name": "SHENZHEN GONGJIN ELECTRONICS CO.,LTD",
@@ -23804,8 +23804,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHCY",
-    "bankCode": "CN",
+    "bankCode": "SHCY",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SHCYCNBS",
     "Bank Name": "SHENZHEN HELLO TECH ENERGY CO., LTD.",
@@ -23817,8 +23817,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOEO",
-    "bankCode": "CN",
+    "bankCode": "SOEO",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SOEOCNBS",
     "Bank Name": "SHENZHEN OLIGHT E-COMMERCE TECHNOLOGY CO., LTD.",
@@ -23830,8 +23830,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRCC",
-    "bankCode": "CN",
+    "bankCode": "SRCC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SRCCCNBS",
     "Bank Name": "SHENZHEN RURAL COMMERCIAL BANK CORPORATION LIMITED",
@@ -23843,8 +23843,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHTH",
-    "bankCode": "CN",
+    "bankCode": "SHTH",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SHTHCNBS",
     "Bank Name": "SHENZHEN TRANSSION HOLDINGS CO., LTD",
@@ -23856,8 +23856,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZLT",
-    "bankCode": "CN",
+    "bankCode": "SZLT",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SZLTCNBS",
     "Bank Name": "SHENZHEN ZHONGJIN LINGNAN NONFEMET CO., LTD",
@@ -23869,8 +23869,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "CN",
+    "bankCode": "SHBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SHBKCNBJ",
     "Bank Name": "SHINHAN BANK(CHINA) LTD.",
@@ -23882,8 +23882,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHGF",
-    "bankCode": "CN",
+    "bankCode": "SHGF",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SHGFCNBJ",
     "Bank Name": "SHOUGANG GROUP FINANCE CO., LTD.",
@@ -23895,8 +23895,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIHN",
-    "bankCode": "CN",
+    "bankCode": "SIHN",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "SIHNCNBC",
     "Bank Name": "SICHUAN BANK CO. LTD",
@@ -23908,8 +23908,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JYNS",
-    "bankCode": "CN",
+    "bankCode": "JYNS",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "JYNSCNBC",
     "Bank Name": "SICHUAN JIANYANG RURAL COMMERCIAL BANK CO., LTD.",
@@ -23921,8 +23921,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNX",
-    "bankCode": "CN",
+    "bankCode": "SCNX",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "SCNXCNBC",
     "Bank Name": "SICHUAN RURAL CREDIT UNION",
@@ -23934,8 +23934,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCC",
-    "bankCode": "CN",
+    "bankCode": "NCCC",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "NCCCCNBD",
     "Bank Name": "SICHUAN TIANFU BANK CO.,LTD",
@@ -23947,8 +23947,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHFC",
-    "bankCode": "CN",
+    "bankCode": "CHFC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CHFCCNBJ",
     "Bank Name": "SINOCHEM FINANCE CO. LTD (FORMERLY CHEMCHINA FINANCE CO. LTD)",
@@ -23960,8 +23960,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINC",
-    "bankCode": "CN",
+    "bankCode": "SINC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SINCCNBJ",
     "Bank Name": "SINOCHEM FINANCE CO., LTD.",
@@ -23973,8 +23973,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SITN",
-    "bankCode": "CN",
+    "bankCode": "SITN",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SITNCNSH",
     "Bank Name": "SINOCHEM INTERNATIONAL CORPORATION",
@@ -23986,8 +23986,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIBY",
-    "bankCode": "CN",
+    "bankCode": "SIBY",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "SIBYCNBF",
     "Bank Name": "SINOHYDRO BUREAU 16 COMPANY LIMITED",
@@ -23999,8 +23999,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIUC",
-    "bankCode": "CN",
+    "bankCode": "SIUC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SIUCCNBS",
     "Bank Name": "SINOHYDRO BUREAU 6 CO.,LTD",
@@ -24012,8 +24012,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SISD",
-    "bankCode": "CN",
+    "bankCode": "SISD",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "SISDCNB2",
     "Bank Name": "SINOLINK SECURITIES CO.,LTD.",
@@ -24025,8 +24025,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNFC",
-    "bankCode": "CN",
+    "bankCode": "SNFC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SNFCCNBJ",
     "Bank Name": "SINOMACH FINANCE CO., LTD",
@@ -24038,8 +24038,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "CN",
+    "bankCode": "ESSE",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ESSECNSH",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL), SHANGHAI BRANCH",
@@ -24051,8 +24051,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKYW",
-    "bankCode": "CN",
+    "bankCode": "SKYW",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SKYWCNBS",
     "Bank Name": "SKYWORTH GROUP FINANCIAL CO., LTD",
@@ -24064,8 +24064,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCL",
-    "bankCode": "CN",
+    "bankCode": "SGCL",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SGCLCNBJ",
     "Bank Name": "SOCIETE GENERALE (CHINA) LIMITED",
@@ -24077,8 +24077,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCL",
-    "bankCode": "CN",
+    "bankCode": "SGCL",
+    "countryCode": "CN",
     "branchCode": "BEJ",
     "SWIFT Code": "SGCLCNBJBEJ",
     "Bank Name": "SOCIETE GENERALE (CHINA) LIMITED",
@@ -24090,8 +24090,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCL",
-    "bankCode": "CN",
+    "bankCode": "SGCL",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "SGCLCNBJGZH",
     "Bank Name": "SOCIETE GENERALE (CHINA) LIMITED",
@@ -24103,8 +24103,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCL",
-    "bankCode": "CN",
+    "bankCode": "SGCL",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "SGCLCNBJSHI",
     "Bank Name": "SOCIETE GENERALE (CHINA) LIMITED",
@@ -24116,8 +24116,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSVB",
-    "bankCode": "CN",
+    "bankCode": "SSVB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SSVBCNSH",
     "Bank Name": "SPD SILICON VALLEY BANK CO. LTD",
@@ -24129,8 +24129,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFCD",
-    "bankCode": "CN",
+    "bankCode": "SFCD",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SFCDCNBJ",
     "Bank Name": "SPIC FINANCIAL CO., LTD.",
@@ -24142,8 +24142,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "SCBLCNSXBJG",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -24155,8 +24155,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HPX",
     "SWIFT Code": "PCBCCNBJHPX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24168,8 +24168,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LNH",
     "SWIFT Code": "PCBCCNBJLNH",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24181,8 +24181,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NMM",
     "SWIFT Code": "PCBCCNBJNMM",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24194,8 +24194,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HXJ",
     "SWIFT Code": "PCBCCNBJHXJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24207,8 +24207,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDJ",
     "SWIFT Code": "PCBCCNBJGDJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24220,8 +24220,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJJ",
     "SWIFT Code": "PCBCCNBJZJJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24233,8 +24233,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDG",
     "SWIFT Code": "PCBCCNBJGDG",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24246,8 +24246,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JLX",
     "SWIFT Code": "PCBCCNBJJLX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24259,8 +24259,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JLJ",
     "SWIFT Code": "PCBCCNBJJLJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24272,8 +24272,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDG",
     "SWIFT Code": "PCBCCNBJSDG",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24285,8 +24285,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDJ",
     "SWIFT Code": "PCBCCNBJSDJ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24298,8 +24298,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDX",
     "SWIFT Code": "PCBCCNBJSDX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24311,8 +24311,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJG",
     "SWIFT Code": "PCBCCNBJZJG",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24324,8 +24324,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDN",
     "SWIFT Code": "PCBCCNBJSDN",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24337,8 +24337,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBL",
     "SWIFT Code": "PCBCCNBJHBL",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24350,8 +24350,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GSX",
     "SWIFT Code": "PCBCCNBJGSX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24363,8 +24363,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "TIB",
     "SWIFT Code": "PCBCCNBJTIB",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24376,8 +24376,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSL",
     "SWIFT Code": "PCBCCNBJJSL",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24389,8 +24389,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDC",
     "SWIFT Code": "PCBCCNBJSDC",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24402,8 +24402,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDL",
     "SWIFT Code": "PCBCCNBJSDL",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24415,8 +24415,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDM",
     "SWIFT Code": "PCBCCNBJGDM",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24428,8 +24428,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDU",
     "SWIFT Code": "PCBCCNBJGDU",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24441,8 +24441,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LJM",
     "SWIFT Code": "PCBCCNBJLJM",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24454,8 +24454,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LJS",
     "SWIFT Code": "PCBCCNBJLJS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24467,8 +24467,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JXX",
     "SWIFT Code": "PCBCCNBJJXX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24480,8 +24480,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSX",
     "SWIFT Code": "PCBCCNBJJSX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24493,8 +24493,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GXX",
     "SWIFT Code": "PCBCCNBJGXX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24506,8 +24506,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NTX",
     "SWIFT Code": "PCBCCNBJNTX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24519,8 +24519,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NMX",
     "SWIFT Code": "PCBCCNBJNMX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24532,8 +24532,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "NPX",
     "SWIFT Code": "PCBCCNBJNPX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24545,8 +24545,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FJP",
     "SWIFT Code": "PCBCCNBJFJP",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24558,8 +24558,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "QDX",
     "SWIFT Code": "PCBCCNBJQDX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24571,8 +24571,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBQ",
     "SWIFT Code": "PCBCCNBJHBQ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24584,8 +24584,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "FJQ",
     "SWIFT Code": "PCBCCNBJFJQ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24597,8 +24597,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDR",
     "SWIFT Code": "PCBCCNBJSDR",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24610,8 +24610,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SHY",
     "SWIFT Code": "PCBCCNBJSHY",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24623,8 +24623,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SHX",
     "SWIFT Code": "PCBCCNBJSHX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24636,8 +24636,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SFX",
     "SWIFT Code": "PCBCCNBJSFX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24649,8 +24649,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "STX",
     "SWIFT Code": "PCBCCNBJSTX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24662,8 +24662,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "GDS",
     "SWIFT Code": "PCBCCNBJGDS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24675,8 +24675,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "ZJS",
     "SWIFT Code": "PCBCCNBJZJS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24688,8 +24688,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "LNX",
     "SWIFT Code": "PCBCCNBJLNX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24701,8 +24701,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SZX",
     "SWIFT Code": "PCBCCNBJSZX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24714,8 +24714,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SZ1",
     "SWIFT Code": "PCBCCNBJSZ1",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24727,8 +24727,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBX",
     "SWIFT Code": "PCBCCNBJHBX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24740,8 +24740,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "HBS",
     "SWIFT Code": "PCBCCNBJHBS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24753,8 +24753,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JSS",
     "SWIFT Code": "PCBCCNBJJSS",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24766,8 +24766,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "SDT",
     "SWIFT Code": "PCBCCNBJSDT",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24779,8 +24779,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "IXA",
     "SWIFT Code": "PCBCCNBJIXA",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24792,8 +24792,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CN",
+    "bankCode": "PCBC",
+    "countryCode": "CN",
     "branchCode": "JST",
     "SWIFT Code": "PCBCCNBJJST",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION",
@@ -24805,8 +24805,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXJJ",
-    "bankCode": "CN",
+    "bankCode": "HXJJ",
+    "countryCode": "CN",
     "branchCode": "CTM",
     "SWIFT Code": "HXJJCNBJCTM",
     "Bank Name": "CHINA ASSET MANAGEMENT CO.,LTD.",
@@ -24818,8 +24818,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXJJ",
-    "bankCode": "CN",
+    "bankCode": "HXJJ",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HXJJCNBJ",
     "Bank Name": "CHINA ASSET MANAGEMENT CO.,LTD.",
@@ -24831,8 +24831,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXJJ",
-    "bankCode": "CN",
+    "bankCode": "HXJJ",
+    "countryCode": "CN",
     "branchCode": "OS1",
     "SWIFT Code": "HXJJCNBJOS1",
     "Bank Name": "CHINA ASSET MANAGEMENT CO.,LTD.",
@@ -24844,8 +24844,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBH",
-    "bankCode": "CN",
+    "bankCode": "CHBH",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "CHBHCNBTGZH",
     "Bank Name": "CHINA BOHAI BANK CO., LTD",
@@ -24857,8 +24857,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBH",
-    "bankCode": "CN",
+    "bankCode": "CHBH",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "CHBHCNBTFTU",
     "Bank Name": "CHINA BOHAI BANK CO., LTD",
@@ -24870,8 +24870,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBH",
-    "bankCode": "CN",
+    "bankCode": "CHBH",
+    "countryCode": "CN",
     "branchCode": "SHZ",
     "SWIFT Code": "CHBHCNBTSHZ",
     "Bank Name": "CHINA BOHAI BANK CO., LTD",
@@ -24883,8 +24883,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBH",
-    "bankCode": "CN",
+    "bankCode": "CHBH",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "CHBHCNBT",
     "Bank Name": "CHINA BOHAI BANK CO., LTD",
@@ -24896,8 +24896,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "246",
     "SWIFT Code": "CIBKCNBJ246",
     "Bank Name": "CHINA CITIC BANK",
@@ -24909,8 +24909,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "455",
     "SWIFT Code": "CIBKCNBJ455",
     "Bank Name": "CHINA CITIC BANK",
@@ -24922,8 +24922,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "071",
     "SWIFT Code": "CIBKCNBJ071",
     "Bank Name": "CHINA CITIC BANK",
@@ -24935,8 +24935,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "014",
     "SWIFT Code": "CIBKCNBJ014",
     "Bank Name": "CHINA CITIC BANK",
@@ -24948,8 +24948,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "CIBKCNBB",
     "Bank Name": "CHINA CITIC BANK",
@@ -24961,8 +24961,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "100",
     "SWIFT Code": "CIBKCNBJ100",
     "Bank Name": "CHINA CITIC BANK",
@@ -24974,8 +24974,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "EFU",
     "SWIFT Code": "CIBKCNBJEFU",
     "Bank Name": "CHINA CITIC BANK",
@@ -24987,8 +24987,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "CUS",
     "SWIFT Code": "CIBKCNBJCUS",
     "Bank Name": "CHINA CITIC BANK",
@@ -25000,8 +25000,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CIBKCNBJ",
     "Bank Name": "CHINA CITIC BANK",
@@ -25013,8 +25013,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "CIBKCNBJFTU",
     "Bank Name": "CHINA CITIC BANK",
@@ -25026,8 +25026,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "TRY",
     "SWIFT Code": "CIBKCNBJTRY",
     "Bank Name": "CHINA CITIC BANK",
@@ -25039,8 +25039,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "233",
     "SWIFT Code": "CIBKCNBJ233",
     "Bank Name": "CHINA CITIC BANK",
@@ -25052,8 +25052,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "061",
     "SWIFT Code": "CIBKCNBJ061",
     "Bank Name": "CHINA CITIC BANK",
@@ -25065,8 +25065,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "130",
     "SWIFT Code": "CIBKCNBJ130",
     "Bank Name": "CHINA CITIC BANK",
@@ -25078,8 +25078,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "410",
     "SWIFT Code": "CIBKCNBJ410",
     "Bank Name": "CHINA CITIC BANK",
@@ -25091,8 +25091,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "213",
     "SWIFT Code": "CIBKCNBJ213",
     "Bank Name": "CHINA CITIC BANK",
@@ -25104,8 +25104,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "610",
     "SWIFT Code": "CIBKCNBJ610",
     "Bank Name": "CHINA CITIC BANK",
@@ -25117,8 +25117,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "024",
     "SWIFT Code": "CIBKCNBJ024",
     "Bank Name": "CHINA CITIC BANK",
@@ -25130,8 +25130,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "400",
     "SWIFT Code": "CIBKCNBJ400",
     "Bank Name": "CHINA CITIC BANK",
@@ -25143,8 +25143,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "239",
     "SWIFT Code": "CIBKCNBJ239",
     "Bank Name": "CHINA CITIC BANK",
@@ -25156,8 +25156,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "116",
     "SWIFT Code": "CIBKCNBJ116",
     "Bank Name": "CHINA CITIC BANK",
@@ -25169,8 +25169,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "523",
     "SWIFT Code": "CIBKCNBJ523",
     "Bank Name": "CHINA CITIC BANK",
@@ -25182,8 +25182,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "257",
     "SWIFT Code": "CIBKCNBJ257",
     "Bank Name": "CHINA CITIC BANK",
@@ -25195,8 +25195,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "528",
     "SWIFT Code": "CIBKCNBJ528",
     "Bank Name": "CHINA CITIC BANK",
@@ -25208,8 +25208,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "350",
     "SWIFT Code": "CIBKCNBJ350",
     "Bank Name": "CHINA CITIC BANK",
@@ -25221,8 +25221,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "510",
     "SWIFT Code": "CIBKCNBJ510",
     "Bank Name": "CHINA CITIC BANK",
@@ -25234,8 +25234,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "511",
     "SWIFT Code": "CIBKCNBJ511",
     "Bank Name": "CHINA CITIC BANK",
@@ -25247,8 +25247,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "550",
     "SWIFT Code": "CIBKCNBJ550",
     "Bank Name": "CHINA CITIC BANK",
@@ -25260,8 +25260,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "570",
     "SWIFT Code": "CIBKCNBJ570",
     "Bank Name": "CHINA CITIC BANK",
@@ -25273,8 +25273,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "056",
     "SWIFT Code": "CIBKCNBJ056",
     "Bank Name": "CHINA CITIC BANK",
@@ -25286,8 +25286,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "310",
     "SWIFT Code": "CIBKCNBJ310",
     "Bank Name": "CHINA CITIC BANK",
@@ -25299,8 +25299,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "150",
     "SWIFT Code": "CIBKCNBJ150",
     "Bank Name": "CHINA CITIC BANK",
@@ -25312,8 +25312,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "230",
     "SWIFT Code": "CIBKCNBJ230",
     "Bank Name": "CHINA CITIC BANK",
@@ -25325,8 +25325,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "421",
     "SWIFT Code": "CIBKCNBJ421",
     "Bank Name": "CHINA CITIC BANK",
@@ -25338,8 +25338,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "CIBKCNBJ010",
     "Bank Name": "CHINA CITIC BANK",
@@ -25351,8 +25351,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "454",
     "SWIFT Code": "CIBKCNBJ454",
     "Bank Name": "CHINA CITIC BANK",
@@ -25364,8 +25364,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "314",
     "SWIFT Code": "CIBKCNBJ314",
     "Bank Name": "CHINA CITIC BANK",
@@ -25377,8 +25377,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "132",
     "SWIFT Code": "CIBKCNBJ132",
     "Bank Name": "CHINA CITIC BANK",
@@ -25390,8 +25390,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "250",
     "SWIFT Code": "CIBKCNBJ250",
     "Bank Name": "CHINA CITIC BANK",
@@ -25403,8 +25403,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "322",
     "SWIFT Code": "CIBKCNBJ322",
     "Bank Name": "CHINA CITIC BANK",
@@ -25416,8 +25416,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "272",
     "SWIFT Code": "CIBKCNBJ272",
     "Bank Name": "CHINA CITIC BANK",
@@ -25429,8 +25429,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "650",
     "SWIFT Code": "CIBKCNBJ650",
     "Bank Name": "CHINA CITIC BANK",
@@ -25442,8 +25442,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "730",
     "SWIFT Code": "CIBKCNBJ730",
     "Bank Name": "CHINA CITIC BANK",
@@ -25455,8 +25455,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "LC1",
     "SWIFT Code": "RZCBCNBDLC1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25468,8 +25468,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "LY1",
     "SWIFT Code": "RZCBCNBDLY1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25481,8 +25481,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "QD1",
     "SWIFT Code": "RZCBCNBDQD1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25494,8 +25494,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "RZCBCNBD",
     "Bank Name": "BANK OF RIZHAO",
@@ -25507,8 +25507,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "WF1",
     "SWIFT Code": "RZCBCNBDWF1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25520,8 +25520,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "WH1",
     "SWIFT Code": "RZCBCNBDWH1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25533,8 +25533,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "YT1",
     "SWIFT Code": "RZCBCNBDYT1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25546,8 +25546,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "ZZ1",
     "SWIFT Code": "RZCBCNBDZZ1",
     "Bank Name": "BANK OF RIZHAO",
@@ -25559,8 +25559,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZSRB",
-    "bankCode": "CN",
+    "bankCode": "ZSRB",
+    "countryCode": "CN",
     "branchCode": "N2S",
     "SWIFT Code": "ZSRBCN2S",
     "Bank Name": "BANK OF RUIFENG",
@@ -25572,8 +25572,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAXG",
-    "bankCode": "CN",
+    "bankCode": "SAXG",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "SAXGCNBC",
     "Bank Name": "BANK OF SANXIANG",
@@ -25585,8 +25585,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "BJA",
     "SWIFT Code": "BOSHCNSHBJA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25598,8 +25598,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "CDA",
     "SWIFT Code": "BOSHCNSHCDA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25611,8 +25611,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "HZA",
     "SWIFT Code": "BOSHCNSHHZA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25624,8 +25624,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "NJA",
     "SWIFT Code": "BOSHCNSHNJA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25637,8 +25637,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "BOSHCNSHNBA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25650,8 +25650,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "ACS",
     "SWIFT Code": "BOSHCNSHACS",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25663,8 +25663,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "BOSHCNSHFTU",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25676,8 +25676,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BOSHCNSH",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25689,8 +25689,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "BOSHCNSHFTZ",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25702,8 +25702,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "SZA",
     "SWIFT Code": "BOSHCNSHSZA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25715,8 +25715,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "SUA",
     "SWIFT Code": "BOSHCNSHSUA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25728,8 +25728,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSH",
-    "bankCode": "CN",
+    "bankCode": "BOSH",
+    "countryCode": "CN",
     "branchCode": "TJA",
     "SWIFT Code": "BOSHCNSHTJA",
     "Bank Name": "BANK OF SHANGHAI",
@@ -25741,8 +25741,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXCB",
-    "bankCode": "CN",
+    "bankCode": "SXCB",
+    "countryCode": "CN",
     "branchCode": "N2X",
     "SWIFT Code": "SXCBCN2X",
     "Bank Name": "BANK OF SHAOXING CO.,LTD (FORMERLY SHAOXING CITY COMMERCIAL BANK)",
@@ -25754,8 +25754,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXCB",
-    "bankCode": "CN",
+    "bankCode": "SXCB",
+    "countryCode": "CN",
     "branchCode": "FMD",
     "SWIFT Code": "SXCBCN2XFMD",
     "Bank Name": "BANK OF SHAOXING CO.,LTD (FORMERLY SHAOXING CITY COMMERCIAL BANK)",
@@ -25767,8 +25767,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DWRB",
-    "bankCode": "CN",
+    "bankCode": "DWRB",
+    "countryCode": "CN",
     "branchCode": "NSU",
     "SWIFT Code": "DWRBCNSU",
     "Bank Name": "BANK OF SUZHOU CO.,LTD",
@@ -25780,8 +25780,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TABK",
-    "bankCode": "CN",
+    "bankCode": "TABK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "TABKCNBJ",
     "Bank Name": "BANK OF TAIAN",
@@ -25793,8 +25793,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "CN",
+    "bankCode": "BKTW",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "BKTWCNBF",
     "Bank Name": "BANK OF TAIWAN FUZHOU BRANCH",
@@ -25806,8 +25806,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "CN",
+    "bankCode": "BKTW",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BKTWCNSH",
     "Bank Name": "BANK OF TAIWAN SHANGHAI BRANCH",
@@ -25819,8 +25819,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "CN",
+    "bankCode": "BKTW",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "BKTWCN22",
     "Bank Name": "BANK OF TAIWAN, GUANGZHOU BRANCH",
@@ -25832,8 +25832,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TZBK",
-    "bankCode": "CN",
+    "bankCode": "TZBK",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "TZBKCNBT",
     "Bank Name": "BANK OF TAIZHOU",
@@ -25845,8 +25845,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTS",
-    "bankCode": "CN",
+    "bankCode": "BOTS",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BOTSCNBJ",
     "Bank Name": "BANK OF TANGSHAN CO.,LTD.",
@@ -25858,8 +25858,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFO",
-    "bankCode": "CN",
+    "bankCode": "BOFO",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "BOFOCNBA",
     "Bank Name": "BANK OF THE ORIENT, XIAMEN BRANCH",
@@ -25871,8 +25871,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCCB",
-    "bankCode": "CN",
+    "bankCode": "TCCB",
+    "countryCode": "CN",
     "branchCode": "FTS",
     "SWIFT Code": "TCCBCNBTFTS",
     "Bank Name": "BANK OF TIANJIN CO., LTD.",
@@ -25884,8 +25884,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCCB",
-    "bankCode": "CN",
+    "bankCode": "TCCB",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "TCCBCNBT",
     "Bank Name": "BANK OF TIANJIN CO., LTD.",
@@ -25897,8 +25897,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCCB",
-    "bankCode": "CN",
+    "bankCode": "TCCB",
+    "countryCode": "CN",
     "branchCode": "FTT",
     "SWIFT Code": "TCCBCNBTFTT",
     "Bank Name": "BANK OF TIANJIN CO., LTD.",
@@ -25910,8 +25910,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCCB",
-    "bankCode": "CN",
+    "bankCode": "UCCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "UCCBCNBJ",
     "Bank Name": "BANK OF URUMQI (FORMERLY URUMQI CITY COMMERCIAL BANK)",
@@ -25923,8 +25923,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFCB",
-    "bankCode": "CN",
+    "bankCode": "WFCB",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "WFCBCNBNQDO",
     "Bank Name": "BANK OF WEIFANG (FORMERLY WEIFANG CITY COMMERCIAL BANK)",
@@ -25936,8 +25936,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFCB",
-    "bankCode": "CN",
+    "bankCode": "WFCB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "WFCBCNBN",
     "Bank Name": "BANK OF WEIFANG (FORMERLY WEIFANG CITY COMMERCIAL BANK)",
@@ -25949,8 +25949,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "HAN",
     "SWIFT Code": "WZCBCNSHHAN",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -25962,8 +25962,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "JIN",
     "SWIFT Code": "WZCBCNSHJIN",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -25975,8 +25975,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "LIS",
     "SWIFT Code": "WZCBCNSHLIS",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -25988,8 +25988,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "WZCBCNSHNBB",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26001,8 +26001,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "QUZ",
     "SWIFT Code": "WZCBCNSHQUZ",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26014,8 +26014,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "WZCBCNSHSHA",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26027,8 +26027,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "SHX",
     "SWIFT Code": "WZCBCNSHSHX",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26040,8 +26040,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "TAI",
     "SWIFT Code": "WZCBCNSHTAI",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26053,8 +26053,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "WZCBCNSH",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26066,8 +26066,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "LUC",
     "SWIFT Code": "WZCBCNSHLUC",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26079,8 +26079,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "WEN",
     "SWIFT Code": "WZCBCNSHWEN",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26092,8 +26092,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZCB",
-    "bankCode": "CN",
+    "bankCode": "WZCB",
+    "countryCode": "CN",
     "branchCode": "ZHO",
     "SWIFT Code": "WZCBCNSHZHO",
     "Bank Name": "BANK OF WENZHOU (FORMERLY WENZHOU CITY COMMERCIAL BANK)",
@@ -26105,8 +26105,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "MHCBCNBS",
     "Bank Name": "MIZUHO BANK (CHINA), LTD. SHENZHEN BRANCH",
@@ -26118,8 +26118,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "MHCBCNSHBJG",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26131,8 +26131,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "DAL",
     "SWIFT Code": "MHCBCNSHDAL",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26144,8 +26144,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "GZU",
     "SWIFT Code": "MHCBCNSHGZU",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26157,8 +26157,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "HFI",
     "SWIFT Code": "MHCBCNSHHFI",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26170,8 +26170,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "MHCBCNSHQDO",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26183,8 +26183,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "MHCBCNSH",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26196,8 +26196,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "SUZ",
     "SWIFT Code": "MHCBCNSHSUZ",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26209,8 +26209,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "MHCBCNSHTJN",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26222,8 +26222,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "WHN",
     "SWIFT Code": "MHCBCNSHWHN",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26235,8 +26235,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "CN",
+    "bankCode": "MHCB",
+    "countryCode": "CN",
     "branchCode": "WXI",
     "SWIFT Code": "MHCBCNSHWXI",
     "Bank Name": "MIZUHO BANK (CHINA),LTD.",
@@ -26248,8 +26248,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBK",
-    "bankCode": "CN",
+    "bankCode": "MSBK",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "MSBKCN22BJG",
     "Bank Name": "MORGAN STANLEY BANK INTERNATIONAL (CHINA) LIMITED",
@@ -26261,8 +26261,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBK",
-    "bankCode": "CN",
+    "bankCode": "MSBK",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "MSBKCN22",
     "Bank Name": "MORGAN STANLEY BANK INTERNATIONAL (CHINA) LIMITED",
@@ -26274,8 +26274,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBK",
-    "bankCode": "CN",
+    "bankCode": "MSBK",
+    "countryCode": "CN",
     "branchCode": "SNT",
     "SWIFT Code": "MSBKCN22SNT",
     "Bank Name": "MORGAN STANLEY BANK INTERNATIONAL (CHINA) LIMITED",
@@ -26287,8 +26287,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "CHD",
     "SWIFT Code": "BOTKCNSHCHD",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26300,8 +26300,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "FZH",
     "SWIFT Code": "BOTKCNSHFZH",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26313,8 +26313,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "GAN",
     "SWIFT Code": "BOTKCNSHGAN",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26326,8 +26326,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "HZH",
     "SWIFT Code": "BOTKCNSHHZH",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26339,8 +26339,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "QND",
     "SWIFT Code": "BOTKCNSHQND",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26352,8 +26352,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "FID",
     "SWIFT Code": "BOTKCNSHFID",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26365,8 +26365,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BOTKCNSH",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26378,8 +26378,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "SHY",
     "SWIFT Code": "BOTKCNSHSHY",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26391,8 +26391,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "BOTKCNBS",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26404,8 +26404,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "SZH",
     "SWIFT Code": "BOTKCNSHSZH",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26417,8 +26417,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "WUH",
     "SWIFT Code": "BOTKCNSHWUH",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26430,8 +26430,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "WXI",
     "SWIFT Code": "BOTKCNSHWXI",
     "Bank Name": "MUFG BANK (CHINA), LTD.",
@@ -26443,8 +26443,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BOTKCNBJ",
     "Bank Name": "MUFG BANK (CHINA), LTD. BEIJING BRANCH",
@@ -26456,8 +26456,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "BOTKCNBT",
     "Bank Name": "MUFG BANK (CHINA), LTD. TIANJIN BRANCH",
@@ -26469,8 +26469,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "CN",
+    "bankCode": "BOTK",
+    "countryCode": "CN",
     "branchCode": "NBD",
     "SWIFT Code": "BOTKCNBD",
     "Bank Name": "MUFG BANK (CHINA),LTD. DALIAN BRANCH",
@@ -26482,8 +26482,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JXRC",
-    "bankCode": "CN",
+    "bankCode": "JXRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "JXRCCNBJ",
     "Bank Name": "NANCHANG RURAL COMMERCIAL BANK CO., LTD",
@@ -26495,8 +26495,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NUDR",
-    "bankCode": "CN",
+    "bankCode": "NUDR",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NUDRCNBN",
     "Bank Name": "NANNING URBAN DISTRICT RURAL CREDIT UNION",
@@ -26508,8 +26508,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NXBK",
-    "bankCode": "CN",
+    "bankCode": "NXBK",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "NXBKCNBH",
     "Bank Name": "NANXUN BANK",
@@ -26521,8 +26521,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYCB",
-    "bankCode": "CN",
+    "bankCode": "NYCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NYCBCNSH",
     "Bank Name": "NANYANG COMMERCIAL BANK (CHINA), LIMITED",
@@ -26534,8 +26534,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "CN",
+    "bankCode": "NATA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NATACNSH",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED, SHANGHAI BRANCH",
@@ -26547,8 +26547,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "CN",
+    "bankCode": "NBEG",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NBEGCNSH",
     "Bank Name": "NATIONAL BANK OF EGYPT SHANGHAI BRANCH",
@@ -26560,8 +26560,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "CN",
+    "bankCode": "NBOK",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NBOKCNSH",
     "Bank Name": "NATIONAL BANK OF KUWAIT S.A.K.P., SHANGHAI BRANCH",
@@ -26573,8 +26573,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "CN",
+    "bankCode": "NATX",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NATXCNSH",
     "Bank Name": "NATIXIS SHANGHAI",
@@ -26586,8 +26586,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEDV",
-    "bankCode": "CN",
+    "bankCode": "NEDV",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "NEDVCNSH",
     "Bank Name": "NEW DEVELOPMENT BANK",
@@ -26599,8 +26599,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBRC",
-    "bankCode": "CN",
+    "bankCode": "NBRC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NBRCCNBN",
     "Bank Name": "NINGBO BEILUN RURAL COMMERCIAL BANK CO., LTD.",
@@ -26612,8 +26612,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXBK",
-    "bankCode": "CN",
+    "bankCode": "CXBK",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "CXBKCN2N",
     "Bank Name": "NINGBO CIXI RURAL COMMERCIAL BANK CO., LTD. (FORMERLY NINGBO CIXI RURAL COOPERATIVE BANK)",
@@ -26625,8 +26625,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINH",
-    "bankCode": "CN",
+    "bankCode": "BINH",
+    "countryCode": "CN",
     "branchCode": "HAN",
     "SWIFT Code": "BINHCN2NHAN",
     "Bank Name": "NINGBO COMMERCE BANK",
@@ -26638,8 +26638,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINH",
-    "bankCode": "CN",
+    "bankCode": "BINH",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "BINHCN2N",
     "Bank Name": "NINGBO COMMERCE BANK",
@@ -26651,8 +26651,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINH",
-    "bankCode": "CN",
+    "bankCode": "BINH",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "BINHCN2NSHA",
     "Bank Name": "NINGBO COMMERCE BANK",
@@ -26664,8 +26664,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINH",
-    "bankCode": "CN",
+    "bankCode": "BINH",
+    "countryCode": "CN",
     "branchCode": "SHX",
     "SWIFT Code": "BINHCN2NSHX",
     "Bank Name": "NINGBO COMMERCE BANK",
@@ -26677,8 +26677,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBC",
-    "bankCode": "CN",
+    "bankCode": "DHBC",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "DHBCCN2N",
     "Bank Name": "NINGBO DONGHAI BANK CO.,LTD",
@@ -26690,8 +26690,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFRC",
-    "bankCode": "CN",
+    "bankCode": "NFRC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NFRCCNBN",
     "Bank Name": "NINGBO FENGHUA RURAL COMMERCIAL BANK CO.,LTD",
@@ -26703,8 +26703,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLIE",
-    "bankCode": "CN",
+    "bankCode": "NLIE",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NLIECNBN",
     "Bank Name": "NINGBO LEHUI INTERNATIONAL ENGINEERING EQUIPMENT CO., LTD.",
@@ -26716,8 +26716,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIRC",
-    "bankCode": "CN",
+    "bankCode": "NIRC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NIRCCNBN",
     "Bank Name": "NINGBO NINGHAI RURAL COMMERCIAL BANK CO., LTD",
@@ -26729,8 +26729,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCU",
-    "bankCode": "CN",
+    "bankCode": "NCCU",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "NCCUCNBJ",
     "Bank Name": "NINGBO YONGCHENG RURAL COMMERCIAL BANK",
@@ -26742,8 +26742,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YYBK",
-    "bankCode": "CN",
+    "bankCode": "YYBK",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "YYBKCN2N",
     "Bank Name": "NINGBO YUYAO RURAL COMMERCIAL BANK CO.,LTD.(FORMERLY KNOWN AS NINGBO YUYAO RURAL COOPERATIVE BANK)",
@@ -26755,8 +26755,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSB",
-    "bankCode": "CN",
+    "bankCode": "SCSB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SCSBCNBS",
     "Bank Name": "THE SHANGHAI COMMERCIAL AND SAVINGS BANK LIMITED WUXI BRANCH",
@@ -26768,8 +26768,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICO",
-    "bankCode": "CN",
+    "bankCode": "SICO",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SICOCNSH",
     "Bank Name": "THE SIAM COMMERCIAL BANK PCL, SHANGHAI BRANCH",
@@ -26781,8 +26781,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHBC",
-    "bankCode": "CN",
+    "bankCode": "BHBC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "BHBCCNBT",
     "Bank Name": "TIANJIN BINHAI RURAL COMMERCIAL BANK CORPORATION",
@@ -26794,8 +26794,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TJRC",
-    "bankCode": "CN",
+    "bankCode": "TJRC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "TJRCCNBT",
     "Bank Name": "TIANJIN RURAL COMMERCIAL BANK",
@@ -26807,8 +26807,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRCV",
-    "bankCode": "CN",
+    "bankCode": "TRCV",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "TRCVCNB2",
     "Bank Name": "TIELING RURAL CREDIT COOPERATIVES UNION",
@@ -26820,8 +26820,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOHR",
-    "bankCode": "CN",
+    "bankCode": "TOHR",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "TOHRCNB2",
     "Bank Name": "TONGJIANG HUIXIN RURAL BANK CO., LTD",
@@ -26833,8 +26833,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOCL",
-    "bankCode": "CN",
+    "bankCode": "TOCL",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "TOCLCNBC",
     "Bank Name": "TONGWEI CO., LTD.",
@@ -26846,8 +26846,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTSX",
-    "bankCode": "CN",
+    "bankCode": "TTSX",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "TTSXCNBB",
     "Bank Name": "TPK TOUCH SOLUTIONS (XIAMEN) INC.",
@@ -26859,8 +26859,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRUV",
-    "bankCode": "CN",
+    "bankCode": "TRUV",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "TRUVCNB2",
     "Bank Name": "TRUVALUE ASSET MANAGEMENT CO., LTD",
@@ -26872,8 +26872,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CN",
+    "bankCode": "UBSW",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "UBSWCNBJ",
     "Bank Name": "UBS (CHINA) LIMITED",
@@ -26885,8 +26885,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGFC",
-    "bankCode": "CN",
+    "bankCode": "UGFC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "UGFCCNBJ",
     "Bank Name": "UNICOM GROUP FINANCE COMPANY LIMITED",
@@ -26898,8 +26898,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "CN",
+    "bankCode": "UOVB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "UOVBCNSH",
     "Bank Name": "UNITED OVERSEAS BANK (CHINA) LIMITED",
@@ -26911,8 +26911,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "CN",
+    "bankCode": "UOVB",
+    "countryCode": "CN",
     "branchCode": "CMS",
     "SWIFT Code": "UOVBCNSHCMS",
     "Bank Name": "UNITED OVERSEAS BANK (CHINA) LIMITED",
@@ -26924,8 +26924,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCGE",
-    "bankCode": "CN",
+    "bankCode": "VCGE",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "VCGECNBT",
     "Bank Name": "VCANBIO CELL AND GENE ENGINEERING CORP., LTD",
@@ -26937,8 +26937,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOGC",
-    "bankCode": "CN",
+    "bankCode": "VOGC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "VOGCCNBJ",
     "Bank Name": "VOLKSWAGEN (CHINA) INVESTMENT COMPANY LIMITED",
@@ -26950,8 +26950,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTBR",
-    "bankCode": "CN",
+    "bankCode": "VTBR",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "VTBRCNSH",
     "Bank Name": "VTB BANK (PJSC) SHANGHAI BRANCH",
@@ -26963,8 +26963,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAAE",
-    "bankCode": "CN",
+    "bankCode": "WAAE",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "WAAECNS2",
     "Bank Name": "WANJIA ASSET MANAGEMENT CO LTD",
@@ -26976,8 +26976,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WRCB",
-    "bankCode": "CN",
+    "bankCode": "WRCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "WRCBCNBJ",
     "Bank Name": "WEIFANG RURAL COMMERCIAL BANK CO., LTD",
@@ -26989,8 +26989,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBOC",
-    "bankCode": "CN",
+    "bankCode": "WBOC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "WBOCCNBJ",
     "Bank Name": "WEIHAI BLUE OCEAN BANK CO., LTD.",
@@ -27002,8 +27002,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WHBK",
-    "bankCode": "CN",
+    "bankCode": "WHBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "WHBKCNBJ",
     "Bank Name": "WEIHAI CITY COMMERCIAL BANK CO. LTD",
@@ -27015,8 +27015,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "CN",
+    "bankCode": "PNBP",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "PNBPCNSH",
     "Bank Name": "WELLS FARGO BANK, NA, SHANGHAI BRANCH",
@@ -27028,8 +27028,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "CN",
+    "bankCode": "WPAC",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "WPACCNSXBJG",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -27041,8 +27041,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "CN",
+    "bankCode": "WPAC",
+    "countryCode": "CN",
     "branchCode": "BJT",
     "SWIFT Code": "WPACCNSXBJT",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -27054,8 +27054,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "CN",
+    "bankCode": "WPAC",
+    "countryCode": "CN",
     "branchCode": "NSX",
     "SWIFT Code": "WPACCNSX",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -27067,8 +27067,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "CN",
+    "bankCode": "WPAC",
+    "countryCode": "CN",
     "branchCode": "TRD",
     "SWIFT Code": "WPACCNSXTRD",
     "Bank Name": "WESTPAC BANKING CORPORATION",
@@ -27080,8 +27080,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "CN",
+    "bankCode": "HVBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HVBKCNBJ",
     "Bank Name": "WOORI BANK (CHINA) LIMITED",
@@ -27093,8 +27093,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WRCC",
-    "bankCode": "CN",
+    "bankCode": "WRCC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "WRCCCNBN",
     "Bank Name": "WUHAN RURAL COMMERCIAL BANK",
@@ -27106,8 +27106,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USRC",
-    "bankCode": "CN",
+    "bankCode": "USRC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "USRCCNSH",
     "Bank Name": "WUXI RURAL COMMERCIAL BANK CO.,LTD(FORMERLY JIANGSU XIZHOU RURAL COMMERCIAL BANK CO.,LTD)",
@@ -27119,8 +27119,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XAIR",
-    "bankCode": "CN",
+    "bankCode": "XAIR",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "XAIRCNBA",
     "Bank Name": "XIAMEN AIRLINES",
@@ -27132,8 +27132,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBXM",
-    "bankCode": "CN",
+    "bankCode": "CBXM",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "CBXMCNBA",
     "Bank Name": "XIAMEN BANK CO., LTD.",
@@ -27145,8 +27145,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "BJB",
     "SWIFT Code": "IBXHCNBABJB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27158,8 +27158,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "FZB",
     "SWIFT Code": "IBXHCNBAFZB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27171,8 +27171,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "LYB",
     "SWIFT Code": "IBXHCNBALYB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27184,8 +27184,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "NPB",
     "SWIFT Code": "IBXHCNBANPB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27197,8 +27197,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "NDB",
     "SWIFT Code": "IBXHCNBANDB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27210,8 +27210,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "PTB",
     "SWIFT Code": "IBXHCNBAPTB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27223,8 +27223,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "QZB",
     "SWIFT Code": "IBXHCNBAQZB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27236,8 +27236,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "SMB",
     "SWIFT Code": "IBXHCNBASMB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27249,8 +27249,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "SHB",
     "SWIFT Code": "IBXHCNBASHB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27262,8 +27262,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "IBXHCNBA",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27275,8 +27275,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "AMB",
     "SWIFT Code": "IBXHCNBAAMB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27288,8 +27288,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "ZZB",
     "SWIFT Code": "IBXHCNBAZZB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27301,8 +27301,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBXH",
-    "bankCode": "CN",
+    "bankCode": "IBXH",
+    "countryCode": "CN",
     "branchCode": "ZHB",
     "SWIFT Code": "IBXHCNBAZHB",
     "Bank Name": "XIAMEN INTERNATIONAL BANK CO., LTD.",
@@ -27314,8 +27314,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCXM",
-    "bankCode": "CN",
+    "bankCode": "RCXM",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "RCXMCNBA",
     "Bank Name": "XIAMEN RURAL COMMERCIAL BANK CO., LTD.",
@@ -27327,8 +27327,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAXC",
-    "bankCode": "CN",
+    "bankCode": "IAXC",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "IAXCCNBB",
     "Bank Name": "XIAMEN XIANGYU CO.,LTD",
@@ -27340,8 +27340,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XRCO",
-    "bankCode": "CN",
+    "bankCode": "XRCO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "XRCOCNB2",
     "Bank Name": "XIANGSHAN RURAL CREDIT COOPERATIVES UNION",
@@ -27353,8 +27353,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCTE",
-    "bankCode": "CN",
+    "bankCode": "XCTE",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "XCTECNBJ",
     "Bank Name": "XIAOMI COMMUNICATIONS CO., LTD.",
@@ -27366,8 +27366,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XIRC",
-    "bankCode": "CN",
+    "bankCode": "XIRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "XIRCCNB2",
     "Bank Name": "XIMENG RURAL COMMERCIAL BANK CO., LTD",
@@ -27379,8 +27379,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XINC",
-    "bankCode": "CN",
+    "bankCode": "XINC",
+    "countryCode": "CN",
     "branchCode": "NBU",
     "SWIFT Code": "XINCCNBU",
     "Bank Name": "XINJIANG BANK CO., LTD.",
@@ -27392,8 +27392,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XIHC",
-    "bankCode": "CN",
+    "bankCode": "XIHC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "XIHCCNB2",
     "Bank Name": "XINJIANG HUIHE BANK CO.LTD,.",
@@ -27405,8 +27405,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "FAC",
     "SWIFT Code": "MSBCCNBJFAC",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27418,8 +27418,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A9",
     "SWIFT Code": "MSBCCNBJ0A9",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27431,8 +27431,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "MSBCCNBJ002",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27444,8 +27444,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A7",
     "SWIFT Code": "MSBCCNBJ0A7",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27457,8 +27457,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "017",
     "SWIFT Code": "MSBCCNBJ017",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27470,8 +27470,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "025",
     "SWIFT Code": "MSBCCNBJ025",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27483,8 +27483,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "065",
     "SWIFT Code": "MSBCCNBJ065",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27496,8 +27496,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "004",
     "SWIFT Code": "MSBCCNBJ004",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27509,8 +27509,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "202",
     "SWIFT Code": "MSBCCNBJ202",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27522,8 +27522,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C2",
     "SWIFT Code": "MSBCCNBJ0C2",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27535,8 +27535,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "026",
     "SWIFT Code": "MSBCCNBJ026",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27548,8 +27548,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0B5",
     "SWIFT Code": "MSBCCNBJ0B5",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27561,8 +27561,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "201",
     "SWIFT Code": "MSBCCNBJ201",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27574,8 +27574,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "075",
     "SWIFT Code": "MSBCCNBJ075",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27587,8 +27587,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "054",
     "SWIFT Code": "MSBCCNBJ054",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27600,8 +27600,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "053",
     "SWIFT Code": "MSBCCNBJ053",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27613,8 +27613,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "021",
     "SWIFT Code": "MSBCCNBJ021",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27626,8 +27626,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C3",
     "SWIFT Code": "MSBCCNBJ0C3",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27639,8 +27639,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0B8",
     "SWIFT Code": "MSBCCNBJ0B8",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27652,8 +27652,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "041",
     "SWIFT Code": "MSBCCNBJ041",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27665,8 +27665,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "082",
     "SWIFT Code": "MSBCCNBJ082",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27678,8 +27678,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "028",
     "SWIFT Code": "MSBCCNBJ028",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27691,8 +27691,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "005",
     "SWIFT Code": "MSBCCNBJ005",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27704,8 +27704,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0E4",
     "SWIFT Code": "MSBCCNBJ0E4",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27717,8 +27717,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "032",
     "SWIFT Code": "MSBCCNBJ032",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27730,8 +27730,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "029",
     "SWIFT Code": "MSBCCNBJ029",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27743,8 +27743,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "009",
     "SWIFT Code": "MSBCCNBJ009",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27756,8 +27756,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "MSBCCNBJ050",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27769,8 +27769,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C7",
     "SWIFT Code": "MSBCCNBJ0C7",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27782,8 +27782,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0B6",
     "SWIFT Code": "MSBCCNBJ0B6",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27795,8 +27795,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0XY",
     "SWIFT Code": "MSBCCNBJ0XY",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27808,8 +27808,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "070",
     "SWIFT Code": "MSBCCNBJ070",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27821,8 +27821,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "080",
     "SWIFT Code": "MSBCCNBJ080",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27834,8 +27834,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "YBB",
     "SWIFT Code": "MSBCCNBJYBB",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27847,8 +27847,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "071",
     "SWIFT Code": "MSBCCNBJ071",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27860,8 +27860,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0E3",
     "SWIFT Code": "MSBCCNBJ0E3",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27873,8 +27873,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "YTB",
     "SWIFT Code": "MSBCCNBJYTB",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27886,8 +27886,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0B3",
     "SWIFT Code": "MSBCCNBJ0B3",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27899,8 +27899,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "061",
     "SWIFT Code": "MSBCCNBJ061",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27912,8 +27912,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C0",
     "SWIFT Code": "MSBCCNBJ0C0",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27925,8 +27925,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0A4",
     "SWIFT Code": "MSBCCNBJ0A4",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27938,8 +27938,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "MSBCCNBJ030",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27951,8 +27951,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "038",
     "SWIFT Code": "MSBCCNBJ038",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27964,8 +27964,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "046",
     "SWIFT Code": "MSBCCNBJ046",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27977,8 +27977,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "067",
     "SWIFT Code": "MSBCCNBJ067",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -27990,8 +27990,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0C8",
     "SWIFT Code": "MSBCCNBJ0C8",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -28003,8 +28003,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0B2",
     "SWIFT Code": "MSBCCNBJ0B2",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -28016,8 +28016,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNUR",
-    "bankCode": "CN",
+    "bankCode": "CNUR",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CNURCNBJ",
     "Bank Name": "CHINA NATIONAL BUILDING MATERIAL GROUP FINANCE CO., LTD.",
@@ -28029,8 +28029,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNCR",
-    "bankCode": "CN",
+    "bankCode": "CNCR",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CNCRCNBJ",
     "Bank Name": "CHINA NATIONAL CHEMICAL ENGINEERING GROUP CORPORATION-FINANCE CO.,LTD.",
@@ -28042,8 +28042,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDCC",
-    "bankCode": "CN",
+    "bankCode": "RDCC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "RDCCCNBJ",
     "Bank Name": "CHINA NATIONAL CLEARING CENTER",
@@ -28055,8 +28055,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HKB",
     "SWIFT Code": "GDBKCN22HKB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28068,8 +28068,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HH1",
     "SWIFT Code": "GDBKCN22HH1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28081,8 +28081,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HEB",
     "SWIFT Code": "GDBKCN22HEB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28094,8 +28094,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HFB",
     "SWIFT Code": "GDBKCN22HFB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28107,8 +28107,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HYB",
     "SWIFT Code": "GDBKCN22HYB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28120,8 +28120,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HZ1",
     "SWIFT Code": "GDBKCN22HZ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28133,8 +28133,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "JM1",
     "SWIFT Code": "GDBKCN22JM1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28146,8 +28146,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "TS1",
     "SWIFT Code": "GDBKCN22TS1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28159,8 +28159,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "JM2",
     "SWIFT Code": "GDBKCN22JM2",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28172,8 +28172,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ST2",
     "SWIFT Code": "GDBKCN22ST2",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28185,8 +28185,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "JNB",
     "SWIFT Code": "GDBKCN22JNB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28198,8 +28198,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "YWB",
     "SWIFT Code": "GDBKCN22YWB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28211,8 +28211,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "KM1",
     "SWIFT Code": "GDBKCN22KM1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28224,8 +28224,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "MM1",
     "SWIFT Code": "GDBKCN22MM1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28237,8 +28237,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "MZ1",
     "SWIFT Code": "GDBKCN22MZ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28250,8 +28250,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "NCB",
     "SWIFT Code": "GDBKCN22NCB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28263,8 +28263,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "NJ1",
     "SWIFT Code": "GDBKCN22NJ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28276,8 +28276,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "NNB",
     "SWIFT Code": "GDBKCN22NNB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28289,8 +28289,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "NTB",
     "SWIFT Code": "GDBKCN22NTB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28302,8 +28302,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HH2",
     "SWIFT Code": "GDBKCN22HH2",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28315,8 +28315,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "QDB",
     "SWIFT Code": "GDBKCN22QDB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28328,8 +28328,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "QZB",
     "SWIFT Code": "GDBKCN22QZB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28341,8 +28341,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FT1",
     "SWIFT Code": "GDBKCN22FT1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28354,8 +28354,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "GDBKCN22FTU",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28367,8 +28367,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SH1",
     "SWIFT Code": "GDBKCN22SH1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28380,8 +28380,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ST3",
     "SWIFT Code": "GDBKCN22ST3",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28393,8 +28393,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ST1",
     "SWIFT Code": "GDBKCN22ST1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28406,8 +28406,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SGB",
     "SWIFT Code": "GDBKCN22SGB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28419,8 +28419,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SY1",
     "SWIFT Code": "GDBKCN22SY1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28432,8 +28432,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FT4",
     "SWIFT Code": "GDBKCN22FT4",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28445,8 +28445,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SZ1",
     "SWIFT Code": "GDBKCN22SZ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28458,8 +28458,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SJB",
     "SWIFT Code": "GDBKCN22SJB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28471,8 +28471,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SUB",
     "SWIFT Code": "GDBKCN22SUB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28484,8 +28484,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "TYB",
     "SWIFT Code": "GDBKCN22TYB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28497,8 +28497,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "TJB",
     "SWIFT Code": "GDBKCN22TJB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28510,8 +28510,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "WLB",
     "SWIFT Code": "GDBKCN22WLB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28523,8 +28523,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "HH3",
     "SWIFT Code": "GDBKCN22HH3",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28536,8 +28536,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "WHB",
     "SWIFT Code": "GDBKCN22WHB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28549,8 +28549,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "NJ2",
     "SWIFT Code": "GDBKCN22NJ2",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28562,8 +28562,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "IAB",
     "SWIFT Code": "GDBKCN22IAB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28575,8 +28575,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "YJB",
     "SWIFT Code": "GDBKCN22YJB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28588,8 +28588,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ZJ1",
     "SWIFT Code": "GDBKCN22ZJ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28601,8 +28601,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ZQ1",
     "SWIFT Code": "GDBKCN22ZQ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28614,8 +28614,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ZZ1",
     "SWIFT Code": "GDBKCN22ZZ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28627,8 +28627,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ZS1",
     "SWIFT Code": "GDBKCN22ZS1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28640,8 +28640,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FT3",
     "SWIFT Code": "GDBKCN22FT3",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28653,8 +28653,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ZH1",
     "SWIFT Code": "GDBKCN22ZH1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -28666,8 +28666,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHNP",
-    "bankCode": "CN",
+    "bankCode": "CHNP",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "CHNPCNBZ",
     "Bank Name": "CHINA HENAN INTERNATIONAL COOPERATION GROUP CO., LTD.",
@@ -28679,8 +28679,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHLC",
-    "bankCode": "CN",
+    "bankCode": "CHLC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CHLCCNBJ",
     "Bank Name": "CHINA HUAXIN POST AND TELECOM TECHNOLOGIES CO., LTD.",
@@ -28692,8 +28692,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CICP",
-    "bankCode": "CN",
+    "bankCode": "CICP",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "CICPCNBB",
     "Bank Name": "CHINA INTERNATIONAL CAPITAL CORPORATION LIMITED",
@@ -28705,8 +28705,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IXAB",
-    "bankCode": "CN",
+    "bankCode": "IXAB",
+    "countryCode": "CN",
     "branchCode": "NBX",
     "SWIFT Code": "IXABCNBX",
     "Bank Name": "BANK OF XI'AN (FORMERLY XI'AN CITY COMMERCIAL BANK)",
@@ -28718,8 +28718,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BXIN",
-    "bankCode": "CN",
+    "bankCode": "BXIN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BXINCNBJ",
     "Bank Name": "BANK OF XINGTAI CO.,LTD",
@@ -28731,8 +28731,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YKCB",
-    "bankCode": "CN",
+    "bankCode": "YKCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "YKCBCNBJ",
     "Bank Name": "BANK OF YINGKOU",
@@ -28744,8 +28744,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCBC",
-    "bankCode": "CN",
+    "bankCode": "ZCBC",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZCBCCNBZ",
     "Bank Name": "BANK OF ZHANGJIAKOU CO.,LTD.",
@@ -28757,8 +28757,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZZBK",
-    "bankCode": "CN",
+    "bankCode": "ZZBK",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "ZZBKCNBZ",
     "Bank Name": "BANK OF ZHENGZHOU CO.,LTD.",
@@ -28770,8 +28770,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINO",
-    "bankCode": "CN",
+    "bankCode": "SINO",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "SINOCNBN",
     "Bank Name": "BANK SINOPAC (CHINA) LTD.",
@@ -28783,8 +28783,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFO",
-    "bankCode": "CN",
+    "bankCode": "BGFO",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BGFOCNSH",
     "Bank Name": "BAOWU GROUP FINANCE CO., LTD.",
@@ -28796,8 +28796,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFMC",
-    "bankCode": "CN",
+    "bankCode": "BFMC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "BFMCCNB2",
     "Bank Name": "BAOYING FUND MANAGEMENT CO.,LTD",
@@ -28809,8 +28809,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "CN",
+    "bankCode": "BARC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BARCCNSH",
     "Bank Name": "BARCLAYS BANK PLC, SHANGHAI BRANCH",
@@ -28822,8 +28822,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRCB",
-    "bankCode": "CN",
+    "bankCode": "BRCB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BRCBCNBJ",
     "Bank Name": "BEIJING RURAL COMMERCIAL BANK",
@@ -28835,8 +28835,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BXTE",
-    "bankCode": "CN",
+    "bankCode": "BXTE",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BXTECNBJ",
     "Bank Name": "BEIJING XIAOJU TECHNOLOGY CO., LTD.",
@@ -28848,8 +28848,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYMI",
-    "bankCode": "CN",
+    "bankCode": "BYMI",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BYMICNBJ",
     "Bank Name": "BEIJING YONGHE MEDICAL INVESTMENT MANAGEMENT COMPANY LIMITED",
@@ -28861,8 +28861,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGIS",
-    "bankCode": "CN",
+    "bankCode": "BGIS",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "BGISCNBS",
     "Bank Name": "BGI SHENZHEN",
@@ -28874,8 +28874,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTG",
-    "bankCode": "CN",
+    "bankCode": "BSTG",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BSTGCNSH",
     "Bank Name": "BLACK SESAME TECHNOLOGIES(SHANGHAI) CO., LTD.",
@@ -28887,8 +28887,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CN",
+    "bankCode": "BNPA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BNPACNSH",
     "Bank Name": "BNP PARIBAS (CHINA) LTD",
@@ -28900,8 +28900,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CN",
+    "bankCode": "BNPA",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "BNPACNSHFTU",
     "Bank Name": "BNP PARIBAS (CHINA) LTD",
@@ -28913,8 +28913,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CN",
+    "bankCode": "BNPA",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "BNPACNSHFTZ",
     "Bank Name": "BNP PARIBAS (CHINA) LTD",
@@ -28926,8 +28926,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CN",
+    "bankCode": "BNPA",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BNPACNBJ",
     "Bank Name": "BNP PARIBAS (CHINA) LTD (BEIJING BRANCH)",
@@ -28939,8 +28939,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CN",
+    "bankCode": "BNPA",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "BNPACN22",
     "Bank Name": "BNP PARIBAS (CHINA) LTD (GUANGZHOU BRANCH)",
@@ -28952,8 +28952,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "CN",
+    "bankCode": "BNPA",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "BNPACNBT",
     "Bank Name": "BNP PARIBAS (CHINA) LTD (TIANJIN BRANCH)",
@@ -28965,8 +28965,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "CN",
+    "bankCode": "PUSB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "PUSBCNBN",
     "Bank Name": "BUSAN BANK NANJING BRANCH",
@@ -28978,8 +28978,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "CN",
+    "bankCode": "PUSB",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "PUSBCNBQ",
     "Bank Name": "BUSAN BANK QINGDAO BRANCH",
@@ -28991,8 +28991,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYDO",
-    "bankCode": "CN",
+    "bankCode": "BYDO",
+    "countryCode": "CN",
     "branchCode": "NBB",
     "SWIFT Code": "BYDOCNBB",
     "Bank Name": "BYD COMPANY LIMITED",
@@ -29004,8 +29004,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRCY",
-    "bankCode": "CN",
+    "bankCode": "CRCY",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CRCYCNB2",
     "Bank Name": "CANGXIAN RURAL CREDIT COMPANY LIMITED",
@@ -29017,8 +29017,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCUD",
-    "bankCode": "CN",
+    "bankCode": "CCUD",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CCUDCNB2",
     "Bank Name": "CANGYUAN COUNTY RURAL CREDIT COOPERATIVES",
@@ -29030,8 +29030,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "CN",
+    "bankCode": "UWCB",
+    "countryCode": "CN",
     "branchCode": "608",
     "SWIFT Code": "UWCBCNSH608",
     "Bank Name": "CATHAY UNITED BANK (CHINA) LTD.",
@@ -29043,8 +29043,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "CN",
+    "bankCode": "UWCB",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "UWCBCNSHFTZ",
     "Bank Name": "CATHAY UNITED BANK (CHINA) LTD.",
@@ -29056,8 +29056,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "CN",
+    "bankCode": "UWCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "UWCBCNSH",
     "Bank Name": "CATHAY UNITED BANK (CHINA) LTD.",
@@ -29069,8 +29069,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UWCB",
-    "bankCode": "CN",
+    "bankCode": "UWCB",
+    "countryCode": "CN",
     "branchCode": "611",
     "SWIFT Code": "UWCBCNSH611",
     "Bank Name": "CATHAY UNITED BANK (CHINA) LTD.",
@@ -29082,8 +29082,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPF",
-    "bankCode": "CN",
+    "bankCode": "CCPF",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CCPFCNBC",
     "Bank Name": "CAYALA COCOA PARK (FUJIAN) CO., LTD",
@@ -29095,8 +29095,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPEG",
-    "bankCode": "CN",
+    "bankCode": "CPEG",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CPEGCNB2",
     "Bank Name": "CCB PRINCIPAL ASSET MANAGEMENT CO., LTD",
@@ -29108,8 +29108,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CWMT",
-    "bankCode": "CN",
+    "bankCode": "CWMT",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CWMTCNB2",
     "Bank Name": "CCB WEALTH MANAGEMENT CO.,LTD.",
@@ -29121,8 +29121,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCHN",
-    "bankCode": "CN",
+    "bankCode": "CCHN",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CCHNCNBC",
     "Bank Name": "CHANG CHUN HIGH AND NEW TECHNOLOGY INDUSTRIES (GROUP) INC.",
@@ -29134,8 +29134,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "CN",
+    "bankCode": "CCBC",
+    "countryCode": "CN",
     "branchCode": "207",
     "SWIFT Code": "CCBCCNBK207",
     "Bank Name": "CHANG HUA COMMERCIAL BANK, LTD.",
@@ -29147,8 +29147,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "CN",
+    "bankCode": "CCBC",
+    "countryCode": "CN",
     "branchCode": "208",
     "SWIFT Code": "CCBCCNBK208",
     "Bank Name": "CHANG HUA COMMERCIAL BANK, LTD.",
@@ -29160,8 +29160,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "CN",
+    "bankCode": "CCBC",
+    "countryCode": "CN",
     "branchCode": "205",
     "SWIFT Code": "CCBCCNBK205",
     "Bank Name": "CHANG HUA COMMERCIAL BANK, LTD.",
@@ -29173,8 +29173,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "CN",
+    "bankCode": "CCBC",
+    "countryCode": "CN",
     "branchCode": "NBK",
     "SWIFT Code": "CCBCCNBK",
     "Bank Name": "CHANG HUA COMMERCIAL BANK, LTD.",
@@ -29186,8 +29186,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "CN",
+    "bankCode": "CCBC",
+    "countryCode": "CN",
     "branchCode": "260",
     "SWIFT Code": "CCBCCNBK260",
     "Bank Name": "CHANG HUA COMMERCIAL BANK, LTD.",
@@ -29199,8 +29199,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "CN",
+    "bankCode": "CCBC",
+    "countryCode": "CN",
     "branchCode": "203",
     "SWIFT Code": "CCBCCNBK203",
     "Bank Name": "CHANG HUA COMMERCIAL BANK, LTD.",
@@ -29212,8 +29212,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CABZ",
-    "bankCode": "CN",
+    "bankCode": "CABZ",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "CABZCNBA",
     "Bank Name": "CHANG'AN BANK CO.,LTD",
@@ -29225,8 +29225,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCDB",
-    "bankCode": "CN",
+    "bankCode": "CCDB",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CCDBCNBC",
     "Bank Name": "CHANGCHUN DEVELOPMENT RURAL COMMERCIAL BANK",
@@ -29238,8 +29238,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRCK",
-    "bankCode": "CN",
+    "bankCode": "CRCK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CRCKCNBJ",
     "Bank Name": "CHANGCHUN RURAL COMMERCIAL BANK CO., LTD",
@@ -29251,8 +29251,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUCD",
-    "bankCode": "CN",
+    "bankCode": "CUCD",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CUCDCNBC",
     "Bank Name": "CHANGSHA RURAL COMMERCIAL BANK CO.,LTD.",
@@ -29264,8 +29264,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSCB",
-    "bankCode": "CN",
+    "bankCode": "CSCB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CSCBCNSH",
     "Bank Name": "CHANGSHU RURAL COMMERCIAL BANK",
@@ -29277,8 +29277,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDRC",
-    "bankCode": "CN",
+    "bankCode": "CDRC",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CDRCCNBC",
     "Bank Name": "CHENGDU RURAL COMMERCIAL BANK CO.,LTD",
@@ -29290,8 +29290,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTPN",
-    "bankCode": "CN",
+    "bankCode": "CTPN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CTPNCNBJ",
     "Bank Name": "CHIA TAI PHARMACEUTICAL INVESTMENT (BEIJING) CO., LTD.",
@@ -29303,8 +29303,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHUD",
-    "bankCode": "CN",
+    "bankCode": "CHUD",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CHUDCNBC",
     "Bank Name": "CHIFENG HONGSHAN RURAL CREDIT UNION",
@@ -29316,8 +29316,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSRM",
-    "bankCode": "CN",
+    "bankCode": "CSRM",
+    "countryCode": "CN",
     "branchCode": "NBC",
     "SWIFT Code": "CSRMCNBC",
     "Bank Name": "CHIFENG SONGSHAN RURAL COMMERCIAL BANK CO., LTD.",
@@ -29329,8 +29329,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXJJ",
-    "bankCode": "CN",
+    "bankCode": "HXJJ",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HXJJCNB2",
     "Bank Name": "CHINA ASSET MANAGEMENT CO., LTD.",
@@ -29342,8 +29342,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXJJ",
-    "bankCode": "CN",
+    "bankCode": "HXJJ",
+    "countryCode": "CN",
     "branchCode": "OTS",
     "SWIFT Code": "HXJJCNBJOTS",
     "Bank Name": "CHINA ASSET MANAGEMENT CO.,LTD.",
@@ -29355,8 +29355,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDRM",
-    "bankCode": "CN",
+    "bankCode": "GDRM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GDRMCNB2",
     "Bank Name": "GUANGXI DAXIN RURAL COMMERCIAL BANK CO., LTD",
@@ -29368,8 +29368,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLMI",
-    "bankCode": "CN",
+    "bankCode": "GLMI",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "GLMICNBJ",
     "Bank Name": "GUANGXI LIUGONG MACHINERY CO., LTD.",
@@ -29381,8 +29381,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPRC",
-    "bankCode": "CN",
+    "bankCode": "GPRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GPRCCNB2",
     "Bank Name": "GUANGXI PINGXIANG RURAL COMMERCIAL CO.,LTD",
@@ -29394,8 +29394,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPRO",
-    "bankCode": "CN",
+    "bankCode": "GPRO",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "GPROCNB2",
     "Bank Name": "GUANGXI PUBEI RURAL COMMERCIAL BANK CO., LTD",
@@ -29407,8 +29407,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRTO",
-    "bankCode": "CN",
+    "bankCode": "GRTO",
+    "countryCode": "CN",
     "branchCode": "N2G",
     "SWIFT Code": "GRTOCN2G",
     "Bank Name": "GUANGZHOU RUOYUCHEN TECHNOLOGY CO., LTD.",
@@ -29420,8 +29420,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GZRC",
-    "bankCode": "CN",
+    "bankCode": "GZRC",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "GZRCCN22",
     "Bank Name": "GUANGZHOU RURAL COMMERCIAL BANK CO., LTD.(FORMER:GUANGZHOU RURAL CREDIT UNION)",
@@ -29433,8 +29433,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLBK",
-    "bankCode": "CN",
+    "bankCode": "GLBK",
+    "countryCode": "CN",
     "branchCode": "NBG",
     "SWIFT Code": "GLBKCNBG",
     "Bank Name": "GUILIN BANK CO.,LTD.",
@@ -29446,8 +29446,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUSI",
-    "bankCode": "CN",
+    "bankCode": "GUSI",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "GUSICNBS",
     "Bank Name": "GUOSEN SECURITIES CO., LTD",
@@ -29459,8 +29459,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTJA",
-    "bankCode": "CN",
+    "bankCode": "GTJA",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "GTJACNSH002",
     "Bank Name": "GUOTAI JUNAN SECURITIES CO., LTD.",
@@ -29472,8 +29472,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTJA",
-    "bankCode": "CN",
+    "bankCode": "GTJA",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "GTJACNSH",
     "Bank Name": "GUOTAI JUNAN SECURITIES CO., LTD.",
@@ -29485,8 +29485,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTJA",
-    "bankCode": "CN",
+    "bankCode": "GTJA",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "GTJACNSH001",
     "Bank Name": "GUOTAI JUNAN SECURITIES CO., LTD.",
@@ -29498,8 +29498,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTJA",
-    "bankCode": "CN",
+    "bankCode": "GTJA",
+    "countryCode": "CN",
     "branchCode": "101",
     "SWIFT Code": "GTJACNSH101",
     "Bank Name": "GUOTAI JUNAN SECURITIES CO., LTD.",
@@ -29511,8 +29511,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "CN",
+    "bankCode": "HABB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HABBCNBJ",
     "Bank Name": "HABIB BANK LIMITED BEIJING BRANCH",
@@ -29524,8 +29524,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "CN",
+    "bankCode": "HABB",
+    "countryCode": "CN",
     "branchCode": "NBU",
     "SWIFT Code": "HABBCNBU",
     "Bank Name": "HABIB BANK LIMITED URUMQI BRANCH",
@@ -29537,8 +29537,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRFC",
-    "bankCode": "CN",
+    "bankCode": "HRFC",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "HRFCCNBQ",
     "Bank Name": "HAIER FINANCE CO.,LTD",
@@ -29550,8 +29550,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAIK",
-    "bankCode": "CN",
+    "bankCode": "HAIK",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HAIKCNBH",
     "Bank Name": "HAIKOU RURAL COMMERCIAL BANK CO.,LTD.",
@@ -29563,8 +29563,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HURC",
-    "bankCode": "CN",
+    "bankCode": "HURC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "HURCCNB2",
     "Bank Name": "HAIKOU UNITED RURAL COMMERCIAL BANK CO., LTD",
@@ -29576,8 +29576,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HANF",
-    "bankCode": "CN",
+    "bankCode": "HANF",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HANFCNBH",
     "Bank Name": "HAILIANG FINANCE CO., LTD.",
@@ -29589,8 +29589,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HPMG",
-    "bankCode": "CN",
+    "bankCode": "HPMG",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "HPMGCNBN",
     "Bank Name": "HAITIAN PLASTICS MACHINERY LTD.",
@@ -29602,8 +29602,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAEI",
-    "bankCode": "CN",
+    "bankCode": "HAEI",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "HAEICNSH",
     "Bank Name": "HAND ENTERPRISE SOLUTIONS CO., LTD.",
@@ -29615,8 +29615,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "BEJ",
     "SWIFT Code": "HASECNSHBEJ",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29628,8 +29628,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "CND",
     "SWIFT Code": "HASECNSHCND",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29641,8 +29641,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "DON",
     "SWIFT Code": "HASECNSHDON",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29654,8 +29654,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "FOS",
     "SWIFT Code": "HASECNSHFOS",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29667,8 +29667,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "SNE",
     "SWIFT Code": "HASECNSHSNE",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29680,8 +29680,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "FUZ",
     "SWIFT Code": "HASECNSHFUZ",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29693,8 +29693,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "GZU",
     "SWIFT Code": "HASECNSHGZU",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29706,8 +29706,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "HZU",
     "SWIFT Code": "HASECNSHHZU",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29719,8 +29719,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "HUI",
     "SWIFT Code": "HASECNSHHUI",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29732,8 +29732,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "GJM",
     "SWIFT Code": "HASECNSHGJM",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29745,8 +29745,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "JNA",
     "SWIFT Code": "HASECNSHJNA",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29758,8 +29758,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "KUN",
     "SWIFT Code": "HASECNSHKUN",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29771,8 +29771,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "NAJ",
     "SWIFT Code": "HASECNSHNAJ",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29784,8 +29784,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "NIN",
     "SWIFT Code": "HASECNSHNIN",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29797,8 +29797,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "HASECNSH",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29810,8 +29810,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "SCF",
     "SWIFT Code": "HASECNSHSCF",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29823,8 +29823,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "HSH",
     "SWIFT Code": "HASECNSHHSH",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29836,8 +29836,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "SFZ",
     "SWIFT Code": "HASECNSHSFZ",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29849,8 +29849,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "SNU",
     "SWIFT Code": "HASECNSHSNU",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29862,8 +29862,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "SZH",
     "SWIFT Code": "HASECNSHSZH",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29875,8 +29875,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "SYQ",
     "SWIFT Code": "HASECNSHSYQ",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29888,8 +29888,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "TIJ",
     "SWIFT Code": "HASECNSHTIJ",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29901,8 +29901,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "HXM",
     "SWIFT Code": "HASECNSHHXM",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29914,8 +29914,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HASE",
-    "bankCode": "CN",
+    "bankCode": "HASE",
+    "countryCode": "CN",
     "branchCode": "ZHO",
     "SWIFT Code": "HASECNSHZHO",
     "Bank Name": "HANG SENG BANK (CHINA) LIMITED",
@@ -29927,8 +29927,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVIT",
-    "bankCode": "CN",
+    "bankCode": "HVIT",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HVITCNBH",
     "Bank Name": "HANGZHOU 21 VIANET INFORMATION TECHNOLOGY CO., LTD.",
@@ -29940,8 +29940,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEZN",
-    "bankCode": "CN",
+    "bankCode": "HEZN",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HEZNCNBH",
     "Bank Name": "HANGZHOU EZVIZ NETWORK CO., LTD",
@@ -29953,8 +29953,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HHDC",
-    "bankCode": "CN",
+    "bankCode": "HHDC",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "HHDCCNBH",
     "Bank Name": "HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO.,LTD.",
@@ -29966,8 +29966,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "URCB",
-    "bankCode": "CN",
+    "bankCode": "URCB",
+    "countryCode": "CN",
     "branchCode": "N2H",
     "SWIFT Code": "URCBCN2H",
     "Bank Name": "HANGZHOU UNITED RURAL COMMERCIAL BANK CO.LTD",
@@ -29979,8 +29979,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WHCB",
-    "bankCode": "CN",
+    "bankCode": "WHCB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "WHCBCNBN",
     "Bank Name": "HANKOU BANK (FORMERLY WUHAN URBAN COMMERCIAL BANK)",
@@ -29992,8 +29992,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCCB",
-    "bankCode": "CN",
+    "bankCode": "HCCB",
+    "countryCode": "CN",
     "branchCode": "CDB",
     "SWIFT Code": "HCCBCNBHCDB",
     "Bank Name": "HARBIN BANK CO.,LTD",
@@ -30005,8 +30005,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "RMB",
     "SWIFT Code": "CMBCCNBSRMB",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30018,8 +30018,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "CMBCCNBS050",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30031,8 +30031,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "HOC",
     "SWIFT Code": "CMBCCNBSHOC",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30044,8 +30044,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "458",
     "SWIFT Code": "CMBCCNBS458",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30057,8 +30057,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "275",
     "SWIFT Code": "CMBCCNBS275",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30070,8 +30070,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "351",
     "SWIFT Code": "CMBCCNBS351",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30083,8 +30083,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "730",
     "SWIFT Code": "CMBCCNBS730",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30096,8 +30096,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "FT3",
     "SWIFT Code": "CMBCCNBSFT3",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30109,8 +30109,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "391",
     "SWIFT Code": "CMBCCNBS391",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30122,8 +30122,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "520",
     "SWIFT Code": "CMBCCNBS520",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30135,8 +30135,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "421",
     "SWIFT Code": "CMBCCNBS421",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30148,8 +30148,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "237",
     "SWIFT Code": "CMBCCNBS237",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30161,8 +30161,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "376",
     "SWIFT Code": "CMBCCNBS376",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30174,8 +30174,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "288",
     "SWIFT Code": "CMBCCNBS288",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30187,8 +30187,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "101",
     "SWIFT Code": "CMBCCNBS101",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30200,8 +30200,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "270",
     "SWIFT Code": "CMBCCNBS270",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30213,8 +30213,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "471",
     "SWIFT Code": "CMBCCNBS471",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30226,8 +30226,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "231",
     "SWIFT Code": "CMBCCNBS231",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30239,8 +30239,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "589",
     "SWIFT Code": "CMBCCNBS589",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30252,8 +30252,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "372",
     "SWIFT Code": "CMBCCNBS372",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30265,8 +30265,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "442",
     "SWIFT Code": "CMBCCNBS442",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30278,8 +30278,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "601",
     "SWIFT Code": "CMBCCNBS601",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30291,8 +30291,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "491",
     "SWIFT Code": "CMBCCNBS491",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30304,8 +30304,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "430",
     "SWIFT Code": "CMBCCNBS430",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30317,8 +30317,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "410",
     "SWIFT Code": "CMBCCNBS410",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -30330,8 +30330,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHMF",
-    "bankCode": "CN",
+    "bankCode": "CHMF",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CHMFCNBS",
     "Bank Name": "CHINA MERCHANTS FUND MANAGEMENT CO., LTD",
@@ -30343,8 +30343,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHMC",
-    "bankCode": "CN",
+    "bankCode": "CHMC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CHMCCNBS",
     "Bank Name": "CHINA MERCHANTS SECURITIES CO., LTD",
@@ -30356,8 +30356,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHMC",
-    "bankCode": "CN",
+    "bankCode": "CHMC",
+    "countryCode": "CN",
     "branchCode": "088",
     "SWIFT Code": "CHMCCNBS088",
     "Bank Name": "CHINA MERCHANTS SECURITIES CO., LTD",
@@ -30369,8 +30369,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHMC",
-    "bankCode": "CN",
+    "bankCode": "CHMC",
+    "countryCode": "CN",
     "branchCode": "TGB",
     "SWIFT Code": "CHMCCNBSTGB",
     "Bank Name": "CHINA MERCHANTS SECURITIES CO., LTD",
@@ -30382,8 +30382,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0E5",
     "SWIFT Code": "MSBCCNBJ0E5",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30395,8 +30395,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "063",
     "SWIFT Code": "MSBCCNBJ063",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30408,8 +30408,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "ACD",
     "SWIFT Code": "MSBCCNBJACD",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30421,8 +30421,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "MSBCCNBJ001",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30434,8 +30434,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "CIP",
     "SWIFT Code": "MSBCCNBJCIP",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30447,8 +30447,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "MIT",
     "SWIFT Code": "MSBCCNBJMIT",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30460,8 +30460,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "MSBCCNBJ",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30473,8 +30473,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "IFD",
     "SWIFT Code": "MSBCCNBJIFD",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30486,8 +30486,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "040",
     "SWIFT Code": "MSBCCNBJ040",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30499,8 +30499,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "033",
     "SWIFT Code": "MSBCCNBJ033",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30512,8 +30512,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "031",
     "SWIFT Code": "MSBCCNBJ031",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30525,8 +30525,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "037",
     "SWIFT Code": "MSBCCNBJ037",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30538,8 +30538,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "020",
     "SWIFT Code": "MSBCCNBJ020",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30551,8 +30551,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "011",
     "SWIFT Code": "MSBCCNBJ011",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30564,8 +30564,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "0J3",
     "SWIFT Code": "MSBCCNBJ0J3",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30577,8 +30577,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "006",
     "SWIFT Code": "MSBCCNBJ006",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30590,8 +30590,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "052",
     "SWIFT Code": "MSBCCNBJ052",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30603,8 +30603,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "089",
     "SWIFT Code": "MSBCCNBJ089",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30616,8 +30616,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "059",
     "SWIFT Code": "MSBCCNBJ059",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30629,8 +30629,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "FSB",
     "SWIFT Code": "MSBCCNBJFSB",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30642,8 +30642,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBC",
-    "bankCode": "CN",
+    "bankCode": "MSBC",
+    "countryCode": "CN",
     "branchCode": "FQB",
     "SWIFT Code": "MSBCCNBJFQB",
     "Bank Name": "CHINA MINSHENG BANK",
@@ -30655,8 +30655,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "HSBCCNSHGZH",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30668,8 +30668,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "HAK",
     "SWIFT Code": "HSBCCNSHHAK",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30681,8 +30681,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "HAZ",
     "SWIFT Code": "HSBCCNSHHAZ",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30694,8 +30694,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "HBB",
     "SWIFT Code": "HSBCCNSHHBB",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30707,8 +30707,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "HEF",
     "SWIFT Code": "HSBCCNSHHEF",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30720,8 +30720,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "JIN",
     "SWIFT Code": "HSBCCNSHJIN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30733,8 +30733,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "KUM",
     "SWIFT Code": "HSBCCNSHKUM",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30746,8 +30746,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "NCG",
     "SWIFT Code": "HSBCCNSHNCG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30759,8 +30759,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "NJN",
     "SWIFT Code": "HSBCCNSHNJN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30772,8 +30772,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "NNA",
     "SWIFT Code": "HSBCCNSHNNA",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30785,8 +30785,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "NTG",
     "SWIFT Code": "HSBCCNSHNTG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30798,8 +30798,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "NGB",
     "SWIFT Code": "HSBCCNSHNGB",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30811,8 +30811,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "HSBCCNSHQDO",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30824,8 +30824,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "HSBCCNSH",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30837,8 +30837,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SPT",
     "SWIFT Code": "HSBCCNSHSPT",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30850,8 +30850,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "DCC",
     "SWIFT Code": "HSBCCNSHDCC",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30863,8 +30863,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SCF",
     "SWIFT Code": "HSBCCNSHSCF",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30876,8 +30876,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "LIG",
     "SWIFT Code": "HSBCCNSHLIG",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30889,8 +30889,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SYA",
     "SWIFT Code": "HSBCCNSHSYA",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30902,8 +30902,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "HSBCCNSHSZN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30915,8 +30915,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SUZ",
     "SWIFT Code": "HSBCCNSHSUZ",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30928,8 +30928,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "TYU",
     "SWIFT Code": "HSBCCNSHTYU",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30941,8 +30941,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "TGH",
     "SWIFT Code": "HSBCCNSHTGH",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30954,8 +30954,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "HSBCCNSHTJN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30967,8 +30967,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "WUN",
     "SWIFT Code": "HSBCCNSHWUN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30980,8 +30980,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "WUX",
     "SWIFT Code": "HSBCCNSHWUX",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -30993,8 +30993,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SIA",
     "SWIFT Code": "HSBCCNSHSIA",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -31006,8 +31006,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "SAN",
     "SWIFT Code": "HSBCCNSHSAN",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -31019,8 +31019,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "YAZ",
     "SWIFT Code": "HSBCCNSHYAZ",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -31032,8 +31032,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CN",
+    "bankCode": "HSBC",
+    "countryCode": "CN",
     "branchCode": "ZHE",
     "SWIFT Code": "HSBCCNSHZHE",
     "Bank Name": "HSBC BANK (CHINA) COMPANY LIMITED",
@@ -31045,8 +31045,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HJFM",
-    "bankCode": "CN",
+    "bankCode": "HJFM",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "HJFMCNS2",
     "Bank Name": "HSBC JINTRUST FUND MANAGEMENT COMPANY LIMITED",
@@ -31058,8 +31058,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "CN",
+    "bankCode": "HNBK",
+    "countryCode": "CN",
     "branchCode": "917",
     "SWIFT Code": "HNBKCNBS917",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -31071,8 +31071,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "CN",
+    "bankCode": "HNBK",
+    "countryCode": "CN",
     "branchCode": "916",
     "SWIFT Code": "HNBKCNBS916",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -31084,8 +31084,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "CN",
+    "bankCode": "HNBK",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "HNBKCNBS",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -31097,8 +31097,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNBK",
-    "bankCode": "CN",
+    "bankCode": "HNBK",
+    "countryCode": "CN",
     "branchCode": "915",
     "SWIFT Code": "HNBKCNBS915",
     "Bank Name": "HUA NAN COMMERCIAL BANK, LTD.",
@@ -31110,8 +31110,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "12A",
     "SWIFT Code": "HXBKCNBJ12A",
     "Bank Name": "HUA XIA BANK",
@@ -31123,8 +31123,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08A",
     "SWIFT Code": "HXBKCNBJ08A",
     "Bank Name": "HUA XIA BANK",
@@ -31136,8 +31136,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08I",
     "SWIFT Code": "HXBKCNBJ08I",
     "Bank Name": "HUA XIA BANK",
@@ -31149,8 +31149,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "19B",
     "SWIFT Code": "HXBKCNBJ19B",
     "Bank Name": "HUA XIA BANK",
@@ -31162,8 +31162,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "HXBKCNBJ030",
     "Bank Name": "HUA XIA BANK",
@@ -31175,8 +31175,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "CSD",
     "SWIFT Code": "HXBKCNBJCSD",
     "Bank Name": "HUA XIA BANK",
@@ -31188,8 +31188,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "HXBKCNBJ",
     "Bank Name": "HUA XIA BANK",
@@ -31201,8 +31201,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05J",
     "SWIFT Code": "HXBKCNBJ05J",
     "Bank Name": "HUA XIA BANK",
@@ -31214,8 +31214,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08C",
     "SWIFT Code": "HXBKCNBJ08C",
     "Bank Name": "HUA XIA BANK",
@@ -31227,8 +31227,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "280",
     "SWIFT Code": "HXBKCNBJ280",
     "Bank Name": "HUA XIA BANK",
@@ -31240,8 +31240,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "27B",
     "SWIFT Code": "HXBKCNBJ27B",
     "Bank Name": "HUA XIA BANK",
@@ -31253,8 +31253,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "17A",
     "SWIFT Code": "HXBKCNBJ17A",
     "Bank Name": "HUA XIA BANK",
@@ -31266,8 +31266,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "270",
     "SWIFT Code": "HXBKCNBJ270",
     "Bank Name": "HUA XIA BANK",
@@ -31279,8 +31279,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "250",
     "SWIFT Code": "HXBKCNBJ250",
     "Bank Name": "HUA XIA BANK",
@@ -31292,8 +31292,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "150",
     "SWIFT Code": "HXBKCNBJ150",
     "Bank Name": "HUA XIA BANK",
@@ -31305,8 +31305,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "850",
     "SWIFT Code": "CIBKCNBJ850",
     "Bank Name": "CHINA CITIC BANK",
@@ -31318,8 +31318,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "276",
     "SWIFT Code": "CIBKCNBJ276",
     "Bank Name": "CHINA CITIC BANK",
@@ -31331,8 +31331,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "471",
     "SWIFT Code": "CIBKCNBJ471",
     "Bank Name": "CHINA CITIC BANK",
@@ -31344,8 +31344,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "243",
     "SWIFT Code": "CIBKCNBJ243",
     "Bank Name": "CHINA CITIC BANK",
@@ -31357,8 +31357,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "330",
     "SWIFT Code": "CIBKCNBJ330",
     "Bank Name": "CHINA CITIC BANK",
@@ -31370,8 +31370,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "210",
     "SWIFT Code": "CIBKCNBJ210",
     "Bank Name": "CHINA CITIC BANK",
@@ -31383,8 +31383,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "530",
     "SWIFT Code": "CIBKCNBJ530",
     "Bank Name": "CHINA CITIC BANK",
@@ -31396,8 +31396,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "226",
     "SWIFT Code": "CIBKCNBJ226",
     "Bank Name": "CHINA CITIC BANK",
@@ -31409,8 +31409,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "473",
     "SWIFT Code": "CIBKCNBJ473",
     "Bank Name": "CHINA CITIC BANK",
@@ -31422,8 +31422,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "315",
     "SWIFT Code": "CIBKCNBJ315",
     "Bank Name": "CHINA CITIC BANK",
@@ -31435,8 +31435,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "017",
     "SWIFT Code": "CIBKCNBJ017",
     "Bank Name": "CHINA CITIC BANK",
@@ -31448,8 +31448,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "351",
     "SWIFT Code": "CIBKCNBJ351",
     "Bank Name": "CHINA CITIC BANK",
@@ -31461,8 +31461,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "266",
     "SWIFT Code": "CIBKCNBJ266",
     "Bank Name": "CHINA CITIC BANK",
@@ -31474,8 +31474,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "362",
     "SWIFT Code": "CIBKCNBJ362",
     "Bank Name": "CHINA CITIC BANK",
@@ -31487,8 +31487,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "268",
     "SWIFT Code": "CIBKCNBJ268",
     "Bank Name": "CHINA CITIC BANK",
@@ -31500,8 +31500,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "CIBKCNBJ200",
     "Bank Name": "CHINA CITIC BANK",
@@ -31513,8 +31513,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "FT1",
     "SWIFT Code": "CIBKCNBJFT1",
     "Bank Name": "CHINA CITIC BANK",
@@ -31526,8 +31526,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "312",
     "SWIFT Code": "CIBKCNBJ312",
     "Bank Name": "CHINA CITIC BANK",
@@ -31539,8 +31539,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "110",
     "SWIFT Code": "CIBKCNBJ110",
     "Bank Name": "CHINA CITIC BANK",
@@ -31552,8 +31552,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "SZQ",
     "SWIFT Code": "CIBKCNBJSZQ",
     "Bank Name": "CHINA CITIC BANK",
@@ -31565,8 +31565,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "518",
     "SWIFT Code": "CIBKCNBJ518",
     "Bank Name": "CHINA CITIC BANK",
@@ -31578,8 +31578,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "CIBKCNBJ050",
     "Bank Name": "CHINA CITIC BANK",
@@ -31591,8 +31591,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "215",
     "SWIFT Code": "CIBKCNBJ215",
     "Bank Name": "CHINA CITIC BANK",
@@ -31604,8 +31604,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "030",
     "SWIFT Code": "CIBKCNBJ030",
     "Bank Name": "CHINA CITIC BANK",
@@ -31617,8 +31617,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "22A",
     "SWIFT Code": "CIBKCNBJ22A",
     "Bank Name": "CHINA CITIC BANK",
@@ -31630,8 +31630,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "318",
     "SWIFT Code": "CIBKCNBJ318",
     "Bank Name": "CHINA CITIC BANK",
@@ -31643,8 +31643,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "063",
     "SWIFT Code": "CIBKCNBJ063",
     "Bank Name": "CHINA CITIC BANK",
@@ -31656,8 +31656,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "30A",
     "SWIFT Code": "CIBKCNBJ30A",
     "Bank Name": "CHINA CITIC BANK",
@@ -31669,8 +31669,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "300",
     "SWIFT Code": "CIBKCNBJ300",
     "Bank Name": "CHINA CITIC BANK",
@@ -31682,8 +31682,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "830",
     "SWIFT Code": "CIBKCNBJ830",
     "Bank Name": "CHINA CITIC BANK",
@@ -31695,8 +31695,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "261",
     "SWIFT Code": "CIBKCNBJ261",
     "Bank Name": "CHINA CITIC BANK",
@@ -31708,8 +31708,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "264",
     "SWIFT Code": "CIBKCNBJ264",
     "Bank Name": "CHINA CITIC BANK",
@@ -31721,8 +31721,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "325",
     "SWIFT Code": "CIBKCNBJ325",
     "Bank Name": "CHINA CITIC BANK",
@@ -31734,8 +31734,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "430",
     "SWIFT Code": "CIBKCNBJ430",
     "Bank Name": "CHINA CITIC BANK",
@@ -31747,8 +31747,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "241",
     "SWIFT Code": "CIBKCNBJ241",
     "Bank Name": "CHINA CITIC BANK",
@@ -31760,8 +31760,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "214",
     "SWIFT Code": "CIBKCNBJ214",
     "Bank Name": "CHINA CITIC BANK",
@@ -31773,8 +31773,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "361",
     "SWIFT Code": "CIBKCNBJ361",
     "Bank Name": "CHINA CITIC BANK",
@@ -31786,8 +31786,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "710",
     "SWIFT Code": "CIBKCNBJ710",
     "Bank Name": "CHINA CITIC BANK",
@@ -31799,8 +31799,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "441",
     "SWIFT Code": "CIBKCNBJ441",
     "Bank Name": "CHINA CITIC BANK",
@@ -31812,8 +31812,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "810",
     "SWIFT Code": "CIBKCNBJ810",
     "Bank Name": "CHINA CITIC BANK",
@@ -31825,8 +31825,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "453",
     "SWIFT Code": "CIBKCNBJ453",
     "Bank Name": "CHINA CITIC BANK",
@@ -31838,8 +31838,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "221",
     "SWIFT Code": "CIBKCNBJ221",
     "Bank Name": "CHINA CITIC BANK",
@@ -31851,8 +31851,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "224",
     "SWIFT Code": "CIBKCNBJ224",
     "Bank Name": "CHINA CITIC BANK",
@@ -31864,8 +31864,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "225",
     "SWIFT Code": "CIBKCNBJ225",
     "Bank Name": "CHINA CITIC BANK",
@@ -31877,8 +31877,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "26A",
     "SWIFT Code": "CIBKCNBJ26A",
     "Bank Name": "CHINA CITIC BANK",
@@ -31890,8 +31890,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "443",
     "SWIFT Code": "CIBKCNBJ443",
     "Bank Name": "CHINA CITIC BANK",
@@ -31903,8 +31903,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "750",
     "SWIFT Code": "CIBKCNBJ750",
     "Bank Name": "CHINA CITIC BANK",
@@ -31916,8 +31916,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "414",
     "SWIFT Code": "CIBKCNBJ414",
     "Bank Name": "CHINA CITIC BANK",
@@ -31929,8 +31929,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "363",
     "SWIFT Code": "CIBKCNBJ363",
     "Bank Name": "CHINA CITIC BANK",
@@ -31942,8 +31942,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBK",
-    "bankCode": "CN",
+    "bankCode": "CIBK",
+    "countryCode": "CN",
     "branchCode": "450",
     "SWIFT Code": "CIBKCNBJ450",
     "Bank Name": "CHINA CITIC BANK",
@@ -31955,8 +31955,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "CHS",
     "SWIFT Code": "SCBLCNSXCHS",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -31968,8 +31968,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "SCBLCNSXCDU",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -31981,8 +31981,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "CHQ",
     "SWIFT Code": "SCBLCNSXCHQ",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -31994,8 +31994,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "SCBLCNSXDLN",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32007,8 +32007,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "FSH",
     "SWIFT Code": "SCBLCNSXFSH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32020,8 +32020,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "FUZ",
     "SWIFT Code": "SCBLCNSXFUZ",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32033,8 +32033,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "SCBLCNSXGZH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32046,8 +32046,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "HZH",
     "SWIFT Code": "SCBLCNSXHZH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32059,8 +32059,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "HRB",
     "SWIFT Code": "SCBLCNSXHRB",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32072,8 +32072,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "HFI",
     "SWIFT Code": "SCBLCNSXHFI",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32085,8 +32085,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "HHT",
     "SWIFT Code": "SCBLCNSXHHT",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32098,8 +32098,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "JNA",
     "SWIFT Code": "SCBLCNSXJNA",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32111,8 +32111,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "KMG",
     "SWIFT Code": "SCBLCNSXKMG",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32124,8 +32124,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "NCH",
     "SWIFT Code": "SCBLCNSXNCH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32137,8 +32137,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "NJG",
     "SWIFT Code": "SCBLCNSXNJG",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32150,8 +32150,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "NBO",
     "SWIFT Code": "SCBLCNSXNBO",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32163,8 +32163,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "SCBLCNSXQDO",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32176,8 +32176,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "NSX",
     "SWIFT Code": "SCBLCNSX",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32189,8 +32189,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "SCBLCNSXFTU",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32202,8 +32202,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "SCBLCNSXSHA",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32215,8 +32215,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "SHF",
     "SWIFT Code": "SCBLCNSXSHF",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32228,8 +32228,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "SHY",
     "SWIFT Code": "SCBLCNSXSHY",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32241,8 +32241,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "SHZ",
     "SWIFT Code": "SCBLCNSXSHZ",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32254,8 +32254,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "SZH",
     "SWIFT Code": "SCBLCNSXSZH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32267,8 +32267,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "TAY",
     "SWIFT Code": "SCBLCNSXTAY",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32280,8 +32280,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "SCBLCNSXTJN",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32293,8 +32293,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "WUH",
     "SWIFT Code": "SCBLCNSXWUH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32306,8 +32306,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "IMN",
     "SWIFT Code": "SCBLCNSXIMN",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32319,8 +32319,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "SIA",
     "SWIFT Code": "SCBLCNSXSIA",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32332,8 +32332,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "ZZH",
     "SWIFT Code": "SCBLCNSXZZH",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32345,8 +32345,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CN",
+    "bankCode": "SCBL",
+    "countryCode": "CN",
     "branchCode": "ZHU",
     "SWIFT Code": "SCBLCNSXZHU",
     "Bank Name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
@@ -32358,8 +32358,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "CN",
+    "bankCode": "SBIN",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SBINCNSH",
     "Bank Name": "STATE BANK OF INDIA",
@@ -32371,8 +32371,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "CN",
+    "bankCode": "SBIN",
+    "countryCode": "CN",
     "branchCode": "068",
     "SWIFT Code": "SBINCNSH068",
     "Bank Name": "STATE BANK OF INDIA",
@@ -32384,8 +32384,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "CN",
+    "bankCode": "SBOS",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SBOSCNBJ",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY BEIJING BRANCH",
@@ -32397,8 +32397,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUGN",
-    "bankCode": "CN",
+    "bankCode": "SUGN",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SUGNCNBS",
     "Bank Name": "SUINING BANK CO., LTD",
@@ -32410,8 +32410,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUGC",
-    "bankCode": "CN",
+    "bankCode": "SUGC",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "SUGCCNBN",
     "Bank Name": "SUMEC GROUP CORPORATION",
@@ -32423,8 +32423,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SMBCCNSH",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED",
@@ -32436,8 +32436,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "SMBCCNBJ",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED BEIJING BRANCH",
@@ -32449,8 +32449,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "SMBCCN22",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED GUANGZHOU BRANCH",
@@ -32462,8 +32462,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "N2H",
     "SWIFT Code": "SMBCCN2H",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED HANGZHOU BRANCH",
@@ -32475,8 +32475,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "NSF",
     "SWIFT Code": "SMBCCNSF",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED SHANGHAI FREE TRADE ZONE SUB-BRANCH",
@@ -32488,8 +32488,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SMBCCNBS",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED SHENZHEN BRANCH",
@@ -32501,8 +32501,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "NSU",
     "SWIFT Code": "SMBCCNSU",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED SUZHOU BRANCH",
@@ -32514,8 +32514,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "CN",
+    "bankCode": "SMBC",
+    "countryCode": "CN",
     "branchCode": "NBT",
     "SWIFT Code": "SMBCCNBT",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION (CHINA) LIMITED TIANJIN BRANCH",
@@ -32527,8 +32527,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "CN",
+    "bankCode": "STBC",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "STBCCNSH",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED SHANGHAI BRANCH",
@@ -32540,8 +32540,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOSD",
-    "bankCode": "CN",
+    "bankCode": "SOSD",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "SOSDCNBH",
     "Bank Name": "SUNGROW POWER SUPPLY CO.,LTD",
@@ -32553,8 +32553,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUNO",
-    "bankCode": "CN",
+    "bankCode": "SUNO",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "SUNOCNBN",
     "Bank Name": "SUNING.COM CO. LTD.",
@@ -32566,8 +32566,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIH",
-    "bankCode": "CN",
+    "bankCode": "SEIH",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "SEIHCNBS",
     "Bank Name": "SUZHOU ECMAX INFORMATION TECHNOLOGY CO., LTD.",
@@ -32579,8 +32579,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWED",
-    "bankCode": "CN",
+    "bankCode": "SWED",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "SWEDCNSH",
     "Bank Name": "SWEDBANK AB",
@@ -32592,8 +32592,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWFG",
-    "bankCode": "CN",
+    "bankCode": "SWFG",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "SWFGCNS2",
     "Bank Name": "SWS MU FUND MANAGEMENT CO., LTD.",
@@ -32605,8 +32605,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "27A",
     "SWIFT Code": "HXBKCNBJ27A",
     "Bank Name": "HUA XIA BANK",
@@ -32618,8 +32618,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "110",
     "SWIFT Code": "HXBKCNBJ110",
     "Bank Name": "HUA XIA BANK",
@@ -32631,8 +32631,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "06B",
     "SWIFT Code": "HXBKCNBJ06B",
     "Bank Name": "HUA XIA BANK",
@@ -32644,8 +32644,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "130",
     "SWIFT Code": "HXBKCNBJ130",
     "Bank Name": "HUA XIA BANK",
@@ -32657,8 +32657,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05K",
     "SWIFT Code": "HXBKCNBJ05K",
     "Bank Name": "HUA XIA BANK",
@@ -32670,8 +32670,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10A",
     "SWIFT Code": "HXBKCNBJ10A",
     "Bank Name": "HUA XIA BANK",
@@ -32683,8 +32683,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05E",
     "SWIFT Code": "HXBKCNBJ05E",
     "Bank Name": "HUA XIA BANK",
@@ -32696,8 +32696,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10B",
     "SWIFT Code": "HXBKCNBJ10B",
     "Bank Name": "HUA XIA BANK",
@@ -32709,8 +32709,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "22B",
     "SWIFT Code": "HXBKCNBJ22B",
     "Bank Name": "HUA XIA BANK",
@@ -32722,8 +32722,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "20E",
     "SWIFT Code": "HXBKCNBJ20E",
     "Bank Name": "HUA XIA BANK",
@@ -32735,8 +32735,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "HXBKCNBJ200",
     "Bank Name": "HUA XIA BANK",
@@ -32748,8 +32748,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "30B",
     "SWIFT Code": "HXBKCNBJ30B",
     "Bank Name": "HUA XIA BANK",
@@ -32761,8 +32761,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10G",
     "SWIFT Code": "HXBKCNBJ10G",
     "Bank Name": "HUA XIA BANK",
@@ -32774,8 +32774,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "100",
     "SWIFT Code": "HXBKCNBJ100",
     "Bank Name": "HUA XIA BANK",
@@ -32787,8 +32787,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "340",
     "SWIFT Code": "HXBKCNBJ340",
     "Bank Name": "HUA XIA BANK",
@@ -32800,8 +32800,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "310",
     "SWIFT Code": "HXBKCNBJ310",
     "Bank Name": "HUA XIA BANK",
@@ -32813,8 +32813,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08E",
     "SWIFT Code": "HXBKCNBJ08E",
     "Bank Name": "HUA XIA BANK",
@@ -32826,8 +32826,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "020",
     "SWIFT Code": "HXBKCNBJ020",
     "Bank Name": "HUA XIA BANK",
@@ -32839,8 +32839,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "330",
     "SWIFT Code": "HXBKCNBJ330",
     "Bank Name": "HUA XIA BANK",
@@ -32852,8 +32852,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "220",
     "SWIFT Code": "HXBKCNBJ220",
     "Bank Name": "HUA XIA BANK",
@@ -32865,8 +32865,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "190",
     "SWIFT Code": "HXBKCNBJ190",
     "Bank Name": "HUA XIA BANK",
@@ -32878,8 +32878,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01K",
     "SWIFT Code": "HXBKCNBJ01K",
     "Bank Name": "HUA XIA BANK",
@@ -32891,8 +32891,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "14C",
     "SWIFT Code": "HXBKCNBJ14C",
     "Bank Name": "HUA XIA BANK",
@@ -32904,8 +32904,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10I",
     "SWIFT Code": "HXBKCNBJ10I",
     "Bank Name": "HUA XIA BANK",
@@ -32917,8 +32917,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02C",
     "SWIFT Code": "HXBKCNBJ02C",
     "Bank Name": "HUA XIA BANK",
@@ -32930,8 +32930,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "30A",
     "SWIFT Code": "HXBKCNBJ30A",
     "Bank Name": "HUA XIA BANK",
@@ -32943,8 +32943,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "10F",
     "SWIFT Code": "HXBKCNBJ10F",
     "Bank Name": "HUA XIA BANK",
@@ -32956,8 +32956,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02E",
     "SWIFT Code": "HXBKCNBJ02E",
     "Bank Name": "HUA XIA BANK",
@@ -32969,8 +32969,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "281",
     "SWIFT Code": "HXBKCNBJ281",
     "Bank Name": "HUA XIA BANK",
@@ -32982,8 +32982,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "050",
     "SWIFT Code": "HXBKCNBJ050",
     "Bank Name": "HUA XIA BANK",
@@ -32995,8 +32995,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "14D",
     "SWIFT Code": "HXBKCNBJ14D",
     "Bank Name": "HUA XIA BANK",
@@ -33008,8 +33008,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02G",
     "SWIFT Code": "HXBKCNBJ02G",
     "Bank Name": "HUA XIA BANK",
@@ -33021,8 +33021,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05H",
     "SWIFT Code": "HXBKCNBJ05H",
     "Bank Name": "HUA XIA BANK",
@@ -33034,8 +33034,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "12C",
     "SWIFT Code": "HXBKCNBJ12C",
     "Bank Name": "HUA XIA BANK",
@@ -33047,8 +33047,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "060",
     "SWIFT Code": "HXBKCNBJ060",
     "Bank Name": "HUA XIA BANK",
@@ -33060,8 +33060,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "08F",
     "SWIFT Code": "HXBKCNBJ08F",
     "Bank Name": "HUA XIA BANK",
@@ -33073,8 +33073,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "350",
     "SWIFT Code": "HXBKCNBJ350",
     "Bank Name": "HUA XIA BANK",
@@ -33086,8 +33086,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01X",
     "SWIFT Code": "HXBKCNBJ01X",
     "Bank Name": "HUA XIA BANK",
@@ -33099,8 +33099,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05C",
     "SWIFT Code": "HXBKCNBJ05C",
     "Bank Name": "HUA XIA BANK",
@@ -33112,8 +33112,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "05F",
     "SWIFT Code": "HXBKCNBJ05F",
     "Bank Name": "HUA XIA BANK",
@@ -33125,8 +33125,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "02I",
     "SWIFT Code": "HXBKCNBJ02I",
     "Bank Name": "HUA XIA BANK",
@@ -33138,8 +33138,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "20C",
     "SWIFT Code": "HXBKCNBJ20C",
     "Bank Name": "HUA XIA BANK",
@@ -33151,8 +33151,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "29A",
     "SWIFT Code": "HXBKCNBJ29A",
     "Bank Name": "HUA XIA BANK",
@@ -33164,8 +33164,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "15A",
     "SWIFT Code": "HXBKCNBJ15A",
     "Bank Name": "HUA XIA BANK",
@@ -33177,8 +33177,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "300",
     "SWIFT Code": "HXBKCNBJ300",
     "Bank Name": "HUA XIA BANK",
@@ -33190,8 +33190,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "HXBKCNBJ010",
     "Bank Name": "HUA XIA BANK",
@@ -33203,8 +33203,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "240",
     "SWIFT Code": "HXBKCNBJ240",
     "Bank Name": "HUA XIA BANK",
@@ -33216,8 +33216,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "01C",
     "SWIFT Code": "HXBKCNBJ01C",
     "Bank Name": "HUA XIA BANK",
@@ -33229,8 +33229,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "210",
     "SWIFT Code": "HXBKCNBJ210",
     "Bank Name": "HUA XIA BANK",
@@ -33242,8 +33242,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HXBK",
-    "bankCode": "CN",
+    "bankCode": "HXBK",
+    "countryCode": "CN",
     "branchCode": "19A",
     "SWIFT Code": "HXBKCNBJ19A",
     "Bank Name": "HUA XIA BANK",
@@ -33255,8 +33255,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "LZ1",
     "SWIFT Code": "EVERCNBJLZ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33268,8 +33268,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "LS1",
     "SWIFT Code": "EVERCNBJLS1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33281,8 +33281,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "NC1",
     "SWIFT Code": "EVERCNBJNC1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33294,8 +33294,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "NJ1",
     "SWIFT Code": "EVERCNBJNJ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33307,8 +33307,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "NN1",
     "SWIFT Code": "EVERCNBJNN1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33320,8 +33320,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "NB1",
     "SWIFT Code": "EVERCNBJNB1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33333,8 +33333,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "QD1",
     "SWIFT Code": "EVERCNBJQD1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33346,8 +33346,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "EVERCNBJFTZ",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33359,8 +33359,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "SH2",
     "SWIFT Code": "EVERCNBJSH2",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33372,8 +33372,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "SH1",
     "SWIFT Code": "EVERCNBJSH1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33385,8 +33385,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "SY1",
     "SWIFT Code": "EVERCNBJSY1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33398,8 +33398,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "SZ1",
     "SWIFT Code": "EVERCNBJSZ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33411,8 +33411,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "SJZ",
     "SWIFT Code": "EVERCNBJSJZ",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33424,8 +33424,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "SZH",
     "SWIFT Code": "EVERCNBJSZH",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33437,8 +33437,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "TY1",
     "SWIFT Code": "EVERCNBJTY1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33450,8 +33450,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "TJ2",
     "SWIFT Code": "EVERCNBJTJ2",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33463,8 +33463,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "TJ1",
     "SWIFT Code": "EVERCNBJTJ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33476,8 +33476,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "WLM",
     "SWIFT Code": "EVERCNBJWLM",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33489,8 +33489,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "WH1",
     "SWIFT Code": "EVERCNBJWH1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33502,8 +33502,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "WX1",
     "SWIFT Code": "EVERCNBJWX1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33515,8 +33515,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "AM1",
     "SWIFT Code": "EVERCNBJAM1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33528,8 +33528,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CA1",
     "SWIFT Code": "EVERCNBJCA1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33541,8 +33541,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CIN",
     "SWIFT Code": "EVERCNBJCIN",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33554,8 +33554,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "YT1",
     "SWIFT Code": "EVERCNBJYT1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33567,8 +33567,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "YC1",
     "SWIFT Code": "EVERCNBJYC1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33580,8 +33580,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "ZZ1",
     "SWIFT Code": "EVERCNBJZZ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33593,8 +33593,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "GZ3",
     "SWIFT Code": "EVERCNBJGZ3",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33606,8 +33606,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "ZH1",
     "SWIFT Code": "EVERCNBJZH1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -33619,8 +33619,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCIC",
-    "bankCode": "CN",
+    "bankCode": "CCIC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CCICCNBJ",
     "Bank Name": "CHINA EXPORT AND CREDIT INSURANCE CORPORATION",
@@ -33632,8 +33632,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "ACD",
     "SWIFT Code": "GDBKCN22ACD",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33645,8 +33645,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "BJ1",
     "SWIFT Code": "GDBKCN22BJ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33658,8 +33658,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "BXB",
     "SWIFT Code": "GDBKCN22BXB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33671,8 +33671,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "CCB",
     "SWIFT Code": "GDBKCN22CCB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33684,8 +33684,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "CS1",
     "SWIFT Code": "GDBKCN22CS1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33697,8 +33697,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "CZ1",
     "SWIFT Code": "GDBKCN22CZ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33710,8 +33710,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "CDB",
     "SWIFT Code": "GDBKCN22CDB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33723,8 +33723,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "CQB",
     "SWIFT Code": "GDBKCN22CQB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33736,8 +33736,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "DL1",
     "SWIFT Code": "GDBKCN22DL1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33749,8 +33749,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "DL2",
     "SWIFT Code": "GDBKCN22DL2",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33762,8 +33762,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "DG1",
     "SWIFT Code": "GDBKCN22DG1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33775,8 +33775,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FS1",
     "SWIFT Code": "GDBKCN22FS1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33788,8 +33788,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "NH1",
     "SWIFT Code": "GDBKCN22NH1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33801,8 +33801,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "SD1",
     "SWIFT Code": "GDBKCN22SD1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33814,8 +33814,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FZB",
     "SWIFT Code": "GDBKCN22FZB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33827,8 +33827,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "FT2",
     "SWIFT Code": "GDBKCN22FT2",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33840,8 +33840,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "GZ1",
     "SWIFT Code": "GDBKCN22GZ1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33853,8 +33853,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "GDBKCN22",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33866,8 +33866,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "OF1",
     "SWIFT Code": "GDBKCN22OF1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33879,8 +33879,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "QY1",
     "SWIFT Code": "GDBKCN22QY1",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33892,8 +33892,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDBK",
-    "bankCode": "CN",
+    "bankCode": "GDBK",
+    "countryCode": "CN",
     "branchCode": "GYB",
     "SWIFT Code": "GDBKCN22GYB",
     "Bank Name": "CHINA GUANGFA BANK CO., LTD",
@@ -33905,8 +33905,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLB",
-    "bankCode": "CN",
+    "bankCode": "CKLB",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CKLBCNBJ",
     "Bank Name": "BANK OF KUNLUN CO., LTD",
@@ -33918,8 +33918,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLB",
-    "bankCode": "CN",
+    "bankCode": "CKLB",
+    "countryCode": "CN",
     "branchCode": "010",
     "SWIFT Code": "CKLBCNBJ010",
     "Bank Name": "BANK OF KUNLUN CO., LTD",
@@ -33931,8 +33931,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLB",
-    "bankCode": "CN",
+    "bankCode": "CKLB",
+    "countryCode": "CN",
     "branchCode": "021",
     "SWIFT Code": "CKLBCNBJ021",
     "Bank Name": "BANK OF KUNLUN CO., LTD",
@@ -33944,8 +33944,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLB",
-    "bankCode": "CN",
+    "bankCode": "CKLB",
+    "countryCode": "CN",
     "branchCode": "990",
     "SWIFT Code": "CKLBCNBJ990",
     "Bank Name": "BANK OF KUNLUN CO., LTD",
@@ -33957,8 +33957,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLB",
-    "bankCode": "CN",
+    "bankCode": "CKLB",
+    "countryCode": "CN",
     "branchCode": "991",
     "SWIFT Code": "CKLBCNBJ991",
     "Bank Name": "BANK OF KUNLUN CO., LTD",
@@ -33970,8 +33970,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLB",
-    "bankCode": "CN",
+    "bankCode": "CKLB",
+    "countryCode": "CN",
     "branchCode": "029",
     "SWIFT Code": "CKLBCNBJ029",
     "Bank Name": "BANK OF KUNLUN CO., LTD",
@@ -33983,8 +33983,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOLF",
-    "bankCode": "CN",
+    "bankCode": "BOLF",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "BOLFCNBL",
     "Bank Name": "BANK OF LANGFANG CO.,LTD",
@@ -33996,8 +33996,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LZCB",
-    "bankCode": "CN",
+    "bankCode": "LZCB",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "LZCBCNBL",
     "Bank Name": "BANK OF LANZHOU CO., LTD",
@@ -34009,8 +34009,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LZBK",
-    "bankCode": "CN",
+    "bankCode": "LZBK",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "LZBKCNBJ",
     "Bank Name": "BANK OF LIUZHOU CO.,LTD.",
@@ -34022,8 +34022,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CN",
+    "bankCode": "BOFM",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "BOFMCN22",
     "Bank Name": "BANK OF MONTREAL (CHINA) CO. LTD.",
@@ -34035,8 +34035,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CN",
+    "bankCode": "BOFM",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BOFMCNBJ",
     "Bank Name": "BANK OF MONTREAL (CHINA) CO. LTD.",
@@ -34048,8 +34048,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CN",
+    "bankCode": "BOFM",
+    "countryCode": "CN",
     "branchCode": "HOX",
     "SWIFT Code": "BOFMCNBJHOX",
     "Bank Name": "BANK OF MONTREAL (CHINA) CO. LTD.",
@@ -34061,8 +34061,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "CN",
+    "bankCode": "BOFM",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "BOFMCNSH",
     "Bank Name": "BANK OF MONTREAL (CHINA) CO. LTD.",
@@ -34074,8 +34074,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NJCB",
-    "bankCode": "CN",
+    "bankCode": "NJCB",
+    "countryCode": "CN",
     "branchCode": "NBN",
     "SWIFT Code": "NJCBCNBN",
     "Bank Name": "BANK OF NANJING (FORMERLY NANJING CITY COMMERCIAL BANK)",
@@ -34087,8 +34087,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NJCB",
-    "bankCode": "CN",
+    "bankCode": "NJCB",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "NJCBCNBNFTU",
     "Bank Name": "BANK OF NANJING (FORMERLY NANJING CITY COMMERCIAL BANK)",
@@ -34100,8 +34100,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "BEI",
     "SWIFT Code": "BKNBCN2NBEI",
     "Bank Name": "BANK OF NINGBO",
@@ -34113,8 +34113,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "HAN",
     "SWIFT Code": "BKNBCN2NHAN",
     "Bank Name": "BANK OF NINGBO",
@@ -34126,8 +34126,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "HUZ",
     "SWIFT Code": "BKNBCN2NHUZ",
     "Bank Name": "BANK OF NINGBO",
@@ -34139,8 +34139,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "JIN",
     "SWIFT Code": "BKNBCN2NJIN",
     "Bank Name": "BANK OF NINGBO",
@@ -34152,8 +34152,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "LIS",
     "SWIFT Code": "BKNBCN2NLIS",
     "Bank Name": "BANK OF NINGBO",
@@ -34165,8 +34165,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "NAN",
     "SWIFT Code": "BKNBCN2NNAN",
     "Bank Name": "BANK OF NINGBO",
@@ -34178,8 +34178,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "BKNBCN2N",
     "Bank Name": "BANK OF NINGBO",
@@ -34191,8 +34191,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "BKNBCN22",
     "Bank Name": "BANK OF NINGBO",
@@ -34204,8 +34204,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "TRU",
     "SWIFT Code": "BKNBCN2NTRU",
     "Bank Name": "BANK OF NINGBO",
@@ -34217,8 +34217,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "JIA",
     "SWIFT Code": "BKNBCN2NJIA",
     "Bank Name": "BANK OF NINGBO",
@@ -34230,8 +34230,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "DIA",
     "SWIFT Code": "BKNBCN2NDIA",
     "Bank Name": "BANK OF NINGBO",
@@ -34243,8 +34243,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "QUZ",
     "SWIFT Code": "BKNBCN2NQUZ",
     "Bank Name": "BANK OF NINGBO",
@@ -34256,8 +34256,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "ZHS",
     "SWIFT Code": "BKNBCN2NZHS",
     "Bank Name": "BANK OF NINGBO",
@@ -34269,8 +34269,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "SHA",
     "SWIFT Code": "BKNBCN2NSHA",
     "Bank Name": "BANK OF NINGBO",
@@ -34282,8 +34282,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "FTA",
     "SWIFT Code": "BKNBCN2NFTA",
     "Bank Name": "BANK OF NINGBO",
@@ -34295,8 +34295,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "SHX",
     "SWIFT Code": "BKNBCN2NSHX",
     "Bank Name": "BANK OF NINGBO",
@@ -34308,8 +34308,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "SHE",
     "SWIFT Code": "BKNBCN2NSHE",
     "Bank Name": "BANK OF NINGBO",
@@ -34321,8 +34321,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "SUZ",
     "SWIFT Code": "BKNBCN2NSUZ",
     "Bank Name": "BANK OF NINGBO",
@@ -34334,8 +34334,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "TAI",
     "SWIFT Code": "BKNBCN2NTAI",
     "Bank Name": "BANK OF NINGBO",
@@ -34347,8 +34347,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "WEN",
     "SWIFT Code": "BKNBCN2NWEN",
     "Bank Name": "BANK OF NINGBO",
@@ -34360,8 +34360,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNB",
-    "bankCode": "CN",
+    "bankCode": "BKNB",
+    "countryCode": "CN",
     "branchCode": "WUX",
     "SWIFT Code": "BKNBCN2NWUX",
     "Bank Name": "BANK OF NINGBO",
@@ -34373,8 +34373,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YCCB",
-    "bankCode": "CN",
+    "bankCode": "YCCB",
+    "countryCode": "CN",
     "branchCode": "BTJ",
     "SWIFT Code": "YCCBCNBYBTJ",
     "Bank Name": "BANK OF NINGXIA (FORMERLY YINCHUAN CITY COMMERCIAL BANK)",
@@ -34386,8 +34386,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YCCB",
-    "bankCode": "CN",
+    "bankCode": "YCCB",
+    "countryCode": "CN",
     "branchCode": "BXA",
     "SWIFT Code": "YCCBCNBYBXA",
     "Bank Name": "BANK OF NINGXIA (FORMERLY YINCHUAN CITY COMMERCIAL BANK)",
@@ -34399,8 +34399,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YCCB",
-    "bankCode": "CN",
+    "bankCode": "YCCB",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "YCCBCNBY",
     "Bank Name": "BANK OF NINGXIA (FORMERLY YINCHUAN CITY COMMERCIAL BANK)",
@@ -34412,8 +34412,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CN",
+    "bankCode": "NOSC",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "NOSCCN22",
     "Bank Name": "BANK OF NOVA SCOTIA, THE",
@@ -34425,8 +34425,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "CN",
+    "bankCode": "NOSC",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "NOSCCN22SHI",
     "Bank Name": "BANK OF NOVA SCOTIA, THE",
@@ -34438,8 +34438,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCCB",
-    "bankCode": "CN",
+    "bankCode": "QCCB",
+    "countryCode": "CN",
     "branchCode": "003",
     "SWIFT Code": "QCCBCNBQ003",
     "Bank Name": "BANK OF QINGDAO",
@@ -34451,8 +34451,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCCB",
-    "bankCode": "CN",
+    "bankCode": "QCCB",
+    "countryCode": "CN",
     "branchCode": "002",
     "SWIFT Code": "QCCBCNBQ002",
     "Bank Name": "BANK OF QINGDAO",
@@ -34464,8 +34464,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCCB",
-    "bankCode": "CN",
+    "bankCode": "QCCB",
+    "countryCode": "CN",
     "branchCode": "NBQ",
     "SWIFT Code": "QCCBCNBQ",
     "Bank Name": "BANK OF QINGDAO",
@@ -34477,8 +34477,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCCB",
-    "bankCode": "CN",
+    "bankCode": "QCCB",
+    "countryCode": "CN",
     "branchCode": "001",
     "SWIFT Code": "QCCBCNBQ001",
     "Bank Name": "BANK OF QINGDAO",
@@ -34490,8 +34490,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOXN",
-    "bankCode": "CN",
+    "bankCode": "BOXN",
+    "countryCode": "CN",
     "branchCode": "NBL",
     "SWIFT Code": "BOXNCNBL",
     "Bank Name": "BANK OF QINGHAI CO.,LTD",
@@ -34503,8 +34503,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKQZ",
-    "bankCode": "CN",
+    "bankCode": "BKQZ",
+    "countryCode": "CN",
     "branchCode": "NBZ",
     "SWIFT Code": "BKQZCNBZ",
     "Bank Name": "BANK OF QUANZHOU CO.,LTD",
@@ -34516,8 +34516,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKQZ",
-    "bankCode": "CN",
+    "bankCode": "BKQZ",
+    "countryCode": "CN",
     "branchCode": "ZZF",
     "SWIFT Code": "BKQZCNBZZZF",
     "Bank Name": "BANK OF QUANZHOU CO.,LTD",
@@ -34529,8 +34529,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "JN1",
     "SWIFT Code": "RZCBCNBDJN1",
     "Bank Name": "BANK OF RIZHAO",
@@ -34542,8 +34542,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZCB",
-    "bankCode": "CN",
+    "bankCode": "RZCB",
+    "countryCode": "CN",
     "branchCode": "JJ1",
     "SWIFT Code": "RZCBCNBDJJ1",
     "Bank Name": "BANK OF RIZHAO",
@@ -34555,8 +34555,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "HLJ",
     "SWIFT Code": "SDBCCNBJHLJ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34568,8 +34568,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "ANH",
     "SWIFT Code": "SDBCCNBJANH",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34581,8 +34581,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "NMG",
     "SWIFT Code": "SDBCCNBJNMG",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34594,8 +34594,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SDO",
     "SWIFT Code": "SDBCCNBJSDO",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34607,8 +34607,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "YNA",
     "SWIFT Code": "SDBCCNBJYNA",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34620,8 +34620,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "GSU",
     "SWIFT Code": "SDBCCNBJGSU",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34633,8 +34633,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "TIB",
     "SWIFT Code": "SDBCCNBJTIB",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34646,8 +34646,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "JXI",
     "SWIFT Code": "SDBCCNBJJXI",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34659,8 +34659,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "JSU",
     "SWIFT Code": "SDBCCNBJJSU",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34672,8 +34672,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "GUX",
     "SWIFT Code": "SDBCCNBJGUX",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34685,8 +34685,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "NIB",
     "SWIFT Code": "SDBCCNBJNIB",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34698,8 +34698,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "QID",
     "SWIFT Code": "SDBCCNBJQID",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34711,8 +34711,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "SDBCCNBJSHI",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34724,8 +34724,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "FTS",
     "SWIFT Code": "SDBCCNBJFTS",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34737,8 +34737,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "LNI",
     "SWIFT Code": "SDBCCNBJLNI",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34750,8 +34750,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SZH",
     "SWIFT Code": "SDBCCNBJSZH",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34763,8 +34763,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "HBE",
     "SWIFT Code": "SDBCCNBJHBE",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34776,8 +34776,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SUZ",
     "SWIFT Code": "SDBCCNBJSUZ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34789,8 +34789,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SXI",
     "SWIFT Code": "SDBCCNBJSXI",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34802,8 +34802,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "TJI",
     "SWIFT Code": "SDBCCNBJTJI",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34815,8 +34815,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "INJ",
     "SWIFT Code": "SDBCCNBJINJ",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34828,8 +34828,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "HUB",
     "SWIFT Code": "SDBCCNBJHUB",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34841,8 +34841,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SMN",
     "SWIFT Code": "SDBCCNBJSMN",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34854,8 +34854,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "SHX",
     "SWIFT Code": "SDBCCNBJSHX",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34867,8 +34867,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "QHA",
     "SWIFT Code": "SDBCCNBJQHA",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34880,8 +34880,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "NXA",
     "SWIFT Code": "SDBCCNBJNXA",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34893,8 +34893,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBC",
-    "bankCode": "CN",
+    "bankCode": "SDBC",
+    "countryCode": "CN",
     "branchCode": "HNA",
     "SWIFT Code": "SDBCCNBJHNA",
     "Bank Name": "CHINA DEVELOPMENT BANK",
@@ -34906,8 +34906,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEQG",
-    "bankCode": "CN",
+    "bankCode": "CEQG",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CEQGCNSH",
     "Bank Name": "CHINA ELECTRICAL EQUIPMENT GROUP CO., LTD.",
@@ -34919,8 +34919,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "TTC",
     "SWIFT Code": "EVERCNBJTTC",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -34932,8 +34932,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "BUS",
     "SWIFT Code": "EVERCNBJBUS",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -34945,8 +34945,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CUS",
     "SWIFT Code": "EVERCNBJCUS",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -34958,8 +34958,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "EVERCNBJ",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -34971,8 +34971,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CC1",
     "SWIFT Code": "EVERCNBJCC1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -34984,8 +34984,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CS1",
     "SWIFT Code": "EVERCNBJCS1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -34997,8 +34997,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CD1",
     "SWIFT Code": "EVERCNBJCD1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35010,8 +35010,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "CQ1",
     "SWIFT Code": "EVERCNBJCQ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35023,8 +35023,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "DL1",
     "SWIFT Code": "EVERCNBJDL1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35036,8 +35036,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "FZ1",
     "SWIFT Code": "EVERCNBJFZ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35049,8 +35049,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "GZ1",
     "SWIFT Code": "EVERCNBJGZ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35062,8 +35062,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "GZ2",
     "SWIFT Code": "EVERCNBJGZ2",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35075,8 +35075,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "GY1",
     "SWIFT Code": "EVERCNBJGY1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35088,8 +35088,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HN2",
     "SWIFT Code": "EVERCNBJHN2",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35101,8 +35101,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HN1",
     "SWIFT Code": "EVERCNBJHN1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35114,8 +35114,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HN3",
     "SWIFT Code": "EVERCNBJHN3",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35127,8 +35127,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HZ1",
     "SWIFT Code": "EVERCNBJHZ1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35140,8 +35140,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HL1",
     "SWIFT Code": "EVERCNBJHL1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35153,8 +35153,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HF1",
     "SWIFT Code": "EVERCNBJHF1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35166,8 +35166,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "HH1",
     "SWIFT Code": "EVERCNBJHH1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35179,8 +35179,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "JN1",
     "SWIFT Code": "EVERCNBJJN1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35192,8 +35192,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "CN",
+    "bankCode": "EVER",
+    "countryCode": "CN",
     "branchCode": "KM1",
     "SWIFT Code": "EVERCNBJKM1",
     "Bank Name": "CHINA EVERBRIGHT BANK",
@@ -35205,8 +35205,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LCG",
     "SWIFT Code": "COMMCNSHLCG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35218,8 +35218,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LYB",
     "SWIFT Code": "COMMCNSHLYB",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35231,8 +35231,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LFN",
     "SWIFT Code": "COMMCNSHLFN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35244,8 +35244,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LYI",
     "SWIFT Code": "COMMCNSHLYI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35257,8 +35257,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LSI",
     "SWIFT Code": "COMMCNSHLSI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35270,8 +35270,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LPS",
     "SWIFT Code": "COMMCNSHLPS",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35283,8 +35283,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LIU",
     "SWIFT Code": "COMMCNSHLIU",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35296,8 +35296,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LYN",
     "SWIFT Code": "COMMCNSHLYN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35309,8 +35309,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LDI",
     "SWIFT Code": "COMMCNSHLDI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35322,8 +35322,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LAA",
     "SWIFT Code": "COMMCNSHLAA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35335,8 +35335,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LYA",
     "SWIFT Code": "COMMCNSHLYA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35348,8 +35348,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LUZ",
     "SWIFT Code": "COMMCNSHLUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35361,8 +35361,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "LLG",
     "SWIFT Code": "COMMCNSHLLG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35374,8 +35374,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "MAS",
     "SWIFT Code": "COMMCNSHMAS",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35387,8 +35387,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "MMG",
     "SWIFT Code": "COMMCNSHMMG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35400,8 +35400,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "MEI",
     "SWIFT Code": "COMMCNSHMEI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35413,8 +35413,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "MYG",
     "SWIFT Code": "COMMCNSHMYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35426,8 +35426,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "MDJ",
     "SWIFT Code": "COMMCNSHMDJ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35439,8 +35439,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NCG",
     "SWIFT Code": "COMMCNSHNCG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35452,8 +35452,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NCA",
     "SWIFT Code": "COMMCNSHNCA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35465,8 +35465,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NJG",
     "SWIFT Code": "COMMCNSHNJG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35478,8 +35478,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NNG",
     "SWIFT Code": "COMMCNSHNNG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35491,8 +35491,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NPG",
     "SWIFT Code": "COMMCNSHNPG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35504,8 +35504,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NTG",
     "SWIFT Code": "COMMCNSHNTG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35517,8 +35517,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NYG",
     "SWIFT Code": "COMMCNSHNYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35530,8 +35530,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NBO",
     "SWIFT Code": "COMMCNSHNBO",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35543,8 +35543,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "NDE",
     "SWIFT Code": "COMMCNSHNDE",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35556,8 +35556,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ORD",
     "SWIFT Code": "COMMCNSHORD",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35569,8 +35569,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "PJN",
     "SWIFT Code": "COMMCNSHPJN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35582,8 +35582,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "PZH",
     "SWIFT Code": "COMMCNSHPZH",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35595,8 +35595,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "PDS",
     "SWIFT Code": "COMMCNSHPDS",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35608,8 +35608,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "PLG",
     "SWIFT Code": "COMMCNSHPLG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35621,8 +35621,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "PXG",
     "SWIFT Code": "COMMCNSHPXG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35634,8 +35634,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "PTN",
     "SWIFT Code": "COMMCNSHPTN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35647,8 +35647,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QNN",
     "SWIFT Code": "COMMCNSHQNN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35660,8 +35660,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "COMMCNSHQDO",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35673,8 +35673,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QHI",
     "SWIFT Code": "COMMCNSHQHI",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35686,8 +35686,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QYG",
     "SWIFT Code": "COMMCNSHQYG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35699,8 +35699,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QYN",
     "SWIFT Code": "COMMCNSHQYN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35712,8 +35712,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QHD",
     "SWIFT Code": "COMMCNSHQHD",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35725,8 +35725,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QIN",
     "SWIFT Code": "COMMCNSHQIN",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35738,8 +35738,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QQH",
     "SWIFT Code": "COMMCNSHQQH",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35751,8 +35751,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QUA",
     "SWIFT Code": "COMMCNSHQUA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35764,8 +35764,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QJG",
     "SWIFT Code": "COMMCNSHQJG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35777,8 +35777,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "QUZ",
     "SWIFT Code": "COMMCNSHQUZ",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35790,8 +35790,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "RZO",
     "SWIFT Code": "COMMCNSHRZO",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35803,8 +35803,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SMG",
     "SWIFT Code": "COMMCNSHSMG",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35816,8 +35816,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "SYA",
     "SWIFT Code": "COMMCNSHSYA",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35829,8 +35829,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "CDR",
     "SWIFT Code": "COMMCNSHCDR",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35842,8 +35842,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "CN",
+    "bankCode": "COMM",
+    "countryCode": "CN",
     "branchCode": "ACD",
     "SWIFT Code": "COMMCNSHACD",
     "Bank Name": "BANK OF COMMUNICATIONS,CO. LTD.",
@@ -35855,8 +35855,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIUT",
-    "bankCode": "CN",
+    "bankCode": "CIUT",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "CIUTCNS2",
     "Bank Name": "CHINA INTERNATIONAL FUND MANAGEMENT CO.,LTD.",
@@ -35868,8 +35868,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CICI",
-    "bankCode": "CN",
+    "bankCode": "CICI",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CICICNBJ",
     "Bank Name": "CHINA INVESTMENT CORPORATION",
@@ -35881,8 +35881,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLGU",
-    "bankCode": "CN",
+    "bankCode": "CLGU",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CLGUCNBJ",
     "Bank Name": "CHINA LOGISTICS GROUP CO., LTD.",
@@ -35894,8 +35894,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "201",
     "SWIFT Code": "CMBCCNBS201",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35907,8 +35907,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "587",
     "SWIFT Code": "CMBCCNBS587",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35920,8 +35920,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "276",
     "SWIFT Code": "CMBCCNBS276",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35933,8 +35933,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "341",
     "SWIFT Code": "CMBCCNBS341",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35946,8 +35946,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "241",
     "SWIFT Code": "CMBCCNBS241",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35959,8 +35959,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "245",
     "SWIFT Code": "CMBCCNBS245",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35972,8 +35972,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "182",
     "SWIFT Code": "CMBCCNBS182",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35985,8 +35985,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "195",
     "SWIFT Code": "CMBCCNBS195",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -35998,8 +35998,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "502",
     "SWIFT Code": "CMBCCNBS502",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36011,8 +36011,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "200",
     "SWIFT Code": "CMBCCNBS200",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36024,8 +36024,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "382",
     "SWIFT Code": "CMBCCNBS382",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36037,8 +36037,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "131",
     "SWIFT Code": "CMBCCNBS131",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36050,8 +36050,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "434",
     "SWIFT Code": "CMBCCNBS434",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36063,8 +36063,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "FT2",
     "SWIFT Code": "CMBCCNBSFT2",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36076,8 +36076,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "596",
     "SWIFT Code": "CMBCCNBS596",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36089,8 +36089,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "281",
     "SWIFT Code": "CMBCCNBS281",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36102,8 +36102,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "481",
     "SWIFT Code": "CMBCCNBS481",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36115,8 +36115,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "441",
     "SWIFT Code": "CMBCCNBS441",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36128,8 +36128,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "170",
     "SWIFT Code": "CMBCCNBS170",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36141,8 +36141,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "361",
     "SWIFT Code": "CMBCCNBS361",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36154,8 +36154,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "477",
     "SWIFT Code": "CMBCCNBS477",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36167,8 +36167,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "451",
     "SWIFT Code": "CMBCCNBS451",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36180,8 +36180,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "161",
     "SWIFT Code": "CMBCCNBS161",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36193,8 +36193,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "703",
     "SWIFT Code": "CMBCCNBS703",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36206,8 +36206,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "426",
     "SWIFT Code": "CMBCCNBS426",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36219,8 +36219,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "525",
     "SWIFT Code": "CMBCCNBS525",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36232,8 +36232,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "284",
     "SWIFT Code": "CMBCCNBS284",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36245,8 +36245,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "261",
     "SWIFT Code": "CMBCCNBS261",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36258,8 +36258,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "304",
     "SWIFT Code": "CMBCCNBS304",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36271,8 +36271,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "222",
     "SWIFT Code": "CMBCCNBS222",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36284,8 +36284,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "286",
     "SWIFT Code": "CMBCCNBS286",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36297,8 +36297,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "556",
     "SWIFT Code": "CMBCCNBS556",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36310,8 +36310,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "400",
     "SWIFT Code": "CMBCCNBS400",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36323,8 +36323,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "470",
     "SWIFT Code": "CMBCCNBS470",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36336,8 +36336,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "125",
     "SWIFT Code": "CMBCCNBS125",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36349,8 +36349,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "653",
     "SWIFT Code": "CMBCCNBS653",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36362,8 +36362,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "FT1",
     "SWIFT Code": "CMBCCNBSFT1",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36375,8 +36375,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "CMBCCNBSFTU",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36388,8 +36388,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "051",
     "SWIFT Code": "CMBCCNBS051",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36401,8 +36401,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "768",
     "SWIFT Code": "CMBCCNBS768",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36414,8 +36414,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "081",
     "SWIFT Code": "CMBCCNBS081",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36427,8 +36427,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "CMD",
     "SWIFT Code": "CMBCCNBSCMD",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36440,8 +36440,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "CSD",
     "SWIFT Code": "CMBCCNBSCSD",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36453,8 +36453,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "FCT",
     "SWIFT Code": "CMBCCNBSFCT",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36466,8 +36466,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "012",
     "SWIFT Code": "CMBCCNBS012",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36479,8 +36479,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CMBCCNBS",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36492,8 +36492,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "CN",
+    "bankCode": "CMBC",
+    "countryCode": "CN",
     "branchCode": "008",
     "SWIFT Code": "CMBCCNBS008",
     "Bank Name": "CHINA MERCHANTS BANK",
@@ -36505,8 +36505,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SWF",
     "SWIFT Code": "ADBNCNBJSWF",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36518,8 +36518,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SWH",
     "SWIFT Code": "ADBNCNBJSWH",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36531,8 +36531,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WH1",
     "SWIFT Code": "ADBNCNBJWH1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36544,8 +36544,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WX1",
     "SWIFT Code": "ADBNCNBJWX1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36557,8 +36557,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "FXM",
     "SWIFT Code": "ADBNCNBJFXM",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36570,8 +36570,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SXA",
     "SWIFT Code": "ADBNCNBJSXA",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36583,8 +36583,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HXF",
     "SWIFT Code": "ADBNCNBJHXF",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36596,8 +36596,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CXT",
     "SWIFT Code": "ADBNCNBJCXT",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36609,8 +36609,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HXN",
     "SWIFT Code": "ADBNCNBJHXN",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36622,8 +36622,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "WXG",
     "SWIFT Code": "ADBNCNBJWXG",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36635,8 +36635,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HXM",
     "SWIFT Code": "ADBNCNBJHXM",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36648,8 +36648,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SXT",
     "SWIFT Code": "ADBNCNBJSXT",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36661,8 +36661,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZXX",
     "SWIFT Code": "ADBNCNBJZXX",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36674,8 +36674,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZXY",
     "SWIFT Code": "ADBNCNBJZXY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36687,8 +36687,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NXY",
     "SWIFT Code": "ADBNCNBJNXY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36700,8 +36700,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "HXC",
     "SWIFT Code": "ADBNCNBJHXC",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36713,8 +36713,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NXZ",
     "SWIFT Code": "ADBNCNBJNXZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36726,8 +36726,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "YJ1",
     "SWIFT Code": "ADBNCNBJYJ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36739,8 +36739,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NYC",
     "SWIFT Code": "ADBNCNBJNYC",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36752,8 +36752,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NYZ",
     "SWIFT Code": "ADBNCNBJNYZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36765,8 +36765,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SYT",
     "SWIFT Code": "ADBNCNBJSYT",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36778,8 +36778,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "YC1",
     "SWIFT Code": "ADBNCNBJYC1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36791,8 +36791,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NX1",
     "SWIFT Code": "ADBNCNBJNX1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36804,8 +36804,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "SYK",
     "SWIFT Code": "ADBNCNBJSYK",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36817,8 +36817,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CYY",
     "SWIFT Code": "ADBNCNBJCYY",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36830,8 +36830,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "CYZ",
     "SWIFT Code": "ADBNCNBJCYZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36843,8 +36843,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "YY1",
     "SWIFT Code": "ADBNCNBJYY1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36856,8 +36856,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JZZ",
     "SWIFT Code": "ADBNCNBJJZZ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36869,8 +36869,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZZ1",
     "SWIFT Code": "ADBNCNBJZZ1",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36882,8 +36882,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "NZJ",
     "SWIFT Code": "ADBNCNBJNZJ",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36895,8 +36895,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "ZZK",
     "SWIFT Code": "ADBNCNBJZZK",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36908,8 +36908,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADBN",
-    "bankCode": "CN",
+    "bankCode": "ADBN",
+    "countryCode": "CN",
     "branchCode": "JZB",
     "SWIFT Code": "ADBNCNBJJZB",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK OF CHINA, THE",
@@ -36921,8 +36921,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRC",
-    "bankCode": "CN",
+    "bankCode": "AIRC",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "AIRCCNBJ",
     "Bank Name": "AIR CHINA LIMITED",
@@ -36934,8 +36934,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COXI",
-    "bankCode": "CN",
+    "bankCode": "COXI",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "COXICNBA",
     "Bank Name": "ALLIED COMMERCIAL BANK",
@@ -36947,8 +36947,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AYCL",
-    "bankCode": "CN",
+    "bankCode": "AYCL",
+    "countryCode": "CN",
     "branchCode": "NBY",
     "SWIFT Code": "AYCLCNBY",
     "Bank Name": "ANGEL YEAST CO.,LTD.",
@@ -36960,8 +36960,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRCO",
-    "bankCode": "CN",
+    "bankCode": "MRCO",
+    "countryCode": "CN",
     "branchCode": "NBM",
     "SWIFT Code": "MRCOCNBM",
     "Bank Name": "ANHUI MAANSHAN RURAL COMMERCIAL BANK LIMITED COMPANY",
@@ -36973,8 +36973,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AWRC",
-    "bankCode": "CN",
+    "bankCode": "AWRC",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "AWRCCNB2",
     "Bank Name": "ANHUI WUWEI RURAL COMMERCIAL BANK CO., LTD",
@@ -36986,8 +36986,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJCB",
-    "bankCode": "CN",
+    "bankCode": "AJCB",
+    "countryCode": "CN",
     "branchCode": "NBH",
     "SWIFT Code": "AJCBCNBH",
     "Bank Name": "ANJI RURAL COMMERCIAL BANK(FORMERLY ANJI RURAL CREDIT COOPERATIVES UNION)",
@@ -36999,8 +36999,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANSO",
-    "bankCode": "CN",
+    "bankCode": "ANSO",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "ANSOCNBJ",
     "Bank Name": "ANSTEEL GROUP FINANCE COMPANY LTD",
@@ -37012,8 +37012,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPG",
-    "bankCode": "CN",
+    "bankCode": "ASPG",
+    "countryCode": "CN",
     "branchCode": "NBF",
     "SWIFT Code": "ASPGCNBF",
     "Bank Name": "ANTA SPORTS PRODUCTS GROUP CO., LTD.",
@@ -37025,8 +37025,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "CN",
+    "bankCode": "ARAB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ARABCNSH",
     "Bank Name": "ARAB BANK PLC SHANGHAI BRANCH",
@@ -37038,8 +37038,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AINF",
-    "bankCode": "CN",
+    "bankCode": "AINF",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "AINFCNBJ",
     "Bank Name": "ASIAN INFRASTRUCTURE INVESTMENT BANK",
@@ -37051,8 +37051,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "ANZBCNSHCDU",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANK (CHINA) COMPANY LIMITED",
@@ -37064,8 +37064,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "ANZBCNSHCQG",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANK (CHINA) COMPANY LIMITED",
@@ -37077,8 +37077,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "GZH",
     "SWIFT Code": "ANZBCNSHGZH",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANK (CHINA) COMPANY LIMITED",
@@ -37090,8 +37090,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "ZJH",
     "SWIFT Code": "ANZBCNSHZJH",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANK (CHINA) COMPANY LIMITED",
@@ -37103,8 +37103,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "QDO",
     "SWIFT Code": "ANZBCNSHQDO",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANK (CHINA) COMPANY LIMITED",
@@ -37116,8 +37116,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "ANZBCNSH",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANK (CHINA) COMPANY LIMITED",
@@ -37129,8 +37129,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "CN",
+    "bankCode": "ANZB",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "ANZBCNSHBJG",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED, BEIJING BRANCH",
@@ -37142,8 +37142,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTEH",
-    "bankCode": "CN",
+    "bankCode": "BTEH",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "BTEHCNBJ",
     "Bank Name": "BAICELLS TECHNOLOGIES CO., LTD.",
@@ -37155,8 +37155,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCCB",
-    "bankCode": "CN",
+    "bankCode": "ZCCB",
+    "countryCode": "CN",
     "branchCode": "SHZ",
     "SWIFT Code": "ZCCBCN22SHZ",
     "Bank Name": "CHINA RESOURCES BANK OF ZHUHAI CO. , LTD.",
@@ -37168,8 +37168,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZCCB",
-    "bankCode": "CN",
+    "bankCode": "ZCCB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "ZCCBCN22",
     "Bank Name": "CHINA RESOURCES BANK OF ZHUHAI CO. , LTD.",
@@ -37181,8 +37181,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSUA",
-    "bankCode": "CN",
+    "bankCode": "CSUA",
+    "countryCode": "CN",
     "branchCode": "N2G",
     "SWIFT Code": "CSUACN2G",
     "Bank Name": "CHINA SOUTHERN AIRLINES COMPANY LIMITED",
@@ -37194,8 +37194,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTAA",
-    "bankCode": "CN",
+    "bankCode": "CTAA",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CTAACNBS",
     "Bank Name": "CHINA SOUTHERN ASSET MANAGEMENT CO., LTD.",
@@ -37207,8 +37207,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSUN",
-    "bankCode": "CN",
+    "bankCode": "CSUN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CSUNCNBJ",
     "Bank Name": "CHINA STATE CONSTRUCTION ENGINEERING CORPORATION LIMITED",
@@ -37220,8 +37220,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTIR",
-    "bankCode": "CN",
+    "bankCode": "CTIR",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CTIRCNSH",
     "Bank Name": "CHINA TRIUMPH INTERNATIONAL ENGINEERING CO.,LTD.",
@@ -37233,8 +37233,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJCB",
-    "bankCode": "CN",
+    "bankCode": "ZJCB",
+    "countryCode": "CN",
     "branchCode": "N2N",
     "SWIFT Code": "ZJCBCN2N",
     "Bank Name": "CHINA ZHESHANG BANK",
@@ -37246,8 +37246,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZJCB",
-    "bankCode": "CN",
+    "bankCode": "ZJCB",
+    "countryCode": "CN",
     "branchCode": "FTU",
     "SWIFT Code": "ZJCBCN2NFTU",
     "Bank Name": "CHINA ZHESHANG BANK",
@@ -37259,8 +37259,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHFN",
-    "bankCode": "CN",
+    "bankCode": "CHFN",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CHFNCNBJ",
     "Bank Name": "CHINALCO FINANCE COMPANY LIMITED",
@@ -37272,8 +37272,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNMB",
-    "bankCode": "CN",
+    "bankCode": "CNMB",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "CNMBCNBS",
     "Bank Name": "CHINESE MERCANTILE BANK",
@@ -37285,8 +37285,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "CN",
+    "bankCode": "CIYU",
+    "countryCode": "CN",
     "branchCode": "FUZ",
     "SWIFT Code": "CIYUCNBAFUZ",
     "Bank Name": "CHIYU BANKING CORPORATION LTD.",
@@ -37298,8 +37298,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "CN",
+    "bankCode": "CIYU",
+    "countryCode": "CN",
     "branchCode": "SZB",
     "SWIFT Code": "CIYUCNBASZB",
     "Bank Name": "CHIYU BANKING CORPORATION LTD.",
@@ -37311,8 +37311,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "CN",
+    "bankCode": "CIYU",
+    "countryCode": "CN",
     "branchCode": "NBA",
     "SWIFT Code": "CIYUCNBA",
     "Bank Name": "CHIYU BANKING CORPORATION LTD.",
@@ -37324,8 +37324,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "CN",
+    "bankCode": "CIYU",
+    "countryCode": "CN",
     "branchCode": "JMA",
     "SWIFT Code": "CIYUCNBAJMA",
     "Bank Name": "CHIYU BANKING CORPORATION LTD.",
@@ -37337,8 +37337,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIYU",
-    "bankCode": "CN",
+    "bankCode": "CIYU",
+    "countryCode": "CN",
     "branchCode": "012",
     "SWIFT Code": "CIYUCNBA012",
     "Bank Name": "CHIYU BANKING CORPORATION LTD.",
@@ -37350,8 +37350,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "CN",
+    "bankCode": "LCHB",
+    "countryCode": "CN",
     "branchCode": "BJB",
     "SWIFT Code": "LCHBCN22BJB",
     "Bank Name": "CHONG HING BANK LIMITED, MAINLAND CHINA",
@@ -37363,8 +37363,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "CN",
+    "bankCode": "LCHB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "LCHBCN22",
     "Bank Name": "CHONG HING BANK LIMITED, MAINLAND CHINA",
@@ -37376,8 +37376,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "CN",
+    "bankCode": "LCHB",
+    "countryCode": "CN",
     "branchCode": "SHI",
     "SWIFT Code": "LCHBCN22SHI",
     "Bank Name": "CHONG HING BANK LIMITED, MAINLAND CHINA",
@@ -37389,8 +37389,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "CN",
+    "bankCode": "LCHB",
+    "countryCode": "CN",
     "branchCode": "STB",
     "SWIFT Code": "LCHBCN22STB",
     "Bank Name": "CHONG HING BANK LIMITED, MAINLAND CHINA",
@@ -37402,8 +37402,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LCHB",
-    "bankCode": "CN",
+    "bankCode": "LCHB",
+    "countryCode": "CN",
     "branchCode": "SZB",
     "SWIFT Code": "LCHBCN22SZB",
     "Bank Name": "CHONG HING BANK LIMITED, MAINLAND CHINA",
@@ -37415,8 +37415,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHFT",
-    "bankCode": "CN",
+    "bankCode": "CHFT",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CHFTCNB2",
     "Bank Name": "CHONGQING FUMIN BANK CORPORATION",
@@ -37428,8 +37428,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CQRB",
-    "bankCode": "CN",
+    "bankCode": "CQRB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "CQRBCN22",
     "Bank Name": "CHONGQING RURAL COMMERCIAL BANK",
@@ -37441,8 +37441,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTGB",
-    "bankCode": "CN",
+    "bankCode": "CTGB",
+    "countryCode": "CN",
     "branchCode": "N22",
     "SWIFT Code": "CTGBCN22",
     "Bank Name": "CHONGQING THREE GORGES BANK",
@@ -37454,8 +37454,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFML",
-    "bankCode": "CN",
+    "bankCode": "CFML",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CFMLCNB2",
     "Bank Name": "CIB FUND MANAGEMENT CO.,LTD.",
@@ -37467,8 +37467,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "CN",
+    "bankCode": "CIBB",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CIBBCNSH",
     "Bank Name": "CIMB BANK BERHAD SHANGHAI BRANCH",
@@ -37480,8 +37480,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "BJG",
     "SWIFT Code": "CITICNSXBJG",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37493,8 +37493,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "CSA",
     "SWIFT Code": "CITICNSXCSA",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37506,8 +37506,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "CDU",
     "SWIFT Code": "CITICNSXCDU",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37519,8 +37519,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "CQG",
     "SWIFT Code": "CITICNSXCQG",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37532,8 +37532,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "DLN",
     "SWIFT Code": "CITICNSXDLN",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37545,8 +37545,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "GZB",
     "SWIFT Code": "CITICNSXGZB",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37558,8 +37558,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "GYG",
     "SWIFT Code": "CITICNSXGYG",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37571,8 +37571,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "HZU",
     "SWIFT Code": "CITICNSXHZU",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37584,8 +37584,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "NJG",
     "SWIFT Code": "CITICNSXNJG",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37597,8 +37597,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "NSX",
     "SWIFT Code": "CITICNSX",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37610,8 +37610,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "EFX",
     "SWIFT Code": "CITICNSXEFX",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37623,8 +37623,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "GCG",
     "SWIFT Code": "CITICNSXGCG",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37636,8 +37636,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "OBU",
     "SWIFT Code": "CITICNSXOBU",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37649,8 +37649,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "FTZ",
     "SWIFT Code": "CITICNSXFTZ",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37662,8 +37662,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "SZN",
     "SWIFT Code": "CITICNSXSZN",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37675,8 +37675,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CN",
+    "bankCode": "CITI",
+    "countryCode": "CN",
     "branchCode": "TJN",
     "SWIFT Code": "CITICNSXTJN",
     "Bank Name": "CITIBANK (CHINA) CO., LTD.",
@@ -37688,8 +37688,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWHK",
-    "bankCode": "CN",
+    "bankCode": "KWHK",
+    "countryCode": "CN",
     "branchCode": "NBS",
     "SWIFT Code": "KWHKCNBS",
     "Bank Name": "CITIC BANK INTERNATIONAL (CHINA) LIMITED",
@@ -37701,8 +37701,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIIY",
-    "bankCode": "CN",
+    "bankCode": "CIIY",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CIIYCNBJ",
     "Bank Name": "CITIC FINANCE CO., LTD.",
@@ -37714,8 +37714,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTSM",
-    "bankCode": "CN",
+    "bankCode": "CTSM",
+    "countryCode": "CN",
     "branchCode": "NB2",
     "SWIFT Code": "CTSMCNB2",
     "Bank Name": "CITIC SECURITIES ASSET MANAGEMENT COMPANY LIMITED",
@@ -37727,8 +37727,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSCL",
-    "bankCode": "CN",
+    "bankCode": "CSCL",
+    "countryCode": "CN",
     "branchCode": "CSD",
     "SWIFT Code": "CSCLCNBJCSD",
     "Bank Name": "CITIC SECURITIES COMPANY LIMITED",
@@ -37740,8 +37740,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSCL",
-    "bankCode": "CN",
+    "bankCode": "CSCL",
+    "countryCode": "CN",
     "branchCode": "QFI",
     "SWIFT Code": "CSCLCNBJQFI",
     "Bank Name": "CITIC SECURITIES COMPANY LIMITED",
@@ -37753,8 +37753,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSCL",
-    "bankCode": "CN",
+    "bankCode": "CSCL",
+    "countryCode": "CN",
     "branchCode": "NBJ",
     "SWIFT Code": "CSCLCNBJ",
     "Bank Name": "CITIC SECURITIES COMPANY LIMITED",
@@ -37766,8 +37766,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCND",
-    "bankCode": "CN",
+    "bankCode": "CCND",
+    "countryCode": "CN",
     "branchCode": "NS2",
     "SWIFT Code": "CCNDCNS2",
     "Bank Name": "CITY COMMERCIAL BANKS CLEARING CO., LTD.",
@@ -37779,8 +37779,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHFM",
-    "bankCode": "CN",
+    "bankCode": "CHFM",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CHFMCNSH",
     "Bank Name": "CLEARING HOUSE FINANCIAL MARKETS CO. LTD",
@@ -37792,8 +37792,8 @@ const china = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBF",
-    "bankCode": "CN",
+    "bankCode": "CMBF",
+    "countryCode": "CN",
     "branchCode": "NSH",
     "SWIFT Code": "CMBFCNSH",
     "Bank Name": "CMB FINANCIAL LEASING CO.,LTD",

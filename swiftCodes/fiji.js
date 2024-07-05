@@ -1,7 +1,7 @@
 const fiji = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "FJ",
+    "bankCode": "ANZB",
+    "countryCode": "FJ",
     "branchCode": "JFX",
     "SWIFT Code": "ANZBFJFX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -13,8 +13,8 @@ const fiji = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "FJ",
+    "bankCode": "BARB",
+    "countryCode": "FJ",
     "branchCode": "JFJ",
     "SWIFT Code": "BARBFJFJ",
     "Bank Name": "BANK OF BARODA, SUVA BRANCH",
@@ -26,8 +26,8 @@ const fiji = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FJ",
+    "bankCode": "BRED",
+    "countryCode": "FJ",
     "branchCode": "JFJ",
     "SWIFT Code": "BREDFJFJ",
     "Bank Name": "BRED BANK (FIJI) PTE LTD",
@@ -39,8 +39,8 @@ const fiji = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "FJ",
+    "bankCode": "BOSP",
+    "countryCode": "FJ",
     "branchCode": "JFJ",
     "SWIFT Code": "BOSPFJFJ",
     "Bank Name": "BSP FINANCIAL GROUP LIMITED",
@@ -52,8 +52,8 @@ const fiji = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFCL",
-    "bankCode": "FJ",
+    "bankCode": "HFCL",
+    "countryCode": "FJ",
     "branchCode": "JFJ",
     "SWIFT Code": "HFCLFJFJ",
     "Bank Name": "HFC BANK",
@@ -65,8 +65,8 @@ const fiji = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBFJ",
-    "bankCode": "FJ",
+    "bankCode": "RBFJ",
+    "countryCode": "FJ",
     "branchCode": "JFJ",
     "SWIFT Code": "RBFJFJFJ",
     "Bank Name": "RESERVE BANK OF FIJI",
@@ -78,8 +78,8 @@ const fiji = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "FJ",
+    "bankCode": "WPAC",
+    "countryCode": "FJ",
     "branchCode": "JFX",
     "SWIFT Code": "WPACFJFX",
     "Bank Name": "WESTPAC BANKING CORPORATION",

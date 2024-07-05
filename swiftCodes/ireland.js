@@ -1,7 +1,7 @@
 const ireland = [
   {
-    "countryCode": "FAMD",
-    "bankCode": "IE",
+    "bankCode": "FAMD",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "FAMDIE22",
     "Bank Name": "FIDEURAM ASSET MANAGEMENT (IRELAND) DESIGNATED ACTIVITY COMPANY",
@@ -13,8 +13,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPAY",
-    "bankCode": "IE",
+    "bankCode": "CPAY",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CPAYIE2D",
     "Bank Name": "FIRE FINANCIAL SERVICES LIMITED",
@@ -26,8 +26,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCDE",
-    "bankCode": "IE",
+    "bankCode": "FCDE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "FCDEIE22",
     "Bank Name": "FOREIGN CURRENCY DIRECT EUROPE LTD",
@@ -39,8 +39,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMFX",
-    "bankCode": "IE",
+    "bankCode": "FMFX",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "FMFXIE22",
     "Bank Name": "FREEMARKETFX IRELAND LIMITED",
@@ -52,8 +52,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTIF",
-    "bankCode": "IE",
+    "bankCode": "FTIF",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "FTIFIE2D",
     "Bank Name": "FTI FINANCE LTD T/A FTI TREASURY",
@@ -65,8 +65,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLAM",
-    "bankCode": "IE",
+    "bankCode": "GLAM",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "GLAMIE2D",
     "Bank Name": "GAM FUND MANAGEMENT LIMITED",
@@ -78,8 +78,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPVE",
-    "bankCode": "IE",
+    "bankCode": "CPVE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "CPVEIE22",
     "Bank Name": "GE CAPITAL AVIATION SERVICES LIMITED",
@@ -91,8 +91,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEAS",
-    "bankCode": "IE",
+    "bankCode": "GEAS",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "GEASIE2D",
     "Bank Name": "GENESIS AIRCRAFT SERVICES LIMITED",
@@ -104,8 +104,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDEH",
-    "bankCode": "IE",
+    "bankCode": "GDEH",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "GDEHIE2D",
     "Bank Name": "GLEN DIMPLEX EUROPE HOLDINGS LTD",
@@ -117,8 +117,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRFT",
-    "bankCode": "IE",
+    "bankCode": "GRFT",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "GRFTIE2D",
     "Bank Name": "GRAFTON GROUP PLC",
@@ -130,8 +130,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCFI",
-    "bankCode": "IE",
+    "bankCode": "HCFI",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "HCFIIE22",
     "Bank Name": "HAMMERSMITH CAMDEN FINANCIAL (IRELAND) PLC",
@@ -143,8 +143,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "IE",
+    "bankCode": "HSBC",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "HSBCIE2D",
     "Bank Name": "HSBC CONTINENTAL EUROPE, IRELAND",
@@ -156,8 +156,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBUK",
-    "bankCode": "IE",
+    "bankCode": "HBUK",
+    "countryCode": "IE",
     "branchCode": "E2A",
     "SWIFT Code": "HBUKIE2A",
     "Bank Name": "HSBC CONTINENTAL EUROPE, IRELAND",
@@ -169,8 +169,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "IE",
+    "bankCode": "HSBC",
+    "countryCode": "IE",
     "branchCode": "SDD",
     "SWIFT Code": "HSBCIE2DSDD",
     "Bank Name": "HSBC CONTINENTAL EUROPE, IRELAND",
@@ -182,8 +182,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTDL",
-    "bankCode": "IE",
+    "bankCode": "BTDL",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BTDLIE2D",
     "Bank Name": "HSBC CONTINENTAL EUROPE, IRELAND- SEC. SERVICES",
@@ -195,8 +195,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "IE",
+    "bankCode": "INGB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "INGBIE2D",
     "Bank Name": "ING BANK NV-DUBLIN BRANCH",
@@ -208,8 +208,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "IE",
+    "bankCode": "INGB",
+    "countryCode": "IE",
     "branchCode": "ICM",
     "SWIFT Code": "INGBIE2DICM",
     "Bank Name": "ING BANK NV-DUBLIN BRANCH",
@@ -221,8 +221,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "IE",
+    "bankCode": "INGB",
+    "countryCode": "IE",
     "branchCode": "E3D",
     "SWIFT Code": "INGBIE3D",
     "Bank Name": "ING EUROPEAN FINANCIAL SERVICES PLC",
@@ -234,8 +234,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INHV",
-    "bankCode": "IE",
+    "bankCode": "INHV",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "INHVIE2D",
     "Bank Name": "INGERSOLL-RAND TECHNICAL AND SERVICES LIMITED",
@@ -247,8 +247,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIFI",
-    "bankCode": "IE",
+    "bankCode": "IIFI",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IIFIIE2D",
     "Bank Name": "INGKA INVESTMENTS FINANCIAL ASSETS IRELAND LIMITED",
@@ -260,8 +260,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "IE",
+    "bankCode": "IBKR",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IBKRIE2D",
     "Bank Name": "INTERACTIVE BROKERS IRELAND LIMITED",
@@ -273,8 +273,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "IE",
+    "bankCode": "IBKR",
+    "countryCode": "IE",
     "branchCode": "RET",
     "SWIFT Code": "IBKRIE2DRET",
     "Bank Name": "INTERACTIVE BROKERS IRELAND LIMITED",
@@ -286,8 +286,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPAY",
-    "bankCode": "IE",
+    "bankCode": "EPAY",
+    "countryCode": "IE",
     "branchCode": "E2K",
     "SWIFT Code": "EPAYIE2K",
     "Bank Name": "INTERPAY LTD",
@@ -299,8 +299,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "IE",
+    "bankCode": "BCIT",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BCITIE2D",
     "Bank Name": "INTESA SANPAOLO BANK IRELAND PLC",
@@ -312,8 +312,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "IE",
+    "bankCode": "IVES",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IVESIE2D",
     "Bank Name": "INVESTEC EUROPE LIMITED",
@@ -326,8 +326,8 @@ const ireland = [
   },
   {},
   {
-    "countryCode": "AIBK",
-    "bankCode": "IE",
+    "bankCode": "AIBK",
+    "countryCode": "IE",
     "branchCode": "E2E",
     "SWIFT Code": "AIBKIE2E",
     "Bank Name": "IQ EQ FUND MANAGEMENT (IRELAND) LIMITED",
@@ -339,8 +339,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRLI",
-    "bankCode": "IE",
+    "bankCode": "IRLI",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IRLIIE2D",
     "Bank Name": "IRISH LIFE INVESTMENT MANAGERS LIMITED",
@@ -352,8 +352,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "DAVYIE22",
     "Bank Name": "J AND E DAVY",
@@ -365,8 +365,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "EKA",
     "SWIFT Code": "DAVYIEKA",
     "Bank Name": "J AND E DAVY",
@@ -378,8 +378,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "EKB",
     "SWIFT Code": "DAVYIEKB",
     "Bank Name": "J AND E DAVY",
@@ -391,8 +391,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "EKC",
     "SWIFT Code": "DAVYIEKC",
     "Bank Name": "J AND E DAVY",
@@ -404,8 +404,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "EKD",
     "SWIFT Code": "DAVYIEKD",
     "Bank Name": "J AND E DAVY",
@@ -417,8 +417,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "E2B",
     "SWIFT Code": "DAVYIE2B",
     "Bank Name": "J AND E DAVY",
@@ -430,8 +430,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "DCM",
     "SWIFT Code": "DAVYIE22DCM",
     "Bank Name": "J AND E DAVY",
@@ -443,8 +443,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAVY",
-    "bankCode": "IE",
+    "bankCode": "DAVY",
+    "countryCode": "IE",
     "branchCode": "DWM",
     "SWIFT Code": "DAVYIE22DWM",
     "Bank Name": "J AND E DAVY",
@@ -456,8 +456,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMB",
-    "bankCode": "IE",
+    "bankCode": "JPMB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "JPMBIE2D",
     "Bank Name": "J.P. MORGAN BANK DUBLIN PLC",
@@ -469,8 +469,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "E2X",
     "SWIFT Code": "CHASIE2X",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -482,8 +482,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "ARD",
     "SWIFT Code": "CHASIE2DARD",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -495,8 +495,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "DEX",
     "SWIFT Code": "CHASIE2DDEX",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -508,8 +508,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "E4L",
     "SWIFT Code": "CHASIE4L",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -521,8 +521,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CHASIE2D",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -534,8 +534,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "CAN",
     "SWIFT Code": "CHASIE2DCAN",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -547,8 +547,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "VAN",
     "SWIFT Code": "CHASIE2DVAN",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -560,8 +560,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "CPL",
     "SWIFT Code": "CHASIE4LCPL",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -573,8 +573,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "BGI",
     "SWIFT Code": "CHASIE2XBGI",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -586,8 +586,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "BGI",
     "SWIFT Code": "CHASIE2DBGI",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -599,8 +599,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "FID",
     "SWIFT Code": "CHASIE2DFID",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -612,8 +612,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "FRT",
     "SWIFT Code": "CHASIE2DFRT",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -625,8 +625,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASIE2XENQ",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -638,8 +638,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "CMA",
     "SWIFT Code": "BARCIE2DCMA",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -651,8 +651,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "TSY",
     "SWIFT Code": "BARCIE2DTSY",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -664,8 +664,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BWSE",
-    "bankCode": "IE",
+    "bankCode": "BWSE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "BWSEIE22",
     "Bank Name": "BIG WAVE SOFTWARE TECHNOLOGIES LTD",
@@ -677,8 +677,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "IE",
+    "bankCode": "BNPA",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BNPAIE2D",
     "Bank Name": "BNP PARIBAS IRELAND - DUBLIN BRANCH",
@@ -690,8 +690,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPB",
-    "bankCode": "IE",
+    "bankCode": "BNPB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BNPBIE2D",
     "Bank Name": "BNP PARIBAS PRIME BROKERAGE INTERNATIONAL, LIMITED",
@@ -703,8 +703,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "IE",
+    "bankCode": "PARB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "PARBIE2D",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -716,8 +716,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNAD",
-    "bankCode": "IE",
+    "bankCode": "HNAD",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "HNADIE2D",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -729,8 +729,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNAD",
-    "bankCode": "IE",
+    "bankCode": "HNAD",
+    "countryCode": "IE",
     "branchCode": "DFS",
     "SWIFT Code": "HNADIE2DDFS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -742,8 +742,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNAD",
-    "bankCode": "IE",
+    "bankCode": "HNAD",
+    "countryCode": "IE",
     "branchCode": "BNP",
     "SWIFT Code": "HNADIE2DBNP",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -755,8 +755,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUIC",
-    "bankCode": "IE",
+    "bankCode": "BUIC",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "BUICIE22",
     "Bank Name": "BRUMMER UMBRELLA ICAV C/O CARNE GROUP",
@@ -768,8 +768,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNQ",
-    "bankCode": "IE",
+    "bankCode": "BUNQ",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "BUNQIE22",
     "Bank Name": "BUNQ B.V.",
@@ -781,8 +781,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "IE",
+    "bankCode": "ISAE",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ISAEIE2D",
     "Bank Name": "CACEIS BANK, IRELAND BRANCH",
@@ -794,8 +794,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BILL",
-    "bankCode": "IE",
+    "bankCode": "BILL",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BILLIE2D",
     "Bank Name": "CACEIS INVESTOR SERVICES IRELAND LIMITED",
@@ -807,8 +807,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CANF",
-    "bankCode": "IE",
+    "bankCode": "CANF",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CANFIE2D",
     "Bank Name": "CANTOR FITZGERALD IRELAND LIMITED",
@@ -820,8 +820,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVLF",
-    "bankCode": "IE",
+    "bankCode": "CVLF",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CVLFIE2D",
     "Bank Name": "CDB AVIATION LEASE FINANCE DESIGNATED ACTIVITY COMPANY",
@@ -833,8 +833,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "EPA",
     "SWIFT Code": "IRCEIE2DEPA",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -846,8 +846,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IRCEIE2D",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -859,8 +859,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "CUR",
     "SWIFT Code": "IRCEIE2DCUR",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -872,8 +872,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "CRS",
     "SWIFT Code": "IRCEIE2DCRS",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -885,8 +885,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "APS",
     "SWIFT Code": "IRCEIE2DAPS",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -898,8 +898,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "CCB",
     "SWIFT Code": "IRCEIE2DCCB",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -911,8 +911,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "CON",
     "SWIFT Code": "IRCEIE2DCON",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -924,8 +924,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "ECM",
     "SWIFT Code": "IRCEIE2DECM",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -937,8 +937,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "FOR",
     "SWIFT Code": "IRCEIE2DFOR",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -950,8 +950,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "GOV",
     "SWIFT Code": "IRCEIE2DGOV",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -963,8 +963,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "IRC",
     "SWIFT Code": "IRCEIE2DIRC",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -976,8 +976,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "IPC",
     "SWIFT Code": "IRCEIE2DIPC",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -989,8 +989,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRCE",
-    "bankCode": "IE",
+    "bankCode": "IRCE",
+    "countryCode": "IE",
     "branchCode": "TOM",
     "SWIFT Code": "IRCEIE2DTOM",
     "Bank Name": "CENTRAL BANK OF IRELAND",
@@ -1002,8 +1002,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "IE",
+    "bankCode": "CITC",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CITCIE2D",
     "Bank Name": "CITCO BANK NEDERLAND N.V., DUBLIN BRANCH",
@@ -1015,8 +1015,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CFSHIE2D",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1028,8 +1028,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "SDU",
     "SWIFT Code": "CFSHIE2DSDU",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1041,8 +1041,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "FEC",
     "SWIFT Code": "CFSHIE2DFEC",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1054,8 +1054,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "GGY",
     "SWIFT Code": "CFSHIE2DGGY",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1067,8 +1067,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "MUR",
     "SWIFT Code": "CFSHIE2DMUR",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1080,8 +1080,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "STB",
     "SWIFT Code": "CFSHIE2DSTB",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1093,8 +1093,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "SAM",
     "SWIFT Code": "CFSHIE2DSAM",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1106,8 +1106,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "SCA",
     "SWIFT Code": "CFSHIE2DSCA",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1119,8 +1119,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "PEG",
     "SWIFT Code": "CFSHIE2DPEG",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1132,8 +1132,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "VIL",
     "SWIFT Code": "CFSHIE2DVIL",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1145,8 +1145,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "SCU",
     "SWIFT Code": "CFSHIE2DSCU",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1158,8 +1158,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "SLU",
     "SWIFT Code": "CFSHIE2DSLU",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1171,8 +1171,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "SSY",
     "SWIFT Code": "CFSHIE2DSSY",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1184,8 +1184,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSH",
-    "bankCode": "IE",
+    "bankCode": "CFSH",
+    "countryCode": "IE",
     "branchCode": "STO",
     "SWIFT Code": "CFSHIE2DSTO",
     "Bank Name": "CITCO FUND SERVICES IRELAND LIMITED",
@@ -1197,8 +1197,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "E2X",
     "SWIFT Code": "CITIIE2X",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1210,8 +1210,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "E2B",
     "SWIFT Code": "CITIIE2B",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1223,8 +1223,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "AMS",
     "SWIFT Code": "CITIIE2XAMS",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1236,8 +1236,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "BRU",
     "SWIFT Code": "CITIIE2XBRU",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1249,8 +1249,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "CPH",
     "SWIFT Code": "CITIIE2XCPH",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1262,8 +1262,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "FFT",
     "SWIFT Code": "CITIIE2XFFT",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1275,8 +1275,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "FLD",
     "SWIFT Code": "CITIIE2XFLD",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -1288,8 +1288,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "IE",
+    "bankCode": "CHAS",
+    "countryCode": "IE",
     "branchCode": "USS",
     "SWIFT Code": "CHASIE2DUSS",
     "Bank Name": "J.P. MORGAN SE, DUBLIN BRANCH",
@@ -1301,8 +1301,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBDU",
-    "bankCode": "IE",
+    "bankCode": "KBDU",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "KBDUIE2D",
     "Bank Name": "KBC BANK NV DUBLIN BRANCH",
@@ -1314,8 +1314,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGSE",
-    "bankCode": "IE",
+    "bankCode": "KGSE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "KGSEIE22",
     "Bank Name": "KERRY GROUP SERVICES LIMITED",
@@ -1327,8 +1327,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPLN",
-    "bankCode": "IE",
+    "bankCode": "LPLN",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "LPLNIE2D",
     "Bank Name": "LEASEPLAN FINANCE N.V. (DUBLIN BRANCH)",
@@ -1340,8 +1340,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEEO",
-    "bankCode": "IE",
+    "bankCode": "LEEO",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "LEEOIE2D",
     "Bank Name": "LEE OVERLAY PARTNERS LTD",
@@ -1353,8 +1353,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "IE",
+    "bankCode": "BLFL",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BLFLIE2D",
     "Bank Name": "LGT BANK AG, DUBLIN BRANCH",
@@ -1366,8 +1366,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIRG",
-    "bankCode": "IE",
+    "bankCode": "LIRG",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "LIRGIE2D",
     "Bank Name": "LINK REGISTRARS LIMITED",
@@ -1379,8 +1379,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIRG",
-    "bankCode": "IE",
+    "bankCode": "LIRG",
+    "countryCode": "IE",
     "branchCode": "DVP",
     "SWIFT Code": "LIRGIE2DDVP",
     "Bank Name": "LINK REGISTRARS LIMITED",
@@ -1392,8 +1392,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMO",
-    "bankCode": "IE",
+    "bankCode": "LUMO",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "LUMOIE22",
     "Bank Name": "LUMON FX EUROPE LIMITED",
@@ -1405,8 +1405,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "IE",
+    "bankCode": "MACQ",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "MACQIE2D",
     "Bank Name": "MACQUARIE BANK EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -1418,8 +1418,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "IE",
+    "bankCode": "MACQ",
+    "countryCode": "IE",
     "branchCode": "REC",
     "SWIFT Code": "MACQIE2DREC",
     "Bank Name": "MACQUARIE BANK EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -1431,8 +1431,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIFY",
-    "bankCode": "IE",
+    "bankCode": "MIFY",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "MIFYIE22",
     "Bank Name": "MIFINITY UK LIMITED",
@@ -1444,8 +1444,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "IE",
+    "bankCode": "MODR",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "MODRIE22",
     "Bank Name": "MODULR FINANCE, IRELAND BRANCH",
@@ -1457,8 +1457,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "IE",
+    "bankCode": "MODR",
+    "countryCode": "IE",
     "branchCode": "E23",
     "SWIFT Code": "MODRIE23",
     "Bank Name": "MODULR FINANCE, IRELAND BRANCH",
@@ -1470,8 +1470,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOTN",
-    "bankCode": "IE",
+    "bankCode": "MOTN",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "MOTNIE2D",
     "Bank Name": "MONEYCORP TECHNOLOGIES LIMITED",
@@ -1483,8 +1483,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "AMS",
     "SWIFT Code": "MSAMIE2BAMS",
     "Bank Name": "MORGAN STANLEY INVESTMENT MANAGEMENT (IRELAND) LIMITED",
@@ -1496,8 +1496,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "FRA",
     "SWIFT Code": "MSAMIE2BFRA",
     "Bank Name": "MORGAN STANLEY INVESTMENT MANAGEMENT (IRELAND) LIMITED",
@@ -1509,8 +1509,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "MAD",
     "SWIFT Code": "MSAMIE2BMAD",
     "Bank Name": "MORGAN STANLEY INVESTMENT MANAGEMENT (IRELAND) LIMITED",
@@ -1522,8 +1522,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "MIL",
     "SWIFT Code": "MSAMIE2BMIL",
     "Bank Name": "MORGAN STANLEY INVESTMENT MANAGEMENT (IRELAND) LIMITED",
@@ -1535,8 +1535,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "E2B",
     "SWIFT Code": "MSAMIE2B",
     "Bank Name": "MORGAN STANLEY INVESTMENT MANAGEMENT (IRELAND) LIMITED",
@@ -1548,8 +1548,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHS",
-    "bankCode": "IE",
+    "bankCode": "MSHS",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "MSHSIE2D",
     "Bank Name": "MOUNT STREET HIBERNIA SERVICING LIMITED",
@@ -1561,8 +1561,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "LUX",
     "SWIFT Code": "MSAMIE2ALUX",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1574,8 +1574,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "COP",
     "SWIFT Code": "MSAMIE2ACOP",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1587,8 +1587,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "E2A",
     "SWIFT Code": "MSAMIE2A",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1600,8 +1600,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "AMS",
     "SWIFT Code": "MSAMIE2AAMS",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1613,8 +1613,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "FFT",
     "SWIFT Code": "MSAMIE2AFFT",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1626,8 +1626,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "MAD",
     "SWIFT Code": "MSAMIE2AMAD",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1639,8 +1639,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "MIL",
     "SWIFT Code": "MSAMIE2AMIL",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1652,8 +1652,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSAM",
-    "bankCode": "IE",
+    "bankCode": "MSAM",
+    "countryCode": "IE",
     "branchCode": "PAR",
     "SWIFT Code": "MSAMIE2APAR",
     "Bank Name": "MSIM FUND MANAGEMENT (IRELAND) LIMITED",
@@ -1665,8 +1665,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "IE",
+    "bankCode": "UBSW",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "UBSWIE2D",
     "Bank Name": "MUFG ALTERNATIVE FUND SERVICES (IRELAND) LIMITED",
@@ -1678,8 +1678,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUFG",
-    "bankCode": "IE",
+    "bankCode": "MUFG",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "MUFGIE2D",
     "Bank Name": "MUFG FUND SERVICES (IRELAND) LIMITED",
@@ -1691,8 +1691,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUFG",
-    "bankCode": "IE",
+    "bankCode": "MUFG",
+    "countryCode": "IE",
     "branchCode": "FOD",
     "SWIFT Code": "MUFGIE2DFOD",
     "Bank Name": "MUFG FUND SERVICES (IRELAND) LIMITED",
@@ -1704,8 +1704,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUFG",
-    "bankCode": "IE",
+    "bankCode": "MUFG",
+    "countryCode": "IE",
     "branchCode": "PAY",
     "SWIFT Code": "MUFGIE2DPAY",
     "Bank Name": "MUFG FUND SERVICES (IRELAND) LIMITED",
@@ -1717,8 +1717,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUFG",
-    "bankCode": "IE",
+    "bankCode": "MUFG",
+    "countryCode": "IE",
     "branchCode": "RTA",
     "SWIFT Code": "MUFGIE2DRTA",
     "Bank Name": "MUFG FUND SERVICES (IRELAND) LIMITED",
@@ -1730,8 +1730,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUFG",
-    "bankCode": "IE",
+    "bankCode": "MUFG",
+    "countryCode": "IE",
     "branchCode": "BPO",
     "SWIFT Code": "MUFGIE2DBPO",
     "Bank Name": "MUFG FUND SERVICES (IRELAND) LIMITED",
@@ -1743,8 +1743,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPOS",
-    "bankCode": "IE",
+    "bankCode": "MPOS",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "MPOSIE2D",
     "Bank Name": "MYPOS LIMITED",
@@ -1756,8 +1756,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPOS",
-    "bankCode": "IE",
+    "bankCode": "MPOS",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "MPOSIE22",
     "Bank Name": "MYPOS LIMITED",
@@ -1769,8 +1769,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NTMA",
-    "bankCode": "IE",
+    "bankCode": "NTMA",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "NTMAIE2D",
     "Bank Name": "NATIONAL TREASURY MANAGEMENT AGENCY",
@@ -1782,8 +1782,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBCG",
-    "bankCode": "IE",
+    "bankCode": "NBCG",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "NBCGIE2D",
     "Bank Name": "NBC GLOBAL FINANCE LIMITED",
@@ -1795,8 +1795,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESM",
-    "bankCode": "IE",
+    "bankCode": "NESM",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "NESMIE22",
     "Bank Name": "NEW ENGLAND ASSET MANAGEMENT LIMITED",
@@ -1808,8 +1808,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFXN",
-    "bankCode": "IE",
+    "bankCode": "NFXN",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "NFXNIE22",
     "Bank Name": "NOFRIXION LTD",
@@ -1821,8 +1821,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITCX",
-    "bankCode": "IE",
+    "bankCode": "ITCX",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "ITCXIE22",
     "Bank Name": "NOFRIXION LTD",
@@ -1834,8 +1834,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "IE",
+    "bankCode": "CNOR",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CNORIE2D",
     "Bank Name": "NORTHERN TRUST FIDUCIARY SERVICES (IRELAND) LIMITED",
@@ -1847,8 +1847,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "IE",
+    "bankCode": "CNOR",
+    "countryCode": "IE",
     "branchCode": "ETA",
     "SWIFT Code": "CNORIE2DETA",
     "Bank Name": "NORTHERN TRUST FIDUCIARY SERVICES (IRELAND) LIMITED",
@@ -1860,8 +1860,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIMA",
-    "bankCode": "IE",
+    "bankCode": "NIMA",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "NIMAIE2D",
     "Bank Name": "NOVA INVESTMENT MANAGEMENT LIMITED",
@@ -1873,8 +1873,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NUSE",
-    "bankCode": "IE",
+    "bankCode": "NUSE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "NUSEIE22",
     "Bank Name": "NUMIS EUROPE LIMITED",
@@ -1886,8 +1886,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFPI",
-    "bankCode": "IE",
+    "bankCode": "OFPI",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "OFPIIE22",
     "Bank Name": "OFX PAYMENTS IRELAND LIMITED",
@@ -1899,8 +1899,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORIX",
-    "bankCode": "IE",
+    "bankCode": "ORIX",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ORIXIE2D",
     "Bank Name": "ORIX AVIATION SYSTEMS LIMITED",
@@ -1912,8 +1912,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAOM",
-    "bankCode": "IE",
+    "bankCode": "PAOM",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "PAOMIE22",
     "Bank Name": "PAYOMA IRELAND LIMITED",
@@ -1925,8 +1925,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAYN",
-    "bankCode": "IE",
+    "bankCode": "PAYN",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "PAYNIE22",
     "Bank Name": "PAYONEER EUROPE LIMITED",
@@ -1938,8 +1938,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "840",
     "SWIFT Code": "DABAIE2D840",
     "Bank Name": "DANSKE BANK A/S",
@@ -1951,8 +1951,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "841",
     "SWIFT Code": "DABAIE2D841",
     "Bank Name": "DANSKE BANK A/S",
@@ -1964,8 +1964,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "842",
     "SWIFT Code": "DABAIE2D842",
     "Bank Name": "DANSKE BANK A/S",
@@ -1977,8 +1977,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "976",
     "SWIFT Code": "DABAIE2D976",
     "Bank Name": "DANSKE BANK A/S",
@@ -1990,8 +1990,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "977",
     "SWIFT Code": "DABAIE2D977",
     "Bank Name": "DANSKE BANK A/S",
@@ -2003,8 +2003,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "735",
     "SWIFT Code": "DABAIE2D735",
     "Bank Name": "DANSKE BANK A/S",
@@ -2016,8 +2016,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "736",
     "SWIFT Code": "DABAIE2D736",
     "Bank Name": "DANSKE BANK A/S",
@@ -2029,8 +2029,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "737",
     "SWIFT Code": "DABAIE2D737",
     "Bank Name": "DANSKE BANK A/S",
@@ -2042,8 +2042,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "738",
     "SWIFT Code": "DABAIE2D738",
     "Bank Name": "DANSKE BANK A/S",
@@ -2055,8 +2055,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "739",
     "SWIFT Code": "DABAIE2D739",
     "Bank Name": "DANSKE BANK A/S",
@@ -2068,8 +2068,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "740",
     "SWIFT Code": "DABAIE2D740",
     "Bank Name": "DANSKE BANK A/S",
@@ -2081,8 +2081,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "742",
     "SWIFT Code": "DABAIE2D742",
     "Bank Name": "DANSKE BANK A/S",
@@ -2094,8 +2094,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "743",
     "SWIFT Code": "DABAIE2D743",
     "Bank Name": "DANSKE BANK A/S",
@@ -2107,8 +2107,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "745",
     "SWIFT Code": "DABAIE2D745",
     "Bank Name": "DANSKE BANK A/S",
@@ -2120,8 +2120,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "746",
     "SWIFT Code": "DABAIE2D746",
     "Bank Name": "DANSKE BANK A/S",
@@ -2133,8 +2133,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "747",
     "SWIFT Code": "DABAIE2D747",
     "Bank Name": "DANSKE BANK A/S",
@@ -2146,8 +2146,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "898",
     "SWIFT Code": "DABAIE2D898",
     "Bank Name": "DANSKE BANK A/S",
@@ -2159,8 +2159,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "640",
     "SWIFT Code": "DABAIE2D640",
     "Bank Name": "DANSKE BANK A/S",
@@ -2172,8 +2172,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "641",
     "SWIFT Code": "DABAIE2D641",
     "Bank Name": "DANSKE BANK A/S",
@@ -2185,8 +2185,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "642",
     "SWIFT Code": "DABAIE2D642",
     "Bank Name": "DANSKE BANK A/S",
@@ -2198,8 +2198,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "643",
     "SWIFT Code": "DABAIE2D643",
     "Bank Name": "DANSKE BANK A/S",
@@ -2211,8 +2211,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "644",
     "SWIFT Code": "DABAIE2D644",
     "Bank Name": "DANSKE BANK A/S",
@@ -2224,8 +2224,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "645",
     "SWIFT Code": "DABAIE2D645",
     "Bank Name": "DANSKE BANK A/S",
@@ -2237,8 +2237,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "980",
     "SWIFT Code": "DABAIE2D980",
     "Bank Name": "DANSKE BANK A/S",
@@ -2250,8 +2250,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "981",
     "SWIFT Code": "DABAIE2D981",
     "Bank Name": "DANSKE BANK A/S",
@@ -2263,8 +2263,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "983",
     "SWIFT Code": "DABAIE2D983",
     "Bank Name": "DANSKE BANK A/S",
@@ -2276,8 +2276,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "984",
     "SWIFT Code": "DABAIE2D984",
     "Bank Name": "DANSKE BANK A/S",
@@ -2289,8 +2289,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "599",
     "SWIFT Code": "DABAIE2D599",
     "Bank Name": "DANSKE BANK A/S",
@@ -2302,8 +2302,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "779",
     "SWIFT Code": "DABAIE2D779",
     "Bank Name": "DANSKE BANK A/S",
@@ -2315,8 +2315,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "883",
     "SWIFT Code": "DABAIE2D883",
     "Bank Name": "DANSKE BANK A/S",
@@ -2328,8 +2328,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "829",
     "SWIFT Code": "DABAIE2D829",
     "Bank Name": "DANSKE BANK A/S",
@@ -2341,8 +2341,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "921",
     "SWIFT Code": "DABAIE2D921",
     "Bank Name": "DANSKE BANK A/S",
@@ -2354,8 +2354,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "938",
     "SWIFT Code": "DABAIE2D938",
     "Bank Name": "DANSKE BANK A/S",
@@ -2367,8 +2367,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "835",
     "SWIFT Code": "DABAIE2D835",
     "Bank Name": "DANSKE BANK A/S",
@@ -2380,8 +2380,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "884",
     "SWIFT Code": "DABAIE2D884",
     "Bank Name": "DANSKE BANK A/S",
@@ -2393,8 +2393,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "520",
     "SWIFT Code": "DABAIE2D520",
     "Bank Name": "DANSKE BANK A/S",
@@ -2406,8 +2406,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "888",
     "SWIFT Code": "DABAIE2D888",
     "Bank Name": "DANSKE BANK A/S",
@@ -2419,8 +2419,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "800",
     "SWIFT Code": "DABAIE2D800",
     "Bank Name": "DANSKE BANK A/S",
@@ -2432,8 +2432,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "912",
     "SWIFT Code": "DABAIE2D912",
     "Bank Name": "DANSKE BANK A/S",
@@ -2445,8 +2445,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "930",
     "SWIFT Code": "DABAIE2D930",
     "Bank Name": "DANSKE BANK A/S",
@@ -2458,8 +2458,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "943",
     "SWIFT Code": "DABAIE2D943",
     "Bank Name": "DANSKE BANK A/S",
@@ -2471,8 +2471,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "988",
     "SWIFT Code": "DABAIE2D988",
     "Bank Name": "DANSKE BANK A/S",
@@ -2484,8 +2484,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "974",
     "SWIFT Code": "DABAIE2D974",
     "Bank Name": "DANSKE BANK A/S",
@@ -2497,8 +2497,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "830",
     "SWIFT Code": "DABAIE2D830",
     "Bank Name": "DANSKE BANK A/S",
@@ -2510,8 +2510,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "775",
     "SWIFT Code": "DABAIE2D775",
     "Bank Name": "DANSKE BANK A/S",
@@ -2523,8 +2523,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "786",
     "SWIFT Code": "DABAIE2D786",
     "Bank Name": "DANSKE BANK A/S",
@@ -2536,8 +2536,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "827",
     "SWIFT Code": "DABAIE2D827",
     "Bank Name": "DANSKE BANK A/S",
@@ -2549,8 +2549,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "919",
     "SWIFT Code": "DABAIE2D919",
     "Bank Name": "DANSKE BANK A/S",
@@ -2562,8 +2562,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "509",
     "SWIFT Code": "DABAIE2D509",
     "Bank Name": "DANSKE BANK A/S",
@@ -2575,8 +2575,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "940",
     "SWIFT Code": "DABAIE2D940",
     "Bank Name": "DANSKE BANK A/S",
@@ -2588,8 +2588,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "908",
     "SWIFT Code": "DABAIE2D908",
     "Bank Name": "DANSKE BANK A/S",
@@ -2601,8 +2601,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "910",
     "SWIFT Code": "DABAIE2D910",
     "Bank Name": "DANSKE BANK A/S",
@@ -2614,8 +2614,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "825",
     "SWIFT Code": "DABAIE2D825",
     "Bank Name": "DANSKE BANK A/S",
@@ -2627,8 +2627,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "917",
     "SWIFT Code": "DABAIE2D917",
     "Bank Name": "DANSKE BANK A/S",
@@ -2640,8 +2640,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "824",
     "SWIFT Code": "DABAIE2D824",
     "Bank Name": "DANSKE BANK A/S",
@@ -2653,8 +2653,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "927",
     "SWIFT Code": "DABAIE2D927",
     "Bank Name": "DANSKE BANK A/S",
@@ -2666,8 +2666,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "999",
     "SWIFT Code": "DABAIE2D999",
     "Bank Name": "DANSKE BANK A/S",
@@ -2679,8 +2679,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "837",
     "SWIFT Code": "DABAIE2D837",
     "Bank Name": "DANSKE BANK A/S",
@@ -2692,8 +2692,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "802",
     "SWIFT Code": "DABAIE2D802",
     "Bank Name": "DANSKE BANK A/S",
@@ -2705,8 +2705,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "803",
     "SWIFT Code": "DABAIE2D803",
     "Bank Name": "DANSKE BANK A/S",
@@ -2718,8 +2718,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "801",
     "SWIFT Code": "DABAIE2D801",
     "Bank Name": "DANSKE BANK A/S",
@@ -2731,8 +2731,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "819",
     "SWIFT Code": "DABAIE2D819",
     "Bank Name": "DANSKE BANK A/S",
@@ -2744,8 +2744,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "810",
     "SWIFT Code": "DABAIE2D810",
     "Bank Name": "DANSKE BANK A/S",
@@ -2757,8 +2757,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "939",
     "SWIFT Code": "DABAIE2D939",
     "Bank Name": "DANSKE BANK A/S",
@@ -2770,8 +2770,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "911",
     "SWIFT Code": "DABAIE2D911",
     "Bank Name": "DANSKE BANK A/S",
@@ -2783,8 +2783,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "922",
     "SWIFT Code": "DABAIE2D922",
     "Bank Name": "DANSKE BANK A/S",
@@ -2796,8 +2796,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "901",
     "SWIFT Code": "DABAIE2D901",
     "Bank Name": "DANSKE BANK A/S",
@@ -2809,8 +2809,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "886",
     "SWIFT Code": "DABAIE2D886",
     "Bank Name": "DANSKE BANK A/S",
@@ -2822,8 +2822,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "905",
     "SWIFT Code": "DABAIE2D905",
     "Bank Name": "DANSKE BANK A/S",
@@ -2835,8 +2835,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "511",
     "SWIFT Code": "DABAIE2D511",
     "Bank Name": "DANSKE BANK A/S",
@@ -2848,8 +2848,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "828",
     "SWIFT Code": "DABAIE2D828",
     "Bank Name": "DANSKE BANK A/S",
@@ -2861,8 +2861,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "833",
     "SWIFT Code": "DABAIE2D833",
     "Bank Name": "DANSKE BANK A/S",
@@ -2874,8 +2874,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "845",
     "SWIFT Code": "DABAIE2D845",
     "Bank Name": "DANSKE BANK A/S",
@@ -2887,8 +2887,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "846",
     "SWIFT Code": "DABAIE2D846",
     "Bank Name": "DANSKE BANK A/S",
@@ -2900,8 +2900,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "850",
     "SWIFT Code": "DABAIE2D850",
     "Bank Name": "DANSKE BANK A/S",
@@ -2913,8 +2913,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "848",
     "SWIFT Code": "DABAIE2D848",
     "Bank Name": "DANSKE BANK A/S",
@@ -2926,8 +2926,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "847",
     "SWIFT Code": "DABAIE2D847",
     "Bank Name": "DANSKE BANK A/S",
@@ -2939,8 +2939,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "849",
     "SWIFT Code": "DABAIE2D849",
     "Bank Name": "DANSKE BANK A/S",
@@ -2952,8 +2952,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "952",
     "SWIFT Code": "DABAIE2D952",
     "Bank Name": "DANSKE BANK A/S",
@@ -2965,8 +2965,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "953",
     "SWIFT Code": "DABAIE2D953",
     "Bank Name": "DANSKE BANK A/S",
@@ -2978,8 +2978,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "774",
     "SWIFT Code": "DABAIE2D774",
     "Bank Name": "DANSKE BANK A/S",
@@ -2991,8 +2991,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "851",
     "SWIFT Code": "DABAIE2D851",
     "Bank Name": "DANSKE BANK A/S",
@@ -3004,8 +3004,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "860",
     "SWIFT Code": "DABAIE2D860",
     "Bank Name": "DANSKE BANK A/S",
@@ -3017,8 +3017,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "861",
     "SWIFT Code": "DABAIE2D861",
     "Bank Name": "DANSKE BANK A/S",
@@ -3030,8 +3030,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "862",
     "SWIFT Code": "DABAIE2D862",
     "Bank Name": "DANSKE BANK A/S",
@@ -3043,8 +3043,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "863",
     "SWIFT Code": "DABAIE2D863",
     "Bank Name": "DANSKE BANK A/S",
@@ -3056,8 +3056,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "864",
     "SWIFT Code": "DABAIE2D864",
     "Bank Name": "DANSKE BANK A/S",
@@ -3069,8 +3069,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "865",
     "SWIFT Code": "DABAIE2D865",
     "Bank Name": "DANSKE BANK A/S",
@@ -3082,8 +3082,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "866",
     "SWIFT Code": "DABAIE2D866",
     "Bank Name": "DANSKE BANK A/S",
@@ -3095,8 +3095,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "867",
     "SWIFT Code": "DABAIE2D867",
     "Bank Name": "DANSKE BANK A/S",
@@ -3108,8 +3108,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "868",
     "SWIFT Code": "DABAIE2D868",
     "Bank Name": "DANSKE BANK A/S",
@@ -3121,8 +3121,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "852",
     "SWIFT Code": "DABAIE2D852",
     "Bank Name": "DANSKE BANK A/S",
@@ -3134,8 +3134,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "869",
     "SWIFT Code": "DABAIE2D869",
     "Bank Name": "DANSKE BANK A/S",
@@ -3147,8 +3147,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "870",
     "SWIFT Code": "DABAIE2D870",
     "Bank Name": "DANSKE BANK A/S",
@@ -3160,8 +3160,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "871",
     "SWIFT Code": "DABAIE2D871",
     "Bank Name": "DANSKE BANK A/S",
@@ -3173,8 +3173,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "872",
     "SWIFT Code": "DABAIE2D872",
     "Bank Name": "DANSKE BANK A/S",
@@ -3186,8 +3186,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "873",
     "SWIFT Code": "DABAIE2D873",
     "Bank Name": "DANSKE BANK A/S",
@@ -3199,8 +3199,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "874",
     "SWIFT Code": "DABAIE2D874",
     "Bank Name": "DANSKE BANK A/S",
@@ -3212,8 +3212,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "875",
     "SWIFT Code": "DABAIE2D875",
     "Bank Name": "DANSKE BANK A/S",
@@ -3225,8 +3225,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "876",
     "SWIFT Code": "DABAIE2D876",
     "Bank Name": "DANSKE BANK A/S",
@@ -3238,8 +3238,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "LIS",
     "SWIFT Code": "CITIIE2XLIS",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3251,8 +3251,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "MAD",
     "SWIFT Code": "CITIIE2XMAD",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3264,8 +3264,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "MIL",
     "SWIFT Code": "CITIIE2XMIL",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3277,8 +3277,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "NWY",
     "SWIFT Code": "CITIIE2XNWY",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3290,8 +3290,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "PAR",
     "SWIFT Code": "CITIIE2XPAR",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3303,8 +3303,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "VIE",
     "SWIFT Code": "CITIIE2XVIE",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3316,8 +3316,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "GAT",
     "SWIFT Code": "CITIIE2XGAT",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3329,8 +3329,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "DEN",
     "SWIFT Code": "CITIIE2XDEN",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3342,8 +3342,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "FIN",
     "SWIFT Code": "CITIIE2XFIN",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3355,8 +3355,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "NOR",
     "SWIFT Code": "CITIIE2XNOR",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3368,8 +3368,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "TI1",
     "SWIFT Code": "CITIIE2XTI1",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3381,8 +3381,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "TI0",
     "SWIFT Code": "CITIIE2XTI0",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3394,8 +3394,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "RES",
     "SWIFT Code": "CITIIE2XRES",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3407,8 +3407,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "SIG",
     "SWIFT Code": "CITIIE2XSIG",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3420,8 +3420,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "TRD",
     "SWIFT Code": "CITIIE2XTRD",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3433,8 +3433,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "ITA",
     "SWIFT Code": "CITIIE4XITA",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -3446,8 +3446,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "IE",
+    "bankCode": "CITI",
+    "countryCode": "IE",
     "branchCode": "E3D",
     "SWIFT Code": "CITIIE3D",
     "Bank Name": "CITIBANK EUROPE PLC (FORMERLY CITIBANK INTERNATIONAL LIMITED IRELAND BRANCH)",
@@ -3459,8 +3459,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFU",
-    "bankCode": "IE",
+    "bankCode": "CCFU",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "CCFUIE22",
     "Bank Name": "COHEN AND COMPANY FINANCIAL (EUROPE) LIMITED",
@@ -3472,8 +3472,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFU",
-    "bankCode": "IE",
+    "bankCode": "CCFU",
+    "countryCode": "IE",
     "branchCode": "PAR",
     "SWIFT Code": "CCFUIE22PAR",
     "Bank Name": "COHEN AND COMPANY FINANCIAL (EUROPE) LIMITED",
@@ -3485,8 +3485,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "IE",
+    "bankCode": "CRES",
+    "countryCode": "IE",
     "branchCode": "E3P",
     "SWIFT Code": "CRESIE3P",
     "Bank Name": "CREDIT SUISSE AG, DUBLIN",
@@ -3498,8 +3498,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "IE",
+    "bankCode": "CRES",
+    "countryCode": "IE",
     "branchCode": "PSO",
     "SWIFT Code": "CRESIE3PPSO",
     "Bank Name": "CREDIT SUISSE AG, DUBLIN",
@@ -3511,8 +3511,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "IE",
+    "bankCode": "CRES",
+    "countryCode": "IE",
     "branchCode": "STC",
     "SWIFT Code": "CRESIE3PSTC",
     "Bank Name": "CREDIT SUISSE AG, DUBLIN",
@@ -3524,8 +3524,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRHP",
-    "bankCode": "IE",
+    "bankCode": "CRHP",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CRHPIE2D",
     "Bank Name": "CRH GROUP SERVICES LIMITED",
@@ -3537,8 +3537,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "757",
     "SWIFT Code": "DABAIE2D757",
     "Bank Name": "DANSKE BANK A/S",
@@ -3550,8 +3550,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "502",
     "SWIFT Code": "DABAIE2D502",
     "Bank Name": "DANSKE BANK A/S",
@@ -3563,8 +3563,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "661",
     "SWIFT Code": "DABAIE2D661",
     "Bank Name": "DANSKE BANK A/S",
@@ -3576,8 +3576,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "696",
     "SWIFT Code": "DABAIE2D696",
     "Bank Name": "DANSKE BANK A/S",
@@ -3589,8 +3589,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "751",
     "SWIFT Code": "DABAIE2D751",
     "Bank Name": "DANSKE BANK A/S",
@@ -3602,8 +3602,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "992",
     "SWIFT Code": "DABAIE2D992",
     "Bank Name": "DANSKE BANK A/S",
@@ -3615,8 +3615,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "804",
     "SWIFT Code": "DABAIE2D804",
     "Bank Name": "DANSKE BANK A/S",
@@ -3628,8 +3628,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "655",
     "SWIFT Code": "DABAIE2D655",
     "Bank Name": "DANSKE BANK A/S",
@@ -3641,8 +3641,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "753",
     "SWIFT Code": "DABAIE2D753",
     "Bank Name": "DANSKE BANK A/S",
@@ -3654,8 +3654,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "979",
     "SWIFT Code": "DABAIE2D979",
     "Bank Name": "DANSKE BANK A/S",
@@ -3667,8 +3667,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "DABAIE2D",
     "Bank Name": "DANSKE BANK A/S",
@@ -3680,8 +3680,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "897",
     "SWIFT Code": "DABAIE2D897",
     "Bank Name": "DANSKE BANK A/S",
@@ -3693,8 +3693,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "995",
     "SWIFT Code": "DABAIE2D995",
     "Bank Name": "DANSKE BANK A/S",
@@ -3706,8 +3706,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "748",
     "SWIFT Code": "DABAIE2D748",
     "Bank Name": "DANSKE BANK A/S",
@@ -3719,8 +3719,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "749",
     "SWIFT Code": "DABAIE2D749",
     "Bank Name": "DANSKE BANK A/S",
@@ -3732,8 +3732,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "760",
     "SWIFT Code": "DABAIE2D760",
     "Bank Name": "DANSKE BANK A/S",
@@ -3745,8 +3745,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "761",
     "SWIFT Code": "DABAIE2D761",
     "Bank Name": "DANSKE BANK A/S",
@@ -3758,8 +3758,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "762",
     "SWIFT Code": "DABAIE2D762",
     "Bank Name": "DANSKE BANK A/S",
@@ -3771,8 +3771,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "763",
     "SWIFT Code": "DABAIE2D763",
     "Bank Name": "DANSKE BANK A/S",
@@ -3784,8 +3784,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "764",
     "SWIFT Code": "DABAIE2D764",
     "Bank Name": "DANSKE BANK A/S",
@@ -3797,8 +3797,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "765",
     "SWIFT Code": "DABAIE2D765",
     "Bank Name": "DANSKE BANK A/S",
@@ -3810,8 +3810,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "766",
     "SWIFT Code": "DABAIE2D766",
     "Bank Name": "DANSKE BANK A/S",
@@ -3823,8 +3823,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "767",
     "SWIFT Code": "DABAIE2D767",
     "Bank Name": "DANSKE BANK A/S",
@@ -3836,8 +3836,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "768",
     "SWIFT Code": "DABAIE2D768",
     "Bank Name": "DANSKE BANK A/S",
@@ -3849,8 +3849,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "769",
     "SWIFT Code": "DABAIE2D769",
     "Bank Name": "DANSKE BANK A/S",
@@ -3862,8 +3862,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "975",
     "SWIFT Code": "DABAIE2D975",
     "Bank Name": "DANSKE BANK A/S",
@@ -3875,8 +3875,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "759",
     "SWIFT Code": "DABAIE2D759",
     "Bank Name": "DANSKE BANK A/S",
@@ -3888,8 +3888,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "690",
     "SWIFT Code": "DABAIE2D690",
     "Bank Name": "DANSKE BANK A/S",
@@ -3901,8 +3901,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "926",
     "SWIFT Code": "DABAIE2D926",
     "Bank Name": "DANSKE BANK A/S",
@@ -3914,8 +3914,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "806",
     "SWIFT Code": "DABAIE2D806",
     "Bank Name": "DANSKE BANK A/S",
@@ -3927,8 +3927,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "990",
     "SWIFT Code": "DABAIE2D990",
     "Bank Name": "DANSKE BANK A/S",
@@ -3940,8 +3940,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "783",
     "SWIFT Code": "DABAIE2D783",
     "Bank Name": "DANSKE BANK A/S",
@@ -3953,8 +3953,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "508",
     "SWIFT Code": "DABAIE2D508",
     "Bank Name": "DANSKE BANK A/S",
@@ -3966,8 +3966,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "832",
     "SWIFT Code": "DABAIE2D832",
     "Bank Name": "DANSKE BANK A/S",
@@ -3979,8 +3979,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "881",
     "SWIFT Code": "DABAIE2D881",
     "Bank Name": "DANSKE BANK A/S",
@@ -3992,8 +3992,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "893",
     "SWIFT Code": "DABAIE2D893",
     "Bank Name": "DANSKE BANK A/S",
@@ -4005,8 +4005,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "896",
     "SWIFT Code": "DABAIE2D896",
     "Bank Name": "DANSKE BANK A/S",
@@ -4018,8 +4018,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "894",
     "SWIFT Code": "DABAIE2D894",
     "Bank Name": "DANSKE BANK A/S",
@@ -4031,8 +4031,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "892",
     "SWIFT Code": "DABAIE2D892",
     "Bank Name": "DANSKE BANK A/S",
@@ -4044,8 +4044,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "895",
     "SWIFT Code": "DABAIE2D895",
     "Bank Name": "DANSKE BANK A/S",
@@ -4057,8 +4057,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "891",
     "SWIFT Code": "DABAIE2D891",
     "Bank Name": "DANSKE BANK A/S",
@@ -4070,8 +4070,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "932",
     "SWIFT Code": "DABAIE2D932",
     "Bank Name": "DANSKE BANK A/S",
@@ -4083,8 +4083,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "839",
     "SWIFT Code": "DABAIE2D839",
     "Bank Name": "DANSKE BANK A/S",
@@ -4096,8 +4096,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "954",
     "SWIFT Code": "DABAIE2D954",
     "Bank Name": "DANSKE BANK A/S",
@@ -4109,8 +4109,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "955",
     "SWIFT Code": "DABAIE2D955",
     "Bank Name": "DANSKE BANK A/S",
@@ -4122,8 +4122,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "777",
     "SWIFT Code": "DABAIE2D777",
     "Bank Name": "DANSKE BANK A/S",
@@ -4135,8 +4135,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "957",
     "SWIFT Code": "DABAIE2D957",
     "Bank Name": "DANSKE BANK A/S",
@@ -4148,8 +4148,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "959",
     "SWIFT Code": "DABAIE2D959",
     "Bank Name": "DANSKE BANK A/S",
@@ -4161,8 +4161,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "807",
     "SWIFT Code": "DABAIE2D807",
     "Bank Name": "DANSKE BANK A/S",
@@ -4174,8 +4174,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "948",
     "SWIFT Code": "DABAIE2D948",
     "Bank Name": "DANSKE BANK A/S",
@@ -4187,8 +4187,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "808",
     "SWIFT Code": "DABAIE2D808",
     "Bank Name": "DANSKE BANK A/S",
@@ -4200,8 +4200,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "809",
     "SWIFT Code": "DABAIE2D809",
     "Bank Name": "DANSKE BANK A/S",
@@ -4213,8 +4213,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "960",
     "SWIFT Code": "DABAIE2D960",
     "Bank Name": "DANSKE BANK A/S",
@@ -4226,8 +4226,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "844",
     "SWIFT Code": "DABAIE2D844",
     "Bank Name": "DANSKE BANK A/S",
@@ -4239,8 +4239,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "887",
     "SWIFT Code": "DABAIE2D887",
     "Bank Name": "DANSKE BANK A/S",
@@ -4252,8 +4252,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "961",
     "SWIFT Code": "DABAIE2D961",
     "Bank Name": "DANSKE BANK A/S",
@@ -4265,8 +4265,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "944",
     "SWIFT Code": "DABAIE2D944",
     "Bank Name": "DANSKE BANK A/S",
@@ -4278,8 +4278,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "914",
     "SWIFT Code": "DABAIE2D914",
     "Bank Name": "DANSKE BANK A/S",
@@ -4291,8 +4291,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "918",
     "SWIFT Code": "DABAIE2D918",
     "Bank Name": "DANSKE BANK A/S",
@@ -4304,8 +4304,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "882",
     "SWIFT Code": "DABAIE2D882",
     "Bank Name": "DANSKE BANK A/S",
@@ -4317,8 +4317,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "885",
     "SWIFT Code": "DABAIE2D885",
     "Bank Name": "DANSKE BANK A/S",
@@ -4330,8 +4330,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "880",
     "SWIFT Code": "DABAIE2D880",
     "Bank Name": "DANSKE BANK A/S",
@@ -4343,8 +4343,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "773",
     "SWIFT Code": "DABAIE2D773",
     "Bank Name": "DANSKE BANK A/S",
@@ -4356,8 +4356,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "772",
     "SWIFT Code": "DABAIE2D772",
     "Bank Name": "DANSKE BANK A/S",
@@ -4369,8 +4369,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "949",
     "SWIFT Code": "DABAIE2D949",
     "Bank Name": "DANSKE BANK A/S",
@@ -4382,8 +4382,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "966",
     "SWIFT Code": "DABAIE2D966",
     "Bank Name": "DANSKE BANK A/S",
@@ -4395,8 +4395,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "964",
     "SWIFT Code": "DABAIE2D964",
     "Bank Name": "DANSKE BANK A/S",
@@ -4408,8 +4408,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "969",
     "SWIFT Code": "DABAIE2D969",
     "Bank Name": "DANSKE BANK A/S",
@@ -4421,8 +4421,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "816",
     "SWIFT Code": "DABAIE2D816",
     "Bank Name": "DANSKE BANK A/S",
@@ -4434,8 +4434,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "778",
     "SWIFT Code": "DABAIE2D778",
     "Bank Name": "DANSKE BANK A/S",
@@ -4447,8 +4447,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "970",
     "SWIFT Code": "DABAIE2D970",
     "Bank Name": "DANSKE BANK A/S",
@@ -4460,8 +4460,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "958",
     "SWIFT Code": "DABAIE2D958",
     "Bank Name": "DANSKE BANK A/S",
@@ -4473,8 +4473,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "967",
     "SWIFT Code": "DABAIE2D967",
     "Bank Name": "DANSKE BANK A/S",
@@ -4486,8 +4486,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "506",
     "SWIFT Code": "DABAIE2D506",
     "Bank Name": "DANSKE BANK A/S",
@@ -4499,8 +4499,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "928",
     "SWIFT Code": "DABAIE2D928",
     "Bank Name": "DANSKE BANK A/S",
@@ -4512,8 +4512,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "929",
     "SWIFT Code": "DABAIE2D929",
     "Bank Name": "DANSKE BANK A/S",
@@ -4525,8 +4525,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "924",
     "SWIFT Code": "DABAIE2D924",
     "Bank Name": "DANSKE BANK A/S",
@@ -4538,8 +4538,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "877",
     "SWIFT Code": "DABAIE2D877",
     "Bank Name": "DANSKE BANK A/S",
@@ -4551,8 +4551,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "878",
     "SWIFT Code": "DABAIE2D878",
     "Bank Name": "DANSKE BANK A/S",
@@ -4564,8 +4564,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "853",
     "SWIFT Code": "DABAIE2D853",
     "Bank Name": "DANSKE BANK A/S",
@@ -4577,8 +4577,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "879",
     "SWIFT Code": "DABAIE2D879",
     "Bank Name": "DANSKE BANK A/S",
@@ -4590,8 +4590,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "854",
     "SWIFT Code": "DABAIE2D854",
     "Bank Name": "DANSKE BANK A/S",
@@ -4603,8 +4603,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "855",
     "SWIFT Code": "DABAIE2D855",
     "Bank Name": "DANSKE BANK A/S",
@@ -4616,8 +4616,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "856",
     "SWIFT Code": "DABAIE2D856",
     "Bank Name": "DANSKE BANK A/S",
@@ -4629,8 +4629,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "857",
     "SWIFT Code": "DABAIE2D857",
     "Bank Name": "DANSKE BANK A/S",
@@ -4642,8 +4642,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "858",
     "SWIFT Code": "DABAIE2D858",
     "Bank Name": "DANSKE BANK A/S",
@@ -4655,8 +4655,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "859",
     "SWIFT Code": "DABAIE2D859",
     "Bank Name": "DANSKE BANK A/S",
@@ -4668,8 +4668,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "941",
     "SWIFT Code": "DABAIE2D941",
     "Bank Name": "DANSKE BANK A/S",
@@ -4681,8 +4681,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "729",
     "SWIFT Code": "DABAIE2D729",
     "Bank Name": "DANSKE BANK A/S",
@@ -4694,8 +4694,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "826",
     "SWIFT Code": "DABAIE2D826",
     "Bank Name": "DANSKE BANK A/S",
@@ -4707,8 +4707,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "920",
     "SWIFT Code": "DABAIE2D920",
     "Bank Name": "DANSKE BANK A/S",
@@ -4720,8 +4720,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "931",
     "SWIFT Code": "DABAIE2D931",
     "Bank Name": "DANSKE BANK A/S",
@@ -4733,8 +4733,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "500",
     "SWIFT Code": "DABAIE2D500",
     "Bank Name": "DANSKE BANK A/S",
@@ -4746,8 +4746,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "890",
     "SWIFT Code": "DABAIE2D890",
     "Bank Name": "DANSKE BANK A/S",
@@ -4759,8 +4759,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "780",
     "SWIFT Code": "DABAIE2D780",
     "Bank Name": "DANSKE BANK A/S",
@@ -4772,8 +4772,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "770",
     "SWIFT Code": "DABAIE2D770",
     "Bank Name": "DANSKE BANK A/S",
@@ -4785,8 +4785,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "771",
     "SWIFT Code": "DABAIE2D771",
     "Bank Name": "DANSKE BANK A/S",
@@ -4798,8 +4798,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "522",
     "SWIFT Code": "DABAIE2D522",
     "Bank Name": "DANSKE BANK A/S",
@@ -4811,8 +4811,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "838",
     "SWIFT Code": "DABAIE2D838",
     "Bank Name": "DANSKE BANK A/S",
@@ -4824,8 +4824,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "550",
     "SWIFT Code": "DABAIE2D550",
     "Bank Name": "DANSKE BANK A/S",
@@ -4837,8 +4837,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "994",
     "SWIFT Code": "DABAIE2D994",
     "Bank Name": "DANSKE BANK A/S",
@@ -4850,8 +4850,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "754",
     "SWIFT Code": "DABAIE2D754",
     "Bank Name": "DANSKE BANK A/S",
@@ -4863,8 +4863,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "674",
     "SWIFT Code": "DABAIE2D674",
     "Bank Name": "DANSKE BANK A/S",
@@ -4876,8 +4876,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "634",
     "SWIFT Code": "DABAIE2D634",
     "Bank Name": "DANSKE BANK A/S",
@@ -4889,8 +4889,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "814",
     "SWIFT Code": "DABAIE2D814",
     "Bank Name": "DANSKE BANK A/S",
@@ -4902,8 +4902,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "815",
     "SWIFT Code": "DABAIE2D815",
     "Bank Name": "DANSKE BANK A/S",
@@ -4915,8 +4915,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "805",
     "SWIFT Code": "DABAIE2D805",
     "Bank Name": "DANSKE BANK A/S",
@@ -4928,8 +4928,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "750",
     "SWIFT Code": "DABAIE2D750",
     "Bank Name": "DANSKE BANK A/S",
@@ -4941,8 +4941,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "691",
     "SWIFT Code": "DABAIE2D691",
     "Bank Name": "DANSKE BANK A/S",
@@ -4954,8 +4954,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "752",
     "SWIFT Code": "DABAIE2D752",
     "Bank Name": "DANSKE BANK A/S",
@@ -4967,8 +4967,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBIL",
-    "bankCode": "IE",
+    "bankCode": "DBIL",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "DBILIE2D",
     "Bank Name": "DELL BANK INTERNATIONAL D.A.C.",
@@ -4980,8 +4980,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLFR",
-    "bankCode": "IE",
+    "bankCode": "CLFR",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "CLFRIE2D",
     "Bank Name": "DEXIA CREDIT LOCAL DUBLIN",
@@ -4993,8 +4993,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBSI",
-    "bankCode": "IE",
+    "bankCode": "EBSI",
+    "countryCode": "IE",
     "branchCode": "SDD",
     "SWIFT Code": "EBSIIE2DSDD",
     "Bank Name": "EBS D.A.C.",
@@ -5006,8 +5006,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBSI",
-    "bankCode": "IE",
+    "bankCode": "EBSI",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "EBSIIE2D",
     "Bank Name": "EBS D.A.C.",
@@ -5019,8 +5019,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBSI",
-    "bankCode": "IE",
+    "bankCode": "EBSI",
+    "countryCode": "IE",
     "branchCode": "EMF",
     "SWIFT Code": "EBSIIE2DEMF",
     "Bank Name": "EBS D.A.C.",
@@ -5032,8 +5032,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "USBKIE22",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5045,8 +5045,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "USBKIE2D",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5058,8 +5058,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "REC",
     "SWIFT Code": "USBKIE22REC",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5071,8 +5071,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "FRA",
     "SWIFT Code": "USBKIE22FRA",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5084,8 +5084,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "CTS",
     "SWIFT Code": "USBKIE2DCTS",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5097,8 +5097,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "DS1",
     "SWIFT Code": "USBKIE22DS1",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5110,8 +5110,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "IPA",
     "SWIFT Code": "USBKIE22IPA",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5123,8 +5123,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "IE",
+    "bankCode": "USBK",
+    "countryCode": "IE",
     "branchCode": "QUI",
     "SWIFT Code": "USBKIE22QUI",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC",
@@ -5136,8 +5136,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMRT",
-    "bankCode": "IE",
+    "bankCode": "EMRT",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "EMRTIE2D",
     "Bank Name": "EMERSUB TREASURY IRELAND",
@@ -5149,8 +5149,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUDB",
-    "bankCode": "IE",
+    "bankCode": "EUDB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "EUDBIE2D",
     "Bank Name": "EUROPEAN DEPOSITARY BANK SA DUBLIN BRANCH",
@@ -5162,8 +5162,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEXC",
-    "bankCode": "IE",
+    "bankCode": "FEXC",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "FEXCIE2D",
     "Bank Name": "FEXCO LIMITED",
@@ -5175,8 +5175,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEXM",
-    "bankCode": "IE",
+    "bankCode": "FEXM",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "FEXMIE2D",
     "Bank Name": "FEXCO MERCHANT SERVICES LIMITED",
@@ -5188,8 +5188,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPSE",
-    "bankCode": "IE",
+    "bankCode": "PPSE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "PPSEIE22",
     "Bank Name": "PAYSAFE PREPAID SERVICES LIMITED",
@@ -5201,8 +5201,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAED",
-    "bankCode": "IE",
+    "bankCode": "PAED",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "PAEDIE22",
     "Bank Name": "PAYSEND EU DESIGNATED ACTIVITY COMPANY",
@@ -5214,8 +5214,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PENP",
-    "bankCode": "IE",
+    "bankCode": "PENP",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "PENPIE2D",
     "Bank Name": "PENINSULA PETROLEUM LIMITED",
@@ -5227,8 +5227,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPBS",
-    "bankCode": "IE",
+    "bankCode": "IPBS",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IPBSIE2D",
     "Bank Name": "PERMANENT TSB P.L.C.",
@@ -5240,8 +5240,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PERL",
-    "bankCode": "IE",
+    "bankCode": "PERL",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "PERLIE2D",
     "Bank Name": "PERSHING SECURITIES INTERNATIONAL LTD",
@@ -5253,8 +5253,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFIZ",
-    "bankCode": "IE",
+    "bankCode": "PFIZ",
+    "countryCode": "IE",
     "branchCode": "HDO",
     "SWIFT Code": "PFIZIE2DHDO",
     "Bank Name": "PFIZER SERVICE COMPANY IRELAND",
@@ -5266,8 +5266,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFIZ",
-    "bankCode": "IE",
+    "bankCode": "PFIZ",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "PFIZIE2D",
     "Bank Name": "PFIZER SERVICE COMPANY IRELAND",
@@ -5279,8 +5279,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFIZ",
-    "bankCode": "IE",
+    "bankCode": "PFIZ",
+    "countryCode": "IE",
     "branchCode": "GFS",
     "SWIFT Code": "PFIZIE2DGFS",
     "Bank Name": "PFIZER SERVICE COMPANY IRELAND",
@@ -5292,8 +5292,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCSI",
-    "bankCode": "IE",
+    "bankCode": "PCSI",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "PCSIIE22",
     "Bank Name": "PFS CARD SERVICES IRELAND LIMITED",
@@ -5305,8 +5305,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUCE",
-    "bankCode": "IE",
+    "bankCode": "QUCE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "QUCEIE22",
     "Bank Name": "QUILTER CHEVIOT EUROPE LIMITED",
@@ -5318,8 +5318,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABI",
-    "bankCode": "IE",
+    "bankCode": "RABI",
+    "countryCode": "IE",
     "branchCode": "E3D",
     "SWIFT Code": "RABIIE3D",
     "Bank Name": "RABOBANK DUBLIN",
@@ -5331,8 +5331,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "IE",
+    "bankCode": "ROYC",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ROYCIE2D",
     "Bank Name": "RBC FINANCE (IRELAND) DESIGNATED ACTIVITY COMPANY",
@@ -5344,8 +5344,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "IE",
+    "bankCode": "REVO",
+    "countryCode": "IE",
     "branchCode": "E23",
     "SWIFT Code": "REVOIE23",
     "Bank Name": "REVOLUT BANK UAB IRELAND BRANCH",
@@ -5357,8 +5357,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "IE",
+    "bankCode": "REVO",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "REVOIE22",
     "Bank Name": "REVOLUT PAYMENTS IRELAND LIMITED",
@@ -5370,8 +5370,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIE",
-    "bankCode": "IE",
+    "bankCode": "SBIE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SBIEIE22",
     "Bank Name": "SANFORD C. BERNSTEIN IRELAND LTD",
@@ -5383,8 +5383,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "IE",
+    "bankCode": "NOSC",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "NOSCIE2D",
     "Bank Name": "SCOTIABANK (IRELAND) DESIGNATED ACTIVITY COMPANY",
@@ -5396,8 +5396,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "IE",
+    "bankCode": "NOSC",
+    "countryCode": "IE",
     "branchCode": "GLS",
     "SWIFT Code": "NOSCIE2XGLS",
     "Bank Name": "SCOTIABANK (IRELAND) DESIGNATED ACTIVITY COMPANY",
@@ -5409,8 +5409,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "IE",
+    "bankCode": "NOSC",
+    "countryCode": "IE",
     "branchCode": "E2X",
     "SWIFT Code": "NOSCIE2X",
     "Bank Name": "SCOTIABANK (IRELAND) DESIGNATED ACTIVITY COMPANY",
@@ -5422,8 +5422,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIUP",
-    "bankCode": "IE",
+    "bankCode": "SIUP",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SIUPIE22",
     "Bank Name": "SECTOR INVESTMENT FUNDS PUBLIC LIMITED COMPANY",
@@ -5435,8 +5435,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLTD",
-    "bankCode": "IE",
+    "bankCode": "SLTD",
+    "countryCode": "IE",
     "branchCode": "E2M",
     "SWIFT Code": "SLTDIE2M",
     "Bank Name": "SENTENIAL LTD",
@@ -5448,8 +5448,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIFT",
-    "bankCode": "IE",
+    "bankCode": "SIFT",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "SIFTIE2D",
     "Bank Name": "SHIRE IRELAND FINANCE TRADING LIMITED",
@@ -5461,8 +5461,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMIW",
-    "bankCode": "IE",
+    "bankCode": "SMIW",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "SMIWIE2D",
     "Bank Name": "SMITH AND WILLIAMSON INVESTMENT MANAGEMENT (EUROPE) LIMITED",
@@ -5474,8 +5474,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMKT",
-    "bankCode": "IE",
+    "bankCode": "SMKT",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SMKTIE22",
     "Bank Name": "SMURFIT KAPPA TREASURY",
@@ -5487,8 +5487,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHID",
-    "bankCode": "IE",
+    "bankCode": "SHID",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "SHIDIE2D",
     "Bank Name": "SODEXO FINANCE DESIGNATED ACTIVITY COMPANY",
@@ -5500,8 +5500,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFSN",
-    "bankCode": "IE",
+    "bankCode": "SFSN",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SFSNIE22",
     "Bank Name": "SOLDO FINANCIAL SERVICES IRELAND DAC",
@@ -5513,8 +5513,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFSD",
-    "bankCode": "IE",
+    "bankCode": "SFSD",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SFSDIE22",
     "Bank Name": "SOLDO FINANCIAL SERVICES IRELAND DAC",
@@ -5526,8 +5526,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SQIL",
-    "bankCode": "IE",
+    "bankCode": "SQIL",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SQILIE22",
     "Bank Name": "SQUAREUP INTERNATIONAL LIMITED",
@@ -5539,8 +5539,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "IE",
+    "bankCode": "SBOS",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "SBOSIE2D",
     "Bank Name": "STATE STREET FUND SERVICES (IRELAND) LIMITED",
@@ -5552,8 +5552,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "IE",
+    "bankCode": "SBOS",
+    "countryCode": "IE",
     "branchCode": "TAD",
     "SWIFT Code": "SBOSIE2DTAD",
     "Bank Name": "STATE STREET FUND SERVICES (IRELAND) LIMITED",
@@ -5565,8 +5565,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTO",
-    "bankCode": "IE",
+    "bankCode": "STTO",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "STTOIE22",
     "Bank Name": "STRIPE TECHNOLOGY EUROPE, LIMITED",
@@ -5578,8 +5578,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMFD",
-    "bankCode": "IE",
+    "bankCode": "SMFD",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "SMFDIE2D",
     "Bank Name": "SUMITOMO MITSUI FINANCE (DUBLIN) LTD",
@@ -5591,8 +5591,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUMU",
-    "bankCode": "IE",
+    "bankCode": "SUMU",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "SUMUIE22",
     "Bank Name": "SUMUP LIMITED",
@@ -5604,8 +5604,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDOM",
-    "bankCode": "IE",
+    "bankCode": "TDOM",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "TDOMIE2D",
     "Bank Name": "TD GLOBAL FINANCE UNLIMITED COMPANY",
@@ -5617,8 +5617,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "IE",
+    "bankCode": "BNYM",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BNYMIE2D",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA./NV, DUBLIN BRANCH",
@@ -5630,8 +5630,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRIF",
-    "bankCode": "IE",
+    "bankCode": "IRIF",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "IRIFIE2D",
     "Bank Name": "TRANE TECHNOLOGIES INTERNATIONAL FINANCE LIMITED",
@@ -5643,8 +5643,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRYE",
-    "bankCode": "IE",
+    "bankCode": "TRYE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "TRYEIE22",
     "Bank Name": "TRUELAYER IRELAND LIMITED",
@@ -5656,8 +5656,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ULSB",
-    "bankCode": "IE",
+    "bankCode": "ULSB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ULSBIE2D",
     "Bank Name": "ULSTER BANK IRELAND DAC",
@@ -5669,8 +5669,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ULSB",
-    "bankCode": "IE",
+    "bankCode": "ULSB",
+    "countryCode": "IE",
     "branchCode": "UCM",
     "SWIFT Code": "ULSBIE2DUCM",
     "Bank Name": "ULSTER BANK IRELAND DAC",
@@ -5682,8 +5682,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ULSB",
-    "bankCode": "IE",
+    "bankCode": "ULSB",
+    "countryCode": "IE",
     "branchCode": "ECO",
     "SWIFT Code": "ULSBIE2DECO",
     "Bank Name": "ULSTER BANK IRELAND DAC",
@@ -5695,8 +5695,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ULSB",
-    "bankCode": "IE",
+    "bankCode": "ULSB",
+    "countryCode": "IE",
     "branchCode": "MDK",
     "SWIFT Code": "ULSBIE2DMDK",
     "Bank Name": "ULSTER BANK IRELAND DAC",
@@ -5708,8 +5708,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IE",
+    "bankCode": "ROKL",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ROKLIE2D",
     "Bank Name": "UTMOST PANEUROPE DAC",
@@ -5721,8 +5721,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IE",
+    "bankCode": "ROKL",
+    "countryCode": "IE",
     "branchCode": "7UW",
     "SWIFT Code": "ROKLIE2D7UW",
     "Bank Name": "UTMOST PANEUROPE DAC",
@@ -5734,8 +5734,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IE",
+    "bankCode": "ROKL",
+    "countryCode": "IE",
     "branchCode": "QII",
     "SWIFT Code": "ROKLIE2DQII",
     "Bank Name": "UTMOST PANEUROPE DAC",
@@ -5747,8 +5747,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "IE",
+    "bankCode": "VPAY",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "VPAYIE22",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. IRISH BRANCH",
@@ -5760,8 +5760,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAYA",
-    "bankCode": "IE",
+    "bankCode": "WAYA",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "WAYAIE2D",
     "Bank Name": "WAYSTONE ASSET MANAGEMENT (IE) LIMITED",
@@ -5773,8 +5773,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "IE",
+    "bankCode": "PNBP",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "PNBPIE2D",
     "Bank Name": "WELLS FARGO BANK INTERNATIONAL UNLIMITED COMPANY",
@@ -5786,8 +5786,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CBE",
     "SWIFT Code": "ZURIIE2DCBE",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -5799,8 +5799,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CDK",
     "SWIFT Code": "ZURIIE2DCDK",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -5812,8 +5812,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CFI",
     "SWIFT Code": "ZURIIE2DCFI",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -5825,8 +5825,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CFR",
     "SWIFT Code": "ZURIIE2DCFR",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -5838,8 +5838,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "831",
     "SWIFT Code": "DABAIE2D831",
     "Bank Name": "DANSKE BANK A/S",
@@ -5851,8 +5851,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "504",
     "SWIFT Code": "DABAIE2D504",
     "Bank Name": "DANSKE BANK A/S",
@@ -5864,8 +5864,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "513",
     "SWIFT Code": "DABAIE2D513",
     "Bank Name": "DANSKE BANK A/S",
@@ -5877,8 +5877,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "592",
     "SWIFT Code": "DABAIE2D592",
     "Bank Name": "DANSKE BANK A/S",
@@ -5890,8 +5890,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "600",
     "SWIFT Code": "DABAIE2D600",
     "Bank Name": "DANSKE BANK A/S",
@@ -5903,8 +5903,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "601",
     "SWIFT Code": "DABAIE2D601",
     "Bank Name": "DANSKE BANK A/S",
@@ -5916,8 +5916,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "606",
     "SWIFT Code": "DABAIE2D606",
     "Bank Name": "DANSKE BANK A/S",
@@ -5929,8 +5929,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "611",
     "SWIFT Code": "DABAIE2D611",
     "Bank Name": "DANSKE BANK A/S",
@@ -5942,8 +5942,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "615",
     "SWIFT Code": "DABAIE2D615",
     "Bank Name": "DANSKE BANK A/S",
@@ -5955,8 +5955,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "621",
     "SWIFT Code": "DABAIE2D621",
     "Bank Name": "DANSKE BANK A/S",
@@ -5968,8 +5968,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "626",
     "SWIFT Code": "DABAIE2D626",
     "Bank Name": "DANSKE BANK A/S",
@@ -5981,8 +5981,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "631",
     "SWIFT Code": "DABAIE2D631",
     "Bank Name": "DANSKE BANK A/S",
@@ -5994,8 +5994,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "633",
     "SWIFT Code": "DABAIE2D633",
     "Bank Name": "DANSKE BANK A/S",
@@ -6007,8 +6007,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "636",
     "SWIFT Code": "DABAIE2D636",
     "Bank Name": "DANSKE BANK A/S",
@@ -6020,8 +6020,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "646",
     "SWIFT Code": "DABAIE2D646",
     "Bank Name": "DANSKE BANK A/S",
@@ -6033,8 +6033,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "648",
     "SWIFT Code": "DABAIE2D648",
     "Bank Name": "DANSKE BANK A/S",
@@ -6046,8 +6046,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "649",
     "SWIFT Code": "DABAIE2D649",
     "Bank Name": "DANSKE BANK A/S",
@@ -6059,8 +6059,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "653",
     "SWIFT Code": "DABAIE2D653",
     "Bank Name": "DANSKE BANK A/S",
@@ -6072,8 +6072,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "663",
     "SWIFT Code": "DABAIE2D663",
     "Bank Name": "DANSKE BANK A/S",
@@ -6085,8 +6085,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "666",
     "SWIFT Code": "DABAIE2D666",
     "Bank Name": "DANSKE BANK A/S",
@@ -6098,8 +6098,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "667",
     "SWIFT Code": "DABAIE2D667",
     "Bank Name": "DANSKE BANK A/S",
@@ -6111,8 +6111,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "668",
     "SWIFT Code": "DABAIE2D668",
     "Bank Name": "DANSKE BANK A/S",
@@ -6124,8 +6124,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "671",
     "SWIFT Code": "DABAIE2D671",
     "Bank Name": "DANSKE BANK A/S",
@@ -6137,8 +6137,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "676",
     "SWIFT Code": "DABAIE2D676",
     "Bank Name": "DANSKE BANK A/S",
@@ -6150,8 +6150,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "678",
     "SWIFT Code": "DABAIE2D678",
     "Bank Name": "DANSKE BANK A/S",
@@ -6163,8 +6163,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "680",
     "SWIFT Code": "DABAIE2D680",
     "Bank Name": "DANSKE BANK A/S",
@@ -6176,8 +6176,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "681",
     "SWIFT Code": "DABAIE2D681",
     "Bank Name": "DANSKE BANK A/S",
@@ -6189,8 +6189,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "683",
     "SWIFT Code": "DABAIE2D683",
     "Bank Name": "DANSKE BANK A/S",
@@ -6202,8 +6202,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "686",
     "SWIFT Code": "DABAIE2D686",
     "Bank Name": "DANSKE BANK A/S",
@@ -6215,8 +6215,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "687",
     "SWIFT Code": "DABAIE2D687",
     "Bank Name": "DANSKE BANK A/S",
@@ -6228,8 +6228,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "688",
     "SWIFT Code": "DABAIE2D688",
     "Bank Name": "DANSKE BANK A/S",
@@ -6241,8 +6241,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "697",
     "SWIFT Code": "DABAIE2D697",
     "Bank Name": "DANSKE BANK A/S",
@@ -6254,8 +6254,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "698",
     "SWIFT Code": "DABAIE2D698",
     "Bank Name": "DANSKE BANK A/S",
@@ -6267,8 +6267,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "699",
     "SWIFT Code": "DABAIE2D699",
     "Bank Name": "DANSKE BANK A/S",
@@ -6280,8 +6280,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "711",
     "SWIFT Code": "DABAIE2D711",
     "Bank Name": "DANSKE BANK A/S",
@@ -6293,8 +6293,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "716",
     "SWIFT Code": "DABAIE2D716",
     "Bank Name": "DANSKE BANK A/S",
@@ -6306,8 +6306,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "721",
     "SWIFT Code": "DABAIE2D721",
     "Bank Name": "DANSKE BANK A/S",
@@ -6319,8 +6319,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "723",
     "SWIFT Code": "DABAIE2D723",
     "Bank Name": "DANSKE BANK A/S",
@@ -6332,8 +6332,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "728",
     "SWIFT Code": "DABAIE2D728",
     "Bank Name": "DANSKE BANK A/S",
@@ -6345,8 +6345,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "731",
     "SWIFT Code": "DABAIE2D731",
     "Bank Name": "DANSKE BANK A/S",
@@ -6358,8 +6358,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "741",
     "SWIFT Code": "DABAIE2D741",
     "Bank Name": "DANSKE BANK A/S",
@@ -6371,8 +6371,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "744",
     "SWIFT Code": "DABAIE2D744",
     "Bank Name": "DANSKE BANK A/S",
@@ -6384,8 +6384,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "755",
     "SWIFT Code": "DABAIE2D755",
     "Bank Name": "DANSKE BANK A/S",
@@ -6397,8 +6397,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "756",
     "SWIFT Code": "DABAIE2D756",
     "Bank Name": "DANSKE BANK A/S",
@@ -6410,8 +6410,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "758",
     "SWIFT Code": "DABAIE2D758",
     "Bank Name": "DANSKE BANK A/S",
@@ -6423,8 +6423,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "843",
     "SWIFT Code": "DABAIE2D843",
     "Bank Name": "DANSKE BANK A/S",
@@ -6436,8 +6436,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "889",
     "SWIFT Code": "DABAIE2D889",
     "Bank Name": "DANSKE BANK A/S",
@@ -6449,8 +6449,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "834",
     "SWIFT Code": "DABAIE2D834",
     "Bank Name": "DANSKE BANK A/S",
@@ -6462,8 +6462,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "784",
     "SWIFT Code": "DABAIE2D784",
     "Bank Name": "DANSKE BANK A/S",
@@ -6475,8 +6475,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "916",
     "SWIFT Code": "DABAIE2D916",
     "Bank Name": "DANSKE BANK A/S",
@@ -6488,8 +6488,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "907",
     "SWIFT Code": "DABAIE2D907",
     "Bank Name": "DANSKE BANK A/S",
@@ -6501,8 +6501,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "782",
     "SWIFT Code": "DABAIE2D782",
     "Bank Name": "DANSKE BANK A/S",
@@ -6514,8 +6514,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "925",
     "SWIFT Code": "DABAIE2D925",
     "Bank Name": "DANSKE BANK A/S",
@@ -6527,8 +6527,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "501",
     "SWIFT Code": "DABAIE2D501",
     "Bank Name": "DANSKE BANK A/S",
@@ -6540,8 +6540,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "991",
     "SWIFT Code": "DABAIE2D991",
     "Bank Name": "DANSKE BANK A/S",
@@ -6553,8 +6553,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "937",
     "SWIFT Code": "DABAIE2D937",
     "Bank Name": "DANSKE BANK A/S",
@@ -6566,8 +6566,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "936",
     "SWIFT Code": "DABAIE2D936",
     "Bank Name": "DANSKE BANK A/S",
@@ -6579,8 +6579,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "900",
     "SWIFT Code": "DABAIE2D900",
     "Bank Name": "DANSKE BANK A/S",
@@ -6592,8 +6592,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "942",
     "SWIFT Code": "DABAIE2D942",
     "Bank Name": "DANSKE BANK A/S",
@@ -6605,8 +6605,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "785",
     "SWIFT Code": "DABAIE2D785",
     "Bank Name": "DANSKE BANK A/S",
@@ -6618,8 +6618,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "821",
     "SWIFT Code": "DABAIE2D821",
     "Bank Name": "DANSKE BANK A/S",
@@ -6631,8 +6631,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "902",
     "SWIFT Code": "DABAIE2D902",
     "Bank Name": "DANSKE BANK A/S",
@@ -6644,8 +6644,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "973",
     "SWIFT Code": "DABAIE2D973",
     "Bank Name": "DANSKE BANK A/S",
@@ -6657,8 +6657,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "903",
     "SWIFT Code": "DABAIE2D903",
     "Bank Name": "DANSKE BANK A/S",
@@ -6670,8 +6670,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "904",
     "SWIFT Code": "DABAIE2D904",
     "Bank Name": "DANSKE BANK A/S",
@@ -6683,8 +6683,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "781",
     "SWIFT Code": "DABAIE2D781",
     "Bank Name": "DANSKE BANK A/S",
@@ -6696,8 +6696,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "965",
     "SWIFT Code": "DABAIE2D965",
     "Bank Name": "DANSKE BANK A/S",
@@ -6709,8 +6709,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "899",
     "SWIFT Code": "DABAIE2D899",
     "Bank Name": "DANSKE BANK A/S",
@@ -6722,8 +6722,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "823",
     "SWIFT Code": "DABAIE2D823",
     "Bank Name": "DANSKE BANK A/S",
@@ -6735,8 +6735,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "913",
     "SWIFT Code": "DABAIE2D913",
     "Bank Name": "DANSKE BANK A/S",
@@ -6748,8 +6748,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "906",
     "SWIFT Code": "DABAIE2D906",
     "Bank Name": "DANSKE BANK A/S",
@@ -6761,8 +6761,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "972",
     "SWIFT Code": "DABAIE2D972",
     "Bank Name": "DANSKE BANK A/S",
@@ -6774,8 +6774,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "515",
     "SWIFT Code": "DABAIE2D515",
     "Bank Name": "DANSKE BANK A/S",
@@ -6787,8 +6787,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "836",
     "SWIFT Code": "DABAIE2D836",
     "Bank Name": "DANSKE BANK A/S",
@@ -6800,8 +6800,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "993",
     "SWIFT Code": "DABAIE2D993",
     "Bank Name": "DANSKE BANK A/S",
@@ -6813,8 +6813,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "946",
     "SWIFT Code": "DABAIE2D946",
     "Bank Name": "DANSKE BANK A/S",
@@ -6826,8 +6826,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "947",
     "SWIFT Code": "DABAIE2D947",
     "Bank Name": "DANSKE BANK A/S",
@@ -6839,8 +6839,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "971",
     "SWIFT Code": "DABAIE2D971",
     "Bank Name": "DANSKE BANK A/S",
@@ -6852,8 +6852,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "968",
     "SWIFT Code": "DABAIE2D968",
     "Bank Name": "DANSKE BANK A/S",
@@ -6865,8 +6865,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "951",
     "SWIFT Code": "DABAIE2D951",
     "Bank Name": "DANSKE BANK A/S",
@@ -6878,8 +6878,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "950",
     "SWIFT Code": "DABAIE2D950",
     "Bank Name": "DANSKE BANK A/S",
@@ -6891,8 +6891,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "817",
     "SWIFT Code": "DABAIE2D817",
     "Bank Name": "DANSKE BANK A/S",
@@ -6904,8 +6904,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "934",
     "SWIFT Code": "DABAIE2D934",
     "Bank Name": "DANSKE BANK A/S",
@@ -6917,8 +6917,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "987",
     "SWIFT Code": "DABAIE2D987",
     "Bank Name": "DANSKE BANK A/S",
@@ -6930,8 +6930,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "812",
     "SWIFT Code": "DABAIE2D812",
     "Bank Name": "DANSKE BANK A/S",
@@ -6943,8 +6943,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "813",
     "SWIFT Code": "DABAIE2D813",
     "Bank Name": "DANSKE BANK A/S",
@@ -6956,8 +6956,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "811",
     "SWIFT Code": "DABAIE2D811",
     "Bank Name": "DANSKE BANK A/S",
@@ -6969,8 +6969,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "935",
     "SWIFT Code": "DABAIE2D935",
     "Bank Name": "DANSKE BANK A/S",
@@ -6982,8 +6982,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "956",
     "SWIFT Code": "DABAIE2D956",
     "Bank Name": "DANSKE BANK A/S",
@@ -6995,8 +6995,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "978",
     "SWIFT Code": "DABAIE2D978",
     "Bank Name": "DANSKE BANK A/S",
@@ -7008,8 +7008,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "923",
     "SWIFT Code": "DABAIE2D923",
     "Bank Name": "DANSKE BANK A/S",
@@ -7021,8 +7021,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "503",
     "SWIFT Code": "DABAIE2D503",
     "Bank Name": "DANSKE BANK A/S",
@@ -7034,8 +7034,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "963",
     "SWIFT Code": "DABAIE2D963",
     "Bank Name": "DANSKE BANK A/S",
@@ -7047,8 +7047,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "945",
     "SWIFT Code": "DABAIE2D945",
     "Bank Name": "DANSKE BANK A/S",
@@ -7060,8 +7060,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "909",
     "SWIFT Code": "DABAIE2D909",
     "Bank Name": "DANSKE BANK A/S",
@@ -7073,8 +7073,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "818",
     "SWIFT Code": "DABAIE2D818",
     "Bank Name": "DANSKE BANK A/S",
@@ -7086,8 +7086,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "933",
     "SWIFT Code": "DABAIE2D933",
     "Bank Name": "DANSKE BANK A/S",
@@ -7099,8 +7099,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "962",
     "SWIFT Code": "DABAIE2D962",
     "Bank Name": "DANSKE BANK A/S",
@@ -7112,8 +7112,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "915",
     "SWIFT Code": "DABAIE2D915",
     "Bank Name": "DANSKE BANK A/S",
@@ -7125,8 +7125,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "IE",
+    "bankCode": "DABA",
+    "countryCode": "IE",
     "branchCode": "822",
     "SWIFT Code": "DABAIE2D822",
     "Bank Name": "DANSKE BANK A/S",
@@ -7138,8 +7138,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CGB",
     "SWIFT Code": "ZURIIE2DCGB",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7151,8 +7151,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CIT",
     "SWIFT Code": "ZURIIE2DCIT",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7164,8 +7164,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CNL",
     "SWIFT Code": "ZURIIE2DCNL",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7177,8 +7177,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CNO",
     "SWIFT Code": "ZURIIE2DCNO",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7190,8 +7190,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "CSE",
     "SWIFT Code": "ZURIIE2DCSE",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7203,8 +7203,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ZURIIE2D",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7216,8 +7216,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "PBS",
     "SWIFT Code": "ZURIIE2DPBS",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7229,8 +7229,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "IE",
+    "bankCode": "ZURI",
+    "countryCode": "IE",
     "branchCode": "ZLA",
     "SWIFT Code": "ZURIIE2DZLA",
     "Bank Name": "ZURICH INSURANCE PLC",
@@ -7242,8 +7242,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACNT",
-    "bankCode": "IE",
+    "bankCode": "ACNT",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "ACNTIE2D",
     "Bank Name": "ACCENTURE",
@@ -7255,8 +7255,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIBK",
-    "bankCode": "IE",
+    "bankCode": "AIBK",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "AIBKIE2D",
     "Bank Name": "AIB BANK",
@@ -7268,8 +7268,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMOA",
-    "bankCode": "IE",
+    "bankCode": "AMOA",
+    "countryCode": "IE",
     "branchCode": "E2C",
     "SWIFT Code": "AMOAIE2C",
     "Bank Name": "AMARENCO SOLAR LIMITED",
@@ -7281,8 +7281,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APXG",
-    "bankCode": "IE",
+    "bankCode": "APXG",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "APXGIE2D",
     "Bank Name": "APEX GROUP TREASURY LIMITED",
@@ -7294,8 +7294,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMUE",
-    "bankCode": "IE",
+    "bankCode": "AMUE",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "AMUEIE22",
     "Bank Name": "ARCHITAS MULTI-MANAGER EUROPE LIMITED",
@@ -7307,8 +7307,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFEE",
-    "bankCode": "IE",
+    "bankCode": "AFEE",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "AFEEIE2D",
     "Bank Name": "ASSOCIATED FOREIGN EXCHANGE IRELAND LIMITED",
@@ -7320,8 +7320,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARGI",
-    "bankCode": "IE",
+    "bankCode": "ARGI",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "ARGIIE22",
     "Bank Name": "AVENIR REGISTRARS (IE) LIMITED",
@@ -7333,8 +7333,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZIV",
-    "bankCode": "IE",
+    "bankCode": "AZIV",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "AZIVIE2D",
     "Bank Name": "AZIMUT INVESTMENTS LIMITED",
@@ -7346,8 +7346,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZLD",
-    "bankCode": "IE",
+    "bankCode": "AZLD",
+    "countryCode": "IE",
     "branchCode": "E22",
     "SWIFT Code": "AZLDIE22",
     "Bank Name": "AZIMUT LIFE DAC",
@@ -7359,8 +7359,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "E3X",
     "SWIFT Code": "BOFAIE3X",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7372,8 +7372,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "PLX",
     "SWIFT Code": "BOFAIE3XPLX",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7385,8 +7385,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "EQU",
     "SWIFT Code": "BOFAIE3XEQU",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7398,8 +7398,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "SBL",
     "SWIFT Code": "BOFAIE3XSBL",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7411,8 +7411,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "ITL",
     "SWIFT Code": "MLMBIE2XITL",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7424,8 +7424,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "TSY",
     "SWIFT Code": "BOFAIE3XTSY",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7437,8 +7437,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "TRD",
     "SWIFT Code": "BOFAIE3XTRD",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7450,8 +7450,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "LSG",
     "SWIFT Code": "BOFAIE3XLSG",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7463,8 +7463,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "CRD",
     "SWIFT Code": "BOFAIE3XCRD",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7476,8 +7476,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "E2X",
     "SWIFT Code": "MLMBIE2X",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7489,8 +7489,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "MLMBIE2D",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7502,8 +7502,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "ECL",
     "SWIFT Code": "BOFAIE3XECL",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7515,8 +7515,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "GFD",
     "SWIFT Code": "BOFAIE3XGFD",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7528,8 +7528,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "FIC",
     "SWIFT Code": "BOFAIE3XFIC",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7541,8 +7541,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "FUT",
     "SWIFT Code": "BOFAIE3XFUT",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7554,8 +7554,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "FUT",
     "SWIFT Code": "MLMBIE2XFUT",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7567,8 +7567,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "GDS",
     "SWIFT Code": "BOFAIE3XGDS",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7580,8 +7580,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "IFS",
     "SWIFT Code": "BOFAIE3XIFS",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7593,8 +7593,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "LTS",
     "SWIFT Code": "BOFAIE3XLTS",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7606,8 +7606,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "LON",
     "SWIFT Code": "MLMBIE2XLON",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7619,8 +7619,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "IE",
+    "bankCode": "BOFA",
+    "countryCode": "IE",
     "branchCode": "VAM",
     "SWIFT Code": "BOFAIE3XVAM",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7632,8 +7632,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "MCS",
     "SWIFT Code": "MLMBIE2DMCS",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7645,8 +7645,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "MSO",
     "SWIFT Code": "MLMBIE2XMSO",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7658,8 +7658,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "FFO",
     "SWIFT Code": "MLMBIE2XFFO",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7671,8 +7671,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "IST",
     "SWIFT Code": "MLMBIE2XIST",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7684,8 +7684,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "MTB",
     "SWIFT Code": "MLMBIE2XMTB",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7697,8 +7697,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "MET",
     "SWIFT Code": "MLMBIE2XMET",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7710,8 +7710,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLMB",
-    "bankCode": "IE",
+    "bankCode": "MLMB",
+    "countryCode": "IE",
     "branchCode": "TSY",
     "SWIFT Code": "MLMBIE2XTSY",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -7723,8 +7723,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "IE",
+    "bankCode": "BKCH",
+    "countryCode": "IE",
     "branchCode": "E3D",
     "SWIFT Code": "BKCHIE3D",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A. DUBLIN BRANCH",
@@ -7736,8 +7736,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFI",
-    "bankCode": "IE",
+    "bankCode": "BOFI",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BOFIIE2D",
     "Bank Name": "BANK OF IRELAND",
@@ -7749,8 +7749,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGT",
-    "bankCode": "IE",
+    "bankCode": "BIGT",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BIGTIE2D",
     "Bank Name": "BANK OF IRELAND (GLOBAL MARKETS)",
@@ -7762,8 +7762,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFM",
-    "bankCode": "IE",
+    "bankCode": "BOFM",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BOFMIE2D",
     "Bank Name": "BANK OF MONTREAL EUROPE PLC",
@@ -7775,8 +7775,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "GBS",
     "SWIFT Code": "BARCIE2DGBS",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7788,8 +7788,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "E3P",
     "SWIFT Code": "BARCIE3P",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7801,8 +7801,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "PTM",
     "SWIFT Code": "BARCIE2DPTM",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7814,8 +7814,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "MEM",
     "SWIFT Code": "BARCIE2DMEM",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7827,8 +7827,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "E2D",
     "SWIFT Code": "BARCIE2D",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7840,8 +7840,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "E2F",
     "SWIFT Code": "BARCIE2F",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7853,8 +7853,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "4SF",
     "SWIFT Code": "BARCIE2D4SF",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7866,8 +7866,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "TPS",
     "SWIFT Code": "BARCIE2DTPS",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",
@@ -7879,8 +7879,8 @@ const ireland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "IE",
+    "bankCode": "BARC",
+    "countryCode": "IE",
     "branchCode": "SEC",
     "SWIFT Code": "BARCIE2DSEC",
     "Bank Name": "BARCLAYS BANK IRELAND PLC",

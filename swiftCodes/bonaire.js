@@ -1,7 +1,7 @@
 const bonaire = [
   {
-    "countryCode": "BDCC",
-    "bankCode": "BQ",
+    "bankCode": "BDCC",
+    "countryCode": "BQ",
     "branchCode": "QBN",
     "SWIFT Code": "BDCCBQBN",
     "Bank Name": "BANCO DI CARIBE N.V. BONAIRE",
@@ -13,8 +13,8 @@ const bonaire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBK",
-    "bankCode": "BQ",
+    "bankCode": "MCBK",
+    "countryCode": "BQ",
     "branchCode": "QBN",
     "SWIFT Code": "MCBKBQBN",
     "Bank Name": "MADURO AND CURIEL'S BANK (BONAIRE) NV",
@@ -26,8 +26,8 @@ const bonaire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBA",
-    "bankCode": "BQ",
+    "bankCode": "ORBA",
+    "countryCode": "BQ",
     "branchCode": "QBN",
     "SWIFT Code": "ORBABQBN",
     "Bank Name": "ORCO BANK N.V. BONAIRE",
@@ -39,8 +39,8 @@ const bonaire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTT",
-    "bankCode": "BQ",
+    "bankCode": "RBTT",
+    "countryCode": "BQ",
     "branchCode": "QSA",
     "SWIFT Code": "RBTTBQSA",
     "Bank Name": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK N.V.)",
@@ -52,8 +52,8 @@ const bonaire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTT",
-    "bankCode": "BQ",
+    "bankCode": "RBTT",
+    "countryCode": "BQ",
     "branchCode": "QBN",
     "SWIFT Code": "RBTTBQBN",
     "Bank Name": "RBC ROYAL BANK N.V.(FORMERLY RBTT BANK N.V.)",

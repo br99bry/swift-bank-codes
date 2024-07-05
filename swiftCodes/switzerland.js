@@ -1,7 +1,7 @@
 const switzerland = [
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81G",
     "SWIFT Code": "CRESCHZZ81G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13,8 +13,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30M",
     "SWIFT Code": "CRESCHZZ30M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -26,8 +26,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30T",
     "SWIFT Code": "CRESCHZZ30T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -39,8 +39,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69G",
     "SWIFT Code": "CRESCHZZ69G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -52,8 +52,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "15C",
     "SWIFT Code": "CRESCHZZ15C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -65,8 +65,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88F",
     "SWIFT Code": "CRESCHZZ88F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -78,8 +78,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69L",
     "SWIFT Code": "CRESCHZZ69L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -91,8 +91,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69S",
     "SWIFT Code": "CRESCHZZ69S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -104,8 +104,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "75C",
     "SWIFT Code": "CRESCHZZ75C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -117,8 +117,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "29A",
     "SWIFT Code": "CRESCHZZ29A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -130,8 +130,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41H",
     "SWIFT Code": "CRESCHZZ41H",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -143,8 +143,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41R",
     "SWIFT Code": "CRESCHZZ41R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -156,8 +156,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10N",
     "SWIFT Code": "CRESCHZZ10N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -169,8 +169,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10S",
     "SWIFT Code": "CRESCHZZ10S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -182,8 +182,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86M",
     "SWIFT Code": "CRESCHZZ86M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -195,8 +195,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81A",
     "SWIFT Code": "CRESCHZZ81A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -208,8 +208,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41Q",
     "SWIFT Code": "CRESCHZZ41Q",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -221,8 +221,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41S",
     "SWIFT Code": "CRESCHZZ41S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -234,8 +234,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10P",
     "SWIFT Code": "CRESCHZZ10P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -247,8 +247,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "43A",
     "SWIFT Code": "CRESCHZZ43A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -260,8 +260,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41E",
     "SWIFT Code": "CRESCHZZ41E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -273,8 +273,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "85F",
     "SWIFT Code": "CRESCHZZ85F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -286,8 +286,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "16B",
     "SWIFT Code": "CRESCHZZ16B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -299,8 +299,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65C",
     "SWIFT Code": "CRESCHZZ65C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -312,8 +312,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "27M",
     "SWIFT Code": "CRESCHZZ27M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -325,8 +325,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "75B",
     "SWIFT Code": "CRESCHZZ75B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -338,8 +338,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "75L",
     "SWIFT Code": "CRESCHZZ75L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -351,8 +351,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60P",
     "SWIFT Code": "CRESCHZZ60P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -364,8 +364,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60U",
     "SWIFT Code": "CRESCHZZ60U",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -377,8 +377,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "19A",
     "SWIFT Code": "CRESCHZZ19A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -390,8 +390,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "82A",
     "SWIFT Code": "CRESCHZZ82A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -403,8 +403,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "82R",
     "SWIFT Code": "CRESCHZZ82R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -416,8 +416,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "89D",
     "SWIFT Code": "CRESCHZZ89D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -429,8 +429,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "50B",
     "SWIFT Code": "CRESCHZZ50B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -442,8 +442,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86B",
     "SWIFT Code": "CRESCHZZ86B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -455,8 +455,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "64A",
     "SWIFT Code": "CRESCHZZ64A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -468,8 +468,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "64E",
     "SWIFT Code": "CRESCHZZ64E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -481,8 +481,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "64R",
     "SWIFT Code": "CRESCHZZ64R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -494,8 +494,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "75H",
     "SWIFT Code": "CRESCHZZ75H",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -507,8 +507,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39L",
     "SWIFT Code": "CRESCHZZ39L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -520,8 +520,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39S",
     "SWIFT Code": "CRESCHZZ39S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -533,8 +533,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "19E",
     "SWIFT Code": "CRESCHZZ19E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -546,8 +546,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "19S",
     "SWIFT Code": "CRESCHZZ19S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -559,8 +559,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "45A",
     "SWIFT Code": "CRESCHZZ45A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -572,8 +572,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "45R",
     "SWIFT Code": "CRESCHZZ45R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -585,8 +585,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "90A",
     "SWIFT Code": "CRESCHZZ90A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -598,8 +598,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "AFG",
     "SWIFT Code": "CRESCHZZAFG",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -611,8 +611,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "90R",
     "SWIFT Code": "CRESCHZZ90R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -624,8 +624,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "90C",
     "SWIFT Code": "CRESCHZZ90C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -637,8 +637,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "26B",
     "SWIFT Code": "CRESCHZZ26B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -650,8 +650,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "CAD",
     "SWIFT Code": "CRESCHZHCAD",
     "Bank Name": "CREDIT SUISSE AG",
@@ -663,8 +663,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "CRESCHZH",
     "Bank Name": "CREDIT SUISSE AG",
@@ -676,8 +676,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSAM",
-    "bankCode": "CH",
+    "bankCode": "CSAM",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "CSAMCHZH",
     "Bank Name": "CREDIT SUISSE ASSET MANAGEMENT (SCHWEIZ) AG",
@@ -689,8 +689,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DATM",
-    "bankCode": "CH",
+    "bankCode": "DATM",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "DATMCH22",
     "Bank Name": "DATAMARS SA",
@@ -702,8 +702,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "DCB",
     "SWIFT Code": "RBABCH22DCB",
     "Bank Name": "DC BANK",
@@ -715,8 +715,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELE",
-    "bankCode": "CH",
+    "bankCode": "DELE",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "DELECHG2",
     "Bank Name": "DELEN SUISSE SA",
@@ -728,8 +728,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CH",
+    "bankCode": "DEUT",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "DEUTCHGG",
     "Bank Name": "DEUTSCHE BANK (SUISSE) SA - PRIVATE BANKING -",
@@ -741,8 +741,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CH",
+    "bankCode": "DEUT",
+    "countryCode": "CH",
     "branchCode": "LUG",
     "SWIFT Code": "DEUTCHGGLUG",
     "Bank Name": "DEUTSCHE BANK (SVIZZERA) SA LUGANO - PRIVATE BANKING -",
@@ -754,8 +754,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "CH",
+    "bankCode": "DEUT",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "DEUTCHZZ",
     "Bank Name": "DEUTSCHE BANK AG ZURICH BRANCH",
@@ -767,8 +767,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POCH",
-    "bankCode": "CH",
+    "bankCode": "POCH",
+    "countryCode": "CH",
     "branchCode": "H2B",
     "SWIFT Code": "POCHCH2B",
     "Bank Name": "DIE SCHWEIZERISCHE POST AG",
@@ -780,8 +780,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAMT",
-    "bankCode": "CH",
+    "bankCode": "KAMT",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "KAMTCHZZ",
     "Bank Name": "DORMAKABA INTERNATIONAL HOLDING AG",
@@ -793,8 +793,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUFR",
-    "bankCode": "CH",
+    "bankCode": "DUFR",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "DUFRCHBB",
     "Bank Name": "DUFRY INTERNATIONAL AG",
@@ -806,8 +806,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUBA",
-    "bankCode": "CH",
+    "bankCode": "DUBA",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "DUBACHGG",
     "Bank Name": "DUKASCOPY BANK SA",
@@ -819,8 +819,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENO",
-    "bankCode": "CH",
+    "bankCode": "GENO",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "GENOCHZZ",
     "Bank Name": "DZ PRIVATBANK (SCHWEIZ) AG",
@@ -832,8 +832,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGOE",
-    "bankCode": "CH",
+    "bankCode": "EGOE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EGOECH22",
     "Bank Name": "E.G.O. ELEKTRO-GERATE AG",
@@ -845,8 +845,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EATL",
-    "bankCode": "CH",
+    "bankCode": "EATL",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EATLCH22",
     "Bank Name": "ECOM AGROINDUSTRIAL CORP. LTD",
@@ -858,8 +858,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "CH",
+    "bankCode": "PRIB",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "PRIBCHGG",
     "Bank Name": "EDMOND DE ROTHSCHILD (SUISSE) S.A.",
@@ -871,8 +871,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "CH",
+    "bankCode": "EFGB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "EFGBCHZZ",
     "Bank Name": "EFG BANK AG",
@@ -884,8 +884,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "CH",
+    "bankCode": "EFGB",
+    "countryCode": "CH",
     "branchCode": "LTQ",
     "SWIFT Code": "EFGBCHZZLTQ",
     "Bank Name": "EFG BANK AG",
@@ -897,8 +897,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "CH",
+    "bankCode": "EFGB",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "EFGBCHGG",
     "Bank Name": "EFG BANK EUROPEAN FINANCIAL GROUP SA",
@@ -910,8 +910,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGZN",
-    "bankCode": "CH",
+    "bankCode": "EGZN",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "EGZNCHZZ",
     "Bank Name": "EGON ZEHNDER INTERNATIONAL AG",
@@ -923,8 +923,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFVB",
-    "bankCode": "CH",
+    "bankCode": "EFVB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EFVBCH22",
     "Bank Name": "EIDGENOESSISCHE FINANZVERWALTUNG",
@@ -936,8 +936,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFVB",
-    "bankCode": "CH",
+    "bankCode": "EFVB",
+    "countryCode": "CH",
     "branchCode": "ZVB",
     "SWIFT Code": "EFVBCH22ZVB",
     "Bank Name": "EIDGENOESSISCHE FINANZVERWALTUNG",
@@ -949,8 +949,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFVB",
-    "bankCode": "CH",
+    "bankCode": "EFVB",
+    "countryCode": "CH",
     "branchCode": "BVP",
     "SWIFT Code": "EFVBCH22BVP",
     "Bank Name": "EIDGENOESSISCHE FINANZVERWALTUNG",
@@ -962,8 +962,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELAL",
-    "bankCode": "CH",
+    "bankCode": "ELAL",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "ELALCHGG",
     "Bank Name": "ELEMENT ALPHA S.A.",
@@ -975,8 +975,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RBABCH22",
     "Bank Name": "ENTRIS BANKING AG",
@@ -988,8 +988,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "387",
     "SWIFT Code": "RBABCH22387",
     "Bank Name": "ERSPARNISKASSE AFFOLTERN I.E. AG",
@@ -1001,8 +1001,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "835",
     "SWIFT Code": "RBABCH22835",
     "Bank Name": "ERSPARNISKASSE SCHAFFHAUSEN",
@@ -1014,8 +1014,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHZ",
-    "bankCode": "CH",
+    "bankCode": "ETHZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ETHZCHZZ",
     "Bank Name": "ETH ZURICH",
@@ -1027,8 +1027,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUGR",
-    "bankCode": "CH",
+    "bankCode": "EUGR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EUGRCH22",
     "Bank Name": "EUROCHEM GROUP AG",
@@ -1040,8 +1040,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EURA",
-    "bankCode": "CH",
+    "bankCode": "EURA",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "EURACHBB",
     "Bank Name": "EUROFIMA EUROPEAN COMPANY FOR THE FINANCING OF RAILRAOAD ROLLING STOCK",
@@ -1053,8 +1053,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EZPA",
-    "bankCode": "CH",
+    "bankCode": "EZPA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EZPACH22",
     "Bank Name": "EZPADA AG",
@@ -1066,8 +1066,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPS",
-    "bankCode": "CH",
+    "bankCode": "NBPS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "NBPSCHGG",
     "Bank Name": "FAB PRIVATE BANK (SUISSE) S.A. (FORMERLY NBAD PRIVATE BANK (SUISSE) S.A.)",
@@ -1079,8 +1079,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOSW",
-    "bankCode": "CH",
+    "bankCode": "FOSW",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "FOSWCHZZ",
     "Bank Name": "FAMILY OFFICE SERVICES SWISSTRUST AG",
@@ -1092,8 +1092,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNTC",
-    "bankCode": "CH",
+    "bankCode": "FNTC",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "FNTCCH22",
     "Bank Name": "FERRING INTERNATIONAL CENTER SA",
@@ -1105,8 +1105,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIDH",
-    "bankCode": "CH",
+    "bankCode": "FIDH",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "FIDHCHGG",
     "Bank Name": "FIDURHONE S.A.",
@@ -1118,8 +1118,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNRT",
-    "bankCode": "CH",
+    "bankCode": "FNRT",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "FNRTCH22",
     "Bank Name": "FINCAPITAL PARTNER AG",
@@ -1131,8 +1131,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNPI",
-    "bankCode": "CH",
+    "bankCode": "FNPI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "FNPICH22",
     "Bank Name": "FINPENSION AG",
@@ -1144,8 +1144,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSAA",
-    "bankCode": "CH",
+    "bankCode": "FSAA",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "FSAACHZZ",
     "Bank Name": "FISCH ASSET MANAGEMENT AG",
@@ -1157,8 +1157,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLOK",
-    "bankCode": "CH",
+    "bankCode": "FLOK",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "FLOKCHGG",
     "Bank Name": "FLOWBANK SA",
@@ -1170,8 +1170,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLFN",
-    "bankCode": "CH",
+    "bankCode": "FLFN",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "FLFNCHG2",
     "Bank Name": "FLUID FINANCE SA",
@@ -1183,8 +1183,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPNE",
-    "bankCode": "CH",
+    "bankCode": "FPNE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "FPNECH22",
     "Bank Name": "FONDS DE PENSIONS NESTLE",
@@ -1196,8 +1196,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOFA",
-    "bankCode": "CH",
+    "bankCode": "FOFA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "FOFACH22",
     "Bank Name": "FORBO MANAGEMENT SA",
@@ -1209,8 +1209,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRAH",
-    "bankCode": "CH",
+    "bankCode": "FRAH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "FRAHCH22",
     "Bank Name": "FRANKE HOLDING AG",
@@ -1222,8 +1222,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBGS",
-    "bankCode": "CH",
+    "bankCode": "FBGS",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "FBGSCHZZ",
     "Bank Name": "FRANKFURTER BANKGESELLSCHAFT (SCHWEIZ) AG",
@@ -1235,8 +1235,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TETR",
-    "bankCode": "CH",
+    "bankCode": "TETR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TETRCH22",
     "Bank Name": "FREEMONT MANAGEMENT S.A.",
@@ -1248,8 +1248,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GALD",
-    "bankCode": "CH",
+    "bankCode": "GALD",
+    "countryCode": "CH",
     "branchCode": "H2L",
     "SWIFT Code": "GALDCH2L",
     "Bank Name": "GALDERMA SA",
@@ -1261,8 +1261,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLAM",
-    "bankCode": "CH",
+    "bankCode": "GLAM",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "GLAMCHZH",
     "Bank Name": "GAM INVESTMENT MANAGEMENT (SWITZERLAND) AG",
@@ -1274,8 +1274,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLAM",
-    "bankCode": "CH",
+    "bankCode": "GLAM",
+    "countryCode": "CH",
     "branchCode": "HZU",
     "SWIFT Code": "GLAMCHZU",
     "Bank Name": "GAM INVESTMENT MANAGEMENT (SWITZERLAND) AG",
@@ -1287,8 +1287,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLAM",
-    "bankCode": "CH",
+    "bankCode": "GLAM",
+    "countryCode": "CH",
     "branchCode": "AMR",
     "SWIFT Code": "GLAMCHZHAMR",
     "Bank Name": "GAM INVESTMENT MANAGEMENT (SWITZERLAND) AG",
@@ -1300,8 +1300,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "400",
     "SWIFT Code": "RAIFCH22400",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1313,8 +1313,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "324",
     "SWIFT Code": "RAIFCH22324",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1326,8 +1326,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "374",
     "SWIFT Code": "RAIFCH22374",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1339,8 +1339,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "364",
     "SWIFT Code": "RAIFCH22364",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1352,8 +1352,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "348",
     "SWIFT Code": "RAIFCH22348",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1365,8 +1365,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "296",
     "SWIFT Code": "RAIFCH22296",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1378,8 +1378,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "577",
     "SWIFT Code": "RAIFCH22577",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1391,8 +1391,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "123",
     "SWIFT Code": "RAIFCH22123",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1404,8 +1404,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "584",
     "SWIFT Code": "RAIFCH22584",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1417,8 +1417,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "589",
     "SWIFT Code": "RAIFCH22589",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1430,8 +1430,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "015",
     "SWIFT Code": "RAIFCH22015",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1443,8 +1443,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "108",
     "SWIFT Code": "RAIFCH22108",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1456,8 +1456,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "004",
     "SWIFT Code": "RAIFCH22004",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1469,8 +1469,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "613",
     "SWIFT Code": "RAIFCH22613",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1482,8 +1482,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "602",
     "SWIFT Code": "RAIFCH22602",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1495,8 +1495,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "608",
     "SWIFT Code": "RAIFCH22608",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1508,8 +1508,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "107",
     "SWIFT Code": "RAIFCH22107",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1521,8 +1521,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "585",
     "SWIFT Code": "RAIFCH22585",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1534,8 +1534,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "155",
     "SWIFT Code": "RAIFCH22155",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1547,8 +1547,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "428",
     "SWIFT Code": "RAIFCH22428",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1560,8 +1560,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "257",
     "SWIFT Code": "RAIFCH22257",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1573,8 +1573,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "093",
     "SWIFT Code": "RAIFCH22093",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1586,8 +1586,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "599",
     "SWIFT Code": "RAIFCH22599",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1599,8 +1599,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "480",
     "SWIFT Code": "RAIFCH22480",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1612,8 +1612,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "453",
     "SWIFT Code": "RAIFCH22453",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1625,8 +1625,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "117",
     "SWIFT Code": "RAIFCH22117",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1638,8 +1638,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "670",
     "SWIFT Code": "RAIFCH22670",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1651,8 +1651,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "928",
     "SWIFT Code": "RAIFCH22928",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1664,8 +1664,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "492",
     "SWIFT Code": "RAIFCH22492",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1677,8 +1677,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "651",
     "SWIFT Code": "RAIFCH22651",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1690,8 +1690,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "933",
     "SWIFT Code": "RAIFCH22933",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1703,8 +1703,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D79",
     "SWIFT Code": "RAIFCH22D79",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1716,8 +1716,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "493",
     "SWIFT Code": "RAIFCH22493",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1729,8 +1729,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A48",
     "SWIFT Code": "RAIFCH22A48",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1742,8 +1742,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "794",
     "SWIFT Code": "RAIFCH22794",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1755,8 +1755,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "894",
     "SWIFT Code": "RAIFCH22894",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1768,8 +1768,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "982",
     "SWIFT Code": "RAIFCH22982",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1781,8 +1781,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D81",
     "SWIFT Code": "RAIFCH22D81",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1794,8 +1794,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C63",
     "SWIFT Code": "RAIFCH22C63",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1807,8 +1807,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C44",
     "SWIFT Code": "RAIFCH22C44",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1820,8 +1820,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "683",
     "SWIFT Code": "RAIFCH22683",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1833,8 +1833,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "777",
     "SWIFT Code": "RAIFCH22777",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1846,8 +1846,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C67",
     "SWIFT Code": "RAIFCH22C67",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1859,8 +1859,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C45",
     "SWIFT Code": "RAIFCH22C45",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1872,8 +1872,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E72",
     "SWIFT Code": "RAIFCH22E72",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1885,8 +1885,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B83",
     "SWIFT Code": "RAIFCH22B83",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1898,8 +1898,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B84",
     "SWIFT Code": "RAIFCH22B84",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1911,8 +1911,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B64",
     "SWIFT Code": "RAIFCH22B64",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1924,8 +1924,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "955",
     "SWIFT Code": "RAIFCH22955",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1937,8 +1937,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C75",
     "SWIFT Code": "RAIFCH22C75",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1950,8 +1950,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B90",
     "SWIFT Code": "RAIFCH22B90",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1963,8 +1963,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B91",
     "SWIFT Code": "RAIFCH22B91",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1976,8 +1976,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B92",
     "SWIFT Code": "RAIFCH22B92",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -1989,8 +1989,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D63",
     "SWIFT Code": "RAIFCH22D63",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2002,8 +2002,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "964",
     "SWIFT Code": "RAIFCH22964",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2015,8 +2015,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "771",
     "SWIFT Code": "RAIFCH22771",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2028,8 +2028,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "873",
     "SWIFT Code": "RAIFCH22873",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2041,8 +2041,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "954",
     "SWIFT Code": "RAIFCH22954",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2054,8 +2054,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D01",
     "SWIFT Code": "RAIFCH22D01",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2067,8 +2067,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B97",
     "SWIFT Code": "RAIFCH22B97",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2080,8 +2080,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "899",
     "SWIFT Code": "RAIFCH22899",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2093,8 +2093,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C94",
     "SWIFT Code": "RAIFCH22C94",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2106,8 +2106,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "538",
     "SWIFT Code": "RAIFCH22538",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2119,8 +2119,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "853",
     "SWIFT Code": "RAIFCH22853",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2132,8 +2132,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E03",
     "SWIFT Code": "RAIFCH22E03",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2145,8 +2145,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "823",
     "SWIFT Code": "RAIFCH22823",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2158,8 +2158,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C31",
     "SWIFT Code": "RAIFCH22C31",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2171,8 +2171,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D03",
     "SWIFT Code": "RAIFCH22D03",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2184,8 +2184,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E09",
     "SWIFT Code": "RAIFCH22E09",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2197,8 +2197,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "977",
     "SWIFT Code": "RAIFCH22977",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2210,8 +2210,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E52",
     "SWIFT Code": "RAIFCH22E52",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2223,8 +2223,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E11",
     "SWIFT Code": "RAIFCH22E11",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2236,8 +2236,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "838",
     "SWIFT Code": "RAIFCH22838",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2249,8 +2249,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "904",
     "SWIFT Code": "RAIFCH22904",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2262,8 +2262,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "520",
     "SWIFT Code": "RAIFCH22520",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2275,8 +2275,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E61",
     "SWIFT Code": "RAIFCH22E61",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2288,8 +2288,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C22",
     "SWIFT Code": "RAIFCH22C22",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2301,8 +2301,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A47",
     "SWIFT Code": "RAIFCH22A47",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2314,8 +2314,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D58",
     "SWIFT Code": "RAIFCH22D58",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2327,8 +2327,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "968",
     "SWIFT Code": "RAIFCH22968",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2340,8 +2340,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "926",
     "SWIFT Code": "RAIFCH22926",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2353,8 +2353,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C80",
     "SWIFT Code": "RAIFCH22C80",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2366,8 +2366,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "985",
     "SWIFT Code": "RAIFCH22985",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2379,8 +2379,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "986",
     "SWIFT Code": "RAIFCH22986",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2392,8 +2392,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "496",
     "SWIFT Code": "RAIFCH22496",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2405,8 +2405,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "365",
     "SWIFT Code": "RAIFCH22365",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2418,8 +2418,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C23",
     "SWIFT Code": "RAIFCH22C23",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2431,8 +2431,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "817",
     "SWIFT Code": "RAIFCH22817",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2444,8 +2444,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D07",
     "SWIFT Code": "RAIFCH22D07",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2457,8 +2457,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "862",
     "SWIFT Code": "RAIFCH22862",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2470,8 +2470,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "527",
     "SWIFT Code": "RAIFCH22527",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2483,8 +2483,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E12",
     "SWIFT Code": "RAIFCH22E12",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2496,8 +2496,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "366",
     "SWIFT Code": "RAIFCH22366",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2509,8 +2509,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E90",
     "SWIFT Code": "RAIFCH22E90",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2522,8 +2522,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "784",
     "SWIFT Code": "RAIFCH22784",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2535,8 +2535,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "465",
     "SWIFT Code": "RAIFCH22465",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2548,8 +2548,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E14",
     "SWIFT Code": "RAIFCH22E14",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2561,8 +2561,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "626",
     "SWIFT Code": "RAIFCH22626",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2574,8 +2574,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "867",
     "SWIFT Code": "RAIFCH22867",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2587,8 +2587,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "819",
     "SWIFT Code": "RAIFCH22819",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2600,8 +2600,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E71",
     "SWIFT Code": "RAIFCH22E71",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2613,8 +2613,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "627",
     "SWIFT Code": "RAIFCH22627",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2626,8 +2626,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "581",
     "SWIFT Code": "RAIFCH22581",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2639,8 +2639,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "281",
     "SWIFT Code": "RAIFCH22281",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2652,8 +2652,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "215",
     "SWIFT Code": "RAIFCH22215",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2665,8 +2665,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "187",
     "SWIFT Code": "RAIFCH22187",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2678,8 +2678,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "073",
     "SWIFT Code": "RAIFCH22073",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2691,8 +2691,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "159",
     "SWIFT Code": "RAIFCH22159",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2704,8 +2704,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "736",
     "SWIFT Code": "RAIFCH22736",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2717,8 +2717,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "588",
     "SWIFT Code": "RAIFCH22588",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2730,8 +2730,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "553",
     "SWIFT Code": "RAIFCH22553",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2743,8 +2743,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "499",
     "SWIFT Code": "RAIFCH22499",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2756,8 +2756,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E16",
     "SWIFT Code": "RAIFCH22E16",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2769,8 +2769,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D13",
     "SWIFT Code": "RAIFCH22D13",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2782,8 +2782,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D14",
     "SWIFT Code": "RAIFCH22D14",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2795,8 +2795,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D17",
     "SWIFT Code": "RAIFCH22D17",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2808,8 +2808,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D80",
     "SWIFT Code": "RAIFCH22D80",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2821,8 +2821,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "740",
     "SWIFT Code": "RAIFCH22740",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2834,8 +2834,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D19",
     "SWIFT Code": "RAIFCH22D19",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2847,8 +2847,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D20",
     "SWIFT Code": "RAIFCH22D20",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2860,8 +2860,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C11",
     "SWIFT Code": "RAIFCH22C11",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2873,8 +2873,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E85",
     "SWIFT Code": "RAIFCH22E85",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2886,8 +2886,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D23",
     "SWIFT Code": "RAIFCH22D23",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2899,8 +2899,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "744",
     "SWIFT Code": "RAIFCH22744",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2912,8 +2912,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D56",
     "SWIFT Code": "RAIFCH22D56",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2925,8 +2925,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "905",
     "SWIFT Code": "RAIFCH22905",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2938,8 +2938,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "746",
     "SWIFT Code": "RAIFCH22746",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2951,8 +2951,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "747",
     "SWIFT Code": "RAIFCH22747",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2964,8 +2964,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "472",
     "SWIFT Code": "RAIFCH22472",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2977,8 +2977,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "748",
     "SWIFT Code": "RAIFCH22748",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -2990,8 +2990,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E17",
     "SWIFT Code": "RAIFCH22E17",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3003,8 +3003,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "721",
     "SWIFT Code": "RAIFCH22721",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3016,8 +3016,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E81",
     "SWIFT Code": "RAIFCH22E81",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3029,8 +3029,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E87",
     "SWIFT Code": "RAIFCH22E87",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3042,8 +3042,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "ZBX",
     "SWIFT Code": "RAIFCH22ZBX",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3055,8 +3055,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "749",
     "SWIFT Code": "RAIFCH22749",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3068,8 +3068,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E59",
     "SWIFT Code": "RAIFCH22E59",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3081,8 +3081,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "856",
     "SWIFT Code": "RAIFCH22856",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -3094,8 +3094,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "828",
     "SWIFT Code": "RBABCH22828",
     "Bank Name": "REGIOBANK MAENNEDORF AG",
@@ -3107,8 +3107,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSOS",
-    "bankCode": "CH",
+    "bankCode": "RSOS",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RSOSCH22",
     "Bank Name": "REGIOBANK SOLOTHURN AG",
@@ -3120,8 +3120,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REHV",
-    "bankCode": "CH",
+    "bankCode": "REHV",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "REHVCH22",
     "Bank Name": "REHAU VERWALTUNGSZENTRALE AG",
@@ -3133,8 +3133,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REIC",
-    "bankCode": "CH",
+    "bankCode": "REIC",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "REICCH22",
     "Bank Name": "REICHMUTH AND CO",
@@ -3146,8 +3146,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REOI",
-    "bankCode": "CH",
+    "bankCode": "REOI",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "REOICHZ2",
     "Bank Name": "RELIO AG",
@@ -3159,8 +3159,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMCO",
-    "bankCode": "CH",
+    "bankCode": "RMCO",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "RMCOCHBB",
     "Bank Name": "REMACO ASSET MANAGEMENT AG",
@@ -3172,8 +3172,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENO",
-    "bankCode": "CH",
+    "bankCode": "RENO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RENOCH22",
     "Bank Name": "RENAULT FINANCE S.A.",
@@ -3185,8 +3185,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPW",
-    "bankCode": "CH",
+    "bankCode": "REPW",
+    "countryCode": "CH",
     "branchCode": "H23",
     "SWIFT Code": "REPWCH23",
     "Bank Name": "REPOWER AG",
@@ -3198,8 +3198,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REYL",
-    "bankCode": "CH",
+    "bankCode": "REYL",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "REYLCHGG",
     "Bank Name": "REYL ET CIE S.A.",
@@ -3211,8 +3211,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPCH",
-    "bankCode": "CH",
+    "bankCode": "SPCH",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "SPCHCHGG",
     "Bank Name": "REYL ET CIE S.A. (FORMERLY INTESA SANPAOLO PRIVATE BANK (SUISSE) MORVAL SA)",
@@ -3224,8 +3224,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RISA",
-    "bankCode": "CH",
+    "bankCode": "RISA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RISACH22",
     "Bank Name": "RICHEMONT INTERNATIONAL SA",
@@ -3237,8 +3237,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIFZ",
-    "bankCode": "CH",
+    "bankCode": "RIFZ",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RIFZCH22",
     "Bank Name": "RIEKER FINANZ AG",
@@ -3250,8 +3250,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRE",
-    "bankCode": "CH",
+    "bankCode": "SWRE",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "SWRECHZH",
     "Bank Name": "SWISS REINSURANCE COMPANY",
@@ -3263,8 +3263,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRE",
-    "bankCode": "CH",
+    "bankCode": "SWRE",
+    "countryCode": "CH",
     "branchCode": "CMN",
     "SWIFT Code": "SWRECHZHCMN",
     "Bank Name": "SWISS REINSURANCE COMPANY",
@@ -3276,8 +3276,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRE",
-    "bankCode": "CH",
+    "bankCode": "SWRE",
+    "countryCode": "CH",
     "branchCode": "SWR",
     "SWIFT Code": "SWRECHZHSWR",
     "Bank Name": "SWISS REINSURANCE COMPANY",
@@ -3289,8 +3289,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRE",
-    "bankCode": "CH",
+    "bankCode": "SWRE",
+    "countryCode": "CH",
     "branchCode": "TRX",
     "SWIFT Code": "SWRECHZHTRX",
     "Bank Name": "SWISS REINSURANCE COMPANY",
@@ -3302,8 +3302,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRE",
-    "bankCode": "CH",
+    "bankCode": "SWRE",
+    "countryCode": "CH",
     "branchCode": "INV",
     "SWIFT Code": "SWRECHZHINV",
     "Bank Name": "SWISS REINSURANCE COMPANY",
@@ -3315,8 +3315,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IWSS",
-    "bankCode": "CH",
+    "bankCode": "IWSS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "IWSSCHGG",
     "Bank Name": "SWISS4.0 SA",
@@ -3328,8 +3328,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIP",
-    "bankCode": "CH",
+    "bankCode": "SWIP",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "SWIPCHZH",
     "Bank Name": "SWISSCANTO FONDSLEITUNG AG",
@@ -3341,8 +3341,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWQB",
-    "bankCode": "CH",
+    "bankCode": "SWQB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SWQBCHZZ",
     "Bank Name": "SWISSQUOTE BANK",
@@ -3354,8 +3354,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWQB",
-    "bankCode": "CH",
+    "bankCode": "SWQB",
+    "countryCode": "CH",
     "branchCode": "ISP",
     "SWIFT Code": "SWQBCHZZISP",
     "Bank Name": "SWISSQUOTE BANK",
@@ -3367,8 +3367,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWQB",
-    "bankCode": "CH",
+    "bankCode": "SWQB",
+    "countryCode": "CH",
     "branchCode": "LEN",
     "SWIFT Code": "SWQBCHZZLEN",
     "Bank Name": "SWISSQUOTE BANK",
@@ -3380,8 +3380,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWQB",
-    "bankCode": "CH",
+    "bankCode": "SWQB",
+    "countryCode": "CH",
     "branchCode": "ISL",
     "SWIFT Code": "SWQBCHZZISL",
     "Bank Name": "SWISSQUOTE BANK",
@@ -3393,8 +3393,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYGN",
-    "bankCode": "CH",
+    "bankCode": "SYGN",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SYGNCHZZ",
     "Bank Name": "SYGNUM BANK AG",
@@ -3406,8 +3406,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYNG",
-    "bankCode": "CH",
+    "bankCode": "SYNG",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "SYNGCHBB",
     "Bank Name": "SYNGENTA CROP PROTECTION AG",
@@ -3419,8 +3419,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TARS",
-    "bankCode": "CH",
+    "bankCode": "TARS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "TARSCHGG",
     "Bank Name": "TAURUS SA",
@@ -3432,8 +3432,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEAN",
-    "bankCode": "CH",
+    "bankCode": "TEAN",
+    "countryCode": "CH",
     "branchCode": "H2M",
     "SWIFT Code": "TEANCH2M",
     "Bank Name": "TECAN TRADING AG",
@@ -3445,8 +3445,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOMI",
-    "bankCode": "CH",
+    "bankCode": "DOMI",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "DOMICHZZ",
     "Bank Name": "TELLCO AG",
@@ -3458,8 +3458,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEPA",
-    "bankCode": "CH",
+    "bankCode": "TEPA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TEPACH22",
     "Bank Name": "TETRA PAK INTERNATIONAL S.A.",
@@ -3471,8 +3471,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGFS",
-    "bankCode": "CH",
+    "bankCode": "TGFS",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TGFSCH22",
     "Bank Name": "THE GLOBAL FUND TO FIGHT AIDS, TUBERCULOSIS AND MALARIA",
@@ -3484,8 +3484,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "85D",
     "SWIFT Code": "KBTGCH2285D",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3497,8 +3497,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "93B",
     "SWIFT Code": "KBTGCH2293B",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3510,8 +3510,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "92B",
     "SWIFT Code": "KBTGCH2292B",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3523,8 +3523,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "85A",
     "SWIFT Code": "KBTGCH2285A",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3536,8 +3536,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "82P",
     "SWIFT Code": "KBTGCH2282P",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3549,8 +3549,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "85F",
     "SWIFT Code": "KBTGCH2285F",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3562,8 +3562,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "83L",
     "SWIFT Code": "KBTGCH2283L",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3575,8 +3575,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "82M",
     "SWIFT Code": "KBTGCH2282M",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3588,8 +3588,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBTG",
-    "bankCode": "CH",
+    "bankCode": "KBTG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBTGCH22",
     "Bank Name": "THURGAUER KANTONALBANK",
@@ -3601,8 +3601,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMSR",
-    "bankCode": "CH",
+    "bankCode": "TMSR",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "TMSRCHG2",
     "Bank Name": "TMF SERVICES SA",
@@ -3614,8 +3614,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLBZ",
-    "bankCode": "CH",
+    "bankCode": "SLBZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SLBZCHZZ",
     "Bank Name": "TRADEXBANK AG",
@@ -3627,8 +3627,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRAP",
-    "bankCode": "CH",
+    "bankCode": "TRAP",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "TRAPCHBB",
     "Bank Name": "TRAFINA PRIVATBANK AG",
@@ -3640,8 +3640,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRRM",
-    "bankCode": "CH",
+    "bankCode": "TRRM",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TRRMCH22",
     "Bank Name": "TRANSFERMATE AG",
@@ -3653,8 +3653,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSSW",
-    "bankCode": "CH",
+    "bankCode": "TSSW",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TSSWCH22",
     "Bank Name": "TURBO SYSTEMS SCHWEIZ AG",
@@ -3666,8 +3666,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TYFI",
-    "bankCode": "CH",
+    "bankCode": "TYFI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TYFICH22",
     "Bank Name": "TYROLIT FINANZ AG",
@@ -3679,8 +3679,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSB",
-    "bankCode": "CH",
+    "bankCode": "UBSB",
+    "countryCode": "CH",
     "branchCode": "CLS",
     "SWIFT Code": "UBSBCHZZCLS",
     "Bank Name": "UBS AG",
@@ -3692,8 +3692,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSB",
-    "bankCode": "CH",
+    "bankCode": "UBSB",
+    "countryCode": "CH",
     "branchCode": "PBR",
     "SWIFT Code": "UBSBCHZZPBR",
     "Bank Name": "UBS AG",
@@ -3705,8 +3705,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSB",
-    "bankCode": "CH",
+    "bankCode": "UBSB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "UBSBCHZZ",
     "Bank Name": "UBS AG",
@@ -3718,8 +3718,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSB",
-    "bankCode": "CH",
+    "bankCode": "UBSB",
+    "countryCode": "CH",
     "branchCode": "SCI",
     "SWIFT Code": "UBSBCHZZSCI",
     "Bank Name": "UBS AG",
@@ -3731,8 +3731,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSB",
-    "bankCode": "CH",
+    "bankCode": "UBSB",
+    "countryCode": "CH",
     "branchCode": "ETD",
     "SWIFT Code": "UBSBCHZZETD",
     "Bank Name": "UBS AG",
@@ -3744,8 +3744,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSB",
-    "bankCode": "CH",
+    "bankCode": "UBSB",
+    "countryCode": "CH",
     "branchCode": "LCH",
     "SWIFT Code": "UBSBCHZZLCH",
     "Bank Name": "UBS AG",
@@ -3757,8 +3757,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSA",
-    "bankCode": "CH",
+    "bankCode": "UBSA",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "UBSACHZZ",
     "Bank Name": "UBS ASSET MANAGEMENT SWITZERLAND AG",
@@ -3770,8 +3770,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBCC",
-    "bankCode": "CH",
+    "bankCode": "UBCC",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "UBCCCHZZ",
     "Bank Name": "UBS CARD CENTER AG",
@@ -3783,8 +3783,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSG",
-    "bankCode": "CH",
+    "bankCode": "UBSG",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "UBSGCHZH",
     "Bank Name": "UBS GROUP AG",
@@ -3796,8 +3796,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "50A",
     "SWIFT Code": "UBSWCHZH50A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3809,8 +3809,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "89E",
     "SWIFT Code": "UBSWCHZH89E",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3822,8 +3822,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "94N",
     "SWIFT Code": "UBSWCHZH94N",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3835,8 +3835,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "93A",
     "SWIFT Code": "UBSWCHZH93A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3848,8 +3848,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "70E",
     "SWIFT Code": "UBSWCHZH70E",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3861,8 +3861,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "54A",
     "SWIFT Code": "UBSWCHZH54A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3874,8 +3874,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "40A",
     "SWIFT Code": "UBSWCHZH40A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3887,8 +3887,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "40M",
     "SWIFT Code": "UBSWCHZH40M",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -3900,8 +3900,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60S",
     "SWIFT Code": "LUKBCH2260S",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3913,8 +3913,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60B",
     "SWIFT Code": "LUKBCH2260B",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3926,8 +3926,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60A",
     "SWIFT Code": "LUKBCH2260A",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3939,8 +3939,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "LUKBCH22",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3952,8 +3952,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60L",
     "SWIFT Code": "LUKBCH2260L",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3965,8 +3965,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62H",
     "SWIFT Code": "LUKBCH2262H",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3978,8 +3978,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60T",
     "SWIFT Code": "LUKBCH2260T",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -3991,8 +3991,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60U",
     "SWIFT Code": "LUKBCH2260U",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4004,8 +4004,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60V",
     "SWIFT Code": "LUKBCH2260V",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4017,8 +4017,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "61F",
     "SWIFT Code": "LUKBCH2261F",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4030,8 +4030,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62A",
     "SWIFT Code": "LUKBCH2262A",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4043,8 +4043,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "61H",
     "SWIFT Code": "LUKBCH2261H",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4056,8 +4056,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62C",
     "SWIFT Code": "LUKBCH2262C",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4069,8 +4069,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "63W",
     "SWIFT Code": "LUKBCH2263W",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4082,8 +4082,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "61C",
     "SWIFT Code": "LUKBCH2261C",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4095,8 +4095,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "61B",
     "SWIFT Code": "LUKBCH2261B",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -4108,8 +4108,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAEB",
-    "bankCode": "CH",
+    "bankCode": "MAEB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "MAEBCHZZ",
     "Bank Name": "MAERKI BAUMANN UND CO. AG",
@@ -4121,8 +4121,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMIS",
-    "bankCode": "CH",
+    "bankCode": "AMIS",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "AMISCH22",
     "Bank Name": "MANTU GROUP S.A.",
@@ -4134,8 +4134,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAAF",
-    "bankCode": "CH",
+    "bankCode": "MAAF",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "MAAFCHZ2",
     "Bank Name": "MARCUARD FAMILY OFFICE LTD.",
@@ -4147,8 +4147,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBME",
-    "bankCode": "CH",
+    "bankCode": "MBME",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "MBMECHZZ",
     "Bank Name": "MBAER MERCHANT BANK AG",
@@ -4160,8 +4160,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMR",
-    "bankCode": "CH",
+    "bankCode": "BAMR",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BAMRCHZZ",
     "Bank Name": "MERCANTIL BANK (SCHWEIZ) AG",
@@ -4173,8 +4173,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MERC",
-    "bankCode": "CH",
+    "bankCode": "MERC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MERCCHGG",
     "Bank Name": "MERCURIA ENERGY TRADING SA",
@@ -4186,8 +4186,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "META",
-    "bankCode": "CH",
+    "bankCode": "META",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "METACH22",
     "Bank Name": "METALOR TECHNOLOGIES SA",
@@ -4199,8 +4199,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIAG",
-    "bankCode": "CH",
+    "bankCode": "MIAG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "MIAGCH22",
     "Bank Name": "METRO INTERNATIONAL AG",
@@ -4212,8 +4212,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "50A",
     "SWIFT Code": "MIGRCHZZ50A",
     "Bank Name": "MIGROS BANK",
@@ -4225,8 +4225,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "40A",
     "SWIFT Code": "MIGRCHZZ40A",
     "Bank Name": "MIGROS BANK",
@@ -4238,8 +4238,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "30A",
     "SWIFT Code": "MIGRCHZZ30A",
     "Bank Name": "MIGROS BANK",
@@ -4251,8 +4251,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "17A",
     "SWIFT Code": "MIGRCHZZ17A",
     "Bank Name": "MIGROS BANK",
@@ -4264,8 +4264,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "12A",
     "SWIFT Code": "MIGRCHZZ12A",
     "Bank Name": "MIGROS BANK",
@@ -4277,8 +4277,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "10A",
     "SWIFT Code": "MIGRCHZZ10A",
     "Bank Name": "MIGROS BANK",
@@ -4290,8 +4290,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "60A",
     "SWIFT Code": "MIGRCHZZ60A",
     "Bank Name": "MIGROS BANK",
@@ -4303,8 +4303,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "69A",
     "SWIFT Code": "MIGRCHZZ69A",
     "Bank Name": "MIGROS BANK",
@@ -4316,8 +4316,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "19A",
     "SWIFT Code": "MIGRCHZZ19A",
     "Bank Name": "MIGROS BANK",
@@ -4329,8 +4329,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "90A",
     "SWIFT Code": "MIGRCHZZ90A",
     "Bank Name": "MIGROS BANK",
@@ -4342,8 +4342,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "KEY",
     "SWIFT Code": "MIGRCHZZKEY",
     "Bank Name": "MIGROS BANK",
@@ -4355,8 +4355,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "84A",
     "SWIFT Code": "MIGRCHZZ84A",
     "Bank Name": "MIGROS BANK",
@@ -4368,8 +4368,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "MIGRCHZZ",
     "Bank Name": "MIGROS BANK",
@@ -4381,8 +4381,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGR",
-    "bankCode": "CH",
+    "bankCode": "MIGR",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "MIGRCHZZ80A",
     "Bank Name": "MIGROS BANK",
@@ -4394,8 +4394,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRA",
-    "bankCode": "CH",
+    "bankCode": "MIRA",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MIRACHGG",
     "Bank Name": "MIRABAUD AND CIE SA",
@@ -4407,8 +4407,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRA",
-    "bankCode": "CH",
+    "bankCode": "MIRA",
+    "countryCode": "CH",
     "branchCode": "INS",
     "SWIFT Code": "MIRACHGGINS",
     "Bank Name": "MIRABAUD AND CIE SA",
@@ -4420,8 +4420,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRM",
-    "bankCode": "CH",
+    "bankCode": "MIRM",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MIRMCHGG",
     "Bank Name": "MIRABAUD ASSET MANAGEMENT (SUISSE) SA",
@@ -4433,8 +4433,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKSG",
-    "bankCode": "CH",
+    "bankCode": "MKSG",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MKSGCHGG",
     "Bank Name": "MKS PAMP SA",
@@ -4446,8 +4446,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOMT",
-    "bankCode": "CH",
+    "bankCode": "MOMT",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "MOMTCH22",
     "Bank Name": "MOMENTUM ALTERNATIVE INVESTMENTS SA",
@@ -4459,8 +4459,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOGR",
-    "bankCode": "CH",
+    "bankCode": "MOGR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "MOGRCH22",
     "Bank Name": "MONETUM GROUP AG",
@@ -4472,8 +4472,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "CH",
+    "bankCode": "MSSA",
+    "countryCode": "CH",
     "branchCode": "FXO",
     "SWIFT Code": "MSSACHZXFXO",
     "Bank Name": "MORGAN STANLEY (SWITZERLAND) GMBH",
@@ -4485,8 +4485,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "CH",
+    "bankCode": "MSSA",
+    "countryCode": "CH",
     "branchCode": "LMT",
     "SWIFT Code": "MSSACHZXLMT",
     "Bank Name": "MORGAN STANLEY (SWITZERLAND) GMBH",
@@ -4498,8 +4498,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "CH",
+    "bankCode": "MSSA",
+    "countryCode": "CH",
     "branchCode": "MIS",
     "SWIFT Code": "MSSACHZXMIS",
     "Bank Name": "MORGAN STANLEY (SWITZERLAND) GMBH",
@@ -4511,8 +4511,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "CH",
+    "bankCode": "MSSA",
+    "countryCode": "CH",
     "branchCode": "SWI",
     "SWIFT Code": "MSSACHZXSWI",
     "Bank Name": "MORGAN STANLEY (SWITZERLAND) GMBH",
@@ -4524,8 +4524,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "CH",
+    "bankCode": "MSSA",
+    "countryCode": "CH",
     "branchCode": "HZX",
     "SWIFT Code": "MSSACHZX",
     "Bank Name": "MORGAN STANLEY (SWITZERLAND) GMBH",
@@ -4537,8 +4537,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSSA",
-    "bankCode": "CH",
+    "bankCode": "MSSA",
+    "countryCode": "CH",
     "branchCode": "GPR",
     "SWIFT Code": "MSSACHZXGPR",
     "Bank Name": "MORGAN STANLEY (SWITZERLAND) GMBH",
@@ -4550,8 +4550,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSRU",
-    "bankCode": "CH",
+    "bankCode": "MSRU",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MSRUCHGG",
     "Bank Name": "MSC CRUISES SA",
@@ -4563,8 +4563,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "CH",
+    "bankCode": "RBOS",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "RBOSCHZH",
     "Bank Name": "NATWEST SERVICES (SWITZERLAND) AG",
@@ -4576,8 +4576,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "CH",
+    "bankCode": "NBOK",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "NBOKCHGG",
     "Bank Name": "NBK BANQUE PRIVEE (SUISSE) S.A.",
@@ -4589,8 +4589,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESN",
-    "bankCode": "CH",
+    "bankCode": "NESN",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "NESNCH22",
     "Bank Name": "NESTLE S.A.",
@@ -4602,8 +4602,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXO",
-    "bankCode": "CH",
+    "bankCode": "NEXO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "NEXOCH22",
     "Bank Name": "NEXO AG",
@@ -4615,8 +4615,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIKA",
-    "bankCode": "CH",
+    "bankCode": "NIKA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "NIKACH22",
     "Bank Name": "NIDWALDNER KANTONALBANK",
@@ -4628,8 +4628,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOKF",
-    "bankCode": "CH",
+    "bankCode": "NOKF",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "NOKFCHGG",
     "Bank Name": "NOKIA CORPORATION",
@@ -4641,8 +4641,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSZ",
-    "bankCode": "CH",
+    "bankCode": "NBSZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "NBSZCHZZ",
     "Bank Name": "NOMURA BANK (SWITZERLAND) LTD.",
@@ -4654,8 +4654,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSF",
-    "bankCode": "CH",
+    "bankCode": "UBSF",
+    "countryCode": "CH",
     "branchCode": "HBS",
     "SWIFT Code": "UBSFCHBS",
     "Bank Name": "NORTHERN TRUST GLOBAL SERVICES SE",
@@ -4667,8 +4667,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVA",
-    "bankCode": "CH",
+    "bankCode": "NOVA",
+    "countryCode": "CH",
     "branchCode": "H2L",
     "SWIFT Code": "NOVACH2L",
     "Bank Name": "NOVA MARINE CARRIERS S.A.",
@@ -4680,8 +4680,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "175",
     "SWIFT Code": "NOVRCHBS175",
     "Bank Name": "NOVARTIS AG",
@@ -4693,8 +4693,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "009",
     "SWIFT Code": "NOVRCHBS009",
     "Bank Name": "NOVARTIS AG",
@@ -4706,8 +4706,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "024",
     "SWIFT Code": "NOVRCHBS024",
     "Bank Name": "NOVARTIS AG",
@@ -4719,8 +4719,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "028",
     "SWIFT Code": "NOVRCHBS028",
     "Bank Name": "NOVARTIS AG",
@@ -4732,8 +4732,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "071",
     "SWIFT Code": "NOVRCHBS071",
     "Bank Name": "NOVARTIS AG",
@@ -4745,8 +4745,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "078",
     "SWIFT Code": "NOVRCHBS078",
     "Bank Name": "NOVARTIS AG",
@@ -4758,8 +4758,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "093",
     "SWIFT Code": "NOVRCHBS093",
     "Bank Name": "NOVARTIS AG",
@@ -4771,8 +4771,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "097",
     "SWIFT Code": "NOVRCHBS097",
     "Bank Name": "NOVARTIS AG",
@@ -4784,8 +4784,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "099",
     "SWIFT Code": "NOVRCHBS099",
     "Bank Name": "NOVARTIS AG",
@@ -4797,8 +4797,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "162",
     "SWIFT Code": "NOVRCHBS162",
     "Bank Name": "NOVARTIS AG",
@@ -4810,8 +4810,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "WFS",
     "SWIFT Code": "NOVRCHBSWFS",
     "Bank Name": "NOVARTIS AG",
@@ -4823,8 +4823,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "HBS",
     "SWIFT Code": "NOVRCHBS",
     "Bank Name": "NOVARTIS AG",
@@ -4836,8 +4836,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "251",
     "SWIFT Code": "NOVRCHBS251",
     "Bank Name": "NOVARTIS AG",
@@ -4849,8 +4849,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "165",
     "SWIFT Code": "NOVRCHBS165",
     "Bank Name": "NOVARTIS AG",
@@ -4862,8 +4862,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "246",
     "SWIFT Code": "NOVRCHBS246",
     "Bank Name": "NOVARTIS AG",
@@ -4875,8 +4875,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "266",
     "SWIFT Code": "NOVRCHBS266",
     "Bank Name": "NOVARTIS AG",
@@ -4888,8 +4888,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "253",
     "SWIFT Code": "NOVRCHBS253",
     "Bank Name": "NOVARTIS AG",
@@ -4901,8 +4901,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "010",
     "SWIFT Code": "NOVRCHBS010",
     "Bank Name": "NOVARTIS AG",
@@ -4914,8 +4914,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "247",
     "SWIFT Code": "NOVRCHBS247",
     "Bank Name": "NOVARTIS AG",
@@ -4927,8 +4927,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "171",
     "SWIFT Code": "NOVRCHBS171",
     "Bank Name": "NOVARTIS AG",
@@ -4940,8 +4940,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "077",
     "SWIFT Code": "NOVRCHBS077",
     "Bank Name": "NOVARTIS AG",
@@ -4953,8 +4953,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "SAN",
     "SWIFT Code": "NOVRCHBSSAN",
     "Bank Name": "NOVARTIS AG",
@@ -4966,8 +4966,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "MUU",
     "SWIFT Code": "NOVRCHBSMUU",
     "Bank Name": "NOVARTIS AG",
@@ -4979,8 +4979,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "169",
     "SWIFT Code": "NOVRCHBS169",
     "Bank Name": "NOVARTIS AG",
@@ -4992,8 +4992,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "018",
     "SWIFT Code": "NOVRCHBS018",
     "Bank Name": "NOVARTIS AG",
@@ -5005,8 +5005,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "249",
     "SWIFT Code": "NOVRCHBS249",
     "Bank Name": "NOVARTIS AG",
@@ -5018,8 +5018,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "056",
     "SWIFT Code": "NOVRCHBS056",
     "Bank Name": "NOVARTIS AG",
@@ -5031,8 +5031,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "017",
     "SWIFT Code": "NOVRCHBS017",
     "Bank Name": "NOVARTIS AG",
@@ -5044,8 +5044,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "049",
     "SWIFT Code": "NOVRCHBS049",
     "Bank Name": "NOVARTIS AG",
@@ -5057,8 +5057,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "128",
     "SWIFT Code": "NOVRCHBS128",
     "Bank Name": "NOVARTIS AG",
@@ -5070,8 +5070,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "046",
     "SWIFT Code": "NOVRCHBS046",
     "Bank Name": "NOVARTIS AG",
@@ -5083,8 +5083,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "CH",
+    "bankCode": "NOVR",
+    "countryCode": "CH",
     "branchCode": "HBH",
     "SWIFT Code": "NOVRCHBH",
     "Bank Name": "NOVARTIS HOLDING AG",
@@ -5096,8 +5096,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "KNX",
     "SWIFT Code": "PKNOCHBSKNX",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5109,8 +5109,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "WFX",
     "SWIFT Code": "PKNOCHBSWFX",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5122,8 +5122,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "HBS",
     "SWIFT Code": "PKNOCHBS",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5135,8 +5135,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "KYX",
     "SWIFT Code": "PKNOCHBSKYX",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5148,8 +5148,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "EFW",
     "SWIFT Code": "PKNOCHBSEFW",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5161,8 +5161,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "EUP",
     "SWIFT Code": "PKNOCHBSEUP",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5174,8 +5174,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "EUS",
     "SWIFT Code": "PKNOCHBSEUS",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5187,8 +5187,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "BCH",
     "SWIFT Code": "PKNOCHBSBCH",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -5200,8 +5200,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "17A",
     "SWIFT Code": "CRESCHZZ17A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5213,8 +5213,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "17R",
     "SWIFT Code": "CRESCHZZ17R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5226,8 +5226,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65V",
     "SWIFT Code": "CRESCHZZ65V",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5239,8 +5239,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "44F",
     "SWIFT Code": "CRESCHZZ44F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5252,8 +5252,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12A",
     "SWIFT Code": "CRESCHZZ12A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5265,8 +5265,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12F",
     "SWIFT Code": "CRESCHZZ12F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5278,8 +5278,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12J",
     "SWIFT Code": "CRESCHZZ12J",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5291,8 +5291,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12M",
     "SWIFT Code": "CRESCHZZ12M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5304,8 +5304,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12Q",
     "SWIFT Code": "CRESCHZZ12Q",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5317,8 +5317,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12D",
     "SWIFT Code": "CRESCHZZ12D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5330,8 +5330,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12H",
     "SWIFT Code": "CRESCHZZ12H",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5343,8 +5343,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12R",
     "SWIFT Code": "CRESCHZZ12R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5356,8 +5356,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12E",
     "SWIFT Code": "CRESCHZZ12E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5369,8 +5369,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12G",
     "SWIFT Code": "CRESCHZZ12G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5382,8 +5382,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12K",
     "SWIFT Code": "CRESCHZZ12K",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5395,8 +5395,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12C",
     "SWIFT Code": "CRESCHZZ12C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5408,8 +5408,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12X",
     "SWIFT Code": "CRESCHZZ12X",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5421,8 +5421,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12Y",
     "SWIFT Code": "CRESCHZZ12Y",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5434,8 +5434,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12I",
     "SWIFT Code": "CRESCHZZ12I",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5447,8 +5447,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12Z",
     "SWIFT Code": "CRESCHZZ12Z",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5460,8 +5460,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12L",
     "SWIFT Code": "CRESCHZZ12L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5473,8 +5473,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12B",
     "SWIFT Code": "CRESCHZZ12B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5486,8 +5486,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "13A",
     "SWIFT Code": "CRESCHZZ13A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5499,8 +5499,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65B",
     "SWIFT Code": "CRESCHZZ65B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5512,8 +5512,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87L",
     "SWIFT Code": "CRESCHZZ87L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5525,8 +5525,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87M",
     "SWIFT Code": "CRESCHZZ87M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5538,8 +5538,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87S",
     "SWIFT Code": "CRESCHZZ87S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5551,8 +5551,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65E",
     "SWIFT Code": "CRESCHZZ65E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5564,8 +5564,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "72B",
     "SWIFT Code": "CRESCHZZ72B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5577,8 +5577,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "25G",
     "SWIFT Code": "CRESCHZZ25G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5590,8 +5590,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "25S",
     "SWIFT Code": "CRESCHZZ25S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5603,8 +5603,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "37L",
     "SWIFT Code": "CRESCHZZ37L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5616,8 +5616,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "94G",
     "SWIFT Code": "CRESCHZZ94G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5629,8 +5629,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "61A",
     "SWIFT Code": "CRESCHZZ61A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5642,8 +5642,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "62L",
     "SWIFT Code": "CRESCHZZ62L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5655,8 +5655,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88G",
     "SWIFT Code": "CRESCHZZ88G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5668,8 +5668,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88S",
     "SWIFT Code": "CRESCHZZ88S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5681,8 +5681,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60M",
     "SWIFT Code": "CRESCHZZ60M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5694,8 +5694,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "71A",
     "SWIFT Code": "CRESCHZZ71A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5707,8 +5707,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "38A",
     "SWIFT Code": "CRESCHZZ38A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5720,8 +5720,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86N",
     "SWIFT Code": "CRESCHZZ86N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5733,8 +5733,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "83A",
     "SWIFT Code": "CRESCHZZ83A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5746,8 +5746,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "83R",
     "SWIFT Code": "CRESCHZZ83R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5759,8 +5759,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30E",
     "SWIFT Code": "CRESCHZZ30E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5772,8 +5772,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "82P",
     "SWIFT Code": "CRESCHZZ82P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5785,8 +5785,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "82S",
     "SWIFT Code": "CRESCHZZ82S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5798,8 +5798,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60F",
     "SWIFT Code": "CRESCHZZ60F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5811,8 +5811,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87A",
     "SWIFT Code": "CRESCHZZ87A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5824,8 +5824,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "23A",
     "SWIFT Code": "CRESCHZZ23A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5837,8 +5837,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "23R",
     "SWIFT Code": "CRESCHZZ23R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -5850,8 +5850,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIEH",
-    "bankCode": "CH",
+    "bankCode": "RIEH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RIEHCH22",
     "Bank Name": "RIETER",
@@ -5863,8 +5863,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROCH",
-    "bankCode": "CH",
+    "bankCode": "ROCH",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "ROCHCHBB",
     "Bank Name": "ROCHE FINANZ AG",
@@ -5876,8 +5876,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROCH",
-    "bankCode": "CH",
+    "bankCode": "ROCH",
+    "countryCode": "CH",
     "branchCode": "HBH",
     "SWIFT Code": "ROCHCHBH",
     "Bank Name": "ROCHE HOLDING AG",
@@ -5889,8 +5889,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTA",
-    "bankCode": "CH",
+    "bankCode": "ROTA",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ROTACHZZ",
     "Bank Name": "ROTHSCHILD AND CO BANK AG",
@@ -5902,8 +5902,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROTA",
-    "bankCode": "CH",
+    "bankCode": "ROTA",
+    "countryCode": "CH",
     "branchCode": "MAD",
     "SWIFT Code": "ROTACHZZMAD",
     "Bank Name": "ROTHSCHILD AND CO BANK AG",
@@ -5915,8 +5915,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSG",
-    "bankCode": "CH",
+    "bankCode": "ABSG",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "ABSGCHGG",
     "Bank Name": "S.P. HINDUJA BANQUE PRIVEE SA",
@@ -5928,8 +5928,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SADZ",
-    "bankCode": "CH",
+    "bankCode": "SADZ",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "SADZCHBB",
     "Bank Name": "SANDOZ AG",
@@ -5941,8 +5941,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SATN",
-    "bankCode": "CH",
+    "bankCode": "SATN",
+    "countryCode": "CH",
     "branchCode": "HGE",
     "SWIFT Code": "SATNCHGE",
     "Bank Name": "SANTEN SA",
@@ -5954,8 +5954,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAXO",
-    "bankCode": "CH",
+    "bankCode": "SAXO",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "SAXOCHZH",
     "Bank Name": "SAXO BANK (SWITZERLAND) LTD",
@@ -5967,8 +5967,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "342",
     "SWIFT Code": "RBABCH22342",
     "Bank Name": "SB SAANEN BANK AG",
@@ -5980,8 +5980,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBHL",
-    "bankCode": "CH",
+    "bankCode": "SBHL",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SBHLCH22",
     "Bank Name": "SBM HOLDING INC. S.A.",
@@ -5993,8 +5993,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHKB",
-    "bankCode": "CH",
+    "bankCode": "SHKB",
+    "countryCode": "CH",
     "branchCode": "H2S",
     "SWIFT Code": "SHKBCH2S",
     "Bank Name": "SCHAFFHAUSER KANTONALBANK",
@@ -6006,8 +6006,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNDL",
-    "bankCode": "CH",
+    "bankCode": "SNDL",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SNDLCH22",
     "Bank Name": "SCHINDLER HOLDING AG",
@@ -6019,8 +6019,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJHS",
-    "bankCode": "CH",
+    "bankCode": "BJHS",
+    "countryCode": "CH",
     "branchCode": "GVA",
     "SWIFT Code": "BJHSCHZZGVA",
     "Bank Name": "SCHRODER AND CO BANK AG",
@@ -6032,8 +6032,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJHS",
-    "bankCode": "CH",
+    "bankCode": "BJHS",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BJHSCHZZ",
     "Bank Name": "SCHRODER AND CO BANK AG",
@@ -6045,8 +6045,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADMG",
-    "bankCode": "CH",
+    "bankCode": "ADMG",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ADMGCHZZ",
     "Bank Name": "SCHRODERS CAPITAL MANAGEMENT (SWITZERLAND) AG",
@@ -6058,8 +6058,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBBS",
-    "bankCode": "CH",
+    "bankCode": "SBBS",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SBBSCH22",
     "Bank Name": "SCHWEIZERISCHE BUNDESBAHNEN SBB",
@@ -6071,8 +6071,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMSA",
-    "bankCode": "CH",
+    "bankCode": "SMSA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SMSACH22",
     "Bank Name": "SCHWEIZERISCHE MOBILIAR ASSET MANAGEMENT AG",
@@ -6084,8 +6084,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSZ",
-    "bankCode": "CH",
+    "bankCode": "KBSZ",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBSZCH22",
     "Bank Name": "SCHWYZER KANTONALBANK (SKB)",
@@ -6097,8 +6097,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCOP",
-    "bankCode": "CH",
+    "bankCode": "SCOP",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "SCOPCHBB",
     "Bank Name": "SCOBAG PRIVATBANK AG",
@@ -6110,8 +6110,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SELV",
-    "bankCode": "CH",
+    "bankCode": "SELV",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "SELVCHGG",
     "Bank Name": "SELVI AND CIE SA",
@@ -6123,8 +6123,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIHO",
-    "bankCode": "CH",
+    "bankCode": "SIHO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SIHOCH22",
     "Bank Name": "SIEGFRIED HOLDING AG",
@@ -6136,8 +6136,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HKA",
     "SWIFT Code": "INSECHKA",
     "Bank Name": "SIS SEGAINTERSETTLE AG",
@@ -6149,8 +6149,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HKB",
     "SWIFT Code": "INSECHKB",
     "Bank Name": "SIS SEGAINTERSETTLE AG",
@@ -6162,8 +6162,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HKC",
     "SWIFT Code": "INSECHKC",
     "Bank Name": "SIS SEGAINTERSETTLE AG",
@@ -6175,8 +6175,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HKD",
     "SWIFT Code": "INSECHKD",
     "Bank Name": "SIS SEGAINTERSETTLE AG",
@@ -6188,8 +6188,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HKE",
     "SWIFT Code": "INSECHKE",
     "Bank Name": "SIS SEGAINTERSETTLE AG",
@@ -6201,8 +6201,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HKF",
     "SWIFT Code": "INSECHKF",
     "Bank Name": "SIS SEGAINTERSETTLE AG",
@@ -6214,8 +6214,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDXX",
-    "bankCode": "CH",
+    "bankCode": "SDXX",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "SDXXCHZH",
     "Bank Name": "SIX DIGITAL EXCHANGE AG",
@@ -6227,8 +6227,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDXX",
-    "bankCode": "CH",
+    "bankCode": "SDXX",
+    "countryCode": "CH",
     "branchCode": "A70",
     "SWIFT Code": "SDXXCHZHA70",
     "Bank Name": "SIX DIGITAL EXCHANGE AG",
@@ -6240,8 +6240,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDXX",
-    "bankCode": "CH",
+    "bankCode": "SDXX",
+    "countryCode": "CH",
     "branchCode": "A50",
     "SWIFT Code": "SDXXCHZHA50",
     "Bank Name": "SIX DIGITAL EXCHANGE AG",
@@ -6253,8 +6253,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDXX",
-    "bankCode": "CH",
+    "bankCode": "SDXX",
+    "countryCode": "CH",
     "branchCode": "A20",
     "SWIFT Code": "SDXXCHZHA20",
     "Bank Name": "SIX DIGITAL EXCHANGE AG",
@@ -6266,8 +6266,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKZH",
-    "bankCode": "CH",
+    "bankCode": "TKZH",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "TKZHCHZZ",
     "Bank Name": "SIX INTERBANK CLEARING AG",
@@ -6279,8 +6279,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "ACS",
     "SWIFT Code": "INSECHZZACS",
     "Bank Name": "SIX SIS AG",
@@ -6292,8 +6292,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "TST",
     "SWIFT Code": "INSECHZZTST",
     "Bank Name": "SIX SIS AG",
@@ -6305,8 +6305,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "INSECHZZ",
     "Bank Name": "SIX SIS AG",
@@ -6318,8 +6318,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "SGA",
     "SWIFT Code": "INSECHZZSGA",
     "Bank Name": "SIX SIS AG",
@@ -6331,8 +6331,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "BRO",
     "SWIFT Code": "INSECHZZBRO",
     "Bank Name": "SIX SIS AG",
@@ -6344,8 +6344,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "REA",
     "SWIFT Code": "INSECHZZREA",
     "Bank Name": "SIX SIS AG",
@@ -6357,8 +6357,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "T2S",
     "SWIFT Code": "INSECHZZT2S",
     "Bank Name": "SIX SIS AG",
@@ -6370,8 +6370,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "CNT",
     "SWIFT Code": "INSECHZZCNT",
     "Bank Name": "SIX SIS AG",
@@ -6383,8 +6383,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "TPA",
     "SWIFT Code": "INSECHZZTPA",
     "Bank Name": "SIX SIS AG",
@@ -6396,8 +6396,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "GIT",
     "SWIFT Code": "INSECHZZGIT",
     "Bank Name": "SIX SIS AG",
@@ -6409,8 +6409,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "RLG",
     "SWIFT Code": "INSECHZZRLG",
     "Bank Name": "SIX SIS AG",
@@ -6422,8 +6422,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INSE",
-    "bankCode": "CH",
+    "bankCode": "INSE",
+    "countryCode": "CH",
     "branchCode": "TRA",
     "SWIFT Code": "INSECHZZTRA",
     "Bank Name": "SIX SIS AG",
@@ -6435,8 +6435,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRX",
-    "bankCode": "CH",
+    "bankCode": "CLRX",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CLRXCHZZ",
     "Bank Name": "SIX X-CLEAR AG",
@@ -6448,8 +6448,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLRX",
-    "bankCode": "CH",
+    "bankCode": "CLRX",
+    "countryCode": "CH",
     "branchCode": "CRI",
     "SWIFT Code": "CLRXCHZZCRI",
     "Bank Name": "SIX X-CLEAR AG",
@@ -6461,8 +6461,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOTD",
-    "bankCode": "CH",
+    "bankCode": "SOTD",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "SOTDCHGG",
     "Bank Name": "SOCAR TRADING SA",
@@ -6474,8 +6474,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBTI",
-    "bankCode": "CH",
+    "bankCode": "SBTI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SBTICH22",
     "Bank Name": "SOCIETA BANCARIA TICINESE SA",
@@ -6487,8 +6487,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUEG",
-    "bankCode": "CH",
+    "bankCode": "RUEG",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "RUEGCHZZ",
     "Bank Name": "SOCIETE GENERALE PRIVATE BANKING (SUISSE) SA",
@@ -6500,8 +6500,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SRO",
     "SWIFT Code": "AXIPCHZZSRO",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6513,8 +6513,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "STI",
     "SWIFT Code": "AXIPCHZZSTI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6526,8 +6526,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SVA",
     "SWIFT Code": "AXIPCHZZSVA",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6539,8 +6539,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SF1",
     "SWIFT Code": "AXIPCHZZSF1",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6552,8 +6552,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MAV",
     "SWIFT Code": "AXIPCHZZMAV",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6565,8 +6565,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MGI",
     "SWIFT Code": "AXIPCHZZMGI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6578,8 +6578,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MFS",
     "SWIFT Code": "AXIPCHZZMFS",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6591,8 +6591,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WLO",
     "SWIFT Code": "AXIPCHZZWLO",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6604,8 +6604,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "LMS",
     "SWIFT Code": "AXIPCHZZLMS",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6617,8 +6617,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MER",
     "SWIFT Code": "AXIPCHZZMER",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6630,8 +6630,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "RE2",
     "SWIFT Code": "AXIPCHZZRE2",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6643,8 +6643,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "RE3",
     "SWIFT Code": "AXIPCHZZRE3",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6656,8 +6656,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MVA",
     "SWIFT Code": "AXIPCHZZMVA",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6669,8 +6669,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "CS2",
     "SWIFT Code": "AXIPCHZZCS2",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6682,8 +6682,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "ARX",
     "SWIFT Code": "AXIPCHZZARX",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6695,8 +6695,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SWA",
     "SWIFT Code": "AXIPCHZZSWA",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6708,8 +6708,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MFA",
     "SWIFT Code": "AXIPCHZZMFA",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6721,8 +6721,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "KIS",
     "SWIFT Code": "AXIPCHZZKIS",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6734,8 +6734,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "RKA",
     "SWIFT Code": "AXIPCHZZRKA",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6747,8 +6747,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WLE",
     "SWIFT Code": "AXIPCHZZWLE",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6760,8 +6760,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WET",
     "SWIFT Code": "AXIPCHZZWET",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6773,8 +6773,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WLK",
     "SWIFT Code": "AXIPCHZZWLK",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6786,8 +6786,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WKT",
     "SWIFT Code": "AXIPCHZZWKT",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6799,8 +6799,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WIN",
     "SWIFT Code": "AXIPCHZZWIN",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6812,8 +6812,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "WVT",
     "SWIFT Code": "AXIPCHZZWVT",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6825,8 +6825,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "ARG",
     "SWIFT Code": "AXIPCHZZARG",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -6838,8 +6838,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCE",
-    "bankCode": "CH",
+    "bankCode": "UNCE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "UNCECH22",
     "Bank Name": "AXION SWISS BANK SA",
@@ -6851,8 +6851,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXPO",
-    "bankCode": "CH",
+    "bankCode": "AXPO",
+    "countryCode": "CH",
     "branchCode": "HOL",
     "SWIFT Code": "AXPOCH22HOL",
     "Bank Name": "AXPO HOLDING AG",
@@ -6864,8 +6864,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXPO",
-    "bankCode": "CH",
+    "bankCode": "AXPO",
+    "countryCode": "CH",
     "branchCode": "TRA",
     "SWIFT Code": "AXPOCH22TRA",
     "Bank Name": "AXPO HOLDING AG",
@@ -6877,8 +6877,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXPO",
-    "bankCode": "CH",
+    "bankCode": "AXPO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "AXPOCH22",
     "Bank Name": "AXPO HOLDING AG",
@@ -6890,8 +6890,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCP",
-    "bankCode": "CH",
+    "bankCode": "BNCP",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "BNCPCHZ2",
     "Bank Name": "B AND I CAPITAL AG",
@@ -6903,8 +6903,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "VST",
     "SWIFT Code": "BAAMCHBBVST",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6916,8 +6916,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "BVG",
     "SWIFT Code": "BAAMCHBBBVG",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6929,8 +6929,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "BVF",
     "SWIFT Code": "BAAMCHBBBVF",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6942,8 +6942,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "LIE",
     "SWIFT Code": "BAAMCHBBLIE",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6955,8 +6955,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "LUX",
     "SWIFT Code": "BAAMCHBBLUX",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6968,8 +6968,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "BBE",
     "SWIFT Code": "BAAMCHBBBBE",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6981,8 +6981,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "BDE",
     "SWIFT Code": "BAAMCHBBBDE",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -6994,8 +6994,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "BAAMCHBB",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -7007,8 +7007,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "BEL",
     "SWIFT Code": "BAAMCHBBBEL",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -7020,8 +7020,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAM",
-    "bankCode": "CH",
+    "bankCode": "BAAM",
+    "countryCode": "CH",
     "branchCode": "BKL",
     "SWIFT Code": "BAAMCHBBBKL",
     "Bank Name": "BALOISE ASSET MANAGEMENT AG",
@@ -7033,8 +7033,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSO",
-    "bankCode": "CH",
+    "bankCode": "KBSO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBSOCH22",
     "Bank Name": "BALOISE BANK AG",
@@ -7046,8 +7046,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VRBP",
-    "bankCode": "CH",
+    "bankCode": "VRBP",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "VRBPCH22",
     "Bank Name": "BANCA ALETTI E C. (SUISSE) SA (BANCO BPM GROUP)",
@@ -7059,8 +7059,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRE",
-    "bankCode": "CH",
+    "bankCode": "BCRE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BCRECH22",
     "Bank Name": "BANCA CREDINVEST SA",
@@ -7072,8 +7072,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACE",
-    "bankCode": "CH",
+    "bankCode": "BACE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BACECH22",
     "Bank Name": "BANCA DEL CERESIO SA",
@@ -7085,8 +7085,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASE",
-    "bankCode": "CH",
+    "bankCode": "BASE",
+    "countryCode": "CH",
     "branchCode": "65A",
     "SWIFT Code": "BASECH2265A",
     "Bank Name": "BANCA DEL SEMPIONE SA",
@@ -7098,8 +7098,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASE",
-    "bankCode": "CH",
+    "bankCode": "BASE",
+    "countryCode": "CH",
     "branchCode": "68B",
     "SWIFT Code": "BASECH2268B",
     "Bank Name": "BANCA DEL SEMPIONE SA",
@@ -7111,8 +7111,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASE",
-    "bankCode": "CH",
+    "bankCode": "BASE",
+    "countryCode": "CH",
     "branchCode": "66A",
     "SWIFT Code": "BASECH2266A",
     "Bank Name": "BANCA DEL SEMPIONE SA",
@@ -7124,8 +7124,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASE",
-    "bankCode": "CH",
+    "bankCode": "BASE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BASECH22",
     "Bank Name": "BANCA DEL SEMPIONE SA",
@@ -7137,8 +7137,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASE",
-    "bankCode": "CH",
+    "bankCode": "BASE",
+    "countryCode": "CH",
     "branchCode": "H23",
     "SWIFT Code": "BASECH23",
     "Bank Name": "BANCA DEL SEMPIONE SA",
@@ -7150,8 +7150,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "94F",
     "SWIFT Code": "CRESCHZZ94F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7163,8 +7163,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "94S",
     "SWIFT Code": "CRESCHZZ94S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7176,8 +7176,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "75A",
     "SWIFT Code": "CRESCHZZ75A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7189,8 +7189,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "75R",
     "SWIFT Code": "CRESCHZZ75R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7202,8 +7202,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87F",
     "SWIFT Code": "CRESCHZZ87F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7215,8 +7215,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "63N",
     "SWIFT Code": "CRESCHZZ63N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7228,8 +7228,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "82D",
     "SWIFT Code": "CRESCHZZ82D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7241,8 +7241,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "62C",
     "SWIFT Code": "CRESCHZZ62C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7254,8 +7254,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "62R",
     "SWIFT Code": "CRESCHZZ62R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7267,8 +7267,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "27N",
     "SWIFT Code": "CRESCHZZ27N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7280,8 +7280,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65G",
     "SWIFT Code": "CRESCHZZ65G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7293,8 +7293,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88A",
     "SWIFT Code": "CRESCHZZ88A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7306,8 +7306,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88R",
     "SWIFT Code": "CRESCHZZ88R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7319,8 +7319,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12V",
     "SWIFT Code": "CRESCHZZ12V",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7332,8 +7332,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "36A",
     "SWIFT Code": "CRESCHZZ36A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7345,8 +7345,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "36R",
     "SWIFT Code": "CRESCHZZ36R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7358,8 +7358,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "27O",
     "SWIFT Code": "CRESCHZZ27O",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7371,8 +7371,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "46T",
     "SWIFT Code": "CRESCHZZ46T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7384,8 +7384,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86E",
     "SWIFT Code": "CRESCHZZ86E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7397,8 +7397,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "92D",
     "SWIFT Code": "CRESCHZZ92D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7410,8 +7410,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "19D",
     "SWIFT Code": "CRESCHZZ19D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7423,8 +7423,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12U",
     "SWIFT Code": "CRESCHZZ12U",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7436,8 +7436,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12P",
     "SWIFT Code": "CRESCHZZ12P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7449,8 +7449,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18A",
     "SWIFT Code": "CRESCHZZ18A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7462,8 +7462,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18R",
     "SWIFT Code": "CRESCHZZ18R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7475,8 +7475,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18P",
     "SWIFT Code": "CRESCHZZ18P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7488,8 +7488,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18B",
     "SWIFT Code": "CRESCHZZ18B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7501,8 +7501,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39G",
     "SWIFT Code": "CRESCHZZ39G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7514,8 +7514,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88H",
     "SWIFT Code": "CRESCHZZ88H",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7527,8 +7527,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88T",
     "SWIFT Code": "CRESCHZZ88T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7540,8 +7540,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86D",
     "SWIFT Code": "CRESCHZZ86D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7553,8 +7553,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "83C",
     "SWIFT Code": "CRESCHZZ83C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7566,8 +7566,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "85C",
     "SWIFT Code": "CRESCHZZ85C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7579,8 +7579,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "85S",
     "SWIFT Code": "CRESCHZZ85S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7592,8 +7592,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86S",
     "SWIFT Code": "CRESCHZZ86S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7605,8 +7605,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86F",
     "SWIFT Code": "CRESCHZZ86F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7618,8 +7618,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "95A",
     "SWIFT Code": "CRESCHZZ95A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7631,8 +7631,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "95R",
     "SWIFT Code": "CRESCHZZ95R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7644,8 +7644,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "84A",
     "SWIFT Code": "CRESCHZZ84A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7657,8 +7657,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "84C",
     "SWIFT Code": "CRESCHZZ84C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7670,8 +7670,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "84R",
     "SWIFT Code": "CRESCHZZ84R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7683,8 +7683,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30F",
     "SWIFT Code": "CRESCHZZ30F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7696,8 +7696,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "14A",
     "SWIFT Code": "CRESCHZZ14A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7709,8 +7709,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "14R",
     "SWIFT Code": "CRESCHZZ14R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7722,8 +7722,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39E",
     "SWIFT Code": "CRESCHZZ39E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7735,8 +7735,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "48A",
     "SWIFT Code": "CRESCHZZ48A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7748,8 +7748,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87B",
     "SWIFT Code": "CRESCHZZ87B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7761,8 +7761,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81E",
     "SWIFT Code": "CRESCHZZ81E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7774,8 +7774,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "ISP",
     "SWIFT Code": "CRESCHZZISP",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7787,8 +7787,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81C",
     "SWIFT Code": "CRESCHZZ81C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -7800,8 +7800,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "90A",
     "SWIFT Code": "UBSWCHZH90A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7813,8 +7813,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "94F",
     "SWIFT Code": "UBSWCHZH94F",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7826,8 +7826,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "75A",
     "SWIFT Code": "UBSWCHZH75A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7839,8 +7839,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "36A",
     "SWIFT Code": "UBSWCHZH36A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7852,8 +7852,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "86N",
     "SWIFT Code": "UBSWCHZH86N",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7865,8 +7865,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "18A",
     "SWIFT Code": "UBSWCHZH18A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7878,8 +7878,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "39G",
     "SWIFT Code": "UBSWCHZH39G",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7891,8 +7891,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "83B",
     "SWIFT Code": "UBSWCHZH83B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7904,8 +7904,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "85B",
     "SWIFT Code": "UBSWCHZH85B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7917,8 +7917,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "86Q",
     "SWIFT Code": "UBSWCHZH86Q",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7930,8 +7930,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "95A",
     "SWIFT Code": "UBSWCHZH95A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7943,8 +7943,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "84A",
     "SWIFT Code": "UBSWCHZH84A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7956,8 +7956,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "56B",
     "SWIFT Code": "UBSWCHZH56B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7969,8 +7969,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "14A",
     "SWIFT Code": "UBSWCHZH14A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7982,8 +7982,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "87B",
     "SWIFT Code": "UBSWCHZH87B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -7995,8 +7995,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "889",
     "SWIFT Code": "UBSWCHZH889",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8008,8 +8008,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "911",
     "SWIFT Code": "UBSWCHZH911",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8021,8 +8021,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "947",
     "SWIFT Code": "UBSWCHZH947",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8034,8 +8034,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "976",
     "SWIFT Code": "UBSWCHZH976",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8047,8 +8047,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "995",
     "SWIFT Code": "UBSWCHZH995",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8060,8 +8060,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "437",
     "SWIFT Code": "UBSWCHZH437",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8073,8 +8073,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "147",
     "SWIFT Code": "UBSWCHZH147",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8086,8 +8086,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "COL",
     "SWIFT Code": "UBSWCHZHCOL",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8099,8 +8099,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "T2S",
     "SWIFT Code": "UBSWCHZHT2S",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8112,8 +8112,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "E1M",
     "SWIFT Code": "UBSWCHZHE1M",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8125,8 +8125,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "HZ3",
     "SWIFT Code": "UBSWCHZ3",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8138,8 +8138,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "408",
     "SWIFT Code": "UBSWCHZH408",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8151,8 +8151,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "838",
     "SWIFT Code": "UBSWCHZH838",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8164,8 +8164,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "DBO",
     "SWIFT Code": "UBSWCHZHDBO",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8177,8 +8177,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "TFS",
     "SWIFT Code": "UBSWCHZHTFS",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8190,8 +8190,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "SBI",
     "SWIFT Code": "UBSWCHZHSBI",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8203,8 +8203,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "NOR",
     "SWIFT Code": "UBSWCHZHNOR",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8216,8 +8216,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80K",
     "SWIFT Code": "UBSWCHZH80K",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8229,8 +8229,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80P",
     "SWIFT Code": "UBSWCHZH80P",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8242,8 +8242,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80Q",
     "SWIFT Code": "UBSWCHZH80Q",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8255,8 +8255,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "CLS",
     "SWIFT Code": "UBSWCHZHCLS",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8268,8 +8268,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "PBR",
     "SWIFT Code": "UBSWCHZHPBR",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8281,8 +8281,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "UBSWCHZH80A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8294,8 +8294,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "UBSWCHZH",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8307,8 +8307,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80R",
     "SWIFT Code": "UBSWCHZH80R",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8320,8 +8320,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "004",
     "SWIFT Code": "UBSWCHZ9004",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8333,8 +8333,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "KIZ",
     "SWIFT Code": "UBSWCHZHKIZ",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8346,8 +8346,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "PNX",
     "SWIFT Code": "UBSWCHZHPNX",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8359,8 +8359,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80M",
     "SWIFT Code": "UBSWCHZH80M",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8372,8 +8372,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "OSI",
     "SWIFT Code": "UBSWCHZHOSI",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8385,8 +8385,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80V",
     "SWIFT Code": "UBSWCHZH80V",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8398,8 +8398,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80H",
     "SWIFT Code": "UBSWCHZH80H",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8411,8 +8411,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80G",
     "SWIFT Code": "UBSWCHZH80G",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8424,8 +8424,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "80N",
     "SWIFT Code": "UBSWCHZH80N",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8437,8 +8437,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "63A",
     "SWIFT Code": "UBSWCHZH63A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8450,8 +8450,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "65A",
     "SWIFT Code": "UBSWCHZH65A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8463,8 +8463,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "30A",
     "SWIFT Code": "UBSWCHZH30A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8476,8 +8476,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "25A",
     "SWIFT Code": "UBSWCHZH25A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8489,8 +8489,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "39A",
     "SWIFT Code": "UBSWCHZH39A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8502,8 +8502,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "52A",
     "SWIFT Code": "UBSWCHZH52A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8515,8 +8515,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "94P",
     "SWIFT Code": "UBSWCHZH94P",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8528,8 +8528,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "81M",
     "SWIFT Code": "UBSWCHZH81M",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8541,8 +8541,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "16C",
     "SWIFT Code": "UBSWCHZH16C",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8554,8 +8554,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "68B",
     "SWIFT Code": "UBSWCHZH68B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8567,8 +8567,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "70A",
     "SWIFT Code": "UBSWCHZH70A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8580,8 +8580,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "72D",
     "SWIFT Code": "UBSWCHZH72D",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8593,8 +8593,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "89D",
     "SWIFT Code": "UBSWCHZH89D",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8606,8 +8606,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "31A",
     "SWIFT Code": "UBSWCHZH31A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8619,8 +8619,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "60G",
     "SWIFT Code": "UBSWCHZH60G",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8632,8 +8632,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "85A",
     "SWIFT Code": "UBSWCHZH85A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8645,8 +8645,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "17A",
     "SWIFT Code": "UBSWCHZH17A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8658,8 +8658,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "12C",
     "SWIFT Code": "UBSWCHZH12C",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8671,8 +8671,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "12A",
     "SWIFT Code": "UBSWCHZH12A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8684,8 +8684,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "12B",
     "SWIFT Code": "UBSWCHZH12B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8697,8 +8697,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "87D",
     "SWIFT Code": "UBSWCHZH87D",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8710,8 +8710,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "81H",
     "SWIFT Code": "UBSWCHZH81H",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8723,8 +8723,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "88A",
     "SWIFT Code": "UBSWCHZH88A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8736,8 +8736,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "38A",
     "SWIFT Code": "UBSWCHZH38A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8749,8 +8749,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "83A",
     "SWIFT Code": "UBSWCHZH83A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8762,8 +8762,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "82P",
     "SWIFT Code": "UBSWCHZH82P",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8775,8 +8775,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "23A",
     "SWIFT Code": "UBSWCHZH23A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8788,8 +8788,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "88B",
     "SWIFT Code": "UBSWCHZH88B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8801,8 +8801,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "10A",
     "SWIFT Code": "UBSWCHZH10A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8814,8 +8814,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "96C",
     "SWIFT Code": "UBSWCHZH96C",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8827,8 +8827,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "44A",
     "SWIFT Code": "UBSWCHZH44A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8840,8 +8840,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "66A",
     "SWIFT Code": "UBSWCHZH66A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8853,8 +8853,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "60A",
     "SWIFT Code": "UBSWCHZH60A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8866,8 +8866,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "69A",
     "SWIFT Code": "UBSWCHZH69A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8879,8 +8879,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "19B",
     "SWIFT Code": "UBSWCHZH19B",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8892,8 +8892,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "87C",
     "SWIFT Code": "UBSWCHZH87C",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8905,8 +8905,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "18L",
     "SWIFT Code": "UBSWCHZH18L",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8918,8 +8918,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "18D",
     "SWIFT Code": "UBSWCHZH18D",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8931,8 +8931,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "20A",
     "SWIFT Code": "UBSWCHZH20A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8944,8 +8944,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "12T",
     "SWIFT Code": "UBSWCHZH12T",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8957,8 +8957,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "46A",
     "SWIFT Code": "UBSWCHZH46A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8970,8 +8970,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "29A",
     "SWIFT Code": "UBSWCHZH29A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8983,8 +8983,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "86M",
     "SWIFT Code": "UBSWCHZH86M",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -8996,8 +8996,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "81A",
     "SWIFT Code": "UBSWCHZH81A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9009,8 +9009,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "94A",
     "SWIFT Code": "UBSWCHZH94A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9022,8 +9022,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "88C",
     "SWIFT Code": "UBSWCHZH88C",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9035,8 +9035,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "86P",
     "SWIFT Code": "UBSWCHZH86P",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9048,8 +9048,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "82A",
     "SWIFT Code": "UBSWCHZH82A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9061,8 +9061,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "39L",
     "SWIFT Code": "UBSWCHZH39L",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9074,8 +9074,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "19E",
     "SWIFT Code": "UBSWCHZH19E",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9087,8 +9087,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "45A",
     "SWIFT Code": "UBSWCHZH45A",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -9100,8 +9100,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "BFW",
     "SWIFT Code": "PKNOCHBSBFW",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -9113,8 +9113,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKNO",
-    "bankCode": "CH",
+    "bankCode": "PKNO",
+    "countryCode": "CH",
     "branchCode": "EEM",
     "SWIFT Code": "PKNOCHBSEEM",
     "Bank Name": "NOVARTIS PENSIONSKASSE",
@@ -9126,8 +9126,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEPI",
-    "bankCode": "CH",
+    "bankCode": "NEPI",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "NEPICHZZ",
     "Bank Name": "NPB NEUE PRIVAT BANK AG",
@@ -9139,8 +9139,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYRS",
-    "bankCode": "CH",
+    "bankCode": "NYRS",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "NYRSCHZZ",
     "Bank Name": "NYRSTAR FINANCE INTERNATIONAL AG",
@@ -9152,8 +9152,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBWK",
-    "bankCode": "CH",
+    "bankCode": "OBWK",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "OBWKCH22",
     "Bank Name": "OBWALDNER KANTONALBANK",
@@ -9165,8 +9165,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OERL",
-    "bankCode": "CH",
+    "bankCode": "OERL",
+    "countryCode": "CH",
     "branchCode": "H2P",
     "SWIFT Code": "OERLCH2P",
     "Bank Name": "OC OERLIKON CORPORATION AG, PFAEFFIKON",
@@ -9178,8 +9178,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OERL",
-    "bankCode": "CH",
+    "bankCode": "OERL",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "OERLCH22",
     "Bank Name": "OC OERLIKON CORPORATION AG, PFAEFFIKON",
@@ -9191,8 +9191,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHFB",
-    "bankCode": "CH",
+    "bankCode": "BHFB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BHFBCHZZ",
     "Bank Name": "ODDO BHF (SCHWEIZ) AG",
@@ -9204,8 +9204,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMYA",
-    "bankCode": "CH",
+    "bankCode": "OMYA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "OMYACH22",
     "Bank Name": "OMYA SCHWEIZ AG",
@@ -9217,8 +9217,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BQBH",
-    "bankCode": "CH",
+    "bankCode": "BQBH",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BQBHCHGG",
     "Bank Name": "ONE SWISS BANK SA",
@@ -9230,8 +9230,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONSG",
-    "bankCode": "CH",
+    "bankCode": "ONSG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ONSGCH22",
     "Bank Name": "ONEIO SWISS GMBH",
@@ -9243,8 +9243,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGHN",
-    "bankCode": "CH",
+    "bankCode": "PGHN",
+    "countryCode": "CH",
     "branchCode": "H2B",
     "SWIFT Code": "PGHNCH2B",
     "Bank Name": "PARTNERS GROUP AG",
@@ -9256,8 +9256,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGHN",
-    "bankCode": "CH",
+    "bankCode": "PGHN",
+    "countryCode": "CH",
     "branchCode": "GRP",
     "SWIFT Code": "PGHNCH2BGRP",
     "Bank Name": "PARTNERS GROUP AG",
@@ -9269,8 +9269,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PYCS",
-    "bankCode": "CH",
+    "bankCode": "PYCS",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "PYCSCHG2",
     "Bank Name": "PAYMENT CORNER (SUISSE) SA",
@@ -9282,8 +9282,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBPU",
-    "bankCode": "CH",
+    "bankCode": "PBPU",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "PBPUCH22",
     "Bank Name": "PENSIONSKASSE DES BUNDES PUBLICA",
@@ -9295,8 +9295,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUVE",
-    "bankCode": "CH",
+    "bankCode": "SUVE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SUVECH22",
     "Bank Name": "PENSIONSKASSE SUVA",
@@ -9308,8 +9308,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMIF",
-    "bankCode": "CH",
+    "bankCode": "PMIF",
+    "countryCode": "CH",
     "branchCode": "H2L",
     "SWIFT Code": "PMIFCH2L",
     "Bank Name": "PHILIP MORRIS FINANCE SA",
@@ -9321,8 +9321,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIGU",
-    "bankCode": "CH",
+    "bankCode": "PIGU",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "PIGUCH22",
     "Bank Name": "PIGUET GALLAND ET CIE SA",
@@ -9334,8 +9334,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKBS",
-    "bankCode": "CH",
+    "bankCode": "PKBS",
+    "countryCode": "CH",
     "branchCode": "12A",
     "SWIFT Code": "PKBSCH2212A",
     "Bank Name": "PKB PRIVATE BANK SA",
@@ -9347,8 +9347,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKBS",
-    "bankCode": "CH",
+    "bankCode": "PKBS",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "PKBSCH22",
     "Bank Name": "PKB PRIVATE BANK SA",
@@ -9360,8 +9360,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKBS",
-    "bankCode": "CH",
+    "bankCode": "PKBS",
+    "countryCode": "CH",
     "branchCode": "KEY",
     "SWIFT Code": "PKBSCH22KEY",
     "Bank Name": "PKB PRIVATE BANK SA",
@@ -9373,8 +9373,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKBS",
-    "bankCode": "CH",
+    "bankCode": "PKBS",
+    "countryCode": "CH",
     "branchCode": "69A",
     "SWIFT Code": "PKBSCH2269A",
     "Bank Name": "PKB PRIVATE BANK SA",
@@ -9386,8 +9386,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKBS",
-    "bankCode": "CH",
+    "bankCode": "PKBS",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "PKBSCH2280A",
     "Bank Name": "PKB PRIVATE BANK SA",
@@ -9399,8 +9399,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMFM",
-    "bankCode": "CH",
+    "bankCode": "PMFM",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "PMFMCH22",
     "Bank Name": "PMG INVESTMENT SOLUTIONS AG",
@@ -9412,8 +9412,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POFI",
-    "bankCode": "CH",
+    "bankCode": "POFI",
+    "countryCode": "CH",
     "branchCode": "HBE",
     "SWIFT Code": "POFICHBE",
     "Bank Name": "POSTFINANCE AG",
@@ -9425,8 +9425,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THEO",
-    "bankCode": "CH",
+    "bankCode": "THEO",
+    "countryCode": "CH",
     "branchCode": "H26",
     "SWIFT Code": "THEOCH26",
     "Bank Name": "PRIMEO HOLDING AG",
@@ -9438,8 +9438,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBE",
-    "bankCode": "CH",
+    "bankCode": "PRBE",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "PRBECHZZ",
     "Bank Name": "PRIVATBANK BELLERIVE AG",
@@ -9451,8 +9451,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IHZU",
-    "bankCode": "CH",
+    "bankCode": "IHZU",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "IHZUCHZZ",
     "Bank Name": "PRIVATBANK IHAG ZUERICH",
@@ -9464,8 +9464,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRAF",
-    "bankCode": "CH",
+    "bankCode": "GRAF",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GRAFCH22",
     "Bank Name": "PRIVATBANK VON GRAFFENRIED AG",
@@ -9477,8 +9477,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICL",
-    "bankCode": "CH",
+    "bankCode": "PICL",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "PICLCHZ2",
     "Bank Name": "PRIVATE CLIENT BANK AG",
@@ -9490,8 +9490,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "CH",
+    "bankCode": "QNBA",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "QNBACHGG",
     "Bank Name": "QNB (SUISSE) SA",
@@ -9503,8 +9503,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QVCH",
-    "bankCode": "CH",
+    "bankCode": "QVCH",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "QVCHCHZH",
     "Bank Name": "QUILVEST SWITZERLAND LTD.",
@@ -9516,8 +9516,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUIH",
-    "bankCode": "CH",
+    "bankCode": "QUIH",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "QUIHCHZ2",
     "Bank Name": "QUISH AND CO. LTD",
@@ -9529,8 +9529,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDCT",
-    "bankCode": "CH",
+    "bankCode": "RDCT",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "RDCTCHZH",
     "Bank Name": "RADICANT BANK AG",
@@ -9542,8 +9542,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAHN",
-    "bankCode": "CH",
+    "bankCode": "RAHN",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "RAHNCHZZ",
     "Bank Name": "RAHN+BODMER CO.",
@@ -9555,8 +9555,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D77",
     "SWIFT Code": "RAIFCH22D77",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9568,8 +9568,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "698",
     "SWIFT Code": "RAIFCH22698",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9581,8 +9581,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "669",
     "SWIFT Code": "RAIFCH22669",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9594,8 +9594,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "700",
     "SWIFT Code": "RAIFCH22700",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9607,8 +9607,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "701",
     "SWIFT Code": "RAIFCH22701",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9620,8 +9620,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "702",
     "SWIFT Code": "RAIFCH22702",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9633,8 +9633,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "719",
     "SWIFT Code": "RAIFCH22719",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9646,8 +9646,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C41",
     "SWIFT Code": "RAIFCH22C41",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9659,8 +9659,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B68",
     "SWIFT Code": "RAIFCH22B68",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9672,8 +9672,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "779",
     "SWIFT Code": "RAIFCH22779",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9685,8 +9685,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "447",
     "SWIFT Code": "RAIFCH22447",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9698,8 +9698,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "775",
     "SWIFT Code": "RAIFCH22775",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9711,8 +9711,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E31",
     "SWIFT Code": "RAIFCH22E31",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9724,8 +9724,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D71",
     "SWIFT Code": "RAIFCH22D71",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9737,8 +9737,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C97",
     "SWIFT Code": "RAIFCH22C97",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -9750,8 +9750,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "EZT",
     "SWIFT Code": "ZURICHZFEZT",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9763,8 +9763,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "GML",
     "SWIFT Code": "ZURICHZBGML",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9776,8 +9776,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "GAV",
     "SWIFT Code": "ZURICHZFGAV",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9789,8 +9789,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "GLV",
     "SWIFT Code": "ZURICHZFGLV",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9802,8 +9802,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ITH",
     "SWIFT Code": "ZURICHZFITH",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9815,8 +9815,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ITI",
     "SWIFT Code": "ZURICHZFITI",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9828,8 +9828,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "KVS",
     "SWIFT Code": "ZURICHZFKVS",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9841,8 +9841,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ORV",
     "SWIFT Code": "ZURICHZFORV",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9854,8 +9854,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "PFA",
     "SWIFT Code": "ZURICHZFPFA",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9867,8 +9867,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "PFZ",
     "SWIFT Code": "ZURICHZFPFZ",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9880,8 +9880,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "STC",
     "SWIFT Code": "ZURICHZFSTC",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9893,8 +9893,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "TUI",
     "SWIFT Code": "ZURICHZFTUI",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9906,8 +9906,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "TUR",
     "SWIFT Code": "ZURICHZFTUR",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9919,8 +9919,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "VLV",
     "SWIFT Code": "ZURICHZFVLV",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9932,8 +9932,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZBR",
     "SWIFT Code": "ZURICHZFZBR",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9945,8 +9945,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZCS",
     "SWIFT Code": "ZURICHZFZCS",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9958,8 +9958,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZFB",
     "SWIFT Code": "ZURICHZFZFB",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9971,8 +9971,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZFG",
     "SWIFT Code": "ZURICHZFZFG",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9984,8 +9984,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZFJ",
     "SWIFT Code": "ZURICHZFZFJ",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -9997,8 +9997,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZFP",
     "SWIFT Code": "ZURICHZFZFP",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10010,8 +10010,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZFS",
     "SWIFT Code": "ZURICHZFZFS",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10023,8 +10023,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZG1",
     "SWIFT Code": "ZURICHZFZG1",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10036,8 +10036,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZG2",
     "SWIFT Code": "ZURICHZFZG2",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10049,8 +10049,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZG3",
     "SWIFT Code": "ZURICHZFZG3",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10062,8 +10062,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZG4",
     "SWIFT Code": "ZURICHZFZG4",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10075,8 +10075,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZGH",
     "SWIFT Code": "ZURICHZFZGH",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10088,8 +10088,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZIB",
     "SWIFT Code": "ZURICHZFZIB",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10101,8 +10101,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZIC",
     "SWIFT Code": "ZURICHZFZIC",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10114,8 +10114,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZIJ",
     "SWIFT Code": "ZURICHZFZIJ",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10127,8 +10127,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZIM",
     "SWIFT Code": "ZURICHZFZIM",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10140,8 +10140,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZIN",
     "SWIFT Code": "ZURICHZFZIN",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10153,8 +10153,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZLV",
     "SWIFT Code": "ZURICHZFZLV",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10166,8 +10166,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZPI",
     "SWIFT Code": "ZURICHZFZPI",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10179,8 +10179,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZR1",
     "SWIFT Code": "ZURICHZFZR1",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10192,8 +10192,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZR2",
     "SWIFT Code": "ZURICHZFZR2",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10205,8 +10205,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZR3",
     "SWIFT Code": "ZURICHZFZR3",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10218,8 +10218,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZR4",
     "SWIFT Code": "ZURICHZFZR4",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10231,8 +10231,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZR5",
     "SWIFT Code": "ZURICHZFZR5",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10244,8 +10244,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZR6",
     "SWIFT Code": "ZURICHZFZR6",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10257,8 +10257,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZRV",
     "SWIFT Code": "ZURICHZFZRV",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10270,8 +10270,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZGF",
     "SWIFT Code": "ZURICHZFZGF",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10283,8 +10283,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZKT",
     "SWIFT Code": "ZURICHZFZKT",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10296,8 +10296,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZLT",
     "SWIFT Code": "ZURICHZFZLT",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10309,8 +10309,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZLF",
     "SWIFT Code": "ZURICHZFZLF",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10322,8 +10322,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZLS",
     "SWIFT Code": "ZURICHZFZLS",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10335,8 +10335,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZKF",
     "SWIFT Code": "ZURICHZFZKF",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10348,8 +10348,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZKS",
     "SWIFT Code": "ZURICHZFZKS",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10361,8 +10361,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZNT",
     "SWIFT Code": "ZURICHZFZNT",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10374,8 +10374,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ZVG",
     "SWIFT Code": "ZURICHZFZVG",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -10387,8 +10387,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B65",
     "SWIFT Code": "RAIFCH22B65",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10400,8 +10400,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "150",
     "SWIFT Code": "RAIFCH22150",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10413,8 +10413,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "129",
     "SWIFT Code": "RAIFCH22129",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10426,8 +10426,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "283",
     "SWIFT Code": "RAIFCH22283",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10439,8 +10439,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "097",
     "SWIFT Code": "RAIFCH22097",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10452,8 +10452,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "451",
     "SWIFT Code": "RAIFCH22451",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10465,8 +10465,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "237",
     "SWIFT Code": "RAIFCH22237",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10478,8 +10478,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B03",
     "SWIFT Code": "RAIFCH22B03",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10491,8 +10491,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "773",
     "SWIFT Code": "RAIFCH22773",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10504,8 +10504,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "332",
     "SWIFT Code": "RAIFCH22332",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10517,8 +10517,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "379",
     "SWIFT Code": "RAIFCH22379",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10530,8 +10530,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "333",
     "SWIFT Code": "RAIFCH22333",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10543,8 +10543,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "918",
     "SWIFT Code": "RAIFCH22918",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10556,8 +10556,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B96",
     "SWIFT Code": "RAIFCH22B96",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10569,8 +10569,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C03",
     "SWIFT Code": "RAIFCH22C03",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10582,8 +10582,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "875",
     "SWIFT Code": "RAIFCH22875",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10595,8 +10595,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "375",
     "SWIFT Code": "RAIFCH22375",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10608,8 +10608,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "454",
     "SWIFT Code": "RAIFCH22454",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10621,8 +10621,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "335",
     "SWIFT Code": "RAIFCH22335",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10634,8 +10634,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "105",
     "SWIFT Code": "RAIFCH22105",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10647,8 +10647,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "606",
     "SWIFT Code": "RAIFCH22606",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10660,8 +10660,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "843",
     "SWIFT Code": "RAIFCH22843",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10673,8 +10673,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "287",
     "SWIFT Code": "RAIFCH22287",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10686,8 +10686,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "704",
     "SWIFT Code": "RAIFCH22704",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10699,8 +10699,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C81",
     "SWIFT Code": "RAIFCH22C81",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10712,8 +10712,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "340",
     "SWIFT Code": "RAIFCH22340",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10725,8 +10725,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E57",
     "SWIFT Code": "RAIFCH22E57",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10738,8 +10738,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B94",
     "SWIFT Code": "RAIFCH22B94",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10751,8 +10751,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "705",
     "SWIFT Code": "RAIFCH22705",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10764,8 +10764,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "706",
     "SWIFT Code": "RAIFCH22706",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10777,8 +10777,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "401",
     "SWIFT Code": "RAIFCH22401",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10790,8 +10790,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "611",
     "SWIFT Code": "RAIFCH22611",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10803,8 +10803,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "445",
     "SWIFT Code": "RAIFCH22445",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10816,8 +10816,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "290",
     "SWIFT Code": "RAIFCH22290",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10829,8 +10829,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "460",
     "SWIFT Code": "RAIFCH22460",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10842,8 +10842,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C84",
     "SWIFT Code": "RAIFCH22C84",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10855,8 +10855,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "482",
     "SWIFT Code": "RAIFCH22482",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10868,8 +10868,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "532",
     "SWIFT Code": "RAIFCH22532",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10881,8 +10881,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D98",
     "SWIFT Code": "RAIFCH22D98",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10894,8 +10894,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "442",
     "SWIFT Code": "RAIFCH22442",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10907,8 +10907,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E77",
     "SWIFT Code": "RAIFCH22E77",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10920,8 +10920,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "774",
     "SWIFT Code": "RAIFCH22774",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10933,8 +10933,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "970",
     "SWIFT Code": "RAIFCH22970",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10946,8 +10946,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "479",
     "SWIFT Code": "RAIFCH22479",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10959,8 +10959,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E01",
     "SWIFT Code": "RAIFCH22E01",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10972,8 +10972,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "027",
     "SWIFT Code": "RAIFCH22027",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10985,8 +10985,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "971",
     "SWIFT Code": "RAIFCH22971",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -10998,8 +10998,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "539",
     "SWIFT Code": "RAIFCH22539",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -11011,8 +11011,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "780",
     "SWIFT Code": "RAIFCH22780",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -11024,8 +11024,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E79",
     "SWIFT Code": "RAIFCH22E79",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -11037,8 +11037,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "HZ9",
     "SWIFT Code": "UBSWCHZ9",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -11050,8 +11050,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "CH",
+    "bankCode": "UBSW",
+    "countryCode": "CH",
     "branchCode": "VIP",
     "SWIFT Code": "UBSWCHZHVIP",
     "Bank Name": "UBS SWITZERLAND AG",
@@ -11063,8 +11063,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUOE",
-    "bankCode": "CH",
+    "bankCode": "EUOE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EUOECH22",
     "Bank Name": "UG EUROPE AG",
@@ -11076,8 +11076,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYVE",
-    "bankCode": "CH",
+    "bankCode": "HYVE",
+    "countryCode": "CH",
     "branchCode": "HZU",
     "SWIFT Code": "HYVECHZU",
     "Bank Name": "UNICREDIT BANK AG",
@@ -11089,8 +11089,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "UNIGCHGG",
     "Bank Name": "UNIGESTION S.A.",
@@ -11102,8 +11102,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "EQT",
     "SWIFT Code": "UNIGCHGGEQT",
     "Bank Name": "UNIGESTION S.A.",
@@ -11115,8 +11115,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "FOG",
     "SWIFT Code": "UNIGCHGGFOG",
     "Bank Name": "UNIGESTION S.A.",
@@ -11128,8 +11128,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "FOL",
     "SWIFT Code": "UNIGCHGGFOL",
     "Bank Name": "UNIGESTION S.A.",
@@ -11141,8 +11141,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "FOP",
     "SWIFT Code": "UNIGCHGGFOP",
     "Bank Name": "UNIGESTION S.A.",
@@ -11154,8 +11154,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "FIN",
     "SWIFT Code": "UNIGCHGGFIN",
     "Bank Name": "UNIGESTION S.A.",
@@ -11167,8 +11167,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "HFD",
     "SWIFT Code": "UNIGCHGGHFD",
     "Bank Name": "UNIGESTION S.A.",
@@ -11180,8 +11180,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIG",
-    "bankCode": "CH",
+    "bankCode": "UNIG",
+    "countryCode": "CH",
     "branchCode": "PED",
     "SWIFT Code": "UNIGCHGGPED",
     "Bank Name": "UNIGESTION S.A.",
@@ -11193,8 +11193,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SULI",
-    "bankCode": "CH",
+    "bankCode": "SULI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SULICH22",
     "Bank Name": "UNILEVER FINANCE INTERNATIONAL AG",
@@ -11206,8 +11206,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "CH",
+    "bankCode": "UBPG",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "UBPGCHGG",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -11219,8 +11219,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "CH",
+    "bankCode": "UBPG",
+    "countryCode": "CH",
     "branchCode": "BSL",
     "SWIFT Code": "UBPGCHGGBSL",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -11232,8 +11232,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "CH",
+    "bankCode": "UBPG",
+    "countryCode": "CH",
     "branchCode": "HGE",
     "SWIFT Code": "UBPGCHGE",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -11245,8 +11245,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "CH",
+    "bankCode": "UBPG",
+    "countryCode": "CH",
     "branchCode": "MAM",
     "SWIFT Code": "UBPGCHGGMAM",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -11258,8 +11258,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "CH",
+    "bankCode": "UBPG",
+    "countryCode": "CH",
     "branchCode": "LUG",
     "SWIFT Code": "UBPGCHGGLUG",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -11271,8 +11271,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBPG",
-    "bankCode": "CH",
+    "bankCode": "UBPG",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "UBPGCHZZ",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -11284,8 +11284,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "URKN",
-    "bankCode": "CH",
+    "bankCode": "URKN",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "URKNCH22",
     "Bank Name": "URNER KANTONALBANK",
@@ -11297,8 +11297,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAOC",
-    "bankCode": "CH",
+    "bankCode": "VAOC",
+    "countryCode": "CH",
     "branchCode": "HGA",
     "SWIFT Code": "VAOCCHGA",
     "Bank Name": "VALCOURT SA",
@@ -11310,8 +11310,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VABE",
-    "bankCode": "CH",
+    "bankCode": "VABE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "VABECH22",
     "Bank Name": "VALIANT BANK AG",
@@ -11323,8 +11323,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FVLB",
-    "bankCode": "CH",
+    "bankCode": "FVLB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "FVLBCHZZ",
     "Bank Name": "VAN LANSCHOT KEMPEN (SCHWEIZ) AG",
@@ -11336,8 +11336,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VARO",
-    "bankCode": "CH",
+    "bankCode": "VARO",
+    "countryCode": "CH",
     "branchCode": "H2C",
     "SWIFT Code": "VAROCH2C",
     "Bank Name": "VARO ENERGY MARKETING AG",
@@ -11349,8 +11349,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAGO",
-    "bankCode": "CH",
+    "bankCode": "VAGO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "VAGOCH22",
     "Bank Name": "VAT GROUP AG",
@@ -11362,8 +11362,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VITO",
-    "bankCode": "CH",
+    "bankCode": "VITO",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "VITOCHGG",
     "Bank Name": "VITOL SA",
@@ -11375,8 +11375,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSFA",
-    "bankCode": "CH",
+    "bankCode": "VSFA",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "VSFACHZZ",
     "Bank Name": "VONTOBEL SWISS FINANCIAL ADVISERS AG",
@@ -11388,8 +11388,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPBV",
-    "bankCode": "CH",
+    "bankCode": "VPBV",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "VPBVCHZH",
     "Bank Name": "VP BANK (SCHWEIZ) AG",
@@ -11401,8 +11401,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VZDB",
-    "bankCode": "CH",
+    "bankCode": "VZDB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "VZDBCHZZ",
     "Bank Name": "VZ DEPOTBANK AG",
@@ -11414,8 +11414,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WWOH",
-    "bankCode": "CH",
+    "bankCode": "WWOH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "WWOHCH22",
     "Bank Name": "WEATHERFORD WORLDWIDE HOLDINGS GMBH",
@@ -11427,8 +11427,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIRB",
-    "bankCode": "CH",
+    "bankCode": "WIRB",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "WIRBCHBB",
     "Bank Name": "WIR BANK GENOSSENSCHAFT",
@@ -11440,8 +11440,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUFI",
-    "bankCode": "CH",
+    "bankCode": "WUFI",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "WUFICHZZ",
     "Bank Name": "WUERTH FINANCE INTERNATIONAL B.V.",
@@ -11453,8 +11453,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUFI",
-    "bankCode": "CH",
+    "bankCode": "WUFI",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "WUFICHZ2",
     "Bank Name": "WUERTH FINANCE INTERNATIONAL B.V.",
@@ -11466,8 +11466,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAXY",
-    "bankCode": "CH",
+    "bankCode": "SAXY",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SAXYCH22",
     "Bank Name": "XY SA",
@@ -11479,8 +11479,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YLEM",
-    "bankCode": "CH",
+    "bankCode": "YLEM",
+    "countryCode": "CH",
     "branchCode": "H2S",
     "SWIFT Code": "YLEMCH2S",
     "Bank Name": "XYLEM EUROPE GMBH",
@@ -11492,8 +11492,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPE",
-    "bankCode": "CH",
+    "bankCode": "YAPE",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "YAPECHZ2",
     "Bank Name": "YAPEAL AG",
@@ -11505,8 +11505,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAPR",
-    "bankCode": "CH",
+    "bankCode": "ZAPR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ZAPRCH22",
     "Bank Name": "ZAHRINGER PRIVATBANK AG",
@@ -11518,8 +11518,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBON",
-    "bankCode": "CH",
+    "bankCode": "ZBON",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ZBONCH22",
     "Bank Name": "ZAMBON SWITZERLAND LTD",
@@ -11531,8 +11531,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZKBK",
-    "bankCode": "CH",
+    "bankCode": "ZKBK",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "ZKBKCHZZ80A",
     "Bank Name": "ZUERCHER KANTONALBANK",
@@ -11544,8 +11544,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZKBK",
-    "bankCode": "CH",
+    "bankCode": "ZKBK",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ZKBKCHZZ",
     "Bank Name": "ZUERCHER KANTONALBANK",
@@ -11557,8 +11557,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZKBK",
-    "bankCode": "CH",
+    "bankCode": "ZKBK",
+    "countryCode": "CH",
     "branchCode": "CLS",
     "SWIFT Code": "ZKBKCHZZCLS",
     "Bank Name": "ZUERCHER KANTONALBANK",
@@ -11570,8 +11570,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "877",
     "SWIFT Code": "RBABCH22877",
     "Bank Name": "ZUERCHER LANDBANK AG",
@@ -11583,8 +11583,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBZG",
-    "bankCode": "CH",
+    "bankCode": "KBZG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBZGCH22",
     "Bank Name": "ZUGER KANTONALBANK",
@@ -11596,8 +11596,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "HZF",
     "SWIFT Code": "ZURICHZF",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11609,8 +11609,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "HZB",
     "SWIFT Code": "ZURICHZB",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11622,8 +11622,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "ASS",
     "SWIFT Code": "ZURICHZFASS",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11635,8 +11635,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "AVA",
     "SWIFT Code": "ZURICHZFAVA",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11648,8 +11648,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "BGI",
     "SWIFT Code": "ZURICHZFBGI",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11661,8 +11661,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "CAB",
     "SWIFT Code": "ZURICHZFCAB",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11674,8 +11674,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "CH",
+    "bankCode": "ZURI",
+    "countryCode": "CH",
     "branchCode": "CEU",
     "SWIFT Code": "ZURICHZFCEU",
     "Bank Name": "ZURICH INSURANCE COMPANY",
@@ -11687,8 +11687,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFRA",
-    "bankCode": "CH",
+    "bankCode": "CFRA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "CFRACH22",
     "Bank Name": "COFRA HOLDING AG",
@@ -11700,8 +11700,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "CH",
+    "bankCode": "COBA",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "COBACHZH",
     "Bank Name": "COMMERZBANK AG",
@@ -11713,8 +11713,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBM",
-    "bankCode": "CH",
+    "bankCode": "BIBM",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BIBMCH22",
     "Bank Name": "COMPAGNIE FINANCIERE MICHELIN SUISSE SA",
@@ -11726,8 +11726,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAVS",
-    "bankCode": "CH",
+    "bankCode": "FAVS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "FAVSCHGG",
     "Bank Name": "COMPENSWISS",
@@ -11739,8 +11739,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAVS",
-    "bankCode": "CH",
+    "bankCode": "FAVS",
+    "countryCode": "CH",
     "branchCode": "CLS",
     "SWIFT Code": "FAVSCHGGCLS",
     "Bank Name": "COMPENSWISS",
@@ -11752,8 +11752,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAVS",
-    "bankCode": "CH",
+    "bankCode": "FAVS",
+    "countryCode": "CH",
     "branchCode": "FEX",
     "SWIFT Code": "FAVSCHGGFEX",
     "Bank Name": "COMPENSWISS",
@@ -11765,8 +11765,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAVS",
-    "bankCode": "CH",
+    "bankCode": "FAVS",
+    "countryCode": "CH",
     "branchCode": "HEM",
     "SWIFT Code": "FAVSCHGGHEM",
     "Bank Name": "COMPENSWISS",
@@ -11778,8 +11778,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAVS",
-    "bankCode": "CH",
+    "bankCode": "FAVS",
+    "countryCode": "CH",
     "branchCode": "TMK",
     "SWIFT Code": "FAVSCHGGTMK",
     "Bank Name": "COMPENSWISS",
@@ -11791,8 +11791,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CWET",
-    "bankCode": "CH",
+    "bankCode": "CWET",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "CWETCH22",
     "Bank Name": "COPERNICUS WEALTH MANAGEMENT SA",
@@ -11804,8 +11804,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "CH",
+    "bankCode": "CBLU",
+    "countryCode": "CH",
     "branchCode": "68B",
     "SWIFT Code": "CBLUCH2268B",
     "Bank Name": "CORNER BANCA S.A.",
@@ -11817,8 +11817,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "CH",
+    "bankCode": "CBLU",
+    "countryCode": "CH",
     "branchCode": "12A",
     "SWIFT Code": "CBLUCH2212A",
     "Bank Name": "CORNER BANCA S.A.",
@@ -11830,8 +11830,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "CH",
+    "bankCode": "CBLU",
+    "countryCode": "CH",
     "branchCode": "66A",
     "SWIFT Code": "CBLUCH2266A",
     "Bank Name": "CORNER BANCA S.A.",
@@ -11843,8 +11843,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "CH",
+    "bankCode": "CBLU",
+    "countryCode": "CH",
     "branchCode": "NRA",
     "SWIFT Code": "CBLUCH22NRA",
     "Bank Name": "CORNER BANCA S.A.",
@@ -11856,8 +11856,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "CH",
+    "bankCode": "CBLU",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "CBLUCH22",
     "Bank Name": "CORNER BANCA S.A.",
@@ -11869,8 +11869,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "CH",
+    "bankCode": "CBLU",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "CBLUCH2280A",
     "Bank Name": "CORNER BANCA S.A.",
@@ -11882,8 +11882,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COUT",
-    "bankCode": "CH",
+    "bankCode": "COUT",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "COUTCHZZ",
     "Bank Name": "COUTTS AND CO LTD",
@@ -11895,8 +11895,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "CH",
+    "bankCode": "AGRI",
+    "countryCode": "CH",
     "branchCode": "HGX",
     "SWIFT Code": "AGRICHGX",
     "Bank Name": "CREDIT AGRICOLE NEXT BANK (SUISSE) SA",
@@ -11908,8 +11908,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSUI",
-    "bankCode": "CH",
+    "bankCode": "FSUI",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "FSUICHGG",
     "Bank Name": "CREDIT EUROPE BANK (SUISSE) S.A.",
@@ -11921,8 +11921,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "180",
     "SWIFT Code": "RBABCH22180",
     "Bank Name": "CREDIT MUTUEL DE LA VALLEE SA",
@@ -11934,8 +11934,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "50A",
     "SWIFT Code": "CRESCHZZ50A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -11947,8 +11947,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "89A",
     "SWIFT Code": "CRESCHZZ89A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -11960,8 +11960,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41D",
     "SWIFT Code": "CRESCHZZ41D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -11973,8 +11973,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "64K",
     "SWIFT Code": "CRESCHZZ64K",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -11986,8 +11986,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "64S",
     "SWIFT Code": "CRESCHZZ64S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -11999,8 +11999,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "94N",
     "SWIFT Code": "CRESCHZZ94N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12012,8 +12012,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "84G",
     "SWIFT Code": "CRESCHZZ84G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12025,8 +12025,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "70E",
     "SWIFT Code": "CRESCHZZ70E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12038,8 +12038,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66C",
     "SWIFT Code": "CRESCHZZ66C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12051,8 +12051,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66S",
     "SWIFT Code": "CRESCHZZ66S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12064,8 +12064,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "63K",
     "SWIFT Code": "CRESCHZZ63K",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12077,8 +12077,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "63S",
     "SWIFT Code": "CRESCHZZ63S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12090,8 +12090,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "73C",
     "SWIFT Code": "CRESCHZZ73C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12103,8 +12103,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "54A",
     "SWIFT Code": "CRESCHZZ54A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12116,8 +12116,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68F",
     "SWIFT Code": "CRESCHZZ68F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12129,8 +12129,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40A",
     "SWIFT Code": "CRESCHZZ40A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12142,8 +12142,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40D",
     "SWIFT Code": "CRESCHZZ40D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12155,8 +12155,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40B",
     "SWIFT Code": "CRESCHZZ40B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12168,8 +12168,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40S",
     "SWIFT Code": "CRESCHZZ40S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12181,8 +12181,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40R",
     "SWIFT Code": "CRESCHZZ40R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12194,8 +12194,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40E",
     "SWIFT Code": "CRESCHZZ40E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12207,8 +12207,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "40C",
     "SWIFT Code": "CRESCHZZ40C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12220,8 +12220,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65A",
     "SWIFT Code": "CRESCHZZ65A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12233,8 +12233,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "65R",
     "SWIFT Code": "CRESCHZZ65R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12246,8 +12246,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30N",
     "SWIFT Code": "CRESCHZZ30N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12259,8 +12259,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30A",
     "SWIFT Code": "CRESCHZZ30A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12272,8 +12272,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30B",
     "SWIFT Code": "CRESCHZZ30B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12285,8 +12285,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30R",
     "SWIFT Code": "CRESCHZZ30R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12298,8 +12298,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "30S",
     "SWIFT Code": "CRESCHZZ30S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12311,8 +12311,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "27I",
     "SWIFT Code": "CRESCHZZ27I",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12324,8 +12324,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "67A",
     "SWIFT Code": "CRESCHZZ67A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -12337,8 +12337,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "CH",
+    "bankCode": "HSBC",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "HSBCCHZZ",
     "Bank Name": "HSBC BANK PLC",
@@ -12350,8 +12350,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "CH",
+    "bankCode": "BLIC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BLICCHGG",
     "Bank Name": "HSBC PRIVATE BANK (SUISSE) SA",
@@ -12363,8 +12363,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "CH",
+    "bankCode": "BLIC",
+    "countryCode": "CH",
     "branchCode": "CLS",
     "SWIFT Code": "BLICCHGGCLS",
     "Bank Name": "HSBC PRIVATE BANK (SUISSE) SA",
@@ -12376,8 +12376,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "CH",
+    "bankCode": "BLIC",
+    "countryCode": "CH",
     "branchCode": "LUG",
     "SWIFT Code": "BLICCHGGLUG",
     "Bank Name": "HSBC PRIVATE BANK (SUISSE) SA",
@@ -12389,8 +12389,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "CH",
+    "bankCode": "BLIC",
+    "countryCode": "CH",
     "branchCode": "ZUR",
     "SWIFT Code": "BLICCHGGZUR",
     "Bank Name": "HSBC PRIVATE BANK (SUISSE) SA",
@@ -12402,8 +12402,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUPA",
-    "bankCode": "CH",
+    "bankCode": "HUPA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "HUPACH22",
     "Bank Name": "HUPAC SA",
@@ -12415,8 +12415,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "VLH",
     "SWIFT Code": "RBABCH22VLH",
     "Bank Name": "HYPO VORARLBERG BANK AG",
@@ -12428,8 +12428,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCIE",
-    "bankCode": "CH",
+    "bankCode": "CCIE",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CCIECHGG",
     "Bank Name": "HYPOSWISS PRIVATE BANK GENEVE SA",
@@ -12441,8 +12441,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "54A",
     "SWIFT Code": "HYPLCH2254A",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12454,8 +12454,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "57A",
     "SWIFT Code": "HYPLCH2257A",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12467,8 +12467,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "56A",
     "SWIFT Code": "HYPLCH2256A",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12480,8 +12480,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "HYPLCH22",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12493,8 +12493,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "56B",
     "SWIFT Code": "HYPLCH2256B",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12506,8 +12506,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "55A",
     "SWIFT Code": "HYPLCH2255A",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12519,8 +12519,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "51B",
     "SWIFT Code": "HYPLCH2251B",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12532,8 +12532,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "51A",
     "SWIFT Code": "HYPLCH2251A",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12545,8 +12545,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPL",
-    "bankCode": "CH",
+    "bankCode": "HYPL",
+    "countryCode": "CH",
     "branchCode": "57B",
     "SWIFT Code": "HYPLCH2257B",
     "Bank Name": "HYPOTHEKARBANK LENZBURG AG",
@@ -12558,8 +12558,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "S01",
     "SWIFT Code": "TMBECH22S01",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12571,8 +12571,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "IBC",
     "SWIFT Code": "TMBECH22IBC",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12584,8 +12584,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "IBG",
     "SWIFT Code": "TMBECH22IBG",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12597,8 +12597,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "IBL",
     "SWIFT Code": "TMBECH22IBL",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12610,8 +12610,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "THA",
     "SWIFT Code": "TMBECH22THA",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12623,8 +12623,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "THC",
     "SWIFT Code": "TMBECH22THC",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12636,8 +12636,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "THE",
     "SWIFT Code": "TMBECH22THE",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12649,8 +12649,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "THL",
     "SWIFT Code": "TMBECH22THL",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12662,8 +12662,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "TMBECH22",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12675,8 +12675,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "IBK",
     "SWIFT Code": "TMBECH22IBK",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12688,8 +12688,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMBE",
-    "bankCode": "CH",
+    "bankCode": "TMBE",
+    "countryCode": "CH",
     "branchCode": "THK",
     "SWIFT Code": "TMBECH22THK",
     "Bank Name": "IBKR FINANCIAL SERVICES AG",
@@ -12701,8 +12701,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFRC",
-    "bankCode": "CH",
+    "bankCode": "IFRC",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "IFRCCH22",
     "Bank Name": "IFRC MANAGEMENT AND CONSULTING AG",
@@ -12714,8 +12714,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGBK",
-    "bankCode": "CH",
+    "bankCode": "IGBK",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "IGBKCHGG",
     "Bank Name": "IG BANK S.A.",
@@ -12727,8 +12727,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGCA",
-    "bankCode": "CH",
+    "bankCode": "IGCA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "IGCACH22",
     "Bank Name": "IGSON CAPITAL AG",
@@ -12740,8 +12740,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IKES",
-    "bankCode": "CH",
+    "bankCode": "IKES",
+    "countryCode": "CH",
     "branchCode": "H2P",
     "SWIFT Code": "IKESCH2P",
     "Bank Name": "IKEA SUPPLY AG",
@@ -12753,8 +12753,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INCO",
-    "bankCode": "CH",
+    "bankCode": "INCO",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "INCOCHZZ",
     "Bank Name": "INCORE BANK AG",
@@ -12766,8 +12766,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "CH",
+    "bankCode": "ICBK",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ICBKCHZZ",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD,BEIJING, ZURICH BRANCH",
@@ -12779,8 +12779,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INFT",
-    "bankCode": "CH",
+    "bankCode": "INFT",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "INFTCH22",
     "Bank Name": "INFRONT SPORTS AND MEDIA AG",
@@ -12792,8 +12792,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "CH",
+    "bankCode": "BBRU",
+    "countryCode": "CH",
     "branchCode": "HGT",
     "SWIFT Code": "BBRUCHGT",
     "Bank Name": "ING BANK N.V., AMSTERDAM, LANCY/GENEVA BRANCH",
@@ -12805,8 +12805,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INFZ",
-    "bankCode": "CH",
+    "bankCode": "INFZ",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "INFZCH22",
     "Bank Name": "INTERHOERBIGER FINANZ AG",
@@ -12818,8 +12818,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOMI",
-    "bankCode": "CH",
+    "bankCode": "IOMI",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "IOMICHGG",
     "Bank Name": "INTERNATIONAL ORGANIZATION FOR MIGRATION",
@@ -12831,8 +12831,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INHI",
-    "bankCode": "CH",
+    "bankCode": "INHI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "INHICH22",
     "Bank Name": "INTEROGO HOLDING AG",
@@ -12844,8 +12844,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVTA",
-    "bankCode": "CH",
+    "bankCode": "IVTA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "IVTACH22",
     "Bank Name": "INVESTAS AG",
@@ -12857,8 +12857,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVTA",
-    "bankCode": "CH",
+    "bankCode": "IVTA",
+    "countryCode": "CH",
     "branchCode": "111",
     "SWIFT Code": "IVTACH22111",
     "Bank Name": "INVESTAS AG",
@@ -12870,8 +12870,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "CH",
+    "bankCode": "IVES",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "IVESCHZZ",
     "Bank Name": "INVESTEC BANK (SWITZERLAND) AG",
@@ -12883,8 +12883,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "CH",
+    "bankCode": "IVES",
+    "countryCode": "CH",
     "branchCode": "GOP",
     "SWIFT Code": "IVESCHZZGOP",
     "Bank Name": "INVESTEC BANK (SWITZERLAND) AG",
@@ -12896,8 +12896,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVGO",
-    "bankCode": "CH",
+    "bankCode": "IVGO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "IVGOCH22",
     "Bank Name": "INVESTIERA GROUP AG",
@@ -12909,8 +12909,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLES",
-    "bankCode": "CH",
+    "bankCode": "PLES",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "PLESCHZZ",
     "Bank Name": "ISP SECURITIES AG",
@@ -12922,8 +12922,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDMS",
-    "bankCode": "CH",
+    "bankCode": "LDMS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "LDMSCHGG",
     "Bank Name": "IXM SA",
@@ -12935,8 +12935,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "CH",
+    "bankCode": "MGTC",
+    "countryCode": "CH",
     "branchCode": "ENQ",
     "SWIFT Code": "MGTCCHZZENQ",
     "Bank Name": "J.P. MORGAN (SUISSE) S.A",
@@ -12948,8 +12948,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "CH",
+    "bankCode": "MGTC",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "MGTCCHZZ",
     "Bank Name": "J.P. MORGAN (SUISSE) S.A",
@@ -12961,8 +12961,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "CH",
+    "bankCode": "MGTC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MGTCCHGG",
     "Bank Name": "J.P. MORGAN (SUISSE) S.A.",
@@ -12974,8 +12974,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "CH",
+    "bankCode": "MGTC",
+    "countryCode": "CH",
     "branchCode": "MOM",
     "SWIFT Code": "MGTCCHGGMOM",
     "Bank Name": "J.P. MORGAN (SUISSE) S.A.",
@@ -12987,8 +12987,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "25F",
     "SWIFT Code": "CRESCHZZ25F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13000,8 +13000,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88M",
     "SWIFT Code": "CRESCHZZ88M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13013,8 +13013,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68E",
     "SWIFT Code": "CRESCHZZ68E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13026,8 +13026,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68T",
     "SWIFT Code": "CRESCHZZ68T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13039,8 +13039,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "49A",
     "SWIFT Code": "CRESCHZZ49A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13052,8 +13052,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "49R",
     "SWIFT Code": "CRESCHZZ49R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13065,8 +13065,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "42A",
     "SWIFT Code": "CRESCHZZ42A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13078,8 +13078,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10A",
     "SWIFT Code": "CRESCHZZ10A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13091,8 +13091,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10F",
     "SWIFT Code": "CRESCHZZ10F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13104,8 +13104,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10R",
     "SWIFT Code": "CRESCHZZ10R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13117,8 +13117,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10E",
     "SWIFT Code": "CRESCHZZ10E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13130,8 +13130,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10C",
     "SWIFT Code": "CRESCHZZ10C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13143,8 +13143,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10D",
     "SWIFT Code": "CRESCHZZ10D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13156,8 +13156,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "44A",
     "SWIFT Code": "CRESCHZZ44A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13169,8 +13169,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "44R",
     "SWIFT Code": "CRESCHZZ44R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13182,8 +13182,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66A",
     "SWIFT Code": "CRESCHZZ66A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13195,8 +13195,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66R",
     "SWIFT Code": "CRESCHZZ66R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13208,8 +13208,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66D",
     "SWIFT Code": "CRESCHZZ66D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13221,8 +13221,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60A",
     "SWIFT Code": "CRESCHZZ60A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13234,8 +13234,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60R",
     "SWIFT Code": "CRESCHZZ60R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13247,8 +13247,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69A",
     "SWIFT Code": "CRESCHZZ69A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13260,8 +13260,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69C",
     "SWIFT Code": "CRESCHZZ69C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13273,8 +13273,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69N",
     "SWIFT Code": "CRESCHZZ69N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13286,8 +13286,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69E",
     "SWIFT Code": "CRESCHZZ69E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13299,8 +13299,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69B",
     "SWIFT Code": "CRESCHZZ69B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13312,8 +13312,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69R",
     "SWIFT Code": "CRESCHZZ69R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13325,8 +13325,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "32A",
     "SWIFT Code": "CRESCHZZ32A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13338,8 +13338,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "19B",
     "SWIFT Code": "CRESCHZZ19B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13351,8 +13351,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "19R",
     "SWIFT Code": "CRESCHZZ19R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13364,8 +13364,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87D",
     "SWIFT Code": "CRESCHZZ87D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13377,8 +13377,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "87R",
     "SWIFT Code": "CRESCHZZ87R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13390,8 +13390,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68C",
     "SWIFT Code": "CRESCHZZ68C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13403,8 +13403,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68S",
     "SWIFT Code": "CRESCHZZ68S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13416,8 +13416,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66E",
     "SWIFT Code": "CRESCHZZ66E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13429,8 +13429,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18L",
     "SWIFT Code": "CRESCHZZ18L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13442,8 +13442,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18D",
     "SWIFT Code": "CRESCHZZ18D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13455,8 +13455,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "18S",
     "SWIFT Code": "CRESCHZZ18S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13468,8 +13468,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "11A",
     "SWIFT Code": "CRESCHZZ11A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13481,8 +13481,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "11R",
     "SWIFT Code": "CRESCHZZ11R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13494,8 +13494,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "27F",
     "SWIFT Code": "CRESCHZZ27F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13507,8 +13507,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "32B",
     "SWIFT Code": "CRESCHZZ32B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13520,8 +13520,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41G",
     "SWIFT Code": "CRESCHZZ41G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13533,8 +13533,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "20A",
     "SWIFT Code": "CRESCHZZ20A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13546,8 +13546,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "20R",
     "SWIFT Code": "CRESCHZZ20R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13559,8 +13559,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "82F",
     "SWIFT Code": "CRESCHZZ82F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13572,8 +13572,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12T",
     "SWIFT Code": "CRESCHZZ12T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13585,8 +13585,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12O",
     "SWIFT Code": "CRESCHZZ12O",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13598,8 +13598,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "47A",
     "SWIFT Code": "CRESCHZZ47A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13611,8 +13611,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "46A",
     "SWIFT Code": "CRESCHZZ46A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13624,8 +13624,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "46R",
     "SWIFT Code": "CRESCHZZ46R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13637,8 +13637,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "SYN",
     "SWIFT Code": "CRESCHZZSYN",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13650,8 +13650,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "DEP",
     "SWIFT Code": "CRESCHZZDEP",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13663,8 +13663,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "PHX",
     "SWIFT Code": "CRESCHZZPHX",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13676,8 +13676,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80E",
     "SWIFT Code": "CRESCHZZ80E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13689,8 +13689,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80W",
     "SWIFT Code": "CRESCHZZ80W",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13702,8 +13702,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80Q",
     "SWIFT Code": "CRESCHZZ80Q",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13715,8 +13715,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "WRO",
     "SWIFT Code": "CRESCHZZWRO",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13728,8 +13728,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80C",
     "SWIFT Code": "CRESCHZZ80C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13741,8 +13741,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "IKS",
     "SWIFT Code": "CRESCHZZIKS",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13754,8 +13754,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80U",
     "SWIFT Code": "CRESCHZZ80U",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13767,8 +13767,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "PAY",
     "SWIFT Code": "CRESCHZZPAY",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13780,8 +13780,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80H",
     "SWIFT Code": "CRESCHZZ80H",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13793,8 +13793,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "STP",
     "SWIFT Code": "CRESCHZZSTP",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13806,8 +13806,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80N",
     "SWIFT Code": "CRESCHZZ80N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13819,8 +13819,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80M",
     "SWIFT Code": "CRESCHZZ80M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13832,8 +13832,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80V",
     "SWIFT Code": "CRESCHZZ80V",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13845,8 +13845,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80S",
     "SWIFT Code": "CRESCHZZ80S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13858,8 +13858,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80B",
     "SWIFT Code": "CRESCHZZ80B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13871,8 +13871,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "FUN",
     "SWIFT Code": "CRESCHZZFUN",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13884,8 +13884,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "EXO",
     "SWIFT Code": "CRESCHZZEXO",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13897,8 +13897,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80O",
     "SWIFT Code": "CRESCHZZ80O",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13910,8 +13910,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "GTP",
     "SWIFT Code": "CRESCHZZGTP",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13923,8 +13923,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "CRESCHZZ80A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13936,8 +13936,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CRESCHZZ",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13949,8 +13949,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80I",
     "SWIFT Code": "CRESCHZZ80I",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13962,8 +13962,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80P",
     "SWIFT Code": "CRESCHZZ80P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13975,8 +13975,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80J",
     "SWIFT Code": "CRESCHZZ80J",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -13988,8 +13988,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81Z",
     "SWIFT Code": "CRESCHZZ81Z",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14001,8 +14001,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80F",
     "SWIFT Code": "CRESCHZZ80F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14014,8 +14014,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "JUG",
     "SWIFT Code": "CRESCHZZJUG",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14027,8 +14027,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80D",
     "SWIFT Code": "CRESCHZZ80D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14040,8 +14040,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80G",
     "SWIFT Code": "CRESCHZZ80G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14053,8 +14053,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80X",
     "SWIFT Code": "CRESCHZZ80X",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14066,8 +14066,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80Y",
     "SWIFT Code": "CRESCHZZ80Y",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14079,8 +14079,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80K",
     "SWIFT Code": "CRESCHZZ80K",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14092,8 +14092,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80L",
     "SWIFT Code": "CRESCHZZ80L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14105,8 +14105,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80Z",
     "SWIFT Code": "CRESCHZZ80Z",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14118,8 +14118,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80R",
     "SWIFT Code": "CRESCHZZ80R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14131,8 +14131,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "80T",
     "SWIFT Code": "CRESCHZZ80T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14144,8 +14144,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "63A",
     "SWIFT Code": "CRESCHZZ63A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14157,8 +14157,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "63R",
     "SWIFT Code": "CRESCHZZ63R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -14170,8 +14170,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "HZF",
     "SWIFT Code": "CRESCHZF",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)",
@@ -14183,8 +14183,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "FOX",
     "SWIFT Code": "CRESCHZFFOX",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)",
@@ -14196,8 +14196,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "GCM",
     "SWIFT Code": "CRESCHZFGCM",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)",
@@ -14209,8 +14209,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "EFT",
     "SWIFT Code": "CRESCHZFEFT",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)",
@@ -14222,8 +14222,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "ARS",
     "SWIFT Code": "CRESCHZFARS",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)",
@@ -14235,8 +14235,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "SST",
     "SWIFT Code": "CRESCHZFSST",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG (MULTIBANK ARS AND EFT SERVICE)",
@@ -14248,8 +14248,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "CRESCHZ2",
     "Bank Name": "CREDIT SUISSE AG",
@@ -14261,8 +14261,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "ERB",
     "SWIFT Code": "CRESCHZHERB",
     "Bank Name": "CREDIT SUISSE AG",
@@ -14274,8 +14274,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "EUM",
     "SWIFT Code": "CRESCHZHEUM",
     "Bank Name": "CREDIT SUISSE AG",
@@ -14287,8 +14287,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JACR",
-    "bankCode": "CH",
+    "bankCode": "JACR",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "JACRCHG2",
     "Bank Name": "JABRE CAPITAL PARTNERS SA",
@@ -14300,8 +14300,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JLSE",
-    "bankCode": "CH",
+    "bankCode": "JLSE",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "JLSECHGG",
     "Bank Name": "JL SECURITIES SA",
@@ -14313,8 +14313,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CH",
+    "bankCode": "CHAS",
+    "countryCode": "CH",
     "branchCode": "HGX",
     "SWIFT Code": "CHASCHGX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A.",
@@ -14326,8 +14326,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "CH",
+    "bankCode": "CHAS",
+    "countryCode": "CH",
     "branchCode": "BUL",
     "SWIFT Code": "CHASCHGXBUL",
     "Bank Name": "JPMORGAN CHASE BANK, N.A.",
@@ -14339,8 +14339,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTIS",
-    "bankCode": "CH",
+    "bankCode": "JTIS",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "JTISCHG2",
     "Bank Name": "JT INTERNATIONAL SA",
@@ -14352,8 +14352,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAGP",
-    "bankCode": "CH",
+    "bankCode": "KAGP",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "KAGPCHZZ",
     "Bank Name": "KA GROUP AG",
@@ -14365,8 +14365,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANPR",
-    "bankCode": "CH",
+    "bankCode": "ANPR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ANPRCH22",
     "Bank Name": "KALEIDOPRIVATBANK AG",
@@ -14378,8 +14378,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSEH",
-    "bankCode": "CH",
+    "bankCode": "KSEH",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "KSEHCHGG",
     "Bank Name": "KENDRA SECURITIES HOUSE SA",
@@ -14391,8 +14391,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KECH",
-    "bankCode": "CH",
+    "bankCode": "KECH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KECHCH22",
     "Bank Name": "KEPLER SERVICES SA",
@@ -14404,8 +14404,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIEG",
-    "bankCode": "CH",
+    "bankCode": "KIEG",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "KIEGCHZZ",
     "Bank Name": "KIEGER AG",
@@ -14417,8 +14417,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLAR",
-    "bankCode": "CH",
+    "bankCode": "KLAR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KLARCH22",
     "Bank Name": "KLARPAY AG",
@@ -14430,8 +14430,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOAG",
-    "bankCode": "CH",
+    "bankCode": "KOAG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KOAGCH22",
     "Bank Name": "KOLMAR GROUP AG",
@@ -14443,8 +14443,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUDL",
-    "bankCode": "CH",
+    "bankCode": "KUDL",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KUDLCH22",
     "Bank Name": "KUDELSKI SA",
@@ -14456,8 +14456,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUNA",
-    "bankCode": "CH",
+    "bankCode": "KUNA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KUNACH22",
     "Bank Name": "KUHNE + NAGEL MANAGEMENT AG",
@@ -14469,8 +14469,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCC",
-    "bankCode": "CH",
+    "bankCode": "LOCC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "LOCCCHGG",
     "Bank Name": "L'OCCITANE INTERNATIONAL (SUISSE) SA",
@@ -14482,8 +14482,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCC",
-    "bankCode": "CH",
+    "bankCode": "LOCC",
+    "countryCode": "CH",
     "branchCode": "HGE",
     "SWIFT Code": "LOCCCHGE",
     "Bank Name": "L'OCCITANE INTERNATIONAL SA, LUXEMBOURG, SUCCURSALE DE PLAN-LES-OUATES",
@@ -14495,8 +14495,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPDS",
-    "bankCode": "CH",
+    "bankCode": "CPDS",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "CPDSCH22",
     "Bank Name": "LA COMPAGNIE D'OCTODURE SRL",
@@ -14508,8 +14508,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "875",
     "SWIFT Code": "RBABCH22875",
     "Bank Name": "LEIHKASSE STAMMHEIM AG",
@@ -14521,8 +14521,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGF",
-    "bankCode": "CH",
+    "bankCode": "EFGF",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "EFGFCHZZ",
     "Bank Name": "LEONTEQ SECURITIES AG",
@@ -14534,8 +14534,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGF",
-    "bankCode": "CH",
+    "bankCode": "EFGF",
+    "countryCode": "CH",
     "branchCode": "GUN",
     "SWIFT Code": "EFGFCHZZGUN",
     "Bank Name": "LEONTEQ SECURITIES AG",
@@ -14547,8 +14547,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGF",
-    "bankCode": "CH",
+    "bankCode": "EFGF",
+    "countryCode": "CH",
     "branchCode": "HUB",
     "SWIFT Code": "EFGFCHZZHUB",
     "Bank Name": "LEONTEQ SECURITIES AG",
@@ -14560,8 +14560,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DREY",
-    "bankCode": "CH",
+    "bankCode": "DREY",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "DREYCHBB",
     "Bank Name": "LES FILS DREYFUS ET CIE SA, BANQUIERS",
@@ -14573,8 +14573,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFFS",
-    "bankCode": "CH",
+    "bankCode": "LFFS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "LFFSCHGG",
     "Bank Name": "LF FINANCE (SUISSE) S.A.",
@@ -14586,8 +14586,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZTTS",
-    "bankCode": "CH",
+    "bankCode": "ZTTS",
+    "countryCode": "CH",
     "branchCode": "H2L",
     "SWIFT Code": "ZTTSCH2L",
     "Bank Name": "LFG+ZEST SA",
@@ -14599,8 +14599,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "CH",
+    "bankCode": "BLFL",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "BLFLCHBB",
     "Bank Name": "LGT BANK (SCHWEIZ) AG",
@@ -14612,8 +14612,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "CH",
+    "bankCode": "BLFL",
+    "countryCode": "CH",
     "branchCode": "EXC",
     "SWIFT Code": "BLFLCHBBEXC",
     "Bank Name": "LGT BANK (SCHWEIZ) AG",
@@ -14625,8 +14625,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "CH",
+    "bankCode": "BLFL",
+    "countryCode": "CH",
     "branchCode": "H2P",
     "SWIFT Code": "BLFLCH2P",
     "Bank Name": "LGT CAPITAL PARTNERS AG",
@@ -14638,8 +14638,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "CH",
+    "bankCode": "BLFL",
+    "countryCode": "CH",
     "branchCode": "HUD",
     "SWIFT Code": "BLFLCH2PHUD",
     "Bank Name": "LGT CAPITAL PARTNERS AG",
@@ -14651,8 +14651,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "CH",
+    "bankCode": "BLFL",
+    "countryCode": "CH",
     "branchCode": "SCD",
     "SWIFT Code": "BLFLCH2PSCD",
     "Bank Name": "LGT CAPITAL PARTNERS AG",
@@ -14664,8 +14664,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "CH",
+    "bankCode": "BLFL",
+    "countryCode": "CH",
     "branchCode": "ILS",
     "SWIFT Code": "BLFLCH2PILS",
     "Bank Name": "LGT CAPITAL PARTNERS AG",
@@ -14677,8 +14677,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "830",
     "SWIFT Code": "RBABCH22830",
     "Bank Name": "LIENHARDT AND PARTNER PRIVATBANK ZURICH AG",
@@ -14690,8 +14690,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LFWR",
-    "bankCode": "CH",
+    "bankCode": "LFWR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "LFWRCH22",
     "Bank Name": "LIFEWARE SA",
@@ -14703,8 +14703,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LINS",
-    "bankCode": "CH",
+    "bankCode": "LINS",
+    "countryCode": "CH",
     "branchCode": "H23",
     "SWIFT Code": "LINSCH23",
     "Bank Name": "LLB (SCHWEIZ) AG",
@@ -14716,8 +14716,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOGN",
-    "bankCode": "CH",
+    "bankCode": "LOGN",
+    "countryCode": "CH",
     "branchCode": "H2B",
     "SWIFT Code": "LOGNCH2B",
     "Bank Name": "LOGITECH EUROPE SA",
@@ -14729,8 +14729,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOAM",
-    "bankCode": "CH",
+    "bankCode": "LOAM",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "LOAMCHGG",
     "Bank Name": "LOMBARD ODIER ASSET MANAGEMENT (SWITZERLAND) SA",
@@ -14742,8 +14742,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGBW",
-    "bankCode": "CH",
+    "bankCode": "LGBW",
+    "countryCode": "CH",
     "branchCode": "JFK",
     "SWIFT Code": "LGBWCH22JFK",
     "Bank Name": "LONGBOW FINANCE SA",
@@ -14755,8 +14755,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGBW",
-    "bankCode": "CH",
+    "bankCode": "LGBW",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "LGBWCH22",
     "Bank Name": "LONGBOW FINANCE SA",
@@ -14768,8 +14768,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOGR",
-    "bankCode": "CH",
+    "bankCode": "LOGR",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "LOGRCHBB",
     "Bank Name": "LONZA GROUP AG",
@@ -14781,8 +14781,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOGR",
-    "bankCode": "CH",
+    "bankCode": "LOGR",
+    "countryCode": "CH",
     "branchCode": "CH3",
     "SWIFT Code": "LOGRCHBBCH3",
     "Bank Name": "LONZA GROUP AG",
@@ -14794,8 +14794,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIMM",
-    "bankCode": "CH",
+    "bankCode": "VIMM",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "VIMMCHZZ",
     "Bank Name": "LOOMIS SCHWEIZ AG",
@@ -14807,8 +14807,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEPO",
-    "bankCode": "CH",
+    "bankCode": "SEPO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SEPOCH22",
     "Bank Name": "LOOMIS SCHWEIZ AG",
@@ -14820,8 +14820,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDRC",
-    "bankCode": "CH",
+    "bankCode": "LDRC",
+    "countryCode": "CH",
     "branchCode": "HGE",
     "SWIFT Code": "LDRCCHGE",
     "Bank Name": "LOUIS DREYFUS COMPANY SUISSE S.A.",
@@ -14833,8 +14833,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62D",
     "SWIFT Code": "LUKBCH2262D",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14846,8 +14846,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60K",
     "SWIFT Code": "LUKBCH2260K",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14859,8 +14859,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60G",
     "SWIFT Code": "LUKBCH2260G",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14872,8 +14872,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62K",
     "SWIFT Code": "LUKBCH2262K",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14885,8 +14885,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62M",
     "SWIFT Code": "LUKBCH2262M",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14898,8 +14898,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "62L",
     "SWIFT Code": "LUKBCH2262L",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14911,8 +14911,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60M",
     "SWIFT Code": "LUKBCH2260M",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14924,8 +14924,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUKB",
-    "bankCode": "CH",
+    "bankCode": "LUKB",
+    "countryCode": "CH",
     "branchCode": "60F",
     "SWIFT Code": "LUKBCH2260F",
     "Bank Name": "LUZERNER KANTONALBANK",
@@ -14937,8 +14937,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "TCF",
     "SWIFT Code": "SGABCHZZTCF",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -14950,8 +14950,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "TRA",
     "SWIFT Code": "SGABCHZZTRA",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -14963,8 +14963,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SGABCHZZ",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -14976,8 +14976,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "CTI",
     "SWIFT Code": "SGABCHZZCTI",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -14989,8 +14989,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "ACC",
     "SWIFT Code": "SGABCHZZACC",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15002,8 +15002,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "TSF",
     "SWIFT Code": "SGABCHZZTSF",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15015,8 +15015,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "019",
     "SWIFT Code": "SGABCHZZ019",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15028,8 +15028,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "448",
     "SWIFT Code": "SGABCHZZ448",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15041,8 +15041,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "TSA",
     "SWIFT Code": "SGABCHZZTSA",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15054,8 +15054,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "SGZ",
     "SWIFT Code": "SGABCHZZSGZ",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15067,8 +15067,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "CH",
+    "bankCode": "SGAB",
+    "countryCode": "CH",
     "branchCode": "TPS",
     "SWIFT Code": "SGABCHZZTPS",
     "Bank Name": "SOCIETE GENERALE, PARIS, ZURICH BRANCH",
@@ -15080,8 +15080,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOSU",
-    "bankCode": "CH",
+    "bankCode": "SOSU",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "SOSUCHGG",
     "Bank Name": "SOLEVO SUISSE SA",
@@ -15093,8 +15093,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONC",
-    "bankCode": "CH",
+    "bankCode": "SONC",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "SONCCHZ2",
     "Bank Name": "SONECT AG",
@@ -15106,8 +15106,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONO",
-    "bankCode": "CH",
+    "bankCode": "SONO",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SONOCHZZ",
     "Bank Name": "SONOVA AG",
@@ -15119,8 +15119,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCVU",
-    "bankCode": "CH",
+    "bankCode": "SCVU",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SCVUCH22",
     "Bank Name": "SOS CASH AND VALUE SA",
@@ -15132,8 +15132,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLGU",
-    "bankCode": "CH",
+    "bankCode": "SLGU",
+    "countryCode": "CH",
     "branchCode": "H2M",
     "SWIFT Code": "SLGUCH2M",
     "Bank Name": "SPAR UND LEIHKASSE GUERBETAL AG",
@@ -15145,8 +15145,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "374",
     "SWIFT Code": "RBABCH22374",
     "Bank Name": "SPAR UND LEIHKASSE RIGGISBERG AG",
@@ -15158,8 +15158,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLBU",
-    "bankCode": "CH",
+    "bankCode": "SLBU",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SLBUCH22",
     "Bank Name": "SPAR- UND LEIHKASSE BUCHEGGBERG AG",
@@ -15171,8 +15171,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLFF",
-    "bankCode": "CH",
+    "bankCode": "SLFF",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SLFFCH22",
     "Bank Name": "SPAR- UND LEIHKASSE FRUTIGEN",
@@ -15184,8 +15184,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSZH",
-    "bankCode": "CH",
+    "bankCode": "BSZH",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BSZHCHZZ",
     "Bank Name": "SPARHAFEN BANK AG",
@@ -15197,8 +15197,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKBP",
-    "bankCode": "CH",
+    "bankCode": "SKBP",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SKBPCH22",
     "Bank Name": "SPARKASSE BUNDESPERSONAL SKB, EFV",
@@ -15210,8 +15210,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "633",
     "SWIFT Code": "RBABCH22633",
     "Bank Name": "SPARKASSE SCHWYZ AG",
@@ -15223,8 +15223,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPOA",
-    "bankCode": "CH",
+    "bankCode": "SPOA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SPOACH22",
     "Bank Name": "SPORTRADAR AG",
@@ -15236,8 +15236,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAHH",
-    "bankCode": "CH",
+    "bankCode": "SAHH",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "SAHHCHZ2",
     "Bank Name": "SR SAPHIRSTEIN AG",
@@ -15249,8 +15249,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSG",
-    "bankCode": "CH",
+    "bankCode": "KBSG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBSGCH22",
     "Bank Name": "ST.GALLER KANTONALBANK",
@@ -15262,8 +15262,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRAI",
-    "bankCode": "CH",
+    "bankCode": "SRAI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SRAICH22",
     "Bank Name": "STADLER RAIL AG",
@@ -15275,8 +15275,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SITO",
-    "bankCode": "CH",
+    "bankCode": "SITO",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SITOCHZZ",
     "Bank Name": "STARR INTERNATIONAL COMPANY, INC.",
@@ -15288,8 +15288,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSBE",
-    "bankCode": "CH",
+    "bankCode": "SSBE",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SSBECHZZ",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH, MUNICH, ZURICH",
@@ -15301,8 +15301,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSAI",
-    "bankCode": "CH",
+    "bankCode": "PSAI",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "PSAICHGG",
     "Bank Name": "STELLANTIS INTERNATIONAL S.A.",
@@ -15314,8 +15314,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSAI",
-    "bankCode": "CH",
+    "bankCode": "PSAI",
+    "countryCode": "CH",
     "branchCode": "PCA",
     "SWIFT Code": "PSAICHGGPCA",
     "Bank Name": "STELLANTIS INTERNATIONAL S.A.",
@@ -15327,8 +15327,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STHO",
-    "bankCode": "CH",
+    "bankCode": "STHO",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "STHOCHBB",
     "Bank Name": "STRAUMANN HOLDING AG",
@@ -15340,8 +15340,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SULZ",
-    "bankCode": "CH",
+    "bankCode": "SULZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SULZCHZZ",
     "Bank Name": "SULZER AG",
@@ -15353,8 +15353,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUAA",
-    "bankCode": "CH",
+    "bankCode": "SUAA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SUAACH22",
     "Bank Name": "SUVA",
@@ -15366,8 +15366,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUAA",
-    "bankCode": "CH",
+    "bankCode": "SUAA",
+    "countryCode": "CH",
     "branchCode": "EAF",
     "SWIFT Code": "SUAACH22EAF",
     "Bank Name": "SUVA",
@@ -15379,8 +15379,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUAA",
-    "bankCode": "CH",
+    "bankCode": "SUAA",
+    "countryCode": "CH",
     "branchCode": "H2A",
     "SWIFT Code": "SUAACH2A",
     "Bank Name": "SUVA ROESSLIMATT (FA)",
@@ -15392,8 +15392,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSMT",
-    "bankCode": "CH",
+    "bankCode": "SSMT",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "SSMTCHZ2",
     "Bank Name": "SWISS ASSET MANAGEMENT AND TRUST AG",
@@ -15405,8 +15405,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFAS",
-    "bankCode": "CH",
+    "bankCode": "SFAS",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "SFASCHG2",
     "Bank Name": "SWISS FINANCE ALLIANCE SCM",
@@ -15418,8 +15418,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWFP",
-    "bankCode": "CH",
+    "bankCode": "SWFP",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SWFPCH22",
     "Bank Name": "SWISS FINANCE AND PROPERTY AG",
@@ -15431,8 +15431,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "SLH",
     "SWIFT Code": "SLAMCHZZSLH",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15444,8 +15444,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "TPM",
     "SWIFT Code": "SLAMCHZZTPM",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15457,8 +15457,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "SXX",
     "SWIFT Code": "SLAMCHZZSXX",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15470,8 +15470,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "SXI",
     "SWIFT Code": "SLAMCHZZSXI",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15483,8 +15483,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SLAMCHZZ",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15496,8 +15496,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "EV0",
     "SWIFT Code": "SLAMCHZZEV0",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15509,8 +15509,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "KV0",
     "SWIFT Code": "SLAMCHZZKV0",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15522,8 +15522,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "CH",
+    "bankCode": "SLAM",
+    "countryCode": "CH",
     "branchCode": "NZ0",
     "SWIFT Code": "SLAMCHZZNZ0",
     "Bank Name": "SWISS LIFE ASSET MANAGEMENT AG",
@@ -15535,8 +15535,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNBZ",
-    "bankCode": "CH",
+    "bankCode": "SNBZ",
+    "countryCode": "CH",
     "branchCode": "30A",
     "SWIFT Code": "SNBZCHZZ30A",
     "Bank Name": "SWISS NATIONAL BANK",
@@ -15548,8 +15548,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNBZ",
-    "bankCode": "CH",
+    "bankCode": "SNBZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "SNBZCHZZ",
     "Bank Name": "SWISS NATIONAL BANK",
@@ -15561,8 +15561,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNBZ",
-    "bankCode": "CH",
+    "bankCode": "SNBZ",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "SNBZCHZZ80A",
     "Bank Name": "SWISS NATIONAL BANK",
@@ -15574,8 +15574,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNBZ",
-    "bankCode": "CH",
+    "bankCode": "SNBZ",
+    "countryCode": "CH",
     "branchCode": "80B",
     "SWIFT Code": "SNBZCHZZ80B",
     "Bank Name": "SWISS NATIONAL BANK",
@@ -15587,8 +15587,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D73",
     "SWIFT Code": "RAIFCH22D73",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15600,8 +15600,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C53",
     "SWIFT Code": "RAIFCH22C53",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15613,8 +15613,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A23",
     "SWIFT Code": "RAIFCH22A23",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15626,8 +15626,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "776",
     "SWIFT Code": "RAIFCH22776",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15639,8 +15639,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "414",
     "SWIFT Code": "RAIFCH22414",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15652,8 +15652,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E54",
     "SWIFT Code": "RAIFCH22E54",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15665,8 +15665,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "930",
     "SWIFT Code": "RAIFCH22930",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15678,8 +15678,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E86",
     "SWIFT Code": "RAIFCH22E86",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15691,8 +15691,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "387",
     "SWIFT Code": "RAIFCH22387",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15704,8 +15704,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "098",
     "SWIFT Code": "RAIFCH22098",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15717,8 +15717,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C56",
     "SWIFT Code": "RAIFCH22C56",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15730,8 +15730,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E88",
     "SWIFT Code": "RAIFCH22E88",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15743,8 +15743,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "837",
     "SWIFT Code": "RAIFCH22837",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15756,8 +15756,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C58",
     "SWIFT Code": "RAIFCH22C58",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15769,8 +15769,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "181",
     "SWIFT Code": "RAIFCH22181",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15782,8 +15782,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C59",
     "SWIFT Code": "RAIFCH22C59",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15795,8 +15795,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B70",
     "SWIFT Code": "RAIFCH22B70",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15808,8 +15808,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "051",
     "SWIFT Code": "RAIFCH22051",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15821,8 +15821,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "350",
     "SWIFT Code": "RAIFCH22350",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15834,8 +15834,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D78",
     "SWIFT Code": "RAIFCH22D78",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15847,8 +15847,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "833",
     "SWIFT Code": "RAIFCH22833",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15860,8 +15860,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "094",
     "SWIFT Code": "RAIFCH22094",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15873,8 +15873,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "307",
     "SWIFT Code": "RAIFCH22307",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15886,8 +15886,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "675",
     "SWIFT Code": "RAIFCH22675",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15899,8 +15899,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "811",
     "SWIFT Code": "RAIFCH22811",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15912,8 +15912,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B37",
     "SWIFT Code": "RAIFCH22B37",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15925,8 +15925,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C51",
     "SWIFT Code": "RAIFCH22C51",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15938,8 +15938,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E75",
     "SWIFT Code": "RAIFCH22E75",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15951,8 +15951,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E32",
     "SWIFT Code": "RAIFCH22E32",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15964,8 +15964,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C61",
     "SWIFT Code": "RAIFCH22C61",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15977,8 +15977,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "888",
     "SWIFT Code": "RAIFCH22888",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -15990,8 +15990,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B72",
     "SWIFT Code": "RAIFCH22B72",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16003,8 +16003,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "317",
     "SWIFT Code": "RAIFCH22317",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16016,8 +16016,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A63",
     "SWIFT Code": "RAIFCH22A63",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16029,8 +16029,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E55",
     "SWIFT Code": "RAIFCH22E55",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16042,8 +16042,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "188",
     "SWIFT Code": "RAIFCH22188",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16055,8 +16055,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "615",
     "SWIFT Code": "RAIFCH22615",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16068,8 +16068,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "272",
     "SWIFT Code": "RAIFCH22272",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16081,8 +16081,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "251",
     "SWIFT Code": "RAIFCH22251",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16094,8 +16094,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "430",
     "SWIFT Code": "RAIFCH22430",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16107,8 +16107,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "280",
     "SWIFT Code": "RAIFCH22280",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16120,8 +16120,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "936",
     "SWIFT Code": "RAIFCH22936",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16133,8 +16133,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A84",
     "SWIFT Code": "RAIFCH22A84",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16146,8 +16146,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "002",
     "SWIFT Code": "RAIFCH22002",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16159,8 +16159,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "938",
     "SWIFT Code": "RAIFCH22938",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16172,8 +16172,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C62",
     "SWIFT Code": "RAIFCH22C62",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16185,8 +16185,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "666",
     "SWIFT Code": "RAIFCH22666",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16198,8 +16198,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A72",
     "SWIFT Code": "RAIFCH22A72",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16211,8 +16211,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "939",
     "SWIFT Code": "RAIFCH22939",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16224,8 +16224,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "911",
     "SWIFT Code": "RAIFCH22911",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -16237,8 +16237,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "25A",
     "SWIFT Code": "CRESCHZZ25A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16250,8 +16250,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "25C",
     "SWIFT Code": "CRESCHZZ25C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16263,8 +16263,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "25R",
     "SWIFT Code": "CRESCHZZ25R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16276,8 +16276,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "41A",
     "SWIFT Code": "CRESCHZZ41A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16289,8 +16289,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39A",
     "SWIFT Code": "CRESCHZZ39A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16302,8 +16302,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39R",
     "SWIFT Code": "CRESCHZZ39R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16315,8 +16315,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "66F",
     "SWIFT Code": "CRESCHZZ66F",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16328,8 +16328,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "94P",
     "SWIFT Code": "CRESCHZZ94P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16341,8 +16341,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "94R",
     "SWIFT Code": "CRESCHZZ94R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16354,8 +16354,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81M",
     "SWIFT Code": "CRESCHZZ81M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16367,8 +16367,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81R",
     "SWIFT Code": "CRESCHZZ81R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16380,8 +16380,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "16C",
     "SWIFT Code": "CRESCHZZ16C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16393,8 +16393,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "16R",
     "SWIFT Code": "CRESCHZZ16R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16406,8 +16406,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "34A",
     "SWIFT Code": "CRESCHZZ34A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16419,8 +16419,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "34R",
     "SWIFT Code": "CRESCHZZ34R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16432,8 +16432,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "69M",
     "SWIFT Code": "CRESCHZZ69M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16445,8 +16445,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12S",
     "SWIFT Code": "CRESCHZZ12S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16458,8 +16458,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "12N",
     "SWIFT Code": "CRESCHZZ12N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16471,8 +16471,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "64C",
     "SWIFT Code": "CRESCHZZ64C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16484,8 +16484,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "16A",
     "SWIFT Code": "CRESCHZZ16A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16497,8 +16497,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "10H",
     "SWIFT Code": "CRESCHZZ10H",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16510,8 +16510,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68B",
     "SWIFT Code": "CRESCHZZ68B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16523,8 +16523,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68D",
     "SWIFT Code": "CRESCHZZ68D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16536,8 +16536,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "68R",
     "SWIFT Code": "CRESCHZZ68R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16549,8 +16549,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "70A",
     "SWIFT Code": "CRESCHZZ70A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16562,8 +16562,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "70S",
     "SWIFT Code": "CRESCHZZ70S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16575,8 +16575,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "70R",
     "SWIFT Code": "CRESCHZZ70R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16588,8 +16588,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39T",
     "SWIFT Code": "CRESCHZZ39T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16601,8 +16601,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "39N",
     "SWIFT Code": "CRESCHZZ39N",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16614,8 +16614,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "72D",
     "SWIFT Code": "CRESCHZZ72D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16627,8 +16627,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "28A",
     "SWIFT Code": "CRESCHZZ28A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16640,8 +16640,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "28R",
     "SWIFT Code": "CRESCHZZ28R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16653,8 +16653,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "81B",
     "SWIFT Code": "CRESCHZZ81B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16666,8 +16666,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "83M",
     "SWIFT Code": "CRESCHZZ83M",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16679,8 +16679,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "89E",
     "SWIFT Code": "CRESCHZZ89E",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16692,8 +16692,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "89R",
     "SWIFT Code": "CRESCHZZ89R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16705,8 +16705,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86A",
     "SWIFT Code": "CRESCHZZ86A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16718,8 +16718,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "86R",
     "SWIFT Code": "CRESCHZZ86R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16731,8 +16731,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "31A",
     "SWIFT Code": "CRESCHZZ31A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16744,8 +16744,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60K",
     "SWIFT Code": "CRESCHZZ60K",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16757,8 +16757,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60T",
     "SWIFT Code": "CRESCHZZ60T",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16770,8 +16770,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "83D",
     "SWIFT Code": "CRESCHZZ83D",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16783,8 +16783,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "88L",
     "SWIFT Code": "CRESCHZZ88L",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16796,8 +16796,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60G",
     "SWIFT Code": "CRESCHZZ60G",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16809,8 +16809,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "60S",
     "SWIFT Code": "CRESCHZZ60S",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16822,8 +16822,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "63P",
     "SWIFT Code": "CRESCHZZ63P",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16835,8 +16835,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "67B",
     "SWIFT Code": "CRESCHZZ67B",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16848,8 +16848,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "70C",
     "SWIFT Code": "CRESCHZZ70C",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16861,8 +16861,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "85A",
     "SWIFT Code": "CRESCHZZ85A",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16874,8 +16874,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "CH",
+    "bankCode": "CRES",
+    "countryCode": "CH",
     "branchCode": "85R",
     "SWIFT Code": "CRESCHZZ85R",
     "Bank Name": "CREDIT SUISSE (SCHWEIZ) AG",
@@ -16887,8 +16887,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLAM",
-    "bankCode": "CH",
+    "bankCode": "GLAM",
+    "countryCode": "CH",
     "branchCode": "CAY",
     "SWIFT Code": "GLAMCHZHCAY",
     "Bank Name": "GAM INVESTMENT MANAGEMENT (SWITZERLAND) AG",
@@ -16900,8 +16900,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLAM",
-    "bankCode": "CH",
+    "bankCode": "GLAM",
+    "countryCode": "CH",
     "branchCode": "AMF",
     "SWIFT Code": "GLAMCHZHAMF",
     "Bank Name": "GAM INVESTMENT MANAGEMENT (SWITZERLAND) AG",
@@ -16913,8 +16913,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOTR",
-    "bankCode": "CH",
+    "bankCode": "HOTR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "HOTRCH22",
     "Bank Name": "GARRETT MOTION SARL",
@@ -16926,8 +16926,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GAPECH22",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -16939,8 +16939,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "APT",
     "SWIFT Code": "GAPECH22APT",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -16952,8 +16952,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "DAS",
     "SWIFT Code": "GAPECH22DAS",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -16965,8 +16965,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "HDL",
     "SWIFT Code": "GAPECH22HDL",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -16978,8 +16978,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "IMO",
     "SWIFT Code": "GAPECH22IMO",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -16991,8 +16991,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "IFS",
     "SWIFT Code": "GAPECH22IFS",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -17004,8 +17004,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "ILS",
     "SWIFT Code": "GAPECH22ILS",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -17017,8 +17017,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "OWS",
     "SWIFT Code": "GAPECH22OWS",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -17030,8 +17030,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "OWU",
     "SWIFT Code": "GAPECH22OWU",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -17043,8 +17043,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAPE",
-    "bankCode": "CH",
+    "bankCode": "GAPE",
+    "countryCode": "CH",
     "branchCode": "WDL",
     "SWIFT Code": "GAPECH22WDL",
     "Bank Name": "GASTROSOCIAL PENSIONSKASSE",
@@ -17056,8 +17056,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAVA",
-    "bankCode": "CH",
+    "bankCode": "GAVA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GAVACH22",
     "Bank Name": "GAVI ALLIANCE",
@@ -17069,8 +17069,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBRI",
-    "bankCode": "CH",
+    "bankCode": "GBRI",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GBRICH22",
     "Bank Name": "GEBERIT HOLDING AG",
@@ -17082,8 +17082,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOTV",
-    "bankCode": "CH",
+    "bankCode": "FOTV",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "FOTVCHZH",
     "Bank Name": "GENERALI INVESTMENTS SWITZERLAND LTD.",
@@ -17095,8 +17095,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEAP",
-    "bankCode": "CH",
+    "bankCode": "GEAP",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GEAPCH22",
     "Bank Name": "GEOCIAN CAPITAL SA",
@@ -17108,8 +17108,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEIR",
-    "bankCode": "CH",
+    "bankCode": "GEIR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GEIRCH22",
     "Bank Name": "GEORG FISCHER AG",
@@ -17121,8 +17121,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIVA",
-    "bankCode": "CH",
+    "bankCode": "GIVA",
+    "countryCode": "CH",
     "branchCode": "H2V",
     "SWIFT Code": "GIVACH2V",
     "Bank Name": "GIVAUDAN INTERNATIONAL S.A.",
@@ -17134,8 +17134,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLKB",
-    "bankCode": "CH",
+    "bankCode": "GLKB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GLKBCH22",
     "Bank Name": "GLARNER KANTONALBANK",
@@ -17147,8 +17147,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLEN",
-    "bankCode": "CH",
+    "bankCode": "GLEN",
+    "countryCode": "CH",
     "branchCode": "H2Z",
     "SWIFT Code": "GLENCH2Z",
     "Bank Name": "GLENCORE INTERNATIONAL AG",
@@ -17160,8 +17160,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLBN",
-    "bankCode": "CH",
+    "bankCode": "GLBN",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "GLBNCHZZ",
     "Bank Name": "GLOBALANCE BANK AG",
@@ -17173,8 +17173,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "CH",
+    "bankCode": "GOLD",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "GOLDCHZZ",
     "Bank Name": "GOLDMAN SACHS BANK AG",
@@ -17186,8 +17186,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GONE",
-    "bankCode": "CH",
+    "bankCode": "GONE",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "GONECHGG",
     "Bank Name": "GONET ET CIE",
@@ -17199,8 +17199,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RKBZ",
-    "bankCode": "CH",
+    "bankCode": "RKBZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "RKBZCHZZ",
     "Bank Name": "GPB (SWITZERLAND) LTD",
@@ -17212,8 +17212,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRFE",
-    "bankCode": "CH",
+    "bankCode": "GRFE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GRFECH22",
     "Bank Name": "GRAMMONT FINANCE SA",
@@ -17225,8 +17225,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRKB",
-    "bankCode": "CH",
+    "bankCode": "GRKB",
+    "countryCode": "CH",
     "branchCode": "70A",
     "SWIFT Code": "GRKBCH2270A",
     "Bank Name": "GRAUBUENDNER KANTONALBANK",
@@ -17238,8 +17238,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRKB",
-    "bankCode": "CH",
+    "bankCode": "GRKB",
+    "countryCode": "CH",
     "branchCode": "72D",
     "SWIFT Code": "GRKBCH2272D",
     "Bank Name": "GRAUBUENDNER KANTONALBANK",
@@ -17251,8 +17251,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRKB",
-    "bankCode": "CH",
+    "bankCode": "GRKB",
+    "countryCode": "CH",
     "branchCode": "75A",
     "SWIFT Code": "GRKBCH2275A",
     "Bank Name": "GRAUBUENDNER KANTONALBANK",
@@ -17264,8 +17264,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRKB",
-    "bankCode": "CH",
+    "bankCode": "GRKB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GRKBCH22",
     "Bank Name": "GRAUBUENDNER KANTONALBANK",
@@ -17277,8 +17277,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "807",
     "SWIFT Code": "RBABCH22807",
     "Bank Name": "GRB GLARNER REGIONALBANK GENOSSENSCHAFT",
@@ -17290,8 +17290,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRRC",
-    "bankCode": "CH",
+    "bankCode": "GRRC",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GRRCCH22",
     "Bank Name": "GROUPE ACROTEC SA",
@@ -17303,8 +17303,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUES",
-    "bankCode": "CH",
+    "bankCode": "GUES",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "GUESCH22",
     "Bank Name": "GUESS EUROPE SAGL",
@@ -17316,8 +17316,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUES",
-    "bankCode": "CH",
+    "bankCode": "GUES",
+    "countryCode": "CH",
     "branchCode": "CAN",
     "SWIFT Code": "GUESCH22CAN",
     "Bank Name": "GUESS EUROPE SAGL",
@@ -17329,8 +17329,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUES",
-    "bankCode": "CH",
+    "bankCode": "GUES",
+    "countryCode": "CH",
     "branchCode": "USA",
     "SWIFT Code": "GUESCH22USA",
     "Bank Name": "GUESS EUROPE SAGL",
@@ -17342,8 +17342,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUNV",
-    "bankCode": "CH",
+    "bankCode": "GUNV",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "GUNVCHGG",
     "Bank Name": "GUNVOR SA",
@@ -17355,8 +17355,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUTZ",
-    "bankCode": "CH",
+    "bankCode": "GUTZ",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "GUTZCHBB",
     "Bank Name": "GUTZWILLER E. ET CIE BANQUIERS",
@@ -17368,8 +17368,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUTZ",
-    "bankCode": "CH",
+    "bankCode": "GUTZ",
+    "countryCode": "CH",
     "branchCode": "NRA",
     "SWIFT Code": "GUTZCHBBNRA",
     "Bank Name": "GUTZWILLER E. ET CIE BANQUIERS",
@@ -17381,8 +17381,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBZU",
-    "bankCode": "CH",
+    "bankCode": "HBZU",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "HBZUCHZZ",
     "Bank Name": "HABIB BANK AG ZURICH",
@@ -17394,8 +17394,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEHE",
-    "bankCode": "CH",
+    "bankCode": "HEHE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "HEHECH22",
     "Bank Name": "HELSINN HEALTHCARE SA",
@@ -17407,8 +17407,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HELN",
-    "bankCode": "CH",
+    "bankCode": "HELN",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "HELNCH22",
     "Bank Name": "HELVETIA SCHWEIZERISCHE VERSICHERUNGSGESELLSCHAFT AG",
@@ -17420,8 +17420,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HELN",
-    "bankCode": "CH",
+    "bankCode": "HELN",
+    "countryCode": "CH",
     "branchCode": "H2R",
     "SWIFT Code": "HELNCH2R",
     "Bank Name": "HELVETIA SCHWEIZERISCHE VERSICHERUNGSGESELLSCHAFT AG HELVETIA VERSICHERUNGEN",
@@ -17433,8 +17433,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFBF",
-    "bankCode": "CH",
+    "bankCode": "SFBF",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SFBFCH22",
     "Bank Name": "HELVETISCHE BANK AG",
@@ -17446,8 +17446,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAZB",
-    "bankCode": "CH",
+    "bankCode": "HAZB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "HAZBCH22",
     "Bank Name": "HERITAGE B B.V., AMSTERDAM, ZUG BRANCH",
@@ -17459,8 +17459,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNLN",
-    "bankCode": "CH",
+    "bankCode": "CNLN",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "CNLNCHBB",
     "Bank Name": "HEUBACH HOLDING SWITZERLAND AG",
@@ -17472,8 +17472,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APGF",
-    "bankCode": "CH",
+    "bankCode": "APGF",
+    "countryCode": "CH",
     "branchCode": "HZA",
     "SWIFT Code": "APGFCHZA",
     "Bank Name": "HITACHI ENERGY FINANCE LTD",
@@ -17485,8 +17485,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APGF",
-    "bankCode": "CH",
+    "bankCode": "APGF",
+    "countryCode": "CH",
     "branchCode": "HZB",
     "SWIFT Code": "APGFCHZB",
     "Bank Name": "HITACHI ENERGY FINANCE LTD",
@@ -17498,8 +17498,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APGF",
-    "bankCode": "CH",
+    "bankCode": "APGF",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "APGFCHZZ",
     "Bank Name": "HITACHI ENERGY FINANCE LTD",
@@ -17511,8 +17511,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAFH",
-    "bankCode": "CH",
+    "bankCode": "LAFH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "LAFHCH22",
     "Bank Name": "HOLCIM AG",
@@ -17524,8 +17524,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JHOT",
-    "bankCode": "CH",
+    "bankCode": "JHOT",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "JHOTCHZZ",
     "Bank Name": "HOTTINGER AG",
@@ -17537,8 +17537,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C95",
     "SWIFT Code": "RAIFCH22C95",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17550,8 +17550,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E02",
     "SWIFT Code": "RAIFCH22E02",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17563,8 +17563,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "571",
     "SWIFT Code": "RAIFCH22571",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17576,8 +17576,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E60",
     "SWIFT Code": "RAIFCH22E60",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17589,8 +17589,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C96",
     "SWIFT Code": "RAIFCH22C96",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17602,8 +17602,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C04",
     "SWIFT Code": "RAIFCH22C04",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17615,8 +17615,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A54",
     "SWIFT Code": "RAIFCH22A54",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17628,8 +17628,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "673",
     "SWIFT Code": "RAIFCH22673",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17641,8 +17641,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C32",
     "SWIFT Code": "RAIFCH22C32",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17654,8 +17654,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "059",
     "SWIFT Code": "RAIFCH22059",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17667,8 +17667,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "037",
     "SWIFT Code": "RAIFCH22037",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17680,8 +17680,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "210",
     "SWIFT Code": "RAIFCH22210",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17693,8 +17693,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "362",
     "SWIFT Code": "RAIFCH22362",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17706,8 +17706,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D02",
     "SWIFT Code": "RAIFCH22D02",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17719,8 +17719,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D44",
     "SWIFT Code": "RAIFCH22D44",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17732,8 +17732,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "723",
     "SWIFT Code": "RAIFCH22723",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17745,8 +17745,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D00",
     "SWIFT Code": "RAIFCH22D00",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17758,8 +17758,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C14",
     "SWIFT Code": "RAIFCH22C14",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17771,8 +17771,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "860",
     "SWIFT Code": "RAIFCH22860",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17784,8 +17784,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D51",
     "SWIFT Code": "RAIFCH22D51",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17797,8 +17797,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D60",
     "SWIFT Code": "RAIFCH22D60",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17810,8 +17810,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D64",
     "SWIFT Code": "RAIFCH22D64",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17823,8 +17823,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "976",
     "SWIFT Code": "RAIFCH22976",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17836,8 +17836,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D04",
     "SWIFT Code": "RAIFCH22D04",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17849,8 +17849,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "598",
     "SWIFT Code": "RAIFCH22598",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17862,8 +17862,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "882",
     "SWIFT Code": "RAIFCH22882",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17875,8 +17875,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "728",
     "SWIFT Code": "RAIFCH22728",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17888,8 +17888,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "572",
     "SWIFT Code": "RAIFCH22572",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17901,8 +17901,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "924",
     "SWIFT Code": "RAIFCH22924",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17914,8 +17914,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "962",
     "SWIFT Code": "RAIFCH22962",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17927,8 +17927,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "965",
     "SWIFT Code": "RAIFCH22965",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17940,8 +17940,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "901",
     "SWIFT Code": "RAIFCH22901",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17953,8 +17953,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "005",
     "SWIFT Code": "RAIFCH22005",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17966,8 +17966,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C87",
     "SWIFT Code": "RAIFCH22C87",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17979,8 +17979,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C89",
     "SWIFT Code": "RAIFCH22C89",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -17992,8 +17992,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C91",
     "SWIFT Code": "RAIFCH22C91",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18005,8 +18005,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "CBX",
     "SWIFT Code": "RAIFCH22CBX",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18018,8 +18018,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D24",
     "SWIFT Code": "RAIFCH22D24",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18031,8 +18031,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "INV",
     "SWIFT Code": "RAIFCH22INV",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18044,8 +18044,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "RAIFCH22",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18057,8 +18057,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "H2B",
     "SWIFT Code": "RAIFCH2B",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18070,8 +18070,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "STR",
     "SWIFT Code": "RAIFCH22STR",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18083,8 +18083,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E91",
     "SWIFT Code": "RAIFCH22E91",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18096,8 +18096,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "RNL",
     "SWIFT Code": "RAIFCH22RNL",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18109,8 +18109,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D22",
     "SWIFT Code": "RAIFCH22D22",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18122,8 +18122,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "382",
     "SWIFT Code": "RAIFCH22382",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18135,8 +18135,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "384",
     "SWIFT Code": "RAIFCH22384",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18148,8 +18148,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "313",
     "SWIFT Code": "RAIFCH22313",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18161,8 +18161,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "315",
     "SWIFT Code": "RAIFCH22315",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18174,8 +18174,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "322",
     "SWIFT Code": "RAIFCH22322",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -18187,8 +18187,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BILS",
-    "bankCode": "CH",
+    "bankCode": "BILS",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BILSCHZZ",
     "Bank Name": "BANQUE INTERNATIONALE A LUXEMBOURG (SUISSE) SA",
@@ -18200,8 +18200,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICF",
-    "bankCode": "CH",
+    "bankCode": "BICF",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BICFCHGG",
     "Bank Name": "BANQUE INTERNATIONALE DE COMMERCE - BRED",
@@ -18213,8 +18213,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICF",
-    "bankCode": "CH",
+    "bankCode": "BICF",
+    "countryCode": "CH",
     "branchCode": "UAE",
     "SWIFT Code": "BICFCHGGUAE",
     "Bank Name": "BANQUE INTERNATIONALE DE COMMERCE - BRED",
@@ -18226,8 +18226,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "CH",
+    "bankCode": "LOCY",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "LOCYCHGG",
     "Bank Name": "BANQUE LOMBARD ODIER ET CIE SA",
@@ -18239,8 +18239,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "CH",
+    "bankCode": "LOCY",
+    "countryCode": "CH",
     "branchCode": "CUS",
     "SWIFT Code": "LOCYCHGGCUS",
     "Bank Name": "BANQUE LOMBARD ODIER ET CIE SA",
@@ -18252,8 +18252,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "CH",
+    "bankCode": "LOCY",
+    "countryCode": "CH",
     "branchCode": "GAP",
     "SWIFT Code": "LOCYCHGGGAP",
     "Bank Name": "BANQUE LOMBARD ODIER ET CIE SA",
@@ -18265,8 +18265,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "CH",
+    "bankCode": "LOCY",
+    "countryCode": "CH",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYCHGGNDP",
     "Bank Name": "BANQUE LOMBARD ODIER ET CIE SA",
@@ -18278,8 +18278,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "CH",
+    "bankCode": "LOCY",
+    "countryCode": "CH",
     "branchCode": "WND",
     "SWIFT Code": "LOCYCHGGWND",
     "Bank Name": "BANQUE LOMBARD ODIER ET CIE SA",
@@ -18291,8 +18291,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CH",
+    "bankCode": "PICT",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "PICTCHGG",
     "Bank Name": "BANQUE PICTET ET CIE SA",
@@ -18304,8 +18304,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CH",
+    "bankCode": "PICT",
+    "countryCode": "CH",
     "branchCode": "COR",
     "SWIFT Code": "PICTCHGGCOR",
     "Bank Name": "BANQUE PICTET ET CIE SA",
@@ -18317,8 +18317,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CH",
+    "bankCode": "PICT",
+    "countryCode": "CH",
     "branchCode": "DER",
     "SWIFT Code": "PICTCHGGDER",
     "Bank Name": "BANQUE PICTET ET CIE SA",
@@ -18330,8 +18330,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "CH",
+    "bankCode": "PICT",
+    "countryCode": "CH",
     "branchCode": "FND",
     "SWIFT Code": "PICTCHGGFND",
     "Bank Name": "BANQUE PICTET ET CIE SA",
@@ -18343,8 +18343,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYCO",
-    "bankCode": "CH",
+    "bankCode": "SYCO",
+    "countryCode": "CH",
     "branchCode": "HGB",
     "SWIFT Code": "SYCOCHGB",
     "Bank Name": "BANQUE SYZ SA",
@@ -18356,8 +18356,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYCO",
-    "bankCode": "CH",
+    "bankCode": "SYCO",
+    "countryCode": "CH",
     "branchCode": "SAM",
     "SWIFT Code": "SYCOCHGGSAM",
     "Bank Name": "BANQUE SYZ SA",
@@ -18369,8 +18369,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SYCO",
-    "bankCode": "CH",
+    "bankCode": "SYCO",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "SYCOCHGG",
     "Bank Name": "BANQUE SYZ SA",
@@ -18382,8 +18382,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THAL",
-    "bankCode": "CH",
+    "bankCode": "THAL",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "THALCHGG",
     "Bank Name": "BANQUE THALER S.A.",
@@ -18395,8 +18395,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANT",
-    "bankCode": "CH",
+    "bankCode": "BANT",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BANTCH22",
     "Bank Name": "BANTLEON AG",
@@ -18408,8 +18408,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "CH",
+    "bankCode": "BARC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BARCCHGG",
     "Bank Name": "BARCLAYS BANK (SUISSE) S.A.",
@@ -18421,8 +18421,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLKB",
-    "bankCode": "CH",
+    "bankCode": "BLKB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BLKBCH22",
     "Bank Name": "BASELLANDSCHAFTLICHE KANTONALBANK",
@@ -18434,8 +18434,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBB",
-    "bankCode": "CH",
+    "bankCode": "BKBB",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "BKBBCHBB",
     "Bank Name": "BASLER KANTONALBANK",
@@ -18447,8 +18447,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBB",
-    "bankCode": "CH",
+    "bankCode": "BKBB",
+    "countryCode": "CH",
     "branchCode": "STR",
     "SWIFT Code": "BKBBCHBBSTR",
     "Bank Name": "BASLER KANTONALBANK",
@@ -18460,8 +18460,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAUM",
-    "bankCode": "CH",
+    "bankCode": "BAUM",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "BAUMCHBB",
     "Bank Name": "BAUMANN ET CIE",
@@ -18473,8 +18473,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUUU",
-    "bankCode": "CH",
+    "bankCode": "BUUU",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BUUUCHZZ",
     "Bank Name": "BAUMHAUS CAPITAL",
@@ -18486,8 +18486,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOB",
-    "bankCode": "CH",
+    "bankCode": "BBOB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BBOBCH22",
     "Bank Name": "BBO BANK BRIENZ OBERHASLI AG",
@@ -18499,8 +18499,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "CH",
+    "bankCode": "BBVA",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BBVACHZZ",
     "Bank Name": "BBVA SA",
@@ -18512,8 +18512,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEHD",
-    "bankCode": "CH",
+    "bankCode": "BEHD",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BEHDCH22",
     "Bank Name": "BELIMO HOLDING AG",
@@ -18525,8 +18525,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLCL",
-    "bankCode": "CH",
+    "bankCode": "BLCL",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BLCLCHZZ",
     "Bank Name": "BELLECAPITAL INTERNATIONAL AG",
@@ -18538,8 +18538,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLCL",
-    "bankCode": "CH",
+    "bankCode": "BLCL",
+    "countryCode": "CH",
     "branchCode": "BCH",
     "SWIFT Code": "BLCLCHZZBCH",
     "Bank Name": "BELLECAPITAL INTERNATIONAL AG",
@@ -18551,8 +18551,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLCL",
-    "bankCode": "CH",
+    "bankCode": "BLCL",
+    "countryCode": "CH",
     "branchCode": "BCI",
     "SWIFT Code": "BLCLCHZZBCI",
     "Bank Name": "BELLECAPITAL INTERNATIONAL AG",
@@ -18564,8 +18564,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BETG",
-    "bankCode": "CH",
+    "bankCode": "BETG",
+    "countryCode": "CH",
     "branchCode": "HZK",
     "SWIFT Code": "BETGCHZK",
     "Bank Name": "BELLEVUE ASSET MANAGEMENT AG",
@@ -18577,8 +18577,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEGO",
-    "bankCode": "CH",
+    "bankCode": "BEGO",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BEGOCHZZ",
     "Bank Name": "BERGOS AG",
@@ -18590,8 +18590,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBBE",
-    "bankCode": "CH",
+    "bankCode": "KBBE",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBBECH22",
     "Bank Name": "BERNER KANTONALBANK AG",
@@ -18603,8 +18603,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "313",
     "SWIFT Code": "RBABCH22313",
     "Bank Name": "BERNERLAND BANK AG",
@@ -18616,8 +18616,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZSD",
-    "bankCode": "CH",
+    "bankCode": "BZSD",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BZSDCH22",
     "Bank Name": "BEZIRKS-SPARKASSE DIELSDORF GENOSSENSCHAFT",
@@ -18629,8 +18629,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGPB",
-    "bankCode": "CH",
+    "bankCode": "BGPB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BGPBCH22",
     "Bank Name": "BG (SUISSE) PRIVATE BANK AG",
@@ -18642,8 +18642,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "980",
     "SWIFT Code": "RBABCH22980",
     "Bank Name": "BIENE BANK IM RHEINTAL GENOSSENSCHAFT",
@@ -18655,8 +18655,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPPB",
-    "bankCode": "CH",
+    "bankCode": "BPPB",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BPPBCHGG",
     "Bank Name": "BNP PARIBAS (SUISSE) SA",
@@ -18668,8 +18668,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPPB",
-    "bankCode": "CH",
+    "bankCode": "BPPB",
+    "countryCode": "CH",
     "branchCode": "12A",
     "SWIFT Code": "BPPBCHGG12A",
     "Bank Name": "BNP PARIBAS (SUISSE) SA",
@@ -18681,8 +18681,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPPB",
-    "bankCode": "CH",
+    "bankCode": "BPPB",
+    "countryCode": "CH",
     "branchCode": "80A",
     "SWIFT Code": "BPPBCHGG80A",
     "Bank Name": "BNP PARIBAS (SUISSE) SA",
@@ -18694,8 +18694,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "CH",
+    "bankCode": "PARB",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "PARBCHZZ",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES ZURICH",
@@ -18707,8 +18707,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "CH",
+    "bankCode": "PARB",
+    "countryCode": "CH",
     "branchCode": "ISI",
     "SWIFT Code": "PARBCHZZISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES ZURICH",
@@ -18720,8 +18720,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BORD",
-    "bankCode": "CH",
+    "bankCode": "BORD",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BORDCHGG",
     "Bank Name": "BORDIER ET CIE SCMA",
@@ -18733,8 +18733,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOHO",
-    "bankCode": "CH",
+    "bankCode": "BOHO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BOHOCH22",
     "Bank Name": "BOSSARD HOLDING AG",
@@ -18746,8 +18746,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIRC",
-    "bankCode": "CH",
+    "bankCode": "BIRC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BIRCCHGG",
     "Bank Name": "BRIDPORT ET CIE S.A.",
@@ -18759,8 +18759,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUCH",
-    "bankCode": "CH",
+    "bankCode": "BUCH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BUCHCH22",
     "Bank Name": "BUCHERER HOLDING AG",
@@ -18772,8 +18772,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUHR",
-    "bankCode": "CH",
+    "bankCode": "BUHR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BUHRCH22",
     "Bank Name": "BUEHLER AG",
@@ -18785,8 +18785,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLTD",
-    "bankCode": "CH",
+    "bankCode": "BLTD",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BLTDCHGG",
     "Bank Name": "BUNGE S.A.",
@@ -18798,8 +18798,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLTD",
-    "bankCode": "CH",
+    "bankCode": "BLTD",
+    "countryCode": "CH",
     "branchCode": "BAM",
     "SWIFT Code": "BLTDCHGGBAM",
     "Bank Name": "BUNGE S.A.",
@@ -18811,8 +18811,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLTD",
-    "bankCode": "CH",
+    "bankCode": "BLTD",
+    "countryCode": "CH",
     "branchCode": "BAS",
     "SWIFT Code": "BLTDCHGGBAS",
     "Bank Name": "BUNGE S.A.",
@@ -18824,8 +18824,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLTD",
-    "bankCode": "CH",
+    "bankCode": "BLTD",
+    "countryCode": "CH",
     "branchCode": "BEU",
     "SWIFT Code": "BLTDCHGGBEU",
     "Bank Name": "BUNGE S.A.",
@@ -18837,8 +18837,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "382",
     "SWIFT Code": "RBABCH22382",
     "Bank Name": "BURGERLICHE ERSPARNISKASSE BERN GENOSSENSCHAFT",
@@ -18850,8 +18850,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNZZ",
-    "bankCode": "CH",
+    "bankCode": "CNZZ",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CNZZCHZZ",
     "Bank Name": "BYSTRONIC AG",
@@ -18863,8 +18863,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZBK",
-    "bankCode": "CH",
+    "bankCode": "BZBK",
+    "countryCode": "CH",
     "branchCode": "H2W",
     "SWIFT Code": "BZBKCH2W",
     "Bank Name": "BZ BANK AKTIENGESELLSCHAFT",
@@ -18876,8 +18876,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIMM",
-    "bankCode": "CH",
+    "bankCode": "CIMM",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CIMMCHGG",
     "Bank Name": "C.I.M. BANQUE",
@@ -18889,8 +18889,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "CH",
+    "bankCode": "AGRI",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "AGRICHGG",
     "Bank Name": "CA INDOSUEZ (SWITZERLAND) SA",
@@ -18902,8 +18902,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "CH",
+    "bankCode": "ISAE",
+    "countryCode": "CH",
     "branchCode": "H2N",
     "SWIFT Code": "ISAECH2N",
     "Bank Name": "CACEIS BANK, MONTROUGE,SUCCURSALE DE NYON/SUISSE",
@@ -18915,8 +18915,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "CH",
+    "bankCode": "ISAE",
+    "countryCode": "CH",
     "branchCode": "KEP",
     "SWIFT Code": "ISAECH2NKEP",
     "Bank Name": "CACEIS BANK, MONTROUGE,SUCCURSALE DE NYON/SUISSE",
@@ -18928,8 +18928,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "CH",
+    "bankCode": "ISAE",
+    "countryCode": "CH",
     "branchCode": "COR",
     "SWIFT Code": "ISAECH2NCOR",
     "Bank Name": "CACEIS BANK, MONTROUGE,SUCCURSALE DE NYON/SUISSE",
@@ -18941,8 +18941,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "CH",
+    "bankCode": "FETA",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "FETACHZZ",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE, ZURICH BRANCH",
@@ -18954,8 +18954,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "CH",
+    "bankCode": "FETA",
+    "countryCode": "CH",
     "branchCode": "ISV",
     "SWIFT Code": "FETACHZZISV",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE, ZURICH BRANCH",
@@ -18967,8 +18967,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "CH",
+    "bankCode": "FETA",
+    "countryCode": "CH",
     "branchCode": "SHS",
     "SWIFT Code": "FETACHZZSHS",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A. ESCH-SUR-ALZETTE, ZURICH BRANCH",
@@ -18980,8 +18980,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "182",
     "SWIFT Code": "RBABCH22182",
     "Bank Name": "CAISSE D'EPARGNE DE COSSONAY SOCIETE COOPERATIVE",
@@ -18993,8 +18993,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "CEA",
     "SWIFT Code": "RBABCH22CEA",
     "Bank Name": "CAISSE DEP. DAUBONNE SOCIETE COOP",
@@ -19006,8 +19006,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLLH",
-    "bankCode": "CH",
+    "bankCode": "CLLH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "CLLHCH22",
     "Bank Name": "CALIDA HOLDING AG",
@@ -19019,8 +19019,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPCA",
-    "bankCode": "CH",
+    "bankCode": "CPCA",
+    "countryCode": "CH",
     "branchCode": "HZ2",
     "SWIFT Code": "CPCACHZ2",
     "Bank Name": "CAPE CAPITAL AG",
@@ -19032,8 +19032,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGII",
-    "bankCode": "CH",
+    "bankCode": "CGII",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CGIICHGG",
     "Bank Name": "CAPITAL INTERNATIONAL SARL",
@@ -19045,8 +19045,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGII",
-    "bankCode": "CH",
+    "bankCode": "CGII",
+    "countryCode": "CH",
     "branchCode": "FOF",
     "SWIFT Code": "CGIICHGGFOF",
     "Bank Name": "CAPITAL INTERNATIONAL SARL",
@@ -19058,8 +19058,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXFS",
-    "bankCode": "CH",
+    "bankCode": "CXFS",
+    "countryCode": "CH",
     "branchCode": "HG2",
     "SWIFT Code": "CXFSCHG2",
     "Bank Name": "CASH XPRESS FINANCIAL SERVICES SARL",
@@ -19071,8 +19071,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFPU",
-    "bankCode": "CH",
+    "bankCode": "CFPU",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CFPUCHZZ",
     "Bank Name": "CAT FINANCIAL PRODUCTS AG",
@@ -19084,8 +19084,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSA",
-    "bankCode": "CH",
+    "bankCode": "BSSA",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BSSACHGG",
     "Bank Name": "CBH COMPAGNIE BANCAIRE HELVETIQUE SA",
@@ -19097,8 +19097,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBN",
-    "bankCode": "CH",
+    "bankCode": "CMBN",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "CMBNCHZH",
     "Bank Name": "CEMBRA MONEY BANK AG",
@@ -19110,8 +19110,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEGN",
-    "bankCode": "CH",
+    "bankCode": "CEGN",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CEGNCHGG",
     "Bank Name": "CERN-EUROPEAN ORGANIZATION FOR NU",
@@ -19123,8 +19123,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CH",
+    "bankCode": "PCBC",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "PCBCCHZZ",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION, BEIJING, SWISS BRANCH ZURICH",
@@ -19136,8 +19136,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "CH",
+    "bankCode": "PCBC",
+    "countryCode": "CH",
     "branchCode": "CLR",
     "SWIFT Code": "PCBCCHZZCLR",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION, BEIJING, SWISS BRANCH ZURICH",
@@ -19149,8 +19149,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITE",
-    "bankCode": "CH",
+    "bankCode": "CITE",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CITECHGG",
     "Bank Name": "CITE GESTION SA",
@@ -19162,8 +19162,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITE",
-    "bankCode": "CH",
+    "bankCode": "CITE",
+    "countryCode": "CH",
     "branchCode": "NDP",
     "SWIFT Code": "CITECHGGNDP",
     "Bank Name": "CITE GESTION SA",
@@ -19175,8 +19175,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSW",
-    "bankCode": "CH",
+    "bankCode": "CBSW",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CBSWCHZZ",
     "Bank Name": "CITIBANK (SWITZERLAND) AG",
@@ -19188,8 +19188,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CH",
+    "bankCode": "CITI",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CITICHZZ",
     "Bank Name": "CITIBANK N.A.",
@@ -19201,8 +19201,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNA",
-    "bankCode": "CH",
+    "bankCode": "CLNA",
+    "countryCode": "CH",
     "branchCode": "HBL",
     "SWIFT Code": "CLNACHBL",
     "Bank Name": "CLARIANT AG",
@@ -19214,8 +19214,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNA",
-    "bankCode": "CH",
+    "bankCode": "CLNA",
+    "countryCode": "CH",
     "branchCode": "08X",
     "SWIFT Code": "CLNACHBL08X",
     "Bank Name": "CLARIANT AG",
@@ -19227,8 +19227,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNA",
-    "bankCode": "CH",
+    "bankCode": "CLNA",
+    "countryCode": "CH",
     "branchCode": "79X",
     "SWIFT Code": "CLNACHBL79X",
     "Bank Name": "CLARIANT AG",
@@ -19240,8 +19240,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNA",
-    "bankCode": "CH",
+    "bankCode": "CLNA",
+    "countryCode": "CH",
     "branchCode": "01X",
     "SWIFT Code": "CLNACHBL01X",
     "Bank Name": "CLARIANT AG",
@@ -19253,8 +19253,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNA",
-    "bankCode": "CH",
+    "bankCode": "CLNA",
+    "countryCode": "CH",
     "branchCode": "EUX",
     "SWIFT Code": "CLNACHBLEUX",
     "Bank Name": "CLARIANT AG",
@@ -19266,8 +19266,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNS",
-    "bankCode": "CH",
+    "bankCode": "CLNS",
+    "countryCode": "CH",
     "branchCode": "H2P",
     "SWIFT Code": "CLNSCH2P",
     "Bank Name": "CLARINS S.A.",
@@ -19279,8 +19279,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "CLI",
     "SWIFT Code": "RBABCH22CLI",
     "Bank Name": "CLIENTIS AG",
@@ -19292,8 +19292,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "575",
     "SWIFT Code": "RBABCH22575",
     "Bank Name": "CLIENTIS BANK AARELAND AG",
@@ -19305,8 +19305,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "434",
     "SWIFT Code": "RBABCH22434",
     "Bank Name": "CLIENTIS BANK IM THAL AG",
@@ -19318,8 +19318,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "450",
     "SWIFT Code": "RBABCH22450",
     "Bank Name": "CLIENTIS BANK OBERAARGAU AG (FORMERLY CLIENTIS BANK HUTTWIL AG)",
@@ -19331,8 +19331,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "935",
     "SWIFT Code": "RBABCH22935",
     "Bank Name": "CLIENTIS BANK OBERUZWIL AG",
@@ -19344,8 +19344,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "977",
     "SWIFT Code": "RBABCH22977",
     "Bank Name": "CLIENTIS BANK THUR GENOSSENSCHAFT",
@@ -19357,8 +19357,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "955",
     "SWIFT Code": "RBABCH22955",
     "Bank Name": "CLIENTIS BANK TOGGENBURG AG",
@@ -19370,8 +19370,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "858",
     "SWIFT Code": "RBABCH22858",
     "Bank Name": "CLIENTIS BS BANK SCHAFFHAUSEN AG",
@@ -19383,8 +19383,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "240",
     "SWIFT Code": "RBABCH22240",
     "Bank Name": "CLIENTIS CAISSE D'EPARGNE DE CEC SA",
@@ -19396,8 +19396,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "670",
     "SWIFT Code": "RBABCH22670",
     "Bank Name": "CLIENTIS EB ENTLEBUCHER BANK AG",
@@ -19409,8 +19409,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "866",
     "SWIFT Code": "RBABCH22866",
     "Bank Name": "CLIENTIS SPAR- UND LEIHKASSE THAYNGEN",
@@ -19422,8 +19422,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "814",
     "SWIFT Code": "RBABCH22814",
     "Bank Name": "CLIENTIS SPARCASSA 1816 GENOSSENSCHAFT",
@@ -19435,8 +19435,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "428",
     "SWIFT Code": "RBABCH22428",
     "Bank Name": "CLIENTIS SPARKASSE OFTRINGEN GENOSSENSCHAFT",
@@ -19448,8 +19448,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "186",
     "SWIFT Code": "RBABCH22186",
     "Bank Name": "CLIENTIS SPARKASSE SENSE",
@@ -19461,8 +19461,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLMW",
-    "bankCode": "CH",
+    "bankCode": "CLMW",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "CLMWCHZZ",
     "Bank Name": "CLIMEWORKS",
@@ -19474,8 +19474,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFRA",
-    "bankCode": "CH",
+    "bankCode": "CFRA",
+    "countryCode": "CH",
     "branchCode": "COF",
     "SWIFT Code": "CFRACH22COF",
     "Bank Name": "COFRA HOLDING AG",
@@ -19487,8 +19487,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCT",
-    "bankCode": "CH",
+    "bankCode": "BSCT",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BSCTCH22",
     "Bank Name": "BANCA DELLO STATO DEL CANTONE TICINO",
@@ -19500,8 +19500,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCT",
-    "bankCode": "CH",
+    "bankCode": "BSCT",
+    "countryCode": "CH",
     "branchCode": "CHI",
     "SWIFT Code": "BSCTCH22CHI",
     "Bank Name": "BANCA DELLO STATO DEL CANTONE TICINO",
@@ -19513,8 +19513,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCT",
-    "bankCode": "CH",
+    "bankCode": "BSCT",
+    "countryCode": "CH",
     "branchCode": "LOC",
     "SWIFT Code": "BSCTCH22LOC",
     "Bank Name": "BANCA DELLO STATO DEL CANTONE TICINO",
@@ -19526,8 +19526,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCT",
-    "bankCode": "CH",
+    "bankCode": "BSCT",
+    "countryCode": "CH",
     "branchCode": "LUG",
     "SWIFT Code": "BSCTCH22LUG",
     "Bank Name": "BANCA DELLO STATO DEL CANTONE TICINO",
@@ -19539,8 +19539,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POSO",
-    "bankCode": "CH",
+    "bankCode": "POSO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "POSOCH22",
     "Bank Name": "BANCA POPOLARE DI SONDRIO (SUISSE)",
@@ -19552,8 +19552,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUBA",
-    "bankCode": "CH",
+    "bankCode": "EUBA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EUBACH22",
     "Bank Name": "BANCA ZARATTINI AND CO SA",
@@ -19565,8 +19565,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "CH",
+    "bankCode": "ITAU",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ITAUCHZZ",
     "Bank Name": "BANCO ITAU (SUISSE) SA",
@@ -19578,8 +19578,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "CH",
+    "bankCode": "BSCH",
+    "countryCode": "CH",
     "branchCode": "HGB",
     "SWIFT Code": "BSCHCHGB",
     "Bank Name": "BANCO SANTANDER INTERNATIONAL S.A.",
@@ -19591,8 +19591,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "CH",
+    "bankCode": "BSCH",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BSCHCHGG",
     "Bank Name": "BANCO SANTANDER INTERNATIONAL S.A.",
@@ -19604,8 +19604,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "850",
     "SWIFT Code": "RBABCH22850",
     "Bank Name": "BANK AVERA",
@@ -19617,8 +19617,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "888",
     "SWIFT Code": "RBABCH22888",
     "Bank Name": "BANK BSU GENOSSENSCHAFT",
@@ -19630,8 +19630,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIAL",
-    "bankCode": "CH",
+    "bankCode": "CIAL",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "CIALCHBB",
     "Bank Name": "BANK CIC (SWITZERLAND) LTD.",
@@ -19643,8 +19643,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLR",
-    "bankCode": "CH",
+    "bankCode": "BCLR",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "BCLRCHBB",
     "Bank Name": "BANK CLER AG",
@@ -19656,8 +19656,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EEKB",
-    "bankCode": "CH",
+    "bankCode": "EEKB",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EEKBCH22",
     "Bank Name": "BANK EEK",
@@ -19669,8 +19669,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKII",
-    "bankCode": "CH",
+    "bankCode": "EKII",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "EKIICH22",
     "Bank Name": "BANK EKI GENOSSENSCHAFT",
@@ -19682,8 +19682,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BISB",
-    "bankCode": "CH",
+    "bankCode": "BISB",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "BISBCHBB",
     "Bank Name": "BANK FOR INTERNATIONAL SETTLEMENTS",
@@ -19695,8 +19695,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "CH",
+    "bankCode": "BTVA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BTVACH22",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG, INNSBRUCK, ZWEIGNIEDERLASSUNG STAAD",
@@ -19708,8 +19708,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAG",
-    "bankCode": "CH",
+    "bankCode": "BGAG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BGAGCH22",
     "Bank Name": "BANK GANTRISCH GENOSSENSCHAFT",
@@ -19721,8 +19721,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "964",
     "SWIFT Code": "RBABCH22964",
     "Bank Name": "BANK IN ZUZWIL AG",
@@ -19734,8 +19734,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARA",
-    "bankCode": "CH",
+    "bankCode": "SARA",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "SARACHBB",
     "Bank Name": "BANK J. SAFRA SARASIN LTD",
@@ -19747,8 +19747,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARA",
-    "bankCode": "CH",
+    "bankCode": "SARA",
+    "countryCode": "CH",
     "branchCode": "ZRH",
     "SWIFT Code": "SARACHBBZRH",
     "Bank Name": "BANK J. SAFRA SARASIN LTD",
@@ -19760,8 +19760,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "CH",
+    "bankCode": "BAER",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BAERCHZZ",
     "Bank Name": "BANK JULIUS BAER AND CO.LTD., ZURICH",
@@ -19773,8 +19773,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "CH",
+    "bankCode": "BAER",
+    "countryCode": "CH",
     "branchCode": "HZA",
     "SWIFT Code": "BAERCHZA",
     "Bank Name": "BANK JULIUS BAER AND CO.LTD.,ZURICH",
@@ -19786,8 +19786,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "588",
     "SWIFT Code": "RBABCH22588",
     "Bank Name": "BANK LEERAU GENOSSENSCHAFT",
@@ -19799,8 +19799,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "CH",
+    "bankCode": "BOFA",
+    "countryCode": "CH",
     "branchCode": "H2X",
     "SWIFT Code": "BOFACH2X",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, ZURICH BRANCH",
@@ -19812,8 +19812,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "CH",
+    "bankCode": "BKCH",
+    "countryCode": "CH",
     "branchCode": "HGE",
     "SWIFT Code": "BKCHCHGE",
     "Bank Name": "BANK OF CHINA LIMITED, GENEVA BRANCH",
@@ -19825,8 +19825,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "363",
     "SWIFT Code": "RBABCH22363",
     "Bank Name": "BANK SLM AG",
@@ -19838,8 +19838,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTH",
-    "bankCode": "CH",
+    "bankCode": "BKTH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BKTHCH22",
     "Bank Name": "BANK THALWIL GENOSSENSCHAFT",
@@ -19851,8 +19851,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VRLL",
-    "bankCode": "CH",
+    "bankCode": "VRLL",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "VRLLCHZZ",
     "Bank Name": "BANK VON ROLL AG",
@@ -19864,8 +19864,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VONT",
-    "bankCode": "CH",
+    "bankCode": "VONT",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "VONTCHZZ",
     "Bank Name": "BANK VONTOBEL AG",
@@ -19877,8 +19877,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VONT",
-    "bankCode": "CH",
+    "bankCode": "VONT",
+    "countryCode": "CH",
     "branchCode": "VAM",
     "SWIFT Code": "VONTCHZZVAM",
     "Bank Name": "BANK VONTOBEL AG",
@@ -19890,8 +19890,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBAB",
-    "bankCode": "CH",
+    "bankCode": "RBAB",
+    "countryCode": "CH",
     "branchCode": "824",
     "SWIFT Code": "RBABCH22824",
     "Bank Name": "BANK ZIMMERBERG AG FORMERLY SPARKASSE HORGEN AG",
@@ -19903,8 +19903,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BZPL",
-    "bankCode": "CH",
+    "bankCode": "BZPL",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "BZPLCHZZ",
     "Bank Name": "BANK ZWEIPLUS AG",
@@ -19916,8 +19916,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEDS",
-    "bankCode": "CH",
+    "bankCode": "MEDS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "MEDSCHGG",
     "Bank Name": "BANKMED (SUISSE) S.A.",
@@ -19929,8 +19929,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEXT",
-    "bankCode": "CH",
+    "bankCode": "AEXT",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "AEXTCHZZ",
     "Bank Name": "BANQUE ALGERIENNE DU COMMERCE EXTERIEUR S.A.",
@@ -19942,8 +19942,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUDS",
-    "bankCode": "CH",
+    "bankCode": "AUDS",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "AUDSCHGG",
     "Bank Name": "BANQUE AUDI (SUISSE) SA",
@@ -19955,8 +19955,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "CH",
+    "bankCode": "BLOM",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BLOMCHGG",
     "Bank Name": "BANQUE BANORIENT (SUISSE) SA",
@@ -19968,8 +19968,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BONH",
-    "bankCode": "CH",
+    "bankCode": "BONH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BONHCH22",
     "Bank Name": "BANQUE BONHOTE ET CIE SA",
@@ -19981,8 +19981,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEFR",
-    "bankCode": "CH",
+    "bankCode": "BEFR",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BEFRCH22",
     "Bank Name": "BANQUE CANTONALE DE FRIBOURG",
@@ -19994,8 +19994,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCGE",
-    "bankCode": "CH",
+    "bankCode": "BCGE",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BCGECHGG",
     "Bank Name": "BANQUE CANTONALE DE GENEVE",
@@ -20007,8 +20007,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCJU",
-    "bankCode": "CH",
+    "bankCode": "BCJU",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BCJUCH22",
     "Bank Name": "BANQUE CANTONALE DU JURA SA",
@@ -20020,8 +20020,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCVS",
-    "bankCode": "CH",
+    "bankCode": "BCVS",
+    "countryCode": "CH",
     "branchCode": "H2L",
     "SWIFT Code": "BCVSCH2L",
     "Bank Name": "BANQUE CANTONALE DU VALAIS WALLISER KANTONALBANK",
@@ -20033,8 +20033,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCNN",
-    "bankCode": "CH",
+    "bankCode": "BCNN",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "BCNNCH22",
     "Bank Name": "BANQUE CANTONALE NEUCHATELOISE",
@@ -20046,8 +20046,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCVL",
-    "bankCode": "CH",
+    "bankCode": "BCVL",
+    "countryCode": "CH",
     "branchCode": "H2L",
     "SWIFT Code": "BCVLCH2L",
     "Bank Name": "BANQUE CANTONALE VAUDOISE",
@@ -20059,8 +20059,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRAM",
-    "bankCode": "CH",
+    "bankCode": "CRAM",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CRAMCHGG",
     "Bank Name": "BANQUE CRAMER ET CIE SA",
@@ -20072,8 +20072,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCP",
-    "bankCode": "CH",
+    "bankCode": "BPCP",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BPCPCHGG",
     "Bank Name": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A.",
@@ -20085,8 +20085,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLEM",
-    "bankCode": "CH",
+    "bankCode": "BLEM",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BLEMCHGG",
     "Bank Name": "BANQUE DU LEMAN SA",
@@ -20098,8 +20098,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BABR",
-    "bankCode": "CH",
+    "bankCode": "BABR",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BABRCHGG",
     "Bank Name": "BANQUE ERIC STURDZA S.A.",
@@ -20111,8 +20111,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPGE",
-    "bankCode": "CH",
+    "bankCode": "BPGE",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "BPGECHGG",
     "Bank Name": "BANQUE HAVILLAND (LIECHTENSTEIN) AG, VADUZ, ZWEIGNIEDERLASSUNG ZURICH",
@@ -20124,8 +20124,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFTC",
-    "bankCode": "CH",
+    "bankCode": "HFTC",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "HFTCCHGG",
     "Bank Name": "BANQUE HERITAGE",
@@ -20137,8 +20137,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBAG",
-    "bankCode": "CH",
+    "bankCode": "KBAG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "KBAGCH22",
     "Bank Name": "AARGAUISCHE KANTONALBANK",
@@ -20150,8 +20150,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "CH",
+    "bankCode": "CAGL",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "CAGLCHGG",
     "Bank Name": "ABANCA CORPORACION BANCARIA S.A., BETANZOS, SUCCURSALE DE GENEVE",
@@ -20163,8 +20163,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBC",
-    "bankCode": "CH",
+    "bankCode": "ABBC",
+    "countryCode": "CH",
     "branchCode": "HZH",
     "SWIFT Code": "ABBCCHZH",
     "Bank Name": "ABB ASEA BROWN BOVERI LTD",
@@ -20176,8 +20176,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBC",
-    "bankCode": "CH",
+    "bankCode": "ABBC",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ABBCCHZZ",
     "Bank Name": "ABB CAPITAL AG",
@@ -20189,8 +20189,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBC",
-    "bankCode": "CH",
+    "bankCode": "ABBC",
+    "countryCode": "CH",
     "branchCode": "HZA",
     "SWIFT Code": "ABBCCHZA",
     "Bank Name": "ABB CAPITAL AG",
@@ -20202,8 +20202,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBC",
-    "bankCode": "CH",
+    "bankCode": "ABBC",
+    "countryCode": "CH",
     "branchCode": "GCM",
     "SWIFT Code": "ABBCCHZZGCM",
     "Bank Name": "ABB CAPITAL AG",
@@ -20215,8 +20215,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACNO",
-    "bankCode": "CH",
+    "bankCode": "ACNO",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ACNOCHZZ",
     "Bank Name": "ACINO INTERNATIONAL AG",
@@ -20228,8 +20228,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACRG",
-    "bankCode": "CH",
+    "bankCode": "ACRG",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ACRGCH22",
     "Bank Name": "ACREVIS BANK AG",
@@ -20241,8 +20241,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADDA",
-    "bankCode": "CH",
+    "bankCode": "ADDA",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "ADDACHGG",
     "Bank Name": "ADDAX ENERGY SA",
@@ -20254,8 +20254,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADEC",
-    "bankCode": "CH",
+    "bankCode": "ADEC",
+    "countryCode": "CH",
     "branchCode": "H2G",
     "SWIFT Code": "ADECCH2G",
     "Bank Name": "ADECCO GROUP AG",
@@ -20267,8 +20267,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEKT",
-    "bankCode": "CH",
+    "bankCode": "AEKT",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "AEKTCH22",
     "Bank Name": "AEK BANK 1826 GENOSSENSCHAFT",
@@ -20280,8 +20280,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGHO",
-    "bankCode": "CH",
+    "bankCode": "AGHO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "AGHOCH22",
     "Bank Name": "AGL-CEDAT MANAGEMENT SAGL",
@@ -20293,8 +20293,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACNR",
-    "bankCode": "CH",
+    "bankCode": "ACNR",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "ACNRCHGG",
     "Bank Name": "AGRO COMPANIES INTERNATIONAL SA",
@@ -20306,8 +20306,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APHA",
-    "bankCode": "CH",
+    "bankCode": "APHA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "APHACH22",
     "Bank Name": "ALCON PHARMACEUTICALS LIMITED",
@@ -20319,8 +20319,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALWY",
-    "bankCode": "CH",
+    "bankCode": "ALWY",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ALWYCH22",
     "Bank Name": "ALLWYN",
@@ -20332,8 +20332,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBH",
-    "bankCode": "CH",
+    "bankCode": "ARBH",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ARBHCH22",
     "Bank Name": "ALPHA RHEINTAL BANK AG",
@@ -20345,8 +20345,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APNA",
-    "bankCode": "CH",
+    "bankCode": "APNA",
+    "countryCode": "CH",
     "branchCode": "HGG",
     "SWIFT Code": "APNACHGG",
     "Bank Name": "ALPIAN SA",
@@ -20358,8 +20358,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALHD",
-    "bankCode": "CH",
+    "bankCode": "ALHD",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ALHDCH22",
     "Bank Name": "ALSO HOLDING AG",
@@ -20371,8 +20371,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSO",
-    "bankCode": "CH",
+    "bankCode": "ABSO",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "ABSOCH22",
     "Bank Name": "ALTERNATIVE BANK SCHWEIZ AG",
@@ -20384,8 +20384,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCRY",
-    "bankCode": "CH",
+    "bankCode": "SCRY",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "SCRYCH22",
     "Bank Name": "AMINA BANK AG",
@@ -20397,8 +20397,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIKA",
-    "bankCode": "CH",
+    "bankCode": "AIKA",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "AIKACH22",
     "Bank Name": "APPENZELLER KANTONALBANK",
@@ -20410,8 +20410,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AQUL",
-    "bankCode": "CH",
+    "bankCode": "AQUL",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "AQULCHZZ",
     "Bank Name": "AQUILA AG",
@@ -20423,8 +20423,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBS",
-    "bankCode": "CH",
+    "bankCode": "ARBS",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "ARBSCHZZ",
     "Bank Name": "ARAB BANK (SWITZERLAND) LTD",
@@ -20436,8 +20436,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCO",
-    "bankCode": "CH",
+    "bankCode": "ADCO",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "ADCOCHBB",
     "Bank Name": "ASCENSIA DIABETES CARE HOLDINGS AG",
@@ -20449,8 +20449,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFCL",
-    "bankCode": "CH",
+    "bankCode": "AFCL",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "AFCLCHZZ",
     "Bank Name": "ATLANTIC FORFAITIERUNGS AG",
@@ -20462,8 +20462,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUTN",
-    "bankCode": "CH",
+    "bankCode": "AUTN",
+    "countryCode": "CH",
     "branchCode": "H22",
     "SWIFT Code": "AUTNCH22",
     "Bank Name": "AUTONEUM HOLDING AG",
@@ -20475,8 +20475,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVRC",
-    "bankCode": "CH",
+    "bankCode": "AVRC",
+    "countryCode": "CH",
     "branchCode": "H2V",
     "SWIFT Code": "AVRCCH2V",
     "Bank Name": "AVERE COMMODITIES S.A.",
@@ -20488,8 +20488,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLPC",
-    "bankCode": "CH",
+    "bankCode": "CLPC",
+    "countryCode": "CH",
     "branchCode": "HBB",
     "SWIFT Code": "CLPCCHBB",
     "Bank Name": "AVIENT SWITZERLAND GMBH",
@@ -20501,8 +20501,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "HZZ",
     "SWIFT Code": "AXIPCHZZ",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20514,8 +20514,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "E20",
     "SWIFT Code": "AXIPCHZZE20",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20527,8 +20527,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "E35",
     "SWIFT Code": "AXIPCHZZE35",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20540,8 +20540,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "E50",
     "SWIFT Code": "AXIPCHZZE50",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20553,8 +20553,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "E75",
     "SWIFT Code": "AXIPCHZZE75",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20566,8 +20566,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "ELO",
     "SWIFT Code": "AXIPCHZZELO",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20579,8 +20579,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "A1E",
     "SWIFT Code": "AXIPCHZZA1E",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20592,8 +20592,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "S15",
     "SWIFT Code": "AXIPCHZZS15",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20605,8 +20605,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "S25",
     "SWIFT Code": "AXIPCHZZS25",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20618,8 +20618,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "S40",
     "SWIFT Code": "AXIPCHZZS40",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20631,8 +20631,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SF2",
     "SWIFT Code": "AXIPCHZZSF2",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20644,8 +20644,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "PKI",
     "SWIFT Code": "AXIPCHZZPKI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20657,8 +20657,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "ARS",
     "SWIFT Code": "AXIPCHZZARS",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20670,8 +20670,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MFL",
     "SWIFT Code": "AXIPCHZZMFL",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20683,8 +20683,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "MTI",
     "SWIFT Code": "AXIPCHZZMTI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20696,8 +20696,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SMS",
     "SWIFT Code": "AXIPCHZZSMS",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20709,8 +20709,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SKI",
     "SWIFT Code": "AXIPCHZZSKI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20722,8 +20722,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SEW",
     "SWIFT Code": "AXIPCHZZSEW",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20735,8 +20735,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SFI",
     "SWIFT Code": "AXIPCHZZSFI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20748,8 +20748,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SFL",
     "SWIFT Code": "AXIPCHZZSFL",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20761,8 +20761,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SGS",
     "SWIFT Code": "AXIPCHZZSGS",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20774,8 +20774,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "CH",
+    "bankCode": "AXIP",
+    "countryCode": "CH",
     "branchCode": "SPI",
     "SWIFT Code": "AXIPCHZZSPI",
     "Bank Name": "AXA VERSICHERUNGEN AG",
@@ -20787,8 +20787,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "434",
     "SWIFT Code": "RAIFCH22434",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20800,8 +20800,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "912",
     "SWIFT Code": "RAIFCH22912",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20813,8 +20813,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D61",
     "SWIFT Code": "RAIFCH22D61",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20826,8 +20826,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B77",
     "SWIFT Code": "RAIFCH22B77",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20839,8 +20839,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C65",
     "SWIFT Code": "RAIFCH22C65",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20852,8 +20852,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "816",
     "SWIFT Code": "RAIFCH22816",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20865,8 +20865,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "940",
     "SWIFT Code": "RAIFCH22940",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20878,8 +20878,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E33",
     "SWIFT Code": "RAIFCH22E33",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20891,8 +20891,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C98",
     "SWIFT Code": "RAIFCH22C98",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20904,8 +20904,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B87",
     "SWIFT Code": "RAIFCH22B87",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20917,8 +20917,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D82",
     "SWIFT Code": "RAIFCH22D82",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20930,8 +20930,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B79",
     "SWIFT Code": "RAIFCH22B79",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20943,8 +20943,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "139",
     "SWIFT Code": "RAIFCH22139",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20956,8 +20956,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C12",
     "SWIFT Code": "RAIFCH22C12",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20969,8 +20969,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D25",
     "SWIFT Code": "RAIFCH22D25",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20982,8 +20982,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "261",
     "SWIFT Code": "RAIFCH22261",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -20995,8 +20995,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D84",
     "SWIFT Code": "RAIFCH22D84",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21008,8 +21008,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "102",
     "SWIFT Code": "RAIFCH22102",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21021,8 +21021,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "691",
     "SWIFT Code": "RAIFCH22691",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21034,8 +21034,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "820",
     "SWIFT Code": "RAIFCH22820",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21047,8 +21047,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "914",
     "SWIFT Code": "RAIFCH22914",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21060,8 +21060,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "595",
     "SWIFT Code": "RAIFCH22595",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21073,8 +21073,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "521",
     "SWIFT Code": "RAIFCH22521",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21086,8 +21086,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "689",
     "SWIFT Code": "RAIFCH22689",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21099,8 +21099,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "690",
     "SWIFT Code": "RAIFCH22690",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21112,8 +21112,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "206",
     "SWIFT Code": "RAIFCH22206",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21125,8 +21125,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "895",
     "SWIFT Code": "RAIFCH22895",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21138,8 +21138,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "485",
     "SWIFT Code": "RAIFCH22485",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21151,8 +21151,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "344",
     "SWIFT Code": "RAIFCH22344",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21164,8 +21164,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A31",
     "SWIFT Code": "RAIFCH22A31",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21177,8 +21177,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C69",
     "SWIFT Code": "RAIFCH22C69",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21190,8 +21190,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "241",
     "SWIFT Code": "RAIFCH22241",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21203,8 +21203,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C71",
     "SWIFT Code": "RAIFCH22C71",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21216,8 +21216,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "403",
     "SWIFT Code": "RAIFCH22403",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21229,8 +21229,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A45",
     "SWIFT Code": "RAIFCH22A45",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21242,8 +21242,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B44",
     "SWIFT Code": "RAIFCH22B44",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21255,8 +21255,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "896",
     "SWIFT Code": "RAIFCH22896",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21268,8 +21268,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "947",
     "SWIFT Code": "RAIFCH22947",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21281,8 +21281,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A12",
     "SWIFT Code": "RAIFCH22A12",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21294,8 +21294,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A11",
     "SWIFT Code": "RAIFCH22A11",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21307,8 +21307,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B69",
     "SWIFT Code": "RAIFCH22B69",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21320,8 +21320,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "B86",
     "SWIFT Code": "RAIFCH22B86",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21333,8 +21333,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E56",
     "SWIFT Code": "RAIFCH22E56",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21346,8 +21346,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "A73",
     "SWIFT Code": "RAIFCH22A73",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21359,8 +21359,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "D57",
     "SWIFT Code": "RAIFCH22D57",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21372,8 +21372,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "842",
     "SWIFT Code": "RAIFCH22842",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21385,8 +21385,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "C74",
     "SWIFT Code": "RAIFCH22C74",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21398,8 +21398,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "696",
     "SWIFT Code": "RAIFCH22696",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21411,8 +21411,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "652",
     "SWIFT Code": "RAIFCH22652",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",
@@ -21424,8 +21424,8 @@ const switzerland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAIF",
-    "bankCode": "CH",
+    "bankCode": "RAIF",
+    "countryCode": "CH",
     "branchCode": "E74",
     "SWIFT Code": "RAIFCH22E74",
     "Bank Name": "RAIFFEISEN SCHWEIZ GENOSSENSCHAFT",

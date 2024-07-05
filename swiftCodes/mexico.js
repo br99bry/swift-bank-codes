@@ -1,7 +1,7 @@
 const mexico = [
   {
-    "countryCode": "CRES",
-    "bankCode": "MX",
+    "bankCode": "CRES",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "CRESMXMX",
     "Bank Name": "C. SUISSE ASESORIA MEXICO SA DE CV",
@@ -13,8 +13,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "MX",
+    "bankCode": "CSFB",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "CSFBMXMX",
     "Bank Name": "CASA DE BOLSA CREDIT SUISSE (MEXICO), S.A. DE C.V.",
@@ -26,8 +26,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXCX",
-    "bankCode": "MX",
+    "bankCode": "CXCX",
+    "countryCode": "MX",
     "branchCode": "XMT",
     "SWIFT Code": "CXCXMXMT",
     "Bank Name": "CEMEX S.A.B. DE C.V.",
@@ -39,8 +39,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIMX",
-    "bankCode": "MX",
+    "bankCode": "CIMX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "CIMXMXMM",
     "Bank Name": "CIBANCO SA",
@@ -52,8 +52,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIMX",
-    "bankCode": "MX",
+    "bankCode": "CIMX",
+    "countryCode": "MX",
     "branchCode": "FID",
     "SWIFT Code": "CIMXMXMMFID",
     "Bank Name": "CIBANCO SA",
@@ -65,8 +65,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFIP",
-    "bankCode": "MX",
+    "bankCode": "CFIP",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "CFIPMXMM",
     "Bank Name": "CITIBANAMEX AFORE, S.A. DE C.V., INTEGRANTE DEL GRUPO FINANCIERO CITIBANAMEX",
@@ -78,8 +78,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACVL",
-    "bankCode": "MX",
+    "bankCode": "ACVL",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "ACVLMXMM",
     "Bank Name": "CITIBANAMEX CASA DE BOLSA SA DE CV CASA DE BOLSA INTEGRANTE DEL GRUPO FINANCIERO CITIBANAMEX",
@@ -91,8 +91,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVIV",
-    "bankCode": "MX",
+    "bankCode": "CVIV",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "CVIVMXMM",
     "Bank Name": "COMVIVRI",
@@ -104,8 +104,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBMM",
-    "bankCode": "MX",
+    "bankCode": "CBMM",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "CBMMMXMM",
     "Bank Name": "CORPORATIVO BIMBO, S.A. DE C.V.",
@@ -117,8 +117,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCAG",
-    "bankCode": "MX",
+    "bankCode": "DCAG",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "DCAGMXMM",
     "Bank Name": "DAIMLER MEXICO, SA DE CV",
@@ -130,8 +130,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MX",
+    "bankCode": "DEUT",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "DEUTMXMM",
     "Bank Name": "DEUTSCHE BANK MEXICO, SA",
@@ -143,8 +143,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MX",
+    "bankCode": "DEUT",
+    "countryCode": "MX",
     "branchCode": "XM2",
     "SWIFT Code": "DEUTMXM2",
     "Bank Name": "DEUTSCHE SECURITIES, S.A. DE C.V. CASA DE BOLSA",
@@ -156,8 +156,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUAF",
-    "bankCode": "MX",
+    "bankCode": "CUAF",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "CUAFMXMX",
     "Bank Name": "FINANCIERA CUALLIX, SA DE CV, SOFOM ENR",
@@ -169,8 +169,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEMX",
-    "bankCode": "MX",
+    "bankCode": "FEMX",
+    "countryCode": "MX",
     "branchCode": "XMT",
     "SWIFT Code": "FEMXMXMT",
     "Bank Name": "FOMENTO ECONOMICO MEXICANO, SAB. DE C.V.",
@@ -182,8 +182,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "MX",
+    "bankCode": "GOLD",
+    "countryCode": "MX",
     "branchCode": "XME",
     "SWIFT Code": "GOLDMXME",
     "Bank Name": "GOLDMAN SACHS MEXICO CASA DE BOLSA, S.A. DE C.V.",
@@ -195,8 +195,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBMS",
-    "bankCode": "MX",
+    "bankCode": "GBMS",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "GBMSMXMX",
     "Bank Name": "GRUPO BURSATIL MEXICANO, S.A. DE C.V., CASA DE BOLSA",
@@ -208,8 +208,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCON",
-    "bankCode": "MX",
+    "bankCode": "GCON",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "GCONMXMM",
     "Bank Name": "GRUPO CONDUMEX, S.A. DE C.V.",
@@ -222,8 +222,8 @@ const mexico = [
   },
   {},
   {
-    "countryCode": "GKUO",
-    "bankCode": "MX",
+    "bankCode": "GKUO",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "GKUOMXMM",
     "Bank Name": "GRUPO KUO SAB DE CV",
@@ -235,8 +235,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVSA",
-    "bankCode": "MX",
+    "bankCode": "TVSA",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "TVSAMXMM",
     "Bank Name": "GRUPO TELEVISA, S.A.B.",
@@ -249,8 +249,8 @@ const mexico = [
   },
   {},
   {
-    "countryCode": "BIME",
-    "bankCode": "MX",
+    "bankCode": "BIME",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BIMEMXMM",
     "Bank Name": "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC",
@@ -262,8 +262,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIME",
-    "bankCode": "MX",
+    "bankCode": "BIME",
+    "countryCode": "MX",
     "branchCode": "CLS",
     "SWIFT Code": "BIMEMXMMCLS",
     "Bank Name": "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC",
@@ -275,8 +275,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "MX",
+    "bankCode": "ICBK",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "ICBKMXMM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MEXICO, S.A.",
@@ -288,8 +288,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INTE",
-    "bankCode": "MX",
+    "bankCode": "INTE",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "INTEMXMM",
     "Bank Name": "INTERCAM BANCO SA INSTITUCION DE BANCA MULTIPLE INTERCAM GRUPO FINANCIERO",
@@ -301,8 +301,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICAB",
-    "bankCode": "MX",
+    "bankCode": "ICAB",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "ICABMXMM",
     "Bank Name": "INTERCAM CASA DE BOLSA S.A. DE C.V. INTERCAM      GRUPO FINANCIERO",
@@ -315,8 +315,8 @@ const mexico = [
   },
   {},
   {
-    "countryCode": "MHBM",
-    "bankCode": "MX",
+    "bankCode": "MHBM",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "MHBMMXMM",
     "Bank Name": "MIZUHO BANK MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -328,8 +328,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMC",
-    "bankCode": "MX",
+    "bankCode": "MSMC",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "MSMCMXMM",
     "Bank Name": "MORGAN STANLEY MEXICO, CASA DE BOLSA, S.A. DE C.V.",
@@ -341,8 +341,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMC",
-    "bankCode": "MX",
+    "bankCode": "MSMC",
+    "countryCode": "MX",
     "branchCode": "FXO",
     "SWIFT Code": "MSMCMXMMFXO",
     "Bank Name": "MORGAN STANLEY MEXICO, CASA DE BOLSA, S.A. DE C.V.",
@@ -354,8 +354,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "MX",
+    "bankCode": "BOTK",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "BOTKMXMX",
     "Bank Name": "MUFG BANK MEXICO S.A. INSTITUCION DE BANCA MULTIPLE FILIAL",
@@ -367,8 +367,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFSA",
-    "bankCode": "MX",
+    "bankCode": "NFSA",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "NFSAMXMM",
     "Bank Name": "NACIONAL FINANCIERA, S.N.C.",
@@ -380,8 +380,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PESN",
-    "bankCode": "MX",
+    "bankCode": "PESN",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "PESNMXMM",
     "Bank Name": "PENSIONISSSTE",
@@ -393,8 +393,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAPG",
-    "bankCode": "MX",
+    "bankCode": "PAPG",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "PAPGMXMM",
     "Bank Name": "PRINCIPAL AFORE, S.A. DE C.V., PRINCIPAL GRUPO FINANCIERO",
@@ -406,8 +406,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFID",
-    "bankCode": "MX",
+    "bankCode": "PFID",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "PFIDMXMM",
     "Bank Name": "PRINCIPAL FONDOS DE INVERSION, S.A. DE C.V., OPER ADORA DE FONDOS DE INVERSION, PGF",
@@ -419,8 +419,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REQU",
-    "bankCode": "MX",
+    "bankCode": "REQU",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "REQUMXMM",
     "Bank Name": "REACCIONES QUIMICAS S.A. DE C.V.",
@@ -432,8 +432,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "RFI",
     "SWIFT Code": "BCMRMXMMRFI",
     "Bank Name": "RENTA FIJA INTERNACIONAL",
@@ -445,8 +445,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "MX",
+    "bankCode": "REVO",
+    "countryCode": "MX",
     "branchCode": "XM2",
     "SWIFT Code": "REVOMXM2",
     "Bank Name": "REVOLUT DE MEXICO",
@@ -458,8 +458,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDE",
-    "bankCode": "MX",
+    "bankCode": "INDE",
+    "countryCode": "MX",
     "branchCode": "XM3",
     "SWIFT Code": "INDEMXM3",
     "Bank Name": "S.D. INDEVAL",
@@ -471,8 +471,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDE",
-    "bankCode": "MX",
+    "bankCode": "INDE",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "INDEMXMM",
     "Bank Name": "S.D. INDEVAL, S.A. DE C.V.",
@@ -484,8 +484,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "FXA",
     "SWIFT Code": "MBCOMXMMFXA",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -497,8 +497,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "MBCOMXMM",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -510,8 +510,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "INV",
     "SWIFT Code": "MBCOMXMMINV",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -523,8 +523,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "EQY",
     "SWIFT Code": "MBCOMXMMEQY",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -536,8 +536,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "SEC",
     "SWIFT Code": "MBCOMXMMSEC",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -549,8 +549,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "GUA",
     "SWIFT Code": "MBCOMXMMGUA",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -562,8 +562,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "MTY",
     "SWIFT Code": "MBCOMXMMMTY",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -575,8 +575,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBCO",
-    "bankCode": "MX",
+    "bankCode": "MBCO",
+    "countryCode": "MX",
     "branchCode": "PUE",
     "SWIFT Code": "MBCOMXMMPUE",
     "Bank Name": "SCOTIABANK INVERLAT, S.A.",
@@ -588,8 +588,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIMX",
-    "bankCode": "MX",
+    "bankCode": "SIMX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "SIMXMXMM",
     "Bank Name": "SURA INVESTMENT MANAGEMENT MEXICO, S.A. DE C.V., SOFI",
@@ -601,8 +601,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEVI",
-    "bankCode": "MX",
+    "bankCode": "TEVI",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "TEVIMXMM",
     "Bank Name": "TELEVISA, S. DE R.L. DE C.V.",
@@ -614,8 +614,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACEP",
-    "bankCode": "MX",
+    "bankCode": "ACEP",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "ACEPMXMM",
     "Bank Name": "AFORE COPPEL SA DE CV",
@@ -627,8 +627,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUUA",
-    "bankCode": "MX",
+    "bankCode": "AUUA",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "AUUAMXMM",
     "Bank Name": "AFORE SURA, S.A. DE C.V.",
@@ -640,8 +640,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFXB",
-    "bankCode": "MX",
+    "bankCode": "AFXB",
+    "countryCode": "MX",
     "branchCode": "XMR",
     "SWIFT Code": "AFXBMXMR",
     "Bank Name": "AFORE XXI BANORTE, S.A. DE C.V.",
@@ -653,8 +653,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFIR",
-    "bankCode": "MX",
+    "bankCode": "AFIR",
+    "countryCode": "MX",
     "branchCode": "XMT",
     "SWIFT Code": "AFIRMXMT",
     "Bank Name": "BANCA AFIRME, S.A., INSTITUCION DE BANCA MULTIPLE,AFIRME GRUPO FINANCIERO",
@@ -666,8 +666,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIFE",
-    "bankCode": "MX",
+    "bankCode": "MIFE",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "MIFEMXMM",
     "Bank Name": "BANCA MIFEL SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO MIFEL",
@@ -679,8 +679,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "ACIOMXMM",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -692,8 +692,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "MMD",
     "SWIFT Code": "ACIOMXMMMMD",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -705,8 +705,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "BRA",
     "SWIFT Code": "ACIOMXMMBRA",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -718,8 +718,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "PAY",
     "SWIFT Code": "ACIOMXMMPAY",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -731,8 +731,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "FND",
     "SWIFT Code": "ACIOMXMMFND",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -744,8 +744,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "FIT",
     "SWIFT Code": "ACIOMXMMFIT",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -757,8 +757,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACIO",
-    "bankCode": "MX",
+    "bankCode": "ACIO",
+    "countryCode": "MX",
     "branchCode": "ACB",
     "SWIFT Code": "ACIOMXMMACB",
     "Bank Name": "BANCO ACTINVER SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO ACTINVER",
@@ -770,8 +770,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTK",
-    "bankCode": "MX",
+    "bankCode": "AZTK",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "AZTKMXMM",
     "Bank Name": "BANCO AZTECA, S.A. INSTITUCION DE BANCA MULTIPLE",
@@ -783,8 +783,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTK",
-    "bankCode": "MX",
+    "bankCode": "AZTK",
+    "countryCode": "MX",
     "branchCode": "TVA",
     "SWIFT Code": "AZTKMXMMTVA",
     "Bank Name": "BANCO AZTECA, S.A. INSTITUCION DE BANCA MULTIPLE",
@@ -796,8 +796,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTK",
-    "bankCode": "MX",
+    "bankCode": "AZTK",
+    "countryCode": "MX",
     "branchCode": "EKT",
     "SWIFT Code": "AZTKMXMMEKT",
     "Bank Name": "BANCO AZTECA, S.A. INSTITUCION DE BANCA MULTIPLE",
@@ -809,8 +809,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSE",
-    "bankCode": "MX",
+    "bankCode": "BBSE",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "BBSEMXMX",
     "Bank Name": "BANCO BASE SA INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BASE",
@@ -822,8 +822,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "MX",
+    "bankCode": "CSFB",
+    "countryCode": "MX",
     "branchCode": "VIS",
     "SWIFT Code": "CSFBMXMMVIS",
     "Bank Name": "BANCO CREDIT SUISSE (MEXICO) S.A.",
@@ -835,8 +835,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "MX",
+    "bankCode": "CSFB",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "CSFBMXMM",
     "Bank Name": "BANCO CREDIT SUISSE (MEXICO) S.A.",
@@ -848,8 +848,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAF",
-    "bankCode": "MX",
+    "bankCode": "BIAF",
+    "countryCode": "MX",
     "branchCode": "XMT",
     "SWIFT Code": "BIAFMXMT",
     "Bank Name": "BANCO DE INVERSION AFIRME S.A.",
@@ -861,8 +861,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDEM",
-    "bankCode": "MX",
+    "bankCode": "BDEM",
+    "countryCode": "MX",
     "branchCode": "XMF",
     "SWIFT Code": "BDEMMXMF",
     "Bank Name": "BANCO DE MEXICO",
@@ -874,8 +874,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDEM",
-    "bankCode": "MX",
+    "bankCode": "BDEM",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BDEMMXMM",
     "Bank Name": "BANCO DE MEXICO",
@@ -887,8 +887,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDEM",
-    "bankCode": "MX",
+    "bankCode": "BDEM",
+    "countryCode": "MX",
     "branchCode": "XMC",
     "SWIFT Code": "BDEMMXMC",
     "Bank Name": "BANCO DE MEXICO",
@@ -900,8 +900,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJIO",
-    "bankCode": "MX",
+    "bankCode": "BJIO",
+    "countryCode": "MX",
     "branchCode": "XML",
     "SWIFT Code": "BJIOMXML",
     "Bank Name": "BANCO DEL BAJIO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -913,8 +913,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INBU",
-    "bankCode": "MX",
+    "bankCode": "INBU",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "INBUMXMM",
     "Bank Name": "BANCO INBURSA S.A.",
@@ -926,8 +926,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INXX",
-    "bankCode": "MX",
+    "bankCode": "INXX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "INXXMXMM",
     "Bank Name": "BANCO INVEX S.A., INSTITUCION DE BANCA MULTIPLE, INVEX GRUPO FINANCIERO",
@@ -939,8 +939,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MX",
+    "bankCode": "CHAS",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "CHASMXMX",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -952,8 +952,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MX",
+    "bankCode": "CHAS",
+    "countryCode": "MX",
     "branchCode": "CCS",
     "SWIFT Code": "CHASMXMXCCS",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -965,8 +965,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MX",
+    "bankCode": "CHAS",
+    "countryCode": "MX",
     "branchCode": "OCC",
     "SWIFT Code": "CHASMXMXOCC",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -978,8 +978,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MX",
+    "bankCode": "CHAS",
+    "countryCode": "MX",
     "branchCode": "GTS",
     "SWIFT Code": "CHASMXMXGTS",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -991,8 +991,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "MX",
+    "bankCode": "KOEX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "KOEXMXMM",
     "Bank Name": "BANCO KEB HANA MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE FILIAL",
@@ -1004,8 +1004,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "MEX",
     "SWIFT Code": "MENOMXMTMEX",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1017,8 +1017,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "XMT",
     "SWIFT Code": "MENOMXMT",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1030,8 +1030,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "CCM",
     "SWIFT Code": "MENOMXMTCCM",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1043,8 +1043,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "TSD",
     "SWIFT Code": "MENOMXMTTSD",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1056,8 +1056,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "DER",
     "SWIFT Code": "MENOMXMTDER",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1069,8 +1069,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "FEX",
     "SWIFT Code": "MENOMXMTFEX",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1082,8 +1082,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "WLS",
     "SWIFT Code": "MENOMXMTWLS",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1095,8 +1095,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MENO",
-    "bankCode": "MX",
+    "bankCode": "MENO",
+    "countryCode": "MX",
     "branchCode": "PYM",
     "SWIFT Code": "MENOMXMTPYM",
     "Bank Name": "BANCO MERCANTIL DEL NORTE, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO BANORTE",
@@ -1108,8 +1108,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MONX",
-    "bankCode": "MX",
+    "bankCode": "MONX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "MONXMXMM",
     "Bank Name": "BANCO MONEX, S.A.",
@@ -1121,8 +1121,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIMM",
-    "bankCode": "MX",
+    "bankCode": "MIMM",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "MIMMMXMX",
     "Bank Name": "BANCO MULTIVA S.A. INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO MULTIVA",
@@ -1134,8 +1134,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCE",
-    "bankCode": "MX",
+    "bankCode": "BNCE",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BNCEMXMM",
     "Bank Name": "BANCO NACIONAL DE COMERCIO EXTERIOR, S.N.C.",
@@ -1147,8 +1147,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BNMXMXMM",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1160,8 +1160,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "INV",
     "SWIFT Code": "BNMXMXMMINV",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1173,8 +1173,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "MTI",
     "SWIFT Code": "BNMXMXMMMTI",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1186,8 +1186,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "PYM",
     "SWIFT Code": "BNMXMXMMPYM",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1199,8 +1199,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "CVT",
     "SWIFT Code": "BNMXMXMMCVT",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1212,8 +1212,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "GUA",
     "SWIFT Code": "BNMXMXMMGUA",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1225,8 +1225,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "LEO",
     "SWIFT Code": "BNMXMXMMLEO",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1238,8 +1238,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "MTY",
     "SWIFT Code": "BNMXMXMMMTY",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1251,8 +1251,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMX",
-    "bankCode": "MX",
+    "bankCode": "BNMX",
+    "countryCode": "MX",
     "branchCode": "PUE",
     "SWIFT Code": "BNMXMXMMPUE",
     "Bank Name": "BANCO NACIONAL DE MEXICO S.A.",
@@ -1264,8 +1264,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UFIA",
-    "bankCode": "MX",
+    "bankCode": "UFIA",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "UFIAMXMM",
     "Bank Name": "UNIFIN FINANCIERA SAB DE CV",
@@ -1277,8 +1277,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VECR",
-    "bankCode": "MX",
+    "bankCode": "VECR",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "VECRMXMM",
     "Bank Name": "VECTOR CASA DE BOLSA, SA DE CV",
@@ -1290,8 +1290,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VWAG",
-    "bankCode": "MX",
+    "bankCode": "VWAG",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "VWAGMXMM",
     "Bank Name": "VOLKSWAGEN DE MEXICO S.A. DE C.V.",
@@ -1303,8 +1303,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EJER",
-    "bankCode": "MX",
+    "bankCode": "EJER",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "EJERMXMM",
     "Bank Name": "BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA, S.N.C.",
@@ -1316,8 +1316,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGIO",
-    "bankCode": "MX",
+    "bankCode": "RGIO",
+    "countryCode": "MX",
     "branchCode": "XMT",
     "SWIFT Code": "RGIOMXMT",
     "Bank Name": "BANCO REGIONAL S.A. INSTITUCION DE BANCA MULTIPLE BANREGIO GRUPO FINANCIERO",
@@ -1329,8 +1329,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BSMXMXMM",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1342,8 +1342,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAF",
     "SWIFT Code": "BSMXMXMMCAF",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1355,8 +1355,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAB",
     "SWIFT Code": "BSMXMXMMCAB",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1368,8 +1368,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAY",
     "SWIFT Code": "BSMXMXMMCAY",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1381,8 +1381,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAI",
     "SWIFT Code": "BSMXMXMMCAI",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1394,8 +1394,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAT",
     "SWIFT Code": "BSMXMXMMCAT",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1407,8 +1407,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAL",
     "SWIFT Code": "BSMXMXMMCAL",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1420,8 +1420,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "CAN",
     "SWIFT Code": "BSMXMXMMCAN",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1433,8 +1433,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSMX",
-    "bankCode": "MX",
+    "bankCode": "BSMX",
+    "countryCode": "MX",
     "branchCode": "SGA",
     "SWIFT Code": "BSMXMXMMSGA",
     "Bank Name": "BANCO S3 CACEIS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1446,8 +1446,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "MX",
+    "bankCode": "BSAB",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BSABMXMM",
     "Bank Name": "BANCO SABADELL S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1459,8 +1459,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSX",
-    "bankCode": "MX",
+    "bankCode": "BMSX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BMSXMXMM",
     "Bank Name": "BANCO SANTANDER MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER MEXICO",
@@ -1472,8 +1472,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSX",
-    "bankCode": "MX",
+    "bankCode": "BMSX",
+    "countryCode": "MX",
     "branchCode": "SSS",
     "SWIFT Code": "BMSXMXMMSSS",
     "Bank Name": "BANCO SANTANDER MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO SANTANDER MEXICO",
@@ -1485,8 +1485,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "MX",
+    "bankCode": "SHBK",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "SHBKMXMM",
     "Bank Name": "BANCO SHINHAN DE MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1498,8 +1498,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBP",
-    "bankCode": "MX",
+    "bankCode": "BIBP",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BIBPMXMM",
     "Bank Name": "BANCREA",
@@ -1511,8 +1511,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MX",
+    "bankCode": "BOFA",
+    "countryCode": "MX",
     "branchCode": "MEX",
     "SWIFT Code": "BOFAMXMXMEX",
     "Bank Name": "BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCAMULTIPLE",
@@ -1524,8 +1524,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MX",
+    "bankCode": "BOFA",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "BOFAMXMX",
     "Bank Name": "BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCAMULTIPLE",
@@ -1537,8 +1537,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MX",
+    "bankCode": "BOFA",
+    "countryCode": "MX",
     "branchCode": "VAM",
     "SWIFT Code": "BOFAMXMXVAM",
     "Bank Name": "BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCAMULTIPLE",
@@ -1550,8 +1550,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MX",
+    "bankCode": "BOFA",
+    "countryCode": "MX",
     "branchCode": "ECL",
     "SWIFT Code": "BOFAMXMXECL",
     "Bank Name": "BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCAMULTIPLE",
@@ -1563,8 +1563,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MX",
+    "bankCode": "BOFA",
+    "countryCode": "MX",
     "branchCode": "MLM",
     "SWIFT Code": "BOFAMXMXMLM",
     "Bank Name": "BANK OF AMERICA MEXICO, S.A., INSTITUCION DE BANCAMULTIPLE",
@@ -1576,8 +1576,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MX",
+    "bankCode": "BKCH",
+    "countryCode": "MX",
     "branchCode": "XMX",
     "SWIFT Code": "BKCHMXMX",
     "Bank Name": "BANK OF CHINA MEXICO, SA, INSTITUCION DE BANCO MULTIPLE",
@@ -1589,8 +1589,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "MX",
+    "bankCode": "BARC",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BARCMXMM",
     "Bank Name": "BARCLAYS BANK MEXICO S.A.",
@@ -1602,8 +1602,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BCMRMXMM",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1615,8 +1615,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "HIP",
     "SWIFT Code": "BCMRMXMMHIP",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1628,8 +1628,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "CBP",
     "SWIFT Code": "BCMRMXMMCBP",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1641,8 +1641,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "CSM",
     "SWIFT Code": "BCMRMXMMCSM",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1654,8 +1654,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "COL",
     "SWIFT Code": "BCMRMXMMCOL",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1667,8 +1667,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "COR",
     "SWIFT Code": "BCMRMXMMCOR",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1680,8 +1680,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "FID",
     "SWIFT Code": "BCMRMXMMFID",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1693,8 +1693,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "EXT",
     "SWIFT Code": "BCMRMXMMEXT",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1706,8 +1706,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "FGN",
     "SWIFT Code": "BCMRMXMMFGN",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1719,8 +1719,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "IMD",
     "SWIFT Code": "BCMRMXMMIMD",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1732,8 +1732,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "IFI",
     "SWIFT Code": "BCMRMXMMIFI",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1745,8 +1745,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "OPC",
     "SWIFT Code": "BCMRMXMMOPC",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1758,8 +1758,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "DIV",
     "SWIFT Code": "BCMRMXMMDIV",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1771,8 +1771,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "DOC",
     "SWIFT Code": "BCMRMXMMDOC",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1784,8 +1784,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "OPE",
     "SWIFT Code": "BCMRMXMMOPE",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1797,8 +1797,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "PYM",
     "SWIFT Code": "BCMRMXMMPYM",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1810,8 +1810,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "REC",
     "SWIFT Code": "BCMRMXMMREC",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1823,8 +1823,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "RPL",
     "SWIFT Code": "BCMRMXMMRPL",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1836,8 +1836,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "SEC",
     "SWIFT Code": "BCMRMXMMSEC",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1849,8 +1849,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "TIN",
     "SWIFT Code": "BCMRMXMMTIN",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1862,8 +1862,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "GUA",
     "SWIFT Code": "BCMRMXMMGUA",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1875,8 +1875,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMR",
-    "bankCode": "MX",
+    "bankCode": "BCMR",
+    "countryCode": "MX",
     "branchCode": "MTY",
     "SWIFT Code": "BCMRMXMMMTY",
     "Bank Name": "BBVA MEXICO S.A.",
@@ -1888,8 +1888,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "MX",
+    "bankCode": "BNPA",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BNPAMXMM",
     "Bank Name": "BNP PARIBAS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1901,8 +1901,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "MX",
+    "bankCode": "BNPA",
+    "countryCode": "MX",
     "branchCode": "2SS",
     "SWIFT Code": "BNPAMXMM2SS",
     "Bank Name": "BNP PARIBAS MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE",
@@ -1914,8 +1914,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIVL",
-    "bankCode": "MX",
+    "bankCode": "BIVL",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BIVLMXMM",
     "Bank Name": "BOLSA INSTITUCIONAL DE VALORES, S.A. DE C.V.",
@@ -1927,8 +1927,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XMEX",
-    "bankCode": "MX",
+    "bankCode": "XMEX",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "XMEXMXMM",
     "Bank Name": "BOLSA MEXICANA DE VALORES, S.A.B. DE C.V.",
@@ -1940,8 +1940,8 @@ const mexico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIDS",
-    "bankCode": "MX",
+    "bankCode": "BIDS",
+    "countryCode": "MX",
     "branchCode": "XMM",
     "SWIFT Code": "BIDSMXMM",
     "Bank Name": "BRASKEM IDESA SAPI",

@@ -1,7 +1,7 @@
 const egypt = [
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "240",
     "SWIFT Code": "NBEGEGCX240",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13,8 +13,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "229",
     "SWIFT Code": "NBEGEGCX229",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -26,8 +26,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "200",
     "SWIFT Code": "NBEGEGCX200",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -39,8 +39,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "259",
     "SWIFT Code": "NBEGEGCX259",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -52,8 +52,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "255",
     "SWIFT Code": "NBEGEGCX255",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -65,8 +65,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "258",
     "SWIFT Code": "NBEGEGCX258",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -78,8 +78,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "247",
     "SWIFT Code": "NBEGEGCX247",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -91,8 +91,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "228",
     "SWIFT Code": "NBEGEGCX228",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -104,8 +104,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "207",
     "SWIFT Code": "NBEGEGCX207",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -117,8 +117,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "266",
     "SWIFT Code": "NBEGEGCX266",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -130,8 +130,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "206",
     "SWIFT Code": "NBEGEGCX206",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -143,8 +143,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "261",
     "SWIFT Code": "NBEGEGCX261",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -156,8 +156,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "233",
     "SWIFT Code": "NBEGEGCX233",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -169,8 +169,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "241",
     "SWIFT Code": "NBEGEGCX241",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -183,8 +183,8 @@ const egypt = [
   },
   {},
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "227",
     "SWIFT Code": "NBEGEGCX227",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -196,8 +196,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "246",
     "SWIFT Code": "NBEGEGCX246",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -210,8 +210,8 @@ const egypt = [
   },
   {},
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "232",
     "SWIFT Code": "NBEGEGCX232",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -223,8 +223,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "204",
     "SWIFT Code": "NBEGEGCX204",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -236,8 +236,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "203",
     "SWIFT Code": "NBEGEGCX203",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -249,8 +249,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "202",
     "SWIFT Code": "NBEGEGCX202",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -262,8 +262,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "205",
     "SWIFT Code": "NBEGEGCX205",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -275,8 +275,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "216",
     "SWIFT Code": "NBEGEGCX216",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -289,8 +289,8 @@ const egypt = [
   },
   {},
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "269",
     "SWIFT Code": "NBEGEGCX269",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -302,8 +302,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "243",
     "SWIFT Code": "NBEGEGCX243",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -315,8 +315,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "561",
     "SWIFT Code": "NBEGEGCX561",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -328,8 +328,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "239",
     "SWIFT Code": "NBEGEGCX239",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -341,8 +341,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "215",
     "SWIFT Code": "NBEGEGCX215",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -354,8 +354,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "262",
     "SWIFT Code": "NBEGEGCX262",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -367,8 +367,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "210",
     "SWIFT Code": "NBEGEGCX210",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -380,8 +380,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "226",
     "SWIFT Code": "NBEGEGCX226",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -393,8 +393,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "267",
     "SWIFT Code": "NBEGEGCX267",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -406,8 +406,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "244",
     "SWIFT Code": "NBEGEGCX244",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -419,8 +419,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "236",
     "SWIFT Code": "NBEGEGCX236",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -432,8 +432,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "242",
     "SWIFT Code": "NBEGEGCX242",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -445,8 +445,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "249",
     "SWIFT Code": "NBEGEGCX249",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -458,8 +458,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "218",
     "SWIFT Code": "NBEGEGCX218",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -471,8 +471,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "250",
     "SWIFT Code": "NBEGEGCX250",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -484,8 +484,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "238",
     "SWIFT Code": "NBEGEGCX238",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -499,8 +499,8 @@ const egypt = [
   {},
   {},
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "265",
     "SWIFT Code": "NBEGEGCX265",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -512,8 +512,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "231",
     "SWIFT Code": "NBEGEGCX231",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -525,8 +525,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "211",
     "SWIFT Code": "NBEGEGCX211",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -538,8 +538,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "209",
     "SWIFT Code": "NBEGEGCX209",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -551,8 +551,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "252",
     "SWIFT Code": "NBEGEGCX252",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -564,8 +564,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "235",
     "SWIFT Code": "NBEGEGCX235",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -577,8 +577,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "201",
     "SWIFT Code": "NBEGEGCX201",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -590,8 +590,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "562",
     "SWIFT Code": "NBEGEGCX562",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -603,8 +603,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "312",
     "SWIFT Code": "NBEGEGCX312",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -616,8 +616,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "310",
     "SWIFT Code": "NBEGEGCX310",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -629,8 +629,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "314",
     "SWIFT Code": "NBEGEGCX314",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -642,8 +642,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "375",
     "SWIFT Code": "NBEGEGCX375",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -655,8 +655,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "608",
     "SWIFT Code": "NBEGEGCX608",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -668,8 +668,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "606",
     "SWIFT Code": "NBEGEGCX606",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -681,8 +681,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "603",
     "SWIFT Code": "NBEGEGCX603",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -694,8 +694,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "112",
     "SWIFT Code": "NBEGEGCX112",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -707,8 +707,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "034",
     "SWIFT Code": "NBEGEGCX034",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -720,8 +720,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "093",
     "SWIFT Code": "NBEGEGCX093",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -733,8 +733,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "377",
     "SWIFT Code": "NBEGEGCX377",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -746,8 +746,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "030",
     "SWIFT Code": "NBEGEGCX030",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -759,8 +759,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "441",
     "SWIFT Code": "NBEGEGCX441",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -772,8 +772,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "547",
     "SWIFT Code": "NBEGEGCX547",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -785,8 +785,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "881",
     "SWIFT Code": "NBEGEGCX881",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -798,8 +798,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "880",
     "SWIFT Code": "NBEGEGCX880",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -811,8 +811,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "491",
     "SWIFT Code": "NBEGEGCX491",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -824,8 +824,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "532",
     "SWIFT Code": "NBEGEGCX532",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -837,8 +837,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "523",
     "SWIFT Code": "NBEGEGCX523",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -850,8 +850,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "527",
     "SWIFT Code": "NBEGEGCX527",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -863,8 +863,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "525",
     "SWIFT Code": "NBEGEGCX525",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -876,8 +876,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "540",
     "SWIFT Code": "NBEGEGCX540",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -889,8 +889,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "537",
     "SWIFT Code": "NBEGEGCX537",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -902,8 +902,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "461",
     "SWIFT Code": "NBEGEGCX461",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -915,8 +915,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "415",
     "SWIFT Code": "NBEGEGCX415",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -928,8 +928,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "407",
     "SWIFT Code": "NBEGEGCX407",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -941,8 +941,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "877",
     "SWIFT Code": "NBEGEGCX877",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -954,8 +954,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "342",
     "SWIFT Code": "NBEGEGCX342",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -967,8 +967,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "542",
     "SWIFT Code": "NBEGEGCX542",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -980,8 +980,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "879",
     "SWIFT Code": "NBEGEGCX879",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -993,8 +993,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "346",
     "SWIFT Code": "NBEGEGCX346",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1006,8 +1006,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "343",
     "SWIFT Code": "NBEGEGCX343",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1019,8 +1019,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "344",
     "SWIFT Code": "NBEGEGCX344",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1032,8 +1032,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "876",
     "SWIFT Code": "NBEGEGCX876",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1045,8 +1045,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "413",
     "SWIFT Code": "NBEGEGCX413",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1058,8 +1058,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "511",
     "SWIFT Code": "NBEGEGCX511",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1071,8 +1071,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "384",
     "SWIFT Code": "NBEGEGCX384",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1084,8 +1084,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "366",
     "SWIFT Code": "NBEGEGCX366",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1097,8 +1097,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "348",
     "SWIFT Code": "NBEGEGCX348",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1110,8 +1110,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "349",
     "SWIFT Code": "NBEGEGCX349",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1123,8 +1123,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "359",
     "SWIFT Code": "NBEGEGCX359",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1136,8 +1136,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "340",
     "SWIFT Code": "NBEGEGCX340",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1149,8 +1149,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "882",
     "SWIFT Code": "NBEGEGCX882",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1162,8 +1162,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "423",
     "SWIFT Code": "NBEGEGCX423",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1175,8 +1175,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "428",
     "SWIFT Code": "NBEGEGCX428",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1188,8 +1188,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "316",
     "SWIFT Code": "NBEGEGCX316",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1201,8 +1201,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "360",
     "SWIFT Code": "NBEGEGCX360",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1214,8 +1214,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "362",
     "SWIFT Code": "NBEGEGCX362",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1227,8 +1227,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "424",
     "SWIFT Code": "NBEGEGCX424",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1240,8 +1240,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "492",
     "SWIFT Code": "NBEGEGCX492",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1253,8 +1253,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "493",
     "SWIFT Code": "NBEGEGCX493",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1266,8 +1266,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "850",
     "SWIFT Code": "NBEGEGCX850",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1279,8 +1279,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "852",
     "SWIFT Code": "NBEGEGCX852",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1292,8 +1292,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "494",
     "SWIFT Code": "NBEGEGCX494",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1305,8 +1305,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "439",
     "SWIFT Code": "NBEGEGCX439",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1318,8 +1318,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "114",
     "SWIFT Code": "NBEGEGCX114",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1331,8 +1331,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "548",
     "SWIFT Code": "NBEGEGCX548",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1344,8 +1344,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "584",
     "SWIFT Code": "NBEGEGCX584",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1357,8 +1357,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "500",
     "SWIFT Code": "NBEGEGCX500",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1370,8 +1370,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "502",
     "SWIFT Code": "NBEGEGCX502",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1383,8 +1383,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "538",
     "SWIFT Code": "NBEGEGCX538",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1396,8 +1396,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "854",
     "SWIFT Code": "NBEGEGCX854",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1409,8 +1409,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "851",
     "SWIFT Code": "NBEGEGCX851",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1422,8 +1422,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "426",
     "SWIFT Code": "NBEGEGCX426",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1435,8 +1435,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "853",
     "SWIFT Code": "NBEGEGCX853",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1448,8 +1448,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "373",
     "SWIFT Code": "NBEGEGCX373",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1461,8 +1461,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "457",
     "SWIFT Code": "NBEGEGCX457",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1474,8 +1474,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "378",
     "SWIFT Code": "NBEGEGCX378",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1487,8 +1487,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "383",
     "SWIFT Code": "NBEGEGCX383",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1500,8 +1500,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "435",
     "SWIFT Code": "NBEGEGCX435",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1513,8 +1513,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "521",
     "SWIFT Code": "NBEGEGCX521",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1526,8 +1526,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "694",
     "SWIFT Code": "NBEGEGCX694",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1539,8 +1539,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "116",
     "SWIFT Code": "NBEGEGCX116",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1552,8 +1552,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "016",
     "SWIFT Code": "NBEGEGCX016",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1565,8 +1565,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "069",
     "SWIFT Code": "NBEGEGCX069",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1578,8 +1578,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "661",
     "SWIFT Code": "NBEGEGCX661",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1591,8 +1591,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "696",
     "SWIFT Code": "NBEGEGCX696",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1604,8 +1604,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "098",
     "SWIFT Code": "NBEGEGCX098",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1617,8 +1617,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "685",
     "SWIFT Code": "NBEGEGCX685",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1630,8 +1630,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "097",
     "SWIFT Code": "NBEGEGCX097",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1643,8 +1643,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "036",
     "SWIFT Code": "NBEGEGCX036",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1656,8 +1656,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "055",
     "SWIFT Code": "NBEGEGCX055",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1669,8 +1669,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "164",
     "SWIFT Code": "NBEGEGCX164",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1682,8 +1682,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "692",
     "SWIFT Code": "NBEGEGCX692",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1695,8 +1695,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "070",
     "SWIFT Code": "NBEGEGCX070",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1708,8 +1708,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "682",
     "SWIFT Code": "NBEGEGCX682",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1721,8 +1721,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "166",
     "SWIFT Code": "NBEGEGCX166",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1734,8 +1734,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "160",
     "SWIFT Code": "NBEGEGCX160",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1747,8 +1747,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "091",
     "SWIFT Code": "NBEGEGCX091",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1760,8 +1760,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "054",
     "SWIFT Code": "NBEGEGCX054",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1773,8 +1773,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "058",
     "SWIFT Code": "NBEGEGCX058",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1786,8 +1786,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "178",
     "SWIFT Code": "NBEGEGCX178",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1799,8 +1799,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "035",
     "SWIFT Code": "NBEGEGCX035",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1812,8 +1812,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "179",
     "SWIFT Code": "NBEGEGCX179",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1825,8 +1825,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "165",
     "SWIFT Code": "NBEGEGCX165",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1838,8 +1838,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "117",
     "SWIFT Code": "NBEGEGCX117",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1851,8 +1851,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "181",
     "SWIFT Code": "NBEGEGCX181",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1864,8 +1864,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "174",
     "SWIFT Code": "NBEGEGCX174",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1877,8 +1877,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "175",
     "SWIFT Code": "NBEGEGCX175",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -1890,8 +1890,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "NCT",
     "SWIFT Code": "WABAEGCXNCT",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -1903,8 +1903,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "ROX",
     "SWIFT Code": "WABAEGCXROX",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -1916,8 +1916,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "SAR",
     "SWIFT Code": "WABAEGCXSAR",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -1929,8 +1929,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "GAL",
     "SWIFT Code": "WABAEGCXGAL",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -1942,8 +1942,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "MNS",
     "SWIFT Code": "WABAEGCXMNS",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -1955,8 +1955,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "SOH",
     "SWIFT Code": "WABAEGCXSOH",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -1968,8 +1968,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "EG",
+    "bankCode": "NBOM",
+    "countryCode": "EG",
     "branchCode": "CHO",
     "SWIFT Code": "NBOMEGCXCHO",
     "Bank Name": "NATIONAL BANK OF OMAN (SAOG)",
@@ -1981,8 +1981,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "EG",
+    "bankCode": "NBOM",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "NBOMEGCX",
     "Bank Name": "NATIONAL BANK OF OMAN (SAOG)",
@@ -1994,8 +1994,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NINB",
-    "bankCode": "EG",
+    "bankCode": "NINB",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "NINBEGCA",
     "Bank Name": "NATIONAL INVESTMENT BANK",
@@ -2007,8 +2007,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "EG",
+    "bankCode": "QNBA",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "QNBAEGCX",
     "Bank Name": "QATAR NATIONAL BANK ALAHLI S.A.E (QNB ALAHLI)",
@@ -2020,8 +2020,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "EG",
+    "bankCode": "QNBA",
+    "countryCode": "EG",
     "branchCode": "GSS",
     "SWIFT Code": "QNBAEGCXGSS",
     "Bank Name": "QATAR NATIONAL BANK ALAHLI S.A.E (QNB ALAHLI)",
@@ -2033,8 +2033,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ASH",
     "SWIFT Code": "SBNKEGCXASH",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2046,8 +2046,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ARM",
     "SWIFT Code": "SBNKEGCXARM",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2059,8 +2059,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "BVR",
     "SWIFT Code": "SBNKEGCXBVR",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2072,8 +2072,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "SBNKEGCXOCT",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2085,8 +2085,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "OBR",
     "SWIFT Code": "SBNKEGCXOBR",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2098,8 +2098,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "SBNKEGCXALX",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2111,8 +2111,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "SMH",
     "SWIFT Code": "SBNKEGCXSMH",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2124,8 +2124,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "LRN",
     "SWIFT Code": "SBNKEGCXLRN",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2137,8 +2137,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ASI",
     "SWIFT Code": "SBNKEGCXASI",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2150,8 +2150,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "CIC",
     "SWIFT Code": "SBNKEGCXCIC",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2163,8 +2163,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "MRG",
     "SWIFT Code": "SBNKEGCXMRG",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2176,8 +2176,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "SBNKEGCX",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2189,8 +2189,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "AZH",
     "SWIFT Code": "SBNKEGCXAZH",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2202,8 +2202,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "BUS",
     "SWIFT Code": "SBNKEGCXBUS",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2215,8 +2215,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "MDI",
     "SWIFT Code": "SBNKEGCXMDI",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2228,8 +2228,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "MNL",
     "SWIFT Code": "SBNKEGCXMNL",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2241,8 +2241,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "HLP",
     "SWIFT Code": "SBNKEGCXHLP",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2254,8 +2254,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "SHR",
     "SWIFT Code": "SBNKEGCXSHR",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2267,8 +2267,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "SHB",
     "SWIFT Code": "SBNKEGCXSHB",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2280,8 +2280,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "STL",
     "SWIFT Code": "SBNKEGCXSTL",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2293,8 +2293,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ZMK",
     "SWIFT Code": "SBNKEGCXZMK",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2306,8 +2306,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "DMT",
     "SWIFT Code": "SBNKEGCXDMT",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2319,8 +2319,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "MHL",
     "SWIFT Code": "SBNKEGCXMHL",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2332,8 +2332,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "HAR",
     "SWIFT Code": "SBNKEGCXHAR",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2345,8 +2345,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "SHT",
     "SWIFT Code": "SBNKEGCXSHT",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2358,8 +2358,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "LXR",
     "SWIFT Code": "SBNKEGCXLXR",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2371,8 +2371,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "MNS",
     "SWIFT Code": "SBNKEGCXMNS",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2384,8 +2384,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "NCA",
     "SWIFT Code": "SBNKEGCXNCA",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2397,8 +2397,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "SHD",
     "SWIFT Code": "SBNKEGCXSHD",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2410,8 +2410,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "NRS",
     "SWIFT Code": "SBNKEGCXNRS",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2423,8 +2423,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "INV",
     "SWIFT Code": "SBNKEGCXINV",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2436,8 +2436,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ISL",
     "SWIFT Code": "SBNKEGCXISL",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2449,8 +2449,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "ZYD",
     "SWIFT Code": "SBNKEGCXZYD",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2462,8 +2462,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "SUZ",
     "SWIFT Code": "SBNKEGCXSUZ",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2475,8 +2475,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBNK",
-    "bankCode": "EG",
+    "bankCode": "SBNK",
+    "countryCode": "EG",
     "branchCode": "TAN",
     "SWIFT Code": "SBNKEGCXTAN",
     "Bank Name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
@@ -2488,8 +2488,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "EG",
+    "bankCode": "SCBL",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "SCBLEGCA",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -2501,8 +2501,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "RAM",
     "SWIFT Code": "SUCAEGCXRAM",
     "Bank Name": "SUEZ CANAL BANK",
@@ -2514,8 +2514,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "SUCAEGCXOCT",
     "Bank Name": "SUEZ CANAL BANK",
@@ -2527,8 +2527,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "OCU",
     "SWIFT Code": "SUCAEGCXOCU",
     "Bank Name": "SUEZ CANAL BANK",
@@ -2540,8 +2540,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "ARAIEGCX",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2553,8 +2553,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "HEL",
     "SWIFT Code": "ARAIEGCXHEL",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2566,8 +2566,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "MAA",
     "SWIFT Code": "ARAIEGCXMAA",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2579,8 +2579,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "TRF",
     "SWIFT Code": "ARAIEGCXTRF",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2592,8 +2592,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "WUN",
     "SWIFT Code": "ARAIEGCXWUN",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2605,8 +2605,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "ARAIEGCXMOH",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2618,8 +2618,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "TNT",
     "SWIFT Code": "ARAIEGCXTNT",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2631,8 +2631,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEDA",
-    "bankCode": "EG",
+    "bankCode": "AEDA",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "AEDAEGCA",
     "Bank Name": "ARAB BANK FOR ECONOMIC DEVELOPMENT IN AFRICA",
@@ -2644,8 +2644,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "RMD",
     "SWIFT Code": "ARABEGCXRMD",
     "Bank Name": "ARAB BANK PLC",
@@ -2657,8 +2657,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "ARABEGCXOCT",
     "Bank Name": "ARAB BANK PLC",
@@ -2670,8 +2670,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "ARABEGCXALX",
     "Bank Name": "ARAB BANK PLC",
@@ -2683,8 +2683,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "SPR",
     "SWIFT Code": "ARABEGCXSPR",
     "Bank Name": "ARAB BANK PLC",
@@ -2696,8 +2696,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "AMN",
     "SWIFT Code": "ARABEGCXAMN",
     "Bank Name": "ARAB BANK PLC",
@@ -2709,8 +2709,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "NSA",
     "SWIFT Code": "ARABEGCXNSA",
     "Bank Name": "ARAB BANK PLC",
@@ -2722,8 +2722,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "NOZ",
     "SWIFT Code": "ARABEGCXNOZ",
     "Bank Name": "ARAB BANK PLC",
@@ -2735,8 +2735,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "ARABEGCXCAI",
     "Bank Name": "ARAB BANK PLC",
@@ -2748,8 +2748,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "COU",
     "SWIFT Code": "ARABEGCXCOU",
     "Bank Name": "ARAB BANK PLC",
@@ -2761,8 +2761,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "ARABEGCX",
     "Bank Name": "ARAB BANK PLC",
@@ -2774,8 +2774,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "MKT",
     "SWIFT Code": "ARABEGCXMKT",
     "Bank Name": "ARAB BANK PLC",
@@ -2787,8 +2787,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "GMH",
     "SWIFT Code": "ARABEGCXGMH",
     "Bank Name": "ARAB BANK PLC",
@@ -2800,8 +2800,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "HGZ",
     "SWIFT Code": "ARABEGCXHGZ",
     "Bank Name": "ARAB BANK PLC",
@@ -2813,8 +2813,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "MHD",
     "SWIFT Code": "ARABEGCXMHD",
     "Bank Name": "ARAB BANK PLC",
@@ -2826,8 +2826,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "THR",
     "SWIFT Code": "ARABEGCXTHR",
     "Bank Name": "ARAB BANK PLC",
@@ -2839,8 +2839,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "HEL",
     "SWIFT Code": "ARABEGCXHEL",
     "Bank Name": "ARAB BANK PLC",
@@ -2852,8 +2852,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "MDI",
     "SWIFT Code": "ARABEGCXMDI",
     "Bank Name": "ARAB BANK PLC",
@@ -2865,8 +2865,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "NSR",
     "SWIFT Code": "ARABEGCXNSR",
     "Bank Name": "ARAB BANK PLC",
@@ -2878,8 +2878,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "SHO",
     "SWIFT Code": "ARABEGCXSHO",
     "Bank Name": "ARAB BANK PLC",
@@ -2891,8 +2891,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "ZMK",
     "SWIFT Code": "ARABEGCXZMK",
     "Bank Name": "ARAB BANK PLC",
@@ -2904,8 +2904,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "HRM",
     "SWIFT Code": "ARABEGCXHRM",
     "Bank Name": "ARAB BANK PLC",
@@ -2917,8 +2917,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "DKI",
     "SWIFT Code": "ARABEGCXDKI",
     "Bank Name": "ARAB BANK PLC",
@@ -2930,8 +2930,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "SAW",
     "SWIFT Code": "ARABEGCXSAW",
     "Bank Name": "ARAB BANK PLC",
@@ -2943,8 +2943,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "EG",
+    "bankCode": "ARAB",
+    "countryCode": "EG",
     "branchCode": "SHR",
     "SWIFT Code": "ARABEGCXSHR",
     "Bank Name": "ARAB BANK PLC",
@@ -2956,8 +2956,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "014",
     "SWIFT Code": "MRBAEGCX014",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -2969,8 +2969,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "006",
     "SWIFT Code": "MRBAEGCX006",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -2982,8 +2982,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "025",
     "SWIFT Code": "MRBAEGCX025",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -2995,8 +2995,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "020",
     "SWIFT Code": "MRBAEGCX020",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3008,8 +3008,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "013",
     "SWIFT Code": "MRBAEGCX013",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3021,8 +3021,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "036",
     "SWIFT Code": "MRBAEGCX036",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3034,8 +3034,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "MRBAEGCX003",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3047,8 +3047,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "030",
     "SWIFT Code": "MRBAEGCX030",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3060,8 +3060,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "016",
     "SWIFT Code": "MRBAEGCX016",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3073,8 +3073,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "033",
     "SWIFT Code": "MRBAEGCX033",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3086,8 +3086,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "004",
     "SWIFT Code": "MRBAEGCX004",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3099,8 +3099,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "022",
     "SWIFT Code": "MRBAEGCX022",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3112,8 +3112,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "029",
     "SWIFT Code": "MRBAEGCX029",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3125,8 +3125,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "005",
     "SWIFT Code": "MRBAEGCX005",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3138,8 +3138,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "009",
     "SWIFT Code": "MRBAEGCX009",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3151,8 +3151,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "023",
     "SWIFT Code": "MRBAEGCX023",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3164,8 +3164,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "024",
     "SWIFT Code": "MRBAEGCX024",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3177,8 +3177,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "008",
     "SWIFT Code": "MRBAEGCX008",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -3190,8 +3190,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "168",
     "SWIFT Code": "NBEGEGCX168",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3203,8 +3203,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "187",
     "SWIFT Code": "NBEGEGCX187",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3216,8 +3216,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "663",
     "SWIFT Code": "NBEGEGCX663",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3229,8 +3229,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "048",
     "SWIFT Code": "NBEGEGCX048",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3242,8 +3242,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "695",
     "SWIFT Code": "NBEGEGCX695",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3255,8 +3255,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "698",
     "SWIFT Code": "NBEGEGCX698",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3268,8 +3268,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "060",
     "SWIFT Code": "NBEGEGCX060",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3281,8 +3281,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "092",
     "SWIFT Code": "NBEGEGCX092",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3294,8 +3294,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "185",
     "SWIFT Code": "NBEGEGCX185",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3307,8 +3307,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "083",
     "SWIFT Code": "NBEGEGCX083",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3320,8 +3320,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "099",
     "SWIFT Code": "NBEGEGCX099",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3333,8 +3333,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "005",
     "SWIFT Code": "NBEGEGCX005",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3346,8 +3346,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "049",
     "SWIFT Code": "NBEGEGCX049",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3359,8 +3359,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "680",
     "SWIFT Code": "NBEGEGCX680",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3372,8 +3372,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "044",
     "SWIFT Code": "NBEGEGCX044",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3385,8 +3385,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "064",
     "SWIFT Code": "NBEGEGCX064",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3398,8 +3398,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "683",
     "SWIFT Code": "NBEGEGCX683",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3411,8 +3411,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "169",
     "SWIFT Code": "NBEGEGCX169",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3424,8 +3424,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "045",
     "SWIFT Code": "NBEGEGCX045",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3437,8 +3437,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "697",
     "SWIFT Code": "NBEGEGCX697",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3450,8 +3450,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "188",
     "SWIFT Code": "NBEGEGCX188",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3463,8 +3463,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "037",
     "SWIFT Code": "NBEGEGCX037",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3476,8 +3476,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "018",
     "SWIFT Code": "NBEGEGCX018",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3489,8 +3489,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "090",
     "SWIFT Code": "NBEGEGCX090",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3502,8 +3502,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "444",
     "SWIFT Code": "NBEGEGCX444",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3515,8 +3515,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "357",
     "SWIFT Code": "NBEGEGCX357",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3528,8 +3528,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "355",
     "SWIFT Code": "NBEGEGCX355",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3541,8 +3541,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "553",
     "SWIFT Code": "NBEGEGCX553",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3554,8 +3554,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "356",
     "SWIFT Code": "NBEGEGCX356",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3567,8 +3567,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "347",
     "SWIFT Code": "NBEGEGCX347",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3580,8 +3580,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "341",
     "SWIFT Code": "NBEGEGCX341",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3593,8 +3593,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "566",
     "SWIFT Code": "NBEGEGCX566",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3606,8 +3606,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "358",
     "SWIFT Code": "NBEGEGCX358",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3619,8 +3619,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "300",
     "SWIFT Code": "NBEGEGCX300",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3632,8 +3632,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "303",
     "SWIFT Code": "NBEGEGCX303",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3645,8 +3645,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "302",
     "SWIFT Code": "NBEGEGCX302",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3658,8 +3658,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "304",
     "SWIFT Code": "NBEGEGCX304",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3671,8 +3671,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "306",
     "SWIFT Code": "NBEGEGCX306",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3684,8 +3684,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "301",
     "SWIFT Code": "NBEGEGCX301",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3697,8 +3697,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "391",
     "SWIFT Code": "NBEGEGCX391",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3710,8 +3710,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "465",
     "SWIFT Code": "NBEGEGCX465",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3723,8 +3723,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "454",
     "SWIFT Code": "NBEGEGCX454",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3736,8 +3736,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "398",
     "SWIFT Code": "NBEGEGCX398",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3749,8 +3749,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "397",
     "SWIFT Code": "NBEGEGCX397",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3762,8 +3762,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "401",
     "SWIFT Code": "NBEGEGCX401",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3775,8 +3775,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "396",
     "SWIFT Code": "NBEGEGCX396",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3788,8 +3788,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "395",
     "SWIFT Code": "NBEGEGCX395",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3801,8 +3801,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "456",
     "SWIFT Code": "NBEGEGCX456",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3814,8 +3814,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "400",
     "SWIFT Code": "NBEGEGCX400",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3827,8 +3827,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "464",
     "SWIFT Code": "NBEGEGCX464",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -3840,8 +3840,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "043",
     "SWIFT Code": "CIBEEGCX043",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3853,8 +3853,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "046",
     "SWIFT Code": "CIBEEGCX046",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3866,8 +3866,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "215",
     "SWIFT Code": "CIBEEGCX215",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3879,8 +3879,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "216",
     "SWIFT Code": "CIBEEGCX216",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3892,8 +3892,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "158",
     "SWIFT Code": "CIBEEGCX158",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3905,8 +3905,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "047",
     "SWIFT Code": "CIBEEGCX047",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3918,8 +3918,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "071",
     "SWIFT Code": "CIBEEGCX071",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3931,8 +3931,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "042",
     "SWIFT Code": "CIBEEGCX042",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3944,8 +3944,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "041",
     "SWIFT Code": "CIBEEGCX041",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3957,8 +3957,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "219",
     "SWIFT Code": "CIBEEGCX219",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3970,8 +3970,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "088",
     "SWIFT Code": "CIBEEGCX088",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3983,8 +3983,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "044",
     "SWIFT Code": "CIBEEGCX044",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -3996,8 +3996,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "008",
     "SWIFT Code": "CIBEEGCX008",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4009,8 +4009,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "121",
     "SWIFT Code": "CIBEEGCX121",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4022,8 +4022,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "124",
     "SWIFT Code": "CIBEEGCX124",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4035,8 +4035,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "187",
     "SWIFT Code": "CIBEEGCX187",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4048,8 +4048,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "087",
     "SWIFT Code": "CIBEEGCX087",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4061,8 +4061,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "061",
     "SWIFT Code": "CIBEEGCX061",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4074,8 +4074,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "227",
     "SWIFT Code": "CIBEEGCX227",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4087,8 +4087,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "009",
     "SWIFT Code": "CIBEEGCX009",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4100,8 +4100,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "056",
     "SWIFT Code": "CIBEEGCX056",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4113,8 +4113,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "089",
     "SWIFT Code": "CIBEEGCX089",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4126,8 +4126,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "034",
     "SWIFT Code": "CIBEEGCX034",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4139,8 +4139,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "209",
     "SWIFT Code": "CIBEEGCX209",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4152,8 +4152,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "CIBEEGCX003",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4165,8 +4165,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "190",
     "SWIFT Code": "CIBEEGCX190",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4178,8 +4178,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "030",
     "SWIFT Code": "CIBEEGCX030",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4191,8 +4191,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "186",
     "SWIFT Code": "CIBEEGCX186",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4204,8 +4204,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "078",
     "SWIFT Code": "CIBEEGCX078",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4217,8 +4217,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "079",
     "SWIFT Code": "CIBEEGCX079",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4230,8 +4230,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "CIBEEGCX",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4243,8 +4243,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "122",
     "SWIFT Code": "CIBEEGCX122",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4256,8 +4256,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "072",
     "SWIFT Code": "CIBEEGCX072",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4269,8 +4269,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "014",
     "SWIFT Code": "CIBEEGCX014",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4282,8 +4282,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "116",
     "SWIFT Code": "CIBEEGCX116",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4295,8 +4295,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "193",
     "SWIFT Code": "CIBEEGCX193",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4308,8 +4308,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "110",
     "SWIFT Code": "CIBEEGCX110",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4321,8 +4321,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "109",
     "SWIFT Code": "CIBEEGCX109",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4334,8 +4334,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "143",
     "SWIFT Code": "CIBEEGCX143",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4347,8 +4347,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "029",
     "SWIFT Code": "CIBEEGCX029",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4360,8 +4360,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "105",
     "SWIFT Code": "CIBEEGCX105",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4373,8 +4373,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "149",
     "SWIFT Code": "CIBEEGCX149",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4386,8 +4386,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "129",
     "SWIFT Code": "CIBEEGCX129",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4399,8 +4399,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "033",
     "SWIFT Code": "CIBEEGCX033",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4412,8 +4412,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "059",
     "SWIFT Code": "CIBEEGCX059",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4425,8 +4425,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "181",
     "SWIFT Code": "CIBEEGCX181",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4438,8 +4438,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "152",
     "SWIFT Code": "CIBEEGCX152",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4451,8 +4451,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "CPC",
     "SWIFT Code": "CIBEEGCXCPC",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4464,8 +4464,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "220",
     "SWIFT Code": "CIBEEGCX220",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4477,8 +4477,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "207",
     "SWIFT Code": "CIBEEGCX207",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4490,8 +4490,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "172",
     "SWIFT Code": "CIBEEGCX172",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4503,8 +4503,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "052",
     "SWIFT Code": "CIBEEGCX052",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4516,8 +4516,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "050",
     "SWIFT Code": "CIBEEGCX050",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4529,8 +4529,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "019",
     "SWIFT Code": "CIBEEGCX019",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4542,8 +4542,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "076",
     "SWIFT Code": "CIBEEGCX076",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4555,8 +4555,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "051",
     "SWIFT Code": "CIBEEGCX051",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4568,8 +4568,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "189",
     "SWIFT Code": "CIBEEGCX189",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4581,8 +4581,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "069",
     "SWIFT Code": "CIBEEGCX069",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4594,8 +4594,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "104",
     "SWIFT Code": "CIBEEGCX104",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4607,8 +4607,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "108",
     "SWIFT Code": "CIBEEGCX108",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4620,8 +4620,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "180",
     "SWIFT Code": "CIBEEGCX180",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4633,8 +4633,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "202",
     "SWIFT Code": "CIBEEGCX202",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4646,8 +4646,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "026",
     "SWIFT Code": "CIBEEGCX026",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4659,8 +4659,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "179",
     "SWIFT Code": "CIBEEGCX179",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4672,8 +4672,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "173",
     "SWIFT Code": "CIBEEGCX173",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4685,8 +4685,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "015",
     "SWIFT Code": "CIBEEGCX015",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4698,8 +4698,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "096",
     "SWIFT Code": "CIBEEGCX096",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4711,8 +4711,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "195",
     "SWIFT Code": "CIBEEGCX195",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4724,8 +4724,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "112",
     "SWIFT Code": "CIBEEGCX112",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4737,8 +4737,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "073",
     "SWIFT Code": "CIBEEGCX073",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4750,8 +4750,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "114",
     "SWIFT Code": "CIBEEGCX114",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4763,8 +4763,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "224",
     "SWIFT Code": "CIBEEGCX224",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4776,8 +4776,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "203",
     "SWIFT Code": "CIBEEGCX203",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4789,8 +4789,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "191",
     "SWIFT Code": "CIBEEGCX191",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4802,8 +4802,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "185",
     "SWIFT Code": "CIBEEGCX185",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4815,8 +4815,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "197",
     "SWIFT Code": "CIBEEGCX197",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4828,8 +4828,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "CIBEEGCX002",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4841,8 +4841,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "208",
     "SWIFT Code": "CIBEEGCX208",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4854,8 +4854,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "SHP",
     "SWIFT Code": "CIBEEGCXSHP",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4867,8 +4867,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "144",
     "SWIFT Code": "CIBEEGCX144",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4880,8 +4880,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "037",
     "SWIFT Code": "CIBEEGCX037",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4893,8 +4893,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "028",
     "SWIFT Code": "CIBEEGCX028",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4906,8 +4906,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "131",
     "SWIFT Code": "CIBEEGCX131",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4919,8 +4919,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "063",
     "SWIFT Code": "CIBEEGCX063",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4932,8 +4932,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "027",
     "SWIFT Code": "CIBEEGCX027",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4945,8 +4945,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "113",
     "SWIFT Code": "CIBEEGCX113",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4958,8 +4958,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "064",
     "SWIFT Code": "CIBEEGCX064",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4971,8 +4971,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "183",
     "SWIFT Code": "CIBEEGCX183",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4984,8 +4984,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "138",
     "SWIFT Code": "CIBEEGCX138",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -4997,8 +4997,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "170",
     "SWIFT Code": "CIBEEGCX170",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5010,8 +5010,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "218",
     "SWIFT Code": "CIBEEGCX218",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5023,8 +5023,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "075",
     "SWIFT Code": "CIBEEGCX075",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5036,8 +5036,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "147",
     "SWIFT Code": "CIBEEGCX147",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5049,8 +5049,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "036",
     "SWIFT Code": "CIBEEGCX036",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5062,8 +5062,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "214",
     "SWIFT Code": "CIBEEGCX214",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5075,8 +5075,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "161",
     "SWIFT Code": "CIBEEGCX161",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5088,8 +5088,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "168",
     "SWIFT Code": "CIBEEGCX168",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5101,8 +5101,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "223",
     "SWIFT Code": "CIBEEGCX223",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5114,8 +5114,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "011",
     "SWIFT Code": "CIBEEGCX011",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5127,8 +5127,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "107",
     "SWIFT Code": "CIBEEGCX107",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -5140,8 +5140,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "EG",
+    "bankCode": "ADCB",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "ADCBEGCX",
     "Bank Name": "ABU DHABI COMMERCIAL BANK - EGYPT ADCB EGYPT",
@@ -5153,8 +5153,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABDI",
-    "bankCode": "EG",
+    "bankCode": "ABDI",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ABDIEGCA",
     "Bank Name": "ABU DHABI ISLAMIC BANK - EGYPT",
@@ -5166,8 +5166,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFXM",
-    "bankCode": "EG",
+    "bankCode": "AFXM",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "AFXMEGCA",
     "Bank Name": "AFRICAN EXPORT IMPORT BANK",
@@ -5179,8 +5179,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "BDACEGCA003",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5192,8 +5192,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "097",
     "SWIFT Code": "BDACEGCA097",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5205,8 +5205,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "088",
     "SWIFT Code": "BDACEGCA088",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5218,8 +5218,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "013",
     "SWIFT Code": "BDACEGCA013",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5231,8 +5231,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "082",
     "SWIFT Code": "BDACEGCA082",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5244,8 +5244,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "001",
     "SWIFT Code": "BDACEGCA001",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5257,8 +5257,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "BDACEGCA002",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5270,8 +5270,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "045",
     "SWIFT Code": "BDACEGCA045",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5283,8 +5283,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "057",
     "SWIFT Code": "BDACEGCA057",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5296,8 +5296,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "086",
     "SWIFT Code": "BDACEGCA086",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5309,8 +5309,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "084",
     "SWIFT Code": "BDACEGCA084",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5322,8 +5322,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "BDACEGCA",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5335,8 +5335,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "064",
     "SWIFT Code": "BDACEGCA064",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5348,8 +5348,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "047",
     "SWIFT Code": "BDACEGCA047",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5361,8 +5361,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "050",
     "SWIFT Code": "BDACEGCA050",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5374,8 +5374,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "096",
     "SWIFT Code": "BDACEGCA096",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5387,8 +5387,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "048",
     "SWIFT Code": "BDACEGCA048",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5400,8 +5400,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "093",
     "SWIFT Code": "BDACEGCA093",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5413,8 +5413,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "040",
     "SWIFT Code": "BDACEGCA040",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5426,8 +5426,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAC",
-    "bankCode": "EG",
+    "bankCode": "BDAC",
+    "countryCode": "EG",
     "branchCode": "055",
     "SWIFT Code": "BDACEGCA055",
     "Bank Name": "AGRICULTURAL BANK OF EGYPT (A.B.E)",
@@ -5439,8 +5439,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "215",
     "SWIFT Code": "DEIBEGCX215",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5452,8 +5452,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "223",
     "SWIFT Code": "DEIBEGCX223",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5465,8 +5465,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "DEIBEGCX",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5478,8 +5478,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "016",
     "SWIFT Code": "DEIBEGCX016",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5491,8 +5491,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "110",
     "SWIFT Code": "DEIBEGCX110",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5504,8 +5504,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "128",
     "SWIFT Code": "DEIBEGCX128",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5517,8 +5517,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "024",
     "SWIFT Code": "DEIBEGCX024",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5530,8 +5530,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "032",
     "SWIFT Code": "DEIBEGCX032",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5543,8 +5543,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "059",
     "SWIFT Code": "DEIBEGCX059",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5556,8 +5556,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "075",
     "SWIFT Code": "DEIBEGCX075",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5569,8 +5569,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "083",
     "SWIFT Code": "DEIBEGCX083",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5582,8 +5582,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "040",
     "SWIFT Code": "DEIBEGCX040",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5595,8 +5595,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "527",
     "SWIFT Code": "DEIBEGCX527",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5608,8 +5608,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "718",
     "SWIFT Code": "DEIBEGCX718",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5621,8 +5621,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "518",
     "SWIFT Code": "DEIBEGCX518",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5634,8 +5634,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "621",
     "SWIFT Code": "DEIBEGCX621",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5647,8 +5647,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "613",
     "SWIFT Code": "DEIBEGCX613",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5660,8 +5660,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIB",
-    "bankCode": "EG",
+    "bankCode": "DEIB",
+    "countryCode": "EG",
     "branchCode": "319",
     "SWIFT Code": "DEIBEGCX319",
     "Bank Name": "AHLI UNITED BANK (EGYPT) S.A.E.",
@@ -5673,8 +5673,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECBA",
-    "bankCode": "EG",
+    "bankCode": "ECBA",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ECBAEGCA",
     "Bank Name": "AL AHLI BANK OF KUWAIT - EGYPT S.A.E.",
@@ -5686,8 +5686,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHAR",
-    "bankCode": "EG",
+    "bankCode": "PHAR",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "PHAREGCA",
     "Bank Name": "AL AHLY PHAROS SECURITIES BROKERAGE,SAE",
@@ -5699,8 +5699,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "ASH",
     "SWIFT Code": "ABRKEGCAASH",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5712,8 +5712,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "ABRKEGCAOCT",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5725,8 +5725,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "AZA",
     "SWIFT Code": "ABRKEGCAAZA",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5738,8 +5738,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "BRG",
     "SWIFT Code": "ABRKEGCABRG",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5751,8 +5751,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MIM",
     "SWIFT Code": "ABRKEGCAMIM",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5764,8 +5764,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "RSH",
     "SWIFT Code": "ABRKEGCARSH",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5777,8 +5777,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "SOM",
     "SWIFT Code": "ABRKEGCASOM",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -5790,8 +5790,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "EG",
+    "bankCode": "MSHQ",
+    "countryCode": "EG",
     "branchCode": "TCM",
     "SWIFT Code": "MSHQEGCATCM",
     "Bank Name": "MASHREQ BANK",
@@ -5803,8 +5803,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCSD",
-    "bankCode": "EG",
+    "bankCode": "MCSD",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "MCSDEGCA",
     "Bank Name": "MCSD MISR FOR CLEARING,DEPOSITORY AND REGISTRY",
@@ -5816,8 +5816,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCSD",
-    "bankCode": "EG",
+    "bankCode": "MCSD",
+    "countryCode": "EG",
     "branchCode": "IPF",
     "SWIFT Code": "MCSDEGCAIPF",
     "Bank Name": "MCSD MISR FOR CLEARING,DEPOSITORY AND REGISTRY",
@@ -5829,8 +5829,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "RAM",
     "SWIFT Code": "MIDBEGCXRAM",
     "Bank Name": "MIDBANK",
@@ -5842,8 +5842,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "UNV",
     "SWIFT Code": "MIDBEGCXUNV",
     "Bank Name": "MIDBANK",
@@ -5855,8 +5855,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "MIDBEGCXOCT",
     "Bank Name": "MIDBANK",
@@ -5868,8 +5868,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "MIDBEGCXALX",
     "Bank Name": "MIDBANK",
@@ -5881,8 +5881,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "BNS",
     "SWIFT Code": "MIDBEGCXBNS",
     "Bank Name": "MIDBANK",
@@ -5894,8 +5894,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "ADL",
     "SWIFT Code": "MIDBEGCXADL",
     "Bank Name": "MIDBANK",
@@ -5907,8 +5907,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "HLP",
     "SWIFT Code": "MIDBEGCXHLP",
     "Bank Name": "MIDBANK",
@@ -5920,8 +5920,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "MAD",
     "SWIFT Code": "MIDBEGCXMAD",
     "Bank Name": "MIDBANK",
@@ -5933,8 +5933,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "NSR",
     "SWIFT Code": "MIDBEGCXNSR",
     "Bank Name": "MIDBANK",
@@ -5946,8 +5946,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "NCA",
     "SWIFT Code": "MIDBEGCXNCA",
     "Bank Name": "MIDBANK",
@@ -5959,8 +5959,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "DAM",
     "SWIFT Code": "MIDBEGCXDAM",
     "Bank Name": "MIDBANK",
@@ -5972,8 +5972,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "MIDBEGCX",
     "Bank Name": "MIDBANK",
@@ -5985,8 +5985,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "ACC",
     "SWIFT Code": "MIDBEGCXACC",
     "Bank Name": "MIDBANK",
@@ -5998,8 +5998,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "ARK",
     "SWIFT Code": "MIDBEGCXARK",
     "Bank Name": "MIDBANK",
@@ -6011,8 +6011,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "DEL",
     "SWIFT Code": "MIDBEGCXDEL",
     "Bank Name": "MIDBANK",
@@ -6024,8 +6024,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "LCD",
     "SWIFT Code": "MIDBEGCXLCD",
     "Bank Name": "MIDBANK",
@@ -6037,8 +6037,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "GZA",
     "SWIFT Code": "MIDBEGCXGZA",
     "Bank Name": "MIDBANK",
@@ -6050,8 +6050,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "MHD",
     "SWIFT Code": "MIDBEGCXMHD",
     "Bank Name": "MIDBANK",
@@ -6063,8 +6063,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "PTS",
     "SWIFT Code": "MIDBEGCXPTS",
     "Bank Name": "MIDBANK",
@@ -6076,8 +6076,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "SUH",
     "SWIFT Code": "MIDBEGCXSUH",
     "Bank Name": "MIDBANK",
@@ -6089,8 +6089,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDB",
-    "bankCode": "EG",
+    "bankCode": "MIDB",
+    "countryCode": "EG",
     "branchCode": "TAT",
     "SWIFT Code": "MIDBEGCXTAT",
     "Bank Name": "MIDBANK",
@@ -6102,8 +6102,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "023",
     "SWIFT Code": "NBEGEGCX023",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6115,8 +6115,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "645",
     "SWIFT Code": "NBEGEGCX645",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6128,8 +6128,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "107",
     "SWIFT Code": "NBEGEGCX107",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6141,8 +6141,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "087",
     "SWIFT Code": "NBEGEGCX087",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6154,8 +6154,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "182",
     "SWIFT Code": "NBEGEGCX182",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6167,8 +6167,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "681",
     "SWIFT Code": "NBEGEGCX681",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6180,8 +6180,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "089",
     "SWIFT Code": "NBEGEGCX089",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6193,8 +6193,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "197",
     "SWIFT Code": "NBEGEGCX197",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6206,8 +6206,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "084",
     "SWIFT Code": "NBEGEGCX084",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6219,8 +6219,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "184",
     "SWIFT Code": "NBEGEGCX184",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6232,8 +6232,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "017",
     "SWIFT Code": "NBEGEGCX017",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6245,8 +6245,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "183",
     "SWIFT Code": "NBEGEGCX183",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6258,8 +6258,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "693",
     "SWIFT Code": "NBEGEGCX693",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6271,8 +6271,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "038",
     "SWIFT Code": "NBEGEGCX038",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6284,8 +6284,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "667",
     "SWIFT Code": "NBEGEGCX667",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6297,8 +6297,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "684",
     "SWIFT Code": "NBEGEGCX684",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6310,8 +6310,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "192",
     "SWIFT Code": "NBEGEGCX192",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6323,8 +6323,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "065",
     "SWIFT Code": "NBEGEGCX065",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6336,8 +6336,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "501",
     "SWIFT Code": "NBEGEGCX501",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6349,8 +6349,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "268",
     "SWIFT Code": "NBEGEGCX268",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6362,8 +6362,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "541",
     "SWIFT Code": "NBEGEGCX541",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6375,8 +6375,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "071",
     "SWIFT Code": "NBEGEGCX071",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6388,8 +6388,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "041",
     "SWIFT Code": "NBEGEGCX041",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6401,8 +6401,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "264",
     "SWIFT Code": "NBEGEGCX264",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6414,8 +6414,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "222",
     "SWIFT Code": "NBEGEGCX222",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6427,8 +6427,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "220",
     "SWIFT Code": "NBEGEGCX220",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6440,8 +6440,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "078",
     "SWIFT Code": "NBEGEGCX078",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6453,8 +6453,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "173",
     "SWIFT Code": "NBEGEGCX173",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6466,8 +6466,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "153",
     "SWIFT Code": "NBEGEGCX153",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6479,8 +6479,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "136",
     "SWIFT Code": "NBEGEGCX136",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6492,8 +6492,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "565",
     "SWIFT Code": "NBEGEGCX565",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6505,8 +6505,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "614",
     "SWIFT Code": "NBEGEGCX614",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6518,8 +6518,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "020",
     "SWIFT Code": "NBEGEGCX020",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6531,8 +6531,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "077",
     "SWIFT Code": "NBEGEGCX077",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6544,8 +6544,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "626",
     "SWIFT Code": "NBEGEGCX626",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6557,8 +6557,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "129",
     "SWIFT Code": "NBEGEGCX129",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6570,8 +6570,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "056",
     "SWIFT Code": "NBEGEGCX056",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6583,8 +6583,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "014",
     "SWIFT Code": "NBEGEGCX014",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6596,8 +6596,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "096",
     "SWIFT Code": "NBEGEGCX096",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6609,8 +6609,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "053",
     "SWIFT Code": "NBEGEGCX053",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6622,8 +6622,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "353",
     "SWIFT Code": "NBEGEGCX353",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6635,8 +6635,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "463",
     "SWIFT Code": "NBEGEGCX463",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6648,8 +6648,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "455",
     "SWIFT Code": "NBEGEGCX455",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6661,8 +6661,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "453",
     "SWIFT Code": "NBEGEGCX453",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6674,8 +6674,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "440",
     "SWIFT Code": "NBEGEGCX440",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6687,8 +6687,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "459",
     "SWIFT Code": "NBEGEGCX459",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6700,8 +6700,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "437",
     "SWIFT Code": "NBEGEGCX437",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6713,8 +6713,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "436",
     "SWIFT Code": "NBEGEGCX436",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6726,8 +6726,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "451",
     "SWIFT Code": "NBEGEGCX451",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6739,8 +6739,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "449",
     "SWIFT Code": "NBEGEGCX449",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6752,8 +6752,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "372",
     "SWIFT Code": "NBEGEGCX372",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6765,8 +6765,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "442",
     "SWIFT Code": "NBEGEGCX442",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6778,8 +6778,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "450",
     "SWIFT Code": "NBEGEGCX450",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6791,8 +6791,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "452",
     "SWIFT Code": "NBEGEGCX452",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6804,8 +6804,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "583",
     "SWIFT Code": "NBEGEGCX583",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6817,8 +6817,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "390",
     "SWIFT Code": "NBEGEGCX390",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6830,8 +6830,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "368",
     "SWIFT Code": "NBEGEGCX368",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6843,8 +6843,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "367",
     "SWIFT Code": "NBEGEGCX367",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6856,8 +6856,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "317",
     "SWIFT Code": "NBEGEGCX317",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6869,8 +6869,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "399",
     "SWIFT Code": "NBEGEGCX399",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6882,8 +6882,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "409",
     "SWIFT Code": "NBEGEGCX409",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6895,8 +6895,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "410",
     "SWIFT Code": "NBEGEGCX410",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6908,8 +6908,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "408",
     "SWIFT Code": "NBEGEGCX408",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6921,8 +6921,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "411",
     "SWIFT Code": "NBEGEGCX411",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6934,8 +6934,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "364",
     "SWIFT Code": "NBEGEGCX364",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6947,8 +6947,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "050",
     "SWIFT Code": "NBEGEGCX050",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6960,8 +6960,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "256",
     "SWIFT Code": "NBEGEGCX256",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6973,8 +6973,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "380",
     "SWIFT Code": "NBEGEGCX380",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6986,8 +6986,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "448",
     "SWIFT Code": "NBEGEGCX448",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -6999,8 +6999,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "857",
     "SWIFT Code": "NBEGEGCX857",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7012,8 +7012,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "859",
     "SWIFT Code": "NBEGEGCX859",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7025,8 +7025,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "549",
     "SWIFT Code": "NBEGEGCX549",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7038,8 +7038,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "569",
     "SWIFT Code": "NBEGEGCX569",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7051,8 +7051,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "559",
     "SWIFT Code": "NBEGEGCX559",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7064,8 +7064,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "508",
     "SWIFT Code": "NBEGEGCX508",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7077,8 +7077,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "509",
     "SWIFT Code": "NBEGEGCX509",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7090,8 +7090,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AINB",
-    "bankCode": "EG",
+    "bankCode": "AINB",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "AINBEGCA",
     "Bank Name": "ARAB INVESTMENT BANK",
@@ -7103,8 +7103,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AINB",
-    "bankCode": "EG",
+    "bankCode": "AINB",
+    "countryCode": "EG",
     "branchCode": "TFC",
     "SWIFT Code": "AINBEGCATFC",
     "Bank Name": "ARAB INVESTMENT BANK",
@@ -7116,8 +7116,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARQA",
-    "bankCode": "EG",
+    "bankCode": "ARQA",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ARQAEGCA",
     "Bank Name": "ARQAAM SECURITIES BROKERAGE, S.A.E. EGYPT",
@@ -7129,8 +7129,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBI",
-    "bankCode": "EG",
+    "bankCode": "BCBI",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "BCBIEGCX003",
     "Bank Name": "ATTIJARIWAFA BANK EGYPT S.A.E",
@@ -7142,8 +7142,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBI",
-    "bankCode": "EG",
+    "bankCode": "BCBI",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "BCBIEGCX",
     "Bank Name": "ATTIJARIWAFA BANK EGYPT S.A.E",
@@ -7155,8 +7155,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBI",
-    "bankCode": "EG",
+    "bankCode": "BCBI",
+    "countryCode": "EG",
     "branchCode": "004",
     "SWIFT Code": "BCBIEGCX004",
     "Bank Name": "ATTIJARIWAFA BANK EGYPT S.A.E",
@@ -7168,8 +7168,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBI",
-    "bankCode": "EG",
+    "bankCode": "BCBI",
+    "countryCode": "EG",
     "branchCode": "005",
     "SWIFT Code": "BCBIEGCX005",
     "Bank Name": "ATTIJARIWAFA BANK EGYPT S.A.E",
@@ -7181,8 +7181,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "001",
     "SWIFT Code": "ALEXEGCX001",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7194,8 +7194,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "ALEXEGCX",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7207,8 +7207,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "RMT",
     "SWIFT Code": "ALEXEGCXRMT",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7220,8 +7220,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "AML",
     "SWIFT Code": "ALEXEGCXAML",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7233,8 +7233,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "FID",
     "SWIFT Code": "ALEXEGCXFID",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7246,8 +7246,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "005",
     "SWIFT Code": "ALEXEGCX005",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7259,8 +7259,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "TFC",
     "SWIFT Code": "ALEXEGCXTFC",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7272,8 +7272,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "LGC",
     "SWIFT Code": "ALEXEGCXLGC",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7285,8 +7285,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "LOP",
     "SWIFT Code": "ALEXEGCXLOP",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7298,8 +7298,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "ACC",
     "SWIFT Code": "ALEXEGCXACC",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7311,8 +7311,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "004",
     "SWIFT Code": "ALEXEGCX004",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7324,8 +7324,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "ALEXEGCX003",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7337,8 +7337,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEX",
-    "bankCode": "EG",
+    "bankCode": "ALEX",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "ALEXEGCX002",
     "Bank Name": "BANK OF ALEXANDRIA S A E",
@@ -7350,8 +7350,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "606",
     "SWIFT Code": "BCAIEGCX606",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7363,8 +7363,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "250",
     "SWIFT Code": "BCAIEGCX250",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7376,8 +7376,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "285",
     "SWIFT Code": "BCAIEGCX285",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7389,8 +7389,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "220",
     "SWIFT Code": "BCAIEGCX220",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7402,8 +7402,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "255",
     "SWIFT Code": "BCAIEGCX255",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7415,8 +7415,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "231",
     "SWIFT Code": "BCAIEGCX231",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7428,8 +7428,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "290",
     "SWIFT Code": "BCAIEGCX290",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7441,8 +7441,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "201",
     "SWIFT Code": "BCAIEGCX201",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7454,8 +7454,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "260",
     "SWIFT Code": "BCAIEGCX260",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7467,8 +7467,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "280",
     "SWIFT Code": "BCAIEGCX280",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7480,8 +7480,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "210",
     "SWIFT Code": "BCAIEGCX210",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7493,8 +7493,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "270",
     "SWIFT Code": "BCAIEGCX270",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7506,8 +7506,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "200",
     "SWIFT Code": "BCAIEGCX200",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7519,8 +7519,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "230",
     "SWIFT Code": "BCAIEGCX230",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7532,8 +7532,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "750",
     "SWIFT Code": "BCAIEGCX750",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7545,8 +7545,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "660",
     "SWIFT Code": "BCAIEGCX660",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7558,8 +7558,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "710",
     "SWIFT Code": "BCAIEGCX710",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7571,8 +7571,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "760",
     "SWIFT Code": "BCAIEGCX760",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7584,8 +7584,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "640",
     "SWIFT Code": "BCAIEGCX640",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7597,8 +7597,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "570",
     "SWIFT Code": "BCAIEGCX570",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7610,8 +7610,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "480",
     "SWIFT Code": "BCAIEGCX480",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7623,8 +7623,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "483",
     "SWIFT Code": "BCAIEGCX483",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7636,8 +7636,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "481",
     "SWIFT Code": "BCAIEGCX481",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7649,8 +7649,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "620",
     "SWIFT Code": "BCAIEGCX620",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7662,8 +7662,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "621",
     "SWIFT Code": "BCAIEGCX621",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7675,8 +7675,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "740",
     "SWIFT Code": "BCAIEGCX740",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7688,8 +7688,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "BCAIEGCX",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7701,8 +7701,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "030",
     "SWIFT Code": "BCAIEGCX030",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7714,8 +7714,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "095",
     "SWIFT Code": "BCAIEGCX095",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7727,8 +7727,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "035",
     "SWIFT Code": "BCAIEGCX035",
     "Bank Name": "BANQUE DU CAIRE",
@@ -7740,8 +7740,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "208",
     "SWIFT Code": "NBEGEGCX208",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7753,8 +7753,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "528",
     "SWIFT Code": "NBEGEGCX528",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7766,8 +7766,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "878",
     "SWIFT Code": "NBEGEGCX878",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7779,8 +7779,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "534",
     "SWIFT Code": "NBEGEGCX534",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7792,8 +7792,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "529",
     "SWIFT Code": "NBEGEGCX529",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7805,8 +7805,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "531",
     "SWIFT Code": "NBEGEGCX531",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7818,8 +7818,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "567",
     "SWIFT Code": "NBEGEGCX567",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7831,8 +7831,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "530",
     "SWIFT Code": "NBEGEGCX530",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7844,8 +7844,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "554",
     "SWIFT Code": "NBEGEGCX554",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7857,8 +7857,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "489",
     "SWIFT Code": "NBEGEGCX489",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7870,8 +7870,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "552",
     "SWIFT Code": "NBEGEGCX552",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7883,8 +7883,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "558",
     "SWIFT Code": "NBEGEGCX558",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7896,8 +7896,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "515",
     "SWIFT Code": "NBEGEGCX515",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7909,8 +7909,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "582",
     "SWIFT Code": "NBEGEGCX582",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7922,8 +7922,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "577",
     "SWIFT Code": "NBEGEGCX577",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7935,8 +7935,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "514",
     "SWIFT Code": "NBEGEGCX514",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7948,8 +7948,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "516",
     "SWIFT Code": "NBEGEGCX516",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7961,8 +7961,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "568",
     "SWIFT Code": "NBEGEGCX568",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7974,8 +7974,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "536",
     "SWIFT Code": "NBEGEGCX536",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -7987,8 +7987,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "544",
     "SWIFT Code": "NBEGEGCX544",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8000,8 +8000,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "535",
     "SWIFT Code": "NBEGEGCX535",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8013,8 +8013,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "550",
     "SWIFT Code": "NBEGEGCX550",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8026,8 +8026,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "496",
     "SWIFT Code": "NBEGEGCX496",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8039,8 +8039,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "545",
     "SWIFT Code": "NBEGEGCX545",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8052,8 +8052,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "497",
     "SWIFT Code": "NBEGEGCX497",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8065,8 +8065,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "057",
     "SWIFT Code": "NBEGEGCX057",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8078,8 +8078,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "376",
     "SWIFT Code": "NBEGEGCX376",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8091,8 +8091,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "389",
     "SWIFT Code": "NBEGEGCX389",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8104,8 +8104,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "237",
     "SWIFT Code": "NBEGEGCX237",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8117,8 +8117,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "212",
     "SWIFT Code": "NBEGEGCX212",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8130,8 +8130,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "393",
     "SWIFT Code": "NBEGEGCX393",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8143,8 +8143,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "394",
     "SWIFT Code": "NBEGEGCX394",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8156,8 +8156,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "253",
     "SWIFT Code": "NBEGEGCX253",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8169,8 +8169,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "365",
     "SWIFT Code": "NBEGEGCX365",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8182,8 +8182,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "510",
     "SWIFT Code": "NBEGEGCX510",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8195,8 +8195,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "504",
     "SWIFT Code": "NBEGEGCX504",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8208,8 +8208,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "490",
     "SWIFT Code": "NBEGEGCX490",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8221,8 +8221,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "856",
     "SWIFT Code": "NBEGEGCX856",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8234,8 +8234,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "507",
     "SWIFT Code": "NBEGEGCX507",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8247,8 +8247,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "505",
     "SWIFT Code": "NBEGEGCX505",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8260,8 +8260,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "546",
     "SWIFT Code": "NBEGEGCX546",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8273,8 +8273,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "425",
     "SWIFT Code": "NBEGEGCX425",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8286,8 +8286,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "217",
     "SWIFT Code": "NBEGEGCX217",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8299,8 +8299,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "257",
     "SWIFT Code": "NBEGEGCX257",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8312,8 +8312,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "NBEGEGCX",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8325,8 +8325,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "121",
     "SWIFT Code": "NBEGEGCX121",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8338,8 +8338,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "186",
     "SWIFT Code": "NBEGEGCX186",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8351,8 +8351,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "040",
     "SWIFT Code": "NBEGEGCX040",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8364,8 +8364,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "012",
     "SWIFT Code": "NBEGEGCX012",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8377,8 +8377,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "073",
     "SWIFT Code": "NBEGEGCX073",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -8390,8 +8390,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "004",
     "SWIFT Code": "CIBEEGCX004",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8403,8 +8403,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "204",
     "SWIFT Code": "CIBEEGCX204",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8416,8 +8416,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "148",
     "SWIFT Code": "CIBEEGCX148",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8429,8 +8429,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "171",
     "SWIFT Code": "CIBEEGCX171",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8442,8 +8442,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "175",
     "SWIFT Code": "CIBEEGCX175",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8455,8 +8455,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "016",
     "SWIFT Code": "CIBEEGCX016",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8468,8 +8468,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "136",
     "SWIFT Code": "CIBEEGCX136",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8481,8 +8481,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "205",
     "SWIFT Code": "CIBEEGCX205",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8494,8 +8494,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "094",
     "SWIFT Code": "CIBEEGCX094",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8507,8 +8507,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "140",
     "SWIFT Code": "CIBEEGCX140",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8520,8 +8520,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "055",
     "SWIFT Code": "CIBEEGCX055",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8533,8 +8533,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "177",
     "SWIFT Code": "CIBEEGCX177",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8546,8 +8546,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "151",
     "SWIFT Code": "CIBEEGCX151",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8559,8 +8559,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "163",
     "SWIFT Code": "CIBEEGCX163",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8572,8 +8572,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "077",
     "SWIFT Code": "CIBEEGCX077",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8585,8 +8585,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "135",
     "SWIFT Code": "CIBEEGCX135",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8598,8 +8598,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "083",
     "SWIFT Code": "CIBEEGCX083",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8611,8 +8611,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "INQ",
     "SWIFT Code": "CIBEEGCXINQ",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8624,8 +8624,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "092",
     "SWIFT Code": "CIBEEGCX092",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8637,8 +8637,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "022",
     "SWIFT Code": "CIBEEGCX022",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8650,8 +8650,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "127",
     "SWIFT Code": "CIBEEGCX127",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8663,8 +8663,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "067",
     "SWIFT Code": "CIBEEGCX067",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8676,8 +8676,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "150",
     "SWIFT Code": "CIBEEGCX150",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8689,8 +8689,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "126",
     "SWIFT Code": "CIBEEGCX126",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8702,8 +8702,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "032",
     "SWIFT Code": "CIBEEGCX032",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8715,8 +8715,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "160",
     "SWIFT Code": "CIBEEGCX160",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8728,8 +8728,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "007",
     "SWIFT Code": "CIBEEGCX007",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8741,8 +8741,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "222",
     "SWIFT Code": "CIBEEGCX222",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8754,8 +8754,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "225",
     "SWIFT Code": "CIBEEGCX225",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8767,8 +8767,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "040",
     "SWIFT Code": "CIBEEGCX040",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8780,8 +8780,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "164",
     "SWIFT Code": "CIBEEGCX164",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8793,8 +8793,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "057",
     "SWIFT Code": "CIBEEGCX057",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8806,8 +8806,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "142",
     "SWIFT Code": "CIBEEGCX142",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8819,8 +8819,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "039",
     "SWIFT Code": "CIBEEGCX039",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8832,8 +8832,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "035",
     "SWIFT Code": "CIBEEGCX035",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8845,8 +8845,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "217",
     "SWIFT Code": "CIBEEGCX217",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8858,8 +8858,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "082",
     "SWIFT Code": "CIBEEGCX082",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8871,8 +8871,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "165",
     "SWIFT Code": "CIBEEGCX165",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8884,8 +8884,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "155",
     "SWIFT Code": "CIBEEGCX155",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8897,8 +8897,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "125",
     "SWIFT Code": "CIBEEGCX125",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8910,8 +8910,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "102",
     "SWIFT Code": "CIBEEGCX102",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8923,8 +8923,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "025",
     "SWIFT Code": "CIBEEGCX025",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8936,8 +8936,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "103",
     "SWIFT Code": "CIBEEGCX103",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8949,8 +8949,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "001",
     "SWIFT Code": "CIBEEGCX001",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8962,8 +8962,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "085",
     "SWIFT Code": "CIBEEGCX085",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8975,8 +8975,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "013",
     "SWIFT Code": "CIBEEGCX013",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -8988,8 +8988,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "184",
     "SWIFT Code": "CIBEEGCX184",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9001,8 +9001,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "139",
     "SWIFT Code": "CIBEEGCX139",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9014,8 +9014,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "156",
     "SWIFT Code": "CIBEEGCX156",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9027,8 +9027,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "188",
     "SWIFT Code": "CIBEEGCX188",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9040,8 +9040,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "086",
     "SWIFT Code": "CIBEEGCX086",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9053,8 +9053,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "153",
     "SWIFT Code": "CIBEEGCX153",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9066,8 +9066,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "888",
     "SWIFT Code": "CIBEEGCX888",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9079,8 +9079,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "169",
     "SWIFT Code": "CIBEEGCX169",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9092,8 +9092,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "005",
     "SWIFT Code": "CIBEEGCX005",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9105,8 +9105,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "054",
     "SWIFT Code": "CIBEEGCX054",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9118,8 +9118,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "080",
     "SWIFT Code": "CIBEEGCX080",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9131,8 +9131,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "154",
     "SWIFT Code": "CIBEEGCX154",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9144,8 +9144,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "120",
     "SWIFT Code": "CIBEEGCX120",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9157,8 +9157,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "199",
     "SWIFT Code": "CIBEEGCX199",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9170,8 +9170,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "196",
     "SWIFT Code": "CIBEEGCX196",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9183,8 +9183,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "097",
     "SWIFT Code": "CIBEEGCX097",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9196,8 +9196,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "020",
     "SWIFT Code": "CIBEEGCX020",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9209,8 +9209,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "162",
     "SWIFT Code": "CIBEEGCX162",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9222,8 +9222,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "091",
     "SWIFT Code": "CIBEEGCX091",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9235,8 +9235,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "024",
     "SWIFT Code": "CIBEEGCX024",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9248,8 +9248,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "146",
     "SWIFT Code": "CIBEEGCX146",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9261,8 +9261,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "200",
     "SWIFT Code": "CIBEEGCX200",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9274,8 +9274,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "145",
     "SWIFT Code": "CIBEEGCX145",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9287,8 +9287,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "081",
     "SWIFT Code": "CIBEEGCX081",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9300,8 +9300,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "115",
     "SWIFT Code": "CIBEEGCX115",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9313,8 +9313,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "111",
     "SWIFT Code": "CIBEEGCX111",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9326,8 +9326,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "053",
     "SWIFT Code": "CIBEEGCX053",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9339,8 +9339,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "157",
     "SWIFT Code": "CIBEEGCX157",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9352,8 +9352,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "174",
     "SWIFT Code": "CIBEEGCX174",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9365,8 +9365,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "176",
     "SWIFT Code": "CIBEEGCX176",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9378,8 +9378,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "GTS",
     "SWIFT Code": "CIBEEGCXGTS",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9391,8 +9391,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "018",
     "SWIFT Code": "CIBEEGCX018",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9404,8 +9404,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "048",
     "SWIFT Code": "CIBEEGCX048",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9417,8 +9417,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "137",
     "SWIFT Code": "CIBEEGCX137",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9430,8 +9430,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "211",
     "SWIFT Code": "CIBEEGCX211",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9443,8 +9443,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "221",
     "SWIFT Code": "CIBEEGCX221",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9456,8 +9456,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "006",
     "SWIFT Code": "CIBEEGCX006",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9469,8 +9469,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "192",
     "SWIFT Code": "CIBEEGCX192",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9482,8 +9482,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "212",
     "SWIFT Code": "CIBEEGCX212",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9495,8 +9495,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "058",
     "SWIFT Code": "CIBEEGCX058",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9508,8 +9508,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "ITF",
     "SWIFT Code": "CIBEEGCXITF",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9521,8 +9521,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "049",
     "SWIFT Code": "CIBEEGCX049",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9534,8 +9534,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "206",
     "SWIFT Code": "CIBEEGCX206",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9547,8 +9547,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "060",
     "SWIFT Code": "CIBEEGCX060",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9560,8 +9560,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "132",
     "SWIFT Code": "CIBEEGCX132",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9573,8 +9573,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "038",
     "SWIFT Code": "CIBEEGCX038",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9586,8 +9586,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "LON",
     "SWIFT Code": "CIBEEGCXLON",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9599,8 +9599,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "012",
     "SWIFT Code": "CIBEEGCX012",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9612,8 +9612,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "134",
     "SWIFT Code": "CIBEEGCX134",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9625,8 +9625,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "045",
     "SWIFT Code": "CIBEEGCX045",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9638,8 +9638,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "031",
     "SWIFT Code": "CIBEEGCX031",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9651,8 +9651,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "062",
     "SWIFT Code": "CIBEEGCX062",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9664,8 +9664,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "210",
     "SWIFT Code": "CIBEEGCX210",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9677,8 +9677,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "010",
     "SWIFT Code": "CIBEEGCX010",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -9690,8 +9690,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "150",
     "SWIFT Code": "BCAIEGCX150",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9703,8 +9703,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "585",
     "SWIFT Code": "BCAIEGCX585",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9716,8 +9716,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "151",
     "SWIFT Code": "BCAIEGCX151",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9729,8 +9729,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "040",
     "SWIFT Code": "BCAIEGCX040",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9742,8 +9742,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "120",
     "SWIFT Code": "BCAIEGCX120",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9755,8 +9755,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "033",
     "SWIFT Code": "BCAIEGCX033",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9768,8 +9768,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "060",
     "SWIFT Code": "BCAIEGCX060",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9781,8 +9781,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "130",
     "SWIFT Code": "BCAIEGCX130",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9794,8 +9794,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "610",
     "SWIFT Code": "BCAIEGCX610",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9807,8 +9807,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "011",
     "SWIFT Code": "BCAIEGCX011",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9820,8 +9820,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "034",
     "SWIFT Code": "BCAIEGCX034",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9833,8 +9833,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "070",
     "SWIFT Code": "BCAIEGCX070",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9846,8 +9846,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "180",
     "SWIFT Code": "BCAIEGCX180",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9859,8 +9859,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "072",
     "SWIFT Code": "BCAIEGCX072",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9872,8 +9872,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "401",
     "SWIFT Code": "BCAIEGCX401",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9885,8 +9885,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "020",
     "SWIFT Code": "BCAIEGCX020",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9898,8 +9898,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "101",
     "SWIFT Code": "BCAIEGCX101",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9911,8 +9911,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "073",
     "SWIFT Code": "BCAIEGCX073",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9924,8 +9924,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "111",
     "SWIFT Code": "BCAIEGCX111",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9937,8 +9937,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "608",
     "SWIFT Code": "BCAIEGCX608",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9950,8 +9950,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "085",
     "SWIFT Code": "BCAIEGCX085",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9963,8 +9963,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "110",
     "SWIFT Code": "BCAIEGCX110",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9976,8 +9976,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "602",
     "SWIFT Code": "BCAIEGCX602",
     "Bank Name": "BANQUE DU CAIRE",
@@ -9989,8 +9989,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "190",
     "SWIFT Code": "BCAIEGCX190",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10002,8 +10002,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "112",
     "SWIFT Code": "BCAIEGCX112",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10015,8 +10015,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "170",
     "SWIFT Code": "BCAIEGCX170",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10028,8 +10028,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "008",
     "SWIFT Code": "BCAIEGCX008",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10041,8 +10041,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "090",
     "SWIFT Code": "BCAIEGCX090",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10054,8 +10054,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "140",
     "SWIFT Code": "BCAIEGCX140",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10067,8 +10067,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "160",
     "SWIFT Code": "BCAIEGCX160",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10080,8 +10080,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "080",
     "SWIFT Code": "BCAIEGCX080",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10093,8 +10093,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "045",
     "SWIFT Code": "BCAIEGCX045",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10106,8 +10106,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "013",
     "SWIFT Code": "BCAIEGCX013",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10119,8 +10119,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "470",
     "SWIFT Code": "BCAIEGCX470",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10132,8 +10132,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "100",
     "SWIFT Code": "BCAIEGCX100",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10145,8 +10145,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "055",
     "SWIFT Code": "BCAIEGCX055",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10158,8 +10158,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "195",
     "SWIFT Code": "BCAIEGCX195",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10171,8 +10171,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "423",
     "SWIFT Code": "BCAIEGCX423",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10184,8 +10184,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "593",
     "SWIFT Code": "BCAIEGCX593",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10197,8 +10197,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "520",
     "SWIFT Code": "BCAIEGCX520",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10210,8 +10210,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "430",
     "SWIFT Code": "BCAIEGCX430",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10223,8 +10223,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "424",
     "SWIFT Code": "BCAIEGCX424",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10236,8 +10236,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "421",
     "SWIFT Code": "BCAIEGCX421",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10249,8 +10249,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "422",
     "SWIFT Code": "BCAIEGCX422",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10262,8 +10262,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "440",
     "SWIFT Code": "BCAIEGCX440",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10275,8 +10275,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "445",
     "SWIFT Code": "BCAIEGCX445",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10288,8 +10288,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "635",
     "SWIFT Code": "BCAIEGCX635",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10301,8 +10301,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "630",
     "SWIFT Code": "BCAIEGCX630",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10314,8 +10314,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "611",
     "SWIFT Code": "BCAIEGCX611",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10327,8 +10327,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "612",
     "SWIFT Code": "BCAIEGCX612",
     "Bank Name": "BANQUE DU CAIRE",
@@ -10340,8 +10340,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "446",
     "SWIFT Code": "NBEGEGCX446",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10353,8 +10353,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "447",
     "SWIFT Code": "NBEGEGCX447",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10366,8 +10366,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "427",
     "SWIFT Code": "NBEGEGCX427",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10379,8 +10379,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "361",
     "SWIFT Code": "NBEGEGCX361",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10392,8 +10392,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "699",
     "SWIFT Code": "NBEGEGCX699",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10405,8 +10405,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "199",
     "SWIFT Code": "NBEGEGCX199",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10418,8 +10418,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "686",
     "SWIFT Code": "NBEGEGCX686",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10431,8 +10431,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "412",
     "SWIFT Code": "NBEGEGCX412",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10444,8 +10444,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "059",
     "SWIFT Code": "NBEGEGCX059",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10457,8 +10457,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "498",
     "SWIFT Code": "NBEGEGCX498",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10470,8 +10470,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "499",
     "SWIFT Code": "NBEGEGCX499",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10483,8 +10483,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "520",
     "SWIFT Code": "NBEGEGCX520",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10496,8 +10496,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "539",
     "SWIFT Code": "NBEGEGCX539",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10509,8 +10509,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "543",
     "SWIFT Code": "NBEGEGCX543",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10522,8 +10522,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "518",
     "SWIFT Code": "NBEGEGCX518",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10535,8 +10535,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "858",
     "SWIFT Code": "NBEGEGCX858",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10548,8 +10548,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "551",
     "SWIFT Code": "NBEGEGCX551",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10561,8 +10561,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "488",
     "SWIFT Code": "NBEGEGCX488",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10574,8 +10574,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "519",
     "SWIFT Code": "NBEGEGCX519",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10587,8 +10587,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "522",
     "SWIFT Code": "NBEGEGCX522",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10600,8 +10600,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "533",
     "SWIFT Code": "NBEGEGCX533",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10613,8 +10613,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "350",
     "SWIFT Code": "NBEGEGCX350",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10626,8 +10626,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "331",
     "SWIFT Code": "NBEGEGCX331",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10639,8 +10639,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "321",
     "SWIFT Code": "NBEGEGCX321",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10652,8 +10652,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "320",
     "SWIFT Code": "NBEGEGCX320",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10665,8 +10665,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "322",
     "SWIFT Code": "NBEGEGCX322",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10678,8 +10678,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "354",
     "SWIFT Code": "NBEGEGCX354",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10691,8 +10691,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "503",
     "SWIFT Code": "NBEGEGCX503",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10704,8 +10704,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "379",
     "SWIFT Code": "NBEGEGCX379",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10717,8 +10717,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "381",
     "SWIFT Code": "NBEGEGCX381",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10730,8 +10730,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "386",
     "SWIFT Code": "NBEGEGCX386",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10743,8 +10743,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "506",
     "SWIFT Code": "NBEGEGCX506",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10756,8 +10756,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "430",
     "SWIFT Code": "NBEGEGCX430",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10769,8 +10769,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "421",
     "SWIFT Code": "NBEGEGCX421",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10782,8 +10782,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "445",
     "SWIFT Code": "NBEGEGCX445",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10795,8 +10795,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "382",
     "SWIFT Code": "NBEGEGCX382",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10808,8 +10808,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "467",
     "SWIFT Code": "NBEGEGCX467",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -10821,8 +10821,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "EG",
+    "bankCode": "ETHN",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ETHNEGCA",
     "Bank Name": "NATIONAL BANK OF GREECE, (EGYPT NETWORK)",
@@ -10834,8 +10834,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "RAM",
     "SWIFT Code": "WABAEGCXRAM",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10847,8 +10847,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "WABAEGCXOCT",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10860,8 +10860,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "ZAY",
     "SWIFT Code": "WABAEGCXZAY",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10873,8 +10873,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "WABAEGCXALX",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10886,8 +10886,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "RML",
     "SWIFT Code": "WABAEGCXRML",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10899,8 +10899,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "ZIZ",
     "SWIFT Code": "WABAEGCXZIZ",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10912,8 +10912,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "COR",
     "SWIFT Code": "WABAEGCXCOR",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10925,8 +10925,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "WABAEGCXDOK",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10938,8 +10938,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "HAR",
     "SWIFT Code": "WABAEGCXHAR",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10951,8 +10951,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "WABAEGCX",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10964,8 +10964,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "HEL",
     "SWIFT Code": "WABAEGCXHEL",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10977,8 +10977,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABA",
-    "bankCode": "EG",
+    "bankCode": "WABA",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "WABAEGCXMOH",
     "Bank Name": "NATIONAL BANK OF KUWAIT - EGYPT",
@@ -10990,8 +10990,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "031",
     "SWIFT Code": "NBEGEGCX031",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11003,8 +11003,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "021",
     "SWIFT Code": "NBEGEGCX021",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11016,8 +11016,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "063",
     "SWIFT Code": "NBEGEGCX063",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11029,8 +11029,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "170",
     "SWIFT Code": "NBEGEGCX170",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11042,8 +11042,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "635",
     "SWIFT Code": "NBEGEGCX635",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11055,8 +11055,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "648",
     "SWIFT Code": "NBEGEGCX648",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11068,8 +11068,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "649",
     "SWIFT Code": "NBEGEGCX649",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11081,8 +11081,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "156",
     "SWIFT Code": "NBEGEGCX156",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11094,8 +11094,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "607",
     "SWIFT Code": "NBEGEGCX607",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11107,8 +11107,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "013",
     "SWIFT Code": "NBEGEGCX013",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11120,8 +11120,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "605",
     "SWIFT Code": "NBEGEGCX605",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11133,8 +11133,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "131",
     "SWIFT Code": "NBEGEGCX131",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11146,8 +11146,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "623",
     "SWIFT Code": "NBEGEGCX623",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11159,8 +11159,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "105",
     "SWIFT Code": "NBEGEGCX105",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11172,8 +11172,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "015",
     "SWIFT Code": "NBEGEGCX015",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11185,8 +11185,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "190",
     "SWIFT Code": "NBEGEGCX190",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11198,8 +11198,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "143",
     "SWIFT Code": "NBEGEGCX143",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11211,8 +11211,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "082",
     "SWIFT Code": "NBEGEGCX082",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11224,8 +11224,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "601",
     "SWIFT Code": "NBEGEGCX601",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11237,8 +11237,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "646",
     "SWIFT Code": "NBEGEGCX646",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11250,8 +11250,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "119",
     "SWIFT Code": "NBEGEGCX119",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11263,8 +11263,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "625",
     "SWIFT Code": "NBEGEGCX625",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11276,8 +11276,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "135",
     "SWIFT Code": "NBEGEGCX135",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11289,8 +11289,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "132",
     "SWIFT Code": "NBEGEGCX132",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11302,8 +11302,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "068",
     "SWIFT Code": "NBEGEGCX068",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11315,8 +11315,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "024",
     "SWIFT Code": "NBEGEGCX024",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11328,8 +11328,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "072",
     "SWIFT Code": "NBEGEGCX072",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11341,8 +11341,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "062",
     "SWIFT Code": "NBEGEGCX062",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11354,8 +11354,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "028",
     "SWIFT Code": "NBEGEGCX028",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11367,8 +11367,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "075",
     "SWIFT Code": "NBEGEGCX075",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11380,8 +11380,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "010",
     "SWIFT Code": "NBEGEGCX010",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11393,8 +11393,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "198",
     "SWIFT Code": "NBEGEGCX198",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11406,8 +11406,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "043",
     "SWIFT Code": "NBEGEGCX043",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11419,8 +11419,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "113",
     "SWIFT Code": "NBEGEGCX113",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11432,8 +11432,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "080",
     "SWIFT Code": "NBEGEGCX080",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11445,8 +11445,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "094",
     "SWIFT Code": "NBEGEGCX094",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11458,8 +11458,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "009",
     "SWIFT Code": "NBEGEGCX009",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11471,8 +11471,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "595",
     "SWIFT Code": "NBEGEGCX595",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11484,8 +11484,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "139",
     "SWIFT Code": "NBEGEGCX139",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11497,8 +11497,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "594",
     "SWIFT Code": "NBEGEGCX594",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11510,8 +11510,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "159",
     "SWIFT Code": "NBEGEGCX159",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11523,8 +11523,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "027",
     "SWIFT Code": "NBEGEGCX027",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11536,8 +11536,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "039",
     "SWIFT Code": "NBEGEGCX039",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11549,8 +11549,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "597",
     "SWIFT Code": "NBEGEGCX597",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11562,8 +11562,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "910",
     "SWIFT Code": "NBEGEGCX910",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11575,8 +11575,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "662",
     "SWIFT Code": "NBEGEGCX662",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11588,8 +11588,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "011",
     "SWIFT Code": "NBEGEGCX011",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11601,8 +11601,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "109",
     "SWIFT Code": "NBEGEGCX109",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11614,8 +11614,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "602",
     "SWIFT Code": "NBEGEGCX602",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11627,8 +11627,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "008",
     "SWIFT Code": "NBEGEGCX008",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -11640,8 +11640,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "TED",
     "SWIFT Code": "SUCAEGCXTED",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11653,8 +11653,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "OBR",
     "SWIFT Code": "SUCAEGCXOBR",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11666,8 +11666,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "AMR",
     "SWIFT Code": "SUCAEGCXAMR",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11679,8 +11679,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "SMH",
     "SWIFT Code": "SUCAEGCXSMH",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11692,8 +11692,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "SUCAEGCXALX",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11705,8 +11705,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "ASU",
     "SWIFT Code": "SUCAEGCXASU",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11718,8 +11718,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "BRG",
     "SWIFT Code": "SUCAEGCXBRG",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11731,8 +11731,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "SUCAEGCX",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11744,8 +11744,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "SUCAEGCXCAI",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11757,8 +11757,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "SUCAEGCXDOK",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11770,8 +11770,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "FOS",
     "SWIFT Code": "SUCAEGCXFOS",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11783,8 +11783,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "GRD",
     "SWIFT Code": "SUCAEGCXGRD",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11796,8 +11796,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "GIZ",
     "SWIFT Code": "SUCAEGCXGIZ",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11809,8 +11809,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "HEL",
     "SWIFT Code": "SUCAEGCXHEL",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11822,8 +11822,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "MAD",
     "SWIFT Code": "SUCAEGCXMAD",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11835,8 +11835,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "SUCAEGCXMOH",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11848,8 +11848,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "NSR",
     "SWIFT Code": "SUCAEGCXNSR",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11861,8 +11861,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "NEC",
     "SWIFT Code": "SUCAEGCXNEC",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11874,8 +11874,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "ORB",
     "SWIFT Code": "SUCAEGCXORB",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11887,8 +11887,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "SHB",
     "SWIFT Code": "SUCAEGCXSHB",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11900,8 +11900,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "SPH",
     "SWIFT Code": "SUCAEGCXSPH",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11913,8 +11913,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "DOM",
     "SWIFT Code": "SUCAEGCXDOM",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11926,8 +11926,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "MEN",
     "SWIFT Code": "SUCAEGCXMEN",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11939,8 +11939,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "MNL",
     "SWIFT Code": "SUCAEGCXMNL",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11952,8 +11952,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "MO2",
     "SWIFT Code": "SUCAEGCXMO2",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11965,8 +11965,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "ISM",
     "SWIFT Code": "SUCAEGCXISM",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11978,8 +11978,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "MAN",
     "SWIFT Code": "SUCAEGCXMAN",
     "Bank Name": "SUEZ CANAL BANK",
@@ -11991,8 +11991,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "PTS",
     "SWIFT Code": "SUCAEGCXPTS",
     "Bank Name": "SUEZ CANAL BANK",
@@ -12004,8 +12004,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "SDT",
     "SWIFT Code": "SUCAEGCXSDT",
     "Bank Name": "SUEZ CANAL BANK",
@@ -12017,8 +12017,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "SHR",
     "SWIFT Code": "SUCAEGCXSHR",
     "Bank Name": "SUEZ CANAL BANK",
@@ -12030,8 +12030,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "TWF",
     "SWIFT Code": "SUCAEGCXTWF",
     "Bank Name": "SUEZ CANAL BANK",
@@ -12043,8 +12043,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "SUZ",
     "SWIFT Code": "SUCAEGCXSUZ",
     "Bank Name": "SUEZ CANAL BANK",
@@ -12056,8 +12056,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCA",
-    "bankCode": "EG",
+    "bankCode": "SUCA",
+    "countryCode": "EG",
     "branchCode": "TAN",
     "SWIFT Code": "SUCAEGCXTAN",
     "Bank Name": "SUEZ CANAL BANK",
@@ -12069,8 +12069,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAEI",
-    "bankCode": "EG",
+    "bankCode": "TAEI",
+    "countryCode": "EG",
     "branchCode": "GC2",
     "SWIFT Code": "TAEIEGC2",
     "Bank Name": "TARGET FOR EXCHANGING SECURITIES",
@@ -12082,8 +12082,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCAI",
-    "bankCode": "EG",
+    "bankCode": "XCAI",
+    "countryCode": "EG",
     "branchCode": "GCR",
     "SWIFT Code": "XCAIEGCR",
     "Bank Name": "THE EGYPTIAN EXCHANGE",
@@ -12095,8 +12095,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOE",
-    "bankCode": "EG",
+    "bankCode": "UBOE",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "UBOEEGCX",
     "Bank Name": "THE UNITED BANK",
@@ -12108,8 +12108,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "451",
     "SWIFT Code": "BCAIEGCX451",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12121,8 +12121,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "460",
     "SWIFT Code": "BCAIEGCX460",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12134,8 +12134,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "452",
     "SWIFT Code": "BCAIEGCX452",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12147,8 +12147,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "450",
     "SWIFT Code": "BCAIEGCX450",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12160,8 +12160,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "540",
     "SWIFT Code": "BCAIEGCX540",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12173,8 +12173,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "607",
     "SWIFT Code": "BCAIEGCX607",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12186,8 +12186,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "600",
     "SWIFT Code": "BCAIEGCX600",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12199,8 +12199,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "605",
     "SWIFT Code": "BCAIEGCX605",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12212,8 +12212,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "730",
     "SWIFT Code": "BCAIEGCX730",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12225,8 +12225,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "560",
     "SWIFT Code": "BCAIEGCX560",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12238,8 +12238,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "320",
     "SWIFT Code": "BCAIEGCX320",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12251,8 +12251,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "491",
     "SWIFT Code": "BCAIEGCX491",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12264,8 +12264,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "492",
     "SWIFT Code": "BCAIEGCX492",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12277,8 +12277,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "530",
     "SWIFT Code": "BCAIEGCX530",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12290,8 +12290,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "490",
     "SWIFT Code": "BCAIEGCX490",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12303,8 +12303,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "641",
     "SWIFT Code": "BCAIEGCX641",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12316,8 +12316,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "690",
     "SWIFT Code": "BCAIEGCX690",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12329,8 +12329,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "420",
     "SWIFT Code": "BCAIEGCX420",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12342,8 +12342,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "500",
     "SWIFT Code": "BCAIEGCX500",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12355,8 +12355,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "471",
     "SWIFT Code": "BCAIEGCX471",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12368,8 +12368,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "472",
     "SWIFT Code": "BCAIEGCX472",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12381,8 +12381,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "591",
     "SWIFT Code": "BCAIEGCX591",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12394,8 +12394,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "594",
     "SWIFT Code": "BCAIEGCX594",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12407,8 +12407,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "510",
     "SWIFT Code": "BCAIEGCX510",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12420,8 +12420,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "672",
     "SWIFT Code": "BCAIEGCX672",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12433,8 +12433,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "330",
     "SWIFT Code": "BCAIEGCX330",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12446,8 +12446,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "300",
     "SWIFT Code": "BCAIEGCX300",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12459,8 +12459,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "400",
     "SWIFT Code": "BCAIEGCX400",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12472,8 +12472,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "402",
     "SWIFT Code": "BCAIEGCX402",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12485,8 +12485,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "670",
     "SWIFT Code": "BCAIEGCX670",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12498,8 +12498,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "700",
     "SWIFT Code": "BCAIEGCX700",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12511,8 +12511,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "680",
     "SWIFT Code": "BCAIEGCX680",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12524,8 +12524,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "590",
     "SWIFT Code": "BCAIEGCX590",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12537,8 +12537,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "413",
     "SWIFT Code": "BCAIEGCX413",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12550,8 +12550,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "412",
     "SWIFT Code": "BCAIEGCX412",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12563,8 +12563,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "550",
     "SWIFT Code": "BCAIEGCX550",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12576,8 +12576,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "414",
     "SWIFT Code": "BCAIEGCX414",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12589,8 +12589,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "411",
     "SWIFT Code": "BCAIEGCX411",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12602,8 +12602,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "415",
     "SWIFT Code": "BCAIEGCX415",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12615,8 +12615,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "592",
     "SWIFT Code": "BCAIEGCX592",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12628,8 +12628,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "410",
     "SWIFT Code": "BCAIEGCX410",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12641,8 +12641,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "720",
     "SWIFT Code": "BCAIEGCX720",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12654,8 +12654,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "650",
     "SWIFT Code": "BCAIEGCX650",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12667,8 +12667,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "350",
     "SWIFT Code": "BCAIEGCX350",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12680,8 +12680,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "340",
     "SWIFT Code": "BCAIEGCX340",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12693,8 +12693,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "360",
     "SWIFT Code": "BCAIEGCX360",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12706,8 +12706,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAI",
-    "bankCode": "EG",
+    "bankCode": "BCAI",
+    "countryCode": "EG",
     "branchCode": "310",
     "SWIFT Code": "BCAIEGCX310",
     "Bank Name": "BANQUE DU CAIRE",
@@ -12719,8 +12719,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "COL",
     "SWIFT Code": "BMISEGCXCOL",
     "Bank Name": "BANQUE MISR",
@@ -12732,8 +12732,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "FCC",
     "SWIFT Code": "BMISEGCXFCC",
     "Bank Name": "BANQUE MISR",
@@ -12745,8 +12745,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "REC",
     "SWIFT Code": "BMISEGCXREC",
     "Bank Name": "BANQUE MISR",
@@ -12758,8 +12758,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "385",
     "SWIFT Code": "NBEGEGCX385",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12771,8 +12771,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "420",
     "SWIFT Code": "NBEGEGCX420",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12784,8 +12784,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "374",
     "SWIFT Code": "NBEGEGCX374",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12797,8 +12797,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "855",
     "SWIFT Code": "NBEGEGCX855",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12810,8 +12810,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "883",
     "SWIFT Code": "NBEGEGCX883",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12823,8 +12823,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "495",
     "SWIFT Code": "NBEGEGCX495",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12836,8 +12836,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "524",
     "SWIFT Code": "NBEGEGCX524",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12849,8 +12849,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "061",
     "SWIFT Code": "NBEGEGCX061",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12862,8 +12862,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "512",
     "SWIFT Code": "NBEGEGCX512",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12875,8 +12875,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "513",
     "SWIFT Code": "NBEGEGCX513",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12888,8 +12888,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "517",
     "SWIFT Code": "NBEGEGCX517",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12901,8 +12901,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "438",
     "SWIFT Code": "NBEGEGCX438",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12914,8 +12914,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "433",
     "SWIFT Code": "NBEGEGCX433",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12927,8 +12927,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "387",
     "SWIFT Code": "NBEGEGCX387",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12940,8 +12940,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "460",
     "SWIFT Code": "NBEGEGCX460",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12953,8 +12953,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "432",
     "SWIFT Code": "NBEGEGCX432",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12966,8 +12966,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "305",
     "SWIFT Code": "NBEGEGCX305",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12979,8 +12979,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "263",
     "SWIFT Code": "NBEGEGCX263",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -12992,8 +12992,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "223",
     "SWIFT Code": "NBEGEGCX223",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13005,8 +13005,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "219",
     "SWIFT Code": "NBEGEGCX219",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13018,8 +13018,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "213",
     "SWIFT Code": "NBEGEGCX213",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13031,8 +13031,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "251",
     "SWIFT Code": "NBEGEGCX251",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13044,8 +13044,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "260",
     "SWIFT Code": "NBEGEGCX260",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13057,8 +13057,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "417",
     "SWIFT Code": "NBEGEGCX417",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13070,8 +13070,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "422",
     "SWIFT Code": "NBEGEGCX422",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13083,8 +13083,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "434",
     "SWIFT Code": "NBEGEGCX434",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13096,8 +13096,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "462",
     "SWIFT Code": "NBEGEGCX462",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13109,8 +13109,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "429",
     "SWIFT Code": "NBEGEGCX429",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13122,8 +13122,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "431",
     "SWIFT Code": "NBEGEGCX431",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13135,8 +13135,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "458",
     "SWIFT Code": "NBEGEGCX458",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13148,8 +13148,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "418",
     "SWIFT Code": "NBEGEGCX418",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13161,8 +13161,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "414",
     "SWIFT Code": "NBEGEGCX414",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13174,8 +13174,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "416",
     "SWIFT Code": "NBEGEGCX416",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13187,8 +13187,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "406",
     "SWIFT Code": "NBEGEGCX406",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13200,8 +13200,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "419",
     "SWIFT Code": "NBEGEGCX419",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13213,8 +13213,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "405",
     "SWIFT Code": "NBEGEGCX405",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13226,8 +13226,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "526",
     "SWIFT Code": "NBEGEGCX526",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13239,8 +13239,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "644",
     "SWIFT Code": "NBEGEGCX644",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13252,8 +13252,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "067",
     "SWIFT Code": "NBEGEGCX067",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13265,8 +13265,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "647",
     "SWIFT Code": "NBEGEGCX647",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13278,8 +13278,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "051",
     "SWIFT Code": "NBEGEGCX051",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13291,8 +13291,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "772",
     "SWIFT Code": "NBEGEGCX772",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13304,8 +13304,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "585",
     "SWIFT Code": "NBEGEGCX585",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13317,8 +13317,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "026",
     "SWIFT Code": "NBEGEGCX026",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13330,8 +13330,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "042",
     "SWIFT Code": "NBEGEGCX042",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13343,8 +13343,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "335",
     "SWIFT Code": "NBEGEGCX335",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13356,8 +13356,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "352",
     "SWIFT Code": "NBEGEGCX352",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13369,8 +13369,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "313",
     "SWIFT Code": "NBEGEGCX313",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13382,8 +13382,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "315",
     "SWIFT Code": "NBEGEGCX315",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13395,8 +13395,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "311",
     "SWIFT Code": "NBEGEGCX311",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13408,8 +13408,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "076",
     "SWIFT Code": "NBEGEGCX076",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13421,8 +13421,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "620",
     "SWIFT Code": "NBEGEGCX620",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13434,8 +13434,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "564",
     "SWIFT Code": "NBEGEGCX564",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13447,8 +13447,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "624",
     "SWIFT Code": "NBEGEGCX624",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13460,8 +13460,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "150",
     "SWIFT Code": "NBEGEGCX150",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13473,8 +13473,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "666",
     "SWIFT Code": "NBEGEGCX666",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13486,8 +13486,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "392",
     "SWIFT Code": "NBEGEGCX392",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13499,8 +13499,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "560",
     "SWIFT Code": "NBEGEGCX560",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13512,8 +13512,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "196",
     "SWIFT Code": "NBEGEGCX196",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13525,8 +13525,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "079",
     "SWIFT Code": "NBEGEGCX079",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13538,8 +13538,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "001",
     "SWIFT Code": "NBEGEGCX001",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13551,8 +13551,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "140",
     "SWIFT Code": "NBEGEGCX140",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13564,8 +13564,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "025",
     "SWIFT Code": "NBEGEGCX025",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13577,8 +13577,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "046",
     "SWIFT Code": "NBEGEGCX046",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13590,8 +13590,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "066",
     "SWIFT Code": "NBEGEGCX066",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13603,8 +13603,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "613",
     "SWIFT Code": "NBEGEGCX613",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13616,8 +13616,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "074",
     "SWIFT Code": "NBEGEGCX074",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13629,8 +13629,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "643",
     "SWIFT Code": "NBEGEGCX643",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13642,8 +13642,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "176",
     "SWIFT Code": "NBEGEGCX176",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13655,8 +13655,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "081",
     "SWIFT Code": "NBEGEGCX081",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13668,8 +13668,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "622",
     "SWIFT Code": "NBEGEGCX622",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13681,8 +13681,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "019",
     "SWIFT Code": "NBEGEGCX019",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13694,8 +13694,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "052",
     "SWIFT Code": "NBEGEGCX052",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13707,8 +13707,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "145",
     "SWIFT Code": "NBEGEGCX145",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13720,8 +13720,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "194",
     "SWIFT Code": "NBEGEGCX194",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13733,8 +13733,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "104",
     "SWIFT Code": "NBEGEGCX104",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13746,8 +13746,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "128",
     "SWIFT Code": "NBEGEGCX128",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13759,8 +13759,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "124",
     "SWIFT Code": "NBEGEGCX124",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13772,8 +13772,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "146",
     "SWIFT Code": "NBEGEGCX146",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13785,8 +13785,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "110",
     "SWIFT Code": "NBEGEGCX110",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13798,8 +13798,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "650",
     "SWIFT Code": "NBEGEGCX650",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13811,8 +13811,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "033",
     "SWIFT Code": "NBEGEGCX033",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13824,8 +13824,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "144",
     "SWIFT Code": "NBEGEGCX144",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13837,8 +13837,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "032",
     "SWIFT Code": "NBEGEGCX032",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13850,8 +13850,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "134",
     "SWIFT Code": "NBEGEGCX134",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13863,8 +13863,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "563",
     "SWIFT Code": "NBEGEGCX563",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13876,8 +13876,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "147",
     "SWIFT Code": "NBEGEGCX147",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13889,8 +13889,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "621",
     "SWIFT Code": "NBEGEGCX621",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13902,8 +13902,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "163",
     "SWIFT Code": "NBEGEGCX163",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13915,8 +13915,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "125",
     "SWIFT Code": "NBEGEGCX125",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13928,8 +13928,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "007",
     "SWIFT Code": "NBEGEGCX007",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13941,8 +13941,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "642",
     "SWIFT Code": "NBEGEGCX642",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13954,8 +13954,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "152",
     "SWIFT Code": "NBEGEGCX152",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13967,8 +13967,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "126",
     "SWIFT Code": "NBEGEGCX126",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13980,8 +13980,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "172",
     "SWIFT Code": "NBEGEGCX172",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -13993,8 +13993,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "158",
     "SWIFT Code": "NBEGEGCX158",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14006,8 +14006,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "NBEGEGCX003",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14019,8 +14019,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "029",
     "SWIFT Code": "NBEGEGCX029",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14032,8 +14032,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "589",
     "SWIFT Code": "NBEGEGCX589",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14045,8 +14045,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "820",
     "SWIFT Code": "NBEGEGCX820",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14058,8 +14058,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "138",
     "SWIFT Code": "NBEGEGCX138",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14071,8 +14071,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "634",
     "SWIFT Code": "NBEGEGCX634",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14084,8 +14084,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "180",
     "SWIFT Code": "NBEGEGCX180",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14097,8 +14097,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "137",
     "SWIFT Code": "NBEGEGCX137",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14110,8 +14110,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "101",
     "SWIFT Code": "NBEGEGCX101",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14123,8 +14123,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "NBEGEGCX002",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14136,8 +14136,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "102",
     "SWIFT Code": "NBEGEGCX102",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14149,8 +14149,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "086",
     "SWIFT Code": "NBEGEGCX086",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14162,8 +14162,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "142",
     "SWIFT Code": "NBEGEGCX142",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14175,8 +14175,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "609",
     "SWIFT Code": "NBEGEGCX609",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14188,8 +14188,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "006",
     "SWIFT Code": "NBEGEGCX006",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14201,8 +14201,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "167",
     "SWIFT Code": "NBEGEGCX167",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14214,8 +14214,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "330",
     "SWIFT Code": "NBEGEGCX330",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14227,8 +14227,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "133",
     "SWIFT Code": "NBEGEGCX133",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14240,8 +14240,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "103",
     "SWIFT Code": "NBEGEGCX103",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14253,8 +14253,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "115",
     "SWIFT Code": "NBEGEGCX115",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14266,8 +14266,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "171",
     "SWIFT Code": "NBEGEGCX171",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14279,8 +14279,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "130",
     "SWIFT Code": "NBEGEGCX130",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14292,8 +14292,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "111",
     "SWIFT Code": "NBEGEGCX111",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14305,8 +14305,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "177",
     "SWIFT Code": "NBEGEGCX177",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14318,8 +14318,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "106",
     "SWIFT Code": "NBEGEGCX106",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14331,8 +14331,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "123",
     "SWIFT Code": "NBEGEGCX123",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14344,8 +14344,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "154",
     "SWIFT Code": "NBEGEGCX154",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14357,8 +14357,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "118",
     "SWIFT Code": "NBEGEGCX118",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14370,8 +14370,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "122",
     "SWIFT Code": "NBEGEGCX122",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14383,8 +14383,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "162",
     "SWIFT Code": "NBEGEGCX162",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14396,8 +14396,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "195",
     "SWIFT Code": "NBEGEGCX195",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14409,8 +14409,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "095",
     "SWIFT Code": "NBEGEGCX095",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14422,8 +14422,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "161",
     "SWIFT Code": "NBEGEGCX161",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14435,8 +14435,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "004",
     "SWIFT Code": "NBEGEGCX004",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14448,8 +14448,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "193",
     "SWIFT Code": "NBEGEGCX193",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14461,8 +14461,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "148",
     "SWIFT Code": "NBEGEGCX148",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14474,8 +14474,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "085",
     "SWIFT Code": "NBEGEGCX085",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14487,8 +14487,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "120",
     "SWIFT Code": "NBEGEGCX120",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14500,8 +14500,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "155",
     "SWIFT Code": "NBEGEGCX155",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14513,8 +14513,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "771",
     "SWIFT Code": "NBEGEGCX771",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14526,8 +14526,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "022",
     "SWIFT Code": "NBEGEGCX022",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14539,8 +14539,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "800",
     "SWIFT Code": "NBEGEGCX800",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14552,8 +14552,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "599",
     "SWIFT Code": "NBEGEGCX599",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14565,8 +14565,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "191",
     "SWIFT Code": "NBEGEGCX191",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14578,8 +14578,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "189",
     "SWIFT Code": "NBEGEGCX189",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14591,8 +14591,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "157",
     "SWIFT Code": "NBEGEGCX157",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14604,8 +14604,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "149",
     "SWIFT Code": "NBEGEGCX149",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14617,8 +14617,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "127",
     "SWIFT Code": "NBEGEGCX127",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14630,8 +14630,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "088",
     "SWIFT Code": "NBEGEGCX088",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14643,8 +14643,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "108",
     "SWIFT Code": "NBEGEGCX108",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14656,8 +14656,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "660",
     "SWIFT Code": "NBEGEGCX660",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14669,8 +14669,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "100",
     "SWIFT Code": "NBEGEGCX100",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14682,8 +14682,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "151",
     "SWIFT Code": "NBEGEGCX151",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14695,8 +14695,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "EG",
+    "bankCode": "NBEG",
+    "countryCode": "EG",
     "branchCode": "047",
     "SWIFT Code": "NBEGEGCX047",
     "Bank Name": "NATIONAL BANK OF EGYPT",
@@ -14708,8 +14708,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "213",
     "SWIFT Code": "CIBEEGCX213",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -14721,8 +14721,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBO",
-    "bankCode": "EG",
+    "bankCode": "CIBO",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "CIBOEGCX",
     "Bank Name": "COMMERCIAL INTERNATIONAL BROKERAGE COMPANY",
@@ -14734,8 +14734,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "EG",
+    "bankCode": "AGRI",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "AGRIEGCX",
     "Bank Name": "CREDIT AGRICOLE EGYPT",
@@ -14747,8 +14747,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGH",
-    "bankCode": "EG",
+    "bankCode": "EFGH",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "EFGHEGCA",
     "Bank Name": "EFG HERMES INTERNATIONAL SECURITIES BROKERAGE (EHISB)",
@@ -14760,8 +14760,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGH",
-    "bankCode": "EG",
+    "bankCode": "EFGH",
+    "countryCode": "EG",
     "branchCode": "AMO",
     "SWIFT Code": "EFGHEGCAAMO",
     "Bank Name": "EFG HERMES INTERNATIONAL SECURITIES BROKERAGE (EHISB)",
@@ -14773,8 +14773,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGH",
-    "bankCode": "EG",
+    "bankCode": "EFGH",
+    "countryCode": "EG",
     "branchCode": "FBG",
     "SWIFT Code": "EFGHEGCAFBG",
     "Bank Name": "EFG HERMES INTERNATIONAL SECURITIES BROKERAGE (EHISB)",
@@ -14786,8 +14786,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "ARLBEGCAOCT",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14799,8 +14799,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "ARLBEGCAALX",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14812,8 +14812,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "TLH",
     "SWIFT Code": "ARLBEGCATLH",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14825,8 +14825,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "ARI",
     "SWIFT Code": "ARLBEGCAARI",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14838,8 +14838,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "ASW",
     "SWIFT Code": "ARLBEGCAASW",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14851,8 +14851,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "ARLBEGCACAI",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14864,8 +14864,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "NSR",
     "SWIFT Code": "ARLBEGCANSR",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14877,8 +14877,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "HIL",
     "SWIFT Code": "ARLBEGCAHIL",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14890,8 +14890,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "HOL",
     "SWIFT Code": "ARLBEGCAHOL",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14903,8 +14903,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MOF",
     "SWIFT Code": "ARLBEGCAMOF",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14916,8 +14916,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "ARLBEGCAMOH",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14929,8 +14929,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "DIM",
     "SWIFT Code": "ARLBEGCADIM",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14942,8 +14942,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MIN",
     "SWIFT Code": "ARLBEGCAMIN",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14955,8 +14955,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "SHR",
     "SWIFT Code": "ARLBEGCASHR",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14968,8 +14968,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "ARLBEGCADOK",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14981,8 +14981,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ARLBEGCA",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -14994,8 +14994,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MDZ",
     "SWIFT Code": "ARLBEGCAMDZ",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15007,8 +15007,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MAQ",
     "SWIFT Code": "ARLBEGCAMAQ",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15020,8 +15020,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "HRG",
     "SWIFT Code": "ARLBEGCAHRG",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15033,8 +15033,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "ISM",
     "SWIFT Code": "ARLBEGCAISM",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15046,8 +15046,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "LUX",
     "SWIFT Code": "ARLBEGCALUX",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15059,8 +15059,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MAN",
     "SWIFT Code": "ARLBEGCAMAN",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15072,8 +15072,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "MAT",
     "SWIFT Code": "ARLBEGCAMAT",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15085,8 +15085,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "POR",
     "SWIFT Code": "ARLBEGCAPOR",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15098,8 +15098,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "KNA",
     "SWIFT Code": "ARLBEGCAKNA",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15111,8 +15111,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "SHG",
     "SWIFT Code": "ARLBEGCASHG",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15124,8 +15124,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "SUZ",
     "SWIFT Code": "ARLBEGCASUZ",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15137,8 +15137,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "TNT",
     "SWIFT Code": "ARLBEGCATNT",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15150,8 +15150,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARLB",
-    "bankCode": "EG",
+    "bankCode": "ARLB",
+    "countryCode": "EG",
     "branchCode": "ZAG",
     "SWIFT Code": "ARLBEGCAZAG",
     "Bank Name": "EGYPTIAN ARAB LAND BANK",
@@ -15163,8 +15163,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "RAM",
     "SWIFT Code": "EGGBEGCARAM",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15176,8 +15176,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "EGGBEGCAOCT",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15189,8 +15189,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "EGGBEGCAALX",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15202,8 +15202,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "EGGBEGCA",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15215,8 +15215,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "AZH",
     "SWIFT Code": "EGGBEGCAAZH",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15228,8 +15228,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "BLS",
     "SWIFT Code": "EGGBEGCABLS",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15241,8 +15241,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "EGGBEGCACAI",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15254,8 +15254,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "HEL",
     "SWIFT Code": "EGGBEGCAHEL",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15267,8 +15267,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "LCS",
     "SWIFT Code": "EGGBEGCALCS",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15280,8 +15280,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "LGS",
     "SWIFT Code": "EGGBEGCALGS",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15293,8 +15293,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "MER",
     "SWIFT Code": "EGGBEGCAMER",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15306,8 +15306,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "EGGBEGCAMOH",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15319,8 +15319,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "HSC",
     "SWIFT Code": "EGGBEGCAHSC",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15332,8 +15332,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "PAY",
     "SWIFT Code": "EGGBEGCAPAY",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15345,8 +15345,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGGB",
-    "bankCode": "EG",
+    "bankCode": "EGGB",
+    "countryCode": "EG",
     "branchCode": "MAN",
     "SWIFT Code": "EGGBEGCAMAN",
     "Bank Name": "EGYPTIAN GULF BANK",
@@ -15358,8 +15358,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "TBO",
     "SWIFT Code": "BMISEGCXTBO",
     "Bank Name": "BANQUE MISR",
@@ -15371,8 +15371,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "TRF",
     "SWIFT Code": "BMISEGCXTRF",
     "Bank Name": "BANQUE MISR",
@@ -15384,8 +15384,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "BMISEGCX",
     "Bank Name": "BANQUE MISR",
@@ -15397,8 +15397,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "EG",
+    "bankCode": "BMIS",
+    "countryCode": "EG",
     "branchCode": "TFC",
     "SWIFT Code": "BMISEGCXTFC",
     "Bank Name": "BANQUE MISR",
@@ -15410,8 +15410,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BELT",
-    "bankCode": "EG",
+    "bankCode": "BELT",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "BELTEGCA",
     "Bank Name": "BELTONE SECURITIES BROKERAGE S.A.E",
@@ -15423,8 +15423,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BELT",
-    "bankCode": "EG",
+    "bankCode": "BELT",
+    "countryCode": "EG",
     "branchCode": "BAM",
     "SWIFT Code": "BELTEGCABAM",
     "Bank Name": "BELTONE SECURITIES BROKERAGE S.A.E",
@@ -15436,8 +15436,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRCS",
-    "bankCode": "EG",
+    "bankCode": "CRCS",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "CRCSEGCA",
     "Bank Name": "CAIRO CAPITAL SECURITIES",
@@ -15449,8 +15449,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "CBEGEGCXALX",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15462,8 +15462,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "CBEGEGCAALX",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15475,8 +15475,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "CBEGEGCX",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15488,8 +15488,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "CBEGEGCA",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15501,8 +15501,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "GCB",
     "SWIFT Code": "CBEGEGCB",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15514,8 +15514,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "BKO",
     "SWIFT Code": "CBEGEGCXBKO",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15527,8 +15527,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "BES",
     "SWIFT Code": "CBEGEGCXBES",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15540,8 +15540,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "BES",
     "SWIFT Code": "CBEGEGCABES",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15553,8 +15553,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "ASA",
     "SWIFT Code": "CBEGEGCXASA",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15566,8 +15566,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "ASA",
     "SWIFT Code": "CBEGEGCAASA",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15579,8 +15579,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "CCP",
     "SWIFT Code": "CBEGEGCACCP",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15592,8 +15592,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "CSD",
     "SWIFT Code": "CBEGEGCXCSD",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15605,8 +15605,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "CMS",
     "SWIFT Code": "CBEGEGCXCMS",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15618,8 +15618,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "SMK",
     "SWIFT Code": "CBEGEGCXSMK",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15631,8 +15631,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "001",
     "SWIFT Code": "CBEGEGCX001",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15644,8 +15644,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "CCP",
     "SWIFT Code": "CBEGEGCXCCP",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15657,8 +15657,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "CBEGEGCX002",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15670,8 +15670,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "PRT",
     "SWIFT Code": "CBEGEGCAPRT",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15683,8 +15683,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBEG",
-    "bankCode": "EG",
+    "bankCode": "CBEG",
+    "countryCode": "EG",
     "branchCode": "POS",
     "SWIFT Code": "CBEGEGCXPOS",
     "Bank Name": "CENTRAL BANK OF EGYPT CAIRO",
@@ -15696,8 +15696,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "EG",
+    "bankCode": "CITI",
+    "countryCode": "EG",
     "branchCode": "ALE",
     "SWIFT Code": "CITIEGCXALE",
     "Bank Name": "CITIBANK N.A. - CAIRO BRANCH",
@@ -15709,8 +15709,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "EG",
+    "bankCode": "CITI",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "CITIEGCX",
     "Bank Name": "CITIBANK N.A. - CAIRO BRANCH",
@@ -15722,8 +15722,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "EG",
+    "bankCode": "CITI",
+    "countryCode": "EG",
     "branchCode": "TRD",
     "SWIFT Code": "CITIEGCXTRD",
     "Bank Name": "CITIBANK N.A. - CAIRO BRANCH",
@@ -15735,8 +15735,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "023",
     "SWIFT Code": "CIBEEGCX023",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15748,8 +15748,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "017",
     "SWIFT Code": "CIBEEGCX017",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15761,8 +15761,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "226",
     "SWIFT Code": "CIBEEGCX226",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15774,8 +15774,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "133",
     "SWIFT Code": "CIBEEGCX133",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15787,8 +15787,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "095",
     "SWIFT Code": "CIBEEGCX095",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15800,8 +15800,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "128",
     "SWIFT Code": "CIBEEGCX128",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15813,8 +15813,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "198",
     "SWIFT Code": "CIBEEGCX198",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15826,8 +15826,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "123",
     "SWIFT Code": "CIBEEGCX123",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15839,8 +15839,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "074",
     "SWIFT Code": "CIBEEGCX074",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15852,8 +15852,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "201",
     "SWIFT Code": "CIBEEGCX201",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15865,8 +15865,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "141",
     "SWIFT Code": "CIBEEGCX141",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15878,8 +15878,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "167",
     "SWIFT Code": "CIBEEGCX167",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15891,8 +15891,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "119",
     "SWIFT Code": "CIBEEGCX119",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15904,8 +15904,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "159",
     "SWIFT Code": "CIBEEGCX159",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15917,8 +15917,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "130",
     "SWIFT Code": "CIBEEGCX130",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15930,8 +15930,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "166",
     "SWIFT Code": "CIBEEGCX166",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15943,8 +15943,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "118",
     "SWIFT Code": "CIBEEGCX118",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15956,8 +15956,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "194",
     "SWIFT Code": "CIBEEGCX194",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15969,8 +15969,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "068",
     "SWIFT Code": "CIBEEGCX068",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15982,8 +15982,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "178",
     "SWIFT Code": "CIBEEGCX178",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -15995,8 +15995,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBE",
-    "bankCode": "EG",
+    "bankCode": "CIBE",
+    "countryCode": "EG",
     "branchCode": "021",
     "SWIFT Code": "CIBEEGCX021",
     "Bank Name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
@@ -16008,8 +16008,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "STN",
     "SWIFT Code": "ABRKEGCASTN",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16021,8 +16021,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "ABS",
     "SWIFT Code": "ABRKEGCAABS",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16034,8 +16034,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "FSB",
     "SWIFT Code": "ABRKEGCAFSB",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16047,8 +16047,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "ALF",
     "SWIFT Code": "ABRKEGCAALF",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16060,8 +16060,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "AKD",
     "SWIFT Code": "ABRKEGCAAKD",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16073,8 +16073,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "ZHR",
     "SWIFT Code": "ABRKEGCAZHR",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16086,8 +16086,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MNL",
     "SWIFT Code": "ABRKEGCAMNL",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16099,8 +16099,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "ABRKEGCACAI",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16112,8 +16112,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MRG",
     "SWIFT Code": "ABRKEGCAMRG",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16125,8 +16125,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "HDW",
     "SWIFT Code": "ABRKEGCAHDW",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16138,8 +16138,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MAD",
     "SWIFT Code": "ABRKEGCAMAD",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16151,8 +16151,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MDN",
     "SWIFT Code": "ABRKEGCAMDN",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16164,8 +16164,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "NSR",
     "SWIFT Code": "ABRKEGCANSR",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16177,8 +16177,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "LSK",
     "SWIFT Code": "ABRKEGCALSK",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16190,8 +16190,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "RHB",
     "SWIFT Code": "ABRKEGCARHB",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16203,8 +16203,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "SFM",
     "SWIFT Code": "ABRKEGCASFM",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16216,8 +16216,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "SHB",
     "SWIFT Code": "ABRKEGCASHB",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16229,8 +16229,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "TAN",
     "SWIFT Code": "ABRKEGCATAN",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16242,8 +16242,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "ORA",
     "SWIFT Code": "ABRKEGCAORA",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16255,8 +16255,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "COR",
     "SWIFT Code": "ABRKEGCACOR",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16268,8 +16268,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "ABRKEGCADOK",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16281,8 +16281,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MAL",
     "SWIFT Code": "ABRKEGCAMAL",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16294,8 +16294,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "FSL",
     "SWIFT Code": "ABRKEGCAFSL",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16307,8 +16307,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "LCG",
     "SWIFT Code": "ABRKEGCALCG",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16320,8 +16320,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "ABRKEGCAMOH",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16333,8 +16333,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "EZZ",
     "SWIFT Code": "ABRKEGCAEZZ",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16346,8 +16346,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "HRM",
     "SWIFT Code": "ABRKEGCAHRM",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16359,8 +16359,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "ZYD",
     "SWIFT Code": "ABRKEGCAZYD",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16372,8 +16372,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "TKY",
     "SWIFT Code": "ABRKEGCATKY",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16385,8 +16385,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "MAN",
     "SWIFT Code": "ABRKEGCAMAN",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16398,8 +16398,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ABRKEGCA",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16411,8 +16411,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABRK",
-    "bankCode": "EG",
+    "bankCode": "ABRK",
+    "countryCode": "EG",
     "branchCode": "SHM",
     "SWIFT Code": "ABRKEGCASHM",
     "Bank Name": "ALBARAKA BANK EGYPT",
@@ -16424,8 +16424,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "ARAIEGCXOCT",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16437,8 +16437,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "ALE",
     "SWIFT Code": "ARAIEGCXALE",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16450,8 +16450,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "ARAIEGCXALX",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16463,8 +16463,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "BRG",
     "SWIFT Code": "ARAIEGCXBRG",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16476,8 +16476,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "ALF",
     "SWIFT Code": "ARAIEGCXALF",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16489,8 +16489,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "DOC",
     "SWIFT Code": "ARAIEGCXDOC",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16502,8 +16502,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "ARAIEGCXDOK",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16515,8 +16515,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "GRD",
     "SWIFT Code": "ARAIEGCXGRD",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16528,8 +16528,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "HLP",
     "SWIFT Code": "ARAIEGCXHLP",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16541,8 +16541,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "MRG",
     "SWIFT Code": "ARAIEGCXMRG",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16554,8 +16554,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "TWN",
     "SWIFT Code": "ARAIEGCXTWN",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16567,8 +16567,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "ASH",
     "SWIFT Code": "ARAIEGCXASH",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16580,8 +16580,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "OPR",
     "SWIFT Code": "ARAIEGCXOPR",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16593,8 +16593,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "BUD",
     "SWIFT Code": "ARAIEGCXBUD",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16606,8 +16606,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "ARAIEGCXCAI",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16619,8 +16619,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "SEC",
     "SWIFT Code": "ARAIEGCXSEC",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16632,8 +16632,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "COL",
     "SWIFT Code": "ARAIEGCXCOL",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16645,8 +16645,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "EG",
+    "bankCode": "ARAI",
+    "countryCode": "EG",
     "branchCode": "GLF",
     "SWIFT Code": "ARAIEGCXGLF",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -16658,8 +16658,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIPF",
-    "bankCode": "EG",
+    "bankCode": "EIPF",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "EIPFEGCA",
     "Bank Name": "EGYPTIAN INVESTOR PROTECTION FUND",
@@ -16671,8 +16671,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELSW",
-    "bankCode": "EG",
+    "bankCode": "ELSW",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "ELSWEGCA",
     "Bank Name": "EL SEWEDY ELECTRIC CO. S.A.E.",
@@ -16684,8 +16684,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "EG",
+    "bankCode": "EBIL",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "EBILEGCXALX",
     "Bank Name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
@@ -16697,8 +16697,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "EG",
+    "bankCode": "EBIL",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "EBILEGCX",
     "Bank Name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
@@ -16710,8 +16710,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "EG",
+    "bankCode": "EBIL",
+    "countryCode": "EG",
     "branchCode": "GAR",
     "SWIFT Code": "EBILEGCXGAR",
     "Bank Name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
@@ -16723,8 +16723,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "EG",
+    "bankCode": "EBIL",
+    "countryCode": "EG",
     "branchCode": "GLM",
     "SWIFT Code": "EBILEGCXGLM",
     "Bank Name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
@@ -16736,8 +16736,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "EG",
+    "bankCode": "EBIL",
+    "countryCode": "EG",
     "branchCode": "HEL",
     "SWIFT Code": "EBILEGCXHEL",
     "Bank Name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
@@ -16749,8 +16749,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "EG",
+    "bankCode": "EBIL",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "EBILEGCXDOK",
     "Bank Name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
@@ -16762,8 +16762,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "RAM",
     "SWIFT Code": "EXDEEGCXRAM",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16775,8 +16775,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "EXDEEGCXOCT",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16788,8 +16788,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "OBO",
     "SWIFT Code": "EXDEEGCXOBO",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16801,8 +16801,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "BRG",
     "SWIFT Code": "EXDEEGCXBRG",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16814,8 +16814,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "RSH",
     "SWIFT Code": "EXDEEGCXRSH",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16827,8 +16827,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "EXDEEGCXALX",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16840,8 +16840,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "EXDEEGCX",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16853,8 +16853,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "DOK",
     "SWIFT Code": "EXDEEGCXDOK",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16866,8 +16866,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "HED",
     "SWIFT Code": "EXDEEGCXHED",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16879,8 +16879,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "HEG",
     "SWIFT Code": "EXDEEGCXHEG",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16892,8 +16892,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "NCT",
     "SWIFT Code": "EXDEEGCXNCT",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16905,8 +16905,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "OBR",
     "SWIFT Code": "EXDEEGCXOBR",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16918,8 +16918,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "ZAM",
     "SWIFT Code": "EXDEEGCXZAM",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16931,8 +16931,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "FSL",
     "SWIFT Code": "EXDEEGCXFSL",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16944,8 +16944,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "MOH",
     "SWIFT Code": "EXDEEGCXMOH",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16957,8 +16957,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXDE",
-    "bankCode": "EG",
+    "bankCode": "EXDE",
+    "countryCode": "EG",
     "branchCode": "NIL",
     "SWIFT Code": "EXDEEGCXNIL",
     "Bank Name": "EXPORT DEVELOPMENT BANK OF EGYPT",
@@ -16970,8 +16970,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIEG",
-    "bankCode": "EG",
+    "bankCode": "FIEG",
+    "countryCode": "EG",
     "branchCode": "ALX",
     "SWIFT Code": "FIEGEGCXALX",
     "Bank Name": "FAISAL ISLAMIC BANK OF EGYPT",
@@ -16983,8 +16983,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIEG",
-    "bankCode": "EG",
+    "bankCode": "FIEG",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "FIEGEGCXCAI",
     "Bank Name": "FAISAL ISLAMIC BANK OF EGYPT",
@@ -16996,8 +16996,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIEG",
-    "bankCode": "EG",
+    "bankCode": "FIEG",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "FIEGEGCX",
     "Bank Name": "FAISAL ISLAMIC BANK OF EGYPT",
@@ -17009,8 +17009,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIEG",
-    "bankCode": "EG",
+    "bankCode": "FIEG",
+    "countryCode": "EG",
     "branchCode": "MAI",
     "SWIFT Code": "FIEGEGCXMAI",
     "Bank Name": "FAISAL ISLAMIC BANK OF EGYPT",
@@ -17022,8 +17022,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIEG",
-    "bankCode": "EG",
+    "bankCode": "FIEG",
+    "countryCode": "EG",
     "branchCode": "ITD",
     "SWIFT Code": "FIEGEGCXITD",
     "Bank Name": "FAISAL ISLAMIC BANK OF EGYPT",
@@ -17035,8 +17035,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "EG",
+    "bankCode": "NBAD",
+    "countryCode": "EG",
     "branchCode": "OCT",
     "SWIFT Code": "NBADEGCAOCT",
     "Bank Name": "FIRST ABU DHABI BANK MISR S.A.E. (FORMERLY FIRST ABU DHABI BANK)",
@@ -17048,8 +17048,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "EG",
+    "bankCode": "NBAD",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "NBADEGCA",
     "Bank Name": "FIRST ABU DHABI BANK MISR S.A.E. (FORMERLY FIRST ABU DHABI BANK)",
@@ -17061,8 +17061,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "EG",
+    "bankCode": "NBAD",
+    "countryCode": "EG",
     "branchCode": "CMS",
     "SWIFT Code": "NBADEGCACMS",
     "Bank Name": "FIRST ABU DHABI BANK MISR S.A.E. (FORMERLY FIRST ABU DHABI BANK)",
@@ -17074,8 +17074,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "EG",
+    "bankCode": "NBAD",
+    "countryCode": "EG",
     "branchCode": "PSU",
     "SWIFT Code": "NBADEGCAPSU",
     "Bank Name": "FIRST ABU DHABI BANK MISR S.A.E. (FORMERLY FIRST ABU DHABI BANK)",
@@ -17087,8 +17087,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "EG",
+    "bankCode": "NBAD",
+    "countryCode": "EG",
     "branchCode": "TFO",
     "SWIFT Code": "NBADEGCATFO",
     "Bank Name": "FIRST ABU DHABI BANK MISR S.A.E. (FORMERLY FIRST ABU DHABI BANK)",
@@ -17100,8 +17100,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDBK",
-    "bankCode": "EG",
+    "bankCode": "HDBK",
+    "countryCode": "EG",
     "branchCode": "ZAM",
     "SWIFT Code": "HDBKEGCAZAM",
     "Bank Name": "HOUSING AND DEVELOPMENT BANK",
@@ -17113,8 +17113,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDBK",
-    "bankCode": "EG",
+    "bankCode": "HDBK",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "HDBKEGCA",
     "Bank Name": "HOUSING AND DEVELOPMENT BANK",
@@ -17126,8 +17126,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBBK",
-    "bankCode": "EG",
+    "bankCode": "EBBK",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "EBBKEGCX",
     "Bank Name": "HSBC BANK EGYPT S.A.E",
@@ -17139,8 +17139,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "0A4",
     "SWIFT Code": "DIBBEGCA0A4",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17152,8 +17152,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "0AL",
     "SWIFT Code": "DIBBEGCA0AL",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17165,8 +17165,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "0C3",
     "SWIFT Code": "DIBBEGCA0C3",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17178,8 +17178,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "CAI",
     "SWIFT Code": "DIBBEGCACAI",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17191,8 +17191,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "0A6",
     "SWIFT Code": "DIBBEGCA0A6",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17204,8 +17204,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "FIN",
     "SWIFT Code": "DIBBEGCAFIN",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17217,8 +17217,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "DIBBEGCA",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17230,8 +17230,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "0C2",
     "SWIFT Code": "DIBBEGCA0C2",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17243,8 +17243,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "0A5",
     "SWIFT Code": "DIBBEGCA0A5",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17256,8 +17256,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBB",
-    "bankCode": "EG",
+    "bankCode": "DIBB",
+    "countryCode": "EG",
     "branchCode": "03B",
     "SWIFT Code": "DIBBEGCA03B",
     "Bank Name": "INDUSTRIAL DEVELOPMENT BANK",
@@ -17269,8 +17269,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "EG",
+    "bankCode": "MSHQ",
+    "countryCode": "EG",
     "branchCode": "GCA",
     "SWIFT Code": "MSHQEGCA",
     "Bank Name": "MASHREQ BANK",
@@ -17282,8 +17282,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "EG",
+    "bankCode": "MSHQ",
+    "countryCode": "EG",
     "branchCode": "CBG",
     "SWIFT Code": "MSHQEGCACBG",
     "Bank Name": "MASHREQ BANK",
@@ -17295,8 +17295,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSHQ",
-    "bankCode": "EG",
+    "bankCode": "MSHQ",
+    "countryCode": "EG",
     "branchCode": "RBG",
     "SWIFT Code": "MSHQEGCARBG",
     "Bank Name": "MASHREQ BANK",
@@ -17308,8 +17308,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "021",
     "SWIFT Code": "MRBAEGCX021",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17321,8 +17321,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "037",
     "SWIFT Code": "MRBAEGCX037",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17334,8 +17334,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "019",
     "SWIFT Code": "MRBAEGCX019",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17347,8 +17347,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "MRBAEGCX002",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17360,8 +17360,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "038",
     "SWIFT Code": "MRBAEGCX038",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17373,8 +17373,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "017",
     "SWIFT Code": "MRBAEGCX017",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17386,8 +17386,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "035",
     "SWIFT Code": "MRBAEGCX035",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17399,8 +17399,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "MRBAEGCX",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17412,8 +17412,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "041",
     "SWIFT Code": "MRBAEGCX041",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17425,8 +17425,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "012",
     "SWIFT Code": "MRBAEGCX012",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17438,8 +17438,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "042",
     "SWIFT Code": "MRBAEGCX042",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17451,8 +17451,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "032",
     "SWIFT Code": "MRBAEGCX032",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17464,8 +17464,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "039",
     "SWIFT Code": "MRBAEGCX039",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17477,8 +17477,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "040",
     "SWIFT Code": "MRBAEGCX040",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17490,8 +17490,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "027",
     "SWIFT Code": "MRBAEGCX027",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17503,8 +17503,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "031",
     "SWIFT Code": "MRBAEGCX031",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17516,8 +17516,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "007",
     "SWIFT Code": "MRBAEGCX007",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17529,8 +17529,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "018",
     "SWIFT Code": "MRBAEGCX018",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17542,8 +17542,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "010",
     "SWIFT Code": "MRBAEGCX010",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17555,8 +17555,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "015",
     "SWIFT Code": "MRBAEGCX015",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17568,8 +17568,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAAB",
-    "bankCode": "EG",
+    "bankCode": "EAAB",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "EAABEGCX",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17581,8 +17581,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "026",
     "SWIFT Code": "MRBAEGCX026",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17594,8 +17594,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "011",
     "SWIFT Code": "MRBAEGCX011",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17607,8 +17607,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "034",
     "SWIFT Code": "MRBAEGCX034",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17620,8 +17620,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRBA",
-    "bankCode": "EG",
+    "bankCode": "MRBA",
+    "countryCode": "EG",
     "branchCode": "028",
     "SWIFT Code": "MRBAEGCX028",
     "Bank Name": "ARAB BANKING CORPORATION EGYPT",
@@ -17633,8 +17633,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "009",
     "SWIFT Code": "ARIBEGCX009",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17646,8 +17646,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "015",
     "SWIFT Code": "ARIBEGCX015",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17659,8 +17659,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "002",
     "SWIFT Code": "ARIBEGCX002",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17672,8 +17672,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "016",
     "SWIFT Code": "ARIBEGCX016",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17685,8 +17685,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "019",
     "SWIFT Code": "ARIBEGCX019",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17698,8 +17698,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "020",
     "SWIFT Code": "ARIBEGCX020",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17711,8 +17711,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "GCX",
     "SWIFT Code": "ARIBEGCX",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17724,8 +17724,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "014",
     "SWIFT Code": "ARIBEGCX014",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17737,8 +17737,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "001",
     "SWIFT Code": "ARIBEGCX001",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17750,8 +17750,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "005",
     "SWIFT Code": "ARIBEGCX005",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17763,8 +17763,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "LBR",
     "SWIFT Code": "ARIBEGCXLBR",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17776,8 +17776,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "008",
     "SWIFT Code": "ARIBEGCX008",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17789,8 +17789,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "MOP",
     "SWIFT Code": "ARIBEGCXMOP",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17802,8 +17802,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "004",
     "SWIFT Code": "ARIBEGCX004",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17815,8 +17815,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "007",
     "SWIFT Code": "ARIBEGCX007",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17828,8 +17828,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "013",
     "SWIFT Code": "ARIBEGCX013",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17841,8 +17841,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "003",
     "SWIFT Code": "ARIBEGCX003",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17854,8 +17854,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "017",
     "SWIFT Code": "ARIBEGCX017",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17867,8 +17867,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "022",
     "SWIFT Code": "ARIBEGCX022",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17880,8 +17880,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "021",
     "SWIFT Code": "ARIBEGCX021",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17893,8 +17893,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "011",
     "SWIFT Code": "ARIBEGCX011",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17906,8 +17906,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "018",
     "SWIFT Code": "ARIBEGCX018",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17919,8 +17919,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "006",
     "SWIFT Code": "ARIBEGCX006",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17932,8 +17932,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "012",
     "SWIFT Code": "ARIBEGCX012",
     "Bank Name": "ARAB INTERNATIONAL BANK",
@@ -17945,8 +17945,8 @@ const egypt = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARIB",
-    "bankCode": "EG",
+    "bankCode": "ARIB",
+    "countryCode": "EG",
     "branchCode": "010",
     "SWIFT Code": "ARIBEGCX010",
     "Bank Name": "ARAB INTERNATIONAL BANK",

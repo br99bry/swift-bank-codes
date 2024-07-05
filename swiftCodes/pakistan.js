@@ -1,7 +1,7 @@
 const pakistan = [
   {
-    "countryCode": "AIIN",
-    "bankCode": "PK",
+    "bankCode": "AIIN",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "AIINPKKA",
     "Bank Name": "ALBARAKA BANK (PAKISTAN) LIMITED",
@@ -13,8 +13,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIIN",
-    "bankCode": "PK",
+    "bankCode": "AIIN",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "AIINPKKALHR",
     "Bank Name": "ALBARAKA BANK (PAKISTAN) LIMITED",
@@ -26,8 +26,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "443",
     "SWIFT Code": "ABPAPKKA443",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -39,8 +39,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "949",
     "SWIFT Code": "ABPAPKKA949",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -52,8 +52,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "EPZ",
     "SWIFT Code": "ABPAPKKAEPZ",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -65,8 +65,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "ABPAPKKATRY",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -78,8 +78,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "ABPAPKKA",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -91,8 +91,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "IBG",
     "SWIFT Code": "ABPAPKKAIBG",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -104,8 +104,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "ABPAPKKARDA",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -117,8 +117,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "979",
     "SWIFT Code": "ABPAPKKA979",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -130,8 +130,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABPA",
-    "bankCode": "PK",
+    "bankCode": "ABPA",
+    "countryCode": "PK",
     "branchCode": "TFW",
     "SWIFT Code": "ABPAPKKATFW",
     "Bank Name": "ALLIED BANK LIMITED",
@@ -143,8 +143,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "001",
     "SWIFT Code": "ASCMPKKA001",
     "Bank Name": "ASKARI BANK LIMITED",
@@ -156,8 +156,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "009",
     "SWIFT Code": "ASCMPKKA009",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -169,8 +169,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "012",
     "SWIFT Code": "ASCMPKKA012",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -182,8 +182,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "037",
     "SWIFT Code": "ASCMPKKA037",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -195,8 +195,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "905",
     "SWIFT Code": "ASCMPKKA905",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -208,8 +208,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "ASCMPKKARDA",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -221,8 +221,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "ASCMPKKA",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -234,8 +234,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "FT1",
     "SWIFT Code": "ASCMPKKAFT1",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -247,8 +247,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "904",
     "SWIFT Code": "ASCMPKKA904",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -260,8 +260,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "IBT",
     "SWIFT Code": "ASCMPKKAIBT",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -273,8 +273,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "002",
     "SWIFT Code": "ASCMPKKA002",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -286,8 +286,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "ASCMPKKATRY",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -299,8 +299,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "FT2",
     "SWIFT Code": "ASCMPKKAFT2",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -312,8 +312,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "906",
     "SWIFT Code": "ASCMPKKA906",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -325,8 +325,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "006",
     "SWIFT Code": "ASCMPKKA006",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -338,8 +338,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "013",
     "SWIFT Code": "ASCMPKKA013",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -351,8 +351,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "004",
     "SWIFT Code": "ASCMPKKA004",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -364,8 +364,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "902",
     "SWIFT Code": "ASCMPKKA902",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -377,8 +377,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "003",
     "SWIFT Code": "ASCMPKKA003",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -390,8 +390,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "903",
     "SWIFT Code": "ASCMPKKA903",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -403,8 +403,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "FT3",
     "SWIFT Code": "ASCMPKKAFT3",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -416,8 +416,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "HOR",
     "SWIFT Code": "ASCMPKKAHOR",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -429,8 +429,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "901",
     "SWIFT Code": "ASCMPKKA901",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -442,8 +442,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "IND",
     "SWIFT Code": "ASCMPKKAIND",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -455,8 +455,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASCM",
-    "bankCode": "PK",
+    "bankCode": "ASCM",
+    "countryCode": "PK",
     "branchCode": "010",
     "SWIFT Code": "ASCMPKKA010",
     "Bank Name": "ASKARIBANK LIMITED",
@@ -468,8 +468,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "FSD",
     "SWIFT Code": "BAHLPKKAFSD",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -481,8 +481,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "ISL",
     "SWIFT Code": "BAHLPKKAISL",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -494,8 +494,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "BAHLPKKA",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -507,8 +507,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "CPU",
     "SWIFT Code": "BAHLPKKACPU",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -520,8 +520,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "EPZ",
     "SWIFT Code": "BAHLPKKAEPZ",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -533,8 +533,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "IBD",
     "SWIFT Code": "BAHLPKKAIBD",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -546,8 +546,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "JBZ",
     "SWIFT Code": "BAHLPKKAJBZ",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -559,8 +559,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "KHI",
     "SWIFT Code": "BAHLPKKAKHI",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -573,8 +573,8 @@ const pakistan = [
   },
   {},
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "BAHLPKKARDA",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -586,8 +586,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "BAHLPKKALHR",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -599,8 +599,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "PK",
+    "bankCode": "BAHL",
+    "countryCode": "PK",
     "branchCode": "MUL",
     "SWIFT Code": "BAHLPKKAMUL",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -612,8 +612,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "054",
     "SWIFT Code": "ALFHPKKA054",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -625,8 +625,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "131",
     "SWIFT Code": "ALFHPKKA131",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -638,8 +638,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "HYD",
     "SWIFT Code": "SONEPKKAHYD",
     "Bank Name": "SONERI BANK LIMITED",
@@ -651,8 +651,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "MIS",
     "SWIFT Code": "SONEPKKAMIS",
     "Bank Name": "SONERI BANK LIMITED",
@@ -664,8 +664,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "ISD",
     "SWIFT Code": "SONEPKKAISD",
     "Bank Name": "SONERI BANK LIMITED",
@@ -677,8 +677,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "MJK",
     "SWIFT Code": "SONEPKKAMJK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -690,8 +690,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "SONEPKKA",
     "Bank Name": "SONERI BANK LIMITED",
@@ -703,8 +703,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "KAR",
     "SWIFT Code": "SONEPKKAKAR",
     "Bank Name": "SONERI BANK LIMITED",
@@ -716,8 +716,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "CTO",
     "SWIFT Code": "SONEPKKACTO",
     "Bank Name": "SONERI BANK LIMITED",
@@ -729,8 +729,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "CKR",
     "SWIFT Code": "SONEPKKACKR",
     "Bank Name": "SONERI BANK LIMITED",
@@ -742,8 +742,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "DHK",
     "SWIFT Code": "SONEPKKADHK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -755,8 +755,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "SONEPKKATRY",
     "Bank Name": "SONERI BANK LIMITED",
@@ -768,8 +768,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "ICK",
     "SWIFT Code": "SONEPKKAICK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -781,8 +781,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "JKR",
     "SWIFT Code": "SONEPKKAJKR",
     "Bank Name": "SONERI BANK LIMITED",
@@ -794,8 +794,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "KKR",
     "SWIFT Code": "SONEPKKAKKR",
     "Bank Name": "SONERI BANK LIMITED",
@@ -807,8 +807,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "NCK",
     "SWIFT Code": "SONEPKKANCK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -820,8 +820,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "SFK",
     "SWIFT Code": "SONEPKKASFK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -833,8 +833,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "SIK",
     "SWIFT Code": "SONEPKKASIK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -846,8 +846,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "ALH",
     "SWIFT Code": "SONEPKKAALH",
     "Bank Name": "SONERI BANK LIMITED",
@@ -859,8 +859,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "BBL",
     "SWIFT Code": "SONEPKKABBL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -872,8 +872,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "CGL",
     "SWIFT Code": "SONEPKKACGL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -885,8 +885,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "SONEPKKALHR",
     "Bank Name": "SONERI BANK LIMITED",
@@ -898,8 +898,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "CAL",
     "SWIFT Code": "SONEPKKACAL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -911,8 +911,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "CLH",
     "SWIFT Code": "SONEPKKACLH",
     "Bank Name": "SONERI BANK LIMITED",
@@ -924,8 +924,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "DLH",
     "SWIFT Code": "SONEPKKADLH",
     "Bank Name": "SONERI BANK LIMITED",
@@ -937,8 +937,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "GLH",
     "SWIFT Code": "SONEPKKAGLH",
     "Bank Name": "SONERI BANK LIMITED",
@@ -950,8 +950,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "IGL",
     "SWIFT Code": "SONEPKKAIGL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -963,8 +963,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "MLH",
     "SWIFT Code": "SONEPKKAMLH",
     "Bank Name": "SONERI BANK LIMITED",
@@ -976,8 +976,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "DPL",
     "SWIFT Code": "SONEPKKADPL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -989,8 +989,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "QCL",
     "SWIFT Code": "SONEPKKAQCL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1002,8 +1002,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "TNL",
     "SWIFT Code": "SONEPKKATNL",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1015,8 +1015,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "UML",
     "SWIFT Code": "SONEPKKAUML",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1028,8 +1028,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "MTN",
     "SWIFT Code": "SONEPKKAMTN",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1041,8 +1041,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "IBP",
     "SWIFT Code": "SONEPKKAIBP",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1054,8 +1054,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "CYP",
     "SWIFT Code": "SONEPKKACYP",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1067,8 +1067,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "PSH",
     "SWIFT Code": "SONEPKKAPSH",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1080,8 +1080,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "QTA",
     "SWIFT Code": "SONEPKKAQTA",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1093,8 +1093,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "RWP",
     "SWIFT Code": "SONEPKKARWP",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1106,8 +1106,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "SKT",
     "SWIFT Code": "SONEPKKASKT",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1119,8 +1119,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "SUK",
     "SWIFT Code": "SONEPKKASUK",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1132,8 +1132,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "WZD",
     "SWIFT Code": "SONEPKKAWZD",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1145,8 +1145,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PK",
+    "bankCode": "SCBL",
+    "countryCode": "PK",
     "branchCode": "EQI",
     "SWIFT Code": "SCBLPKKXEQI",
     "Bank Name": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
@@ -1158,8 +1158,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PK",
+    "bankCode": "SCBL",
+    "countryCode": "PK",
     "branchCode": "KKX",
     "SWIFT Code": "SCBLPKKX",
     "Bank Name": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
@@ -1171,8 +1171,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PK",
+    "bankCode": "SCBL",
+    "countryCode": "PK",
     "branchCode": "CLF",
     "SWIFT Code": "SCBLPKKXCLF",
     "Bank Name": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
@@ -1184,8 +1184,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PK",
+    "bankCode": "SCBL",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "SCBLPKKXRDA",
     "Bank Name": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
@@ -1197,8 +1197,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "PK",
+    "bankCode": "SCBL",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "SCBLPKKXLHR",
     "Bank Name": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
@@ -1210,8 +1210,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBPP",
-    "bankCode": "PK",
+    "bankCode": "SBPP",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "SBPPPKKA",
     "Bank Name": "STATE BANK OF PAKISTAN",
@@ -1223,8 +1223,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "010",
     "SWIFT Code": "BPUNPKKA010",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -1236,8 +1236,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "011",
     "SWIFT Code": "BPUNPKKA011",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -1249,8 +1249,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "CRU",
     "SWIFT Code": "BPUNPKKACRU",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -1262,8 +1262,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "239",
     "SWIFT Code": "BPUNPKKA239",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -1275,8 +1275,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "BPUNPKKA",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -1288,8 +1288,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "K04",
     "SWIFT Code": "MEZNPKKAK04",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1301,8 +1301,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "DHA",
     "SWIFT Code": "MEZNPKKADHA",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1314,8 +1314,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "GRD",
     "SWIFT Code": "MEZNPKKAGRD",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1327,8 +1327,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "TFD",
     "SWIFT Code": "MEZNPKKATFD",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1340,8 +1340,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "MEZNPKKATRY",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1353,8 +1353,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "K02",
     "SWIFT Code": "MEZNPKKAK02",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1366,8 +1366,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "GRO",
     "SWIFT Code": "MEZNPKKAGRO",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1379,8 +1379,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "CAD",
     "SWIFT Code": "MEZNPKKACAD",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1392,8 +1392,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "EXP",
     "SWIFT Code": "MEZNPKKAEXP",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1405,8 +1405,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "HRU",
     "SWIFT Code": "MEZNPKKAHRU",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1418,8 +1418,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "K01",
     "SWIFT Code": "MEZNPKKAK01",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1431,8 +1431,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "MEZNPKKARDA",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1444,8 +1444,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "K03",
     "SWIFT Code": "MEZNPKKAK03",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1457,8 +1457,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "LH2",
     "SWIFT Code": "MEZNPKKALH2",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1470,8 +1470,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "MEZNPKKALHR",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1483,8 +1483,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "MTN",
     "SWIFT Code": "MEZNPKKAMTN",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1496,8 +1496,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "PEW",
     "SWIFT Code": "MEZNPKKAPEW",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1509,8 +1509,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "RWP",
     "SWIFT Code": "MEZNPKKARWP",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1522,8 +1522,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "SKT",
     "SWIFT Code": "MEZNPKKASKT",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -1535,8 +1535,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02F",
     "SWIFT Code": "NBPAPKKA02F",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1548,8 +1548,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "COF",
     "SWIFT Code": "NBPAPKKACOF",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1561,8 +1561,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02G",
     "SWIFT Code": "NBPAPKKA02G",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1574,8 +1574,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02H",
     "SWIFT Code": "NBPAPKKA02H",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1587,8 +1587,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02I",
     "SWIFT Code": "NBPAPKKA02I",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1600,8 +1600,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "SMB",
     "SWIFT Code": "NBPAPKKASMB",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1613,8 +1613,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "CPB",
     "SWIFT Code": "NBPAPKKACPB",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1626,8 +1626,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "EPZ",
     "SWIFT Code": "NBPAPKKAEPZ",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1639,8 +1639,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "NBPAPKKA",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1652,8 +1652,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "ITD",
     "SWIFT Code": "NBPAPKKAITD",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1665,8 +1665,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "MBR",
     "SWIFT Code": "NBPAPKKAMBR",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1678,8 +1678,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "ISL",
     "SWIFT Code": "NBPAPKKAISL",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1691,8 +1691,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "NEC",
     "SWIFT Code": "NBPAPKKANEC",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1704,8 +1704,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02L",
     "SWIFT Code": "NBPAPKKA02L",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1717,8 +1717,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "CBL",
     "SWIFT Code": "NBPAPKKACBL",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1730,8 +1730,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02U",
     "SWIFT Code": "NBPAPKKA02U",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1743,8 +1743,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02M",
     "SWIFT Code": "NBPAPKKA02M",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1756,8 +1756,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "CBM",
     "SWIFT Code": "NBPAPKKACBM",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1769,8 +1769,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02Z",
     "SWIFT Code": "NBPAPKKA02Z",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1782,8 +1782,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02P",
     "SWIFT Code": "NBPAPKKA02P",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1795,8 +1795,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02Q",
     "SWIFT Code": "NBPAPKKA02Q",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1808,8 +1808,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02R",
     "SWIFT Code": "NBPAPKKA02R",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1821,8 +1821,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "PK",
+    "bankCode": "NBPA",
+    "countryCode": "PK",
     "branchCode": "02S",
     "SWIFT Code": "NBPAPKKA02S",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -1834,8 +1834,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAYA",
-    "bankCode": "PK",
+    "bankCode": "NAYA",
+    "countryCode": "PK",
     "branchCode": "KK2",
     "SWIFT Code": "NAYAPKK2",
     "Bank Name": "NAYAPAY (PRIVATE) LIMITED",
@@ -1847,8 +1847,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMB",
-    "bankCode": "PK",
+    "bankCode": "SAMB",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "SAMBPKKA",
     "Bank Name": "SAMBA BANK LIMITED",
@@ -1860,8 +1860,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMB",
-    "bankCode": "PK",
+    "bankCode": "SAMB",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "SAMBPKKARDA",
     "Bank Name": "SAMBA BANK LIMITED",
@@ -1873,8 +1873,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAUD",
-    "bankCode": "PK",
+    "bankCode": "SAUD",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "SAUDPKKA",
     "Bank Name": "SILKBANK LIMITED",
@@ -1886,8 +1886,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIND",
-    "bankCode": "PK",
+    "bankCode": "SIND",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "SINDPKKA",
     "Bank Name": "SINDH BANK LIMITED",
@@ -1899,8 +1899,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "BWP",
     "SWIFT Code": "SONEPKKABWP",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1912,8 +1912,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "FSD",
     "SWIFT Code": "SONEPKKAFSD",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1925,8 +1925,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONE",
-    "bankCode": "PK",
+    "bankCode": "SONE",
+    "countryCode": "PK",
     "branchCode": "GJR",
     "SWIFT Code": "SONEPKKAGJR",
     "Bank Name": "SONERI BANK LIMITED",
@@ -1938,8 +1938,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "211",
     "SWIFT Code": "HABBPKKA211",
     "Bank Name": "HABIB BANK LIMITED",
@@ -1951,8 +1951,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "270",
     "SWIFT Code": "HABBPKKA270",
     "Bank Name": "HABIB BANK LIMITED",
@@ -1964,8 +1964,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "150",
     "SWIFT Code": "HABBPKKA150",
     "Bank Name": "HABIB BANK LIMITED",
@@ -1977,8 +1977,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "224",
     "SWIFT Code": "HABBPKKA224",
     "Bank Name": "HABIB BANK LIMITED",
@@ -1990,8 +1990,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "223",
     "SWIFT Code": "HABBPKKA223",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2003,8 +2003,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "959",
     "SWIFT Code": "HABBPKKA959",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2016,8 +2016,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "649",
     "SWIFT Code": "HABBPKKA649",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2029,8 +2029,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "229",
     "SWIFT Code": "HABBPKKA229",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2042,8 +2042,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "155",
     "SWIFT Code": "HABBPKKA155",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2055,8 +2055,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "156",
     "SWIFT Code": "HABBPKKA156",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2068,8 +2068,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "814",
     "SWIFT Code": "HABBPKKA814",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2081,8 +2081,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "147",
     "SWIFT Code": "HABBPKKA147",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2094,8 +2094,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "162",
     "SWIFT Code": "HABBPKKA162",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2107,8 +2107,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "166",
     "SWIFT Code": "HABBPKKA166",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2120,8 +2120,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "574",
     "SWIFT Code": "HABBPKKA574",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2133,8 +2133,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "541",
     "SWIFT Code": "HABBPKKA541",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2146,8 +2146,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "285",
     "SWIFT Code": "HABBPKKA285",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2159,8 +2159,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "082",
     "SWIFT Code": "HABBPKKA082",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2172,8 +2172,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "170",
     "SWIFT Code": "HABBPKKA170",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2185,8 +2185,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "464",
     "SWIFT Code": "HABBPKKA464",
     "Bank Name": "HABIB BANK LIMITED",
@@ -2198,8 +2198,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "CEF",
     "SWIFT Code": "MPBLPKKACEF",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2211,8 +2211,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "009",
     "SWIFT Code": "MPBLPKKA009",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2224,8 +2224,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "054",
     "SWIFT Code": "MPBLPKKA054",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2237,8 +2237,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "019",
     "SWIFT Code": "MPBLPKKA019",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2250,8 +2250,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "007",
     "SWIFT Code": "MPBLPKKA007",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2263,8 +2263,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "047",
     "SWIFT Code": "MPBLPKKA047",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2276,8 +2276,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "010",
     "SWIFT Code": "MPBLPKKA010",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2289,8 +2289,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "MPBLPKKA",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2302,8 +2302,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "029",
     "SWIFT Code": "MPBLPKKA029",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2315,8 +2315,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "081",
     "SWIFT Code": "MPBLPKKA081",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2328,8 +2328,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "051",
     "SWIFT Code": "MPBLPKKA051",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2341,8 +2341,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "065",
     "SWIFT Code": "MPBLPKKA065",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2354,8 +2354,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "CIU",
     "SWIFT Code": "MPBLPKKACIU",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2367,8 +2367,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "CEU",
     "SWIFT Code": "MPBLPKKACEU",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2380,8 +2380,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "CRU",
     "SWIFT Code": "MPBLPKKACRU",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2393,8 +2393,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "040",
     "SWIFT Code": "MPBLPKKA040",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2406,8 +2406,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "058",
     "SWIFT Code": "MPBLPKKA058",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2419,8 +2419,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "011",
     "SWIFT Code": "MPBLPKKA011",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2432,8 +2432,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "024",
     "SWIFT Code": "MPBLPKKA024",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2445,8 +2445,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "077",
     "SWIFT Code": "MPBLPKKA077",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2458,8 +2458,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "033",
     "SWIFT Code": "MPBLPKKA033",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2471,8 +2471,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "078",
     "SWIFT Code": "MPBLPKKA078",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2484,8 +2484,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "037",
     "SWIFT Code": "MPBLPKKA037",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2497,8 +2497,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "014",
     "SWIFT Code": "MPBLPKKA014",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2510,8 +2510,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "068",
     "SWIFT Code": "MPBLPKKA068",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2523,8 +2523,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "057",
     "SWIFT Code": "MPBLPKKA057",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2536,8 +2536,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "052",
     "SWIFT Code": "MPBLPKKA052",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2549,8 +2549,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "031",
     "SWIFT Code": "MPBLPKKA031",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2562,8 +2562,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "043",
     "SWIFT Code": "MPBLPKKA043",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2575,8 +2575,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "IBD",
     "SWIFT Code": "MPBLPKKAIBD",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2588,8 +2588,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "064",
     "SWIFT Code": "MPBLPKKA064",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2601,8 +2601,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "015",
     "SWIFT Code": "MPBLPKKA015",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2614,8 +2614,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "018",
     "SWIFT Code": "MPBLPKKA018",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2627,8 +2627,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "022",
     "SWIFT Code": "MPBLPKKA022",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2640,8 +2640,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "038",
     "SWIFT Code": "MPBLPKKA038",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2653,8 +2653,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "030",
     "SWIFT Code": "MPBLPKKA030",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2666,8 +2666,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "070",
     "SWIFT Code": "MPBLPKKA070",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2679,8 +2679,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "026",
     "SWIFT Code": "MPBLPKKA026",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2692,8 +2692,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "062",
     "SWIFT Code": "MPBLPKKA062",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2705,8 +2705,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "039",
     "SWIFT Code": "MPBLPKKA039",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2718,8 +2718,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "083",
     "SWIFT Code": "MPBLPKKA083",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2731,8 +2731,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "020",
     "SWIFT Code": "MPBLPKKA020",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2744,8 +2744,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "001",
     "SWIFT Code": "MPBLPKKA001",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2757,8 +2757,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "075",
     "SWIFT Code": "MPBLPKKA075",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2770,8 +2770,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "063",
     "SWIFT Code": "MPBLPKKA063",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2783,8 +2783,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "056",
     "SWIFT Code": "MPBLPKKA056",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2796,8 +2796,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "073",
     "SWIFT Code": "MPBLPKKA073",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2809,8 +2809,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "035",
     "SWIFT Code": "MPBLPKKA035",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2822,8 +2822,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "021",
     "SWIFT Code": "MPBLPKKA021",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2835,8 +2835,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "071",
     "SWIFT Code": "MPBLPKKA071",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2848,8 +2848,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "EPZ",
     "SWIFT Code": "MPBLPKKAEPZ",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2861,8 +2861,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "013",
     "SWIFT Code": "MPBLPKKA013",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2874,8 +2874,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "041",
     "SWIFT Code": "MPBLPKKA041",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2887,8 +2887,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "059",
     "SWIFT Code": "MPBLPKKA059",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2900,8 +2900,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "066",
     "SWIFT Code": "MPBLPKKA066",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2913,8 +2913,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "072",
     "SWIFT Code": "MPBLPKKA072",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2926,8 +2926,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "MPBLPKKARDA",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2939,8 +2939,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "023",
     "SWIFT Code": "MPBLPKKA023",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2952,8 +2952,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "028",
     "SWIFT Code": "MPBLPKKA028",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2965,8 +2965,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "012",
     "SWIFT Code": "MPBLPKKA012",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2978,8 +2978,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "045",
     "SWIFT Code": "MPBLPKKA045",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -2991,8 +2991,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "060",
     "SWIFT Code": "MPBLPKKA060",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3004,8 +3004,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "079",
     "SWIFT Code": "MPBLPKKA079",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3017,8 +3017,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "042",
     "SWIFT Code": "MPBLPKKA042",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3030,8 +3030,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "027",
     "SWIFT Code": "MPBLPKKA027",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3043,8 +3043,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "092",
     "SWIFT Code": "MPBLPKKA092",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3056,8 +3056,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "080",
     "SWIFT Code": "MPBLPKKA080",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3069,8 +3069,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "050",
     "SWIFT Code": "MPBLPKKA050",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3082,8 +3082,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "044",
     "SWIFT Code": "MPBLPKKA044",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3095,8 +3095,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "017",
     "SWIFT Code": "MPBLPKKA017",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3108,8 +3108,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "046",
     "SWIFT Code": "MPBLPKKA046",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3121,8 +3121,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "067",
     "SWIFT Code": "MPBLPKKA067",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3134,8 +3134,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "CEL",
     "SWIFT Code": "MPBLPKKACEL",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3147,8 +3147,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "032",
     "SWIFT Code": "MPBLPKKA032",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3160,8 +3160,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "053",
     "SWIFT Code": "MPBLPKKA053",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3173,8 +3173,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "034",
     "SWIFT Code": "MPBLPKKA034",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3186,8 +3186,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "074",
     "SWIFT Code": "MPBLPKKA074",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3199,8 +3199,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "025",
     "SWIFT Code": "MPBLPKKA025",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3212,8 +3212,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "082",
     "SWIFT Code": "MPBLPKKA082",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3225,8 +3225,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "002",
     "SWIFT Code": "MPBLPKKA002",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -3238,8 +3238,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "115",
     "SWIFT Code": "FAYSPKKA115",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -3251,8 +3251,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "120",
     "SWIFT Code": "FAYSPKKA120",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -3264,8 +3264,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "122",
     "SWIFT Code": "FAYSPKKA122",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -3277,8 +3277,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FWOM",
-    "bankCode": "PK",
+    "bankCode": "FWOM",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "FWOMPKKA",
     "Bank Name": "FIRST WOMEN BANK LIMITED",
@@ -3290,8 +3290,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "852",
     "SWIFT Code": "HABBPKKA852",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3303,8 +3303,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "143",
     "SWIFT Code": "HABBPKKA143",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3316,8 +3316,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "152",
     "SWIFT Code": "HABBPKKA152",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3329,8 +3329,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "683",
     "SWIFT Code": "HABBPKKA683",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3342,8 +3342,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "748",
     "SWIFT Code": "HABBPKKA748",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3355,8 +3355,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "109",
     "SWIFT Code": "HABBPKKA109",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3368,8 +3368,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "682",
     "SWIFT Code": "HABBPKKA682",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3381,8 +3381,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "111",
     "SWIFT Code": "HABBPKKA111",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3394,8 +3394,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "260",
     "SWIFT Code": "HABBPKKA260",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3407,8 +3407,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "068",
     "SWIFT Code": "HABBPKKA068",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3420,8 +3420,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "602",
     "SWIFT Code": "HABBPKKA602",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3433,8 +3433,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "874",
     "SWIFT Code": "HABBPKKA874",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3446,8 +3446,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "114",
     "SWIFT Code": "HABBPKKA114",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3459,8 +3459,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "HABBPKKA",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3472,8 +3472,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "526",
     "SWIFT Code": "HABBPKKA526",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3485,8 +3485,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "786",
     "SWIFT Code": "HABBPKKA786",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3498,8 +3498,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "TIC",
     "SWIFT Code": "HABBPKKATIC",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3511,8 +3511,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "004",
     "SWIFT Code": "HABBPKKA004",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3524,8 +3524,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "048",
     "SWIFT Code": "HABBPKKA048",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3537,8 +3537,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "216",
     "SWIFT Code": "HABBPKKA216",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3550,8 +3550,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "007",
     "SWIFT Code": "HABBPKKA007",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3563,8 +3563,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "HABBPKKATRY",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3576,8 +3576,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "947",
     "SWIFT Code": "HABBPKKA947",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3589,8 +3589,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "ISL",
     "SWIFT Code": "HABBPKKAISL",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3602,8 +3602,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "023",
     "SWIFT Code": "HABBPKKA023",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3615,8 +3615,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "027",
     "SWIFT Code": "HABBPKKA027",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3628,8 +3628,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "EPZ",
     "SWIFT Code": "HABBPKKAEPZ",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3641,8 +3641,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "REC",
     "SWIFT Code": "HABBPKKAREC",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3654,8 +3654,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "HABBPKKARDA",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3667,8 +3667,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "RTG",
     "SWIFT Code": "HABBPKKARTG",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3680,8 +3680,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "034",
     "SWIFT Code": "HABBPKKA034",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3693,8 +3693,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "033",
     "SWIFT Code": "HABBPKKA033",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3706,8 +3706,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "038",
     "SWIFT Code": "HABBPKKA038",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3719,8 +3719,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "122",
     "SWIFT Code": "HABBPKKA122",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3732,8 +3732,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "124",
     "SWIFT Code": "HABBPKKA124",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3745,8 +3745,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "125",
     "SWIFT Code": "HABBPKKA125",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3758,8 +3758,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "242",
     "SWIFT Code": "HABBPKKA242",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3771,8 +3771,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "315",
     "SWIFT Code": "HABBPKKA315",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3784,8 +3784,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "172",
     "SWIFT Code": "HABBPKKA172",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3797,8 +3797,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "617",
     "SWIFT Code": "HABBPKKA617",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3810,8 +3810,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "741",
     "SWIFT Code": "HABBPKKA741",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3823,8 +3823,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "589",
     "SWIFT Code": "HABBPKKA589",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3836,8 +3836,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "134",
     "SWIFT Code": "HABBPKKA134",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3849,8 +3849,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "135",
     "SWIFT Code": "HABBPKKA135",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3862,8 +3862,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "552",
     "SWIFT Code": "HABBPKKA552",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3875,8 +3875,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "PK",
+    "bankCode": "HABB",
+    "countryCode": "PK",
     "branchCode": "190",
     "SWIFT Code": "HABBPKKA190",
     "Bank Name": "HABIB BANK LIMITED",
@@ -3888,8 +3888,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "ALFHPKKA",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3901,8 +3901,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "CCL",
     "SWIFT Code": "ALFHPKKACCL",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3914,8 +3914,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "CED",
     "SWIFT Code": "ALFHPKKACED",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3927,8 +3927,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "CGD",
     "SWIFT Code": "ALFHPKKACGD",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3940,8 +3940,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "CID",
     "SWIFT Code": "ALFHPKKACID",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3953,8 +3953,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "CIT",
     "SWIFT Code": "ALFHPKKACIT",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3966,8 +3966,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "CRD",
     "SWIFT Code": "ALFHPKKACRD",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3979,8 +3979,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "505",
     "SWIFT Code": "ALFHPKKA505",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -3992,8 +3992,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "ALFHPKKARDA",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -4005,8 +4005,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "ALFHPKKATRY",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -4018,8 +4018,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "GBL",
     "SWIFT Code": "ALFHPKKAGBL",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -4031,8 +4031,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "285",
     "SWIFT Code": "ALFHPKKA285",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -4044,8 +4044,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "PK",
+    "bankCode": "ALFH",
+    "countryCode": "PK",
     "branchCode": "SKT",
     "SWIFT Code": "ALFHPKKASKT",
     "Bank Name": "BANK ALFALAH LIMITED",
@@ -4057,8 +4057,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUMB",
-    "bankCode": "PK",
+    "bankCode": "SUMB",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "SUMBPKKA",
     "Bank Name": "BANK MAKRAMAH LIMITED (FORMERLY SUMMIT BANK LIMITED)",
@@ -4070,8 +4070,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUMB",
-    "bankCode": "PK",
+    "bankCode": "SUMB",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "SUMBPKKATRY",
     "Bank Name": "BANK MAKRAMAH LIMITED (FORMERLY SUMMIT BANK LIMITED)",
@@ -4083,8 +4083,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUMB",
-    "bankCode": "PK",
+    "bankCode": "SUMB",
+    "countryCode": "PK",
     "branchCode": "IBG",
     "SWIFT Code": "SUMBPKKAIBG",
     "Bank Name": "BANK MAKRAMAH LIMITED (FORMERLY SUMMIT BANK LIMITED)",
@@ -4096,8 +4096,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUMB",
-    "bankCode": "PK",
+    "bankCode": "SUMB",
+    "countryCode": "PK",
     "branchCode": "KHI",
     "SWIFT Code": "SUMBPKKAKHI",
     "Bank Name": "BANK MAKRAMAH LIMITED (FORMERLY SUMMIT BANK LIMITED)",
@@ -4109,8 +4109,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUMB",
-    "bankCode": "PK",
+    "bankCode": "SUMB",
+    "countryCode": "PK",
     "branchCode": "LHE",
     "SWIFT Code": "SUMBPKKALHE",
     "Bank Name": "BANK MAKRAMAH LIMITED (FORMERLY SUMMIT BANK LIMITED)",
@@ -4122,8 +4122,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PK",
+    "bankCode": "BKCH",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "BKCHPKKA",
     "Bank Name": "BANK OF CHINA LIMITED KARACHI BRANCH",
@@ -4135,8 +4135,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHYB",
-    "bankCode": "PK",
+    "bankCode": "KHYB",
+    "countryCode": "PK",
     "branchCode": "024",
     "SWIFT Code": "KHYBPKKA024",
     "Bank Name": "BANK OF KHYBER, THE",
@@ -4148,8 +4148,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHYB",
-    "bankCode": "PK",
+    "bankCode": "KHYB",
+    "countryCode": "PK",
     "branchCode": "TRY",
     "SWIFT Code": "KHYBPKKATRY",
     "Bank Name": "BANK OF KHYBER, THE",
@@ -4161,8 +4161,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHYB",
-    "bankCode": "PK",
+    "bankCode": "KHYB",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "KHYBPKKA",
     "Bank Name": "BANK OF KHYBER, THE",
@@ -4174,8 +4174,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKIP",
-    "bankCode": "PK",
+    "bankCode": "BKIP",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "BKIPPKKA",
     "Bank Name": "BANKISLAMI PAKISTAN LIMITED",
@@ -4187,8 +4187,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSPV",
-    "bankCode": "PK",
+    "bankCode": "CSPV",
+    "countryCode": "PK",
     "branchCode": "KK2",
     "SWIFT Code": "CSPVPKK2",
     "Bank Name": "CHASE SECURITIES PAKISTAN (PRIVATE) LIMITED",
@@ -4200,8 +4200,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PK",
+    "bankCode": "CITI",
+    "countryCode": "PK",
     "branchCode": "FAI",
     "SWIFT Code": "CITIPKKXFAI",
     "Bank Name": "CITIBANK N.A.",
@@ -4213,8 +4213,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PK",
+    "bankCode": "CITI",
+    "countryCode": "PK",
     "branchCode": "KKX",
     "SWIFT Code": "CITIPKKX",
     "Bank Name": "CITIBANK N.A.",
@@ -4226,8 +4226,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PK",
+    "bankCode": "CITI",
+    "countryCode": "PK",
     "branchCode": "TRD",
     "SWIFT Code": "CITIPKKXTRD",
     "Bank Name": "CITIBANK N.A.",
@@ -4239,8 +4239,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PK",
+    "bankCode": "CITI",
+    "countryCode": "PK",
     "branchCode": "LAH",
     "SWIFT Code": "CITIPKKXLAH",
     "Bank Name": "CITIBANK N.A.",
@@ -4252,8 +4252,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PK",
+    "bankCode": "CITI",
+    "countryCode": "PK",
     "branchCode": "RAW",
     "SWIFT Code": "CITIPKKXRAW",
     "Bank Name": "CITIBANK N.A.",
@@ -4265,8 +4265,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PK",
+    "bankCode": "DEUT",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "DEUTPKKA",
     "Bank Name": "DEUTSCHE BANK AG, KARACHI BRANCH",
@@ -4278,8 +4278,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PK",
+    "bankCode": "DEUT",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "DEUTPKKALHR",
     "Bank Name": "DEUTSCHE BANK AG, KARACHI BRANCH",
@@ -4291,8 +4291,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "PK",
+    "bankCode": "DUIB",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "DUIBPKKA",
     "Bank Name": "DUBAI ISLAMIC BANK PAKISTAN LIMITED",
@@ -4304,8 +4304,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "PK",
+    "bankCode": "DUIB",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "DUIBPKKARDA",
     "Bank Name": "DUBAI ISLAMIC BANK PAKISTAN LIMITED",
@@ -4317,8 +4317,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "111",
     "SWIFT Code": "FAYSPKKA111",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4330,8 +4330,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "126",
     "SWIFT Code": "FAYSPKKA126",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4343,8 +4343,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "113",
     "SWIFT Code": "FAYSPKKA113",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4356,8 +4356,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "FAYSPKKA",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4369,8 +4369,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "118",
     "SWIFT Code": "FAYSPKKA118",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4382,8 +4382,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "124",
     "SWIFT Code": "FAYSPKKA124",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4395,8 +4395,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "119",
     "SWIFT Code": "FAYSPKKA119",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4408,8 +4408,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "IBD",
     "SWIFT Code": "FAYSPKKAIBD",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4421,8 +4421,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "123",
     "SWIFT Code": "FAYSPKKA123",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4434,8 +4434,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "FAYSPKKARDA",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4447,8 +4447,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "127",
     "SWIFT Code": "FAYSPKKA127",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4460,8 +4460,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "125",
     "SWIFT Code": "FAYSPKKA125",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4473,8 +4473,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "117",
     "SWIFT Code": "FAYSPKKA117",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4486,8 +4486,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "112",
     "SWIFT Code": "FAYSPKKA112",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4499,8 +4499,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "116",
     "SWIFT Code": "FAYSPKKA116",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4512,8 +4512,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "121",
     "SWIFT Code": "FAYSPKKA121",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4525,8 +4525,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAYS",
-    "bankCode": "PK",
+    "bankCode": "FAYS",
+    "countryCode": "PK",
     "branchCode": "114",
     "SWIFT Code": "FAYSPKKA114",
     "Bank Name": "FAYSAL BANK LIMITED",
@@ -4538,8 +4538,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "061",
     "SWIFT Code": "MPBLPKKA061",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4551,8 +4551,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "048",
     "SWIFT Code": "MPBLPKKA048",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4564,8 +4564,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "069",
     "SWIFT Code": "MPBLPKKA069",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4577,8 +4577,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "076",
     "SWIFT Code": "MPBLPKKA076",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4590,8 +4590,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "084",
     "SWIFT Code": "MPBLPKKA084",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4603,8 +4603,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "005",
     "SWIFT Code": "MPBLPKKA005",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4616,8 +4616,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "008",
     "SWIFT Code": "MPBLPKKA008",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4629,8 +4629,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "003",
     "SWIFT Code": "MPBLPKKA003",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4642,8 +4642,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "004",
     "SWIFT Code": "MPBLPKKA004",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4655,8 +4655,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "016",
     "SWIFT Code": "MPBLPKKA016",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4668,8 +4668,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "055",
     "SWIFT Code": "MPBLPKKA055",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4681,8 +4681,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "036",
     "SWIFT Code": "MPBLPKKA036",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4694,8 +4694,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "CES",
     "SWIFT Code": "MPBLPKKACES",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4707,8 +4707,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "006",
     "SWIFT Code": "MPBLPKKA006",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4720,8 +4720,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBL",
-    "bankCode": "PK",
+    "bankCode": "MPBL",
+    "countryCode": "PK",
     "branchCode": "049",
     "SWIFT Code": "MPBLPKKA049",
     "Bank Name": "HABIB METROPOLITAN BANK LIMITED",
@@ -4733,8 +4733,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "PK",
+    "bankCode": "ICBK",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "ICBKPKKA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, KARACHI BRANCH",
@@ -4746,8 +4746,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "PK",
+    "bankCode": "ICBK",
+    "countryCode": "PK",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKPKKACLR",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, KARACHI BRANCH",
@@ -4759,8 +4759,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSBL",
-    "bankCode": "PK",
+    "bankCode": "JSBL",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "JSBLPKKA",
     "Bank Name": "JS BANK LIMITED",
@@ -4772,8 +4772,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSBL",
-    "bankCode": "PK",
+    "bankCode": "JSBL",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "JSBLPKKARDA",
     "Bank Name": "JS BANK LIMITED",
@@ -4785,8 +4785,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSBL",
-    "bankCode": "PK",
+    "bankCode": "JSBL",
+    "countryCode": "PK",
     "branchCode": "LHR",
     "SWIFT Code": "JSBLPKKALHR",
     "Bank Name": "JS BANK LIMITED",
@@ -4798,8 +4798,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTSE",
-    "bankCode": "PK",
+    "bankCode": "KTSE",
+    "countryCode": "PK",
     "branchCode": "KK2",
     "SWIFT Code": "KTSEPKK2",
     "Bank Name": "KTRADE SECURITIES LIMITED",
@@ -4811,8 +4811,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "CRF",
     "SWIFT Code": "MUCBPKKACRF",
     "Bank Name": "MCB BANK LIMITED",
@@ -4824,8 +4824,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSF",
     "SWIFT Code": "MUCBPKKATSF",
     "Bank Name": "MCB BANK LIMITED",
@@ -4837,8 +4837,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "BSG",
     "SWIFT Code": "MUCBPKKABSG",
     "Bank Name": "MCB BANK LIMITED",
@@ -4850,8 +4850,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSG",
     "SWIFT Code": "MUCBPKKATSG",
     "Bank Name": "MCB BANK LIMITED",
@@ -4863,8 +4863,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "MCC",
     "SWIFT Code": "MUCBPKKAMCC",
     "Bank Name": "MCB BANK LIMITED",
@@ -4876,8 +4876,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSI",
     "SWIFT Code": "MUCBPKKATSI",
     "Bank Name": "MCB BANK LIMITED",
@@ -4889,8 +4889,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "MUCBPKKA",
     "Bank Name": "MCB BANK LIMITED",
@@ -4902,8 +4902,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "SCK",
     "SWIFT Code": "MUCBPKKASCK",
     "Bank Name": "MCB BANK LIMITED",
@@ -4915,8 +4915,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "EPZ",
     "SWIFT Code": "MUCBPKKAEPZ",
     "Bank Name": "MCB BANK LIMITED",
@@ -4928,8 +4928,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "JBK",
     "SWIFT Code": "MUCBPKKAJBK",
     "Bank Name": "MCB BANK LIMITED",
@@ -4941,8 +4941,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "MBK",
     "SWIFT Code": "MUCBPKKAMBK",
     "Bank Name": "MCB BANK LIMITED",
@@ -4954,8 +4954,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "NCK",
     "SWIFT Code": "MUCBPKKANCK",
     "Bank Name": "MCB BANK LIMITED",
@@ -4967,8 +4967,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSK",
     "SWIFT Code": "MUCBPKKATSK",
     "Bank Name": "MCB BANK LIMITED",
@@ -4980,8 +4980,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "RTG",
     "SWIFT Code": "MUCBPKKARTG",
     "Bank Name": "MCB BANK LIMITED",
@@ -4993,8 +4993,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "NGL",
     "SWIFT Code": "MUCBPKKANGL",
     "Bank Name": "MCB BANK LIMITED",
@@ -5006,8 +5006,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "MUCBPKKARDA",
     "Bank Name": "MCB BANK LIMITED",
@@ -5019,8 +5019,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSL",
     "SWIFT Code": "MUCBPKKATSL",
     "Bank Name": "MCB BANK LIMITED",
@@ -5032,8 +5032,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "HAM",
     "SWIFT Code": "MUCBPKKAHAM",
     "Bank Name": "MCB BANK LIMITED",
@@ -5045,8 +5045,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSM",
     "SWIFT Code": "MUCBPKKATSM",
     "Bank Name": "MCB BANK LIMITED",
@@ -5058,8 +5058,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "CYP",
     "SWIFT Code": "MUCBPKKACYP",
     "Bank Name": "MCB BANK LIMITED",
@@ -5071,8 +5071,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSP",
     "SWIFT Code": "MUCBPKKATSP",
     "Bank Name": "MCB BANK LIMITED",
@@ -5084,8 +5084,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TSS",
     "SWIFT Code": "MUCBPKKATSS",
     "Bank Name": "MCB BANK LIMITED",
@@ -5097,8 +5097,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "PK",
+    "bankCode": "MUCB",
+    "countryCode": "PK",
     "branchCode": "TBS",
     "SWIFT Code": "MUCBPKKATBS",
     "Bank Name": "MCB BANK LIMITED",
@@ -5110,8 +5110,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCIB",
-    "bankCode": "PK",
+    "bankCode": "MCIB",
+    "countryCode": "PK",
     "branchCode": "KKI",
     "SWIFT Code": "MCIBPKKI",
     "Bank Name": "MCB ISLAMIC BANK LIMITED",
@@ -5123,8 +5123,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "FSD",
     "SWIFT Code": "MEZNPKKAFSD",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -5136,8 +5136,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "GRW",
     "SWIFT Code": "MEZNPKKAGRW",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -5149,8 +5149,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "ISD",
     "SWIFT Code": "MEZNPKKAISD",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -5162,8 +5162,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "IS2",
     "SWIFT Code": "MEZNPKKAIS2",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -5175,8 +5175,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEZN",
-    "bankCode": "PK",
+    "bankCode": "MEZN",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "MEZNPKKA",
     "Bank Name": "MEEZAN BANK LIMITED",
@@ -5188,8 +5188,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "024",
     "SWIFT Code": "BPUNPKKA024",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5201,8 +5201,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "052",
     "SWIFT Code": "BPUNPKKA052",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5214,8 +5214,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "002",
     "SWIFT Code": "BPUNPKKA002",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5227,8 +5227,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "BPUNPKKARDA",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5240,8 +5240,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "IBD",
     "SWIFT Code": "BPUNPKKAIBD",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5253,8 +5253,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "004",
     "SWIFT Code": "BPUNPKKA004",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5266,8 +5266,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "241",
     "SWIFT Code": "BPUNPKKA241",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5279,8 +5279,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPUN",
-    "bankCode": "PK",
+    "bankCode": "BPUN",
+    "countryCode": "PK",
     "branchCode": "014",
     "SWIFT Code": "BPUNPKKA014",
     "Bank Name": "THE BANK OF PUNJAB",
@@ -5292,8 +5292,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "686",
     "SWIFT Code": "UNILPKKA686",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5305,8 +5305,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "741",
     "SWIFT Code": "UNILPKKA741",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5318,8 +5318,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "KKA",
     "SWIFT Code": "UNILPKKA",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5331,8 +5331,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "RDA",
     "SWIFT Code": "UNILPKKARDA",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5344,8 +5344,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "TFC",
     "SWIFT Code": "UNILPKKATFC",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5357,8 +5357,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "IMB",
     "SWIFT Code": "UNILPKKAIMB",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5370,8 +5370,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "028",
     "SWIFT Code": "UNILPKKA028",
     "Bank Name": "UNITED BANK LIMITED",
@@ -5383,8 +5383,8 @@ const pakistan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "PK",
+    "bankCode": "UNIL",
+    "countryCode": "PK",
     "branchCode": "939",
     "SWIFT Code": "UNILPKKA939",
     "Bank Name": "UNITED BANK LIMITED",

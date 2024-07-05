@@ -1,7 +1,7 @@
 const luxembourg = [
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AMC",
     "SWIFT Code": "CLAOLU2LAMC",
     "Bank Name": "CALASTONE LIMITED",
@@ -13,8 +13,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ART",
     "SWIFT Code": "CLAOLU2LART",
     "Bank Name": "CALASTONE LIMITED",
@@ -26,8 +26,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AVI",
     "SWIFT Code": "CLAOLU2LAVI",
     "Bank Name": "CALASTONE LIMITED",
@@ -39,8 +39,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AXM",
     "SWIFT Code": "CLAOLU2LAXM",
     "Bank Name": "CALASTONE LIMITED",
@@ -52,8 +52,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AXF",
     "SWIFT Code": "CLAOLU2LAXF",
     "Bank Name": "CALASTONE LIMITED",
@@ -65,8 +65,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AZL",
     "SWIFT Code": "CLAOLU2LAZL",
     "Bank Name": "CALASTONE LIMITED",
@@ -78,8 +78,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BAD",
     "SWIFT Code": "CLAOLU2LBAD",
     "Bank Name": "CALASTONE LIMITED",
@@ -91,8 +91,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BAL",
     "SWIFT Code": "CLAOLU2LBAL",
     "Bank Name": "CALASTONE LIMITED",
@@ -104,8 +104,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BAN",
     "SWIFT Code": "CLAOLU2LBAN",
     "Bank Name": "CALASTONE LIMITED",
@@ -117,8 +117,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BLA",
     "SWIFT Code": "CLAOLU2LBLA",
     "Bank Name": "CALASTONE LIMITED",
@@ -130,8 +130,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BNY",
     "SWIFT Code": "CLAOLU2LBNY",
     "Bank Name": "CALASTONE LIMITED",
@@ -144,8 +144,8 @@ const luxembourg = [
   },
   {},
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BPO",
     "SWIFT Code": "CLAOLU2LBPO",
     "Bank Name": "CALASTONE LIMITED",
@@ -158,8 +158,8 @@ const luxembourg = [
   },
   {},
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ABL",
     "SWIFT Code": "CLAOLU2LABL",
     "Bank Name": "CALASTONE LIMITED",
@@ -171,8 +171,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DST",
     "SWIFT Code": "CLAOLU2LDST",
     "Bank Name": "CALASTONE LIMITED",
@@ -184,8 +184,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PRF",
     "SWIFT Code": "CLAOLU2LPRF",
     "Bank Name": "CALASTONE LIMITED",
@@ -197,8 +197,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "REN",
     "SWIFT Code": "CLAOLU2LREN",
     "Bank Name": "CALASTONE LIMITED",
@@ -210,8 +210,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FAC",
     "SWIFT Code": "CLAOLU2LFAC",
     "Bank Name": "CALASTONE LIMITED",
@@ -223,8 +223,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ASH",
     "SWIFT Code": "CLAOLU2LASH",
     "Bank Name": "CALASTONE LIMITED",
@@ -236,8 +236,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HDD",
     "SWIFT Code": "CLAOLU2LHDD",
     "Bank Name": "CALASTONE LIMITED",
@@ -249,8 +249,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RTH",
     "SWIFT Code": "CLAOLU2LRTH",
     "Bank Name": "CALASTONE LIMITED",
@@ -262,8 +262,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SSL",
     "SWIFT Code": "CLAOLU2LSSL",
     "Bank Name": "CALASTONE LIMITED",
@@ -275,8 +275,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PIO",
     "SWIFT Code": "CLAOLU2LPIO",
     "Bank Name": "CALASTONE LIMITED",
@@ -288,8 +288,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SEB",
     "SWIFT Code": "CLAOLU2LSEB",
     "Bank Name": "CALASTONE LIMITED",
@@ -301,8 +301,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ADD",
     "SWIFT Code": "CLAOLU2LADD",
     "Bank Name": "CALASTONE LIMITED",
@@ -314,8 +314,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ALU",
     "SWIFT Code": "CLAOLU2LALU",
     "Bank Name": "CALASTONE LIMITED",
@@ -327,8 +327,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AVW",
     "SWIFT Code": "CLAOLU2LAVW",
     "Bank Name": "CALASTONE LIMITED",
@@ -340,8 +340,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AXW",
     "SWIFT Code": "CLAOLU2LAXW",
     "Bank Name": "CALASTONE LIMITED",
@@ -353,8 +353,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AXZ",
     "SWIFT Code": "CLAOLU2LAXZ",
     "Bank Name": "CALASTONE LIMITED",
@@ -366,8 +366,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BLK",
     "SWIFT Code": "CLAOLU2LBLK",
     "Bank Name": "CALASTONE LIMITED",
@@ -379,8 +379,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BLI",
     "SWIFT Code": "CLAOLU2LBLI",
     "Bank Name": "CALASTONE LIMITED",
@@ -392,8 +392,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CDD",
     "SWIFT Code": "CLAOLU2LCDD",
     "Bank Name": "CALASTONE LIMITED",
@@ -405,8 +405,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CFT",
     "SWIFT Code": "CLAOLU2LCFT",
     "Bank Name": "CALASTONE LIMITED",
@@ -418,8 +418,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CGW",
     "SWIFT Code": "CLAOLU2LCGW",
     "Bank Name": "CALASTONE LIMITED",
@@ -431,8 +431,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BOF",
     "SWIFT Code": "CLAOLU2LBOF",
     "Bank Name": "CALASTONE LIMITED",
@@ -444,8 +444,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BON",
     "SWIFT Code": "CLAOLU2LBON",
     "Bank Name": "CALASTONE LIMITED",
@@ -457,8 +457,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WDB",
     "SWIFT Code": "CLAOLU2LWDB",
     "Bank Name": "CALASTONE LIMITED",
@@ -470,8 +470,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "COM",
     "SWIFT Code": "CLAOLU2LCOM",
     "Bank Name": "CALASTONE LIMITED",
@@ -483,8 +483,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DSP",
     "SWIFT Code": "CLAOLU2LDSP",
     "Bank Name": "CALASTONE LIMITED",
@@ -496,8 +496,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DBU",
     "SWIFT Code": "CLAOLU2LDBU",
     "Bank Name": "CALASTONE LIMITED",
@@ -509,8 +509,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DBV",
     "SWIFT Code": "CLAOLU2LDBV",
     "Bank Name": "CALASTONE LIMITED",
@@ -522,8 +522,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DZB",
     "SWIFT Code": "CLAOLU2LDZB",
     "Bank Name": "CALASTONE LIMITED",
@@ -535,8 +535,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "EFA",
     "SWIFT Code": "CLAOLU2LEFA",
     "Bank Name": "CALASTONE LIMITED",
@@ -548,8 +548,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "EFG",
     "SWIFT Code": "CLAOLU2LEFG",
     "Bank Name": "CALASTONE LIMITED",
@@ -561,8 +561,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FEB",
     "SWIFT Code": "CLAOLU2LFEB",
     "Bank Name": "CALASTONE LIMITED",
@@ -574,8 +574,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FSL",
     "SWIFT Code": "CLAOLU2LFSL",
     "Bank Name": "CALASTONE LIMITED",
@@ -587,8 +587,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "GOL",
     "SWIFT Code": "CLAOLU2LGOL",
     "Bank Name": "CALASTONE LIMITED",
@@ -600,8 +600,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HHL",
     "SWIFT Code": "CLAOLU2LHHL",
     "Bank Name": "CALASTONE LIMITED",
@@ -614,8 +614,8 @@ const luxembourg = [
   },
   {},
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CTB",
     "SWIFT Code": "CLAOLU2LCTB",
     "Bank Name": "CALASTONE LIMITED",
@@ -627,8 +627,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CTC",
     "SWIFT Code": "CLAOLU2LCTC",
     "Bank Name": "CALASTONE LIMITED",
@@ -640,8 +640,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CUS",
     "SWIFT Code": "CLAOLU2LCUS",
     "Bank Name": "CALASTONE LIMITED",
@@ -653,8 +653,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DBR",
     "SWIFT Code": "CLAOLU2LDBR",
     "Bank Name": "CALASTONE LIMITED",
@@ -666,8 +666,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "EAS",
     "SWIFT Code": "CLAOLU2LEAS",
     "Bank Name": "CALASTONE LIMITED",
@@ -679,8 +679,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ENT",
     "SWIFT Code": "CLAOLU2LENT",
     "Bank Name": "CALASTONE LIMITED",
@@ -692,8 +692,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FST",
     "SWIFT Code": "CLAOLU2LFST",
     "Bank Name": "CALASTONE LIMITED",
@@ -705,8 +705,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FTC",
     "SWIFT Code": "CLAOLU2LFTC",
     "Bank Name": "CALASTONE LIMITED",
@@ -718,8 +718,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FTL",
     "SWIFT Code": "CLAOLU2LFTL",
     "Bank Name": "CALASTONE LIMITED",
@@ -731,8 +731,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FUB",
     "SWIFT Code": "CLAOLU2LFUB",
     "Bank Name": "CALASTONE LIMITED",
@@ -744,8 +744,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FZR",
     "SWIFT Code": "CLAOLU2LFZR",
     "Bank Name": "CALASTONE LIMITED",
@@ -757,8 +757,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "GCH",
     "SWIFT Code": "CLAOLU2LGCH",
     "Bank Name": "CALASTONE LIMITED",
@@ -770,8 +770,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "GHK",
     "SWIFT Code": "CLAOLU2LGHK",
     "Bank Name": "CALASTONE LIMITED",
@@ -783,8 +783,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HAS",
     "SWIFT Code": "CLAOLU2LHAS",
     "Bank Name": "CALASTONE LIMITED",
@@ -796,8 +796,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HPB",
     "SWIFT Code": "CLAOLU2LHPB",
     "Bank Name": "CALASTONE LIMITED",
@@ -809,8 +809,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HST",
     "SWIFT Code": "CLAOLU2LHST",
     "Bank Name": "CALASTONE LIMITED",
@@ -822,8 +822,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HUW",
     "SWIFT Code": "CLAOLU2LHUW",
     "Bank Name": "CALASTONE LIMITED",
@@ -835,8 +835,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IBR",
     "SWIFT Code": "CLAOLU2LIBR",
     "Bank Name": "CALASTONE LIMITED",
@@ -848,8 +848,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "INF",
     "SWIFT Code": "CLAOLU2LINF",
     "Bank Name": "CALASTONE LIMITED",
@@ -861,8 +861,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JAB",
     "SWIFT Code": "CLAOLU2LJAB",
     "Bank Name": "CALASTONE LIMITED",
@@ -874,8 +874,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JTR",
     "SWIFT Code": "CLAOLU2LJTR",
     "Bank Name": "CALASTONE LIMITED",
@@ -887,8 +887,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KCM",
     "SWIFT Code": "CLAOLU2LKCM",
     "Bank Name": "CALASTONE LIMITED",
@@ -900,8 +900,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KLK",
     "SWIFT Code": "CLAOLU2LKLK",
     "Bank Name": "CALASTONE LIMITED",
@@ -913,8 +913,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MIU",
     "SWIFT Code": "CLAOLU2LMIU",
     "Bank Name": "CALASTONE LIMITED",
@@ -926,8 +926,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MLQ",
     "SWIFT Code": "CLAOLU2LMLQ",
     "Bank Name": "CALASTONE LIMITED",
@@ -939,8 +939,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NAV",
     "SWIFT Code": "CLAOLU2LNAV",
     "Bank Name": "CALASTONE LIMITED",
@@ -952,8 +952,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NNB",
     "SWIFT Code": "CLAOLU2LNNB",
     "Bank Name": "CALASTONE LIMITED",
@@ -965,8 +965,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NND",
     "SWIFT Code": "CLAOLU2LNND",
     "Bank Name": "CALASTONE LIMITED",
@@ -978,8 +978,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NRR",
     "SWIFT Code": "CLAOLU2LNRR",
     "Bank Name": "CALASTONE LIMITED",
@@ -991,8 +991,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NYK",
     "SWIFT Code": "CLAOLU2LNYK",
     "Bank Name": "CALASTONE LIMITED",
@@ -1004,8 +1004,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "OGP",
     "SWIFT Code": "CLAOLU2LOGP",
     "Bank Name": "CALASTONE LIMITED",
@@ -1017,8 +1017,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "OKH",
     "SWIFT Code": "CLAOLU2LOKH",
     "Bank Name": "CALASTONE LIMITED",
@@ -1030,8 +1030,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "OKX",
     "SWIFT Code": "CLAOLU2LOKX",
     "Bank Name": "CALASTONE LIMITED",
@@ -1043,8 +1043,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ORD",
     "SWIFT Code": "CLAOLU2LORD",
     "Bank Name": "CALASTONE LIMITED",
@@ -1056,8 +1056,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PAH",
     "SWIFT Code": "CLAOLU2LPAH",
     "Bank Name": "CALASTONE LIMITED",
@@ -1069,8 +1069,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PLL",
     "SWIFT Code": "CLAOLU2LPLL",
     "Bank Name": "CALASTONE LIMITED",
@@ -1082,8 +1082,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PON",
     "SWIFT Code": "CLAOLU2LPON",
     "Bank Name": "CALASTONE LIMITED",
@@ -1095,8 +1095,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PTF",
     "SWIFT Code": "CLAOLU2LPTF",
     "Bank Name": "CALASTONE LIMITED",
@@ -1108,8 +1108,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PXN",
     "SWIFT Code": "CLAOLU2LPXN",
     "Bank Name": "CALASTONE LIMITED",
@@ -1121,8 +1121,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "QWJ",
     "SWIFT Code": "CLAOLU2LQWJ",
     "Bank Name": "CALASTONE LIMITED",
@@ -1134,8 +1134,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RCE",
     "SWIFT Code": "CLAOLU2LRCE",
     "Bank Name": "CALASTONE LIMITED",
@@ -1147,8 +1147,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RSV",
     "SWIFT Code": "CLAOLU2LRSV",
     "Bank Name": "CALASTONE LIMITED",
@@ -1160,8 +1160,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RTL",
     "SWIFT Code": "CLAOLU2LRTL",
     "Bank Name": "CALASTONE LIMITED",
@@ -1173,8 +1173,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SBG",
     "SWIFT Code": "CLAOLU2LSBG",
     "Bank Name": "CALASTONE LIMITED",
@@ -1186,8 +1186,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SBR",
     "SWIFT Code": "CLAOLU2LSBR",
     "Bank Name": "CALASTONE LIMITED",
@@ -1199,8 +1199,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SCB",
     "SWIFT Code": "CLAOLU2LSCB",
     "Bank Name": "CALASTONE LIMITED",
@@ -1212,8 +1212,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SDD",
     "SWIFT Code": "CLAOLU2LSDD",
     "Bank Name": "CALASTONE LIMITED",
@@ -1225,8 +1225,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SEC",
     "SWIFT Code": "CLAOLU2LSEC",
     "Bank Name": "CALASTONE LIMITED",
@@ -1238,8 +1238,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SIC",
     "SWIFT Code": "CLAOLU2LSIC",
     "Bank Name": "CALASTONE LIMITED",
@@ -1251,8 +1251,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SKB",
     "SWIFT Code": "CLAOLU2LSKB",
     "Bank Name": "CALASTONE LIMITED",
@@ -1264,8 +1264,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLX",
-    "bankCode": "LU",
+    "bankCode": "BCLX",
+    "countryCode": "LU",
     "branchCode": "TP2",
     "SWIFT Code": "BCLXLULLTP2",
     "Bank Name": "BANQUE CENTRALE DU LUXEMBOURG",
@@ -1277,8 +1277,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLX",
-    "bankCode": "LU",
+    "bankCode": "BCLX",
+    "countryCode": "LU",
     "branchCode": "ASP",
     "SWIFT Code": "BCLXLULLASP",
     "Bank Name": "BANQUE CENTRALE DU LUXEMBOURG",
@@ -1290,8 +1290,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLX",
-    "bankCode": "LU",
+    "bankCode": "BCLX",
+    "countryCode": "LU",
     "branchCode": "ECM",
     "SWIFT Code": "BCLXLULLECM",
     "Bank Name": "BANQUE CENTRALE DU LUXEMBOURG",
@@ -1303,8 +1303,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLX",
-    "bankCode": "LU",
+    "bankCode": "BCLX",
+    "countryCode": "LU",
     "branchCode": "ERX",
     "SWIFT Code": "BCLXLULLERX",
     "Bank Name": "BANQUE CENTRALE DU LUXEMBOURG",
@@ -1316,8 +1316,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLX",
-    "bankCode": "LU",
+    "bankCode": "BCLX",
+    "countryCode": "LU",
     "branchCode": "TP1",
     "SWIFT Code": "BCLXLULLTP1",
     "Bank Name": "BANQUE CENTRALE DU LUXEMBOURG",
@@ -1329,8 +1329,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCP",
-    "bankCode": "LU",
+    "bankCode": "BPCP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BPCPLULL",
     "Bank Name": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A. SUCCURSALE DE LUXEMBOURG",
@@ -1342,8 +1342,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLUX",
-    "bankCode": "LU",
+    "bankCode": "BLUX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BLUXLULL",
     "Bank Name": "BANQUE DE LUXEMBOURG S.A.",
@@ -1355,8 +1355,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLUX",
-    "bankCode": "LU",
+    "bankCode": "BLUX",
+    "countryCode": "LU",
     "branchCode": "590",
     "SWIFT Code": "BLUXLULL590",
     "Bank Name": "BANQUE DE LUXEMBOURG S.A.",
@@ -1368,8 +1368,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBPP",
-    "bankCode": "LU",
+    "bankCode": "BBPP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BBPPLULL",
     "Bank Name": "BANQUE DE PATRIMOINES PRIVES",
@@ -1381,8 +1381,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBPP",
-    "bankCode": "LU",
+    "bankCode": "BBPP",
+    "countryCode": "LU",
     "branchCode": "100",
     "SWIFT Code": "BBPPLULL100",
     "Bank Name": "BANQUE DE PATRIMOINES PRIVES",
@@ -1394,8 +1394,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGR",
-    "bankCode": "LU",
+    "bankCode": "DEGR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DEGRLULL",
     "Bank Name": "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A.",
@@ -1407,8 +1407,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGR",
-    "bankCode": "LU",
+    "bankCode": "DEGR",
+    "countryCode": "LU",
     "branchCode": "OPC",
     "SWIFT Code": "DEGRLULLOPC",
     "Bank Name": "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A.",
@@ -1420,8 +1420,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGR",
-    "bankCode": "LU",
+    "bankCode": "DEGR",
+    "countryCode": "LU",
     "branchCode": "DPA",
     "SWIFT Code": "DEGRLULLDPA",
     "Bank Name": "BANQUE DEGROOF PETERCAM LUXEMBOURG S.A.",
@@ -1433,8 +1433,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEE",
-    "bankCode": "LU",
+    "bankCode": "BCEE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BCEELULL",
     "Bank Name": "BANQUE ET CAISSE D'EPARGNE DE L'ETAT",
@@ -1446,8 +1446,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEIL",
-    "bankCode": "LU",
+    "bankCode": "BEIL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BEILLULL",
     "Bank Name": "BANQUE EUROPEENNE D'INVESTISSEMENT- BEI/EIB",
@@ -1459,8 +1459,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAVL",
-    "bankCode": "LU",
+    "bankCode": "HAVL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "HAVLLULL",
     "Bank Name": "BANQUE HAVILLAND S.A.",
@@ -1472,8 +1472,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BILL",
-    "bankCode": "LU",
+    "bankCode": "BILL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BILLLULL",
     "Bank Name": "BANQUE INTERNATIONALE A LUXEMBOURG SA",
@@ -1485,8 +1485,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BILL",
-    "bankCode": "LU",
+    "bankCode": "BILL",
+    "countryCode": "LU",
     "branchCode": "MMD",
     "SWIFT Code": "BILLLULLMMD",
     "Bank Name": "BANQUE INTERNATIONALE A LUXEMBOURG SA",
@@ -1498,8 +1498,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAF",
-    "bankCode": "LU",
+    "bankCode": "BSAF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BSAFLULL",
     "Bank Name": "BANQUE J. SAFRA SARASIN (LUXEMBOURG) SA",
@@ -1511,8 +1511,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRA",
-    "bankCode": "LU",
+    "bankCode": "CCRA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CCRALULL",
     "Bank Name": "BANQUE RAIFFEISEN",
@@ -1524,8 +1524,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "LU",
+    "bankCode": "BARC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BARCLULL",
     "Bank Name": "BARCLAYS BANK IRELAND PLC, LUXEMBOURG BRANCH",
@@ -1537,8 +1537,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGCN",
-    "bankCode": "LU",
+    "bankCode": "BGCN",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "BGCNLUL2",
     "Bank Name": "BARINGS GLOBAL CREDIT FUND (LUX) SCSP, SICAV-SIF",
@@ -1550,8 +1550,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIFL",
-    "bankCode": "LU",
+    "bankCode": "BIFL",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "BIFLLUL2",
     "Bank Name": "BARINGS INVESTMENTS FUND (LUX) SCSP, SICAV-RAIF",
@@ -1563,8 +1563,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUFU",
-    "bankCode": "LU",
+    "bankCode": "BUFU",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "BUFULUL2",
     "Bank Name": "BARINGS UMBRELLA FUND (LUX) SCSP, SICAV-RAIF",
@@ -1576,8 +1576,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEMO",
-    "bankCode": "LU",
+    "bankCode": "BEMO",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BEMOLULL",
     "Bank Name": "BEMO EUROPE BANQUE PRIVEE",
@@ -1589,8 +1589,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGLL",
-    "bankCode": "LU",
+    "bankCode": "BGLL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BGLLLULL",
     "Bank Name": "BGL BNP PARIBAS",
@@ -1602,8 +1602,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGLL",
-    "bankCode": "LU",
+    "bankCode": "BGLL",
+    "countryCode": "LU",
     "branchCode": "ULG",
     "SWIFT Code": "BGLLLULG",
     "Bank Name": "BGL BNP PARIBAS (GLOBAL EQUITIES AND COMMODITY DERIVATIVES)",
@@ -1615,8 +1615,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHWL",
-    "bankCode": "LU",
+    "bankCode": "BHWL",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "BHWLLUL2",
     "Bank Name": "BHW BAUSPARKASSE AG NL LUXEMBURG",
@@ -1628,8 +1628,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIL",
-    "bankCode": "LU",
+    "bankCode": "BLIL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BLILLULL",
     "Bank Name": "BLI - BANQUE DE LUXEMBOURG INVESTMENTS",
@@ -1641,8 +1641,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLMF",
-    "bankCode": "LU",
+    "bankCode": "BLMF",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "BLMFLU22",
     "Bank Name": "BLUEORCHARD MICROFINANCE FUND",
@@ -1654,8 +1654,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPP",
-    "bankCode": "LU",
+    "bankCode": "BMPP",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "BMPPLUL2",
     "Bank Name": "BME SCSP",
@@ -1667,8 +1667,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LSHL",
-    "bankCode": "LU",
+    "bankCode": "LSHL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LSHLLULL",
     "Bank Name": "BNP PARIBAS LEASING SOLUTIONS S.A.",
@@ -1680,8 +1680,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "PARBLULL",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1693,8 +1693,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "FDA",
     "SWIFT Code": "PARBLULLFDA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1706,8 +1706,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "ITT",
     "SWIFT Code": "PARBLULLITT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1719,8 +1719,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "CCF",
     "SWIFT Code": "PARBLULLCCF",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1732,8 +1732,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "ISI",
     "SWIFT Code": "PARBLULLISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1745,8 +1745,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "GTP",
     "SWIFT Code": "PARBLULLGTP",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1758,8 +1758,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "DFS",
     "SWIFT Code": "PARBLULLDFS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1771,8 +1771,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "PER",
     "SWIFT Code": "PARBLULLPER",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1784,8 +1784,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "DUB",
     "SWIFT Code": "PARBLULLDUB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1797,8 +1797,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "LU",
+    "bankCode": "PARB",
+    "countryCode": "LU",
     "branchCode": "FFY",
     "SWIFT Code": "PARBLULLFFY",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -1810,8 +1810,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "LU",
+    "bankCode": "BNPA",
+    "countryCode": "LU",
     "branchCode": "ULS",
     "SWIFT Code": "BNPALULS",
     "Bank Name": "BNP PARIBAS, SUCCURSALE DE LUXEMBOURG",
@@ -1823,8 +1823,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMEC",
-    "bankCode": "LU",
+    "bankCode": "BMEC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BMECLULL",
     "Bank Name": "BPALC SUCCURSALE LUXEMBOURGEOISE",
@@ -1836,8 +1836,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLIF",
-    "bankCode": "LU",
+    "bankCode": "NLIF",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "NLIFLUL2",
     "Bank Name": "BPCE LIFE",
@@ -1849,8 +1849,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPMO",
-    "bankCode": "LU",
+    "bankCode": "BPMO",
+    "countryCode": "LU",
     "branchCode": "ULS",
     "SWIFT Code": "BPMOLULS",
     "Bank Name": "BPER BANK LUXEMBOURG SA",
@@ -1862,8 +1862,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBHC",
-    "bankCode": "LU",
+    "bankCode": "BBHC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BBHCLULL",
     "Bank Name": "BROWN BROTHERS HARRIMAN (LUXEMBOURG) S.C.A.",
@@ -1875,8 +1875,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRYR",
-    "bankCode": "LU",
+    "bankCode": "TRYR",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "TRYRLU22",
     "Bank Name": "C AND A TREASURY S.A.",
@@ -1888,8 +1888,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "LU",
+    "bankCode": "AGRI",
+    "countryCode": "LU",
     "branchCode": "ULA",
     "SWIFT Code": "AGRILULA",
     "Bank Name": "CA INDOSUEZ WEALTH (EUROPE)",
@@ -1901,8 +1901,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BSUILULL",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -1914,8 +1914,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRA",
-    "bankCode": "LU",
+    "bankCode": "MIRA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "MIRALULL",
     "Bank Name": "MIRABAUD ET CIE (EUROPE) SA",
@@ -1927,8 +1927,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUGC",
-    "bankCode": "LU",
+    "bankCode": "MUGC",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "MUGCLUL2",
     "Bank Name": "MITSUBISHI UFJ INVESTOR SERVICES AND BANKING (LUXEMBOURG) S.A.",
@@ -1940,8 +1940,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUGC",
-    "bankCode": "LU",
+    "bankCode": "MUGC",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "MUGCLULX",
     "Bank Name": "MITSUBISHI UFJ INVESTOR SERVICES AND BANKING (LUXEMBOURG) S.A.",
@@ -1953,8 +1953,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUGC",
-    "bankCode": "LU",
+    "bankCode": "MUGC",
+    "countryCode": "LU",
     "branchCode": "CLS",
     "SWIFT Code": "MUGCLUL2CLS",
     "Bank Name": "MITSUBISHI UFJ INVESTOR SERVICES AND BANKING (LUXEMBOURG) S.A.",
@@ -1966,8 +1966,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHTB",
-    "bankCode": "LU",
+    "bankCode": "MHTB",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "MHTBLULL",
     "Bank Name": "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A.",
@@ -1979,8 +1979,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHTB",
-    "bankCode": "LU",
+    "bankCode": "MHTB",
+    "countryCode": "LU",
     "branchCode": "ADM",
     "SWIFT Code": "MHTBLULLADM",
     "Bank Name": "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A.",
@@ -1992,8 +1992,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHTB",
-    "bankCode": "LU",
+    "bankCode": "MHTB",
+    "countryCode": "LU",
     "branchCode": "DTS",
     "SWIFT Code": "MHTBLULLDTS",
     "Bank Name": "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A.",
@@ -2005,8 +2005,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MELX",
-    "bankCode": "LU",
+    "bankCode": "MELX",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "MELXLU22",
     "Bank Name": "MONEX EUROPE S.A.",
@@ -2018,8 +2018,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOVE",
-    "bankCode": "LU",
+    "bankCode": "MOVE",
+    "countryCode": "LU",
     "branchCode": "GEB",
     "SWIFT Code": "MOVELULLGEB",
     "Bank Name": "MOVENTUM S.C.A.",
@@ -2031,8 +2031,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOVE",
-    "bankCode": "LU",
+    "bankCode": "MOVE",
+    "countryCode": "LU",
     "branchCode": "PAY",
     "SWIFT Code": "MOVELULLPAY",
     "Bank Name": "MOVENTUM S.C.A.",
@@ -2044,8 +2044,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOVE",
-    "bankCode": "LU",
+    "bankCode": "MOVE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "MOVELULL",
     "Bank Name": "MOVENTUM S.C.A.",
@@ -2057,8 +2057,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAMR",
-    "bankCode": "LU",
+    "bankCode": "FAMR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FAMRLULL",
     "Bank Name": "MPILO SARL",
@@ -2070,8 +2070,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "LU",
+    "bankCode": "NATX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "NATXLULL",
     "Bank Name": "NATIXIS CORPORATE AND INVESTMENT BANKING LUXEMBOURG (FORMERLY NATIXIS WEALTH MANAGEMENT LUXEMBOURG)",
@@ -2083,8 +2083,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "LU",
+    "bankCode": "NATX",
+    "countryCode": "LU",
     "branchCode": "MAR",
     "SWIFT Code": "NATXLULLMAR",
     "Bank Name": "NATIXIS CORPORATE AND INVESTMENT BANKING LUXEMBOURG (FORMERLY NATIXIS WEALTH MANAGEMENT LUXEMBOURG)",
@@ -2096,8 +2096,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXXN",
-    "bankCode": "LU",
+    "bankCode": "AXXN",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "AXXNLULL",
     "Bank Name": "NAVAXX S.A",
@@ -2109,8 +2109,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLX",
-    "bankCode": "LU",
+    "bankCode": "NBLX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "NBLXLULL",
     "Bank Name": "NOMURA BANK (LUXEMBOURG) S.A.",
@@ -2122,8 +2122,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLX",
-    "bankCode": "LU",
+    "bankCode": "NBLX",
+    "countryCode": "LU",
     "branchCode": "EUX",
     "SWIFT Code": "NBLXLULLEUX",
     "Bank Name": "NOMURA BANK (LUXEMBOURG) S.A.",
@@ -2135,8 +2135,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOLA",
-    "bankCode": "LU",
+    "bankCode": "NOLA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "NOLALULL",
     "Bank Name": "NORD/LB LUXEMBOURG S.A. COVERED BOND BANK",
@@ -2148,8 +2148,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEA",
-    "bankCode": "LU",
+    "bankCode": "NDEA",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "NDEALUL2",
     "Bank Name": "NORDEA INVESTMENT FUNDS S.A.",
@@ -2161,8 +2161,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSF",
-    "bankCode": "LU",
+    "bankCode": "UBSF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "UBSFLULL",
     "Bank Name": "NORTHERN TRUST GLOBAL SERVICES SE",
@@ -2174,8 +2174,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "LU",
+    "bankCode": "CNOR",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "CNORLULX",
     "Bank Name": "NORTHERN TRUST GLOBAL SERVICES SE",
@@ -2187,8 +2187,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "LU",
+    "bankCode": "CNOR",
+    "countryCode": "LU",
     "branchCode": "RAS",
     "SWIFT Code": "CNORLULXRAS",
     "Bank Name": "NORTHERN TRUST GLOBAL SERVICES SE",
@@ -2200,8 +2200,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOVR",
-    "bankCode": "LU",
+    "bankCode": "NOVR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "NOVRLULL",
     "Bank Name": "NOVARTIS INVESTMENTS S.A.R.L",
@@ -2213,8 +2213,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "LU",
+    "bankCode": "BESC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BESCLULL",
     "Bank Name": "NOVO BANCO, SA SUCCURSALE LUXEMBOURG",
@@ -2226,8 +2226,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OAKI",
-    "bankCode": "LU",
+    "bankCode": "OAKI",
+    "countryCode": "LU",
     "branchCode": "ULW",
     "SWIFT Code": "OAKILULW",
     "Bank Name": "OAKLET S.A.",
@@ -2239,8 +2239,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OHMA",
-    "bankCode": "LU",
+    "bankCode": "OHMA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "OHMALULL",
     "Bank Name": "OHMAN BANK S.A.",
@@ -2252,8 +2252,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORFL",
-    "bankCode": "LU",
+    "bankCode": "ORFL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ORFLLULL",
     "Bank Name": "ORIFLAME COSMETICS GLOBAL S.A.",
@@ -2265,8 +2265,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPLX",
-    "bankCode": "LU",
+    "bankCode": "PPLX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "PPLXLULL",
     "Bank Name": "PAYPAL EUROPE, S.A R.L ET CIE, S.C.A.",
@@ -2278,8 +2278,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPLX",
-    "bankCode": "LU",
+    "bankCode": "PPLX",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "PPLXLUL2",
     "Bank Name": "PAYPAL EUROPE, S.A R.L ET CIE, S.C.A.",
@@ -2291,8 +2291,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIPO",
-    "bankCode": "LU",
+    "bankCode": "PIPO",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "PIPOLUL2",
     "Bank Name": "PINGPONG EUROPE S.A",
@@ -2304,8 +2304,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCPL",
-    "bankCode": "LU",
+    "bankCode": "CCPL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CCPLLULL",
     "Bank Name": "POST LUXEMBOURG",
@@ -2317,8 +2317,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPPV",
-    "bankCode": "LU",
+    "bankCode": "PPPV",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "PPPVLUL2",
     "Bank Name": "PPRO PAYMENTS SERVICES S.A.",
@@ -2330,8 +2330,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGEH",
-    "bankCode": "LU",
+    "bankCode": "PGEH",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "PGEHLULL",
     "Bank Name": "PRA GROUP EUROPE HOLDING III S.A R.L.",
@@ -2343,8 +2343,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUCA",
-    "bankCode": "LU",
+    "bankCode": "PUCA",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "PUCALUL2",
     "Bank Name": "PURE CAPITAL S.A",
@@ -2356,8 +2356,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBLX",
-    "bankCode": "LU",
+    "bankCode": "KBLX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "KBLXLULL",
     "Bank Name": "QUINTET PRIVATE BANK (EUROPE) S.A.",
@@ -2369,8 +2369,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAVA",
-    "bankCode": "LU",
+    "bankCode": "RAVA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "RAVALULL",
     "Bank Name": "RAVAGO S.A.",
@@ -2382,8 +2382,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "LU",
+    "bankCode": "RBOS",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "RBOSLULL",
     "Bank Name": "RBS INTERNATIONAL (LUXEMBOURG)",
@@ -2395,8 +2395,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIDS",
-    "bankCode": "LU",
+    "bankCode": "RIDS",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "RIDSLUL2",
     "Bank Name": "RBS INTERNATIONAL DEPOSITARY SERVICES S.A.",
@@ -2408,8 +2408,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRER",
-    "bankCode": "LU",
+    "bankCode": "BRER",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BRERLULL",
     "Bank Name": "REVANTAGE GLOBAL SERVICES EUROPE S.A.R.L.",
@@ -2421,8 +2421,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RRBA",
-    "bankCode": "LU",
+    "bankCode": "RRBA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "RRBALULL",
     "Bank Name": "RIVERBANK S.A.",
@@ -2434,8 +2434,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RINM",
-    "bankCode": "LU",
+    "bankCode": "RINM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "RINMLULL",
     "Bank Name": "ROTHSCHILD AND CO INVESTMENT MANAGERS",
@@ -2447,8 +2447,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RTLG",
-    "bankCode": "LU",
+    "bankCode": "RTLG",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "RTLGLULL",
     "Bank Name": "RTL GROUP SA",
@@ -2460,8 +2460,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFFO",
-    "bankCode": "LU",
+    "bankCode": "SFFO",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SFFOLULL",
     "Bank Name": "SAFE IP SA",
@@ -2473,8 +2473,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCIM",
-    "bankCode": "LU",
+    "bankCode": "SCIM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SCIMLULL",
     "Bank Name": "SCHRODER INVESTMENT MANAGEMENT (EUROPE) S.A.",
@@ -2486,8 +2486,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SERS",
-    "bankCode": "LU",
+    "bankCode": "SERS",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SERSLULL",
     "Bank Name": "SERES INVESTMENTS S.A.R.L, SPF",
@@ -2499,8 +2499,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGUR",
-    "bankCode": "LU",
+    "bankCode": "SGUR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGURLULL",
     "Bank Name": "SG ISSUER S.A.",
@@ -2512,8 +2512,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSBF",
-    "bankCode": "LU",
+    "bankCode": "SSBF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SSBFLULL",
     "Bank Name": "SGBT ASSET BASED FUNDING S.A.",
@@ -2525,8 +2525,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCR",
-    "bankCode": "LU",
+    "bankCode": "SGCR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGCRLULL",
     "Bank Name": "SGBTCI",
@@ -2538,8 +2538,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SILP",
-    "bankCode": "LU",
+    "bankCode": "SILP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SILPLULL",
     "Bank Name": "SIMPEL S.A.",
@@ -2551,8 +2551,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "LU",
+    "bankCode": "ESSE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ESSELULL",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) LUXEMBOURG BRANCH",
@@ -2564,8 +2564,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLU",
-    "bankCode": "LU",
+    "bankCode": "MOLU",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "MOLULU22",
     "Bank Name": "3S MONEY (LUXEMBOURG) S.A.",
@@ -2577,8 +2577,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLU",
-    "bankCode": "LU",
+    "bankCode": "MOLU",
+    "countryCode": "LU",
     "branchCode": "U29",
     "SWIFT Code": "MOLULU29",
     "Bank Name": "3S MONEY (LUXEMBOURG) S.A.",
@@ -2590,8 +2590,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHLU",
-    "bankCode": "LU",
+    "bankCode": "AHLU",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "AHLULUL2",
     "Bank Name": "ACCORINVEST GROUP S.A.",
@@ -2603,8 +2603,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADAE",
-    "bankCode": "LU",
+    "bankCode": "ADAE",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "ADAELUL2",
     "Bank Name": "ADEPA ASSET MANAGEMENT S.A.",
@@ -2616,8 +2616,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADVZ",
-    "bankCode": "LU",
+    "bankCode": "ADVZ",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ADVZLULL",
     "Bank Name": "ADVANZIA BANK S.A.",
@@ -2629,8 +2629,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFIE",
-    "bankCode": "LU",
+    "bankCode": "AFIE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "AFIELULL",
     "Bank Name": "AFI.ESCA LUXEMBOURG S.A",
@@ -2642,8 +2642,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "LU",
+    "bankCode": "ABOC",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "ABOCLULB",
     "Bank Name": "AGRICULTURAL BANK OF CHINA (LUXEMBOURG) BRANCH",
@@ -2655,8 +2655,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "LU",
+    "bankCode": "ABOC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ABOCLULL",
     "Bank Name": "AGRICULTURAL BANK OF CHINA (LUXEMBOURG) S.A.",
@@ -2668,8 +2668,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALLF",
-    "bankCode": "LU",
+    "bankCode": "ALLF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ALLFLULL",
     "Bank Name": "ALLFUNDS BANK S.A.U., LUXEMBOURG BRANCH",
@@ -2681,8 +2681,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALLF",
-    "bankCode": "LU",
+    "bankCode": "ALLF",
+    "countryCode": "LU",
     "branchCode": "AFI",
     "SWIFT Code": "ALLFLULLAFI",
     "Bank Name": "ALLFUNDS BANK S.A.U., LUXEMBOURG BRANCH",
@@ -2694,8 +2694,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACNM",
-    "bankCode": "LU",
+    "bankCode": "ACNM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ACNMLULL",
     "Bank Name": "ALMA CAPITAL INVESTMENT MANAGEMENT SA",
@@ -2707,8 +2707,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRBA",
-    "bankCode": "LU",
+    "bankCode": "CRBA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CRBALULL",
     "Bank Name": "ALPHA BANK S.A. - LUXEMBOURG BRANCH",
@@ -2720,8 +2720,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMFE",
-    "bankCode": "LU",
+    "bankCode": "AMFE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "AMFELULL",
     "Bank Name": "AMFIE - ASSOCIATION COOPERATIVE FINANCIERE DES FONCTIONNAIRES INTERNATIONAUX",
@@ -2733,8 +2733,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USIN",
-    "bankCode": "LU",
+    "bankCode": "USIN",
+    "countryCode": "LU",
     "branchCode": "UL3",
     "SWIFT Code": "USINLUL3",
     "Bank Name": "AMNS LUXEMBOURG HOLDING S.A.",
@@ -2746,8 +2746,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAMA",
-    "bankCode": "LU",
+    "bankCode": "AAMA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "AAMALULL",
     "Bank Name": "ANDBANK ASSET MANAGEMENT LUXEMBOURG",
@@ -2759,8 +2759,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACA",
-    "bankCode": "LU",
+    "bankCode": "BACA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BACALULL",
     "Bank Name": "ANDBANK LUXEMBOURG S.A.",
@@ -2772,8 +2772,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APAM",
-    "bankCode": "LU",
+    "bankCode": "APAM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "APAMLULL",
     "Bank Name": "APERAM TREASURY SCA",
@@ -2785,8 +2785,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APFS",
-    "bankCode": "LU",
+    "bankCode": "APFS",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "APFSLU22",
     "Bank Name": "APEX FUND SERVICES S.A.",
@@ -2798,8 +2798,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APFS",
-    "bankCode": "LU",
+    "bankCode": "APFS",
+    "countryCode": "LU",
     "branchCode": "001",
     "SWIFT Code": "APFSLU22001",
     "Bank Name": "APEX FUND SERVICES S.A.",
@@ -2811,8 +2811,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APLX",
-    "bankCode": "LU",
+    "bankCode": "APLX",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "APLXLUL2",
     "Bank Name": "APL EUROPE (LUXEMBOURG) S.A.R.L",
@@ -2824,8 +2824,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARUT",
-    "bankCode": "LU",
+    "bankCode": "ARUT",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ARUTLULL",
     "Bank Name": "AROUNDTOWN S.A.",
@@ -2837,8 +2837,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AASG",
-    "bankCode": "LU",
+    "bankCode": "AASG",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "AASGLUL2",
     "Bank Name": "ASSENAGON ASSET MANAGEMENT S.A.",
@@ -2850,8 +2850,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATRX",
-    "bankCode": "LU",
+    "bankCode": "ATRX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ATRXLULL",
     "Bank Name": "ATTRAX FINANCIAL SERVICES S.A.",
@@ -2863,8 +2863,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UFSL",
-    "bankCode": "LU",
+    "bankCode": "UFSL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "UFSLLULL",
     "Bank Name": "ATTRAX FINANCIAL SERVICES S.A. (FORMERLY UNION INVESTMENT FINANCIAL SERVICES S.A)",
@@ -2876,8 +2876,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZEU",
-    "bankCode": "LU",
+    "bankCode": "AZEU",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "AZEULULL",
     "Bank Name": "AZ EURO INVESTMENTS S.A.",
@@ -2889,8 +2889,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZFM",
-    "bankCode": "LU",
+    "bankCode": "AZFM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "AZFMLULL",
     "Bank Name": "AZIMUT INVESTMENTS SA",
@@ -2902,8 +2902,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSGP",
-    "bankCode": "LU",
+    "bankCode": "BSGP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BSGPLULL",
     "Bank Name": "B AND S GROUP S.A.",
@@ -2915,8 +2915,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAR",
-    "bankCode": "LU",
+    "bankCode": "BMAR",
+    "countryCode": "LU",
     "branchCode": "U2M",
     "SWIFT Code": "BMARLU2M",
     "Bank Name": "BANCA MARCH, S.A.",
@@ -2928,8 +2928,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "LU",
+    "bankCode": "BBDE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BBDELULL",
     "Bank Name": "BANCO BRADESCO EUROPA S.A.",
@@ -2941,8 +2941,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFR",
-    "bankCode": "LU",
+    "bankCode": "SAFR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SAFRLULL",
     "Bank Name": "BANCO SAFRA S.A. LUXEMBOURG BRANCH",
@@ -2954,8 +2954,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFR",
-    "bankCode": "LU",
+    "bankCode": "SAFR",
+    "countryCode": "LU",
     "branchCode": "CCY",
     "SWIFT Code": "SAFRLULLCCY",
     "Bank Name": "BANCO SAFRA S.A. LUXEMBOURG BRANCH",
@@ -2967,8 +2967,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "LU",
+    "bankCode": "BSCH",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BSCHLULL",
     "Bank Name": "BANCO SANTANDER (BRASIL) SA, LUXEMBOURG BRANCH",
@@ -2980,8 +2980,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "LU",
+    "bankCode": "BSCH",
+    "countryCode": "LU",
     "branchCode": "MCY",
     "SWIFT Code": "BSCHLULLMCY",
     "Bank Name": "BANCO SANTANDER (BRASIL) SA, LUXEMBOURG BRANCH",
@@ -2993,8 +2993,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAZP",
-    "bankCode": "LU",
+    "bankCode": "GAZP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "GAZPLULL",
     "Bank Name": "BANK GPB INTERNATIONAL S.A.",
@@ -3006,8 +3006,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "LU",
+    "bankCode": "BAER",
+    "countryCode": "LU",
     "branchCode": "ULU",
     "SWIFT Code": "BAERLULU",
     "Bank Name": "BANK JULIUS BAER EUROPE S.A.",
@@ -3019,8 +3019,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "LU",
+    "bankCode": "BOFA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BOFALULL",
     "Bank Name": "BANK OF AMERICA EUROPE DAC, LUXEMBOURG BRANCH",
@@ -3032,8 +3032,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "LU",
+    "bankCode": "BKCH",
+    "countryCode": "LU",
     "branchCode": "ULA",
     "SWIFT Code": "BKCHLULA",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A.",
@@ -3045,8 +3045,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "LU",
+    "bankCode": "BKCH",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BKCHLULL",
     "Bank Name": "BANK OF CHINA, LUXEMBOURG BRANCH",
@@ -3058,8 +3058,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "LU",
+    "bankCode": "COMM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "COMMLULL",
     "Bank Name": "BANK OF COMMUNICATIONS (LUXEMBOURG) S.A.",
@@ -3071,8 +3071,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "LU",
+    "bankCode": "COMM",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "COMMLULX",
     "Bank Name": "BANK OF COMMUNICATIONS CO., LTD. LUXEMBOURG BRANCH",
@@ -3084,8 +3084,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "LU",
+    "bankCode": "PICT",
+    "countryCode": "LU",
     "branchCode": "GVA",
     "SWIFT Code": "PICTLULXGVA",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE LUXEMBOURG",
@@ -3097,8 +3097,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "LU",
+    "bankCode": "PICT",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "PICTLULX",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE LUXEMBOURG",
@@ -3110,8 +3110,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "LU",
+    "bankCode": "PICT",
+    "countryCode": "LU",
     "branchCode": "COR",
     "SWIFT Code": "PICTLULXCOR",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE LUXEMBOURG",
@@ -3123,8 +3123,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "LU",
+    "bankCode": "PICT",
+    "countryCode": "LU",
     "branchCode": "DER",
     "SWIFT Code": "PICTLULXDER",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE LUXEMBOURG",
@@ -3136,8 +3136,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "LU",
+    "bankCode": "PICT",
+    "countryCode": "LU",
     "branchCode": "AGC",
     "SWIFT Code": "PICTLULXAGC",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE LUXEMBOURG",
@@ -3149,8 +3149,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "LU",
+    "bankCode": "PICT",
+    "countryCode": "LU",
     "branchCode": "TAS",
     "SWIFT Code": "PICTLULXTAS",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE LUXEMBOURG",
@@ -3162,8 +3162,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIR",
-    "bankCode": "LU",
+    "bankCode": "BCIR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BCIRLULL",
     "Bank Name": "BANKING CIRCLE S.A.",
@@ -3175,8 +3175,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "LU",
+    "bankCode": "BKBK",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "BKBKLULB",
     "Bank Name": "BANKINTER LUXEMBOURG S.A.",
@@ -3188,8 +3188,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "LU",
+    "bankCode": "BKBK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BKBKLULL",
     "Bank Name": "BANKINTER LUXEMBOURG S.A.",
@@ -3201,8 +3201,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCLX",
-    "bankCode": "LU",
+    "bankCode": "BCLX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BCLXLULL",
     "Bank Name": "BANQUE CENTRALE DU LUXEMBOURG",
@@ -3214,8 +3214,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "CHASLULX",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3227,8 +3227,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "CTE",
     "SWIFT Code": "CHASLULXCTE",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3240,8 +3240,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ACC",
     "SWIFT Code": "CHASLULXACC",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3253,8 +3253,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ROB",
     "SWIFT Code": "CHASLULAROB",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3266,8 +3266,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ART",
     "SWIFT Code": "CHASLULAART",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3279,8 +3279,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ACA",
     "SWIFT Code": "CHASLULXACA",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3292,8 +3292,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ALI",
     "SWIFT Code": "CHASLULXALI",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3305,8 +3305,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "GST",
     "SWIFT Code": "CHASLULXGST",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3318,8 +3318,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "DAG",
     "SWIFT Code": "CHASLULADAG",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3331,8 +3331,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "GCC",
     "SWIFT Code": "CHASLULXGCC",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3344,8 +3344,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "IFS",
     "SWIFT Code": "CHASLULAIFS",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3357,8 +3357,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ACM",
     "SWIFT Code": "CHASLULXACM",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3370,8 +3370,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ACR",
     "SWIFT Code": "CHASLULXACR",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3383,8 +3383,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "MCM",
     "SWIFT Code": "CHASLULXMCM",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3396,8 +3396,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "LUX",
     "SWIFT Code": "CHASLULXLUX",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3409,8 +3409,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "BBH",
     "SWIFT Code": "CHASLULABBH",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3422,8 +3422,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "COL",
     "SWIFT Code": "CHASLULXCOL",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3435,8 +3435,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASLULXENQ",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3448,8 +3448,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ETF",
     "SWIFT Code": "CHASLULXETF",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -3461,8 +3461,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOAS",
-    "bankCode": "LU",
+    "bankCode": "JOAS",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "JOASLU22",
     "Bank Name": "JOYSON AUTO SAFETY S.A.",
@@ -3474,8 +3474,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFLC",
-    "bankCode": "LU",
+    "bankCode": "RFLC",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "RFLCLULX",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (EUROPE) S.A.R.L.",
@@ -3487,8 +3487,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFLC",
-    "bankCode": "LU",
+    "bankCode": "RFLC",
+    "countryCode": "LU",
     "branchCode": "GRA",
     "SWIFT Code": "RFLCLULXGRA",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (EUROPE) S.A.R.L.",
@@ -3500,8 +3500,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "LU",
+    "bankCode": "KRED",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "KREDLUL2",
     "Bank Name": "KBC BANK - LUXEMBOURG BRANCH",
@@ -3513,8 +3513,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBCI",
-    "bankCode": "LU",
+    "bankCode": "KBCI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "KBCILULL",
     "Bank Name": "KBC IFIMA S.A.",
@@ -3526,8 +3526,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAMO",
-    "bankCode": "LU",
+    "bankCode": "LAMO",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LAMOLULL",
     "Bank Name": "LA MANCHA HOLDING S.A.R.L.",
@@ -3539,8 +3539,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LMEP",
-    "bankCode": "LU",
+    "bankCode": "LMEP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LMEPLULL",
     "Bank Name": "LA MONDIALE EUROPARTNER S.A.",
@@ -3552,8 +3552,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAOR",
-    "bankCode": "LU",
+    "bankCode": "LAOR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LAORLULL",
     "Bank Name": "LAGORA S.A.R.L.",
@@ -3565,8 +3565,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LTHU",
-    "bankCode": "LU",
+    "bankCode": "LTHU",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LTHULULL",
     "Bank Name": "LAPITHUS MANAGEMENT S.A R.L.",
@@ -3578,8 +3578,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NPAK",
-    "bankCode": "LU",
+    "bankCode": "NPAK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "NPAKLULL",
     "Bank Name": "LOGOPLASTE GROUP S.A.R.L.",
@@ -3591,8 +3591,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIAL",
-    "bankCode": "LU",
+    "bankCode": "LIAL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LIALLULL",
     "Bank Name": "LOMBARD INTERNATIONAL ASSURANCE SA",
@@ -3604,8 +3604,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "LU",
+    "bankCode": "LOCY",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LOCYLULL",
     "Bank Name": "LOMBARD ODIER (EUROPE) S.A.",
@@ -3617,8 +3617,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LRII",
-    "bankCode": "LU",
+    "bankCode": "LRII",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LRIILULL",
     "Bank Name": "LRI INVEST S.A.",
@@ -3630,8 +3630,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "CPN",
     "SWIFT Code": "LUXCLULLCPN",
     "Bank Name": "LUXCSD S.A.",
@@ -3643,8 +3643,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "MIG",
     "SWIFT Code": "LUXCLULLMIG",
     "Bank Name": "LUXCSD S.A.",
@@ -3656,8 +3656,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "322",
     "SWIFT Code": "LUXCLULL322",
     "Bank Name": "LUXCSD S.A.",
@@ -3669,8 +3669,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "653",
     "SWIFT Code": "LUXCLULL653",
     "Bank Name": "LUXCSD S.A.",
@@ -3682,8 +3682,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "LUXCLULL",
     "Bank Name": "LUXCSD S.A.",
@@ -3695,8 +3695,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "MCA",
     "SWIFT Code": "LUXCLULLMCA",
     "Bank Name": "LUXCSD S.A.",
@@ -3708,8 +3708,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "DA0",
     "SWIFT Code": "LUXCLULLDA0",
     "Bank Name": "LUXCSD S.A.",
@@ -3721,8 +3721,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "IA0",
     "SWIFT Code": "LUXCLULLIA0",
     "Bank Name": "LUXCSD S.A.",
@@ -3734,8 +3734,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "MA0",
     "SWIFT Code": "LUXCLULLMA0",
     "Bank Name": "LUXCSD S.A.",
@@ -3747,8 +3747,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "OA0",
     "SWIFT Code": "LUXCLULLOA0",
     "Bank Name": "LUXCSD S.A.",
@@ -3760,8 +3760,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "MA1",
     "SWIFT Code": "LUXCLULLMA1",
     "Bank Name": "LUXCSD S.A.",
@@ -3773,8 +3773,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "OA1",
     "SWIFT Code": "LUXCLULLOA1",
     "Bank Name": "LUXCSD S.A.",
@@ -3786,8 +3786,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "PEN",
     "SWIFT Code": "LUXCLULLPEN",
     "Bank Name": "LUXCSD S.A.",
@@ -3799,8 +3799,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUXC",
-    "bankCode": "LU",
+    "bankCode": "LUXC",
+    "countryCode": "LU",
     "branchCode": "LVO",
     "SWIFT Code": "LUXCLULLLVO",
     "Bank Name": "LUXCSD S.A.",
@@ -3812,8 +3812,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUHB",
-    "bankCode": "LU",
+    "bankCode": "LUHB",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "LUHBLU22",
     "Bank Name": "LUXHUB S.A.",
@@ -3825,8 +3825,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFFA",
-    "bankCode": "LU",
+    "bankCode": "MFFA",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "MFFALULB",
     "Bank Name": "MAINFIRST AFFILIATED FUND MANAGERS S.A.",
@@ -3838,8 +3838,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGRL",
-    "bankCode": "LU",
+    "bankCode": "MGRL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "MGRLLULL",
     "Bank Name": "MAJOREL GROUP LUXEMBOURG S.A.",
@@ -3851,8 +3851,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGLH",
-    "bankCode": "LU",
+    "bankCode": "MGLH",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "MGLHLULL",
     "Bank Name": "MEDTRONIC GLOBAL HOLDINGS S.C.A.",
@@ -3864,8 +3864,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "LU",
+    "bankCode": "FNET",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FNETLULL",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3877,8 +3877,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "ETF",
     "SWIFT Code": "BSUILULLETF",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3890,8 +3890,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "4SF",
     "SWIFT Code": "BSUILULL4SF",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3903,8 +3903,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "DUB",
     "SWIFT Code": "BSUILULLDUB",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3916,8 +3916,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "CNA",
     "SWIFT Code": "BSUILULLCNA",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3929,8 +3929,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "COR",
     "SWIFT Code": "BSUILULLCOR",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3942,8 +3942,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "CUS",
     "SWIFT Code": "BSUILULLCUS",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3955,8 +3955,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "ETC",
     "SWIFT Code": "BSUILULLETC",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3968,8 +3968,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "LU",
+    "bankCode": "FNET",
+    "countryCode": "LU",
     "branchCode": "OTC",
     "SWIFT Code": "FNETLULLOTC",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3981,8 +3981,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "LU",
+    "bankCode": "FNET",
+    "countryCode": "LU",
     "branchCode": "CMP",
     "SWIFT Code": "FNETLULLCMP",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -3994,8 +3994,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "ADM",
     "SWIFT Code": "BSUILULLADM",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4007,8 +4007,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "LU",
+    "bankCode": "FNET",
+    "countryCode": "LU",
     "branchCode": "FND",
     "SWIFT Code": "FNETLULLFND",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4020,8 +4020,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "PRF",
     "SWIFT Code": "BSUILULLPRF",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4033,8 +4033,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "FOF",
     "SWIFT Code": "BSUILULLFOF",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4046,8 +4046,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "FTM",
     "SWIFT Code": "BSUILULLFTM",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4059,8 +4059,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "LU",
+    "bankCode": "FNET",
+    "countryCode": "LU",
     "branchCode": "PTA",
     "SWIFT Code": "FNETLULLPTA",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4072,8 +4072,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "FND",
     "SWIFT Code": "BSUILULLFND",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4085,8 +4085,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "LU",
+    "bankCode": "BSUI",
+    "countryCode": "LU",
     "branchCode": "REG",
     "SWIFT Code": "BSUILULLREG",
     "Bank Name": "CACEIS BANK, LUXEMBOURG BRANCH",
@@ -4098,8 +4098,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FETALULL",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4111,8 +4111,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "BEL",
     "SWIFT Code": "FETALULLBEL",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4124,8 +4124,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "BRA",
     "SWIFT Code": "FETALULLBRA",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4137,8 +4137,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "DIS",
     "SWIFT Code": "FETALULLDIS",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4150,8 +4150,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "ISV",
     "SWIFT Code": "FETALULLISV",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4163,8 +4163,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "REP",
     "SWIFT Code": "FETALULLREP",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4176,8 +4176,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "SHS",
     "SWIFT Code": "FETALULLSHS",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4189,8 +4189,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FETA",
-    "bankCode": "LU",
+    "bankCode": "FETA",
+    "countryCode": "LU",
     "branchCode": "TSY",
     "SWIFT Code": "FETALULLTSY",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK S.A.",
@@ -4202,8 +4202,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "LU",
+    "bankCode": "CAIX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CAIXLULL",
     "Bank Name": "CAIXABANK WEALTH MANAGEMENT LUXEMBOURG S.A.",
@@ -4215,8 +4215,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PBG",
     "SWIFT Code": "CLAOLU2LPBG",
     "Bank Name": "CALASTONE LIMITED",
@@ -4228,8 +4228,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "U2L",
     "SWIFT Code": "CLAOLU2L",
     "Bank Name": "CALASTONE LIMITED",
@@ -4241,8 +4241,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BNP",
     "SWIFT Code": "CLAOLU2LBNP",
     "Bank Name": "CALASTONE LIMITED",
@@ -4254,8 +4254,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HEN",
     "SWIFT Code": "CLAOLU2LHEN",
     "Bank Name": "CALASTONE LIMITED",
@@ -4267,8 +4267,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PIC",
     "SWIFT Code": "CLAOLU2LPIC",
     "Bank Name": "CALASTONE LIMITED",
@@ -4280,8 +4280,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SCH",
     "SWIFT Code": "CLAOLU2LSCH",
     "Bank Name": "CALASTONE LIMITED",
@@ -4293,8 +4293,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MAY",
     "SWIFT Code": "CLAOLU2LMAY",
     "Bank Name": "CALASTONE LIMITED",
@@ -4306,8 +4306,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CTF",
     "SWIFT Code": "CLAOLU2LCTF",
     "Bank Name": "CALASTONE LIMITED",
@@ -4319,8 +4319,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HAW",
     "SWIFT Code": "CLAOLU2LHAW",
     "Bank Name": "CALASTONE LIMITED",
@@ -4332,8 +4332,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NOR",
     "SWIFT Code": "CLAOLU2LNOR",
     "Bank Name": "CALASTONE LIMITED",
@@ -4345,8 +4345,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SAD",
     "SWIFT Code": "CLAOLU2LSAD",
     "Bank Name": "CALASTONE LIMITED",
@@ -4358,8 +4358,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LIO",
     "SWIFT Code": "CLAOLU2LLIO",
     "Bank Name": "CALASTONE LIMITED",
@@ -4371,8 +4371,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SCZ",
     "SWIFT Code": "CLAOLU2LSCZ",
     "Bank Name": "CALASTONE LIMITED",
@@ -4384,8 +4384,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AIO",
     "SWIFT Code": "CLAOLU2LAIO",
     "Bank Name": "CALASTONE LIMITED",
@@ -4397,8 +4397,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ALE",
     "SWIFT Code": "CLAOLU2LALE",
     "Bank Name": "CALASTONE LIMITED",
@@ -4410,8 +4410,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LOG",
     "SWIFT Code": "CLAOLU2LLOG",
     "Bank Name": "CALASTONE LIMITED",
@@ -4423,8 +4423,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SCL",
     "SWIFT Code": "CLAOLU2LSCL",
     "Bank Name": "CALASTONE LIMITED",
@@ -4436,8 +4436,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TBY",
     "SWIFT Code": "CLAOLU2LTBY",
     "Bank Name": "CALASTONE LIMITED",
@@ -4449,8 +4449,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CTW",
     "SWIFT Code": "CLAOLU2LCTW",
     "Bank Name": "CALASTONE LIMITED",
@@ -4462,8 +4462,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AAM",
     "SWIFT Code": "CLAOLU2LAAM",
     "Bank Name": "CALASTONE LIMITED",
@@ -4475,8 +4475,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AJB",
     "SWIFT Code": "CLAOLU2LAJB",
     "Bank Name": "CALASTONE LIMITED",
@@ -4488,8 +4488,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AGR",
     "SWIFT Code": "CLAOLU2LAGR",
     "Bank Name": "CALASTONE LIMITED",
@@ -4501,8 +4501,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AIM",
     "SWIFT Code": "CLAOLU2LAIM",
     "Bank Name": "CALASTONE LIMITED",
@@ -4514,8 +4514,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MER",
     "SWIFT Code": "CLAOLU2LMER",
     "Bank Name": "CALASTONE LIMITED",
@@ -4527,8 +4527,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MOB",
     "SWIFT Code": "CLAOLU2LMOB",
     "Bank Name": "CALASTONE LIMITED",
@@ -4540,8 +4540,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MYT",
     "SWIFT Code": "CLAOLU2LMYT",
     "Bank Name": "CALASTONE LIMITED",
@@ -4553,8 +4553,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NYT",
     "SWIFT Code": "CLAOLU2LNYT",
     "Bank Name": "CALASTONE LIMITED",
@@ -4566,8 +4566,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PDD",
     "SWIFT Code": "CLAOLU2LPDD",
     "Bank Name": "CALASTONE LIMITED",
@@ -4579,8 +4579,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PLD",
     "SWIFT Code": "CLAOLU2LPLD",
     "Bank Name": "CALASTONE LIMITED",
@@ -4592,8 +4592,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "QWD",
     "SWIFT Code": "CLAOLU2LQWD",
     "Bank Name": "CALASTONE LIMITED",
@@ -4605,8 +4605,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "QWG",
     "SWIFT Code": "CLAOLU2LQWG",
     "Bank Name": "CALASTONE LIMITED",
@@ -4618,8 +4618,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "QWM",
     "SWIFT Code": "CLAOLU2LQWM",
     "Bank Name": "CALASTONE LIMITED",
@@ -4631,8 +4631,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RBN",
     "SWIFT Code": "CLAOLU2LRBN",
     "Bank Name": "CALASTONE LIMITED",
@@ -4644,8 +4644,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RBS",
     "SWIFT Code": "CLAOLU2LRBS",
     "Bank Name": "CALASTONE LIMITED",
@@ -4657,8 +4657,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SHE",
     "SWIFT Code": "CLAOLU2LSHE",
     "Bank Name": "CALASTONE LIMITED",
@@ -4670,8 +4670,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SKK",
     "SWIFT Code": "CLAOLU2LSKK",
     "Bank Name": "CALASTONE LIMITED",
@@ -4683,8 +4683,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "STD",
     "SWIFT Code": "CLAOLU2LSTD",
     "Bank Name": "CALASTONE LIMITED",
@@ -4696,8 +4696,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CGL",
     "SWIFT Code": "CLAOLU2LCGL",
     "Bank Name": "CALASTONE LIMITED",
@@ -4709,8 +4709,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CWH",
     "SWIFT Code": "CLAOLU2LCWH",
     "Bank Name": "CALASTONE LIMITED",
@@ -4722,8 +4722,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TIL",
     "SWIFT Code": "CLAOLU2LTIL",
     "Bank Name": "CALASTONE LIMITED",
@@ -4735,8 +4735,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TIM",
     "SWIFT Code": "CLAOLU2LTIM",
     "Bank Name": "CALASTONE LIMITED",
@@ -4748,8 +4748,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TRA",
     "SWIFT Code": "CLAOLU2LTRA",
     "Bank Name": "CALASTONE LIMITED",
@@ -4761,8 +4761,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WCR",
     "SWIFT Code": "CLAOLU2LWCR",
     "Bank Name": "CALASTONE LIMITED",
@@ -4774,8 +4774,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WEL",
     "SWIFT Code": "CLAOLU2LWEL",
     "Bank Name": "CALASTONE LIMITED",
@@ -4787,8 +4787,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CAT",
     "SWIFT Code": "CLAOLU2LCAT",
     "Bank Name": "CALASTONE LIMITED",
@@ -4800,8 +4800,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CAZ",
     "SWIFT Code": "CLAOLU2LCAZ",
     "Bank Name": "CALASTONE LIMITED",
@@ -4813,8 +4813,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CEC",
     "SWIFT Code": "CLAOLU2LCEC",
     "Bank Name": "CALASTONE LIMITED",
@@ -4826,8 +4826,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CLI",
     "SWIFT Code": "CLAOLU2LCLI",
     "Bank Name": "CALASTONE LIMITED",
@@ -4839,8 +4839,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CMI",
     "SWIFT Code": "CLAOLU2LCMI",
     "Bank Name": "CALASTONE LIMITED",
@@ -4852,8 +4852,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MIT",
     "SWIFT Code": "CLAOLU2LMIT",
     "Bank Name": "CALASTONE LIMITED",
@@ -4865,8 +4865,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CHW",
     "SWIFT Code": "CLAOLU2LCHW",
     "Bank Name": "CALASTONE LIMITED",
@@ -4878,8 +4878,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CNE",
     "SWIFT Code": "CLAOLU2LCNE",
     "Bank Name": "CALASTONE LIMITED",
@@ -4891,8 +4891,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "COC",
     "SWIFT Code": "CLAOLU2LCOC",
     "Bank Name": "CALASTONE LIMITED",
@@ -4904,8 +4904,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "COD",
     "SWIFT Code": "CLAOLU2LCOD",
     "Bank Name": "CALASTONE LIMITED",
@@ -4917,8 +4917,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CRF",
     "SWIFT Code": "CLAOLU2LCRF",
     "Bank Name": "CALASTONE LIMITED",
@@ -4930,8 +4930,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SVN",
     "SWIFT Code": "CLAOLU2LSVN",
     "Bank Name": "CALASTONE LIMITED",
@@ -4943,8 +4943,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CTR",
     "SWIFT Code": "CLAOLU2LCTR",
     "Bank Name": "CALASTONE LIMITED",
@@ -4956,8 +4956,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CWC",
     "SWIFT Code": "CLAOLU2LCWC",
     "Bank Name": "CALASTONE LIMITED",
@@ -4969,8 +4969,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IBN",
     "SWIFT Code": "CLAOLU2LIBN",
     "Bank Name": "CALASTONE LIMITED",
@@ -4982,8 +4982,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ACL",
     "SWIFT Code": "CLAOLU2LACL",
     "Bank Name": "CALASTONE LIMITED",
@@ -4995,8 +4995,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ADV",
     "SWIFT Code": "CLAOLU2LADV",
     "Bank Name": "CALASTONE LIMITED",
@@ -5008,8 +5008,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AEG",
     "SWIFT Code": "CLAOLU2LAEG",
     "Bank Name": "CALASTONE LIMITED",
@@ -5021,8 +5021,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "AUB",
     "SWIFT Code": "CLAOLU2LAUB",
     "Bank Name": "CALASTONE LIMITED",
@@ -5034,8 +5034,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BBG",
     "SWIFT Code": "CLAOLU2LBBG",
     "Bank Name": "CALASTONE LIMITED",
@@ -5047,8 +5047,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BCO",
     "SWIFT Code": "CLAOLU2LBCO",
     "Bank Name": "CALASTONE LIMITED",
@@ -5060,8 +5060,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BKF",
     "SWIFT Code": "CLAOLU2LBKF",
     "Bank Name": "CALASTONE LIMITED",
@@ -5073,8 +5073,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BKH",
     "SWIFT Code": "CLAOLU2LBKH",
     "Bank Name": "CALASTONE LIMITED",
@@ -5086,8 +5086,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BKS",
     "SWIFT Code": "CLAOLU2LBKS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5099,8 +5099,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BNS",
     "SWIFT Code": "CLAOLU2LBNS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5112,8 +5112,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BSP",
     "SWIFT Code": "CLAOLU2LBSP",
     "Bank Name": "CALASTONE LIMITED",
@@ -5125,8 +5125,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BSS",
     "SWIFT Code": "CLAOLU2LBSS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5138,8 +5138,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CIT",
     "SWIFT Code": "CLAOLU2LCIT",
     "Bank Name": "CALASTONE LIMITED",
@@ -5151,8 +5151,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CSP",
     "SWIFT Code": "CLAOLU2LCSP",
     "Bank Name": "CALASTONE LIMITED",
@@ -5164,8 +5164,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IGL",
     "SWIFT Code": "CLAOLU2LIGL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5177,8 +5177,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IUP",
     "SWIFT Code": "CLAOLU2LIUP",
     "Bank Name": "CALASTONE LIMITED",
@@ -5190,8 +5190,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JHP",
     "SWIFT Code": "CLAOLU2LJHP",
     "Bank Name": "CALASTONE LIMITED",
@@ -5203,8 +5203,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JPA",
     "SWIFT Code": "CLAOLU2LJPA",
     "Bank Name": "CALASTONE LIMITED",
@@ -5216,8 +5216,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MGL",
     "SWIFT Code": "CLAOLU2LMGL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5229,8 +5229,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MNL",
     "SWIFT Code": "CLAOLU2LMNL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5242,8 +5242,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MBK",
     "SWIFT Code": "CLAOLU2LMBK",
     "Bank Name": "CALASTONE LIMITED",
@@ -5255,8 +5255,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MIR",
     "SWIFT Code": "CLAOLU2LMIR",
     "Bank Name": "CALASTONE LIMITED",
@@ -5268,8 +5268,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MLB",
     "SWIFT Code": "CLAOLU2LMLB",
     "Bank Name": "CALASTONE LIMITED",
@@ -5281,8 +5281,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NOV",
     "SWIFT Code": "CLAOLU2LNOV",
     "Bank Name": "CALASTONE LIMITED",
@@ -5294,8 +5294,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "OMM",
     "SWIFT Code": "CLAOLU2LOMM",
     "Bank Name": "CALASTONE LIMITED",
@@ -5307,8 +5307,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PGD",
     "SWIFT Code": "CLAOLU2LPGD",
     "Bank Name": "CALASTONE LIMITED",
@@ -5320,8 +5320,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PAS",
     "SWIFT Code": "CLAOLU2LPAS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5333,8 +5333,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PIN",
     "SWIFT Code": "CLAOLU2LPIN",
     "Bank Name": "CALASTONE LIMITED",
@@ -5346,8 +5346,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RLU",
     "SWIFT Code": "CLAOLU2LRLU",
     "Bank Name": "CALASTONE LIMITED",
@@ -5359,8 +5359,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ROB",
     "SWIFT Code": "CLAOLU2LROB",
     "Bank Name": "CALASTONE LIMITED",
@@ -5372,8 +5372,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RSK",
     "SWIFT Code": "CLAOLU2LRSK",
     "Bank Name": "CALASTONE LIMITED",
@@ -5385,8 +5385,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RWC",
     "SWIFT Code": "CLAOLU2LRWC",
     "Bank Name": "CALASTONE LIMITED",
@@ -5398,8 +5398,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SBJ",
     "SWIFT Code": "CLAOLU2LSBJ",
     "Bank Name": "CALASTONE LIMITED",
@@ -5411,8 +5411,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SPC",
     "SWIFT Code": "CLAOLU2LSPC",
     "Bank Name": "CALASTONE LIMITED",
@@ -5424,8 +5424,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SKA",
     "SWIFT Code": "CLAOLU2LSKA",
     "Bank Name": "CALASTONE LIMITED",
@@ -5437,8 +5437,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SPS",
     "SWIFT Code": "CLAOLU2LSPS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5450,8 +5450,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SSG",
     "SWIFT Code": "CLAOLU2LSSG",
     "Bank Name": "CALASTONE LIMITED",
@@ -5463,8 +5463,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "STS",
     "SWIFT Code": "CLAOLU2LSTS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5476,8 +5476,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "THR",
     "SWIFT Code": "CLAOLU2LTHR",
     "Bank Name": "CALASTONE LIMITED",
@@ -5489,8 +5489,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WAS",
     "SWIFT Code": "CLAOLU2LWAS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5502,8 +5502,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ZFL",
     "SWIFT Code": "CLAOLU2LZFL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5515,8 +5515,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ASC",
     "SWIFT Code": "CLAOLU2LASC",
     "Bank Name": "CALASTONE LIMITED",
@@ -5528,8 +5528,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ATR",
     "SWIFT Code": "CLAOLU2LATR",
     "Bank Name": "CALASTONE LIMITED",
@@ -5541,8 +5541,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "BJS",
     "SWIFT Code": "CLAOLU2LBJS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5554,8 +5554,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CBL",
     "SWIFT Code": "CLAOLU2LCBL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5567,8 +5567,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CDB",
     "SWIFT Code": "CLAOLU2LCDB",
     "Bank Name": "CALASTONE LIMITED",
@@ -5580,8 +5580,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CEG",
     "SWIFT Code": "CLAOLU2LCEG",
     "Bank Name": "CALASTONE LIMITED",
@@ -5593,8 +5593,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CLR",
     "SWIFT Code": "CLAOLU2LCLR",
     "Bank Name": "CALASTONE LIMITED",
@@ -5606,8 +5606,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "COT",
     "SWIFT Code": "CLAOLU2LCOT",
     "Bank Name": "CALASTONE LIMITED",
@@ -5619,8 +5619,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FPT",
     "SWIFT Code": "CLAOLU2LFPT",
     "Bank Name": "CALASTONE LIMITED",
@@ -5632,8 +5632,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "GPS",
     "SWIFT Code": "CLAOLU2LGPS",
     "Bank Name": "CALASTONE LIMITED",
@@ -5645,8 +5645,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HLL",
     "SWIFT Code": "CLAOLU2LHLL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5658,8 +5658,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HMA",
     "SWIFT Code": "CLAOLU2LHMA",
     "Bank Name": "CALASTONE LIMITED",
@@ -5671,8 +5671,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HMM",
     "SWIFT Code": "CLAOLU2LHMM",
     "Bank Name": "CALASTONE LIMITED",
@@ -5684,8 +5684,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HTB",
     "SWIFT Code": "CLAOLU2LHTB",
     "Bank Name": "CALASTONE LIMITED",
@@ -5697,8 +5697,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IFH",
     "SWIFT Code": "CLAOLU2LIFH",
     "Bank Name": "CALASTONE LIMITED",
@@ -5710,8 +5710,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JAR",
     "SWIFT Code": "CLAOLU2LJAR",
     "Bank Name": "CALASTONE LIMITED",
@@ -5723,8 +5723,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KBL",
     "SWIFT Code": "CLAOLU2LKBL",
     "Bank Name": "CALASTONE LIMITED",
@@ -5736,8 +5736,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KLH",
     "SWIFT Code": "CLAOLU2LKLH",
     "Bank Name": "CALASTONE LIMITED",
@@ -5749,8 +5749,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KRR",
     "SWIFT Code": "CLAOLU2LKRR",
     "Bank Name": "CALASTONE LIMITED",
@@ -5762,8 +5762,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KSH",
     "SWIFT Code": "CLAOLU2LKSH",
     "Bank Name": "CALASTONE LIMITED",
@@ -5775,8 +5775,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LGI",
     "SWIFT Code": "CLAOLU2LLGI",
     "Bank Name": "CALASTONE LIMITED",
@@ -5788,8 +5788,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LGO",
     "SWIFT Code": "CLAOLU2LLGO",
     "Bank Name": "CALASTONE LIMITED",
@@ -5801,8 +5801,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MAM",
     "SWIFT Code": "CLAOLU2LMAM",
     "Bank Name": "CALASTONE LIMITED",
@@ -5814,8 +5814,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "LU",
+    "bankCode": "ESSE",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "ESSELU22",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) LUXEMBOURG BRANCH",
@@ -5827,8 +5827,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIKO",
-    "bankCode": "LU",
+    "bankCode": "NIKO",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "NIKOLULL",
     "Bank Name": "SMBC NIKKO BANK (LUXEMBOURG) S.A.",
@@ -5840,8 +5840,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGMF",
-    "bankCode": "LU",
+    "bankCode": "SGMF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGMFLULL",
     "Bank Name": "SOCIETE GENERALE CAPITAL MARKET FINANCE S.A.",
@@ -5853,8 +5853,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGDI",
-    "bankCode": "LU",
+    "bankCode": "SGDI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGDILULL",
     "Bank Name": "SOCIETE GENERALE FINANCING AND DISTRIBUTION FINANCIAL DEPARTMENT",
@@ -5866,8 +5866,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "TAS",
     "SWIFT Code": "SGABLULLTAS",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5879,8 +5879,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "U23",
     "SWIFT Code": "SGABLU23",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5892,8 +5892,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "SGABLU22",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5905,8 +5905,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGABLULL",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5918,8 +5918,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "U2S",
     "SWIFT Code": "SGABLU2S",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5931,8 +5931,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "CAL",
     "SWIFT Code": "SGABLULLCAL",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5944,8 +5944,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "GSS",
     "SWIFT Code": "SGABLU2SGSS",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5957,8 +5957,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "LUX",
     "SWIFT Code": "SGABLU2SLUX",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5970,8 +5970,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "MOF",
     "SWIFT Code": "SGABLULLMOF",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5983,8 +5983,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "MKS",
     "SWIFT Code": "SGABLULLMKS",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -5996,8 +5996,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "LU",
+    "bankCode": "SGAB",
+    "countryCode": "LU",
     "branchCode": "ISS",
     "SWIFT Code": "SGABLU2SISS",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG",
@@ -6009,8 +6009,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGLA",
-    "bankCode": "LU",
+    "bankCode": "SGLA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGLALULL",
     "Bank Name": "SOCIETE GENERALE LUXEMBOURG LEASING",
@@ -6022,8 +6022,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOEI",
-    "bankCode": "LU",
+    "bankCode": "SOEI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SOEILULL",
     "Bank Name": "SOGELIFE",
@@ -6035,8 +6035,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOXA",
-    "bankCode": "LU",
+    "bankCode": "SOXA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SOXALULL",
     "Bank Name": "SOGEXIA S.A.",
@@ -6048,8 +6048,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINV",
-    "bankCode": "LU",
+    "bankCode": "SINV",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SINVLULL",
     "Bank Name": "SPARINVEST S.A.",
@@ -6061,8 +6061,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEPH",
-    "bankCode": "LU",
+    "bankCode": "SEPH",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SEPHLULL",
     "Bank Name": "STARK INTERNATIONAL LUX S.R.L.",
@@ -6074,8 +6074,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "LU",
+    "bankCode": "SBOS",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "SBOSLULX",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH",
@@ -6087,8 +6087,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "LU",
+    "bankCode": "SBOS",
+    "countryCode": "LU",
     "branchCode": "LFA",
     "SWIFT Code": "SBOSLULXLFA",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH",
@@ -6100,8 +6100,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "LU",
+    "bankCode": "SBOS",
+    "countryCode": "LU",
     "branchCode": "SHA",
     "SWIFT Code": "SBOSLULXSHA",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH",
@@ -6113,8 +6113,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SXFE",
-    "bankCode": "LU",
+    "bankCode": "SXFE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SXFELULL",
     "Bank Name": "STONEX FINANCIAL EUROPE S.A.",
@@ -6126,8 +6126,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "LU",
+    "bankCode": "STBC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "STBCLULL",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK (LUXEMBOURG) S.A.",
@@ -6139,8 +6139,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "LU",
+    "bankCode": "HAND",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "HANDLULB",
     "Bank Name": "SVENSKA HANDELSBANKEN AB(PUBL)LUX",
@@ -6152,8 +6152,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLLU",
-    "bankCode": "LU",
+    "bankCode": "SLLU",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SLLULULL",
     "Bank Name": "SWISS LIFE (LUXEMBOURG) S.A.",
@@ -6165,8 +6165,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLLU",
-    "bankCode": "LU",
+    "bankCode": "SLLU",
+    "countryCode": "LU",
     "branchCode": "AMC",
     "SWIFT Code": "SLLULULLAMC",
     "Bank Name": "SWISS LIFE (LUXEMBOURG) S.A.",
@@ -6178,8 +6178,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLLU",
-    "bankCode": "LU",
+    "bankCode": "SLLU",
+    "countryCode": "LU",
     "branchCode": "CLI",
     "SWIFT Code": "SLLULULLCLI",
     "Bank Name": "SWISS LIFE (LUXEMBOURG) S.A.",
@@ -6191,8 +6191,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLLU",
-    "bankCode": "LU",
+    "bankCode": "SLLU",
+    "countryCode": "LU",
     "branchCode": "ACC",
     "SWIFT Code": "SLLULULLACC",
     "Bank Name": "SWISS LIFE (LUXEMBOURG) S.A.",
@@ -6204,8 +6204,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWLP",
-    "bankCode": "LU",
+    "bankCode": "SWLP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SWLPLULL",
     "Bank Name": "SWISS LIFE PRODUCTS (LUXEMBOURG) S.A.",
@@ -6217,8 +6217,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SWRILULL",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6230,8 +6230,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "AUS",
     "SWIFT Code": "SWRILULLAUS",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6243,8 +6243,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "ITA",
     "SWIFT Code": "SWRILULLITA",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6256,8 +6256,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "JAP",
     "SWIFT Code": "SWRILULLJAP",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6269,8 +6269,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "SIN",
     "SWIFT Code": "SWRILULLSIN",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6282,8 +6282,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "UKK",
     "SWIFT Code": "SWRILULLUKK",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6295,8 +6295,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWRI",
-    "bankCode": "LU",
+    "bankCode": "SWRI",
+    "countryCode": "LU",
     "branchCode": "GER",
     "SWIFT Code": "SWRILULLGER",
     "Bank Name": "SWISS RE INTERNATIONAL SE",
@@ -6308,8 +6308,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWQB",
-    "bankCode": "LU",
+    "bankCode": "SWQB",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SWQBLULL",
     "Bank Name": "SWISSQUOTE BANK EUROPE SA",
@@ -6321,8 +6321,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TLIC",
-    "bankCode": "LU",
+    "bankCode": "TLIC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "TLICLULL",
     "Bank Name": "TELECOM ITALIA CAPITAL SA",
@@ -6334,8 +6334,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIFL",
-    "bankCode": "LU",
+    "bankCode": "TIFL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "TIFLLULL",
     "Bank Name": "TELECOM ITALIA FINANCE SA",
@@ -6347,8 +6347,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEIH",
-    "bankCode": "LU",
+    "bankCode": "TEIH",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "TEIHLULL",
     "Bank Name": "TERMINAL INVESTMENT LIMITED HOLDING S.A.",
@@ -6360,8 +6360,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "LU",
+    "bankCode": "IRVT",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "IRVTLULX",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV, LUXEMBOURG BRANCH",
@@ -6373,8 +6373,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "LU",
+    "bankCode": "IRVT",
+    "countryCode": "LU",
     "branchCode": "GTS",
     "SWIFT Code": "IRVTLULXGTS",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV, LUXEMBOURG BRANCH",
@@ -6386,8 +6386,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGWL",
-    "bankCode": "LU",
+    "bankCode": "SGWL",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "SGWLLULX",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV, LUXEMBOURG BRANCH",
@@ -6399,8 +6399,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "LU",
+    "bankCode": "IRVT",
+    "countryCode": "LU",
     "branchCode": "LTA",
     "SWIFT Code": "IRVTLULXLTA",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV, LUXEMBOURG BRANCH",
@@ -6412,8 +6412,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONCY",
-    "bankCode": "LU",
+    "bankCode": "ONCY",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "ONCYLU22",
     "Bank Name": "THE ONELIFE COMPANY S.A.",
@@ -6425,8 +6425,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKLU",
-    "bankCode": "LU",
+    "bankCode": "CKLU",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CKLULULL",
     "Bank Name": "TOTALENERGIES MARKETING LUXEMBOURG S.A.",
@@ -6438,8 +6438,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSAR",
-    "bankCode": "LU",
+    "bankCode": "TSAR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "TSARLULL",
     "Bank Name": "TRAXYS EUROPE S.A.",
@@ -6451,8 +6451,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "LU",
+    "bankCode": "UBSW",
+    "countryCode": "LU",
     "branchCode": "TA1",
     "SWIFT Code": "UBSWLULLTA1",
     "Bank Name": "UBS EUROPE SE, LUXEMBOURG BRANCH",
@@ -6464,8 +6464,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "LU",
+    "bankCode": "PCBC",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "PCBCLULX",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION LUXEMBOURG BRANCH",
@@ -6477,8 +6477,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "LU",
+    "bankCode": "EVER",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "EVERLULX",
     "Bank Name": "CHINA EVERBRIGHT BANK (EUROPE) S.A.",
@@ -6490,8 +6490,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "LU",
+    "bankCode": "EVER",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EVERLULL",
     "Bank Name": "CHINA EVERBRIGHT BANK COMPANY LIMITED, LUXEMBOURG BRANCH",
@@ -6503,8 +6503,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "LU",
+    "bankCode": "CMBC",
+    "countryCode": "LU",
     "branchCode": "ULU",
     "SWIFT Code": "CMBCLULU",
     "Bank Name": "CHINA MERCHANTS BANK (EUROPE) S.A.",
@@ -6516,8 +6516,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBC",
-    "bankCode": "LU",
+    "bankCode": "CMBC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CMBCLULL",
     "Bank Name": "CHINA MERCHANTS BANK CO., LIMITED LUXEMBOURG BRANCH",
@@ -6529,8 +6529,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIWM",
-    "bankCode": "LU",
+    "bankCode": "CIWM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CIWMLULL",
     "Bank Name": "CIBC CAPITAL MARKETS (EUROPE) S.A.",
@@ -6542,8 +6542,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIWM",
-    "bankCode": "LU",
+    "bankCode": "CIWM",
+    "countryCode": "LU",
     "branchCode": "QLX",
     "SWIFT Code": "CIWMLULLQLX",
     "Bank Name": "CIBC CAPITAL MARKETS (EUROPE) S.A.",
@@ -6555,8 +6555,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITC",
-    "bankCode": "LU",
+    "bankCode": "CITC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CITCLULL",
     "Bank Name": "CITCO BANK NEDERLAND NV, LUXEMBOURG BRANCH",
@@ -6568,8 +6568,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LU",
+    "bankCode": "CITI",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "CITILULX",
     "Bank Name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
@@ -6581,8 +6581,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LU",
+    "bankCode": "CITI",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "CITILUL2",
     "Bank Name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
@@ -6594,8 +6594,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LU",
+    "bankCode": "CITI",
+    "countryCode": "LU",
     "branchCode": "LUX",
     "SWIFT Code": "CITILULXLUX",
     "Bank Name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
@@ -6607,8 +6607,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LU",
+    "bankCode": "CITI",
+    "countryCode": "LU",
     "branchCode": "EFX",
     "SWIFT Code": "CITILULXEFX",
     "Bank Name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
@@ -6620,8 +6620,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LU",
+    "bankCode": "CITI",
+    "countryCode": "LU",
     "branchCode": "CAM",
     "SWIFT Code": "CITILUL2CAM",
     "Bank Name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
@@ -6633,8 +6633,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "LU",
+    "bankCode": "CITI",
+    "countryCode": "LU",
     "branchCode": "GFL",
     "SWIFT Code": "CITILULXGFL",
     "Bank Name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
@@ -6646,8 +6646,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "U2G",
     "SWIFT Code": "CEDELU2G",
     "Bank Name": "CLEARSTREAM BANKING S.A.",
@@ -6659,8 +6659,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "ULG",
     "SWIFT Code": "CEDELULG",
     "Bank Name": "CLEARSTREAM BANKING S.A.",
@@ -6672,8 +6672,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CEDELULL",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6685,8 +6685,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "ACF",
     "SWIFT Code": "CEDELULLACF",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6698,8 +6698,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "CPI",
     "SWIFT Code": "CEDELULLCPI",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6711,8 +6711,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "OAS",
     "SWIFT Code": "CEDELULLOAS",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6724,8 +6724,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "LHB",
     "SWIFT Code": "CEDELULLLHB",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6737,8 +6737,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "LHC",
     "SWIFT Code": "CEDELULLLHC",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6750,8 +6750,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "ERF",
     "SWIFT Code": "CEDELULLERF",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6763,8 +6763,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "LGT",
     "SWIFT Code": "CEDELULLLGT",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6776,8 +6776,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "LOM",
     "SWIFT Code": "CEDELULLLOM",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6789,8 +6789,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "TSY",
     "SWIFT Code": "CEDELULLTSY",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6802,8 +6802,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "CSK",
     "SWIFT Code": "CEDELULLCSK",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6815,8 +6815,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "MCA",
     "SWIFT Code": "CEDELULLMCA",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6828,8 +6828,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "REA",
     "SWIFT Code": "CEDELULLREA",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6841,8 +6841,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "TAN",
     "SWIFT Code": "CEDELULLTAN",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6854,8 +6854,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "FCE",
     "SWIFT Code": "CEDELULLFCE",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6867,8 +6867,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "DST",
     "SWIFT Code": "CEDELULLDST",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6880,8 +6880,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "DKK",
     "SWIFT Code": "CEDELULLDKK",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6893,8 +6893,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEDE",
-    "bankCode": "LU",
+    "bankCode": "CEDE",
+    "countryCode": "LU",
     "branchCode": "MDK",
     "SWIFT Code": "CEDELULLMDK",
     "Bank Name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
@@ -6906,8 +6906,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBFC",
-    "bankCode": "LU",
+    "bankCode": "DBFC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DBFCLULL",
     "Bank Name": "CLEARSTREAM FUND CENTRE S.A.",
@@ -6919,8 +6919,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBFC",
-    "bankCode": "LU",
+    "bankCode": "DBFC",
+    "countryCode": "LU",
     "branchCode": "TSY",
     "SWIFT Code": "DBFCLULLTSY",
     "Bank Name": "CLEARSTREAM FUND CENTRE S.A.",
@@ -6932,8 +6932,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBFC",
-    "bankCode": "LU",
+    "bankCode": "DBFC",
+    "countryCode": "LU",
     "branchCode": "CUS",
     "SWIFT Code": "DBFCLULLCUS",
     "Bank Name": "CLEARSTREAM FUND CENTRE S.A.",
@@ -6945,8 +6945,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNEA",
-    "bankCode": "LU",
+    "bankCode": "CNEA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CNEALULL",
     "Bank Name": "CLEARSTREAM INTERNATIONAL S.A",
@@ -6958,8 +6958,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZRF",
-    "bankCode": "LU",
+    "bankCode": "CZRF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CZRFLULL",
     "Bank Name": "COMMERZ REAL FUND MANAGEMENT S.A.R.L.",
@@ -6971,8 +6971,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EEPK",
-    "bankCode": "LU",
+    "bankCode": "EEPK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EEPKLULL",
     "Bank Name": "COMMERZBANK FINANCE AND COVERED BOND S.A.",
@@ -6984,8 +6984,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EEPK",
-    "bankCode": "LU",
+    "bankCode": "EEPK",
+    "countryCode": "LU",
     "branchCode": "MCA",
     "SWIFT Code": "EEPKLULLMCA",
     "Bank Name": "COMMERZBANK FINANCE AND COVERED BOND S.A.",
@@ -6997,8 +6997,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "LU",
+    "bankCode": "EUCO",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EUCOLULL",
     "Bank Name": "COMMISSION OF THE EUROPEAN COMMUNITIES",
@@ -7010,8 +7010,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "LU",
+    "bankCode": "EUCO",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "EUCOLULB",
     "Bank Name": "COMMISSION OF THE EUROPEAN COMMUNITIES",
@@ -7023,8 +7023,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBNX",
-    "bankCode": "LU",
+    "bankCode": "IBNX",
+    "countryCode": "LU",
     "branchCode": "ULM",
     "SWIFT Code": "IBNXLULM",
     "Bank Name": "COMO DL S.A.",
@@ -7036,8 +7036,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPPU",
-    "bankCode": "LU",
+    "bankCode": "CPPU",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CPPULULL",
     "Bank Name": "CPI PROPERTY GROUP S.A.",
@@ -7049,8 +7049,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGHQ",
-    "bankCode": "LU",
+    "bankCode": "SGHQ",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SGHQLULL",
     "Bank Name": "CQLT SAARGUMMI TECHNOLOGIES S.A.R.L",
@@ -7062,8 +7062,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPTM",
-    "bankCode": "LU",
+    "bankCode": "CPTM",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "CPTMLUL2",
     "Bank Name": "CREDICORP CAPITAL ASSET MANAGEMENT FUND",
@@ -7075,8 +7075,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "LU",
+    "bankCode": "CRES",
+    "countryCode": "LU",
     "branchCode": "3RD",
     "SWIFT Code": "CRESLULL3RD",
     "Bank Name": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
@@ -7088,8 +7088,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "LU",
+    "bankCode": "CRES",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CRESLULL",
     "Bank Name": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
@@ -7101,8 +7101,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "LU",
+    "bankCode": "CRES",
+    "countryCode": "LU",
     "branchCode": "WRO",
     "SWIFT Code": "CRESLULLWRO",
     "Bank Name": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
@@ -7114,8 +7114,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "LU",
+    "bankCode": "EFAL",
+    "countryCode": "LU",
     "branchCode": "MID",
     "SWIFT Code": "EFALLULLMID",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A.",
@@ -7127,8 +7127,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "LU",
+    "bankCode": "EFAL",
+    "countryCode": "LU",
     "branchCode": "TRF",
     "SWIFT Code": "EFALLULLTRF",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A.",
@@ -7140,8 +7140,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIFL",
-    "bankCode": "LU",
+    "bankCode": "EIFL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EIFLLULL",
     "Bank Name": "EUROPEAN INVESTMENT FUND",
@@ -7153,8 +7153,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIFL",
-    "bankCode": "LU",
+    "bankCode": "EIFL",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "EIFLLULB",
     "Bank Name": "EUROPEAN INVESTMENT FUND - EIF",
@@ -7166,8 +7166,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESME",
-    "bankCode": "LU",
+    "bankCode": "ESME",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ESMELULL",
     "Bank Name": "EUROPEAN STABILITY MECHANISM",
@@ -7179,8 +7179,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVRZ",
-    "bankCode": "LU",
+    "bankCode": "EVRZ",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EVRZLULL",
     "Bank Name": "EVRAZ GROUP S.A.",
@@ -7192,8 +7192,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIAS",
-    "bankCode": "LU",
+    "bankCode": "FIAS",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FIASLULL",
     "Bank Name": "FARAD INVESTMENT MANAGEMENT SA",
@@ -7205,8 +7205,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAVA",
-    "bankCode": "LU",
+    "bankCode": "FAVA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FAVALULL",
     "Bank Name": "FAREVA",
@@ -7218,8 +7218,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRRR",
-    "bankCode": "LU",
+    "bankCode": "FRRR",
+    "countryCode": "LU",
     "branchCode": "ULF",
     "SWIFT Code": "FRRRLULF",
     "Bank Name": "FERRERO INTERNATIONAL S.A.",
@@ -7231,8 +7231,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIXE",
-    "bankCode": "LU",
+    "bankCode": "FIXE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FIXELULL",
     "Bank Name": "FINEXIS S.A.",
@@ -7244,8 +7244,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNLG",
-    "bankCode": "LU",
+    "bankCode": "FNLG",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "FNLGLU22",
     "Bank Name": "FINOLOGEE S.A.",
@@ -7257,8 +7257,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FISP",
-    "bankCode": "LU",
+    "bankCode": "FISP",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "FISPLU22",
     "Bank Name": "FIS PRIVATBANK S.A.",
@@ -7270,8 +7270,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSAE",
-    "bankCode": "LU",
+    "bankCode": "FSAE",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "FSAELU22",
     "Bank Name": "FOYER SANTE S.A.",
@@ -7283,8 +7283,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRIM",
-    "bankCode": "LU",
+    "bankCode": "FRIM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FRIMLULL",
     "Bank Name": "FRANKLIN TEMPLETON INTERNATIONAL SERVICES S.A.R.L.",
@@ -7296,8 +7296,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCHA",
-    "bankCode": "LU",
+    "bankCode": "FCHA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FCHALULL",
     "Bank Name": "FUND CHANNEL S.A.",
@@ -7309,8 +7309,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCHA",
-    "bankCode": "LU",
+    "bankCode": "FCHA",
+    "countryCode": "LU",
     "branchCode": "FDA",
     "SWIFT Code": "FCHALULLFDA",
     "Bank Name": "FUND CHANNEL S.A.",
@@ -7322,8 +7322,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FUDS",
-    "bankCode": "LU",
+    "bankCode": "FUDS",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "FUDSLU22",
     "Bank Name": "FUNDSDLT S.A.",
@@ -7335,8 +7335,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QVST",
-    "bankCode": "LU",
+    "bankCode": "QVST",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "QVSTLULL",
     "Bank Name": "GEN II LUXEMBOURG SERVICES SARL",
@@ -7348,8 +7348,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLIO",
-    "bankCode": "LU",
+    "bankCode": "GLIO",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "GLIOLUL2",
     "Bank Name": "GLOBAL INCOME S.A.",
@@ -7361,8 +7361,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "LU",
+    "bankCode": "GOLD",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "GOLDLU22",
     "Bank Name": "GOLDMAN SACHS BANK EUROPE SE, LUXEMBOURG BRANCH",
@@ -7374,8 +7374,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "LU",
+    "bankCode": "GOLD",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "GOLDLULL",
     "Bank Name": "GOLDMAN SACHS BANK EUROPE SE, LUXEMBOURG BRANCH",
@@ -7387,8 +7387,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSHN",
-    "bankCode": "LU",
+    "bankCode": "HSHN",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "HSHNLULB",
     "Bank Name": "HAMBURG COMMERCIAL BANK LUXEMBURG BRANCH",
@@ -7400,8 +7400,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAUK",
-    "bankCode": "LU",
+    "bankCode": "HAUK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "HAUKLULL",
     "Bank Name": "HAUCK AUFHAEUSER LAMPE PRIVATBANK AG, NIEDERLASSUNG LUXEMBURG",
@@ -7413,8 +7413,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSHN",
-    "bankCode": "LU",
+    "bankCode": "HSHN",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "HSHNLULL",
     "Bank Name": "HCOB SECURITIES S.A.",
@@ -7426,8 +7426,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HELR",
-    "bankCode": "LU",
+    "bankCode": "HELR",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "HELRLUL2",
     "Bank Name": "HEDGESERV (LUXEMBOURG) S.A.R.L.",
@@ -7439,8 +7439,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HQXX",
-    "bankCode": "LU",
+    "bankCode": "HQXX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "HQXXLULL",
     "Bank Name": "HQLAX S.A.R.L.",
@@ -7452,8 +7452,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "LU",
+    "bankCode": "BBDA",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "BBDALULX",
     "Bank Name": "HSBC CONTINENTAL EUROPE, LUXEMBOURG",
@@ -7465,8 +7465,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "LU",
+    "bankCode": "HSBC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "HSBCLULL",
     "Bank Name": "HSBC CONTINENTAL EUROPE, LUXEMBOURG",
@@ -7478,8 +7478,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDA",
-    "bankCode": "LU",
+    "bankCode": "BBDA",
+    "countryCode": "LU",
     "branchCode": "TAR",
     "SWIFT Code": "BBDALULXTAR",
     "Bank Name": "HSBC CONTINENTAL EUROPE, LUXEMBOURG",
@@ -7491,8 +7491,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "LU",
+    "bankCode": "BLIC",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "BLICLULX",
     "Bank Name": "HSBC PRIVATE BANK (LUXEMBOURG) S.A.",
@@ -7504,8 +7504,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "LU",
+    "bankCode": "ICBK",
+    "countryCode": "LU",
     "branchCode": "ULU",
     "SWIFT Code": "ICBKLULU",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A.",
@@ -7517,8 +7517,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "LU",
+    "bankCode": "ICBK",
+    "countryCode": "LU",
     "branchCode": "ULC",
     "SWIFT Code": "ICBKLULC",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, LIMITED, LUXEMBOURG BRANCH (RMB CLEARING BANK)",
@@ -7530,8 +7530,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "LU",
+    "bankCode": "ICBK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ICBKLULL",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD., LUXEMBOURG BRANCH",
@@ -7543,8 +7543,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CELL",
-    "bankCode": "LU",
+    "bankCode": "CELL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CELLLULL",
     "Bank Name": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
@@ -7556,8 +7556,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CELL",
-    "bankCode": "LU",
+    "bankCode": "CELL",
+    "countryCode": "LU",
     "branchCode": "CTD",
     "SWIFT Code": "CELLLULLCTD",
     "Bank Name": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
@@ -7569,8 +7569,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CELL",
-    "bankCode": "LU",
+    "bankCode": "CELL",
+    "countryCode": "LU",
     "branchCode": "GSD",
     "SWIFT Code": "CELLLULLGSD",
     "Bank Name": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
@@ -7582,8 +7582,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CELL",
-    "bankCode": "LU",
+    "bankCode": "CELL",
+    "countryCode": "LU",
     "branchCode": "TRD",
     "SWIFT Code": "CELLLULLTRD",
     "Bank Name": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
@@ -7595,8 +7595,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGR",
-    "bankCode": "LU",
+    "bankCode": "INGR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "INGRLULL",
     "Bank Name": "INGRAM MICRO LUXEMBOURG SARL",
@@ -7608,8 +7608,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITFM",
-    "bankCode": "LU",
+    "bankCode": "ITFM",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "ITFMLUL2",
     "Bank Name": "INTER FUND MANAGEMENT SA",
@@ -7621,8 +7621,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISTL",
-    "bankCode": "LU",
+    "bankCode": "ISTL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ISTLLULL",
     "Bank Name": "INTER STL S.A.",
@@ -7634,8 +7634,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFSA",
-    "bankCode": "LU",
+    "bankCode": "IFSA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "IFSALULL",
     "Bank Name": "INTERNATIONAL FUND SERVICES AND ASSET MANAGEMENT S.A.",
@@ -7647,8 +7647,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBK",
-    "bankCode": "LU",
+    "bankCode": "SEBK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "SEBKLULL",
     "Bank Name": "INTESA SANPAOLO BANK LUXEMBOURG",
@@ -7660,8 +7660,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBPX",
-    "bankCode": "LU",
+    "bankCode": "CBPX",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CBPXLULL",
     "Bank Name": "INTESA SANPAOLO WEALTH MANAGEMENT S.A.",
@@ -7673,8 +7673,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBK",
-    "bankCode": "LU",
+    "bankCode": "FIBK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FIBKLULL",
     "Bank Name": "INTESA SANPAOLO WEALTH MANAGEMENT S.A.",
@@ -7686,8 +7686,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBK",
-    "bankCode": "LU",
+    "bankCode": "FIBK",
+    "countryCode": "LU",
     "branchCode": "FPB",
     "SWIFT Code": "FIBKLULLFPB",
     "Bank Name": "INTESA SANPAOLO WEALTH MANAGEMENT S.A.",
@@ -7699,8 +7699,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "LU",
+    "bankCode": "ITAU",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "ITAULUL2",
     "Bank Name": "ITAU BBA EUROPE - LUXEMBOURG BRANCH",
@@ -7712,8 +7712,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ULW",
     "SWIFT Code": "CHASLULW",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -7725,8 +7725,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "JPL",
     "SWIFT Code": "CHASLULAJPL",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -7738,8 +7738,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "MLM",
     "SWIFT Code": "CHASLULAMLM",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -7751,8 +7751,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "LU",
+    "bankCode": "CHAS",
+    "countryCode": "LU",
     "branchCode": "ULA",
     "SWIFT Code": "CHASLULA",
     "Bank Name": "J.P. MORGAN SE - LUXEMBOURG BRANCH",
@@ -7764,8 +7764,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SLH",
     "SWIFT Code": "CLAOLU2LSLH",
     "Bank Name": "CALASTONE LIMITED",
@@ -7777,8 +7777,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SLS",
     "SWIFT Code": "CLAOLU2LSLS",
     "Bank Name": "CALASTONE LIMITED",
@@ -7790,8 +7790,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SNS",
     "SWIFT Code": "CLAOLU2LSNS",
     "Bank Name": "CALASTONE LIMITED",
@@ -7803,8 +7803,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SPB",
     "SWIFT Code": "CLAOLU2LSPB",
     "Bank Name": "CALASTONE LIMITED",
@@ -7816,8 +7816,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SSC",
     "SWIFT Code": "CLAOLU2LSSC",
     "Bank Name": "CALASTONE LIMITED",
@@ -7829,8 +7829,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TDD",
     "SWIFT Code": "CLAOLU2LTDD",
     "Bank Name": "CALASTONE LIMITED",
@@ -7842,8 +7842,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TLW",
     "SWIFT Code": "CLAOLU2LTLW",
     "Bank Name": "CALASTONE LIMITED",
@@ -7855,8 +7855,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "UOM",
     "SWIFT Code": "CLAOLU2LUOM",
     "Bank Name": "CALASTONE LIMITED",
@@ -7868,8 +7868,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WAY",
     "SWIFT Code": "CLAOLU2LWAY",
     "Bank Name": "CALASTONE LIMITED",
@@ -7881,8 +7881,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WOM",
     "SWIFT Code": "CLAOLU2LWOM",
     "Bank Name": "CALASTONE LIMITED",
@@ -7894,8 +7894,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WSE",
     "SWIFT Code": "CLAOLU2LWSE",
     "Bank Name": "CALASTONE LIMITED",
@@ -7907,8 +7907,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WTD",
     "SWIFT Code": "CLAOLU2LWTD",
     "Bank Name": "CALASTONE LIMITED",
@@ -7920,8 +7920,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ZXI",
     "SWIFT Code": "CLAOLU2LZXI",
     "Bank Name": "CALASTONE LIMITED",
@@ -7933,8 +7933,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "COF",
     "SWIFT Code": "CLAOLU2LCOF",
     "Bank Name": "CALASTONE LIMITED",
@@ -7946,8 +7946,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CEQ",
     "SWIFT Code": "CLAOLU2LCEQ",
     "Bank Name": "CALASTONE LIMITED",
@@ -7959,8 +7959,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "COU",
     "SWIFT Code": "CLAOLU2LCOU",
     "Bank Name": "CALASTONE LIMITED",
@@ -7972,8 +7972,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DEU",
     "SWIFT Code": "CLAOLU2LDEU",
     "Bank Name": "CALASTONE LIMITED",
@@ -7985,8 +7985,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DON",
     "SWIFT Code": "CLAOLU2LDON",
     "Bank Name": "CALASTONE LIMITED",
@@ -7998,8 +7998,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DTW",
     "SWIFT Code": "CLAOLU2LDTW",
     "Bank Name": "CALASTONE LIMITED",
@@ -8011,8 +8011,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "DWP",
     "SWIFT Code": "CLAOLU2LDWP",
     "Bank Name": "CALASTONE LIMITED",
@@ -8024,8 +8024,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ECC",
     "SWIFT Code": "CLAOLU2LECC",
     "Bank Name": "CALASTONE LIMITED",
@@ -8037,8 +8037,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FNC",
     "SWIFT Code": "CLAOLU2LFNC",
     "Bank Name": "CALASTONE LIMITED",
@@ -8050,8 +8050,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FID",
     "SWIFT Code": "CLAOLU2LFID",
     "Bank Name": "CALASTONE LIMITED",
@@ -8063,8 +8063,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FIE",
     "SWIFT Code": "CLAOLU2LFIE",
     "Bank Name": "CALASTONE LIMITED",
@@ -8076,8 +8076,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FSF",
     "SWIFT Code": "CLAOLU2LFSF",
     "Bank Name": "CALASTONE LIMITED",
@@ -8089,8 +8089,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FNZ",
     "SWIFT Code": "CLAOLU2LFNZ",
     "Bank Name": "CALASTONE LIMITED",
@@ -8102,8 +8102,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FLN",
     "SWIFT Code": "CLAOLU2LFLN",
     "Bank Name": "CALASTONE LIMITED",
@@ -8115,8 +8115,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FSC",
     "SWIFT Code": "CLAOLU2LFSC",
     "Bank Name": "CALASTONE LIMITED",
@@ -8128,8 +8128,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FUX",
     "SWIFT Code": "CLAOLU2LFUX",
     "Bank Name": "CALASTONE LIMITED",
@@ -8141,8 +8141,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "FUQ",
     "SWIFT Code": "CLAOLU2LFUQ",
     "Bank Name": "CALASTONE LIMITED",
@@ -8154,8 +8154,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "GLG",
     "SWIFT Code": "CLAOLU2LGLG",
     "Bank Name": "CALASTONE LIMITED",
@@ -8167,8 +8167,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "GOS",
     "SWIFT Code": "CLAOLU2LGOS",
     "Bank Name": "CALASTONE LIMITED",
@@ -8180,8 +8180,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HGR",
     "SWIFT Code": "CLAOLU2LHGR",
     "Bank Name": "CALASTONE LIMITED",
@@ -8193,8 +8193,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HLU",
     "SWIFT Code": "CLAOLU2LHLU",
     "Bank Name": "CALASTONE LIMITED",
@@ -8206,8 +8206,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "HUC",
     "SWIFT Code": "CLAOLU2LHUC",
     "Bank Name": "CALASTONE LIMITED",
@@ -8219,8 +8219,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ICB",
     "SWIFT Code": "CLAOLU2LICB",
     "Bank Name": "CALASTONE LIMITED",
@@ -8232,8 +8232,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IFS",
     "SWIFT Code": "CLAOLU2LIFS",
     "Bank Name": "CALASTONE LIMITED",
@@ -8245,8 +8245,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "INV",
     "SWIFT Code": "CLAOLU2LINV",
     "Bank Name": "CALASTONE LIMITED",
@@ -8258,8 +8258,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ITC",
     "SWIFT Code": "CLAOLU2LITC",
     "Bank Name": "CALASTONE LIMITED",
@@ -8271,8 +8271,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IPS",
     "SWIFT Code": "CLAOLU2LIPS",
     "Bank Name": "CALASTONE LIMITED",
@@ -8284,8 +8284,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ITF",
     "SWIFT Code": "CLAOLU2LITF",
     "Bank Name": "CALASTONE LIMITED",
@@ -8297,8 +8297,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IVS",
     "SWIFT Code": "CLAOLU2LIVS",
     "Bank Name": "CALASTONE LIMITED",
@@ -8310,8 +8310,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "IWI",
     "SWIFT Code": "CLAOLU2LIWI",
     "Bank Name": "CALASTONE LIMITED",
@@ -8323,8 +8323,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JMF",
     "SWIFT Code": "CLAOLU2LJMF",
     "Bank Name": "CALASTONE LIMITED",
@@ -8336,8 +8336,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JPM",
     "SWIFT Code": "CLAOLU2LJPM",
     "Bank Name": "CALASTONE LIMITED",
@@ -8349,8 +8349,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JUP",
     "SWIFT Code": "CLAOLU2LJUP",
     "Bank Name": "CALASTONE LIMITED",
@@ -8362,8 +8362,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "JPL",
     "SWIFT Code": "CLAOLU2LJPL",
     "Bank Name": "CALASTONE LIMITED",
@@ -8375,8 +8375,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "KAM",
     "SWIFT Code": "CLAOLU2LKAM",
     "Bank Name": "CALASTONE LIMITED",
@@ -8388,8 +8388,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LEG",
     "SWIFT Code": "CLAOLU2LLEG",
     "Bank Name": "CALASTONE LIMITED",
@@ -8401,8 +8401,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LNG",
     "SWIFT Code": "CLAOLU2LLNG",
     "Bank Name": "CALASTONE LIMITED",
@@ -8414,8 +8414,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "LU",
+    "bankCode": "UBSW",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "UBSWLULL",
     "Bank Name": "UBS EUROPE SE, LUXEMBOURG BRANCH",
@@ -8427,8 +8427,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "LU",
+    "bankCode": "UBSW",
+    "countryCode": "LU",
     "branchCode": "TOP",
     "SWIFT Code": "UBSWLULLTOP",
     "Bank Name": "UBS EUROPE SE, LUXEMBOURG BRANCH",
@@ -8440,8 +8440,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "LU",
+    "bankCode": "UBSW",
+    "countryCode": "LU",
     "branchCode": "TA2",
     "SWIFT Code": "UBSWLULLTA2",
     "Bank Name": "UBS EUROPE SE, LUXEMBOURG BRANCH",
@@ -8453,8 +8453,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "LU",
+    "bankCode": "UBSW",
+    "countryCode": "LU",
     "branchCode": "FSL",
     "SWIFT Code": "UBSWLULLFSL",
     "Bank Name": "UBS EUROPE SE, LUXEMBOURG BRANCH",
@@ -8466,8 +8466,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "LU",
+    "bankCode": "UBSW",
+    "countryCode": "LU",
     "branchCode": "T2S",
     "SWIFT Code": "UBSWLULLT2S",
     "Bank Name": "UBS EUROPE SE, LUXEMBOURG BRANCH",
@@ -8479,8 +8479,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "LU",
+    "bankCode": "UNCR",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "UNCRLULL",
     "Bank Name": "UNICREDIT INTERNATIONAL BANK-LUXEMBOURG S.A.",
@@ -8492,8 +8492,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "LU",
+    "bankCode": "PANX",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "PANXLUL2",
     "Bank Name": "UNIFIEDPOST PAYMENTS SA (LUXEMBOURG)",
@@ -8505,8 +8505,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSA",
-    "bankCode": "LU",
+    "bankCode": "DBSA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DBSALULL",
     "Bank Name": "UNION BANCAIRE PRIVEE (EUROPE) S.A.",
@@ -8518,8 +8518,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSA",
-    "bankCode": "LU",
+    "bankCode": "DBSA",
+    "countryCode": "LU",
     "branchCode": "FND",
     "SWIFT Code": "DBSALULLFND",
     "Bank Name": "UNION BANCAIRE PRIVEE (EUROPE) S.A.",
@@ -8531,8 +8531,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAIC",
-    "bankCode": "LU",
+    "bankCode": "VAIC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "VAICLULL",
     "Bank Name": "VALFIDUS INVEST S.C.A.",
@@ -8544,8 +8544,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VENY",
-    "bankCode": "LU",
+    "bankCode": "VENY",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "VENYLULL",
     "Bank Name": "VENTIENT ENERGY S.A.R.L.",
@@ -8557,8 +8557,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VITI",
-    "bankCode": "LU",
+    "bankCode": "VITI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "VITILULL",
     "Bank Name": "VITIS LIFE S.A.",
@@ -8570,8 +8570,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "LU",
+    "bankCode": "VPAY",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "VPAYLUL2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. LUXEMBOURG BRANCH",
@@ -8583,8 +8583,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOEU",
-    "bankCode": "LU",
+    "bankCode": "JOEU",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "JOEULUL2",
     "Bank Name": "VIVID MONEY S.A.",
@@ -8596,8 +8596,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VVID",
-    "bankCode": "LU",
+    "bankCode": "VVID",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "VVIDLUL2",
     "Bank Name": "VIVID MONEY S.A.",
@@ -8609,8 +8609,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPBV",
-    "bankCode": "LU",
+    "bankCode": "VPBV",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "VPBVLULL",
     "Bank Name": "VP BANK (LUXEMBOURG) SA",
@@ -8622,8 +8622,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXLP",
-    "bankCode": "LU",
+    "bankCode": "DXLP",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DXLPLULL",
     "Bank Name": "WEALINS S.A.",
@@ -8635,8 +8635,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CETL",
-    "bankCode": "LU",
+    "bankCode": "CETL",
+    "countryCode": "LU",
     "branchCode": "ULM",
     "SWIFT Code": "CETLLULM",
     "Bank Name": "WORLDLINE FINANCIAL SERVICES (EUROPE) S.A.",
@@ -8648,8 +8648,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "LU",
+    "bankCode": "CRES",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "CRESLULX",
     "Bank Name": "CREDIT SUISSE AG, LUXEMBOURG BRANCH",
@@ -8661,8 +8661,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSAM",
-    "bankCode": "LU",
+    "bankCode": "CSAM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "CSAMLULL",
     "Bank Name": "CREDIT SUISSE FUND SERVICES (LUXEMBOURG) SA",
@@ -8674,8 +8674,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSAM",
-    "bankCode": "LU",
+    "bankCode": "CSAM",
+    "countryCode": "LU",
     "branchCode": "MFS",
     "SWIFT Code": "CSAMLULLMFS",
     "Bank Name": "CREDIT SUISSE FUND SERVICES (LUXEMBOURG) SA",
@@ -8687,8 +8687,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRIX",
-    "bankCode": "LU",
+    "bankCode": "CRIX",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "CRIXLUL2",
     "Bank Name": "CROMWELL INVESTMENT LUXEMBOURG",
@@ -8700,8 +8700,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DPAS",
-    "bankCode": "LU",
+    "bankCode": "DPAS",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DPASLULL",
     "Bank Name": "DEGROOF PETERCAM ASSET SERVICES S.A.",
@@ -8713,8 +8713,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGZF",
-    "bankCode": "LU",
+    "bankCode": "DGZF",
+    "countryCode": "LU",
     "branchCode": "ULI",
     "SWIFT Code": "DGZFLULI",
     "Bank Name": "DEKABANK DEUTSCHE GIROZENTRALE SUCCURSALE DE LUXEMBOURG",
@@ -8726,8 +8726,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELE",
-    "bankCode": "LU",
+    "bankCode": "DELE",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DELELULL",
     "Bank Name": "DELEN PRIVATE BANK LUXEMBOURG S.A.",
@@ -8739,8 +8739,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENY",
-    "bankCode": "LU",
+    "bankCode": "DENY",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "DENYLUL2",
     "Bank Name": "DENNEMEYER S.A.",
@@ -8752,8 +8752,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "DEUTLULB",
     "Bank Name": "DEUTSCHE BANK AG, FILIALE LUXEMBOURG",
@@ -8765,8 +8765,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "DEUTLULX",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A",
@@ -8778,8 +8778,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "CTA",
     "SWIFT Code": "DEUTLULLCTA",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8791,8 +8791,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DEUTLULL",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8804,8 +8804,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "CSD",
     "SWIFT Code": "DEUTLULLCSD",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8817,8 +8817,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "GES",
     "SWIFT Code": "DEUTLULLGES",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8830,8 +8830,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "DRE",
     "SWIFT Code": "DEUTLULLDRE",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8843,8 +8843,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "PRI",
     "SWIFT Code": "DEUTLULLPRI",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8856,8 +8856,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "VIT",
     "SWIFT Code": "DEUTLULLVIT",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8869,8 +8869,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "DWS",
     "SWIFT Code": "DEUTLULLDWS",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8882,8 +8882,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "TG2",
     "SWIFT Code": "DEUTLULLTG2",
     "Bank Name": "DEUTSCHE BANK LUXEMBOURG S.A.",
@@ -8895,8 +8895,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "U2H",
     "SWIFT Code": "DEUTLU2H",
     "Bank Name": "DEUTSCHE HOLDINGS (LUXEMBOURG) SARL",
@@ -8908,8 +8908,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBNL",
-    "bankCode": "LU",
+    "bankCode": "UBNL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "UBNLLULL",
     "Bank Name": "DNB LUXEMBOURG S.A.",
@@ -8921,8 +8921,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOCK",
-    "bankCode": "LU",
+    "bankCode": "DOCK",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "DOCKLU22",
     "Bank Name": "DOCK FINANCIAL S.A.",
@@ -8934,8 +8934,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOCK",
-    "bankCode": "LU",
+    "bankCode": "DOCK",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "DOCKLUL2",
     "Bank Name": "DOCK FINANCIAL S.A.",
@@ -8947,8 +8947,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHDB",
-    "bankCode": "LU",
+    "bankCode": "CHDB",
+    "countryCode": "LU",
     "branchCode": "U22",
     "SWIFT Code": "CHDBLU22",
     "Bank Name": "DONNER AND REUSCHEL AG - NIEDERLASSUNG LUXEMBURG",
@@ -8960,8 +8960,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "LU",
+    "bankCode": "DEUT",
+    "countryCode": "LU",
     "branchCode": "U2D",
     "SWIFT Code": "DEUTLU2D",
     "Bank Name": "DWS INVESTMENT S.A.",
@@ -8973,8 +8973,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENO",
-    "bankCode": "LU",
+    "bankCode": "GENO",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "GENOLULL",
     "Bank Name": "DZ PRIVATBANK S.A., LUXEMBOURG",
@@ -8986,8 +8986,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENO",
-    "bankCode": "LU",
+    "bankCode": "GENO",
+    "countryCode": "LU",
     "branchCode": "IPC",
     "SWIFT Code": "GENOLULLIPC",
     "Bank Name": "DZ PRIVATBANK S.A., LUXEMBOURG",
@@ -8999,8 +8999,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWUB",
-    "bankCode": "LU",
+    "bankCode": "EWUB",
+    "countryCode": "LU",
     "branchCode": "UL2",
     "SWIFT Code": "EWUBLUL2",
     "Bank Name": "EAST-WEST UNITED BANK S.A",
@@ -9012,8 +9012,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EWUB",
-    "bankCode": "LU",
+    "bankCode": "EWUB",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EWUBLULL",
     "Bank Name": "EAST-WEST UNITED BANK S.A.",
@@ -9025,8 +9025,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "LU",
+    "bankCode": "PRIB",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "PRIBLULL",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE)",
@@ -9038,8 +9038,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "LU",
+    "bankCode": "PRIB",
+    "countryCode": "LU",
     "branchCode": "ULB",
     "SWIFT Code": "PRIBLULB",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE)",
@@ -9051,8 +9051,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "LU",
+    "bankCode": "PRIB",
+    "countryCode": "LU",
     "branchCode": "GVA",
     "SWIFT Code": "PRIBLULLGVA",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE)",
@@ -9064,8 +9064,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "LU",
+    "bankCode": "PRIB",
+    "countryCode": "LU",
     "branchCode": "RAM",
     "SWIFT Code": "PRIBLULLRAM",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE)",
@@ -9077,8 +9077,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "LU",
+    "bankCode": "PRIB",
+    "countryCode": "LU",
     "branchCode": "FOF",
     "SWIFT Code": "PRIBLULBFOF",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE)",
@@ -9090,8 +9090,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "LU",
+    "bankCode": "PRIB",
+    "countryCode": "LU",
     "branchCode": "REG",
     "SWIFT Code": "PRIBLULLREG",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE)",
@@ -9103,8 +9103,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "LU",
+    "bankCode": "EFGB",
+    "countryCode": "LU",
     "branchCode": "ULX",
     "SWIFT Code": "EFGBLULX",
     "Bank Name": "EFG BANK LUXEMBOURG SA",
@@ -9116,8 +9116,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "LU",
+    "bankCode": "USBK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "USBKLULL",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC LUXEMBOURG BRANCH",
@@ -9129,8 +9129,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USBK",
-    "bankCode": "LU",
+    "bankCode": "USBK",
+    "countryCode": "LU",
     "branchCode": "U2L",
     "SWIFT Code": "USBKLU2L",
     "Bank Name": "ELAVON FINANCIAL SERVICES DAC LUXEMBOURG BRANCH",
@@ -9142,8 +9142,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPPF",
-    "bankCode": "LU",
+    "bankCode": "EPPF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EPPFLULL",
     "Bank Name": "EPPF",
@@ -9155,8 +9155,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNT",
-    "bankCode": "LU",
+    "bankCode": "BUNT",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "BUNTLULL",
     "Bank Name": "ESCORIAL DEVELOPMENT",
@@ -9168,8 +9168,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EREG",
-    "bankCode": "LU",
+    "bankCode": "EREG",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EREGLULL",
     "Bank Name": "EURASIAN RESOURCES GROUP S.A.R.L.",
@@ -9181,8 +9181,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBK",
-    "bankCode": "LU",
+    "bankCode": "ERBK",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ERBKLULL",
     "Bank Name": "EUROBANK PRIVATE BANK LUXEMBOURG S.A.",
@@ -9194,8 +9194,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUTA",
-    "bankCode": "LU",
+    "bankCode": "EUTA",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EUTALULL",
     "Bank Name": "EUROCOR TREASURYCO S.A.R.L.",
@@ -9207,8 +9207,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESCI",
-    "bankCode": "LU",
+    "bankCode": "ESCI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "ESCILULL",
     "Bank Name": "EUROFINS FINANCE LUXEMBOURG S.A.R.L.",
@@ -9220,8 +9220,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBWC",
-    "bankCode": "LU",
+    "bankCode": "WBWC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "WBWCLULL",
     "Bank Name": "EUROPEAN DEPOSITARY BANK SA",
@@ -9233,8 +9233,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFSF",
-    "bankCode": "LU",
+    "bankCode": "EFSF",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EFSFLULL",
     "Bank Name": "EUROPEAN FINANCIAL STABILITY FACILITY SA",
@@ -9246,8 +9246,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "LU",
+    "bankCode": "EFAL",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "EFALLULL",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A.",
@@ -9259,8 +9259,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "LU",
+    "bankCode": "EFAL",
+    "countryCode": "LU",
     "branchCode": "ACC",
     "SWIFT Code": "EFALLULLACC",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A.",
@@ -9272,8 +9272,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "LU",
+    "bankCode": "EFAL",
+    "countryCode": "LU",
     "branchCode": "FRA",
     "SWIFT Code": "EFALLULLFRA",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A.",
@@ -9285,8 +9285,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "LU",
+    "bankCode": "EFAL",
+    "countryCode": "LU",
     "branchCode": "GDS",
     "SWIFT Code": "EFALLULLGDS",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A.",
@@ -9298,8 +9298,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "LGM",
     "SWIFT Code": "CLAOLU2LLGM",
     "Bank Name": "CALASTONE LIMITED",
@@ -9311,8 +9311,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MAG",
     "SWIFT Code": "CLAOLU2LMAG",
     "Bank Name": "CALASTONE LIMITED",
@@ -9324,8 +9324,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MAN",
     "SWIFT Code": "CLAOLU2LMAN",
     "Bank Name": "CALASTONE LIMITED",
@@ -9337,8 +9337,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MAL",
     "SWIFT Code": "CLAOLU2LMAL",
     "Bank Name": "CALASTONE LIMITED",
@@ -9350,8 +9350,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MTL",
     "SWIFT Code": "CLAOLU2LMTL",
     "Bank Name": "CALASTONE LIMITED",
@@ -9363,8 +9363,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "MUL",
     "SWIFT Code": "CLAOLU2LMUL",
     "Bank Name": "CALASTONE LIMITED",
@@ -9376,8 +9376,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NEP",
     "SWIFT Code": "CLAOLU2LNEP",
     "Bank Name": "CALASTONE LIMITED",
@@ -9389,8 +9389,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NGR",
     "SWIFT Code": "CLAOLU2LNGR",
     "Bank Name": "CALASTONE LIMITED",
@@ -9402,8 +9402,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NNK",
     "SWIFT Code": "CLAOLU2LNNK",
     "Bank Name": "CALASTONE LIMITED",
@@ -9415,8 +9415,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "NUC",
     "SWIFT Code": "CLAOLU2LNUC",
     "Bank Name": "CALASTONE LIMITED",
@@ -9428,8 +9428,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "OCT",
     "SWIFT Code": "CLAOLU2LOCT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9441,8 +9441,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "OLD",
     "SWIFT Code": "CLAOLU2LOLD",
     "Bank Name": "CALASTONE LIMITED",
@@ -9454,8 +9454,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PCP",
     "SWIFT Code": "CLAOLU2LPCP",
     "Bank Name": "CALASTONE LIMITED",
@@ -9467,8 +9467,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PER",
     "SWIFT Code": "CLAOLU2LPER",
     "Bank Name": "CALASTONE LIMITED",
@@ -9480,8 +9480,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SOM",
     "SWIFT Code": "CLAOLU2LSOM",
     "Bank Name": "CALASTONE LIMITED",
@@ -9493,8 +9493,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TWE",
     "SWIFT Code": "CLAOLU2LTWE",
     "Bank Name": "CALASTONE LIMITED",
@@ -9506,8 +9506,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TDW",
     "SWIFT Code": "CLAOLU2LTDW",
     "Bank Name": "CALASTONE LIMITED",
@@ -9519,8 +9519,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PPF",
     "SWIFT Code": "CLAOLU2LPPF",
     "Bank Name": "CALASTONE LIMITED",
@@ -9532,8 +9532,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "PXT",
     "SWIFT Code": "CLAOLU2LPXT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9545,8 +9545,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "QUT",
     "SWIFT Code": "CLAOLU2LQUT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9558,8 +9558,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RAT",
     "SWIFT Code": "CLAOLU2LRAT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9571,8 +9571,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RAJ",
     "SWIFT Code": "CLAOLU2LRAJ",
     "Bank Name": "CALASTONE LIMITED",
@@ -9584,8 +9584,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RDL",
     "SWIFT Code": "CLAOLU2LRDL",
     "Bank Name": "CALASTONE LIMITED",
@@ -9597,8 +9597,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RED",
     "SWIFT Code": "CLAOLU2LRED",
     "Bank Name": "CALASTONE LIMITED",
@@ -9610,8 +9610,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "RMT",
     "SWIFT Code": "CLAOLU2LRMT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9623,8 +9623,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "ROY",
     "SWIFT Code": "CLAOLU2LROY",
     "Bank Name": "CALASTONE LIMITED",
@@ -9636,8 +9636,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SAR",
     "SWIFT Code": "CLAOLU2LSAR",
     "Bank Name": "CALASTONE LIMITED",
@@ -9649,8 +9649,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SSN",
     "SWIFT Code": "CLAOLU2LSSN",
     "Bank Name": "CALASTONE LIMITED",
@@ -9662,8 +9662,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SCD",
     "SWIFT Code": "CLAOLU2LSCD",
     "Bank Name": "CALASTONE LIMITED",
@@ -9675,8 +9675,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SWP",
     "SWIFT Code": "CLAOLU2LSWP",
     "Bank Name": "CALASTONE LIMITED",
@@ -9688,8 +9688,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SOC",
     "SWIFT Code": "CLAOLU2LSOC",
     "Bank Name": "CALASTONE LIMITED",
@@ -9701,8 +9701,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SIG",
     "SWIFT Code": "CLAOLU2LSIG",
     "Bank Name": "CALASTONE LIMITED",
@@ -9714,8 +9714,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SMW",
     "SWIFT Code": "CLAOLU2LSMW",
     "Bank Name": "CALASTONE LIMITED",
@@ -9727,8 +9727,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SSA",
     "SWIFT Code": "CLAOLU2LSSA",
     "Bank Name": "CALASTONE LIMITED",
@@ -9740,8 +9740,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "STN",
     "SWIFT Code": "CLAOLU2LSTN",
     "Bank Name": "CALASTONE LIMITED",
@@ -9753,8 +9753,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SQN",
     "SWIFT Code": "CLAOLU2LSQN",
     "Bank Name": "CALASTONE LIMITED",
@@ -9766,8 +9766,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "SQT",
     "SWIFT Code": "CLAOLU2LSQT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9779,8 +9779,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TAE",
     "SWIFT Code": "CLAOLU2LTAE",
     "Bank Name": "CALASTONE LIMITED",
@@ -9792,8 +9792,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TAY",
     "SWIFT Code": "CLAOLU2LTAY",
     "Bank Name": "CALASTONE LIMITED",
@@ -9805,8 +9805,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "TBB",
     "SWIFT Code": "CLAOLU2LTBB",
     "Bank Name": "CALASTONE LIMITED",
@@ -9818,8 +9818,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "UNB",
     "SWIFT Code": "CLAOLU2LUNB",
     "Bank Name": "CALASTONE LIMITED",
@@ -9831,8 +9831,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "UOT",
     "SWIFT Code": "CLAOLU2LUOT",
     "Bank Name": "CALASTONE LIMITED",
@@ -9844,8 +9844,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "WDD",
     "SWIFT Code": "CLAOLU2LWDD",
     "Bank Name": "CALASTONE LIMITED",
@@ -9857,8 +9857,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLAO",
-    "bankCode": "LU",
+    "bankCode": "CLAO",
+    "countryCode": "LU",
     "branchCode": "CFM",
     "SWIFT Code": "CLAOLU2LCFM",
     "Bank Name": "CALASTONE LIMITED",
@@ -9870,8 +9870,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXAM",
-    "bankCode": "LU",
+    "bankCode": "DXAM",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "DXAMLULL",
     "Bank Name": "CANDRIAM",
@@ -9883,8 +9883,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAML",
-    "bankCode": "LU",
+    "bankCode": "FAML",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FAMLLULL",
     "Bank Name": "CAPITALAT WORK FOYER GROUP S.A.",
@@ -9896,8 +9896,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSI",
-    "bankCode": "LU",
+    "bankCode": "FTSI",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "FTSILULL",
     "Bank Name": "CARDIF LUX VIE",
@@ -9909,8 +9909,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSI",
-    "bankCode": "LU",
+    "bankCode": "FTSI",
+    "countryCode": "LU",
     "branchCode": "INT",
     "SWIFT Code": "FTSILULLINT",
     "Bank Name": "CARDIF LUX VIE",
@@ -9922,8 +9922,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSI",
-    "bankCode": "LU",
+    "bankCode": "FTSI",
+    "countryCode": "LU",
     "branchCode": "EXT",
     "SWIFT Code": "FTSILULLEXT",
     "Bank Name": "CARDIF LUX VIE",
@@ -9935,8 +9935,8 @@ const luxembourg = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "LU",
+    "bankCode": "PCBC",
+    "countryCode": "LU",
     "branchCode": "ULL",
     "SWIFT Code": "PCBCLULL",
     "Bank Name": "CHINA CONSTRUCTION BANK (EUROPE) S.A.",

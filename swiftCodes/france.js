@@ -1,8 +1,8 @@
 const france = [
   {},
   {
-    "countryCode": "BEEV",
-    "bankCode": "FR",
+    "bankCode": "BEEV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BEEVFRPP",
     "Bank Name": "BELIEVE S.A.",
@@ -14,8 +14,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEMO",
-    "bankCode": "FR",
+    "bankCode": "BEMO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BEMOFRPP",
     "Bank Name": "BEMO EUROPE BANQUE PRIVEE",
@@ -27,8 +27,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTO",
-    "bankCode": "FR",
+    "bankCode": "BNTO",
+    "countryCode": "FR",
     "branchCode": "R2S",
     "SWIFT Code": "BNTOFR2S",
     "Bank Name": "BENETEAU",
@@ -40,8 +40,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEVG",
-    "bankCode": "FR",
+    "bankCode": "BEVG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BEVGFRPP",
     "Bank Name": "BETCLIC EVEREST GROUP S.A.S.",
@@ -53,8 +53,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "FR",
+    "bankCode": "BGFI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BGFIFRPP",
     "Bank Name": "BGFIBANK EUROPE",
@@ -66,8 +66,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "FR",
+    "bankCode": "BGFI",
+    "countryCode": "FR",
     "branchCode": "FGX",
     "SWIFT Code": "BGFIFRPPFGX",
     "Bank Name": "BGFIBANK EUROPE",
@@ -79,8 +79,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "FR",
+    "bankCode": "BGFI",
+    "countryCode": "FR",
     "branchCode": "RSV",
     "SWIFT Code": "BGFIFRPPRSV",
     "Bank Name": "BGFIBANK EUROPE",
@@ -93,8 +93,8 @@ const france = [
   },
   {},
   {
-    "countryCode": "BIGM",
-    "bankCode": "FR",
+    "bankCode": "BIGM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BIGMFRPP",
     "Bank Name": "BIG MAMMA FOOD SAS",
@@ -107,8 +107,8 @@ const france = [
   },
   {},
   {
-    "countryCode": "BIHL",
-    "bankCode": "FR",
+    "bankCode": "BIHL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BIHLFRPP",
     "Bank Name": "BISCUIT HOLDING S.A.S.",
@@ -120,8 +120,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSO",
-    "bankCode": "FR",
+    "bankCode": "BMSO",
+    "countryCode": "FR",
     "branchCode": "R23",
     "SWIFT Code": "BMSOFR23",
     "Bank Name": "BM SOFTWARE",
@@ -133,8 +133,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMFC",
-    "bankCode": "FR",
+    "bankCode": "BMFC",
+    "countryCode": "FR",
     "branchCode": "R2Q",
     "SWIFT Code": "BMFCFR2Q",
     "Bank Name": "BMW FINANCE S.N.C.",
@@ -146,8 +146,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AGN",
     "SWIFT Code": "BNPAFRPPAGN",
     "Bank Name": "BNP PARIBAS",
@@ -159,8 +159,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AIP",
     "SWIFT Code": "BNPAFRPPAIP",
     "Bank Name": "BNP PARIBAS",
@@ -172,8 +172,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ALB",
     "SWIFT Code": "BNPAFRPPALB",
     "Bank Name": "BNP PARIBAS",
@@ -185,8 +185,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AMS",
     "SWIFT Code": "BNPAFRPPAMS",
     "Bank Name": "BNP PARIBAS",
@@ -198,8 +198,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AGS",
     "SWIFT Code": "BNPAFRPPAGS",
     "Bank Name": "BNP PARIBAS",
@@ -211,8 +211,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ANC",
     "SWIFT Code": "BNPAFRPPANC",
     "Bank Name": "BNP PARIBAS",
@@ -224,8 +224,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ARR",
     "SWIFT Code": "BNPAFRPPARR",
     "Bank Name": "BNP PARIBAS",
@@ -237,8 +237,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AUX",
     "SWIFT Code": "BNPAFRPPAUX",
     "Bank Name": "BNP PARIBAS",
@@ -251,8 +251,8 @@ const france = [
   },
   {},
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BAY",
     "SWIFT Code": "BNPAFRPPBAY",
     "Bank Name": "BNP PARIBAS",
@@ -264,8 +264,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BVS",
     "SWIFT Code": "BNPAFRPPBVS",
     "Bank Name": "BNP PARIBAS",
@@ -277,8 +277,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BSC",
     "SWIFT Code": "BNPAFRPPBSC",
     "Bank Name": "BNP PARIBAS",
@@ -290,8 +290,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BOR",
     "SWIFT Code": "BNPAFRPPBOR",
     "Bank Name": "BNP PARIBAS",
@@ -303,8 +303,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BOT",
     "SWIFT Code": "BNPAFRPPBOT",
     "Bank Name": "BNP PARIBAS",
@@ -316,8 +316,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "SAE",
     "SWIFT Code": "BNPAFRPPSAE",
     "Bank Name": "BNP PARIBAS",
@@ -329,8 +329,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BRE",
     "SWIFT Code": "BNPAFRPPBRE",
     "Bank Name": "BNP PARIBAS",
@@ -342,8 +342,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BRV",
     "SWIFT Code": "BNPAFRPPBRV",
     "Bank Name": "BNP PARIBAS",
@@ -355,8 +355,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CAE",
     "SWIFT Code": "BNPAFRPPCAE",
     "Bank Name": "BNP PARIBAS",
@@ -368,8 +368,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CAN",
     "SWIFT Code": "BNPAFRPPCAN",
     "Bank Name": "BNP PARIBAS",
@@ -381,8 +381,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CER",
     "SWIFT Code": "BNPAFRPPCER",
     "Bank Name": "BNP PARIBAS",
@@ -394,8 +394,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CHL",
     "SWIFT Code": "BNPAFRPPCHL",
     "Bank Name": "BNP PARIBAS",
@@ -407,8 +407,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CHS",
     "SWIFT Code": "BNPAFRPPCHS",
     "Bank Name": "BNP PARIBAS",
@@ -420,8 +420,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CLF",
     "SWIFT Code": "BNPAFRPPCLF",
     "Bank Name": "BNP PARIBAS",
@@ -433,8 +433,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CRE",
     "SWIFT Code": "BNPAFRPPCRE",
     "Bank Name": "BNP PARIBAS",
@@ -446,8 +446,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CRT",
     "SWIFT Code": "BNPAFRPPCRT",
     "Bank Name": "BNP PARIBAS",
@@ -460,8 +460,8 @@ const france = [
   },
   {},
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BGE",
     "SWIFT Code": "BNPAFRPPBGE",
     "Bank Name": "BNP PARIBAS",
@@ -473,8 +473,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "DIN",
     "SWIFT Code": "BNPAFRPPDIN",
     "Bank Name": "BNP PARIBAS",
@@ -486,8 +486,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "DUN",
     "SWIFT Code": "BNPAFRPPDUN",
     "Bank Name": "BNP PARIBAS",
@@ -499,8 +499,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ENG",
     "SWIFT Code": "BNPAFRPPENG",
     "Bank Name": "BNP PARIBAS",
@@ -512,8 +512,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "EPL",
     "SWIFT Code": "BNPAFRPPEPL",
     "Bank Name": "BNP PARIBAS",
@@ -525,8 +525,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "EVY",
     "SWIFT Code": "BNPAFRPPEVY",
     "Bank Name": "BNP PARIBAS",
@@ -539,8 +539,8 @@ const france = [
   },
   {},
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "GNV",
     "SWIFT Code": "BNPAFRPPGNV",
     "Bank Name": "BNP PARIBAS",
@@ -552,8 +552,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "GRE",
     "SWIFT Code": "BNPAFRPPGRE",
     "Bank Name": "BNP PARIBAS",
@@ -565,8 +565,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AAE",
     "SWIFT Code": "BNPAFRPPAAE",
     "Bank Name": "BNP PARIBAS",
@@ -578,8 +578,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "CBF",
     "SWIFT Code": "ESESFRPPCBF",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -591,8 +591,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "MTI",
     "SWIFT Code": "ESESFRPPMTI",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -604,8 +604,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "NBB",
     "SWIFT Code": "ESESFRPPNBB",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -617,8 +617,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "NOH",
     "SWIFT Code": "ESESFRPPNOH",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -630,8 +630,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "REG",
     "SWIFT Code": "ESESFRPPREG",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -643,8 +643,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "LE1",
     "SWIFT Code": "ESESFRPPLE1",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -656,8 +656,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "LE2",
     "SWIFT Code": "ESESFRPPLE2",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -669,8 +669,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ESESFRPP",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -682,8 +682,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "PEN",
     "SWIFT Code": "ESESFRPPPEN",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -695,8 +695,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "FTT",
     "SWIFT Code": "ESESFRPPFTT",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -708,8 +708,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "VOT",
     "SWIFT Code": "ESESFRPPVOT",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -721,8 +721,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "FDB",
     "SWIFT Code": "ESESFRPPFDB",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -734,8 +734,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "INT",
     "SWIFT Code": "ESESFRPPINT",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -747,8 +747,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "PFE",
     "SWIFT Code": "ESESFRPPPFE",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -760,8 +760,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "BIT",
     "SWIFT Code": "ESESFRPPBIT",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -773,8 +773,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "CPE",
     "SWIFT Code": "ESESFRPPCPE",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -786,8 +786,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "MIG",
     "SWIFT Code": "ESESFRPPMIG",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -799,8 +799,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "CSD",
     "SWIFT Code": "ESESFRPPCSD",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -812,8 +812,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "BIL",
     "SWIFT Code": "ESESFRPPBIL",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -825,8 +825,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "IBR",
     "SWIFT Code": "ESESFRPPIBR",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -838,8 +838,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "NTX",
     "SWIFT Code": "ESESFRPPNTX",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -851,8 +851,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "EII",
     "SWIFT Code": "ESESFRPPEII",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -864,8 +864,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "T2X",
     "SWIFT Code": "ESESFRPPT2X",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -877,8 +877,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUPP",
-    "bankCode": "FR",
+    "bankCode": "EUPP",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "EUPPFRP2",
     "Bank Name": "EUROCORPORATE ASSET MANAGEMENT S.A.",
@@ -890,8 +890,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPAR",
-    "bankCode": "FR",
+    "bankCode": "XPAR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "XPARFRPP",
     "Bank Name": "EURONEXT PARIS S.A.",
@@ -903,8 +903,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPAR",
-    "bankCode": "FR",
+    "bankCode": "XPAR",
+    "countryCode": "FR",
     "branchCode": "022",
     "SWIFT Code": "XPARFRPP022",
     "Bank Name": "EURONEXT PARIS S.A.",
@@ -916,8 +916,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPAR",
-    "bankCode": "FR",
+    "bankCode": "XPAR",
+    "countryCode": "FR",
     "branchCode": "LIS",
     "SWIFT Code": "XPARFRPPLIS",
     "Bank Name": "EURONEXT PARIS S.A.",
@@ -929,8 +929,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPAR",
-    "bankCode": "FR",
+    "bankCode": "XPAR",
+    "countryCode": "FR",
     "branchCode": "INT",
     "SWIFT Code": "XPARFRPPINT",
     "Bank Name": "EURONEXT PARIS S.A.",
@@ -942,8 +942,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XPAR",
-    "bankCode": "FR",
+    "bankCode": "XPAR",
+    "countryCode": "FR",
     "branchCode": "TRS",
     "SWIFT Code": "XPARFRPPTRS",
     "Bank Name": "EURONEXT PARIS S.A.",
@@ -955,8 +955,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUAH",
-    "bankCode": "FR",
+    "bankCode": "EUAH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EUAHFRPP",
     "Bank Name": "EUROP ASSISTANCE HOLDING S.A.S.",
@@ -968,8 +968,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECAR",
-    "bankCode": "FR",
+    "bankCode": "ECAR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ECARFR22",
     "Bank Name": "EUROPCAR HOLDING",
@@ -981,8 +981,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "FR",
+    "bankCode": "ARAB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ARABFRPP",
     "Bank Name": "EUROPE ARAB BANK SA",
@@ -994,8 +994,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "FR",
+    "bankCode": "EFAL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EFALFRPP",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A. - FRANCE",
@@ -1007,8 +1007,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "FR",
+    "bankCode": "EFAL",
+    "countryCode": "FR",
     "branchCode": "ACC",
     "SWIFT Code": "EFALFRPPACC",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A. - FRANCE",
@@ -1020,8 +1020,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFAL",
-    "bankCode": "FR",
+    "bankCode": "EFAL",
+    "countryCode": "FR",
     "branchCode": "EQY",
     "SWIFT Code": "EFALFRPPEQY",
     "Bank Name": "EUROPEAN FUND ADMINISTRATION S.A. - FRANCE",
@@ -1033,8 +1033,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESMA",
-    "bankCode": "FR",
+    "bankCode": "ESMA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "ESMAFRP2",
     "Bank Name": "EUROPEAN SECURITIES AND MARKETS AUTHORITY",
@@ -1046,8 +1046,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESAZ",
-    "bankCode": "FR",
+    "bankCode": "ESAZ",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ESAZFRPP",
     "Bank Name": "EUROPEAN SPACE AGENCY",
@@ -1059,8 +1059,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUYL",
-    "bankCode": "FR",
+    "bankCode": "EUYL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EUYLFRPP",
     "Bank Name": "EURYALE S.A.",
@@ -1072,8 +1072,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETLS",
-    "bankCode": "FR",
+    "bankCode": "ETLS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ETLSFRPP",
     "Bank Name": "EUTELSAT COMMUNICATIONS S.A",
@@ -1085,8 +1085,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVGO",
-    "bankCode": "FR",
+    "bankCode": "EVGO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EVGOFRPP",
     "Bank Name": "EVERNEX GROUP S.A.S.",
@@ -1098,8 +1098,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXWO",
-    "bankCode": "FR",
+    "bankCode": "EXWO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EXWOFRPP",
     "Bank Name": "EXCLUSIVE NETWORKS SAS",
@@ -1111,8 +1111,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTG",
-    "bankCode": "FR",
+    "bankCode": "EXTG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EXTGFR22",
     "Bank Name": "EXIDE TECHNOLOGIES S.A.S.",
@@ -1124,8 +1124,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXPG",
-    "bankCode": "FR",
+    "bankCode": "EXPG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EXPGFRPP",
     "Bank Name": "EXPERIMENTAL GROUP SAS",
@@ -1137,8 +1137,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FACF",
-    "bankCode": "FR",
+    "bankCode": "FACF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FACFFRPP",
     "Bank Name": "FACTOFRANCE",
@@ -1150,8 +1150,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEYT",
-    "bankCode": "FR",
+    "bankCode": "LEYT",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LEYTFR22",
     "Bank Name": "FAIVELEY TRANSPORT SA",
@@ -1163,8 +1163,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBDI",
-    "bankCode": "FR",
+    "bankCode": "FBDI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "FBDIFR22",
     "Bank Name": "FBD INTERNATIONAL S.A.S.",
@@ -1176,8 +1176,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCAR",
-    "bankCode": "FR",
+    "bankCode": "FCAR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "FCARFR22",
     "Bank Name": "FCA BANK S.P.A",
@@ -1189,8 +1189,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDCA",
-    "bankCode": "FR",
+    "bankCode": "FDCA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FDCAFRPP",
     "Bank Name": "FIDUCIAL",
@@ -1202,8 +1202,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFAA",
-    "bankCode": "FR",
+    "bankCode": "FFAA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "FFAAFRP2",
     "Bank Name": "FIFA CLEARING HOUSE",
@@ -1215,8 +1215,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLGE",
-    "bankCode": "FR",
+    "bankCode": "FLGE",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "FLGEFRP2",
     "Bank Name": "FIL GESTION",
@@ -1228,8 +1228,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "CTS",
     "SWIFT Code": "PARBFRPPCTS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1241,8 +1241,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "DEC",
     "SWIFT Code": "PARBFRPPDEC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1254,8 +1254,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "221",
     "SWIFT Code": "PARBFRPP221",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1267,8 +1267,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "322",
     "SWIFT Code": "PARBFRPP322",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1280,8 +1280,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "116",
     "SWIFT Code": "PARBFRPP116",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1293,8 +1293,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "144",
     "SWIFT Code": "PARBFRPP144",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1306,8 +1306,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "240",
     "SWIFT Code": "PARBFRPP240",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1319,8 +1319,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "242",
     "SWIFT Code": "PARBFRPP242",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1332,8 +1332,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "249",
     "SWIFT Code": "PARBFRPP249",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1345,8 +1345,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "579",
     "SWIFT Code": "PARBFRPP579",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1358,8 +1358,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FTT",
     "SWIFT Code": "PARBFRPPFTT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1371,8 +1371,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "PFS",
     "SWIFT Code": "PARBFRPPPFS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1384,8 +1384,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FOH",
     "SWIFT Code": "PARBFRPPFOH",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1397,8 +1397,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "546",
     "SWIFT Code": "PARBFRPP546",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1410,8 +1410,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "GCS",
     "SWIFT Code": "PARBFRPPGCS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1423,8 +1423,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "TFB",
     "SWIFT Code": "PARBFRPPTFB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1436,8 +1436,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "IPB",
     "SWIFT Code": "PARBFRPPIPB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1449,8 +1449,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "400",
     "SWIFT Code": "PARBFRPP400",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1462,8 +1462,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "MOO",
     "SWIFT Code": "PARBFRPPMOO",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1475,8 +1475,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "LOF",
     "SWIFT Code": "PARBFRPPLOF",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1488,8 +1488,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FDI",
     "SWIFT Code": "PARBFRPPFDI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1501,8 +1501,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NBB",
     "SWIFT Code": "PARBFRPPNBB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1514,8 +1514,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "JBF",
     "SWIFT Code": "PARBFRPPJBF",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1527,8 +1527,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "PIC",
     "SWIFT Code": "PARBFRPPPIC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1540,8 +1540,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "INV",
     "SWIFT Code": "PARBFRPPINV",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1553,8 +1553,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "MPX",
     "SWIFT Code": "PARBFRPPMPX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1566,8 +1566,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "SLA",
     "SWIFT Code": "PARBFRPPSLA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1579,8 +1579,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "SLB",
     "SWIFT Code": "PARBFRPPSLB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1592,8 +1592,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "127",
     "SWIFT Code": "PARBFRPP127",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1605,8 +1605,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "145",
     "SWIFT Code": "PARBFRPP145",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1618,8 +1618,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "277",
     "SWIFT Code": "PARBFRPP277",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1631,8 +1631,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "3PM",
     "SWIFT Code": "PARBFRPP3PM",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1644,8 +1644,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "EPG",
     "SWIFT Code": "PARBFRPPEPG",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1657,8 +1657,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "TPA",
     "SWIFT Code": "PARBFRPPTPA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1670,8 +1670,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "PTC",
     "SWIFT Code": "PARBFRPPPTC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -1683,8 +1683,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "FR",
+    "bankCode": "AFRI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AFRIFRPP",
     "Bank Name": "BOA-FRANCE",
@@ -1696,8 +1696,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDD",
-    "bankCode": "FR",
+    "bankCode": "BCDD",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BCDDFR22",
     "Bank Name": "BOCCARD S.A.",
@@ -1709,8 +1709,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "RP3",
     "SWIFT Code": "BOFAFRP3",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1722,8 +1722,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "GPB",
     "SWIFT Code": "BOFAFRP4GPB",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1735,8 +1735,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "RP4",
     "SWIFT Code": "BOFAFRP4",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1748,8 +1748,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "PLX",
     "SWIFT Code": "BOFAFRP3PLX",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1761,8 +1761,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "MET",
     "SWIFT Code": "BOFAFRP3MET",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1774,8 +1774,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "ESF",
     "SWIFT Code": "BOFAFRP4ESF",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1787,8 +1787,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "SEG",
     "SWIFT Code": "BOFAFRP3SEG",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1800,8 +1800,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "ECL",
     "SWIFT Code": "BOFAFRP4ECL",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1813,8 +1813,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "EQD",
     "SWIFT Code": "BOFAFRP4EQD",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1826,8 +1826,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "FIC",
     "SWIFT Code": "BOFAFRP3FIC",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1839,8 +1839,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "FUT",
     "SWIFT Code": "BOFAFRP4FUT",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1852,8 +1852,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "EFG",
     "SWIFT Code": "BOFAFRP4EFG",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1865,8 +1865,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "GRS",
     "SWIFT Code": "BOFAFRP4GRS",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -1878,8 +1878,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "JSO",
     "SWIFT Code": "SOGEFRPPJSO",
     "Bank Name": "SOCIETE GENERALE",
@@ -1891,8 +1891,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LRE",
     "SWIFT Code": "SOGEFRPPLRE",
     "Bank Name": "SOCIETE GENERALE",
@@ -1904,8 +1904,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LRY",
     "SWIFT Code": "SOGEFRPPLRY",
     "Bank Name": "SOCIETE GENERALE",
@@ -1917,8 +1917,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LRO",
     "SWIFT Code": "SOGEFRPPLRO",
     "Bank Name": "SOCIETE GENERALE",
@@ -1930,8 +1930,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LGN",
     "SWIFT Code": "SOGEFRPPLGN",
     "Bank Name": "SOCIETE GENERALE",
@@ -1943,8 +1943,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LAO",
     "SWIFT Code": "SOGEFRPPLAO",
     "Bank Name": "SOCIETE GENERALE",
@@ -1956,8 +1956,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LAV",
     "SWIFT Code": "SOGEFRPPLAV",
     "Bank Name": "SOCIETE GENERALE",
@@ -1969,8 +1969,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LHA",
     "SWIFT Code": "SOGEFRPPLHA",
     "Bank Name": "SOCIETE GENERALE",
@@ -1982,8 +1982,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LEM",
     "SWIFT Code": "SOGEFRPPLEM",
     "Bank Name": "SOCIETE GENERALE",
@@ -1995,8 +1995,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RAI",
     "SWIFT Code": "SOGEFRPPRAI",
     "Bank Name": "SOCIETE GENERALE",
@@ -2008,8 +2008,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LEN",
     "SWIFT Code": "SOGEFRPPLEN",
     "Bank Name": "SOCIETE GENERALE",
@@ -2021,8 +2021,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LMX",
     "SWIFT Code": "SOGEFRPPLMX",
     "Bank Name": "SOCIETE GENERALE",
@@ -2034,8 +2034,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LEP",
     "SWIFT Code": "SOGEFRPPLEP",
     "Bank Name": "SOCIETE GENERALE",
@@ -2047,8 +2047,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LIB",
     "SWIFT Code": "SOGEFRPPLIB",
     "Bank Name": "SOCIETE GENERALE",
@@ -2060,8 +2060,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LLM",
     "SWIFT Code": "SOGEFRPPLLM",
     "Bank Name": "SOCIETE GENERALE",
@@ -2073,8 +2073,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LIN",
     "SWIFT Code": "SOGEFRPPLIN",
     "Bank Name": "SOCIETE GENERALE",
@@ -2086,8 +2086,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LIM",
     "SWIFT Code": "SOGEFRPPLIM",
     "Bank Name": "SOCIETE GENERALE",
@@ -2099,8 +2099,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LIS",
     "SWIFT Code": "SOGEFRPPLIS",
     "Bank Name": "SOCIETE GENERALE",
@@ -2112,8 +2112,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LGJ",
     "SWIFT Code": "SOGEFRPPLGJ",
     "Bank Name": "SOCIETE GENERALE",
@@ -2125,8 +2125,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LOG",
     "SWIFT Code": "SOGEFRPPLOG",
     "Bank Name": "SOCIETE GENERALE",
@@ -2138,8 +2138,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LLS",
     "SWIFT Code": "SOGEFRPPLLS",
     "Bank Name": "SOCIETE GENERALE",
@@ -2151,8 +2151,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LOR",
     "SWIFT Code": "SOGEFRPPLOR",
     "Bank Name": "SOCIETE GENERALE",
@@ -2164,8 +2164,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LDS",
     "SWIFT Code": "SOGEFRPPLDS",
     "Bank Name": "SOCIETE GENERALE",
@@ -2177,8 +2177,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LPA",
     "SWIFT Code": "SOGEFRPPLPA",
     "Bank Name": "SOCIETE GENERALE",
@@ -2190,8 +2190,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LYE",
     "SWIFT Code": "SOGEFRPPLYE",
     "Bank Name": "SOCIETE GENERALE",
@@ -2203,8 +2203,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LPD",
     "SWIFT Code": "SOGEFRPPLPD",
     "Bank Name": "SOCIETE GENERALE",
@@ -2216,8 +2216,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LYO",
     "SWIFT Code": "SOGEFRPPLYO",
     "Bank Name": "SOCIETE GENERALE",
@@ -2229,8 +2229,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LYP",
     "SWIFT Code": "SOGEFRPPLYP",
     "Bank Name": "SOCIETE GENERALE",
@@ -2242,8 +2242,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAN",
     "SWIFT Code": "SOGEFRPPMAN",
     "Bank Name": "SOCIETE GENERALE",
@@ -2255,8 +2255,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAL",
     "SWIFT Code": "SOGEFRPPMAL",
     "Bank Name": "SOCIETE GENERALE",
@@ -2268,8 +2268,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MON",
     "SWIFT Code": "SOGEFRPPMON",
     "Bank Name": "SOCIETE GENERALE",
@@ -2281,8 +2281,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MLJ",
     "SWIFT Code": "SOGEFRPPMLJ",
     "Bank Name": "SOCIETE GENERALE",
@@ -2294,8 +2294,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MRG",
     "SWIFT Code": "SOGEFRPPMRG",
     "Bank Name": "SOCIETE GENERALE",
@@ -2307,8 +2307,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "SOGEFRPPMAR",
     "Bank Name": "SOCIETE GENERALE",
@@ -2320,8 +2320,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAC",
     "SWIFT Code": "SOGEFRPPMAC",
     "Bank Name": "SOCIETE GENERALE",
@@ -2333,8 +2333,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAP",
     "SWIFT Code": "SOGEFRPPMAP",
     "Bank Name": "SOCIETE GENERALE",
@@ -2346,8 +2346,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MPL",
     "SWIFT Code": "SOGEFRPPMPL",
     "Bank Name": "SOCIETE GENERALE",
@@ -2359,8 +2359,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAU",
     "SWIFT Code": "SOGEFRPPMAU",
     "Bank Name": "SOCIETE GENERALE",
@@ -2372,8 +2372,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MAZ",
     "SWIFT Code": "SOGEFRPPMAZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -2385,8 +2385,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MEX",
     "SWIFT Code": "SOGEFRPPMEX",
     "Bank Name": "SOCIETE GENERALE",
@@ -2398,8 +2398,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MEL",
     "SWIFT Code": "SOGEFRPPMEL",
     "Bank Name": "SOCIETE GENERALE",
@@ -2411,8 +2411,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MER",
     "SWIFT Code": "SOGEFRPPMER",
     "Bank Name": "SOCIETE GENERALE",
@@ -2424,8 +2424,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MTZ",
     "SWIFT Code": "SOGEFRPPMTZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -2437,8 +2437,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MIL",
     "SWIFT Code": "SOGEFRPPMIL",
     "Bank Name": "SOCIETE GENERALE",
@@ -2450,8 +2450,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MDM",
     "SWIFT Code": "SOGEFRPPMDM",
     "Bank Name": "SOCIETE GENERALE",
@@ -2463,8 +2463,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MTG",
     "SWIFT Code": "SOGEFRPPMTG",
     "Bank Name": "SOCIETE GENERALE",
@@ -2476,8 +2476,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MTB",
     "SWIFT Code": "SOGEFRPPMTB",
     "Bank Name": "SOCIETE GENERALE",
@@ -2489,8 +2489,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MOT",
     "SWIFT Code": "SOGEFRPPMOT",
     "Bank Name": "SOCIETE GENERALE",
@@ -2502,8 +2502,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MOR",
     "SWIFT Code": "SOGEFRPPMOR",
     "Bank Name": "SOCIETE GENERALE",
@@ -2515,8 +2515,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MOC",
     "SWIFT Code": "SOGEFRPPMOC",
     "Bank Name": "SOCIETE GENERALE",
@@ -2528,8 +2528,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "CMCIFRPA",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2541,8 +2541,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "RFT",
     "SWIFT Code": "CMCIFRPARFT",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2554,8 +2554,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "CCM",
     "SWIFT Code": "CMCIFRPACCM",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2567,8 +2567,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "DGE",
     "SWIFT Code": "CMCIFRPADGE",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2580,8 +2580,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "MTS",
     "SWIFT Code": "CMCIFRPAMTS",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2593,8 +2593,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "POR",
     "SWIFT Code": "CMCIFRPAPOR",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2606,8 +2606,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "GMT",
     "SWIFT Code": "CMCIFRPAGMT",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2619,8 +2619,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "DOC",
     "SWIFT Code": "CMCIFRPADOC",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2632,8 +2632,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "PEN",
     "SWIFT Code": "CMCIFRPAPEN",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2645,8 +2645,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "CHQ",
     "SWIFT Code": "CMCIFRPACHQ",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -2658,8 +2658,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "CME",
     "SWIFT Code": "CMBRFR2BCME",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2671,8 +2671,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "EFI",
     "SWIFT Code": "CMBRFR2BEFI",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2684,8 +2684,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "CAL",
     "SWIFT Code": "CMBRFR2BCAL",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2697,8 +2697,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "ARK",
     "SWIFT Code": "CMBRFR2BARK",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2710,8 +2710,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "TIT",
     "SWIFT Code": "CMBRFR2BTIT",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2723,8 +2723,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "FIR",
     "SWIFT Code": "CMBRFR2BFIR",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2736,8 +2736,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "R2B",
     "SWIFT Code": "CMBRFR2B",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2749,8 +2749,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "SFH",
     "SWIFT Code": "CMBRFR2BSFH",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2762,8 +2762,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "SCF",
     "SWIFT Code": "CMBRFR2BSCF",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2775,8 +2775,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "DOC",
     "SWIFT Code": "CMBRFR2BDOC",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2788,8 +2788,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "PBS",
     "SWIFT Code": "CMBRFR2BPBS",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2801,8 +2801,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBR",
-    "bankCode": "FR",
+    "bankCode": "CMBR",
+    "countryCode": "FR",
     "branchCode": "AIS",
     "SWIFT Code": "CMBRFR2BAIS",
     "Bank Name": "CREDIT MUTUEL ARKEA",
@@ -2814,8 +2814,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "FR",
+    "bankCode": "CRES",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CRESFRPP",
     "Bank Name": "CREDIT SUISSE (LUXEMBOURG) S.A.",
@@ -2827,8 +2827,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "777",
     "SWIFT Code": "AGRIFRPP777",
     "Bank Name": "CREDIT-AGRICOLE PAYMENT SERVICES",
@@ -2840,8 +2840,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTIE",
-    "bankCode": "FR",
+    "bankCode": "CTIE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CTIEFRPP",
     "Bank Name": "CRITEO SA",
@@ -2853,8 +2853,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRNH",
-    "bankCode": "FR",
+    "bankCode": "CRNH",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CRNHFR22",
     "Bank Name": "CRONITE HOLDING S.A.S.",
@@ -2866,8 +2866,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRZA",
-    "bankCode": "FR",
+    "bankCode": "CRZA",
+    "countryCode": "FR",
     "branchCode": "R2V",
     "SWIFT Code": "CRZAFR2V",
     "Bank Name": "CROUZET AUTOMATISMES SAS",
@@ -2879,8 +2879,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVES",
-    "bankCode": "FR",
+    "bankCode": "CVES",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CVESFR22",
     "Bank Name": "CVE",
@@ -2892,8 +2892,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CYVB",
-    "bankCode": "FR",
+    "bankCode": "CYVB",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CYVBFR22",
     "Bank Name": "CVG S.A.S.",
@@ -2905,8 +2905,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTFE",
-    "bankCode": "FR",
+    "bankCode": "DTFE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "DTFEFR22",
     "Bank Name": "DAIMLER TRUCK FINANCIAL SERVICES FRANCE",
@@ -2918,8 +2918,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAMX",
-    "bankCode": "FR",
+    "bankCode": "DAMX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "DAMXFR22",
     "Bank Name": "DAMARTEX S.A.",
@@ -2931,8 +2931,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAFI",
-    "bankCode": "FR",
+    "bankCode": "DAFI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DAFIFRPP",
     "Bank Name": "DANONE S.A.",
@@ -2944,8 +2944,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSSA",
-    "bankCode": "FR",
+    "bankCode": "DSSA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "DSSAFR22",
     "Bank Name": "DASSAULT SYSTEMES",
@@ -2957,8 +2957,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DASV",
-    "bankCode": "FR",
+    "bankCode": "DASV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DASVFRPP",
     "Bank Name": "DATA 4 SERVICES S.A.S.",
@@ -2970,8 +2970,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBVT",
-    "bankCode": "FR",
+    "bankCode": "DBVT",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "DBVTFR2M",
     "Bank Name": "DBV TECHNOLOGIES S.A.",
@@ -2983,8 +2983,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBLK",
-    "bankCode": "FR",
+    "bankCode": "DBLK",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "DBLKFR22",
     "Bank Name": "DEBLOCK SAS",
@@ -2996,8 +2996,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OXYL",
-    "bankCode": "FR",
+    "bankCode": "OXYL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "OXYLFR22",
     "Bank Name": "DECATHLON SA",
@@ -3009,8 +3009,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEPI",
-    "bankCode": "FR",
+    "bankCode": "DEPI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DEPIFRPP",
     "Bank Name": "DELPHARM INDUSTRIE S.A.S.",
@@ -3022,8 +3022,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DERH",
-    "bankCode": "FR",
+    "bankCode": "DERH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DERHFRPP",
     "Bank Name": "DERICHEBOURG SA",
@@ -3035,8 +3035,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "FR",
+    "bankCode": "DEUT",
+    "countryCode": "FR",
     "branchCode": "SSS",
     "SWIFT Code": "DEUTFRPPSSS",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -3048,8 +3048,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "FR",
+    "bankCode": "DEUT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DEUTFRPP",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -3061,8 +3061,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "FR",
+    "bankCode": "DEUT",
+    "countryCode": "FR",
     "branchCode": "SEC",
     "SWIFT Code": "DEUTFRPPSEC",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -3074,8 +3074,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DVVO",
-    "bankCode": "FR",
+    "bankCode": "DVVO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DVVOFRPP",
     "Bank Name": "DEVOTEAM S.A.",
@@ -3087,8 +3087,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLFR",
-    "bankCode": "FR",
+    "bankCode": "CLFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CLFRFRPP",
     "Bank Name": "DEXIA S.A.",
@@ -3100,8 +3100,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIIO",
-    "bankCode": "FR",
+    "bankCode": "DIIO",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "DIIOFR2M",
     "Bank Name": "DIXIO S.A.S.",
@@ -3113,8 +3113,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNCF",
-    "bankCode": "FR",
+    "bankCode": "DNCF",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "DNCFFRPA",
     "Bank Name": "DNCA FINANCE",
@@ -3126,8 +3126,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "FR",
+    "bankCode": "ECOC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ECOCFRPP",
     "Bank Name": "EBI SA",
@@ -3139,8 +3139,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "FR",
+    "bankCode": "ECOC",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "ECOCFRPPBDF",
     "Bank Name": "EBI SA",
@@ -3152,8 +3152,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECFF",
-    "bankCode": "FR",
+    "bankCode": "ECFF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ECFFFR22",
     "Bank Name": "ECF S.A.S.",
@@ -3165,8 +3165,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDER",
-    "bankCode": "FR",
+    "bankCode": "EDER",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EDERFR22",
     "Bank Name": "EDENRED SE",
@@ -3178,8 +3178,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LVIN",
-    "bankCode": "FR",
+    "bankCode": "LVIN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LVINFR22",
     "Bank Name": "LVO INVESTISSEMENT S.A.S.",
@@ -3191,8 +3191,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LYDI",
-    "bankCode": "FR",
+    "bankCode": "LYDI",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "LYDIFRP2",
     "Bank Name": "LYDIA SOLUTIONS",
@@ -3204,8 +3204,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LYRE",
-    "bankCode": "FR",
+    "bankCode": "LYRE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LYREFR22",
     "Bank Name": "LYRECO SAS",
@@ -3217,8 +3217,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACQ",
-    "bankCode": "FR",
+    "bankCode": "MACQ",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MACQFRP2",
     "Bank Name": "MACQUARIE BANK EUROPE DESIGNATED ACTIVITY COMPANY",
@@ -3230,8 +3230,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGES",
-    "bankCode": "FR",
+    "bankCode": "MGES",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MGESFRP2",
     "Bank Name": "MAITICE GESTION",
@@ -3243,8 +3243,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSPA",
-    "bankCode": "FR",
+    "bankCode": "MSPA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MSPAFRP2",
     "Bank Name": "MAKOR SECURITIES PARIS SAS",
@@ -3256,8 +3256,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLHU",
-    "bankCode": "FR",
+    "bankCode": "MLHU",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MLHUFRP2",
     "Bank Name": "MALAKOFF HUMANIS GESTION D'ACTIFS",
@@ -3269,8 +3269,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNIN",
-    "bankCode": "FR",
+    "bankCode": "MNIN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "MNINFR22",
     "Bank Name": "MANUTAN INTERNATIONAL S.A.",
@@ -3282,8 +3282,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAUF",
-    "bankCode": "FR",
+    "bankCode": "MAUF",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MAUFFRP2",
     "Bank Name": "MARKET SECURITIES (FRANCE) SA",
@@ -3295,8 +3295,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIZA",
-    "bankCode": "FR",
+    "bankCode": "VIZA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VIZAFRPP",
     "Bank Name": "MARLINK HOLDING SAS",
@@ -3308,8 +3308,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTFN",
-    "bankCode": "FR",
+    "bankCode": "MTFN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MTFNFRPP",
     "Bank Name": "MATIGNON FINANCES S.A.",
@@ -3321,8 +3321,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAUB",
-    "bankCode": "FR",
+    "bankCode": "MAUB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MAUBFRPP",
     "Bank Name": "MAUBOUSSIN",
@@ -3334,8 +3334,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBWS",
-    "bankCode": "FR",
+    "bankCode": "MBWS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MBWSFRPP",
     "Bank Name": "MBWS S.A.",
@@ -3347,8 +3347,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBR",
-    "bankCode": "FR",
+    "bankCode": "MCBR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MCBRFRPP",
     "Bank Name": "MCBRIDE SAS",
@@ -3360,8 +3360,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "FR",
+    "bankCode": "ICBC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ICBCFRPP",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO. LTD.",
@@ -3373,8 +3373,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEMO",
-    "bankCode": "FR",
+    "bankCode": "MEMO",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "MEMOFRP2TPS",
     "Bank Name": "MEMO BANK",
@@ -3386,8 +3386,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEMO",
-    "bankCode": "FR",
+    "bankCode": "MEMO",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MEMOFRP2",
     "Bank Name": "MEMO BANK",
@@ -3399,8 +3399,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEKR",
-    "bankCode": "FR",
+    "bankCode": "MEKR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MEKRFRPP",
     "Bank Name": "MESSIKA GROUP S.A.S.",
@@ -3412,8 +3412,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "METG",
-    "bankCode": "FR",
+    "bankCode": "METG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "METGFRP2",
     "Bank Name": "METROPOLE GESTION",
@@ -3425,8 +3425,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXLT",
-    "bankCode": "FR",
+    "bankCode": "AXLT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AXLTFRPP",
     "Bank Name": "MFEX FRANCE",
@@ -3438,8 +3438,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIV",
-    "bankCode": "FR",
+    "bankCode": "PRIV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PRIVFRPP",
     "Bank Name": "MILLEIS BANQUE",
@@ -3451,8 +3451,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNEI",
-    "bankCode": "FR",
+    "bankCode": "MNEI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MNEIFRPP",
     "Bank Name": "MINELLI S.A.S.",
@@ -3464,8 +3464,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRA",
-    "bankCode": "FR",
+    "bankCode": "MIRA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MIRAFRPP",
     "Bank Name": "MIRABAUD ET CIE (EUROPE), SUCCURSALE EN FRANCE",
@@ -3477,8 +3477,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "FR",
+    "bankCode": "MHCB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MHCBFRPP",
     "Bank Name": "MIZUHO BANK, LTD. PARIS BRANCH",
@@ -3490,8 +3490,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "FR",
+    "bankCode": "MHCB",
+    "countryCode": "FR",
     "branchCode": "TGT",
     "SWIFT Code": "MHCBFRPPTGT",
     "Bank Name": "MIZUHO BANK, LTD. PARIS BRANCH",
@@ -3503,8 +3503,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOIS",
-    "bankCode": "FR",
+    "bankCode": "MOIS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "MOISFR22",
     "Bank Name": "MOBILIS",
@@ -3516,8 +3516,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOBQ",
-    "bankCode": "FR",
+    "bankCode": "MOBQ",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "MOBQFR22",
     "Bank Name": "MOBILIS BANQUE",
@@ -3529,8 +3529,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "FR",
+    "bankCode": "MODR",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MODRFRP2",
     "Bank Name": "MODULR FINANCE B.V., FRANCE BRANCH",
@@ -3542,8 +3542,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POTO",
-    "bankCode": "FR",
+    "bankCode": "POTO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "POTOFRPP",
     "Bank Name": "MON AMI POTO SAS",
@@ -3555,8 +3555,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOTG",
-    "bankCode": "FR",
+    "bankCode": "MOTG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "MOTGFRP2",
     "Bank Name": "MONCEAU ASSET MANAGEMENT",
@@ -3568,8 +3568,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOXE",
-    "bankCode": "FR",
+    "bankCode": "MOXE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "MOXEFR22",
     "Bank Name": "MONEXT",
@@ -3581,8 +3581,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MONT",
-    "bankCode": "FR",
+    "bankCode": "MONT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MONTFRPP",
     "Bank Name": "MONTE PASCHI BANQUE S.A.",
@@ -3594,8 +3594,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIQC",
-    "bankCode": "FR",
+    "bankCode": "HIQC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HIQCFRPP",
     "Bank Name": "MOONGY",
@@ -3607,8 +3607,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSFR",
-    "bankCode": "FR",
+    "bankCode": "MSFR",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "MSFRFRCP",
     "Bank Name": "MORGAN STANLEY (FRANCE) S.A.",
@@ -3620,8 +3620,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTLS",
-    "bankCode": "FR",
+    "bankCode": "MTLS",
+    "countryCode": "FR",
     "branchCode": "R2A",
     "SWIFT Code": "MTLSFR2A",
     "Bank Name": "MOTEURS LEROY SOMER",
@@ -3633,8 +3633,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTLU",
-    "bankCode": "FR",
+    "bankCode": "MTLU",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MTLUFRPP",
     "Bank Name": "MOTUL S.A.",
@@ -3646,8 +3646,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPOG",
-    "bankCode": "FR",
+    "bankCode": "MPOG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "MPOGFR22",
     "Bank Name": "MPO INTERNATIONAL",
@@ -3659,8 +3659,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMTS",
-    "bankCode": "FR",
+    "bankCode": "FMTS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FMTSFRPP",
     "Bank Name": "MTS FRANCE SAS",
@@ -3672,8 +3672,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "FR",
+    "bankCode": "BOTK",
+    "countryCode": "FR",
     "branchCode": "RCC",
     "SWIFT Code": "BOTKFRCC",
     "Bank Name": "MUFG BANK, LTD. (ACCES TARGET 2)",
@@ -3685,8 +3685,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "FR",
+    "bankCode": "BOTK",
+    "countryCode": "FR",
     "branchCode": "T2P",
     "SWIFT Code": "BOTKFRPXT2P",
     "Bank Name": "MUFG BANK, LTD. PARIS BRANCH",
@@ -3698,8 +3698,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "FR",
+    "bankCode": "BOTK",
+    "countryCode": "FR",
     "branchCode": "RPX",
     "SWIFT Code": "BOTKFRPX",
     "Bank Name": "MUFG BANK, LTD. PARIS BRANCH",
@@ -3711,8 +3711,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOEY",
-    "bankCode": "FR",
+    "bankCode": "MOEY",
+    "countryCode": "FR",
     "branchCode": "CRE",
     "SWIFT Code": "MOEYFRPPCRE",
     "Bank Name": "MY MONEY BANK",
@@ -3724,8 +3724,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOEY",
-    "bankCode": "FR",
+    "bankCode": "MOEY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MOEYFRPP",
     "Bank Name": "MY MONEY BANK",
@@ -3737,8 +3737,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOEY",
-    "bankCode": "FR",
+    "bankCode": "MOEY",
+    "countryCode": "FR",
     "branchCode": "MON",
     "SWIFT Code": "MOEYFRPPMON",
     "Bank Name": "MY MONEY BANK",
@@ -3750,8 +3750,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESV",
-    "bankCode": "FR",
+    "bankCode": "BESV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BESVFRPP",
     "Bank Name": "MY MONEY BANK (FORMERLY MY PARTNER BANK)",
@@ -3763,8 +3763,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "FR",
+    "bankCode": "NATA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NATAFRPP",
     "Bank Name": "NATIONAL AUSTRALIA BANK EUROPE S.A.",
@@ -3776,8 +3776,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "FR",
+    "bankCode": "NBOK",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NBOKFRPP",
     "Bank Name": "NATIONAL BANK OF KUWAIT FRANCE SA",
@@ -3789,8 +3789,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "FR",
+    "bankCode": "NBPA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NBPAFRPP",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -3802,8 +3802,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NATXFRPP",
     "Bank Name": "NATIXIS",
@@ -3815,8 +3815,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "DBO",
     "SWIFT Code": "NATXFRPPDBO",
     "Bank Name": "NATIXIS",
@@ -3828,8 +3828,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COUR",
-    "bankCode": "FR",
+    "bankCode": "COUR",
+    "countryCode": "FR",
     "branchCode": "R2T",
     "SWIFT Code": "COURFR2T",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE COURTOIS S.A.)",
@@ -3841,8 +3841,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COUR",
-    "bankCode": "FR",
+    "bankCode": "COUR",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "COURFR2TTPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE COURTOIS S.A.)",
@@ -3854,8 +3854,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAYD",
-    "bankCode": "FR",
+    "bankCode": "LAYD",
+    "countryCode": "FR",
     "branchCode": "R2W",
     "SWIFT Code": "LAYDFR2W",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE LAYDERNIER)",
@@ -3867,8 +3867,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAYD",
-    "bankCode": "FR",
+    "bankCode": "LAYD",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "LAYDFR2WTPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE LAYDERNIER)",
@@ -3880,8 +3880,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RALP",
-    "bankCode": "FR",
+    "bankCode": "RALP",
+    "countryCode": "FR",
     "branchCode": "R2G",
     "SWIFT Code": "RALPFR2G",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE RHONE ALPES)",
@@ -3893,8 +3893,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RALP",
-    "bankCode": "FR",
+    "bankCode": "RALP",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "RALPFR2GTPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE RHONE ALPES)",
@@ -3906,8 +3906,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TARN",
-    "bankCode": "FR",
+    "bankCode": "TARN",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "TARNFR2L",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE TARNEAUD)",
@@ -3919,8 +3919,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TARN",
-    "bankCode": "FR",
+    "bankCode": "TARN",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "TARNFR2LTPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY BANQUE TARNEAUD)",
@@ -3932,8 +3932,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORD",
-    "bankCode": "FR",
+    "bankCode": "NORD",
+    "countryCode": "FR",
     "branchCode": "CTI",
     "SWIFT Code": "NORDFRPPCTI",
     "Bank Name": "SOCIETE GENERALE (FORMERLY CREDIT DU NORD)",
@@ -3945,8 +3945,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORD",
-    "bankCode": "FR",
+    "bankCode": "NORD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NORDFRPP",
     "Bank Name": "SOCIETE GENERALE (FORMERLY CREDIT DU NORD)",
@@ -3958,8 +3958,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORD",
-    "bankCode": "FR",
+    "bankCode": "NORD",
+    "countryCode": "FR",
     "branchCode": "ASV",
     "SWIFT Code": "NORDFRPPASV",
     "Bank Name": "SOCIETE GENERALE (FORMERLY CREDIT DU NORD)",
@@ -3971,8 +3971,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORD",
-    "bankCode": "FR",
+    "bankCode": "NORD",
+    "countryCode": "FR",
     "branchCode": "GSM",
     "SWIFT Code": "NORDFRPPGSM",
     "Bank Name": "SOCIETE GENERALE (FORMERLY CREDIT DU NORD)",
@@ -3984,8 +3984,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORD",
-    "bankCode": "FR",
+    "bankCode": "NORD",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "NORDFRPPTPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY CREDIT DU NORD)",
@@ -3997,8 +3997,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "AIX",
     "SWIFT Code": "SMCTFR2AAIX",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4010,8 +4010,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "AVI",
     "SWIFT Code": "SMCTFR2AAVI",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4023,8 +4023,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "BZR",
     "SWIFT Code": "SMCTFR2ABZR",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4036,8 +4036,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "GRA",
     "SWIFT Code": "SMCTFR2AGRA",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4049,8 +4049,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "SMCTFR2AMAR",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4062,8 +4062,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "R2A",
     "SWIFT Code": "SMCTFR2A",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4075,8 +4075,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "SMCTFR2ATPS",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4088,8 +4088,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "MPL",
     "SWIFT Code": "SMCTFR2AMPL",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4101,8 +4101,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "NIC",
     "SWIFT Code": "SMCTFR2ANIC",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4114,8 +4114,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "NIM",
     "SWIFT Code": "SMCTFR2ANIM",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4127,8 +4127,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "ORA",
     "SWIFT Code": "SMCTFR2AORA",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4140,8 +4140,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "PER",
     "SWIFT Code": "SMCTFR2APER",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4153,8 +4153,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "STP",
     "SWIFT Code": "SMCTFR2ASTP",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4166,8 +4166,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "TLN",
     "SWIFT Code": "SMCTFR2ATLN",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4179,8 +4179,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCT",
-    "bankCode": "FR",
+    "bankCode": "SMCT",
+    "countryCode": "FR",
     "branchCode": "VAL",
     "SWIFT Code": "SMCTFR2AVAL",
     "Bank Name": "SOCIETE GENERALE (FORMERLY SOCIETE MARSEILLAISE DECREDIT)",
@@ -4192,8 +4192,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FORG",
-    "bankCode": "FR",
+    "bankCode": "FORG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FORGFRPP",
     "Bank Name": "SOCIETE GENERALE - FORGE S.A.",
@@ -4205,8 +4205,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGFF",
-    "bankCode": "FR",
+    "bankCode": "SGFF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SGFFFRPP",
     "Bank Name": "SOCIETE GENERALE FACTORING S.A.",
@@ -4218,8 +4218,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RPI",
     "SWIFT Code": "SOGEFRPI",
     "Bank Name": "SOCIETE GENERALE INSTANT PAYMENT",
@@ -4231,8 +4231,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSCF",
-    "bankCode": "FR",
+    "bankCode": "GSCF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GSCFFR22",
     "Bank Name": "SOCIETE GENERALE SCF",
@@ -4244,8 +4244,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSCF",
-    "bankCode": "FR",
+    "bankCode": "GSCF",
+    "countryCode": "FR",
     "branchCode": "HA2",
     "SWIFT Code": "GSCFFR22HA2",
     "Bank Name": "SOCIETE GENERALE SCF",
@@ -4257,8 +4257,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSCF",
-    "bankCode": "FR",
+    "bankCode": "GSCF",
+    "countryCode": "FR",
     "branchCode": "HA1",
     "SWIFT Code": "GSCFFR22HA1",
     "Bank Name": "SOCIETE GENERALE SCF",
@@ -4270,8 +4270,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSFH",
-    "bankCode": "FR",
+    "bankCode": "GSFH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GSFHFRPP",
     "Bank Name": "SOCIETE GENERALE SFH",
@@ -4283,8 +4283,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSFH",
-    "bankCode": "FR",
+    "bankCode": "GSFH",
+    "countryCode": "FR",
     "branchCode": "HA3",
     "SWIFT Code": "GSFHFRPPHA3",
     "Bank Name": "SOCIETE GENERALE SFH",
@@ -4296,8 +4296,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSFH",
-    "bankCode": "FR",
+    "bankCode": "GSFH",
+    "countryCode": "FR",
     "branchCode": "HA1",
     "SWIFT Code": "GSFHFRPPHA1",
     "Bank Name": "SOCIETE GENERALE SFH",
@@ -4309,8 +4309,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSFH",
-    "bankCode": "FR",
+    "bankCode": "GSFH",
+    "countryCode": "FR",
     "branchCode": "HA2",
     "SWIFT Code": "GSFHFRPPHA2",
     "Bank Name": "SOCIETE GENERALE SFH",
@@ -4322,8 +4322,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNCF",
-    "bankCode": "FR",
+    "bankCode": "SNCF",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "SNCFFRPA",
     "Bank Name": "SOCIETE NATIONALE SNCF",
@@ -4335,8 +4335,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMOA",
-    "bankCode": "FR",
+    "bankCode": "SMOA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SMOAFR22",
     "Bank Name": "SOCOMEC S.A.S.",
@@ -4348,8 +4348,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGET",
-    "bankCode": "FR",
+    "bankCode": "SGET",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SGETFR22",
     "Bank Name": "SOCOTEC GESTION SAS",
@@ -4361,8 +4361,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SORM",
-    "bankCode": "FR",
+    "bankCode": "SORM",
+    "countryCode": "FR",
     "branchCode": "R2N",
     "SWIFT Code": "SORMFR2N",
     "Bank Name": "SOCRAM BANQUE",
@@ -4374,8 +4374,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDAL",
-    "bankCode": "FR",
+    "bankCode": "SDAL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SDALFRPP",
     "Bank Name": "SODIAAL INTERNATIONAL",
@@ -4387,8 +4387,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFAX",
-    "bankCode": "FR",
+    "bankCode": "SFAX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SFAXFRPP",
     "Bank Name": "SOFAX BANQUE",
@@ -4400,8 +4400,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFAX",
-    "bankCode": "FR",
+    "bankCode": "SFAX",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "SFAXFRPPBDF",
     "Bank Name": "SOFAX BANQUE",
@@ -4413,8 +4413,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFRS",
-    "bankCode": "FR",
+    "bankCode": "SFRS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SFRSFRP2",
     "Bank Name": "SOFINNOVA PARTNERS SAS",
@@ -4426,8 +4426,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOFR",
-    "bankCode": "FR",
+    "bankCode": "SOFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SOFRFRPP",
     "Bank Name": "SOFIPROTEOL",
@@ -4439,8 +4439,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDO",
-    "bankCode": "FR",
+    "bankCode": "AFDO",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AFDOFR22",
     "Bank Name": "SOGEA-SATOM",
@@ -4452,8 +4452,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAI",
-    "bankCode": "FR",
+    "bankCode": "SGAI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SGAIFR22",
     "Bank Name": "SOGECLAIR S.A.",
@@ -4465,8 +4465,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOXA",
-    "bankCode": "FR",
+    "bankCode": "SOXA",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "SOXAFR2L",
     "Bank Name": "SOGEXIA S.A.",
@@ -4478,8 +4478,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "DFG",
     "SWIFT Code": "NATXFRPPDFG",
     "Bank Name": "NATIXIS",
@@ -4491,8 +4491,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "NATXFRPPMAR",
     "Bank Name": "NATIXIS",
@@ -4504,8 +4504,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "TIT",
     "SWIFT Code": "NATXFRPPTIT",
     "Bank Name": "NATIXIS",
@@ -4517,8 +4517,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "FMP",
     "SWIFT Code": "NATXFRPPFMP",
     "Bank Name": "NATIXIS",
@@ -4530,8 +4530,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "PLT",
     "SWIFT Code": "NATXFRPPPLT",
     "Bank Name": "NATIXIS",
@@ -4543,8 +4543,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "PAI",
     "SWIFT Code": "NATXFRPPPAI",
     "Bank Name": "NATIXIS",
@@ -4556,8 +4556,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "TPA",
     "SWIFT Code": "NATXFRPPTPA",
     "Bank Name": "NATIXIS",
@@ -4569,8 +4569,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "BPS",
     "SWIFT Code": "NATXFRPPBPS",
     "Bank Name": "NATIXIS",
@@ -4582,8 +4582,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "TCE",
     "SWIFT Code": "NATXFRPPTCE",
     "Bank Name": "NATIXIS",
@@ -4595,8 +4595,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "FR",
+    "bankCode": "NATX",
+    "countryCode": "FR",
     "branchCode": "TCC",
     "SWIFT Code": "NATXFRPPTCC",
     "Bank Name": "NATIXIS",
@@ -4608,8 +4608,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGAA",
-    "bankCode": "FR",
+    "bankCode": "NGAA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NGAAFRPP",
     "Bank Name": "NATIXIS INVESTMENT MANAGERS",
@@ -4621,8 +4621,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCNS",
-    "bankCode": "FR",
+    "bankCode": "DCNS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DCNSFRPP",
     "Bank Name": "NAVAL GROUP",
@@ -4634,8 +4634,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEON",
-    "bankCode": "FR",
+    "bankCode": "NEON",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NEONFRPP",
     "Bank Name": "NEOEN SA",
@@ -4647,8 +4647,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEUS",
-    "bankCode": "FR",
+    "bankCode": "CEUS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CEUSFR22",
     "Bank Name": "NEW IMMO HOLDING",
@@ -4660,8 +4660,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXE",
-    "bankCode": "FR",
+    "bankCode": "NEXE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "NEXEFR22",
     "Bank Name": "NEXTEAM S.A.S.",
@@ -4673,8 +4673,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSOU",
-    "bankCode": "FR",
+    "bankCode": "PSOU",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "PSOUFR22",
     "Bank Name": "NOVASEP PROCESS SOLUTIONS S.A.S.",
@@ -4686,8 +4686,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NTRO",
-    "bankCode": "FR",
+    "bankCode": "NTRO",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "NTROFR22",
     "Bank Name": "NTN-SNR ROULEMENTS",
@@ -4699,8 +4699,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NUAA",
-    "bankCode": "FR",
+    "bankCode": "NUAA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "NUAAFRP2",
     "Bank Name": "NUAPAY SAS",
@@ -4712,8 +4712,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NUAA",
-    "bankCode": "FR",
+    "bankCode": "NUAA",
+    "countryCode": "FR",
     "branchCode": "RP3",
     "SWIFT Code": "NUAAFRP3",
     "Bank Name": "NUAPAY SAS",
@@ -4725,8 +4725,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "NES",
     "SWIFT Code": "ODDOFRPPNES",
     "Bank Name": "ODDO BHF SCA",
@@ -4738,8 +4738,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ODDOFRPP",
     "Bank Name": "ODDO BHF SCA",
@@ -4751,8 +4751,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "BKO",
     "SWIFT Code": "ODDOFRPPBKO",
     "Bank Name": "ODDO BHF SCA",
@@ -4764,8 +4764,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "FEC",
     "SWIFT Code": "ODDOFRPPFEC",
     "Bank Name": "ODDO BHF SCA",
@@ -4777,8 +4777,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "OAM",
     "SWIFT Code": "ODDOFRPPOAM",
     "Bank Name": "ODDO BHF SCA",
@@ -4790,8 +4790,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "OCO",
     "SWIFT Code": "ODDOFRPPOCO",
     "Bank Name": "ODDO BHF SCA",
@@ -4803,8 +4803,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "OOP",
     "SWIFT Code": "ODDOFRPPOOP",
     "Bank Name": "ODDO BHF SCA",
@@ -4816,8 +4816,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "ODDOFRPA",
     "Bank Name": "ODDO ET CIE",
@@ -4829,8 +4829,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODDO",
-    "bankCode": "FR",
+    "bankCode": "ODDO",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "ODDOFRCP",
     "Bank Name": "ODDO ET CIE ENTREPRISE D'INVESTISSEMENT",
@@ -4842,8 +4842,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAMK",
-    "bankCode": "FR",
+    "bankCode": "AAMK",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AAMKFRPP",
     "Bank Name": "OFI INVEST ASSET MANAGEMENT",
@@ -4855,8 +4855,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFIF",
-    "bankCode": "FR",
+    "bankCode": "OFIF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "OFIFFRPP",
     "Bank Name": "OFI INVEST ASSET MANAGEMENT",
@@ -4868,8 +4868,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFPE",
-    "bankCode": "FR",
+    "bankCode": "SFPE",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SFPEFRP2",
     "Bank Name": "OKALI",
@@ -4881,8 +4881,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNTO",
-    "bankCode": "FR",
+    "bankCode": "QNTO",
+    "countryCode": "FR",
     "branchCode": "RPB",
     "SWIFT Code": "QNTOFRPB",
     "Bank Name": "OLINDA",
@@ -4894,8 +4894,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNTO",
-    "bankCode": "FR",
+    "bankCode": "QNTO",
+    "countryCode": "FR",
     "branchCode": "RP3",
     "SWIFT Code": "QNTOFRP3",
     "Bank Name": "OLINDA S.A.S.",
@@ -4907,8 +4907,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNTO",
-    "bankCode": "FR",
+    "bankCode": "QNTO",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "QNTOFRPA",
     "Bank Name": "OLINDA S.A.S.",
@@ -4920,8 +4920,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OLMX",
-    "bankCode": "FR",
+    "bankCode": "OLMX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "OLMXFR22",
     "Bank Name": "OLMIX S.A.",
@@ -4933,8 +4933,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACC",
-    "bankCode": "FR",
+    "bankCode": "BACC",
+    "countryCode": "FR",
     "branchCode": "R23",
     "SWIFT Code": "BACCFR23",
     "Bank Name": "ONEY BANK",
@@ -4946,8 +4946,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACC",
-    "bankCode": "FR",
+    "bankCode": "BACC",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BACCFR22",
     "Bank Name": "ONEY BANK",
@@ -4959,8 +4959,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACC",
-    "bankCode": "FR",
+    "bankCode": "BACC",
+    "countryCode": "FR",
     "branchCode": "OLI",
     "SWIFT Code": "BACCFR22OLI",
     "Bank Name": "ONEY BANK",
@@ -4972,8 +4972,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPLA",
-    "bankCode": "FR",
+    "bankCode": "OPLA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "OPLAFRPP",
     "Bank Name": "OPELLA HEALTHCARE GROUP SAS",
@@ -4985,8 +4985,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPPF",
-    "bankCode": "FR",
+    "bankCode": "OPPF",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "OPPFFRP2",
     "Bank Name": "OPENPAYD FINANCIAL SERVICES MALTA",
@@ -4998,8 +4998,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPBA",
-    "bankCode": "FR",
+    "bankCode": "GPBA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GPBAFRPP",
     "Bank Name": "ORANGE BANK",
@@ -5011,8 +5011,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTEL",
-    "bankCode": "FR",
+    "bankCode": "FTEL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FTELFRPP",
     "Bank Name": "ORANGE SA",
@@ -5024,8 +5024,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORNO",
-    "bankCode": "FR",
+    "bankCode": "ORNO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ORNOFRPP",
     "Bank Name": "ORANO S.A.",
@@ -5037,8 +5037,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OREA",
-    "bankCode": "FR",
+    "bankCode": "OREA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "OREAFRPP",
     "Bank Name": "ORPEA S.A.",
@@ -5050,8 +5050,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IXIA",
-    "bankCode": "FR",
+    "bankCode": "IXIA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IXIAFRPP",
     "Bank Name": "OSTRUM ASSET MANAGEMENT",
@@ -5063,8 +5063,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IXIA",
-    "bankCode": "FR",
+    "bankCode": "IXIA",
+    "countryCode": "FR",
     "branchCode": "001",
     "SWIFT Code": "IXIAFRPP001",
     "Bank Name": "OSTRUM ASSET MANAGEMENT",
@@ -5076,8 +5076,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OVHG",
-    "bankCode": "FR",
+    "bankCode": "OVHG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "OVHGFR22",
     "Bank Name": "OVH GROUPE SAS",
@@ -5089,8 +5089,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAHE",
-    "bankCode": "FR",
+    "bankCode": "PAHE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PAHEFRPP",
     "Bank Name": "PATHE S.A.S.",
@@ -5102,8 +5102,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTLA",
-    "bankCode": "FR",
+    "bankCode": "PTLA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PTLAFRPP",
     "Bank Name": "PATISSERIE E.LADUREE S.A.S.",
@@ -5115,8 +5115,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DALP",
-    "bankCode": "FR",
+    "bankCode": "DALP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DALPFRPP",
     "Bank Name": "PAYPLUG ENTERPRISE SAS",
@@ -5128,8 +5128,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "3DB",
     "SWIFT Code": "PARBFRPP3DB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5141,8 +5141,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "PKG",
     "SWIFT Code": "PARBFRPPPKG",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5154,8 +5154,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "TSU",
     "SWIFT Code": "PARBFRPPTSU",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5167,8 +5167,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RPH",
     "SWIFT Code": "PARBFRPH",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5180,8 +5180,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "AXA",
     "SWIFT Code": "PARBFRPPAXA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5193,8 +5193,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "BEC",
     "SWIFT Code": "PARBFRPPBEC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5206,8 +5206,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "BEX",
     "SWIFT Code": "PARBFRPPBEX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5219,8 +5219,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FDA",
     "SWIFT Code": "PARBFRPPFDA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5232,8 +5232,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "GOS",
     "SWIFT Code": "PARBFRPPGOS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5245,8 +5245,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "ISI",
     "SWIFT Code": "PARBFRPPISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5258,8 +5258,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NLC",
     "SWIFT Code": "PARBFRPPNLC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5271,8 +5271,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NLX",
     "SWIFT Code": "PARBFRPPNLX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5284,8 +5284,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NMC",
     "SWIFT Code": "PARBFRPPNMC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5297,8 +5297,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NMP",
     "SWIFT Code": "PARBFRPPNMP",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5310,8 +5310,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PARBFRPP",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5323,8 +5323,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "CDC",
     "SWIFT Code": "PARBFRPPCDC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5336,8 +5336,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "DNL",
     "SWIFT Code": "PARBFRPPDNL",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5349,8 +5349,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "OPT",
     "SWIFT Code": "PARBFRPPOPT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5362,8 +5362,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "SFI",
     "SWIFT Code": "PARBFRPPSFI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5375,8 +5375,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FOX",
     "SWIFT Code": "PARBFRPPFOX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5388,8 +5388,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NMJ",
     "SWIFT Code": "PARBFRPPNMJ",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5401,8 +5401,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "030",
     "SWIFT Code": "PARBFRPP030",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5414,8 +5414,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "060",
     "SWIFT Code": "PARBFRPP060",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5427,8 +5427,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "074",
     "SWIFT Code": "PARBFRPP074",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5440,8 +5440,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "ALA",
     "SWIFT Code": "PARBFRPPALA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5453,8 +5453,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NAT",
     "SWIFT Code": "PARBFRPPNAT",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5466,8 +5466,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "UFO",
     "SWIFT Code": "PARBFRPPUFO",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5479,8 +5479,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FSF",
     "SWIFT Code": "PARBFRPPFSF",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5492,8 +5492,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "344",
     "SWIFT Code": "PARBFRPP344",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5505,8 +5505,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "352",
     "SWIFT Code": "PARBFRPP352",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5518,8 +5518,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "BOA",
     "SWIFT Code": "PARBFRPPBOA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5531,8 +5531,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "CHE",
     "SWIFT Code": "PARBFRPPCHE",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5544,8 +5544,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "FHO",
     "SWIFT Code": "PARBFRPPFHO",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5557,8 +5557,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "GIN",
     "SWIFT Code": "PARBFRPPGIN",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5570,8 +5570,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RBS",
     "SWIFT Code": "PARBFRPPRBS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5583,8 +5583,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "TRS",
     "SWIFT Code": "PARBFRPPTRS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5596,8 +5596,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "BPA",
     "SWIFT Code": "PARBFRPPBPA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5609,8 +5609,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "ESY",
     "SWIFT Code": "PARBFRPPESY",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5622,8 +5622,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "CRA",
     "SWIFT Code": "PARBFRPPCRA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5635,8 +5635,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "SHX",
     "SWIFT Code": "PARBFRPPSHX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5648,8 +5648,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "NLA",
     "SWIFT Code": "PARBFRPPNLA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5661,8 +5661,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "760",
     "SWIFT Code": "PARBFRPP760",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5674,8 +5674,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "761",
     "SWIFT Code": "PARBFRPP761",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5687,8 +5687,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "756",
     "SWIFT Code": "PARBFRPP756",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5700,8 +5700,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "758",
     "SWIFT Code": "PARBFRPP758",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5713,8 +5713,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "757",
     "SWIFT Code": "PARBFRPP757",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5726,8 +5726,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "755",
     "SWIFT Code": "PARBFRPP755",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5739,8 +5739,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "759",
     "SWIFT Code": "PARBFRPP759",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5752,8 +5752,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "GCM",
     "SWIFT Code": "PARBFRPPGCM",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5765,8 +5765,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "CCF",
     "SWIFT Code": "PARBFRPPCCF",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -5778,8 +5778,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GASK",
-    "bankCode": "FR",
+    "bankCode": "GASK",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GASKFRPP",
     "Bank Name": "(GROUPE) ASTEK S.A.",
@@ -5791,8 +5791,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOED",
-    "bankCode": "FR",
+    "bankCode": "SOED",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SOEDFRP2",
     "Bank Name": "2SF - SOCIETE DES SERVICES FIDUCIAIRES",
@@ -5804,8 +5804,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNEP",
-    "bankCode": "FR",
+    "bankCode": "CNEP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CNEPFR22",
     "Bank Name": "3E CONCEPT S.A.S.",
@@ -5817,8 +5817,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "EB1",
     "SWIFT Code": "EBATFRPPEB1",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5830,8 +5830,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "EB2",
     "SWIFT Code": "EBATFRPPEB2",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5843,8 +5843,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "ES1",
     "SWIFT Code": "EBATFRPPES1",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5856,8 +5856,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "PF1",
     "SWIFT Code": "EBATFRPPPF1",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5869,8 +5869,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "PF2",
     "SWIFT Code": "EBATFRPPPF2",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5882,8 +5882,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "PS1",
     "SWIFT Code": "EBATFRPPPS1",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5895,8 +5895,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "SB1",
     "SWIFT Code": "EBATFRPPSB1",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5908,8 +5908,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "SB2",
     "SWIFT Code": "EBATFRPPSB2",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5921,8 +5921,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "FR",
+    "bankCode": "EBAT",
+    "countryCode": "FR",
     "branchCode": "SS1",
     "SWIFT Code": "EBATFRPPSS1",
     "Bank Name": "ABE CLEARING S.A.S. A CAPITAL VARIABLE",
@@ -5934,8 +5934,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAP",
-    "bankCode": "FR",
+    "bankCode": "EBAP",
+    "countryCode": "FR",
     "branchCode": "OLR",
     "SWIFT Code": "EBAPFRPPOLR",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -5947,8 +5947,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAP",
-    "bankCode": "FR",
+    "bankCode": "EBAP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EBAPFRPP",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -5960,8 +5960,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAP",
-    "bankCode": "FR",
+    "bankCode": "EBAP",
+    "countryCode": "FR",
     "branchCode": "COL",
     "SWIFT Code": "EBAPFRPPCOL",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -5973,8 +5973,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAP",
-    "bankCode": "FR",
+    "bankCode": "EBAP",
+    "countryCode": "FR",
     "branchCode": "INT",
     "SWIFT Code": "EBAPFRPPINT",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -5986,8 +5986,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAP",
-    "bankCode": "FR",
+    "bankCode": "EBAP",
+    "countryCode": "FR",
     "branchCode": "PSA",
     "SWIFT Code": "EBAPFRPPPSA",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -5999,8 +5999,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAP",
-    "bankCode": "FR",
+    "bankCode": "EBAP",
+    "countryCode": "FR",
     "branchCode": "RPS",
     "SWIFT Code": "EBAPFRPS",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING (SYSTEM OPERATOR)",
@@ -6012,8 +6012,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSMB",
-    "bankCode": "FR",
+    "bankCode": "NSMB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NSMBFRPP",
     "Bank Name": "ABN AMRO BANK N.V., PARIS BRANCH (PREVIOUSLY BANQUE NEUFLIZE OBC)",
@@ -6025,8 +6025,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAWM",
-    "bankCode": "FR",
+    "bankCode": "AAWM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AAWMFRPP",
     "Bank Name": "ABN AMRO INVESTMENT SOLUTIONS S.A.",
@@ -6038,8 +6038,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRAC",
-    "bankCode": "FR",
+    "bankCode": "GRAC",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "GRACFRP2",
     "Bank Name": "ACCOR",
@@ -6051,8 +6051,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADSS",
-    "bankCode": "FR",
+    "bankCode": "ADSS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ADSSFR22",
     "Bank Name": "ADISSEO FRANCE",
@@ -6064,8 +6064,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADYB",
-    "bankCode": "FR",
+    "bankCode": "ADYB",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "ADYBFRP2",
     "Bank Name": "ADYEN N.V. - FRENCH BRANCH",
@@ -6077,8 +6077,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRA",
-    "bankCode": "FR",
+    "bankCode": "AFRA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "AFRAFRP2",
     "Bank Name": "AETHER FINANCIAL SERVICES SAS",
@@ -6090,8 +6090,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFPM",
-    "bankCode": "FR",
+    "bankCode": "AFPM",
+    "countryCode": "FR",
     "branchCode": "R24",
     "SWIFT Code": "AFPMFR24",
     "Bank Name": "AFONE PAIEMENT",
@@ -6103,8 +6103,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFPM",
-    "bankCode": "FR",
+    "bankCode": "AFPM",
+    "countryCode": "FR",
     "branchCode": "R23",
     "SWIFT Code": "AFPMFR23",
     "Bank Name": "AFONE PAIEMENT",
@@ -6116,8 +6116,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFPM",
-    "bankCode": "FR",
+    "bankCode": "AFPM",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AFPMFR22",
     "Bank Name": "AFONE PAIEMENT",
@@ -6129,8 +6129,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFFO",
-    "bankCode": "FR",
+    "bankCode": "BFFO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BFFOFRPP",
     "Bank Name": "AFRICA GLOBAL LOGISTICS",
@@ -6142,8 +6142,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAN",
-    "bankCode": "FR",
+    "bankCode": "GPAN",
+    "countryCode": "FR",
     "branchCode": "CDI",
     "SWIFT Code": "GPANFRPPCDI",
     "Bank Name": "AGACHE",
@@ -6155,8 +6155,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAN",
-    "bankCode": "FR",
+    "bankCode": "GPAN",
+    "countryCode": "FR",
     "branchCode": "EWB",
     "SWIFT Code": "GPANFRPPEWB",
     "Bank Name": "AGACHE",
@@ -6168,8 +6168,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAN",
-    "bankCode": "FR",
+    "bankCode": "GPAN",
+    "countryCode": "FR",
     "branchCode": "FAG",
     "SWIFT Code": "GPANFRPPFAG",
     "Bank Name": "AGACHE",
@@ -6181,8 +6181,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAN",
-    "bankCode": "FR",
+    "bankCode": "GPAN",
+    "countryCode": "FR",
     "branchCode": "FGO",
     "SWIFT Code": "GPANFRPPFGO",
     "Bank Name": "AGACHE",
@@ -6194,8 +6194,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAN",
-    "bankCode": "FR",
+    "bankCode": "GPAN",
+    "countryCode": "FR",
     "branchCode": "SEM",
     "SWIFT Code": "GPANFRPPSEM",
     "Bank Name": "AGACHE",
@@ -6207,8 +6207,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAN",
-    "bankCode": "FR",
+    "bankCode": "GPAN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GPANFRPP",
     "Bank Name": "AGACHE",
@@ -6220,8 +6220,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGAP",
-    "bankCode": "FR",
+    "bankCode": "AGAP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AGAPFR22",
     "Bank Name": "AGAPES",
@@ -6233,8 +6233,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGFD",
-    "bankCode": "FR",
+    "bankCode": "AGFD",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "AGFDFRPA",
     "Bank Name": "AGENCE FRANCAISE DE DEVELOPPEMENT",
@@ -6246,8 +6246,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFTR",
-    "bankCode": "FR",
+    "bankCode": "AFTR",
+    "countryCode": "FR",
     "branchCode": "CDP",
     "SWIFT Code": "AFTRFRPPCDP",
     "Bank Name": "AGENCE FRANCE TRESOR (AFT)",
@@ -6259,8 +6259,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFTR",
-    "bankCode": "FR",
+    "bankCode": "AFTR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AFTRFRPP",
     "Bank Name": "AGENCE FRANCE TRESOR (AFT)",
@@ -6272,8 +6272,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGPC",
-    "bankCode": "FR",
+    "bankCode": "AGPC",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "AGPCFR2L",
     "Bank Name": "AGICAP S.A.S.",
@@ -6285,8 +6285,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRF",
-    "bankCode": "FR",
+    "bankCode": "AIRF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AIRFFRPP",
     "Bank Name": "AIR FRANCE - KLM SA",
@@ -6298,8 +6298,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLIQ",
-    "bankCode": "FR",
+    "bankCode": "RLIQ",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RLIQFRPP",
     "Bank Name": "AIR LIQUIDE SA",
@@ -6311,8 +6311,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRB",
-    "bankCode": "FR",
+    "bankCode": "AIRB",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AIRBFR22",
     "Bank Name": "AIRBUS SAS",
@@ -6324,8 +6324,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKHL",
-    "bankCode": "FR",
+    "bankCode": "AKHL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AKHLFR22",
     "Bank Name": "AKIEM HOLDING",
@@ -6337,8 +6337,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKKA",
-    "bankCode": "FR",
+    "bankCode": "AKKA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AKKAFRPP",
     "Bank Name": "AKKA TECHNOLOGIES",
@@ -6350,8 +6350,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKUO",
-    "bankCode": "FR",
+    "bankCode": "AKUO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AKUOFRPP",
     "Bank Name": "AKUO ENERGY SAS",
@@ -6363,8 +6363,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LICO",
-    "bankCode": "FR",
+    "bankCode": "LICO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LICOFRPP",
     "Bank Name": "AL KHALIJI FRANCE S.A.",
@@ -6376,8 +6376,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAGP",
-    "bankCode": "FR",
+    "bankCode": "AAGP",
+    "countryCode": "FR",
     "branchCode": "R2A",
     "SWIFT Code": "AAGPFR2A",
     "Bank Name": "ALAIN AFFLELOU FRANCHISEUR",
@@ -6389,8 +6389,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABVA",
-    "bankCode": "FR",
+    "bankCode": "ABVA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ABVAFRPP",
     "Bank Name": "ALBEA SERVICES S.A.S.",
@@ -6402,8 +6402,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALSN",
-    "bankCode": "FR",
+    "bankCode": "ALSN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALSNFRPP",
     "Bank Name": "ALCATEL SUBMARINE NETWORKS",
@@ -6415,8 +6415,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATEL",
-    "bankCode": "FR",
+    "bankCode": "ATEL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ATELFRPP",
     "Bank Name": "ALCATEL-LUCENT",
@@ -6428,8 +6428,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "222",
     "SWIFT Code": "CCFRFRPP222",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6441,8 +6441,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "030",
     "SWIFT Code": "CCFRFRPP030",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6454,8 +6454,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "320",
     "SWIFT Code": "CCFRFRPP320",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6467,8 +6467,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "224",
     "SWIFT Code": "CCFRFRPP224",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6480,8 +6480,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "280",
     "SWIFT Code": "CCFRFRPP280",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6493,8 +6493,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "140",
     "SWIFT Code": "CCFRFRPP140",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6506,8 +6506,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "150",
     "SWIFT Code": "CCFRFRPP150",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6519,8 +6519,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "170",
     "SWIFT Code": "CCFRFRPP170",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6532,8 +6532,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "209",
     "SWIFT Code": "CCFRFRPP209",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6545,8 +6545,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "210",
     "SWIFT Code": "CCFRFRPP210",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6558,8 +6558,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "310",
     "SWIFT Code": "CCFRFRPP310",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6571,8 +6571,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "220",
     "SWIFT Code": "CCFRFRPP220",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6584,8 +6584,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CCFRFRPP",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6597,8 +6597,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "024",
     "SWIFT Code": "CCFRFRPP024",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6610,8 +6610,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "NTX",
     "SWIFT Code": "CCFRFRPPNTX",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6623,8 +6623,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "EQC",
     "SWIFT Code": "CCFRFRPPEQC",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6636,8 +6636,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "SWT",
     "SWIFT Code": "CCFRFRPPSWT",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6649,8 +6649,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "IRD",
     "SWIFT Code": "CCFRFRPPIRD",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6662,8 +6662,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "PEG",
     "SWIFT Code": "CCFRFRPPPEG",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6675,8 +6675,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "CUS",
     "SWIFT Code": "CCFRFRPPCUS",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6688,8 +6688,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "IBO",
     "SWIFT Code": "CCFRFRPPIBO",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6701,8 +6701,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "ISV",
     "SWIFT Code": "CCFRFRPPISV",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6714,8 +6714,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "OLY",
     "SWIFT Code": "CCFRFRPPOLY",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6727,8 +6727,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "SDD",
     "SWIFT Code": "CCFRFRPPSDD",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6740,8 +6740,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "040",
     "SWIFT Code": "CCFRFRPP040",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6753,8 +6753,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "050",
     "SWIFT Code": "CCFRFRPP050",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6766,8 +6766,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "151",
     "SWIFT Code": "CCFRFRPP151",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6779,8 +6779,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "089",
     "SWIFT Code": "CCFRFRPP089",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6792,8 +6792,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "260",
     "SWIFT Code": "CCFRFRPP260",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6805,8 +6805,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "152",
     "SWIFT Code": "CCFRFRPP152",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -6818,8 +6818,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMF",
-    "bankCode": "FR",
+    "bankCode": "HAMF",
+    "countryCode": "FR",
     "branchCode": "RPB",
     "SWIFT Code": "HAMFFRPB",
     "Bank Name": "HSBC GLOBAL ASSET MANAGEMENT FRANCE",
@@ -6831,8 +6831,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMF",
-    "bankCode": "FR",
+    "bankCode": "HAMF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HAMFFRPP",
     "Bank Name": "HSBC GLOBAL ASSET MANAGEMENT FRANCE (FORMERLY HSBC ASSET MANAGEMENT (EUROPE) SA",
@@ -6844,8 +6844,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSFH",
-    "bankCode": "FR",
+    "bankCode": "HSFH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HSFHFRPP",
     "Bank Name": "HSBC SFH (FRANCE)",
@@ -6857,8 +6857,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FXBB",
-    "bankCode": "FR",
+    "bankCode": "FXBB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FXBBFRPP",
     "Bank Name": "IBANFIRST",
@@ -6870,8 +6870,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNIF",
-    "bankCode": "FR",
+    "bankCode": "CNIF",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "CNIFFR2M",
     "Bank Name": "IC FINANCIAL SERVICES S.A.",
@@ -6883,8 +6883,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICAD",
-    "bankCode": "FR",
+    "bankCode": "ICAD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ICADFRPP",
     "Bank Name": "ICADE",
@@ -6896,8 +6896,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTSA",
-    "bankCode": "FR",
+    "bankCode": "OTSA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "OTSAFRPP",
     "Bank Name": "IDEMIA FRANCE",
@@ -6909,8 +6909,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ILID",
-    "bankCode": "FR",
+    "bankCode": "ILID",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ILIDFRPP",
     "Bank Name": "ILIAD S.A.",
@@ -6922,8 +6922,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLPS",
-    "bankCode": "FR",
+    "bankCode": "GLPS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "GLPSFRP2",
     "Bank Name": "IM GLOBAL PARTNER SAS",
@@ -6935,8 +6935,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMER",
-    "bankCode": "FR",
+    "bankCode": "IMER",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IMERFRPP",
     "Bank Name": "IMERYS SA",
@@ -6948,8 +6948,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPKS",
-    "bankCode": "FR",
+    "bankCode": "VPKS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "VPKSFR22",
     "Bank Name": "INDIGO PARK",
@@ -6961,8 +6961,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "FR",
+    "bankCode": "ICBK",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ICBKFRPP",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., PARIS BRANCH",
@@ -6974,8 +6974,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IEUT",
-    "bankCode": "FR",
+    "bankCode": "IEUT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IEUTFRPP",
     "Bank Name": "INETUM S.A.",
@@ -6987,8 +6987,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISTA",
-    "bankCode": "FR",
+    "bankCode": "ISTA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ISTAFR22",
     "Bank Name": "INFOVISTA HOLDING",
@@ -7000,8 +7000,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "FR",
+    "bankCode": "INGB",
+    "countryCode": "FR",
     "branchCode": "RET",
     "SWIFT Code": "INGBFRPPRET",
     "Bank Name": "ING BANK FRANCE COMMERCIAL BANKING",
@@ -7013,8 +7013,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "FR",
+    "bankCode": "INGB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "INGBFRPP",
     "Bank Name": "ING BANK FRANCE COMMERCIAL BANKING",
@@ -7026,8 +7026,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INOH",
-    "bankCode": "FR",
+    "bankCode": "INOH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "INOHFRPP",
     "Bank Name": "INNOTHERA S.A.S.",
@@ -7039,8 +7039,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOAV",
-    "bankCode": "FR",
+    "bankCode": "IOAV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IOAVFRPP",
     "Bank Name": "INOVALIS S.A.",
@@ -7052,8 +7052,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAR",
-    "bankCode": "FR",
+    "bankCode": "IPAR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IPARFRPP",
     "Bank Name": "INTERPARFUMS S.A",
@@ -7065,8 +7065,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICPO",
-    "bankCode": "FR",
+    "bankCode": "ICPO",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ICPOFR22",
     "Bank Name": "INTERPOL SERVICE FINANCIER",
@@ -7078,8 +7078,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALDE",
-    "bankCode": "FR",
+    "bankCode": "ALDE",
+    "countryCode": "FR",
     "branchCode": "R2V",
     "SWIFT Code": "ALDEFR2V",
     "Bank Name": "ALDES AERAULIQUE",
@@ -7091,8 +7091,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AALE",
-    "bankCode": "FR",
+    "bankCode": "AALE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AALEFR22",
     "Bank Name": "ALE INTERNATIONAL",
@@ -7104,8 +7104,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAF",
-    "bankCode": "FR",
+    "bankCode": "ALAF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALAFFRPP",
     "Bank Name": "ALLIANCE AUTOMOTIVE FRANCE S.A.S.",
@@ -7117,8 +7117,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMRN",
-    "bankCode": "FR",
+    "bankCode": "AMRN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AMRNFR22",
     "Bank Name": "ALLIANCE MARINE S.A.S.",
@@ -7130,8 +7130,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGFB",
-    "bankCode": "FR",
+    "bankCode": "AGFB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AGFBFRPP",
     "Bank Name": "ALLIANZ BANQUE",
@@ -7143,8 +7143,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGFB",
-    "bankCode": "FR",
+    "bankCode": "AGFB",
+    "countryCode": "FR",
     "branchCode": "RCC",
     "SWIFT Code": "AGFBFRCC",
     "Bank Name": "ALLIANZ BANQUE",
@@ -7156,8 +7156,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALLZ",
-    "bankCode": "FR",
+    "bankCode": "ALLZ",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALLZFRPP",
     "Bank Name": "ALLIANZ IARD",
@@ -7169,8 +7169,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AALM",
-    "bankCode": "FR",
+    "bankCode": "AALM",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AALMFR22",
     "Bank Name": "ALMA",
@@ -7182,8 +7182,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APPG",
-    "bankCode": "FR",
+    "bankCode": "APPG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "APPGFR22",
     "Bank Name": "ALPAGROUP S.A.S.",
@@ -7195,8 +7195,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALRV",
-    "bankCode": "FR",
+    "bankCode": "ALRV",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "ALRVFRP2",
     "Bank Name": "ALPHAJET FAIR INVESTORS",
@@ -7208,8 +7208,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALHO",
-    "bankCode": "FR",
+    "bankCode": "ALHO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALHOFRPP",
     "Bank Name": "ALSTOM HOLDINGS",
@@ -7221,8 +7221,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FALT",
-    "bankCode": "FR",
+    "bankCode": "FALT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FALTFRPP",
     "Bank Name": "ALTAVIA",
@@ -7234,8 +7234,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALTN",
-    "bankCode": "FR",
+    "bankCode": "ALTN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALTNFRPP",
     "Bank Name": "ALTEN SA",
@@ -7247,8 +7247,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALRA",
-    "bankCode": "FR",
+    "bankCode": "ALRA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ALRAFR22",
     "Bank Name": "ALTRAD INVESTMENT AUTHORITY",
@@ -7260,8 +7260,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GMTS",
-    "bankCode": "FR",
+    "bankCode": "GMTS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GMTSFRPP",
     "Bank Name": "ALTRAN TECHNOLOGIES",
@@ -7273,8 +7273,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADHG",
-    "bankCode": "FR",
+    "bankCode": "ADHG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ADHGFRPP",
     "Bank Name": "ALVEST INTERNATIONAL EQUITY",
@@ -7286,8 +7286,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALVT",
-    "bankCode": "FR",
+    "bankCode": "ALVT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALVTFRPP",
     "Bank Name": "ALVEST INTERNATIONAL EQUITY",
@@ -7299,8 +7299,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMLT",
-    "bankCode": "FR",
+    "bankCode": "AMLT",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AMLTFR22",
     "Bank Name": "AMALTHEE GESTION",
@@ -7312,8 +7312,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMED",
-    "bankCode": "FR",
+    "bankCode": "AMED",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AMEDFRPP",
     "Bank Name": "AMETHIS ADVISORY S.A.S.",
@@ -7325,8 +7325,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAME",
-    "bankCode": "FR",
+    "bankCode": "MAME",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "MAMEFRPP",
     "Bank Name": "AMRC (ASSOCIATION DE MOYENS RETRAITE COMPLEMENTAIRE)",
@@ -7338,8 +7338,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "SGS",
     "SWIFT Code": "AGRIFRPISGS",
     "Bank Name": "AMUNDI",
@@ -7351,8 +7351,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "POL",
     "SWIFT Code": "AGRIFRPIPOL",
     "Bank Name": "AMUNDI",
@@ -7364,8 +7364,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "RPI",
     "SWIFT Code": "AGRIFRPI",
     "Bank Name": "AMUNDI",
@@ -7377,8 +7377,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "AIP",
     "SWIFT Code": "AGRIFRPIAIP",
     "Bank Name": "AMUNDI",
@@ -7390,8 +7390,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "USA",
     "SWIFT Code": "AGRIFRPIUSA",
     "Bank Name": "AMUNDI",
@@ -7403,8 +7403,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "PRG",
     "SWIFT Code": "AGRIFRPIPRG",
     "Bank Name": "AMUNDI",
@@ -7416,8 +7416,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "PRA",
     "SWIFT Code": "AGRIFRPIPRA",
     "Bank Name": "AMUNDI",
@@ -7429,8 +7429,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "TWN",
     "SWIFT Code": "AGRIFRPITWN",
     "Bank Name": "AMUNDI",
@@ -7442,8 +7442,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "IMM",
     "SWIFT Code": "AGRIFRPIIMM",
     "Bank Name": "AMUNDI",
@@ -7455,8 +7455,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "SAB",
     "SWIFT Code": "AGRIFRPISAB",
     "Bank Name": "AMUNDI",
@@ -7468,8 +7468,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "COL",
     "SWIFT Code": "AGRIFRPICOL",
     "Bank Name": "AMUNDI",
@@ -7481,8 +7481,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "DUB",
     "SWIFT Code": "AGRIFRPIDUB",
     "Bank Name": "AMUNDI",
@@ -7494,8 +7494,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "TOK",
     "SWIFT Code": "AGRIFRPITOK",
     "Bank Name": "AMUNDI",
@@ -7507,8 +7507,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "HKH",
     "SWIFT Code": "AGRIFRPIHKH",
     "Bank Name": "AMUNDI",
@@ -7520,8 +7520,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "MIL",
     "SWIFT Code": "AGRIFRPIMIL",
     "Bank Name": "AMUNDI",
@@ -7533,8 +7533,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADRR",
-    "bankCode": "FR",
+    "bankCode": "ADRR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ADRRFR22",
     "Bank Name": "ANDROS ET CIE S.A.S.",
@@ -7546,8 +7546,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "APIGFR22",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7559,8 +7559,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "APM",
     "SWIFT Code": "APIGFR22APM",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7572,8 +7572,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "APR",
     "SWIFT Code": "APIGFR22APR",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7585,8 +7585,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "APE",
     "SWIFT Code": "APIGFR22APE",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7598,8 +7598,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "AER",
     "SWIFT Code": "APIGFR22AER",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7611,8 +7611,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "SKL",
     "SWIFT Code": "APIGFR22SKL",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7624,8 +7624,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "APIGFR22TPS",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7637,8 +7637,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "GBQ",
     "SWIFT Code": "APIGFR22GBQ",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7650,8 +7650,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "INT",
     "SWIFT Code": "APIGFR22INT",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7663,8 +7663,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "MIE",
     "SWIFT Code": "APIGFR22MIE",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7676,8 +7676,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIG",
-    "bankCode": "FR",
+    "bankCode": "APIG",
+    "countryCode": "FR",
     "branchCode": "TPN",
     "SWIFT Code": "APIGFR22TPN",
     "Bank Name": "APICIL TRANSVERSE",
@@ -7689,8 +7689,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APTG",
-    "bankCode": "FR",
+    "bankCode": "APTG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "APTGFR22",
     "Bank Name": "APTAR EUROPE HOLDING SAS",
@@ -7702,8 +7702,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCO",
-    "bankCode": "FR",
+    "bankCode": "ABCO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ABCOFRPP",
     "Bank Name": "ARAB BANKING CORPORATION SA",
@@ -7715,8 +7715,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USIN",
-    "bankCode": "FR",
+    "bankCode": "USIN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "USINFRPP",
     "Bank Name": "ARCELORMITTAL TREASURY SNC",
@@ -7728,8 +7728,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IVR",
     "SWIFT Code": "BNPAFRPPIVR",
     "Bank Name": "BNP PARIBAS",
@@ -7741,8 +7741,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ROC",
     "SWIFT Code": "BNPAFRPPROC",
     "Bank Name": "BNP PARIBAS",
@@ -7754,8 +7754,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "HAV",
     "SWIFT Code": "BNPAFRPPHAV",
     "Bank Name": "BNP PARIBAS",
@@ -7767,8 +7767,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MAN",
     "SWIFT Code": "BNPAFRPPMAN",
     "Bank Name": "BNP PARIBAS",
@@ -7780,8 +7780,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "LIL",
     "SWIFT Code": "BNPAFRPPLIL",
     "Bank Name": "BNP PARIBAS",
@@ -7793,8 +7793,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "NFE",
     "SWIFT Code": "BNPAFRPPNFE",
     "Bank Name": "BNP PARIBAS",
@@ -7806,8 +7806,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "LMV",
     "SWIFT Code": "BNPAFRPPLMV",
     "Bank Name": "BNP PARIBAS",
@@ -7819,8 +7819,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "LOR",
     "SWIFT Code": "BNPAFRPPLOR",
     "Bank Name": "BNP PARIBAS",
@@ -7832,8 +7832,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "VBE",
     "SWIFT Code": "BNPAFRPPVBE",
     "Bank Name": "BNP PARIBAS",
@@ -7845,8 +7845,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "LPD",
     "SWIFT Code": "BNPAFRPPLPD",
     "Bank Name": "BNP PARIBAS",
@@ -7858,8 +7858,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TAS",
     "SWIFT Code": "BNPAFRPPTAS",
     "Bank Name": "BNP PARIBAS",
@@ -7871,8 +7871,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MNT",
     "SWIFT Code": "BNPAFRPPMNT",
     "Bank Name": "BNP PARIBAS",
@@ -7884,8 +7884,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "BNPAFRPPMAR",
     "Bank Name": "BNP PARIBAS",
@@ -7897,8 +7897,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MED",
     "SWIFT Code": "BNPAFRPPMED",
     "Bank Name": "BNP PARIBAS",
@@ -7910,8 +7910,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MEE",
     "SWIFT Code": "BNPAFRPPMEE",
     "Bank Name": "BNP PARIBAS",
@@ -7923,8 +7923,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MAS",
     "SWIFT Code": "BNPAFRPPMAS",
     "Bank Name": "BNP PARIBAS",
@@ -7936,8 +7936,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MEL",
     "SWIFT Code": "BNPAFRPPMEL",
     "Bank Name": "BNP PARIBAS",
@@ -7949,8 +7949,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MTZ",
     "SWIFT Code": "BNPAFRPPMTZ",
     "Bank Name": "BNP PARIBAS",
@@ -7962,8 +7962,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MPL",
     "SWIFT Code": "BNPAFRPPMPL",
     "Bank Name": "BNP PARIBAS",
@@ -7975,8 +7975,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MUL",
     "SWIFT Code": "BNPAFRPPMUL",
     "Bank Name": "BNP PARIBAS",
@@ -7988,8 +7988,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "NCY",
     "SWIFT Code": "BNPAFRPPNCY",
     "Bank Name": "BNP PARIBAS",
@@ -8001,8 +8001,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CNA",
     "SWIFT Code": "BNPAFRPPCNA",
     "Bank Name": "BNP PARIBAS",
@@ -8014,8 +8014,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "NAN",
     "SWIFT Code": "BNPAFRPPNAN",
     "Bank Name": "BNP PARIBAS",
@@ -8027,8 +8027,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "VLE",
     "SWIFT Code": "BNPAFRPPVLE",
     "Bank Name": "BNP PARIBAS",
@@ -8040,8 +8040,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "NEU",
     "SWIFT Code": "BNPAFRPPNEU",
     "Bank Name": "BNP PARIBAS",
@@ -8053,8 +8053,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "NIC",
     "SWIFT Code": "BNPAFRPPNIC",
     "Bank Name": "BNP PARIBAS",
@@ -8066,8 +8066,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "NIM",
     "SWIFT Code": "BNPAFRPPNIM",
     "Bank Name": "BNP PARIBAS",
@@ -8079,8 +8079,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ORL",
     "SWIFT Code": "BNPAFRPPORL",
     "Bank Name": "BNP PARIBAS",
@@ -8092,8 +8092,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ORE",
     "SWIFT Code": "BNPAFRPPORE",
     "Bank Name": "BNP PARIBAS",
@@ -8105,8 +8105,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CCS",
     "SWIFT Code": "BNPAFRPPCCS",
     "Bank Name": "BNP PARIBAS",
@@ -8118,8 +8118,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CTG",
     "SWIFT Code": "BNPAFRPPCTG",
     "Bank Name": "BNP PARIBAS",
@@ -8131,8 +8131,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "DEF",
     "SWIFT Code": "BNPAFRPPDEF",
     "Bank Name": "BNP PARIBAS",
@@ -8144,8 +8144,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "GAI",
     "SWIFT Code": "BNPAFRPPGAI",
     "Bank Name": "BNP PARIBAS",
@@ -8157,8 +8157,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PBP",
     "SWIFT Code": "BNPAFRPPPBP",
     "Bank Name": "BNP PARIBAS",
@@ -8170,8 +8170,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "RPH",
     "SWIFT Code": "BNPAFRPH",
     "Bank Name": "BNP PARIBAS",
@@ -8183,8 +8183,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PPP",
     "SWIFT Code": "BNPAFRPPPPP",
     "Bank Name": "BNP PARIBAS",
@@ -8196,8 +8196,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ANI",
     "SWIFT Code": "BNPAFRPPANI",
     "Bank Name": "BNP PARIBAS",
@@ -8209,8 +8209,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PAA",
     "SWIFT Code": "BNPAFRPPPAA",
     "Bank Name": "BNP PARIBAS",
@@ -8222,8 +8222,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PBQ",
     "SWIFT Code": "BNPAFRPPPBQ",
     "Bank Name": "BNP PARIBAS",
@@ -8235,8 +8235,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CHQ",
     "SWIFT Code": "BNPAFRPPCHQ",
     "Bank Name": "BNP PARIBAS",
@@ -8248,8 +8248,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AFE",
     "SWIFT Code": "BNPAFRPPAFE",
     "Bank Name": "BNP PARIBAS",
@@ -8261,8 +8261,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "AEA",
     "SWIFT Code": "BNPAFRPPAEA",
     "Bank Name": "BNP PARIBAS",
@@ -8274,8 +8274,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BFI",
     "SWIFT Code": "BNPAFRPPBFI",
     "Bank Name": "BNP PARIBAS",
@@ -8287,8 +8287,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "EMC",
     "SWIFT Code": "BNPAFRPPEMC",
     "Bank Name": "BNP PARIBAS",
@@ -8300,8 +8300,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PBY",
     "SWIFT Code": "BNPAFRPPPBY",
     "Bank Name": "BNP PARIBAS",
@@ -8313,8 +8313,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "EQD",
     "SWIFT Code": "BNPAFRPPEQD",
     "Bank Name": "BNP PARIBAS",
@@ -8326,8 +8326,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "032",
     "SWIFT Code": "BNPAFRPP032",
     "Bank Name": "BNP PARIBAS",
@@ -8339,8 +8339,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "038",
     "SWIFT Code": "BNPAFRPP038",
     "Bank Name": "BNP PARIBAS",
@@ -8352,8 +8352,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "039",
     "SWIFT Code": "BNPAFRPP039",
     "Bank Name": "BNP PARIBAS",
@@ -8365,8 +8365,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "201",
     "SWIFT Code": "BNPAFRPP201",
     "Bank Name": "BNP PARIBAS",
@@ -8378,8 +8378,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTTC",
-    "bankCode": "FR",
+    "bankCode": "CTTC",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CTTCFR22",
     "Bank Name": "S14 CAPITAL",
@@ -8391,8 +8391,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFRA",
-    "bankCode": "FR",
+    "bankCode": "SFRA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SFRAFRP2",
     "Bank Name": "SAFRAN",
@@ -8404,8 +8404,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFRA",
-    "bankCode": "FR",
+    "bankCode": "SFRA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SFRAFRPP",
     "Bank Name": "SAFRAN",
@@ -8417,8 +8417,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGEO",
-    "bankCode": "FR",
+    "bankCode": "SGEO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SGEOFRPP",
     "Bank Name": "SAGEMCOM S.A.S.",
@@ -8430,8 +8430,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMS",
-    "bankCode": "FR",
+    "bankCode": "SAMS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SAMSFR22",
     "Bank Name": "SAMSIC",
@@ -8443,8 +8443,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAAV",
-    "bankCode": "FR",
+    "bankCode": "SAAV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SAAVFRPP",
     "Bank Name": "SANOFI SA",
@@ -8456,8 +8456,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SANX",
-    "bankCode": "FR",
+    "bankCode": "SANX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SANXFRPP",
     "Bank Name": "SANOFI SA",
@@ -8469,8 +8469,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPGT",
-    "bankCode": "FR",
+    "bankCode": "SPGT",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SPGTFR22",
     "Bank Name": "SAPIENTA GESTION",
@@ -8482,8 +8482,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SATE",
-    "bankCode": "FR",
+    "bankCode": "SATE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SATEFR22",
     "Bank Name": "SAS LE CREUSET",
@@ -8495,8 +8495,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBMD",
-    "bankCode": "FR",
+    "bankCode": "SBMD",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SBMDFR22",
     "Bank Name": "SBM DEVELOPPEMENT",
@@ -8508,8 +8508,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNU",
-    "bankCode": "FR",
+    "bankCode": "SCNU",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SCNUFRPP",
     "Bank Name": "SCHNEIDER CONSUMER GROUP S.A.",
@@ -8521,8 +8521,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCGI",
-    "bankCode": "FR",
+    "bankCode": "SCGI",
+    "countryCode": "FR",
     "branchCode": "RPB",
     "SWIFT Code": "SCGIFRPB",
     "Bank Name": "SCOR INVESTMENT PARTNERS",
@@ -8534,8 +8534,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCGI",
-    "bankCode": "FR",
+    "bankCode": "SCGI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SCGIFRPP",
     "Bank Name": "SCOR INVESTMENT PARTNERS",
@@ -8547,8 +8547,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCTY",
-    "bankCode": "FR",
+    "bankCode": "SCTY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SCTYFRPP",
     "Bank Name": "SCOR SE",
@@ -8560,8 +8560,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSY",
-    "bankCode": "FR",
+    "bankCode": "SCSY",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SCSYFRP2",
     "Bank Name": "SCORE AND SECURE PAYMENT",
@@ -8573,8 +8573,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOPU",
-    "bankCode": "FR",
+    "bankCode": "SOPU",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SOPUFR22",
     "Bank Name": "SCORPIUS S.A.S.",
@@ -8586,8 +8586,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKSA",
-    "bankCode": "FR",
+    "bankCode": "SKSA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SKSAFR22",
     "Bank Name": "SEB S.A.",
@@ -8599,8 +8599,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDVR",
-    "bankCode": "FR",
+    "bankCode": "SDVR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SDVRFRPP",
     "Bank Name": "SEDIVER S.A.S.",
@@ -8612,8 +8612,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEGU",
-    "bankCode": "FR",
+    "bankCode": "SEGU",
+    "countryCode": "FR",
     "branchCode": "R2N",
     "SWIFT Code": "SEGUFR2N",
     "Bank Name": "SEGULA TECHNOLOGIES S.A.",
@@ -8625,8 +8625,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NVCA",
-    "bankCode": "FR",
+    "bankCode": "NVCA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "NVCAFR22",
     "Bank Name": "SEQENS",
@@ -8638,8 +8638,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLDO",
-    "bankCode": "FR",
+    "bankCode": "SLDO",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SLDOFRP2",
     "Bank Name": "SERVICES LOGICIELS D'INTEGRATION BOURSIERE",
@@ -8651,8 +8651,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SELM",
-    "bankCode": "FR",
+    "bankCode": "SELM",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SELMFRP2",
     "Bank Name": "SEVEN CAPITAL MANAGEMENT",
@@ -8664,8 +8664,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFIL",
-    "bankCode": "FR",
+    "bankCode": "SFIL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SFILFRPP",
     "Bank Name": "SFIL",
@@ -8677,8 +8677,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGOE",
-    "bankCode": "FR",
+    "bankCode": "SGOE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SGOEFRPP",
     "Bank Name": "SG OPTION EUROPE S.A.",
@@ -8690,8 +8690,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFES",
-    "bankCode": "FR",
+    "bankCode": "SFES",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SFESFRP2",
     "Bank Name": "SHARES FINANCIAL ASSETS SAS",
@@ -8703,8 +8703,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNNN",
-    "bankCode": "FR",
+    "bankCode": "SNNN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SNNNFR22",
     "Bank Name": "SHINE",
@@ -8716,8 +8716,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNNN",
-    "bankCode": "FR",
+    "bankCode": "SNNN",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "SNNNFR22TPS",
     "Bank Name": "SHINE",
@@ -8729,8 +8729,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHOR",
-    "bankCode": "FR",
+    "bankCode": "SHOR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SHORFRPP",
     "Bank Name": "SHOWROOMPRIVE.COM S.R.L.",
@@ -8742,8 +8742,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAOL",
-    "bankCode": "FR",
+    "bankCode": "SAOL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SAOLFR22",
     "Bank Name": "SIA.WEI CASINO MARTIAL",
@@ -8755,8 +8755,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSHO",
-    "bankCode": "FR",
+    "bankCode": "SSHO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SSHOFRPP",
     "Bank Name": "SIACI SAINT HONORE SAS",
@@ -8768,8 +8768,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIUA",
-    "bankCode": "FR",
+    "bankCode": "SIUA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SIUAFR22",
     "Bank Name": "SICAME GROUP S.A.S",
@@ -8781,8 +8781,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTE",
-    "bankCode": "FR",
+    "bankCode": "SSTE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SSTEFR22",
     "Bank Name": "SIMPSON STRONG-TIE EUROPE S.A.R.L.",
@@ -8794,8 +8794,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "FR",
+    "bankCode": "SMBC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SMBCFRPP",
     "Bank Name": "SMBC BANK INTERNATIONAL PLC, PARIS BRANCH",
@@ -8807,8 +8807,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "FR",
+    "bankCode": "SMBC",
+    "countryCode": "FR",
     "branchCode": "GEB",
     "SWIFT Code": "SMBCFRPPGEB",
     "Bank Name": "SMBC BANK INTERNATIONAL PLC, PARIS BRANCH",
@@ -8820,8 +8820,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMCS",
-    "bankCode": "FR",
+    "bankCode": "SMCS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SMCSFRPP",
     "Bank Name": "SMCP SAS",
@@ -8833,8 +8833,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMPA",
-    "bankCode": "FR",
+    "bankCode": "SMPA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SMPAFR22",
     "Bank Name": "SMILE AND PAY",
@@ -8846,8 +8846,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REYD",
-    "bankCode": "FR",
+    "bankCode": "REYD",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "REYDFR22",
     "Bank Name": "SMRC AUTOMOTIVE MODULES FRANCE SAS",
@@ -8859,8 +8859,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNIN",
-    "bankCode": "FR",
+    "bankCode": "SNIN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SNINFRPP",
     "Bank Name": "SNCF PARTICIPATIONS",
@@ -8872,8 +8872,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFFR",
-    "bankCode": "FR",
+    "bankCode": "RFFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RFFRFRPP",
     "Bank Name": "SNCF RESEAU",
@@ -8885,8 +8885,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOBC",
-    "bankCode": "FR",
+    "bankCode": "SOBC",
+    "countryCode": "FR",
     "branchCode": "R2P",
     "SWIFT Code": "SOBCFR2P",
     "Bank Name": "SOCIETE BIC",
@@ -8898,8 +8898,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "MRT",
     "SWIFT Code": "CCBPFRPPMRT",
     "Bank Name": "SOCIETE CENTRALE DE CREDIT MARITIME MUTUEL",
@@ -8911,8 +8911,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGE",
     "SWIFT Code": "SOGEFRPPAGE",
     "Bank Name": "SOCIETE GENERALE",
@@ -8924,8 +8924,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AXP",
     "SWIFT Code": "SOGEFRPPAXP",
     "Bank Name": "SOCIETE GENERALE",
@@ -8937,8 +8937,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AJA",
     "SWIFT Code": "SOGEFRPPAJA",
     "Bank Name": "SOCIETE GENERALE",
@@ -8950,8 +8950,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ALB",
     "SWIFT Code": "SOGEFRPPALB",
     "Bank Name": "SOCIETE GENERALE",
@@ -8963,8 +8963,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ALN",
     "SWIFT Code": "SOGEFRPPALN",
     "Bank Name": "SOCIETE GENERALE",
@@ -8976,8 +8976,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ALE",
     "SWIFT Code": "SOGEFRPPALE",
     "Bank Name": "SOCIETE GENERALE",
@@ -8989,8 +8989,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AMI",
     "SWIFT Code": "SOGEFRPPAMI",
     "Bank Name": "SOCIETE GENERALE",
@@ -9002,8 +9002,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGS",
     "SWIFT Code": "SOGEFRPPAGS",
     "Bank Name": "SOCIETE GENERALE",
@@ -9015,8 +9015,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ANG",
     "SWIFT Code": "SOGEFRPPANG",
     "Bank Name": "SOCIETE GENERALE",
@@ -9028,8 +9028,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "MON",
     "SWIFT Code": "PSSTFRPPMON",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9041,8 +9041,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "NCY",
     "SWIFT Code": "PSSTFRPPNCY",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9054,8 +9054,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "NTE",
     "SWIFT Code": "PSSTFRPPNTE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9067,8 +9067,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "SCE",
     "SWIFT Code": "PSSTFRPPSCE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9080,8 +9080,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "CNE",
     "SWIFT Code": "PSSTFRPPCNE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9093,8 +9093,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "BTE",
     "SWIFT Code": "PSSTFRPPBTE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9106,8 +9106,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "CAY",
     "SWIFT Code": "PSSTFRPPCAY",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9119,8 +9119,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "FDF",
     "SWIFT Code": "PSSTFRPPFDF",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9132,8 +9132,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "PAR",
     "SWIFT Code": "PSSTFRPPPAR",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9145,8 +9145,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "SDR",
     "SWIFT Code": "PSSTFRPPSDR",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9158,8 +9158,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "TRE",
     "SWIFT Code": "PSSTFRPPTRE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9171,8 +9171,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PSSTFRPP",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9184,8 +9184,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "TIP",
     "SWIFT Code": "PSSTFRPPTIP",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9197,8 +9197,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "CCB",
     "SWIFT Code": "PSSTFRPPCCB",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9210,8 +9210,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "REN",
     "SWIFT Code": "PSSTFRPPREN",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9223,8 +9223,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "ROU",
     "SWIFT Code": "PSSTFRPPROU",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9236,8 +9236,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "STR",
     "SWIFT Code": "PSSTFRPPSTR",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9249,8 +9249,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "TOU",
     "SWIFT Code": "PSSTFRPPTOU",
     "Bank Name": "LA BANQUE POSTALE",
@@ -9262,8 +9262,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBGA",
-    "bankCode": "FR",
+    "bankCode": "LBGA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LBGAFRPP",
     "Bank Name": "LA BANQUE POSTALE ASSET MANAGEMENT",
@@ -9275,8 +9275,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBP",
-    "bankCode": "FR",
+    "bankCode": "HLBP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HLBPFRPP",
     "Bank Name": "LA BANQUE POSTALE HOME LOAN SFH",
@@ -9288,8 +9288,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CWEL",
-    "bankCode": "FR",
+    "bankCode": "CWEL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CWELFR22",
     "Bank Name": "LA COOPERATIVE WELCOOP",
@@ -9301,8 +9301,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATLN",
-    "bankCode": "FR",
+    "bankCode": "ATLN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ATLNFRPP",
     "Bank Name": "LA FINANCIERE ATALIAN",
@@ -9314,8 +9314,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRFS",
-    "bankCode": "FR",
+    "bankCode": "FRFS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FRFSFRPP",
     "Bank Name": "LA FRANCAISE AM FINANCE SERVICES S.A.S.",
@@ -9327,8 +9327,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRAG",
-    "bankCode": "FR",
+    "bankCode": "FRAG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FRAGFRPP",
     "Bank Name": "LA FRANCAISE ASSET MANAGEMENT S.A.S.",
@@ -9340,8 +9340,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBNV",
-    "bankCode": "FR",
+    "bankCode": "WBNV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "WBNVFRPP",
     "Bank Name": "LA POSTE",
@@ -9353,8 +9353,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LABO",
-    "bankCode": "FR",
+    "bankCode": "LABO",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LABOFR22",
     "Bank Name": "LABORATOIRES ANIOS SAS",
@@ -9366,8 +9366,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YROC",
-    "bankCode": "FR",
+    "bankCode": "YROC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "YROCFRPP",
     "Bank Name": "LABORATOIRES DE BIOLOGIE VEGETALE YVES ROCHER",
@@ -9379,8 +9379,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LATH",
-    "bankCode": "FR",
+    "bankCode": "LATH",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LATHFR22",
     "Bank Name": "LABORATOIRES THEA",
@@ -9392,8 +9392,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SALA",
-    "bankCode": "FR",
+    "bankCode": "SALA",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "SALAFR2M",
     "Bank Name": "LANDESBANK SAAR",
@@ -9405,8 +9405,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAZP",
-    "bankCode": "FR",
+    "bankCode": "LAZP",
+    "countryCode": "FR",
     "branchCode": "MOK",
     "SWIFT Code": "LAZPFRPPMOK",
     "Bank Name": "LAZARD FRERES BANQUE",
@@ -9418,8 +9418,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAZP",
-    "bankCode": "FR",
+    "bankCode": "LAZP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LAZPFRPP",
     "Bank Name": "LAZARD FRERES BANQUE",
@@ -9431,8 +9431,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAZP",
-    "bankCode": "FR",
+    "bankCode": "LAZP",
+    "countryCode": "FR",
     "branchCode": "RCC",
     "SWIFT Code": "LAZPFRCC",
     "Bank Name": "LAZARD FRERES BANQUE",
@@ -9444,8 +9444,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAFG",
-    "bankCode": "FR",
+    "bankCode": "LAFG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LAFGFRPP",
     "Bank Name": "LAZARD FRERES GESTION",
@@ -9457,8 +9457,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "FR",
+    "bankCode": "CRLY",
+    "countryCode": "FR",
     "branchCode": "DOC",
     "SWIFT Code": "CRLYFRPPDOC",
     "Bank Name": "LCL (LE CREDIT LYONNAIS)",
@@ -9470,8 +9470,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "FR",
+    "bankCode": "CRLY",
+    "countryCode": "FR",
     "branchCode": "IGA",
     "SWIFT Code": "CRLYFRPPIGA",
     "Bank Name": "LCL (LE CREDIT LYONNAIS)",
@@ -9483,8 +9483,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "FR",
+    "bankCode": "CRLY",
+    "countryCode": "FR",
     "branchCode": "FID",
     "SWIFT Code": "CRLYFRPPFID",
     "Bank Name": "LCL (LE CREDIT LYONNAIS)",
@@ -9496,8 +9496,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "FR",
+    "bankCode": "CRLY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CRLYFRPP",
     "Bank Name": "LCL (LE CREDIT LYONNAIS)",
@@ -9509,8 +9509,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEGD",
-    "bankCode": "FR",
+    "bankCode": "LEGD",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "LEGDFR2L",
     "Bank Name": "LEGRAND FRANCE SA",
@@ -9522,8 +9522,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGRI",
-    "bankCode": "FR",
+    "bankCode": "LGRI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LGRIFR22",
     "Bank Name": "LEGRIS INDUSTRIES DEVELOPPEMENT S.A.",
@@ -9535,8 +9535,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEWA",
-    "bankCode": "FR",
+    "bankCode": "LEWA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LEWAFRPP",
     "Bank Name": "LEMONWAY",
@@ -9548,8 +9548,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LECP",
-    "bankCode": "FR",
+    "bankCode": "LECP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LECPFRPP",
     "Bank Name": "LESAFFRE ET COMPAGNIE",
@@ -9561,8 +9561,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "FR",
+    "bankCode": "LOCY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LOCYFRPP",
     "Bank Name": "LOMBARD ODIER (EUROPE) SA SUCCURSALE EN FRANCE",
@@ -9574,8 +9574,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "FR",
+    "bankCode": "LOCY",
+    "countryCode": "FR",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYFRPPNDP",
     "Bank Name": "LOMBARD ODIER (EUROPE) SA SUCCURSALE EN FRANCE",
@@ -9587,8 +9587,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPBI",
-    "bankCode": "FR",
+    "bankCode": "CPBI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CPBIFRPP",
     "Bank Name": "LOOMIS FX GOLD AND SERVICES",
@@ -9600,8 +9600,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDAR",
-    "bankCode": "FR",
+    "bankCode": "LDAR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LDARFR22",
     "Bank Name": "LOUIS DREYFUS ARMATEURS",
@@ -9613,8 +9613,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOUV",
-    "bankCode": "FR",
+    "bankCode": "LOUV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LOUVFRPP",
     "Bank Name": "LOUVRE HOTELS GROUP",
@@ -9626,8 +9626,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOXA",
-    "bankCode": "FR",
+    "bankCode": "LOXA",
+    "countryCode": "FR",
     "branchCode": "R2X",
     "SWIFT Code": "LOXAFR2X",
     "Bank Name": "LOXAM",
@@ -9639,8 +9639,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUDD",
-    "bankCode": "FR",
+    "bankCode": "LUDD",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LUDDFR22",
     "Bank Name": "LUDENDO ENTREPRISES",
@@ -9652,8 +9652,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LUMB",
-    "bankCode": "FR",
+    "bankCode": "LUMB",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "LUMBFR22",
     "Bank Name": "LUMIBIRD S.A.",
@@ -9665,8 +9665,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LVMH",
-    "bankCode": "FR",
+    "bankCode": "LVMH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LVMHFRPP",
     "Bank Name": "LVMH - MOET HENNESSY LOUIS VUITTON",
@@ -9678,8 +9678,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "POI",
     "SWIFT Code": "BNPAFRPPPOI",
     "Bank Name": "BNP PARIBAS",
@@ -9691,8 +9691,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "RMS",
     "SWIFT Code": "BNPAFRPPRMS",
     "Bank Name": "BNP PARIBAS",
@@ -9704,8 +9704,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CRM",
     "SWIFT Code": "BNPAFRPPCRM",
     "Bank Name": "BNP PARIBAS",
@@ -9717,8 +9717,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "REN",
     "SWIFT Code": "BNPAFRPPREN",
     "Bank Name": "BNP PARIBAS",
@@ -9730,8 +9730,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CRN",
     "SWIFT Code": "BNPAFRPPCRN",
     "Bank Name": "BNP PARIBAS",
@@ -9743,8 +9743,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ROA",
     "SWIFT Code": "BNPAFRPPROA",
     "Bank Name": "BNP PARIBAS",
@@ -9756,8 +9756,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ROI",
     "SWIFT Code": "BNPAFRPPROI",
     "Bank Name": "BNP PARIBAS",
@@ -9769,8 +9769,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "RBX",
     "SWIFT Code": "BNPAFRPPRBX",
     "Bank Name": "BNP PARIBAS",
@@ -9782,8 +9782,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ROU",
     "SWIFT Code": "BNPAFRPPROU",
     "Bank Name": "BNP PARIBAS",
@@ -9795,8 +9795,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CRO",
     "SWIFT Code": "BNPAFRPPCRO",
     "Bank Name": "BNP PARIBAS",
@@ -9808,8 +9808,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BGT",
     "SWIFT Code": "BNPAFRPPBGT",
     "Bank Name": "BNP PARIBAS",
@@ -9821,8 +9821,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ETI",
     "SWIFT Code": "BNPAFRPPETI",
     "Bank Name": "BNP PARIBAS",
@@ -9834,8 +9834,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "LAY",
     "SWIFT Code": "BNPAFRPPLAY",
     "Bank Name": "BNP PARIBAS",
@@ -9847,8 +9847,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MDT",
     "SWIFT Code": "BNPAFRPPMDT",
     "Bank Name": "BNP PARIBAS",
@@ -9860,8 +9860,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "QUE",
     "SWIFT Code": "BNPAFRPPQUE",
     "Bank Name": "BNP PARIBAS",
@@ -9873,8 +9873,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "SQY",
     "SWIFT Code": "BNPAFRPPSQY",
     "Bank Name": "BNP PARIBAS",
@@ -9886,8 +9886,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "STR",
     "SWIFT Code": "BNPAFRPPSTR",
     "Bank Name": "BNP PARIBAS",
@@ -9899,8 +9899,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CST",
     "SWIFT Code": "BNPAFRPPCST",
     "Bank Name": "BNP PARIBAS",
@@ -9912,8 +9912,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TLN",
     "SWIFT Code": "BNPAFRPPTLN",
     "Bank Name": "BNP PARIBAS",
@@ -9925,8 +9925,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TLS",
     "SWIFT Code": "BNPAFRPPTLS",
     "Bank Name": "BNP PARIBAS",
@@ -9938,8 +9938,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CTO",
     "SWIFT Code": "BNPAFRPPCTO",
     "Bank Name": "BNP PARIBAS",
@@ -9951,8 +9951,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TOU",
     "SWIFT Code": "BNPAFRPPTOU",
     "Bank Name": "BNP PARIBAS",
@@ -9964,8 +9964,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TRO",
     "SWIFT Code": "BNPAFRPPTRO",
     "Bank Name": "BNP PARIBAS",
@@ -9977,8 +9977,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BBT",
     "SWIFT Code": "BNPAFRPPBBT",
     "Bank Name": "BNP PARIBAS",
@@ -9990,8 +9990,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "VAL",
     "SWIFT Code": "BNPAFRPPVAL",
     "Bank Name": "BNP PARIBAS",
@@ -10003,8 +10003,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "VCS",
     "SWIFT Code": "BNPAFRPPVCS",
     "Bank Name": "BNP PARIBAS",
@@ -10016,8 +10016,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "VRS",
     "SWIFT Code": "BNPAFRPPVRS",
     "Bank Name": "BNP PARIBAS",
@@ -10029,8 +10029,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BNABFRPP",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10042,8 +10042,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "AGY",
     "SWIFT Code": "BNABFRPPAGY",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10055,8 +10055,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "MOR",
     "SWIFT Code": "BNABFRPPMOR",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10068,8 +10068,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "OTC",
     "SWIFT Code": "BNABFRPPOTC",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10081,8 +10081,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "PRE",
     "SWIFT Code": "BNABFRPPPRE",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10094,8 +10094,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "OST",
     "SWIFT Code": "BNABFRPPOST",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10107,8 +10107,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "SVC",
     "SWIFT Code": "BNABFRPPSVC",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10120,8 +10120,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "FND",
     "SWIFT Code": "BNABFRPPFND",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10133,8 +10133,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "TRE",
     "SWIFT Code": "BNABFRPPTRE",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10146,8 +10146,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAB",
-    "bankCode": "FR",
+    "bankCode": "BNAB",
+    "countryCode": "FR",
     "branchCode": "USA",
     "SWIFT Code": "BNABFRPPUSA",
     "Bank Name": "BNP PARIBAS ARBITRAGE",
@@ -10159,8 +10159,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "RPL",
     "SWIFT Code": "BNPAFRPL",
     "Bank Name": "BNP PARIBAS HOME LOAN SFH",
@@ -10172,8 +10172,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "BRO",
     "SWIFT Code": "BNPAFRPPBRO",
     "Bank Name": "BNP PARIBAS SA (FORMELY BANQUE NATIONALE DE PARIS S.A.)",
@@ -10185,8 +10185,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RKA",
     "SWIFT Code": "PARBFRKA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -10198,8 +10198,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RKB",
     "SWIFT Code": "PARBFRKB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -10211,8 +10211,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RKC",
     "SWIFT Code": "PARBFRKC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -10224,8 +10224,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RKD",
     "SWIFT Code": "PARBFRKD",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -10237,8 +10237,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RKE",
     "SWIFT Code": "PARBFRKE",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -10250,8 +10250,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RKF",
     "SWIFT Code": "PARBFRKF",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES",
@@ -10263,8 +10263,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAS",
-    "bankCode": "FR",
+    "bankCode": "BPAS",
+    "countryCode": "FR",
     "branchCode": "LUX",
     "SWIFT Code": "BPASFRPPLUX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -10276,8 +10276,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "AGL",
     "SWIFT Code": "PARBFRPPAGL",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -10289,8 +10289,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RCB",
     "SWIFT Code": "PARBFRCB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -10302,8 +10302,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "FR",
+    "bankCode": "PARB",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "PARBFRCP",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -10315,8 +10315,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAS",
-    "bankCode": "FR",
+    "bankCode": "BPAS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BPASFRPP",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, FRANCE",
@@ -10328,8 +10328,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "FR",
+    "bankCode": "PICT",
+    "countryCode": "FR",
     "branchCode": "COR",
     "SWIFT Code": "PICTFRPPCOR",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE PARIS",
@@ -10341,8 +10341,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBAI",
-    "bankCode": "FR",
+    "bankCode": "HBAI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HBAIFRPP",
     "Bank Name": "BANKS AND ACQUIRERS INTERNATIONAL HOLDING S.A.S.",
@@ -10354,8 +10354,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "FR",
+    "bankCode": "BLOM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BLOMFRPP",
     "Bank Name": "BANQUE BANORIENT FRANCE",
@@ -10367,8 +10367,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "FR",
+    "bankCode": "BLOM",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "BLOMFRPPBDF",
     "Bank Name": "BANQUE BANORIENT FRANCE",
@@ -10380,8 +10380,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPSM",
-    "bankCode": "FR",
+    "bankCode": "BPSM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BPSMFRPP",
     "Bank Name": "BANQUE BCP",
@@ -10393,8 +10393,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAR",
-    "bankCode": "FR",
+    "bankCode": "BIAR",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "BIARFRPPBDF",
     "Bank Name": "BANQUE BIA",
@@ -10406,8 +10406,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAR",
-    "bankCode": "FR",
+    "bankCode": "BIAR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BIARFRPP",
     "Bank Name": "BANQUE BIA",
@@ -10419,8 +10419,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "AMS",
     "SWIFT Code": "BACPFRPPAMS",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10432,8 +10432,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "DVP",
     "SWIFT Code": "BACPFRPPDVP",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10445,8 +10445,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BACPFRPP",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10458,8 +10458,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "TRE",
     "SWIFT Code": "BACPFRPPTRE",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10471,8 +10471,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "BRU",
     "SWIFT Code": "BACPFRPPBRU",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10484,8 +10484,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "TRI",
     "SWIFT Code": "BACPFRPPTRI",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10497,8 +10497,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "SSD",
     "SWIFT Code": "BACPFRPPSSD",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10510,8 +10510,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "VP1",
     "SWIFT Code": "BACPFRPPVP1",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10523,8 +10523,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "VP2",
     "SWIFT Code": "BACPFRPPVP2",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10536,8 +10536,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "AWC",
     "SWIFT Code": "BACPFRPPAWC",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10549,8 +10549,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "COL",
     "SWIFT Code": "BACPFRPPCOL",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10562,8 +10562,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "EU1",
     "SWIFT Code": "BACPFRPPEU1",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10575,8 +10575,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "MO1",
     "SWIFT Code": "BACPFRPPMO1",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10588,8 +10588,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "WC1",
     "SWIFT Code": "BACPFRPPWC1",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10601,8 +10601,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "MO2",
     "SWIFT Code": "BACPFRPPMO2",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10614,8 +10614,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "T01",
     "SWIFT Code": "BACPFRPPT01",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10627,8 +10627,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "T02",
     "SWIFT Code": "BACPFRPPT02",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10640,8 +10640,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "T03",
     "SWIFT Code": "BACPFRPPT03",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10653,8 +10653,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "BACPFRPPRCP",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10666,8 +10666,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "CBP",
     "SWIFT Code": "BACPFRPPCBP",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10679,8 +10679,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "OTC",
     "SWIFT Code": "BACPFRPPOTC",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10692,8 +10692,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "EQ1",
     "SWIFT Code": "BACPFRPPEQ1",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10705,8 +10705,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "EQ2",
     "SWIFT Code": "BACPFRPPEQ2",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10718,8 +10718,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "MMO",
     "SWIFT Code": "BACPFRPPMMO",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10731,8 +10731,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "SBL",
     "SWIFT Code": "BACPFRPPSBL",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10744,8 +10744,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "ASI",
     "SWIFT Code": "BACPFRPPASI",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10757,8 +10757,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "TG2",
     "SWIFT Code": "BACPFRPPTG2",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10770,8 +10770,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "USC",
     "SWIFT Code": "BACPFRPPUSC",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10783,8 +10783,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "DEF",
     "SWIFT Code": "BACPFRPPDEF",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10796,8 +10796,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACP",
-    "bankCode": "FR",
+    "bankCode": "BACP",
+    "countryCode": "FR",
     "branchCode": "CLI",
     "SWIFT Code": "BACPFRPPCLI",
     "Bank Name": "BANQUE CENTRALE DE COMPENSATION - LCH.CLEARNET SA",
@@ -10809,8 +10809,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDM",
-    "bankCode": "FR",
+    "bankCode": "BCDM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BCDMFRPP",
     "Bank Name": "BANQUE CHAABI DU MAROC",
@@ -10822,8 +10822,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "R2T",
     "SWIFT Code": "BDFEFR2T",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10835,8 +10835,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BDFEFRPP",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10848,8 +10848,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TCI",
     "SWIFT Code": "BDFEFR2TTCI",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10861,8 +10861,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TSB",
     "SWIFT Code": "BDFEFR2TTSB",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10874,8 +10874,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "NCA",
     "SWIFT Code": "BDFEFR2TNCA",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10887,8 +10887,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TAH",
     "SWIFT Code": "BDFEFR2TTAH",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10900,8 +10900,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "WAL",
     "SWIFT Code": "BDFEFR2TWAL",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10913,8 +10913,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FPT",
     "SWIFT Code": "BDFEFR2TFPT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10926,8 +10926,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "026",
     "SWIFT Code": "BDFEFR2T026",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10939,8 +10939,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "033",
     "SWIFT Code": "BDFEFR2T033",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10952,8 +10952,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "034",
     "SWIFT Code": "BDFEFR2T034",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10965,8 +10965,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "043",
     "SWIFT Code": "BDFEFR2T043",
     "Bank Name": "BANQUE DE FRANCE",
@@ -10978,8 +10978,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ONE",
     "SWIFT Code": "SOGEFRPPONE",
     "Bank Name": "SOCIETE GENERALE",
@@ -10991,8 +10991,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GSS",
     "SWIFT Code": "SOGEFRPPGSS",
     "Bank Name": "SOCIETE GENERALE",
@@ -11004,8 +11004,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LUX",
     "SWIFT Code": "SOGEFRPPLUX",
     "Bank Name": "SOCIETE GENERALE",
@@ -11017,8 +11017,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LDE",
     "SWIFT Code": "SOGEFRPPLDE",
     "Bank Name": "SOCIETE GENERALE",
@@ -11030,8 +11030,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LMA",
     "SWIFT Code": "SOGEFRPPLMA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11043,8 +11043,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LMC",
     "SWIFT Code": "SOGEFRPPLMC",
     "Bank Name": "SOCIETE GENERALE",
@@ -11056,8 +11056,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LMD",
     "SWIFT Code": "SOGEFRPPLMD",
     "Bank Name": "SOCIETE GENERALE",
@@ -11069,8 +11069,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LMB",
     "SWIFT Code": "SOGEFRPPLMB",
     "Bank Name": "SOCIETE GENERALE",
@@ -11082,8 +11082,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CBS",
     "SWIFT Code": "SOGEFRPPCBS",
     "Bank Name": "SOCIETE GENERALE",
@@ -11095,8 +11095,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AOA",
     "SWIFT Code": "SOGEFRPPAOA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11108,8 +11108,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "OBA",
     "SWIFT Code": "SOGEFRPPOBA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11121,8 +11121,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ANB",
     "SWIFT Code": "SOGEFRPPANB",
     "Bank Name": "SOCIETE GENERALE",
@@ -11134,8 +11134,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ABO",
     "SWIFT Code": "SOGEFRPPABO",
     "Bank Name": "SOCIETE GENERALE",
@@ -11147,8 +11147,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RRC",
     "SWIFT Code": "SOGEFRPPRRC",
     "Bank Name": "SOCIETE GENERALE",
@@ -11160,8 +11160,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BML",
     "SWIFT Code": "SOGEFRPPBML",
     "Bank Name": "SOCIETE GENERALE",
@@ -11173,8 +11173,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AJC",
     "SWIFT Code": "SOGEFRPPAJC",
     "Bank Name": "SOCIETE GENERALE",
@@ -11186,8 +11186,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CTE",
     "SWIFT Code": "SOGEFRPPCTE",
     "Bank Name": "SOCIETE GENERALE",
@@ -11199,8 +11199,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BXC",
     "SWIFT Code": "SOGEFRPPBXC",
     "Bank Name": "SOCIETE GENERALE",
@@ -11212,8 +11212,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "UCR",
     "SWIFT Code": "SOGEFRPPUCR",
     "Bank Name": "SOCIETE GENERALE",
@@ -11225,8 +11225,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BFD",
     "SWIFT Code": "SOGEFRPPBFD",
     "Bank Name": "SOCIETE GENERALE",
@@ -11238,8 +11238,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AED",
     "SWIFT Code": "SOGEFRPPAED",
     "Bank Name": "SOCIETE GENERALE",
@@ -11251,8 +11251,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "WLF",
     "SWIFT Code": "SOGEFRPPWLF",
     "Bank Name": "SOCIETE GENERALE",
@@ -11264,8 +11264,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AZF",
     "SWIFT Code": "SOGEFRPPAZF",
     "Bank Name": "SOCIETE GENERALE",
@@ -11277,8 +11277,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AUG",
     "SWIFT Code": "SOGEFRPPAUG",
     "Bank Name": "SOCIETE GENERALE",
@@ -11290,8 +11290,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GSG",
     "SWIFT Code": "SOGEFRPPGSG",
     "Bank Name": "SOCIETE GENERALE",
@@ -11303,8 +11303,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ALG",
     "SWIFT Code": "SOGEFRPPALG",
     "Bank Name": "SOCIETE GENERALE",
@@ -11316,8 +11316,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGK",
     "SWIFT Code": "SOGEFRPPAGK",
     "Bank Name": "SOCIETE GENERALE",
@@ -11329,8 +11329,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BMA",
     "SWIFT Code": "SOGEFRPPBMA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11342,8 +11342,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AKT",
     "SWIFT Code": "SOGEFRPPAKT",
     "Bank Name": "SOCIETE GENERALE",
@@ -11355,8 +11355,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FMA",
     "SWIFT Code": "SOGEFRPPFMA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11368,8 +11368,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AMM",
     "SWIFT Code": "SOGEFRPPAMM",
     "Bank Name": "SOCIETE GENERALE",
@@ -11381,8 +11381,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LPC",
     "SWIFT Code": "SOGEFRPPLPC",
     "Bank Name": "SOCIETE GENERALE",
@@ -11394,8 +11394,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HPO",
     "SWIFT Code": "SOGEFRPPHPO",
     "Bank Name": "SOCIETE GENERALE",
@@ -11407,8 +11407,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "KPA",
     "SWIFT Code": "SOGEFRPPKPA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11420,8 +11420,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "JLH",
     "SWIFT Code": "SOGEFRPPJLH",
     "Bank Name": "SOCIETE GENERALE",
@@ -11433,8 +11433,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RAS",
     "SWIFT Code": "SOGEFRPPRAS",
     "Bank Name": "SOCIETE GENERALE",
@@ -11446,8 +11446,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BKR",
     "SWIFT Code": "SOGEFRPPBKR",
     "Bank Name": "SOCIETE GENERALE",
@@ -11459,8 +11459,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RIG",
     "SWIFT Code": "SOGEFRPPRIG",
     "Bank Name": "SOCIETE GENERALE",
@@ -11472,8 +11472,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GSM",
     "SWIFT Code": "SOGEFRPPGSM",
     "Bank Name": "SOCIETE GENERALE",
@@ -11485,8 +11485,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AFS",
     "SWIFT Code": "SOGEFRPPAFS",
     "Bank Name": "SOCIETE GENERALE",
@@ -11498,8 +11498,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "APS",
     "SWIFT Code": "SOGEFRPPAPS",
     "Bank Name": "SOCIETE GENERALE",
@@ -11511,8 +11511,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AIS",
     "SWIFT Code": "SOGEFRPPAIS",
     "Bank Name": "SOCIETE GENERALE",
@@ -11524,8 +11524,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AXT",
     "SWIFT Code": "SOGEFRPPAXT",
     "Bank Name": "SOCIETE GENERALE",
@@ -11537,8 +11537,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PVL",
     "SWIFT Code": "SOGEFRPPPVL",
     "Bank Name": "SOCIETE GENERALE",
@@ -11550,8 +11550,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ATV",
     "SWIFT Code": "SOGEFRPPATV",
     "Bank Name": "SOCIETE GENERALE",
@@ -11563,8 +11563,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TVI",
     "SWIFT Code": "SOGEFRPPTVI",
     "Bank Name": "SOCIETE GENERALE",
@@ -11576,8 +11576,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BLG",
     "SWIFT Code": "SOGEFRPPBLG",
     "Bank Name": "SOCIETE GENERALE",
@@ -11589,8 +11589,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AAA",
     "SWIFT Code": "SOGEFRPPAAA",
     "Bank Name": "SOCIETE GENERALE",
@@ -11602,8 +11602,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ACF",
     "SWIFT Code": "SOGEFRPPACF",
     "Bank Name": "SOCIETE GENERALE",
@@ -11615,8 +11615,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BTL",
     "SWIFT Code": "SOGEFRPPBTL",
     "Bank Name": "SOCIETE GENERALE",
@@ -11628,8 +11628,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "TSY",
     "SWIFT Code": "BOFAFRP3TSY",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -11641,8 +11641,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "UCT",
     "SWIFT Code": "BOFAFRP4UCT",
     "Bank Name": "BOFA SECURITIES EUROPE S.A.",
@@ -11654,8 +11654,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNEI",
-    "bankCode": "FR",
+    "bankCode": "SNEI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SNEIFR22",
     "Bank Name": "BOISSIERE FINANCE",
@@ -11667,8 +11667,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHN",
-    "bankCode": "FR",
+    "bankCode": "SCHN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SCHNFR22",
     "Bank Name": "BOISSIERE FINANCE",
@@ -11680,8 +11680,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOLG",
-    "bankCode": "FR",
+    "bankCode": "BOLG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BOLGFRPP",
     "Bank Name": "BOLLORE LOGISTICS S.E.",
@@ -11693,8 +11693,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOLL",
-    "bankCode": "FR",
+    "bankCode": "BOLL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BOLLFR22",
     "Bank Name": "BOLLORE SE",
@@ -11706,8 +11706,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDU",
-    "bankCode": "FR",
+    "bankCode": "BNDU",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BNDUFR22",
     "Bank Name": "BONDUELLE S.A.",
@@ -11719,8 +11719,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BONA",
-    "bankCode": "FR",
+    "bankCode": "BONA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BONAFRPP",
     "Bank Name": "BONNA SABLA SA",
@@ -11732,8 +11732,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGBB",
-    "bankCode": "FR",
+    "bankCode": "FGBB",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "FGBBFR2M",
     "Bank Name": "BOURBON MARITIME",
@@ -11745,8 +11745,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIR",
-    "bankCode": "FR",
+    "bankCode": "BDIR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BDIRFRPP",
     "Bank Name": "BOURSE DIRECT SA",
@@ -11758,8 +11758,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOUS",
-    "bankCode": "FR",
+    "bankCode": "BOUS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BOUSFRPP",
     "Bank Name": "BOURSORAMA",
@@ -11771,8 +11771,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOUS",
-    "bankCode": "FR",
+    "bankCode": "BOUS",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "BOUSFRPPBDF",
     "Bank Name": "BOURSORAMA",
@@ -11784,8 +11784,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOUS",
-    "bankCode": "FR",
+    "bankCode": "BOUS",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "BOUSFRPPTPS",
     "Bank Name": "BOURSORAMA",
@@ -11797,8 +11797,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYCN",
-    "bankCode": "FR",
+    "bankCode": "BYCN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BYCNFR22",
     "Bank Name": "BOUYGUES CONSTRUCTION",
@@ -11810,8 +11810,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYIM",
-    "bankCode": "FR",
+    "bankCode": "BYIM",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BYIMFR22",
     "Bank Name": "BOUYGUES IMMOBILIER",
@@ -11823,8 +11823,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCE",
-    "bankCode": "FR",
+    "bankCode": "BPCE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BPCEFRPP",
     "Bank Name": "BPCE",
@@ -11836,8 +11836,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCE",
-    "bankCode": "FR",
+    "bankCode": "BPCE",
+    "countryCode": "FR",
     "branchCode": "SFH",
     "SWIFT Code": "BPCEFRPPSFH",
     "Bank Name": "BPCE",
@@ -11849,8 +11849,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBF",
-    "bankCode": "FR",
+    "bankCode": "SDBF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SDBFFRPP",
     "Bank Name": "BPCE DEFI",
@@ -11862,8 +11862,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPCE",
-    "bankCode": "FR",
+    "bankCode": "BPCE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BPCEFR22",
     "Bank Name": "BPCE PAYMENT SERVICES",
@@ -11875,8 +11875,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPME",
-    "bankCode": "FR",
+    "bankCode": "CPME",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CPMEFRPP",
     "Bank Name": "BPIFRANCE",
@@ -11888,8 +11888,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPME",
-    "bankCode": "FR",
+    "bankCode": "CPME",
+    "countryCode": "FR",
     "branchCode": "CRI",
     "SWIFT Code": "CPMEFRPPCRI",
     "Bank Name": "BPIFRANCE",
@@ -11901,8 +11901,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAX",
-    "bankCode": "FR",
+    "bankCode": "BPAX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BPAXFR22",
     "Bank Name": "BPIFRANCE ASSURANCE EXPORT",
@@ -11914,8 +11914,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "KAS",
     "SWIFT Code": "BREDFRPPKAS",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -11927,8 +11927,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "637",
     "SWIFT Code": "BREDFRPP637",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -11940,8 +11940,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "638",
     "SWIFT Code": "BREDFRPP638",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -11953,8 +11953,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "KUS",
     "SWIFT Code": "BREDFRPPKUS",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -11966,8 +11966,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "AXL",
     "SWIFT Code": "BREDFRPPAXL",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -11979,8 +11979,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "KYR",
     "SWIFT Code": "BREDFRPPKYR",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -11992,8 +11992,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "BON",
     "SWIFT Code": "BREDFRPPBON",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12005,8 +12005,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "KPR",
     "SWIFT Code": "BREDFRPPKPR",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12018,8 +12018,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "ESP",
     "SWIFT Code": "BREDFRPPESP",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12031,8 +12031,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BREDFRPP",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12044,8 +12044,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "MTB",
     "SWIFT Code": "BREDFRPPMTB",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12057,8 +12057,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "FDF",
     "SWIFT Code": "BREDFRPPFDF",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12070,8 +12070,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "FR",
+    "bankCode": "BRED",
+    "countryCode": "FR",
     "branchCode": "TRE",
     "SWIFT Code": "BREDFRPPTRE",
     "Bank Name": "BRED BANQUE POPULAIRE",
@@ -12083,8 +12083,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRGE",
-    "bankCode": "FR",
+    "bankCode": "BRGE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BRGEFRPP",
     "Bank Name": "BRED GESTION",
@@ -12096,8 +12096,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFRF",
-    "bankCode": "FR",
+    "bankCode": "BFRF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BFRFFRPP",
     "Bank Name": "BRINK'S PAYMENT SERVICES",
@@ -12109,8 +12109,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUSA",
-    "bankCode": "FR",
+    "bankCode": "BUSA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BUSAFRPP",
     "Bank Name": "BULL",
@@ -12122,8 +12122,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNQ",
-    "bankCode": "FR",
+    "bankCode": "BUNQ",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "BUNQFRP2",
     "Bank Name": "BUNQ B.V.",
@@ -12135,8 +12135,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIAI",
-    "bankCode": "FR",
+    "bankCode": "KIAI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "KIAIFR22",
     "Bank Name": "BUNSHA INTERNATIONAL",
@@ -12148,8 +12148,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUVE",
-    "bankCode": "FR",
+    "bankCode": "BUVE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BUVEFRPP",
     "Bank Name": "BUREAU VERITAS SA",
@@ -12161,8 +12161,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUTC",
-    "bankCode": "FR",
+    "bankCode": "BUTC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BUTCFRPP",
     "Bank Name": "BUTLER CORUM S.A.S.",
@@ -12174,8 +12174,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYBB",
-    "bankCode": "FR",
+    "bankCode": "BYBB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BYBBFRPP",
     "Bank Name": "BYBLOS BANK EUROPE S.A. (PARIS BRANCH)",
@@ -12187,8 +12187,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCVB",
-    "bankCode": "FR",
+    "bankCode": "CCVB",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CCVBFR22",
     "Bank Name": "C.C.V. BEAUMANOIR",
@@ -12200,8 +12200,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSLY",
-    "bankCode": "FR",
+    "bankCode": "SSLY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SSLYFRPP",
     "Bank Name": "C.F.E.B SISLEY",
@@ -12213,8 +12213,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRRH",
-    "bankCode": "FR",
+    "bankCode": "CRRH",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "CRRHFRPA",
     "Bank Name": "C.R.H. - CAISSE DE REFINANCEMENT DE L'HABITAT S.A.",
@@ -12226,8 +12226,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRL",
-    "bankCode": "FR",
+    "bankCode": "AGRL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AGRLFR22",
     "Bank Name": "CA CONSUMER FINANCE",
@@ -12239,8 +12239,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIBL",
-    "bankCode": "FR",
+    "bankCode": "SIBL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SIBLFRPP",
     "Bank Name": "CA INDOSUEZ",
@@ -12252,8 +12252,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ISAEFRPP",
     "Bank Name": "CACEIS BANK",
@@ -12265,8 +12265,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CMA",
     "SWIFT Code": "ISAEFRPPCMA",
     "Bank Name": "CACEIS BANK",
@@ -12278,8 +12278,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BTC",
     "SWIFT Code": "SOGEFRPPBTC",
     "Bank Name": "SOCIETE GENERALE",
@@ -12291,8 +12291,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FIP",
     "SWIFT Code": "SOGEFRPPFIP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12304,8 +12304,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TCP",
     "SWIFT Code": "SOGEFRPPTCP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12317,8 +12317,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PAU",
     "SWIFT Code": "SOGEFRPPPAU",
     "Bank Name": "SOCIETE GENERALE",
@@ -12330,8 +12330,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PRX",
     "SWIFT Code": "SOGEFRPPPRX",
     "Bank Name": "SOCIETE GENERALE",
@@ -12343,8 +12343,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PPG",
     "SWIFT Code": "SOGEFRPPPPG",
     "Bank Name": "SOCIETE GENERALE",
@@ -12356,8 +12356,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "POI",
     "SWIFT Code": "SOGEFRPPPOI",
     "Bank Name": "SOCIETE GENERALE",
@@ -12369,8 +12369,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "POT",
     "SWIFT Code": "SOGEFRPPPOT",
     "Bank Name": "SOCIETE GENERALE",
@@ -12382,8 +12382,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HCM",
     "SWIFT Code": "SOGEFRPPHCM",
     "Bank Name": "SOCIETE GENERALE",
@@ -12395,8 +12395,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SOGEFRPP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12408,8 +12408,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SRP",
     "SWIFT Code": "SOGEFRPPSRP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12421,8 +12421,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SOP",
     "SWIFT Code": "SOGEFRPPSOP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12434,8 +12434,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "IVT",
     "SWIFT Code": "SOGEFRPPIVT",
     "Bank Name": "SOCIETE GENERALE",
@@ -12447,8 +12447,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CTI",
     "SWIFT Code": "SOGEFRPPCTI",
     "Bank Name": "SOCIETE GENERALE",
@@ -12460,8 +12460,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TGV",
     "SWIFT Code": "SOGEFRPPTGV",
     "Bank Name": "SOCIETE GENERALE",
@@ -12473,8 +12473,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CLE",
     "SWIFT Code": "SOGEFRPPCLE",
     "Bank Name": "SOCIETE GENERALE",
@@ -12486,8 +12486,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PUB",
     "SWIFT Code": "SOGEFRPPPUB",
     "Bank Name": "SOCIETE GENERALE",
@@ -12499,8 +12499,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HVT",
     "SWIFT Code": "SOGEFRPPHVT",
     "Bank Name": "SOCIETE GENERALE",
@@ -12512,8 +12512,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ODA",
     "SWIFT Code": "SOGEFRPPODA",
     "Bank Name": "SOCIETE GENERALE",
@@ -12525,8 +12525,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ALL",
     "SWIFT Code": "SOGEFRPPALL",
     "Bank Name": "SOCIETE GENERALE",
@@ -12538,8 +12538,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ADM",
     "SWIFT Code": "SOGEFRPPADM",
     "Bank Name": "SOCIETE GENERALE",
@@ -12551,8 +12551,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HIT",
     "SWIFT Code": "SOGEFRPPHIT",
     "Bank Name": "SOCIETE GENERALE",
@@ -12564,8 +12564,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGN",
     "SWIFT Code": "SOGEFRPPAGN",
     "Bank Name": "SOCIETE GENERALE",
@@ -12577,8 +12577,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ASH",
     "SWIFT Code": "SOGEFRPPASH",
     "Bank Name": "SOCIETE GENERALE",
@@ -12590,8 +12590,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AEL",
     "SWIFT Code": "SOGEFRPPAEL",
     "Bank Name": "SOCIETE GENERALE",
@@ -12603,8 +12603,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CRX",
     "SWIFT Code": "SOGEFRPPCRX",
     "Bank Name": "SOCIETE GENERALE",
@@ -12616,8 +12616,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GDU",
     "SWIFT Code": "SOGEFRPPGDU",
     "Bank Name": "SOCIETE GENERALE",
@@ -12629,8 +12629,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GPP",
     "SWIFT Code": "SOGEFRPPGPP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12642,8 +12642,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ISC",
     "SWIFT Code": "SOGEFRPPISC",
     "Bank Name": "SOCIETE GENERALE",
@@ -12655,8 +12655,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LCH",
     "SWIFT Code": "SOGEFRPPLCH",
     "Bank Name": "SOCIETE GENERALE",
@@ -12668,8 +12668,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LAB",
     "SWIFT Code": "SOGEFRPPLAB",
     "Bank Name": "SOCIETE GENERALE",
@@ -12681,8 +12681,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LIQ",
     "SWIFT Code": "SOGEFRPPLIQ",
     "Bank Name": "SOCIETE GENERALE",
@@ -12694,8 +12694,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BRK",
     "SWIFT Code": "SOGEFRPPBRK",
     "Bank Name": "SOCIETE GENERALE",
@@ -12707,8 +12707,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STH",
     "SWIFT Code": "SOGEFRPPSTH",
     "Bank Name": "SOCIETE GENERALE",
@@ -12720,8 +12720,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TRA",
     "SWIFT Code": "SOGEFRPPTRA",
     "Bank Name": "SOCIETE GENERALE",
@@ -12733,8 +12733,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LMT",
     "SWIFT Code": "SOGEFRPPLMT",
     "Bank Name": "SOCIETE GENERALE",
@@ -12746,8 +12746,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ZYG",
     "SWIFT Code": "SOGEFRPPZYG",
     "Bank Name": "SOCIETE GENERALE",
@@ -12759,8 +12759,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TPS",
     "SWIFT Code": "SOGEFRPPTPS",
     "Bank Name": "SOCIETE GENERALE",
@@ -12772,8 +12772,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "QMP",
     "SWIFT Code": "SOGEFRPPQMP",
     "Bank Name": "SOCIETE GENERALE",
@@ -12785,8 +12785,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RIM",
     "SWIFT Code": "SOGEFRPPRIM",
     "Bank Name": "SOCIETE GENERALE",
@@ -12798,8 +12798,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "REN",
     "SWIFT Code": "SOGEFRPPREN",
     "Bank Name": "SOCIETE GENERALE",
@@ -12811,8 +12811,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RON",
     "SWIFT Code": "SOGEFRPPRON",
     "Bank Name": "SOCIETE GENERALE",
@@ -12824,8 +12824,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RDZ",
     "SWIFT Code": "SOGEFRPPRDZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -12837,8 +12837,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ROX",
     "SWIFT Code": "SOGEFRPPROX",
     "Bank Name": "SOCIETE GENERALE",
@@ -12850,8 +12850,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ROE",
     "SWIFT Code": "SOGEFRPPROE",
     "Bank Name": "SOCIETE GENERALE",
@@ -12863,8 +12863,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RUM",
     "SWIFT Code": "SOGEFRPPRUM",
     "Bank Name": "SOCIETE GENERALE",
@@ -12876,8 +12876,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RUH",
     "SWIFT Code": "SOGEFRPPRUH",
     "Bank Name": "SOCIETE GENERALE",
@@ -12889,8 +12889,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STB",
     "SWIFT Code": "SOGEFRPPSTB",
     "Bank Name": "SOCIETE GENERALE",
@@ -12902,8 +12902,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SAD",
     "SWIFT Code": "SOGEFRPPSAD",
     "Bank Name": "SOCIETE GENERALE",
@@ -12915,8 +12915,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STD",
     "SWIFT Code": "SOGEFRPPSTD",
     "Bank Name": "SOCIETE GENERALE",
@@ -12928,8 +12928,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRGR",
-    "bankCode": "FR",
+    "bankCode": "PRGR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PRGRFRPP",
     "Bank Name": "PERNOD RICARD",
@@ -12941,8 +12941,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCSI",
-    "bankCode": "FR",
+    "bankCode": "PCSI",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "PCSIFRP2",
     "Bank Name": "PFS CARD SERVICES IRELAND - FRANCE",
@@ -12954,8 +12954,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHIG",
-    "bankCode": "FR",
+    "bankCode": "PHIG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "PHIGFRP2",
     "Bank Name": "PHI INVESTMENT MANAGERS",
@@ -12967,8 +12967,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHGG",
-    "bankCode": "FR",
+    "bankCode": "PHGG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "PHGGFRP2",
     "Bank Name": "PHILIPPE HOTTINGUER GESTION - GROUPE PHILIPPE HOTTINGUER",
@@ -12980,8 +12980,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFSB",
-    "bankCode": "FR",
+    "bankCode": "PFSB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PFSBFRPP",
     "Bank Name": "PIERRE FABRE SA",
@@ -12993,8 +12993,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLCP",
-    "bankCode": "FR",
+    "bankCode": "PLCP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "PLCPFR22",
     "Bank Name": "PLG CAPITAL S.A.S.",
@@ -13006,8 +13006,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POCL",
-    "bankCode": "FR",
+    "bankCode": "POCL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "POCLFR22",
     "Bank Name": "POCLAIN HYDRAULICS SA",
@@ -13019,8 +13019,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNFR",
-    "bankCode": "FR",
+    "bankCode": "PNFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PNFRFRPP",
     "Bank Name": "PONTICELLI",
@@ -13032,8 +13032,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSSS",
-    "bankCode": "FR",
+    "bankCode": "PSSS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "PSSSFR22",
     "Bank Name": "PPS EU",
@@ -13045,8 +13045,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEIM",
-    "bankCode": "FR",
+    "bankCode": "PEIM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PEIMFRPP",
     "Bank Name": "PRIMONIAL REIM FRANCE S.A.",
@@ -13058,8 +13058,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "BAV",
     "SWIFT Code": "PROCFRPPBAV",
     "Bank Name": "PROCAPITAL SA",
@@ -13071,8 +13071,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "BPE",
     "SWIFT Code": "PROCFRPPBPE",
     "Bank Name": "PROCAPITAL SA",
@@ -13084,8 +13084,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PROCFRPP",
     "Bank Name": "PROCAPITAL SA",
@@ -13097,8 +13097,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "AXB",
     "SWIFT Code": "PROCFRPPAXB",
     "Bank Name": "PROCAPITAL SA",
@@ -13110,8 +13110,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "CCF",
     "SWIFT Code": "PROCFRPPCCF",
     "Bank Name": "PROCAPITAL SA",
@@ -13123,8 +13123,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "EAB",
     "SWIFT Code": "PROCFRPPEAB",
     "Bank Name": "PROCAPITAL SA",
@@ -13136,8 +13136,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "LBG",
     "SWIFT Code": "PROCFRPPLBG",
     "Bank Name": "PROCAPITAL SA",
@@ -13149,8 +13149,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "LGV",
     "SWIFT Code": "PROCFRPPLGV",
     "Bank Name": "PROCAPITAL SA",
@@ -13162,8 +13162,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "MGP",
     "SWIFT Code": "PROCFRPPMGP",
     "Bank Name": "PROCAPITAL SA",
@@ -13175,8 +13175,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "NOI",
     "SWIFT Code": "PROCFRPPNOI",
     "Bank Name": "PROCAPITAL SA",
@@ -13188,8 +13188,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROC",
-    "bankCode": "FR",
+    "bankCode": "PROC",
+    "countryCode": "FR",
     "branchCode": "PCB",
     "SWIFT Code": "PROCFRPPPCB",
     "Bank Name": "PROCAPITAL SA",
@@ -13201,8 +13201,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROM",
-    "bankCode": "FR",
+    "bankCode": "PROM",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "PROMFR22",
     "Bank Name": "PROMOD SAS",
@@ -13214,8 +13214,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBG",
-    "bankCode": "FR",
+    "bankCode": "PUBG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PUBGFRPP",
     "Bank Name": "PUBLICIS FINANCE SERVICES SA",
@@ -13227,8 +13227,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "FR",
+    "bankCode": "QNBA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "QNBAFRPP",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -13240,8 +13240,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "FR",
+    "bankCode": "QNBA",
+    "countryCode": "FR",
     "branchCode": "ECB",
     "SWIFT Code": "QNBAFRPPECB",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -13253,8 +13253,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEOS",
-    "bankCode": "FR",
+    "bankCode": "NEOS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NEOSFRPP",
     "Bank Name": "QUADIENT S.A.",
@@ -13266,8 +13266,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUAP",
-    "bankCode": "FR",
+    "bankCode": "QUAP",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "QUAPFRP2",
     "Bank Name": "QUADRILLE CAPITAL",
@@ -13279,8 +13279,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUAH",
-    "bankCode": "FR",
+    "bankCode": "QUAH",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "QUAHFRP2",
     "Bank Name": "QUANTICS-TECHNOLOGIES",
@@ -13292,8 +13292,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QRTP",
-    "bankCode": "FR",
+    "bankCode": "QRTP",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "QRTPFRP2",
     "Bank Name": "QUBE RESEARCH AND TECHNOLOGIES PARIS",
@@ -13305,8 +13305,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUFI",
-    "bankCode": "FR",
+    "bankCode": "QUFI",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "QUFIFRP2",
     "Bank Name": "QUEENS FIELD",
@@ -13318,8 +13318,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBRI",
-    "bankCode": "FR",
+    "bankCode": "OBRI",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "OBRIFRP2",
     "Bank Name": "R.J.O'BRIEN FRANCE",
@@ -13331,8 +13331,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "FR",
+    "bankCode": "RABO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RABOFRPP",
     "Bank Name": "RABOBANK PARIS",
@@ -13344,8 +13344,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAPD",
-    "bankCode": "FR",
+    "bankCode": "RAPD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RAPDFRPP",
     "Bank Name": "RATP DEVELOPPEMENT S.A.",
@@ -13357,8 +13357,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARYM",
-    "bankCode": "FR",
+    "bankCode": "ARYM",
+    "countryCode": "FR",
     "branchCode": "R2G",
     "SWIFT Code": "ARYMFR2G",
     "Bank Name": "RAYGROUP SASU",
@@ -13370,8 +13370,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCIN",
-    "bankCode": "FR",
+    "bankCode": "RCIN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RCINFRPP",
     "Bank Name": "RCIBANQUE S.A.",
@@ -13383,8 +13383,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENO",
-    "bankCode": "FR",
+    "bankCode": "RENO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RENOFRPP",
     "Bank Name": "RENAULT SA",
@@ -13396,8 +13396,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RTEF",
-    "bankCode": "FR",
+    "bankCode": "RTEF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RTEFFRPP",
     "Bank Name": "RESEAU DE TRANSPORT D'ELECTRICITE",
@@ -13409,8 +13409,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "FR",
+    "bankCode": "REVO",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "REVOFRP2",
     "Bank Name": "REVOLUT FRANCE SUCCURSALE DE REVOLUT BANK UAB",
@@ -13422,8 +13422,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REXS",
-    "bankCode": "FR",
+    "bankCode": "REXS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "REXSFRPP",
     "Bank Name": "REXEL SA",
@@ -13435,8 +13435,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBFG",
-    "bankCode": "FR",
+    "bankCode": "KBFG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KBFGFRPP",
     "Bank Name": "RICHELIEU GESTION",
@@ -13448,8 +13448,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROBT",
-    "bankCode": "FR",
+    "bankCode": "ROBT",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ROBTFR22",
     "Bank Name": "ROBERTET SA",
@@ -13461,8 +13461,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROIA",
-    "bankCode": "FR",
+    "bankCode": "ROIA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "ROIAFRP2",
     "Bank Name": "ROCE CAPITAL SAS",
@@ -13474,8 +13474,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFSA",
-    "bankCode": "FR",
+    "bankCode": "RFSA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RFSAFRPP",
     "Bank Name": "ROQUETTE FRERES",
@@ -13487,8 +13487,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBP",
-    "bankCode": "FR",
+    "bankCode": "RCBP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RCBPFRPP",
     "Bank Name": "ROTHSCHILD MARTIN MAUREL",
@@ -13500,8 +13500,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBP",
-    "bankCode": "FR",
+    "bankCode": "RCBP",
+    "countryCode": "FR",
     "branchCode": "RPR",
     "SWIFT Code": "RCBPFRPR",
     "Bank Name": "ROTHSCHILD MARTIN MAUREL",
@@ -13513,8 +13513,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMMM",
-    "bankCode": "FR",
+    "bankCode": "BMMM",
+    "countryCode": "FR",
     "branchCode": "R2A",
     "SWIFT Code": "BMMMFR2A",
     "Bank Name": "ROTHSCHILD MARTIN MAUREL",
@@ -13526,8 +13526,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMMM",
-    "bankCode": "FR",
+    "bankCode": "BMMM",
+    "countryCode": "FR",
     "branchCode": "CMS",
     "SWIFT Code": "BMMMFR2ACMS",
     "Bank Name": "ROTHSCHILD MARTIN MAUREL",
@@ -13539,8 +13539,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMMM",
-    "bankCode": "FR",
+    "bankCode": "BMMM",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "BMMMFRCP",
     "Bank Name": "ROTHSCHILD MARTIN MAUREL",
@@ -13552,8 +13552,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "FR",
+    "bankCode": "ROYC",
+    "countryCode": "FR",
     "branchCode": "RPB",
     "SWIFT Code": "ROYCFRPB",
     "Bank Name": "ROYAL BANK OF CANADA, PARIS BRANCH",
@@ -13565,8 +13565,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "FR",
+    "bankCode": "ROYC",
+    "countryCode": "FR",
     "branchCode": "TGT",
     "SWIFT Code": "ROYCFRPBTGT",
     "Bank Name": "ROYAL BANK OF CANADA, PARIS BRANCH",
@@ -13578,8 +13578,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PBU",
     "SWIFT Code": "BNPAFRPPPBU",
     "Bank Name": "BNP PARIBAS",
@@ -13591,8 +13591,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ICE",
     "SWIFT Code": "BNPAFRPPICE",
     "Bank Name": "BNP PARIBAS",
@@ -13604,8 +13604,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IFS",
     "SWIFT Code": "BNPAFRPPIFS",
     "Bank Name": "BNP PARIBAS",
@@ -13617,8 +13617,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PAE",
     "SWIFT Code": "BNPAFRPPPAE",
     "Bank Name": "BNP PARIBAS",
@@ -13630,8 +13630,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CPI",
     "SWIFT Code": "BNPAFRPPCPI",
     "Bank Name": "BNP PARIBAS",
@@ -13643,8 +13643,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IPI",
     "SWIFT Code": "BNPAFRPPIPI",
     "Bank Name": "BNP PARIBAS",
@@ -13656,8 +13656,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CFD",
     "SWIFT Code": "BNPAFRPPCFD",
     "Bank Name": "BNP PARIBAS",
@@ -13669,8 +13669,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PCE",
     "SWIFT Code": "BNPAFRPPPCE",
     "Bank Name": "BNP PARIBAS",
@@ -13682,8 +13682,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CDE",
     "SWIFT Code": "BNPAFRPPCDE",
     "Bank Name": "BNP PARIBAS",
@@ -13695,8 +13695,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CWB",
     "SWIFT Code": "BNPAFRPPCWB",
     "Bank Name": "BNP PARIBAS",
@@ -13708,8 +13708,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CIT",
     "SWIFT Code": "BNPAFRPPCIT",
     "Bank Name": "BNP PARIBAS",
@@ -13721,8 +13721,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "SCE",
     "SWIFT Code": "BNPAFRPPSCE",
     "Bank Name": "BNP PARIBAS",
@@ -13734,8 +13734,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CMD",
     "SWIFT Code": "BNPAFRPPCMD",
     "Bank Name": "BNP PARIBAS",
@@ -13747,8 +13747,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TLF",
     "SWIFT Code": "BNPAFRPPTLF",
     "Bank Name": "BNP PARIBAS",
@@ -13760,8 +13760,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PLZ",
     "SWIFT Code": "BNPAFRPPPLZ",
     "Bank Name": "BNP PARIBAS",
@@ -13773,8 +13773,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MPE",
     "SWIFT Code": "BNPAFRPPMPE",
     "Bank Name": "BNP PARIBAS",
@@ -13786,8 +13786,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ACH",
     "SWIFT Code": "BNPAFRPPACH",
     "Bank Name": "BNP PARIBAS",
@@ -13799,8 +13799,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CFI",
     "SWIFT Code": "BNPAFRPPCFI",
     "Bank Name": "BNP PARIBAS",
@@ -13812,8 +13812,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "FIS",
     "SWIFT Code": "BNPAFRPPFIS",
     "Bank Name": "BNP PARIBAS",
@@ -13825,8 +13825,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "CSP",
     "SWIFT Code": "BNPAFRPPCSP",
     "Bank Name": "BNP PARIBAS",
@@ -13838,8 +13838,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "FND",
     "SWIFT Code": "BNPAFRPPFND",
     "Bank Name": "BNP PARIBAS",
@@ -13851,8 +13851,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PGN",
     "SWIFT Code": "BNPAFRPPPGN",
     "Bank Name": "BNP PARIBAS",
@@ -13864,8 +13864,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PAK",
     "SWIFT Code": "BNPAFRPPPAK",
     "Bank Name": "BNP PARIBAS",
@@ -13877,8 +13877,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "ICP",
     "SWIFT Code": "BNPAFRPPICP",
     "Bank Name": "BNP PARIBAS",
@@ -13890,8 +13890,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PCP",
     "SWIFT Code": "BNPAFRPPPCP",
     "Bank Name": "BNP PARIBAS",
@@ -13903,8 +13903,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BNPAFRPP",
     "Bank Name": "BNP PARIBAS",
@@ -13916,8 +13916,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IFE",
     "SWIFT Code": "BNPAFRPPIFE",
     "Bank Name": "BNP PARIBAS",
@@ -13929,8 +13929,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IFN",
     "SWIFT Code": "BNPAFRPPIFN",
     "Bank Name": "BNP PARIBAS",
@@ -13942,8 +13942,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IFO",
     "SWIFT Code": "BNPAFRPPIFO",
     "Bank Name": "BNP PARIBAS",
@@ -13955,8 +13955,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "INT",
     "SWIFT Code": "BNPAFRPPINT",
     "Bank Name": "BNP PARIBAS",
@@ -13968,8 +13968,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "IBF",
     "SWIFT Code": "BNPAFRPPIBF",
     "Bank Name": "BNP PARIBAS",
@@ -13981,8 +13981,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PTX",
     "SWIFT Code": "BNPAFRPPPTX",
     "Bank Name": "BNP PARIBAS",
@@ -13994,8 +13994,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "LAE",
     "SWIFT Code": "BNPAFRPPLAE",
     "Bank Name": "BNP PARIBAS",
@@ -14007,8 +14007,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "MDE",
     "SWIFT Code": "BNPAFRPPMDE",
     "Bank Name": "BNP PARIBAS",
@@ -14020,8 +14020,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PXV",
     "SWIFT Code": "BNPAFRPPPXV",
     "Bank Name": "BNP PARIBAS",
@@ -14033,8 +14033,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "FXC",
     "SWIFT Code": "BNPAFRPPFXC",
     "Bank Name": "BNP PARIBAS",
@@ -14046,8 +14046,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "POP",
     "SWIFT Code": "BNPAFRPPPOP",
     "Bank Name": "BNP PARIBAS",
@@ -14059,8 +14059,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PAC",
     "SWIFT Code": "BNPAFRPPPAC",
     "Bank Name": "BNP PARIBAS",
@@ -14072,8 +14072,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PVD",
     "SWIFT Code": "BNPAFRPPPVD",
     "Bank Name": "BNP PARIBAS",
@@ -14085,8 +14085,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PEE",
     "SWIFT Code": "BNPAFRPPPEE",
     "Bank Name": "BNP PARIBAS",
@@ -14098,8 +14098,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PGA",
     "SWIFT Code": "BNPAFRPPPGA",
     "Bank Name": "BNP PARIBAS",
@@ -14111,8 +14111,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PRG",
     "SWIFT Code": "BNPAFRPPPRG",
     "Bank Name": "BNP PARIBAS",
@@ -14124,8 +14124,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PSU",
     "SWIFT Code": "BNPAFRPPPSU",
     "Bank Name": "BNP PARIBAS",
@@ -14137,8 +14137,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PKL",
     "SWIFT Code": "BNPAFRPPPKL",
     "Bank Name": "BNP PARIBAS",
@@ -14150,8 +14150,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TTN",
     "SWIFT Code": "BNPAFRPPTTN",
     "Bank Name": "BNP PARIBAS",
@@ -14163,8 +14163,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PTE",
     "SWIFT Code": "BNPAFRPPPTE",
     "Bank Name": "BNP PARIBAS",
@@ -14176,8 +14176,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PGB",
     "SWIFT Code": "BNPAFRPPPGB",
     "Bank Name": "BNP PARIBAS",
@@ -14189,8 +14189,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "TSZ",
     "SWIFT Code": "BNPAFRPPTSZ",
     "Bank Name": "BNP PARIBAS",
@@ -14202,8 +14202,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PAU",
     "SWIFT Code": "BNPAFRPPPAU",
     "Bank Name": "BNP PARIBAS",
@@ -14215,8 +14215,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "PPG",
     "SWIFT Code": "BNPAFRPPPPG",
     "Bank Name": "BNP PARIBAS",
@@ -14228,8 +14228,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "879",
     "SWIFT Code": "AGRIFRPP879",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14241,8 +14241,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "867",
     "SWIFT Code": "AGRIFRPP867",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14254,8 +14254,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "895",
     "SWIFT Code": "AGRIFRPP895",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14267,8 +14267,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "878",
     "SWIFT Code": "AGRIFRPP878",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14280,8 +14280,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "907",
     "SWIFT Code": "AGRIFRPP907",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14293,8 +14293,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "861",
     "SWIFT Code": "AGRIFRPP861",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14306,8 +14306,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "847",
     "SWIFT Code": "AGRIFRPP847",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14319,8 +14319,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "CLS",
     "SWIFT Code": "AGRIFRPPCLS",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14332,8 +14332,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "882",
     "SWIFT Code": "AGRIFRPP882",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14345,8 +14345,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "871",
     "SWIFT Code": "AGRIFRPP871",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14358,8 +14358,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "894",
     "SWIFT Code": "AGRIFRPP894",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14371,8 +14371,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "829",
     "SWIFT Code": "AGRIFRPP829",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14384,8 +14384,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "802",
     "SWIFT Code": "AGRIFRPP802",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14397,8 +14397,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "836",
     "SWIFT Code": "AGRIFRPP836",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14410,8 +14410,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "883",
     "SWIFT Code": "AGRIFRPP883",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14423,8 +14423,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "822",
     "SWIFT Code": "AGRIFRPP822",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14436,8 +14436,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "845",
     "SWIFT Code": "AGRIFRPP845",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14449,8 +14449,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "824",
     "SWIFT Code": "AGRIFRPP824",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14462,8 +14462,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "872",
     "SWIFT Code": "AGRIFRPP872",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14475,8 +14475,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "869",
     "SWIFT Code": "AGRIFRPP869",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14488,8 +14488,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "831",
     "SWIFT Code": "AGRIFRPP831",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14501,8 +14501,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "810",
     "SWIFT Code": "AGRIFRPP810",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14514,8 +14514,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "860",
     "SWIFT Code": "AGRIFRPP860",
     "Bank Name": "CREDIT AGRICOLE",
@@ -14527,8 +14527,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "CAP",
     "SWIFT Code": "BSUIFRPPCAP",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14540,8 +14540,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "LYO",
     "SWIFT Code": "BSUIFRPPLYO",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14553,8 +14553,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "BSUIFRPPMAR",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14566,8 +14566,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "BIL",
     "SWIFT Code": "BSUIFRPPBIL",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14579,8 +14579,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BSUIFRPP",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14592,8 +14592,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "CCP",
     "SWIFT Code": "BSUIFRPPCCP",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14605,8 +14605,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "DMA",
     "SWIFT Code": "BSUIFRPPDMA",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14618,8 +14618,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "FR",
+    "bankCode": "BSUI",
+    "countryCode": "FR",
     "branchCode": "PRI",
     "SWIFT Code": "BSUIFRPPPRI",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -14631,8 +14631,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGLF",
-    "bankCode": "FR",
+    "bankCode": "AGLF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AGLFFRPP",
     "Bank Name": "CREDIT AGRICOLE LEASING AND FACTORING S.A.",
@@ -14644,8 +14644,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "BRY",
     "SWIFT Code": "AGRIFRPPBRY",
     "Bank Name": "CREDIT AGRICOLE SA",
@@ -14657,8 +14657,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "184",
     "SWIFT Code": "AGRIFRPP184",
     "Bank Name": "CREDIT AGRICOLE SA",
@@ -14670,8 +14670,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "23A",
     "SWIFT Code": "AGRIFRPP23A",
     "Bank Name": "CREDIT AGRICOLE SA",
@@ -14683,8 +14683,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "27A",
     "SWIFT Code": "AGRIFRPP27A",
     "Bank Name": "CREDIT AGRICOLE SA",
@@ -14696,8 +14696,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AGRIFRPP",
     "Bank Name": "CREDIT AGRICOLE SA",
@@ -14709,8 +14709,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "555",
     "SWIFT Code": "CCBPFRPP555",
     "Bank Name": "CREDIT COMMERCIAL DU SUD-OUEST",
@@ -14722,8 +14722,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCOP",
-    "bankCode": "FR",
+    "bankCode": "CCOP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CCOPFRPP",
     "Bank Name": "CREDIT COOPERATIF",
@@ -14735,8 +14735,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCOP",
-    "bankCode": "FR",
+    "bankCode": "CCOP",
+    "countryCode": "FR",
     "branchCode": "FXD",
     "SWIFT Code": "CCOPFRPPFXD",
     "Bank Name": "CREDIT COOPERATIF",
@@ -14748,8 +14748,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCOP",
-    "bankCode": "FR",
+    "bankCode": "CCOP",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "CCOPFRCP",
     "Bank Name": "CREDIT COOPERATIF",
@@ -14761,8 +14761,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFFR",
-    "bankCode": "FR",
+    "bankCode": "CFFR",
+    "countryCode": "FR",
     "branchCode": "SSS",
     "SWIFT Code": "CFFRFRPPSSS",
     "Bank Name": "CREDIT FONCIER DE FRANCE",
@@ -14774,8 +14774,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFFR",
-    "bankCode": "FR",
+    "bankCode": "CFFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CFFRFRPP",
     "Bank Name": "CREDIT FONCIER DE FRANCE",
@@ -14787,8 +14787,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFFR",
-    "bankCode": "FR",
+    "bankCode": "CFFR",
+    "countryCode": "FR",
     "branchCode": "TG2",
     "SWIFT Code": "CFFRFRPPTG2",
     "Bank Name": "CREDIT FONCIER DE FRANCE",
@@ -14800,8 +14800,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "CMO",
     "SWIFT Code": "CMCIFR2ACMO",
     "Bank Name": "CREDIT MUTUEL",
@@ -14813,8 +14813,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "LAV",
     "SWIFT Code": "CMCIFR2ALAV",
     "Bank Name": "CREDIT MUTUEL",
@@ -14826,8 +14826,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "CMN",
     "SWIFT Code": "CMCIFR2ACMN",
     "Bank Name": "CREDIT MUTUEL",
@@ -14839,8 +14839,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "CEE",
     "SWIFT Code": "CMCIFR2ACEE",
     "Bank Name": "CREDIT MUTUEL",
@@ -14852,8 +14852,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "R2A",
     "SWIFT Code": "CMCIFR2A",
     "Bank Name": "CREDIT MUTUEL",
@@ -14865,8 +14865,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "GAR",
     "SWIFT Code": "CMCIFRPAGAR",
     "Bank Name": "CREDIT MUTUEL - CIC BANQUES",
@@ -14878,8 +14878,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFN",
-    "bankCode": "FR",
+    "bankCode": "EDFN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EDFNFRPP",
     "Bank Name": "EDF RENOUVELABLES",
@@ -14891,8 +14891,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDRB",
-    "bankCode": "FR",
+    "bankCode": "EDRB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EDRBFRPP",
     "Bank Name": "EDMOND DE ROTHSCHILD (FRANCE)",
@@ -14904,8 +14904,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COFI",
-    "bankCode": "FR",
+    "bankCode": "COFI",
+    "countryCode": "FR",
     "branchCode": "RIM",
     "SWIFT Code": "COFIFRPPRIM",
     "Bank Name": "EDMOND DE ROTHSCHILD (FRANCE)",
@@ -14917,8 +14917,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COFI",
-    "bankCode": "FR",
+    "bankCode": "COFI",
+    "countryCode": "FR",
     "branchCode": "RAM",
     "SWIFT Code": "COFIFRPPRAM",
     "Bank Name": "EDMOND DE ROTHSCHILD (FRANCE)",
@@ -14930,8 +14930,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COFI",
-    "bankCode": "FR",
+    "bankCode": "COFI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "COFIFRPP",
     "Bank Name": "EDMOND DE ROTHSCHILD (FRANCE)",
@@ -14943,8 +14943,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COFI",
-    "bankCode": "FR",
+    "bankCode": "COFI",
+    "countryCode": "FR",
     "branchCode": "RCP",
     "SWIFT Code": "COFIFRCP",
     "Bank Name": "EDMOND DE ROTHSCHILD (FRANCE)",
@@ -14956,8 +14956,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDSL",
-    "bankCode": "FR",
+    "bankCode": "EDSL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EDSLFRPP",
     "Bank Name": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FINANCE)S.A.",
@@ -14969,8 +14969,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDSL",
-    "bankCode": "FR",
+    "bankCode": "EDSL",
+    "countryCode": "FR",
     "branchCode": "L01",
     "SWIFT Code": "EDSLFRPPL01",
     "Bank Name": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FINANCE)S.A.",
@@ -14982,8 +14982,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDSL",
-    "bankCode": "FR",
+    "bankCode": "EDSL",
+    "countryCode": "FR",
     "branchCode": "RAM",
     "SWIFT Code": "EDSLFRPPRAM",
     "Bank Name": "EDMOND DE ROTHSCHILD ASSET MANAGEMENT (FINANCE)S.A.",
@@ -14995,8 +14995,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGIS",
-    "bankCode": "FR",
+    "bankCode": "EGIS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EGISFR22",
     "Bank Name": "EGIS S.A.",
@@ -15008,8 +15008,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIFG",
-    "bankCode": "FR",
+    "bankCode": "EIFG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EIFGFRPP",
     "Bank Name": "EIFFAGE S.A.",
@@ -15021,8 +15021,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIGS",
-    "bankCode": "FR",
+    "bankCode": "EIGS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "EIGSFRP2",
     "Bank Name": "EIFFEL INVESTMENT GROUP SAS",
@@ -15034,8 +15034,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKNP",
-    "bankCode": "FR",
+    "bankCode": "EKNP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EKNPFR22",
     "Bank Name": "EKINOPS S.A.",
@@ -15047,8 +15047,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "EDFGFRP2",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15060,8 +15060,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "001",
     "SWIFT Code": "EDFGFRPP001",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15073,8 +15073,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "BBF",
     "SWIFT Code": "EDFGFRPPBBF",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15086,8 +15086,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "BPC",
     "SWIFT Code": "EDFGFRPPBPC",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15099,8 +15099,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "SCA",
     "SWIFT Code": "EDFGFRPPSCA",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15112,8 +15112,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EDFGFRPP",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15125,8 +15125,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDFG",
-    "bankCode": "FR",
+    "bankCode": "EDFG",
+    "countryCode": "FR",
     "branchCode": "ADX",
     "SWIFT Code": "EDFGFRPPADX",
     "Bank Name": "ELECTRICITE DE FRANCE",
@@ -15138,8 +15138,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELTR",
-    "bankCode": "FR",
+    "bankCode": "ELTR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ELTRFRPP",
     "Bank Name": "ELIOR TRESORERIE",
@@ -15151,8 +15151,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELIS",
-    "bankCode": "FR",
+    "bankCode": "ELIS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ELISFR22",
     "Bank Name": "ELIS PANTIN",
@@ -15164,8 +15164,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAMS",
-    "bankCode": "FR",
+    "bankCode": "EAMS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EAMSFR22",
     "Bank Name": "ELKANO ASSET MANAGEMENT SAS",
@@ -15177,8 +15177,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELRS",
-    "bankCode": "FR",
+    "bankCode": "ELRS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ELRSFRPP",
     "Bank Name": "ELLIPSE PROJECTS SAS",
@@ -15190,8 +15190,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUCH",
-    "bankCode": "FR",
+    "bankCode": "AUCH",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AUCHFR22",
     "Bank Name": "ELO",
@@ -15203,8 +15203,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMAS",
-    "bankCode": "FR",
+    "bankCode": "EMAS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EMASFRPP",
     "Bank Name": "EMG S.A.S.",
@@ -15216,8 +15216,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENED",
-    "bankCode": "FR",
+    "bankCode": "ENED",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ENEDFRPP",
     "Bank Name": "ENEDIS S.A.",
@@ -15229,8 +15229,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSZG",
-    "bankCode": "FR",
+    "bankCode": "GSZG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GSZGFRPP",
     "Bank Name": "ENGIE",
@@ -15242,8 +15242,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENGI",
-    "bankCode": "FR",
+    "bankCode": "ENGI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ENGIFRPP",
     "Bank Name": "ENGIE",
@@ -15255,8 +15255,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQSS",
-    "bankCode": "FR",
+    "bankCode": "EQSS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EQSSFRPP",
     "Bank Name": "EQUANS S.A.S.",
@@ -15268,8 +15268,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQIM",
-    "bankCode": "FR",
+    "bankCode": "EQIM",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EQIMFR22",
     "Bank Name": "EQUITIM",
@@ -15281,8 +15281,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERAM",
-    "bankCode": "FR",
+    "bankCode": "ERAM",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "ERAMFRPA",
     "Bank Name": "ERAMET",
@@ -15294,8 +15294,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERAO",
-    "bankCode": "FR",
+    "bankCode": "ERAO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ERAOFRPP",
     "Bank Name": "ERANOVE S.A.",
@@ -15307,8 +15307,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESIT",
-    "bankCode": "FR",
+    "bankCode": "ESIT",
+    "countryCode": "FR",
     "branchCode": "R2P",
     "SWIFT Code": "ESITFR2P",
     "Bank Name": "ESSILOR INTERNATIONAL",
@@ -15320,8 +15320,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESIO",
-    "bankCode": "FR",
+    "bankCode": "ESIO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ESIOFRPP",
     "Bank Name": "ESSILORLUXOTTICA S.A.",
@@ -15333,8 +15333,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOUF",
-    "bankCode": "FR",
+    "bankCode": "SOUF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SOUFFR22",
     "Bank Name": "ETABLISSEMENTS J.SOUFFLET S.A.S.",
@@ -15346,8 +15346,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETMP",
-    "bankCode": "FR",
+    "bankCode": "ETMP",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "ETMPFRP2",
     "Bank Name": "ETABLISSEMENTS MAUREL ET PROM S.A.",
@@ -15359,8 +15359,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERRA",
-    "bankCode": "FR",
+    "bankCode": "ERRA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ERRAFRPP",
     "Bank Name": "EUROAPI S.A.S.",
@@ -15372,8 +15372,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SICVFRPP",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15385,8 +15385,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "EF1",
     "SWIFT Code": "SICVFRPPEF1",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15398,8 +15398,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "AF1",
     "SWIFT Code": "SICVFRPPAF1",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15411,8 +15411,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "AF2",
     "SWIFT Code": "SICVFRPPAF2",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15424,8 +15424,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "016",
     "SWIFT Code": "SICVFRPP016",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15437,8 +15437,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "015",
     "SWIFT Code": "SICVFRPP015",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15450,8 +15450,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "REG",
     "SWIFT Code": "SICVFRPPREG",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15463,8 +15463,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "OAM",
     "SWIFT Code": "SICVFRPPOAM",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15476,8 +15476,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "EII",
     "SWIFT Code": "SICVFRPPEII",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15489,8 +15489,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "AF4",
     "SWIFT Code": "SICVFRPPAF4",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15502,8 +15502,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICV",
-    "bankCode": "FR",
+    "bankCode": "SICV",
+    "countryCode": "FR",
     "branchCode": "AF5",
     "SWIFT Code": "SICVFRPPAF5",
     "Bank Name": "EUROCLEAR FRANCE",
@@ -15515,8 +15515,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "FR",
+    "bankCode": "ESES",
+    "countryCode": "FR",
     "branchCode": "BRN",
     "SWIFT Code": "ESESFRPPBRN",
     "Bank Name": "EUROCLEAR FRANCE SA",
@@ -15528,8 +15528,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "FR",
+    "bankCode": "CDCG",
+    "countryCode": "FR",
     "branchCode": "FRR",
     "SWIFT Code": "CDCGFRPPFRR",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -15541,8 +15541,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "FR",
+    "bankCode": "CDCG",
+    "countryCode": "FR",
     "branchCode": "OAC",
     "SWIFT Code": "CDCGFRPPOAC",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -15554,8 +15554,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "FR",
+    "bankCode": "CDCG",
+    "countryCode": "FR",
     "branchCode": "PAC",
     "SWIFT Code": "CDCGFRPPPAC",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -15567,8 +15567,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXMA",
-    "bankCode": "FR",
+    "bankCode": "DXMA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DXMAFRPP",
     "Bank Name": "CAISSE FRANCAISE DE FINANCEMENT LOCAL",
@@ -15580,8 +15580,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CEPAFRPP",
     "Bank Name": "CAISSES D'EPARGNE-GROUPE BPCE",
@@ -15593,8 +15593,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "950",
     "SWIFT Code": "CEPAFRPP950",
     "Bank Name": "CAISSES D'EPARGNE-GROUPE BPCE",
@@ -15606,8 +15606,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "FR",
+    "bankCode": "CGDI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CGDIFRPP",
     "Bank Name": "CAIXA GERAL DE DEPOSITOS",
@@ -15619,8 +15619,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "FR",
+    "bankCode": "CAIX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CAIXFRPP",
     "Bank Name": "CAIXABANK S.A., SUCCURSALE EN FRANCE",
@@ -15632,8 +15632,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYF",
-    "bankCode": "FR",
+    "bankCode": "CAYF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CAYFFR22",
     "Bank Name": "CALDERYS FRANCE",
@@ -15645,8 +15645,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMAI",
-    "bankCode": "FR",
+    "bankCode": "CMAI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CMAIFR22",
     "Bank Name": "CAMAIEU",
@@ -15658,8 +15658,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXAM",
-    "bankCode": "FR",
+    "bankCode": "DXAM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DXAMFRPP",
     "Bank Name": "CANDRIAM SUCCURSALE FRANCAISE",
@@ -15671,8 +15671,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAPG",
-    "bankCode": "FR",
+    "bankCode": "CAPG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CAPGFRPP",
     "Bank Name": "CAP GEMINI SERVICE SAS",
@@ -15684,8 +15684,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOAP",
-    "bankCode": "FR",
+    "bankCode": "SOAP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SOAPFR22",
     "Bank Name": "CARREFOUR BANQUE",
@@ -15697,8 +15697,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARF",
-    "bankCode": "FR",
+    "bankCode": "CARF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CARFFR22",
     "Bank Name": "CARREFOUR FINANCE S.A.",
@@ -15710,8 +15710,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "CAS",
     "SWIFT Code": "CCBPFRPPCAS",
     "Bank Name": "CASDEN-BANQUE POPULAIRE",
@@ -15723,8 +15723,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSEB",
-    "bankCode": "FR",
+    "bankCode": "CSEB",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CSEBFRP2",
     "Bank Name": "CASEB",
@@ -15736,8 +15736,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYG",
-    "bankCode": "FR",
+    "bankCode": "CAYG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CAYGFRP2",
     "Bank Name": "CASHBEE",
@@ -15749,8 +15749,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCAT",
-    "bankCode": "FR",
+    "bankCode": "TCAT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TCATFRPP",
     "Bank Name": "CAT COMPAGNIE D'AFFRETEMENT ET DE TRANSPORT",
@@ -15762,8 +15762,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSE",
-    "bankCode": "FR",
+    "bankCode": "CBSE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CBSEFR22",
     "Bank Name": "CBASE",
@@ -15775,8 +15775,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDCA",
-    "bankCode": "FR",
+    "bankCode": "BDCA",
+    "countryCode": "FR",
     "branchCode": "MON",
     "SWIFT Code": "BDCAFRPPMON",
     "Bank Name": "CCF",
@@ -15788,8 +15788,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCDF",
-    "bankCode": "FR",
+    "bankCode": "CCDF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CCDFFRPP",
     "Bank Name": "CCF",
@@ -15801,8 +15801,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDCA",
-    "bankCode": "FR",
+    "bankCode": "BDCA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BDCAFRPP",
     "Bank Name": "CCF",
@@ -15814,8 +15814,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALSY",
-    "bankCode": "FR",
+    "bankCode": "ALSY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ALSYFRPP",
     "Bank Name": "CEGID GROUP",
@@ -15827,8 +15827,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDG",
-    "bankCode": "FR",
+    "bankCode": "CGDG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CGDGFR22",
     "Bank Name": "CEGID GROUP",
@@ -15840,8 +15840,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEAY",
-    "bankCode": "FR",
+    "bankCode": "CEAY",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CEAYFR22",
     "Bank Name": "CENTRALPAY",
@@ -15853,8 +15853,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVFA",
-    "bankCode": "FR",
+    "bankCode": "CVFA",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "CVFAFR2M",
     "Bank Name": "CEVA FRANCE S.A.S.",
@@ -15866,8 +15866,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFAF",
-    "bankCode": "FR",
+    "bankCode": "CFAF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CFAFFR22",
     "Bank Name": "CFAO",
@@ -15879,8 +15879,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGGH",
-    "bankCode": "FR",
+    "bankCode": "CGGH",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CGGHFR22",
     "Bank Name": "CGG S.A.",
@@ -15892,8 +15892,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHNL",
-    "bankCode": "FR",
+    "bankCode": "CHNL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CHNLFR22",
     "Bank Name": "CHANEL",
@@ -15905,8 +15905,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTLL",
-    "bankCode": "FR",
+    "bankCode": "CTLL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CTLLFRPP",
     "Bank Name": "CHANTELLE SA",
@@ -15918,8 +15918,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHHG",
-    "bankCode": "FR",
+    "bankCode": "CHHG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CHHGFRPP",
     "Bank Name": "CHATEAUFORM HERITAGE S.A.S.",
@@ -15931,8 +15931,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHKC",
-    "bankCode": "FR",
+    "bankCode": "CHKC",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CHKCFRP2",
     "Bank Name": "CHECKOUT",
@@ -15944,8 +15944,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "FR",
+    "bankCode": "PCBC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PCBCFRPP",
     "Bank Name": "CHINA CONSTRUCTION BANK (EUROPE) S.A., PARIS BRANCH",
@@ -15957,8 +15957,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHDU",
-    "bankCode": "FR",
+    "bankCode": "CHDU",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CHDUFRPP",
     "Bank Name": "CHOLET DUPONT OUDART SA",
@@ -15970,8 +15970,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLOU",
-    "bankCode": "FR",
+    "bankCode": "CLOU",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CLOUFRPP",
     "Bank Name": "CHRISTIAN LOUBOUTIN",
@@ -15983,8 +15983,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTFA",
-    "bankCode": "FR",
+    "bankCode": "CTFA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CTFAFRP2",
     "Bank Name": "CITADEL FRANCE SAS",
@@ -15996,8 +15996,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTFA",
-    "bankCode": "FR",
+    "bankCode": "CTFA",
+    "countryCode": "FR",
     "branchCode": "FRA",
     "SWIFT Code": "CTFAFRP2FRA",
     "Bank Name": "CITADEL FRANCE SAS",
@@ -16009,8 +16009,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "FR",
+    "bankCode": "CITI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CITIFRPP",
     "Bank Name": "CITIBANK EUROPE PLC FRANCE BRANCH",
@@ -16022,8 +16022,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "FR",
+    "bankCode": "CITI",
+    "countryCode": "FR",
     "branchCode": "SEC",
     "SWIFT Code": "CITIFRPPSEC",
     "Bank Name": "CITIBANK EUROPE PLC FRANCE BRANCH",
@@ -16035,8 +16035,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KORN",
-    "bankCode": "FR",
+    "bankCode": "KORN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KORNFRPP",
     "Bank Name": "CLARIANE S.E.",
@@ -16048,8 +16048,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNS",
-    "bankCode": "FR",
+    "bankCode": "CLNS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CLNSFRPP",
     "Bank Name": "CLARINS",
@@ -16061,8 +16061,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLSQ",
-    "bankCode": "FR",
+    "bankCode": "CLSQ",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CLSQFR22",
     "Bank Name": "CLASQUIN SA",
@@ -16074,8 +16074,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SITX",
-    "bankCode": "FR",
+    "bankCode": "SITX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SITXFR22",
     "Bank Name": "CLAYENS NP",
@@ -16087,8 +16087,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLYN",
-    "bankCode": "FR",
+    "bankCode": "CLYN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CLYNFR22",
     "Bank Name": "CLAYENS NP S.A.S.",
@@ -16100,8 +16100,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMED",
-    "bankCode": "FR",
+    "bankCode": "CMED",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CMEDFRPP",
     "Bank Name": "CLUB MED",
@@ -16113,8 +16113,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "COR",
     "SWIFT Code": "CMCIFRPPCOR",
     "Bank Name": "CM - CIC BANQUES",
@@ -16126,8 +16126,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "FR",
+    "bankCode": "CMCI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CMCIFRPP",
     "Bank Name": "CM - CIC BANQUES",
@@ -16139,8 +16139,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMAG",
-    "bankCode": "FR",
+    "bankCode": "CMAG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CMAGFR22",
     "Bank Name": "CMA CGM",
@@ -16152,8 +16152,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMAG",
-    "bankCode": "FR",
+    "bankCode": "CMAG",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "CMAGFR2M",
     "Bank Name": "CMA CGM",
@@ -16165,8 +16165,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPA",
-    "bankCode": "FR",
+    "bankCode": "CNPA",
+    "countryCode": "FR",
     "branchCode": "UCS",
     "SWIFT Code": "CNPAFRPPUCS",
     "Bank Name": "CNP ASSURANCES",
@@ -16178,8 +16178,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TORN",
-    "bankCode": "FR",
+    "bankCode": "TORN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TORNFRPP",
     "Bank Name": "TOTALENERGIES RENEWABLES S.A.S.",
@@ -16191,8 +16191,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTRE",
-    "bankCode": "FR",
+    "bankCode": "TTRE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TTREFRPP",
     "Bank Name": "TOTALENERGIES TREASURY",
@@ -16204,8 +16204,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOTN",
-    "bankCode": "FR",
+    "bankCode": "TOTN",
+    "countryCode": "FR",
     "branchCode": "R2B",
     "SWIFT Code": "TOTNFR2B",
     "Bank Name": "TOUTON S.A.",
@@ -16217,8 +16217,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TREF",
-    "bankCode": "FR",
+    "bankCode": "TREF",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "TREFFRP2",
     "Bank Name": "TRADITION SECURITIES AND FUTURES",
@@ -16230,8 +16230,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSER",
-    "bankCode": "FR",
+    "bankCode": "TSER",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "TSERFR22",
     "Bank Name": "TRANSALLIANCE SERVICE",
@@ -16243,8 +16243,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSLF",
-    "bankCode": "FR",
+    "bankCode": "TSLF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TSLFFRPP",
     "Bank Name": "TRANSATEL SA",
@@ -16256,8 +16256,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOXX",
-    "bankCode": "FR",
+    "bankCode": "BOXX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BOXXFRPP",
     "Bank Name": "TREASURYXPRESS",
@@ -16269,8 +16269,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TREG",
-    "bankCode": "FR",
+    "bankCode": "TREG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TREGFRPP",
     "Bank Name": "TREVES SAS",
@@ -16282,8 +16282,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRFH",
-    "bankCode": "FR",
+    "bankCode": "TRFH",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "TRFHFR22",
     "Bank Name": "TRISTONE FLOWTECH HOLDING S.A.S.",
@@ -16295,8 +16295,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRYE",
-    "bankCode": "FR",
+    "bankCode": "TRYE",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "TRYEFRP2",
     "Bank Name": "TRUELAYER IRELAND LIMITED, FRANCE BRANCH",
@@ -16308,8 +16308,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOKH",
-    "bankCode": "FR",
+    "bankCode": "TOKH",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "TOKHFR22",
     "Bank Name": "TSG PARTNERSHIPS",
@@ -16321,8 +16321,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "LYO",
     "SWIFT Code": "UTUBFRPPLYO",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16334,8 +16334,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "UTUBFRPPMAR",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16347,8 +16347,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UTUBFRPP",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16360,8 +16360,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "UTUBFRPPBDF",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16373,8 +16373,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "PYR",
     "SWIFT Code": "UTUBFRPPPYR",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16386,8 +16386,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "REP",
     "SWIFT Code": "UTUBFRPPREP",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16399,8 +16399,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTUB",
-    "bankCode": "FR",
+    "bankCode": "UTUB",
+    "countryCode": "FR",
     "branchCode": "BEL",
     "SWIFT Code": "UTUBFRPPBEL",
     "Bank Name": "TUNISIAN FOREIGN BANK",
@@ -16412,8 +16412,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBOF",
-    "bankCode": "FR",
+    "bankCode": "UBOF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "UBOFFR22",
     "Bank Name": "UBISOFT ENTERTAINMENT S.A.",
@@ -16425,8 +16425,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "FR",
+    "bankCode": "UBSW",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "UBSWFRPPBDF",
     "Bank Name": "UBS EUROPE SE, SUCCURSALE DE FRANCE",
@@ -16438,8 +16438,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "FR",
+    "bankCode": "UBSW",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UBSWFRPP",
     "Bank Name": "UBS EUROPE SE, SUCCURSALE DE FRANCE",
@@ -16451,8 +16451,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNES",
-    "bankCode": "FR",
+    "bankCode": "UNES",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "UNESFRP2",
     "Bank Name": "UNESCO",
@@ -16464,8 +16464,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNES",
-    "bankCode": "FR",
+    "bankCode": "UNES",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UNESFRPP",
     "Bank Name": "UNESCO (UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION",
@@ -16477,8 +16477,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNBD",
-    "bankCode": "FR",
+    "bankCode": "UNBD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UNBDFRPP",
     "Bank Name": "UNIBAIL-RODAMCO-WESTFIELD SE",
@@ -16490,8 +16490,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "FR",
+    "bankCode": "PANX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "PANXFR22",
     "Bank Name": "UNIFIEDPOST PAYMENTS",
@@ -16503,8 +16503,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAF",
-    "bankCode": "FR",
+    "bankCode": "UBAF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UBAFFRPP",
     "Bank Name": "UNION DE BANQUES ARABES ET FRANCAISES",
@@ -16516,8 +16516,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNBU",
-    "bankCode": "FR",
+    "bankCode": "UNBU",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "UNBUFR22",
     "Bank Name": "UNITED BISCUITS",
@@ -16529,8 +16529,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMGT",
-    "bankCode": "FR",
+    "bankCode": "UMGT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UMGTFRPP",
     "Bank Name": "UNIVERSAL MUSIC GROUP TREASURY SAS",
@@ -16542,8 +16542,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UPGE",
-    "bankCode": "FR",
+    "bankCode": "UPGE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UPGEFRPP",
     "Bank Name": "UP",
@@ -16555,8 +16555,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UPAS",
-    "bankCode": "FR",
+    "bankCode": "UPAS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "UPASFRPP",
     "Bank Name": "UPSA S.A.S.",
@@ -16568,8 +16568,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNFI",
-    "bankCode": "FR",
+    "bankCode": "MNFI",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "MNFIFR22",
     "Bank Name": "V. MANE FILS S.A.S.",
@@ -16581,8 +16581,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAEO",
-    "bankCode": "FR",
+    "bankCode": "VAEO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VAEOFRPP",
     "Bank Name": "VALEO SE",
@@ -16594,8 +16594,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VLRC",
-    "bankCode": "FR",
+    "bankCode": "VLRC",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "VLRCFR22",
     "Bank Name": "VALLOUREC TUBES",
@@ -16607,8 +16607,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCHI",
-    "bankCode": "FR",
+    "bankCode": "TCHI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TCHIFRPP",
     "Bank Name": "VANTIVA SA",
@@ -16620,8 +16620,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUEZ",
-    "bankCode": "FR",
+    "bankCode": "SUEZ",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SUEZFRPP",
     "Bank Name": "VEOLIA ENVIRONNEMENT SA",
@@ -16633,8 +16633,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEOE",
-    "bankCode": "FR",
+    "bankCode": "VEOE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VEOEFRPP",
     "Bank Name": "VEOLIA ENVIRONNEMENT SA",
@@ -16646,8 +16646,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VERA",
-    "bankCode": "FR",
+    "bankCode": "VERA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VERAFRPP",
     "Bank Name": "VERALLIA FRANCE",
@@ -16659,8 +16659,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGDP",
-    "bankCode": "FR",
+    "bankCode": "SGDP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SGDPFRPP",
     "Bank Name": "VERESCENCE FRANCE",
@@ -16672,8 +16672,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEIX",
-    "bankCode": "FR",
+    "bankCode": "VEIX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "VEIXFR22",
     "Bank Name": "VERIMATRIX S.A.",
@@ -16685,8 +16685,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VETO",
-    "bankCode": "FR",
+    "bankCode": "VETO",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "VETOFR2L",
     "Bank Name": "VETOQUINOL SA",
@@ -16698,8 +16698,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIGI",
-    "bankCode": "FR",
+    "bankCode": "VIGI",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "VIGIFRP2",
     "Bank Name": "VIGIFINANCE",
@@ -16711,8 +16711,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCOM",
-    "bankCode": "FR",
+    "bankCode": "VCOM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VCOMFRPP",
     "Bank Name": "VILMORIN ET CIE",
@@ -16724,8 +16724,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VINC",
-    "bankCode": "FR",
+    "bankCode": "VINC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VINCFRPP",
     "Bank Name": "VINCI",
@@ -16737,8 +16737,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCFR",
-    "bankCode": "FR",
+    "bankCode": "VCFR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VCFRFRPP",
     "Bank Name": "VINCI CONSTRUCTION FRANCE",
@@ -16750,8 +16750,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VCGP",
-    "bankCode": "FR",
+    "bankCode": "VCGP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "VCGPFR22",
     "Bank Name": "VINCI CONSTRUCTION GRANDS PROJETS",
@@ -16763,8 +16763,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VESA",
-    "bankCode": "FR",
+    "bankCode": "VESA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "VESAFR22",
     "Bank Name": "VINCI ENERGIES S.A.",
@@ -16776,8 +16776,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "FR",
+    "bankCode": "VPAY",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "VPAYFRP2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. FRENCH BRANCH",
@@ -16789,8 +16789,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIFL",
-    "bankCode": "FR",
+    "bankCode": "FIFL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FIFLFRPP",
     "Bank Name": "VIVARTE S.A.S.",
@@ -16802,8 +16802,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIVE",
-    "bankCode": "FR",
+    "bankCode": "VIVE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VIVEFRPP",
     "Bank Name": "VIVENDI",
@@ -16815,8 +16815,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VVCA",
-    "bankCode": "FR",
+    "bankCode": "VVCA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "VVCAFR22",
     "Bank Name": "VIVESCIA SERVICES",
@@ -16828,8 +16828,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MOP",
     "SWIFT Code": "SOGEFRPPMOP",
     "Bank Name": "SOCIETE GENERALE",
@@ -16841,8 +16841,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MSA",
     "SWIFT Code": "SOGEFRPPMSA",
     "Bank Name": "SOCIETE GENERALE",
@@ -16854,8 +16854,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MUL",
     "SWIFT Code": "SOGEFRPPMUL",
     "Bank Name": "SOCIETE GENERALE",
@@ -16867,8 +16867,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NAY",
     "SWIFT Code": "SOGEFRPPNAY",
     "Bank Name": "SOCIETE GENERALE",
@@ -16880,8 +16880,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NAN",
     "SWIFT Code": "SOGEFRPPNAN",
     "Bank Name": "SOCIETE GENERALE",
@@ -16893,8 +16893,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "INV",
     "SWIFT Code": "SOGEFRPPINV",
     "Bank Name": "SOCIETE GENERALE",
@@ -16906,8 +16906,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "INT",
     "SWIFT Code": "SOGEFRPPINT",
     "Bank Name": "SOCIETE GENERALE",
@@ -16919,8 +16919,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGY",
     "SWIFT Code": "SOGEFRPPAGY",
     "Bank Name": "SOCIETE GENERALE",
@@ -16932,8 +16932,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SFX",
     "SWIFT Code": "SOGEFRPPSFX",
     "Bank Name": "SOCIETE GENERALE",
@@ -16945,8 +16945,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NSL",
     "SWIFT Code": "SOGEFRPPNSL",
     "Bank Name": "SOCIETE GENERALE",
@@ -16958,8 +16958,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EDE",
     "SWIFT Code": "SOGEFRPPEDE",
     "Bank Name": "SOCIETE GENERALE",
@@ -16971,8 +16971,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "OPC",
     "SWIFT Code": "SOGEFRPPOPC",
     "Bank Name": "SOCIETE GENERALE",
@@ -16984,8 +16984,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ISE",
     "SWIFT Code": "SOGEFRPPISE",
     "Bank Name": "SOCIETE GENERALE",
@@ -16997,8 +16997,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BEN",
     "SWIFT Code": "SOGEFRPPBEN",
     "Bank Name": "SOCIETE GENERALE",
@@ -17010,8 +17010,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TIT",
     "SWIFT Code": "SOGEFRPPTIT",
     "Bank Name": "SOCIETE GENERALE",
@@ -17023,8 +17023,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NSS",
     "SWIFT Code": "SOGEFRPPNSS",
     "Bank Name": "SOCIETE GENERALE",
@@ -17036,8 +17036,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NVS",
     "SWIFT Code": "SOGEFRPPNVS",
     "Bank Name": "SOCIETE GENERALE",
@@ -17049,8 +17049,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NIO",
     "SWIFT Code": "SOGEFRPPNIO",
     "Bank Name": "SOCIETE GENERALE",
@@ -17062,8 +17062,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NJM",
     "SWIFT Code": "SOGEFRPPNJM",
     "Bank Name": "SOCIETE GENERALE",
@@ -17075,8 +17075,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NMS",
     "SWIFT Code": "SOGEFRPPNMS",
     "Bank Name": "SOCIETE GENERALE",
@@ -17088,8 +17088,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NIT",
     "SWIFT Code": "SOGEFRPPNIT",
     "Bank Name": "SOCIETE GENERALE",
@@ -17101,8 +17101,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NOY",
     "SWIFT Code": "SOGEFRPPNOY",
     "Bank Name": "SOCIETE GENERALE",
@@ -17114,8 +17114,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "NUI",
     "SWIFT Code": "SOGEFRPPNUI",
     "Bank Name": "SOCIETE GENERALE",
@@ -17127,8 +17127,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ORL",
     "SWIFT Code": "SOGEFRPPORL",
     "Bank Name": "SOCIETE GENERALE",
@@ -17140,8 +17140,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PAN",
     "SWIFT Code": "SOGEFRPPPAN",
     "Bank Name": "SOCIETE GENERALE",
@@ -17153,8 +17153,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BTZ",
     "SWIFT Code": "SOGEFRPPBTZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -17166,8 +17166,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MTL",
     "SWIFT Code": "SOGEFRPPMTL",
     "Bank Name": "SOCIETE GENERALE",
@@ -17179,8 +17179,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PSZ",
     "SWIFT Code": "SOGEFRPPPSZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -17192,8 +17192,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TOK",
     "SWIFT Code": "SOGEFRPPTOK",
     "Bank Name": "SOCIETE GENERALE",
@@ -17205,8 +17205,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ACH",
     "SWIFT Code": "SOGEFRPPACH",
     "Bank Name": "SOCIETE GENERALE",
@@ -17218,8 +17218,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CDE",
     "SWIFT Code": "SOGEFRPPCDE",
     "Bank Name": "SOCIETE GENERALE",
@@ -17231,8 +17231,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FVS",
     "SWIFT Code": "SOGEFRPPFVS",
     "Bank Name": "SOCIETE GENERALE",
@@ -17244,8 +17244,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SOGEFRP2",
     "Bank Name": "SOCIETE GENERALE",
@@ -17257,8 +17257,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EXO",
     "SWIFT Code": "SOGEFRPPEXO",
     "Bank Name": "SOCIETE GENERALE",
@@ -17270,8 +17270,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CEN",
     "SWIFT Code": "SOGEFRPPCEN",
     "Bank Name": "SOCIETE GENERALE",
@@ -17283,8 +17283,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "COP",
     "SWIFT Code": "SOGEFRPPCOP",
     "Bank Name": "SOCIETE GENERALE",
@@ -17296,8 +17296,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ADB",
     "SWIFT Code": "SOGEFRPPADB",
     "Bank Name": "SOCIETE GENERALE",
@@ -17309,8 +17309,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AFI",
     "SWIFT Code": "SOGEFRPPAFI",
     "Bank Name": "SOCIETE GENERALE",
@@ -17322,8 +17322,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGI",
     "SWIFT Code": "SOGEFRPPAGI",
     "Bank Name": "SOCIETE GENERALE",
@@ -17335,8 +17335,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AG2",
     "SWIFT Code": "SOGEFRPPAG2",
     "Bank Name": "SOCIETE GENERALE",
@@ -17348,8 +17348,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BCK",
     "SWIFT Code": "SOGEFRPPBCK",
     "Bank Name": "SOCIETE GENERALE",
@@ -17361,8 +17361,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BMP",
     "SWIFT Code": "SOGEFRPPBMP",
     "Bank Name": "SOCIETE GENERALE",
@@ -17374,8 +17374,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SGS",
     "SWIFT Code": "SOGEFRPPSGS",
     "Bank Name": "SOCIETE GENERALE",
@@ -17387,8 +17387,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AFX",
     "SWIFT Code": "SOGEFRPPAFX",
     "Bank Name": "SOCIETE GENERALE",
@@ -17400,8 +17400,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EOM",
     "SWIFT Code": "SOGEFRPPEOM",
     "Bank Name": "SOCIETE GENERALE",
@@ -17413,8 +17413,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CLS",
     "SWIFT Code": "SOGEFRPPCLS",
     "Bank Name": "SOCIETE GENERALE",
@@ -17426,8 +17426,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ADI",
     "SWIFT Code": "SOGEFRPPADI",
     "Bank Name": "SOCIETE GENERALE",
@@ -17439,8 +17439,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EXT",
     "SWIFT Code": "SOGEFRPPEXT",
     "Bank Name": "SOCIETE GENERALE",
@@ -17452,8 +17452,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PEE",
     "SWIFT Code": "SOGEFRPPPEE",
     "Bank Name": "SOCIETE GENERALE",
@@ -17465,8 +17465,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FIN",
     "SWIFT Code": "SOGEFRPPFIN",
     "Bank Name": "SOCIETE GENERALE",
@@ -17478,8 +17478,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOEC",
-    "bankCode": "FR",
+    "bankCode": "SOEC",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SOECFR22",
     "Bank Name": "SOITEC SA",
@@ -17491,8 +17491,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOBK",
-    "bankCode": "FR",
+    "bankCode": "SOBK",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SOBKFRP2",
     "Bank Name": "SOLARISBANK AG SUCCURSALE FRANCAISE",
@@ -17504,8 +17504,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAJA",
-    "bankCode": "FR",
+    "bankCode": "PAJA",
+    "countryCode": "FR",
     "branchCode": "R2S",
     "SWIFT Code": "PAJAFR2S",
     "Bank Name": "SOLOCAL GROUP",
@@ -17517,8 +17517,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOMY",
-    "bankCode": "FR",
+    "bankCode": "SOMY",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SOMYFR22",
     "Bank Name": "SOMFY S.A.",
@@ -17530,8 +17530,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONR",
-    "bankCode": "FR",
+    "bankCode": "SONR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SONRFRPP",
     "Bank Name": "SONEPAR SA",
@@ -17543,8 +17543,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STER",
-    "bankCode": "FR",
+    "bankCode": "STER",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "STERFR22",
     "Bank Name": "SOPRA STERIA GROUP",
@@ -17556,8 +17556,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDK",
-    "bankCode": "FR",
+    "bankCode": "SPDK",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SPDKFRP2",
     "Bank Name": "SPENDESK FINANCIAL SERVICES",
@@ -17569,8 +17569,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHHR",
-    "bankCode": "FR",
+    "bankCode": "SHHR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SHHRFRPP",
     "Bank Name": "SPHERE S.A.",
@@ -17582,8 +17582,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBTG",
-    "bankCode": "FR",
+    "bankCode": "SBTG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SBTGFRPP",
     "Bank Name": "SPIE BATIGNOLLES S.A.S.",
@@ -17595,8 +17595,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGSP",
-    "bankCode": "FR",
+    "bankCode": "LGSP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LGSPFRPP",
     "Bank Name": "SPORTFIVE EMEA APAC SAS",
@@ -17608,8 +17608,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SQGL",
-    "bankCode": "FR",
+    "bankCode": "SQGL",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SQGLFRP2",
     "Bank Name": "SQUARE GLOBAL",
@@ -17621,8 +17621,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRGR",
-    "bankCode": "FR",
+    "bankCode": "SRGR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SRGRFRPP",
     "Bank Name": "SRT GROUP S.A.S.",
@@ -17634,8 +17634,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STDP",
-    "bankCode": "FR",
+    "bankCode": "STDP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "STDPFRPP",
     "Bank Name": "ST DUPONT",
@@ -17647,8 +17647,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNAS",
-    "bankCode": "FR",
+    "bankCode": "SNAS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SNASFRP2",
     "Bank Name": "STANHOPE CAPITAL SAS",
@@ -17660,8 +17660,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "FR",
+    "bankCode": "SBOS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "SBOSFRP2",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH - PARIS BRANCH",
@@ -17673,8 +17673,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "FR",
+    "bankCode": "SBOS",
+    "countryCode": "FR",
     "branchCode": "CTA",
     "SWIFT Code": "SBOSFRP2CTA",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH - PARIS BRANCH",
@@ -17686,8 +17686,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSS",
-    "bankCode": "FR",
+    "bankCode": "SCSS",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SCSSFR22",
     "Bank Name": "STEELCASE SAS",
@@ -17699,8 +17699,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFEX",
-    "bankCode": "FR",
+    "bankCode": "TFEX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TFEXFRPP",
     "Bank Name": "STEF S.A.",
@@ -17712,8 +17712,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GMAC",
-    "bankCode": "FR",
+    "bankCode": "GMAC",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GMACFR22",
     "Bank Name": "STELLANTIS BANK",
@@ -17725,8 +17725,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSAB",
-    "bankCode": "FR",
+    "bankCode": "PSAB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PSABFRPP",
     "Bank Name": "STELLANTIS FINANCIAL SERVICES",
@@ -17738,8 +17738,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSAG",
-    "bankCode": "FR",
+    "bankCode": "PSAG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PSAGFRPP",
     "Bank Name": "STELLANTIS N.V.",
@@ -17751,8 +17751,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTS",
-    "bankCode": "FR",
+    "bankCode": "STTS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "STTSFRPP",
     "Bank Name": "STET SA",
@@ -17764,8 +17764,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTS",
-    "bankCode": "FR",
+    "bankCode": "STTS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "STTSFRP2",
     "Bank Name": "STET SAS",
@@ -17777,8 +17777,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERMH",
-    "bankCode": "FR",
+    "bankCode": "ERMH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ERMHFRPP",
     "Bank Name": "STREEM HOLDING S.A.S.",
@@ -17790,8 +17790,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEEZ",
-    "bankCode": "FR",
+    "bankCode": "SEEZ",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SEEZFRPP",
     "Bank Name": "SUEZ S.A.",
@@ -17803,8 +17803,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUFA",
-    "bankCode": "FR",
+    "bankCode": "SUFA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SUFAFR22",
     "Bank Name": "SULO FRANCE S.A.S.",
@@ -17816,8 +17816,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUSG",
-    "bankCode": "FR",
+    "bankCode": "SUSG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SUSGFRPP",
     "Bank Name": "SUSHI SHOP GROUP",
@@ -17829,8 +17829,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWNB",
-    "bankCode": "FR",
+    "bankCode": "SWNB",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SWNBFR22",
     "Bank Name": "SWAN",
@@ -17842,8 +17842,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWPA",
-    "bankCode": "FR",
+    "bankCode": "SWPA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SWPAFR22",
     "Bank Name": "SWILE PAYMENT SAS",
@@ -17855,8 +17855,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWYA",
-    "bankCode": "FR",
+    "bankCode": "SWYA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SWYAFR22",
     "Bank Name": "SWILE PAYMENT SAS",
@@ -17868,8 +17868,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "FR",
+    "bankCode": "SLAM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SLAMFRPP",
     "Bank Name": "SWISS LIFE ASSET MANAGERS FRANCE",
@@ -17881,8 +17881,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAM",
-    "bankCode": "FR",
+    "bankCode": "SLAM",
+    "countryCode": "FR",
     "branchCode": "AMB",
     "SWIFT Code": "SLAMFRPPAMB",
     "Bank Name": "SWISS LIFE ASSET MANAGERS FRANCE",
@@ -17894,8 +17894,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIL",
-    "bankCode": "FR",
+    "bankCode": "SWIL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SWILFRPP",
     "Bank Name": "SWISSLIFE BANQUE PRIVEE",
@@ -17907,8 +17907,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIL",
-    "bankCode": "FR",
+    "bankCode": "SWIL",
+    "countryCode": "FR",
     "branchCode": "OPE",
     "SWIFT Code": "SWILFRPPOPE",
     "Bank Name": "SWISSLIFE BANQUE PRIVEE",
@@ -17920,8 +17920,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIL",
-    "bankCode": "FR",
+    "bankCode": "SWIL",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "SWILFRPPBDF",
     "Bank Name": "SWISSLIFE BANQUE PRIVEE",
@@ -17933,8 +17933,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWIL",
-    "bankCode": "FR",
+    "bankCode": "SWIL",
+    "countryCode": "FR",
     "branchCode": "114",
     "SWIFT Code": "SWILFRPP114",
     "Bank Name": "SWISSLIFE BANQUE PRIVEE",
@@ -17946,8 +17946,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAGE",
-    "bankCode": "FR",
+    "bankCode": "LAGE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "LAGEFRPP",
     "Bank Name": "SYNLAB GESTION",
@@ -17959,8 +17959,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TARK",
-    "bankCode": "FR",
+    "bankCode": "TARK",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TARKFRPP",
     "Bank Name": "TARKETT",
@@ -17972,8 +17972,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCSX",
-    "bankCode": "FR",
+    "bankCode": "TCSX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TCSXFRPP",
     "Bank Name": "TECHNICOLOR CREATIVE STUDIOS",
@@ -17985,8 +17985,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPSA",
-    "bankCode": "FR",
+    "bankCode": "TPSA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TPSAFRPP",
     "Bank Name": "TELEPERFORMANCE SE",
@@ -17998,8 +17998,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPSA",
-    "bankCode": "FR",
+    "bankCode": "TPSA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "TPSAFRP2",
     "Bank Name": "TELEPERFORMANCE SE",
@@ -18011,8 +18011,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TERE",
-    "bankCode": "FR",
+    "bankCode": "TERE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "TEREFR22",
     "Bank Name": "TEREOS PARTICIPATIONS",
@@ -18024,8 +18024,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSCG",
-    "bankCode": "FR",
+    "bankCode": "TSCG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TSCGFRPP",
     "Bank Name": "TESCA GROUP S.A.S.",
@@ -18037,8 +18037,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GMTO",
-    "bankCode": "FR",
+    "bankCode": "GMTO",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GMTOFR22",
     "Bank Name": "THALES DIS TREASURY SERVICES SAS",
@@ -18050,8 +18050,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCSF",
-    "bankCode": "FR",
+    "bankCode": "TCSF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TCSFFRPP",
     "Bank Name": "THALES SA",
@@ -18063,8 +18063,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNG",
-    "bankCode": "FR",
+    "bankCode": "ABNG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ABNGFRPP",
     "Bank Name": "THE ACCESS BANK UK LIMITED - PARIS BRANCH",
@@ -18076,8 +18076,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "FR",
+    "bankCode": "BNYM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BNYMFRPP",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -18089,8 +18089,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIBC",
-    "bankCode": "FR",
+    "bankCode": "EIBC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "EIBCFRPP",
     "Bank Name": "THE EXPORT-IMPORT BANK OF CHINA, PARIS BRANCH",
@@ -18102,8 +18102,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THOE",
-    "bankCode": "FR",
+    "bankCode": "THOE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "THOEFRPP",
     "Bank Name": "THOM GROUP S.A.S.",
@@ -18115,8 +18115,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIRE",
-    "bankCode": "FR",
+    "bankCode": "DIRE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DIREFRPP",
     "Bank Name": "TOTALENERGIES ELECTRICITE ET GAZ FRANCE",
@@ -18128,8 +18128,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ANY",
     "SWIFT Code": "SOGEFRPPANY",
     "Bank Name": "SOCIETE GENERALE",
@@ -18141,8 +18141,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ANS",
     "SWIFT Code": "SOGEFRPPANS",
     "Bank Name": "SOCIETE GENERALE",
@@ -18154,8 +18154,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ANT",
     "SWIFT Code": "SOGEFRPPANT",
     "Bank Name": "SOCIETE GENERALE",
@@ -18167,8 +18167,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ARC",
     "SWIFT Code": "SOGEFRPPARC",
     "Bank Name": "SOCIETE GENERALE",
@@ -18180,8 +18180,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AGT",
     "SWIFT Code": "SOGEFRPPAGT",
     "Bank Name": "SOCIETE GENERALE",
@@ -18193,8 +18193,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ARL",
     "SWIFT Code": "SOGEFRPPARL",
     "Bank Name": "SOCIETE GENERALE",
@@ -18206,8 +18206,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ARM",
     "SWIFT Code": "SOGEFRPPARM",
     "Bank Name": "SOCIETE GENERALE",
@@ -18219,8 +18219,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ARR",
     "SWIFT Code": "SOGEFRPPARR",
     "Bank Name": "SOCIETE GENERALE",
@@ -18232,8 +18232,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ASN",
     "SWIFT Code": "SOGEFRPPASN",
     "Bank Name": "SOCIETE GENERALE",
@@ -18245,8 +18245,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AUB",
     "SWIFT Code": "SOGEFRPPAUB",
     "Bank Name": "SOCIETE GENERALE",
@@ -18258,8 +18258,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AUR",
     "SWIFT Code": "SOGEFRPPAUR",
     "Bank Name": "SOCIETE GENERALE",
@@ -18271,8 +18271,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AUX",
     "SWIFT Code": "SOGEFRPPAUX",
     "Bank Name": "SOCIETE GENERALE",
@@ -18284,8 +18284,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "AVI",
     "SWIFT Code": "SOGEFRPPAVI",
     "Bank Name": "SOCIETE GENERALE",
@@ -18297,8 +18297,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TNG",
     "SWIFT Code": "SOGEFRPPTNG",
     "Bank Name": "SOCIETE GENERALE",
@@ -18310,8 +18310,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BLD",
     "SWIFT Code": "SOGEFRPPBLD",
     "Bank Name": "SOCIETE GENERALE",
@@ -18323,8 +18323,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BAS",
     "SWIFT Code": "SOGEFRPPBAS",
     "Bank Name": "SOCIETE GENERALE",
@@ -18336,8 +18336,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BAY",
     "SWIFT Code": "SOGEFRPPBAY",
     "Bank Name": "SOCIETE GENERALE",
@@ -18349,8 +18349,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BSO",
     "SWIFT Code": "SOGEFRPPBSO",
     "Bank Name": "SOCIETE GENERALE",
@@ -18362,8 +18362,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BEA",
     "SWIFT Code": "SOGEFRPPBEA",
     "Bank Name": "SOCIETE GENERALE",
@@ -18375,8 +18375,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BEV",
     "SWIFT Code": "SOGEFRPPBEV",
     "Bank Name": "SOCIETE GENERALE",
@@ -18388,8 +18388,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BEF",
     "SWIFT Code": "SOGEFRPPBEF",
     "Bank Name": "SOCIETE GENERALE",
@@ -18401,8 +18401,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BES",
     "SWIFT Code": "SOGEFRPPBES",
     "Bank Name": "SOCIETE GENERALE",
@@ -18414,8 +18414,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BET",
     "SWIFT Code": "SOGEFRPPBET",
     "Bank Name": "SOCIETE GENERALE",
@@ -18427,8 +18427,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BEZ",
     "SWIFT Code": "SOGEFRPPBEZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -18440,8 +18440,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BLO",
     "SWIFT Code": "SOGEFRPPBLO",
     "Bank Name": "SOCIETE GENERALE",
@@ -18453,8 +18453,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BOB",
     "SWIFT Code": "SOGEFRPPBOB",
     "Bank Name": "SOCIETE GENERALE",
@@ -18466,8 +18466,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BON",
     "SWIFT Code": "SOGEFRPPBON",
     "Bank Name": "SOCIETE GENERALE",
@@ -18479,8 +18479,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BOI",
     "SWIFT Code": "SOGEFRPPBOI",
     "Bank Name": "SOCIETE GENERALE",
@@ -18492,8 +18492,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BOP",
     "SWIFT Code": "SOGEFRPPBOP",
     "Bank Name": "SOCIETE GENERALE",
@@ -18505,8 +18505,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BIL",
     "SWIFT Code": "SOGEFRPPBIL",
     "Bank Name": "SOCIETE GENERALE",
@@ -18518,8 +18518,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BSS",
     "SWIFT Code": "SOGEFRPPBSS",
     "Bank Name": "SOCIETE GENERALE",
@@ -18531,8 +18531,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "OUE",
     "SWIFT Code": "SOGEFRPPOUE",
     "Bank Name": "SOCIETE GENERALE",
@@ -18544,8 +18544,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BSM",
     "SWIFT Code": "SOGEFRPPBSM",
     "Bank Name": "SOCIETE GENERALE",
@@ -18557,8 +18557,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BEB",
     "SWIFT Code": "SOGEFRPPBEB",
     "Bank Name": "SOCIETE GENERALE",
@@ -18570,8 +18570,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BLR",
     "SWIFT Code": "SOGEFRPPBLR",
     "Bank Name": "SOCIETE GENERALE",
@@ -18583,8 +18583,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BOU",
     "SWIFT Code": "SOGEFRPPBOU",
     "Bank Name": "SOCIETE GENERALE",
@@ -18596,8 +18596,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BOJ",
     "SWIFT Code": "SOGEFRPPBOJ",
     "Bank Name": "SOCIETE GENERALE",
@@ -18609,8 +18609,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BRE",
     "SWIFT Code": "SOGEFRPPBRE",
     "Bank Name": "SOCIETE GENERALE",
@@ -18622,8 +18622,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BRI",
     "SWIFT Code": "SOGEFRPPBRI",
     "Bank Name": "SOCIETE GENERALE",
@@ -18635,8 +18635,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BRU",
     "SWIFT Code": "SOGEFRPPBRU",
     "Bank Name": "SOCIETE GENERALE",
@@ -18648,8 +18648,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAE",
     "SWIFT Code": "SOGEFRPPCAE",
     "Bank Name": "SOCIETE GENERALE",
@@ -18661,8 +18661,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAL",
     "SWIFT Code": "SOGEFRPPCAL",
     "Bank Name": "SOCIETE GENERALE",
@@ -18674,8 +18674,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAM",
     "SWIFT Code": "SOGEFRPPCAM",
     "Bank Name": "SOCIETE GENERALE",
@@ -18687,8 +18687,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAN",
     "SWIFT Code": "SOGEFRPPCAN",
     "Bank Name": "SOCIETE GENERALE",
@@ -18700,8 +18700,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAR",
     "SWIFT Code": "SOGEFRPPCAR",
     "Bank Name": "SOCIETE GENERALE",
@@ -18713,8 +18713,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAT",
     "SWIFT Code": "SOGEFRPPCAT",
     "Bank Name": "SOCIETE GENERALE",
@@ -18726,8 +18726,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAU",
     "SWIFT Code": "SOGEFRPPCAU",
     "Bank Name": "SOCIETE GENERALE",
@@ -18739,8 +18739,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CAV",
     "SWIFT Code": "SOGEFRPPCAV",
     "Bank Name": "SOCIETE GENERALE",
@@ -18752,8 +18752,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CGY",
     "SWIFT Code": "SOGEFRPPCGY",
     "Bank Name": "SOCIETE GENERALE",
@@ -18765,8 +18765,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CSS",
     "SWIFT Code": "SOGEFRPPCSS",
     "Bank Name": "SOCIETE GENERALE",
@@ -18778,8 +18778,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SDZ",
     "SWIFT Code": "SOGEFRPPSDZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -18791,8 +18791,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STE",
     "SWIFT Code": "SOGEFRPPSTE",
     "Bank Name": "SOCIETE GENERALE",
@@ -18804,8 +18804,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SAE",
     "SWIFT Code": "SOGEFRPPSAE",
     "Bank Name": "SOCIETE GENERALE",
@@ -18817,8 +18817,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SGL",
     "SWIFT Code": "SOGEFRPPSGL",
     "Bank Name": "SOCIETE GENERALE",
@@ -18830,8 +18830,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SLF",
     "SWIFT Code": "SOGEFRPPSLF",
     "Bank Name": "SOCIETE GENERALE",
@@ -18843,8 +18843,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STL",
     "SWIFT Code": "SOGEFRPPSTL",
     "Bank Name": "SOCIETE GENERALE",
@@ -18856,8 +18856,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SMR",
     "SWIFT Code": "SOGEFRPPSMR",
     "Bank Name": "SOCIETE GENERALE",
@@ -18869,8 +18869,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "PSM",
     "SWIFT Code": "SOGEFRPPPSM",
     "Bank Name": "SOCIETE GENERALE",
@@ -18882,8 +18882,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STN",
     "SWIFT Code": "SOGEFRPPSTN",
     "Bank Name": "SOCIETE GENERALE",
@@ -18895,8 +18895,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STO",
     "SWIFT Code": "SOGEFRPPSTO",
     "Bank Name": "SOCIETE GENERALE",
@@ -18908,8 +18908,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SAO",
     "SWIFT Code": "SOGEFRPPSAO",
     "Bank Name": "SOCIETE GENERALE",
@@ -18921,8 +18921,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STQ",
     "SWIFT Code": "SOGEFRPPSTQ",
     "Bank Name": "SOCIETE GENERALE",
@@ -18934,8 +18934,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SQY",
     "SWIFT Code": "SOGEFRPPSQY",
     "Bank Name": "SOCIETE GENERALE",
@@ -18947,8 +18947,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STR",
     "SWIFT Code": "SOGEFRPPSTR",
     "Bank Name": "SOCIETE GENERALE",
@@ -18960,8 +18960,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STM",
     "SWIFT Code": "SOGEFRPPSTM",
     "Bank Name": "SOCIETE GENERALE",
@@ -18973,8 +18973,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SDP",
     "SWIFT Code": "SOGEFRPPSDP",
     "Bank Name": "SOCIETE GENERALE",
@@ -18986,8 +18986,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SAN",
     "SWIFT Code": "SOGEFRPPSAN",
     "Bank Name": "SOCIETE GENERALE",
@@ -18999,8 +18999,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SAT",
     "SWIFT Code": "SOGEFRPPSAT",
     "Bank Name": "SOCIETE GENERALE",
@@ -19012,8 +19012,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SCE",
     "SWIFT Code": "SOGEFRPPSCE",
     "Bank Name": "SOCIETE GENERALE",
@@ -19025,8 +19025,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SEN",
     "SWIFT Code": "SOGEFRPPSEN",
     "Bank Name": "SOCIETE GENERALE",
@@ -19038,8 +19038,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SET",
     "SWIFT Code": "SOGEFRPPSET",
     "Bank Name": "SOCIETE GENERALE",
@@ -19051,8 +19051,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SEV",
     "SWIFT Code": "SOGEFRPPSEV",
     "Bank Name": "SOCIETE GENERALE",
@@ -19064,8 +19064,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SOS",
     "SWIFT Code": "SOGEFRPPSOS",
     "Bank Name": "SOCIETE GENERALE",
@@ -19077,8 +19077,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "BRG",
     "SWIFT Code": "SOGEFRPPBRG",
     "Bank Name": "SOCIETE GENERALE",
@@ -19090,8 +19090,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "STG",
     "SWIFT Code": "SOGEFRPPSTG",
     "Bank Name": "SOCIETE GENERALE",
@@ -19103,8 +19103,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "SUR",
     "SWIFT Code": "SOGEFRPPSUR",
     "Bank Name": "SOCIETE GENERALE",
@@ -19116,8 +19116,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TBS",
     "SWIFT Code": "SOGEFRPPTBS",
     "Bank Name": "SOCIETE GENERALE",
@@ -19129,8 +19129,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TLB",
     "SWIFT Code": "SOGEFRPPTLB",
     "Bank Name": "SOCIETE GENERALE",
@@ -19142,8 +19142,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "MLV",
     "SWIFT Code": "SOGEFRPPMLV",
     "Bank Name": "SOCIETE GENERALE",
@@ -19155,8 +19155,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TLN",
     "SWIFT Code": "SOGEFRPPTLN",
     "Bank Name": "SOCIETE GENERALE",
@@ -19168,8 +19168,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LAF",
     "SWIFT Code": "SOGEFRPPLAF",
     "Bank Name": "SOCIETE GENERALE",
@@ -19181,8 +19181,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TLS",
     "SWIFT Code": "SOGEFRPPTLS",
     "Bank Name": "SOCIETE GENERALE",
@@ -19194,8 +19194,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TRG",
     "SWIFT Code": "SOGEFRPPTRG",
     "Bank Name": "SOCIETE GENERALE",
@@ -19207,8 +19207,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TOG",
     "SWIFT Code": "SOGEFRPPTOG",
     "Bank Name": "SOCIETE GENERALE",
@@ -19220,8 +19220,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TOR",
     "SWIFT Code": "SOGEFRPPTOR",
     "Bank Name": "SOCIETE GENERALE",
@@ -19233,8 +19233,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "TOY",
     "SWIFT Code": "SOGEFRPPTOY",
     "Bank Name": "SOCIETE GENERALE",
@@ -19246,8 +19246,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VSR",
     "SWIFT Code": "SOGEFRPPVSR",
     "Bank Name": "SOCIETE GENERALE",
@@ -19259,8 +19259,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VAC",
     "SWIFT Code": "SOGEFRPPVAC",
     "Bank Name": "SOCIETE GENERALE",
@@ -19272,8 +19272,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VAN",
     "SWIFT Code": "SOGEFRPPVAN",
     "Bank Name": "SOCIETE GENERALE",
@@ -19285,8 +19285,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VER",
     "SWIFT Code": "SOGEFRPPVER",
     "Bank Name": "SOCIETE GENERALE",
@@ -19298,8 +19298,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VES",
     "SWIFT Code": "SOGEFRPPVES",
     "Bank Name": "SOCIETE GENERALE",
@@ -19311,8 +19311,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VIC",
     "SWIFT Code": "SOGEFRPPVIC",
     "Bank Name": "SOCIETE GENERALE",
@@ -19324,8 +19324,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VIZ",
     "SWIFT Code": "SOGEFRPPVIZ",
     "Bank Name": "SOCIETE GENERALE",
@@ -19337,8 +19337,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VSS",
     "SWIFT Code": "SOGEFRPPVSS",
     "Bank Name": "SOCIETE GENERALE",
@@ -19350,8 +19350,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VSL",
     "SWIFT Code": "SOGEFRPPVSL",
     "Bank Name": "SOCIETE GENERALE",
@@ -19363,8 +19363,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VPR",
     "SWIFT Code": "SOGEFRPPVPR",
     "Bank Name": "SOCIETE GENERALE",
@@ -19376,8 +19376,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "LYV",
     "SWIFT Code": "SOGEFRPPLYV",
     "Bank Name": "SOCIETE GENERALE",
@@ -19389,8 +19389,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VIN",
     "SWIFT Code": "SOGEFRPPVIN",
     "Bank Name": "SOCIETE GENERALE",
@@ -19402,8 +19402,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VTL",
     "SWIFT Code": "SOGEFRPPVTL",
     "Bank Name": "SOCIETE GENERALE",
@@ -19415,8 +19415,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "VOI",
     "SWIFT Code": "SOGEFRPPVOI",
     "Bank Name": "SOCIETE GENERALE",
@@ -19428,8 +19428,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "DMA",
     "SWIFT Code": "ISAEFRPPDMA",
     "Bank Name": "CACEIS BANK",
@@ -19441,8 +19441,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "FDS",
     "SWIFT Code": "ISAEFRPPFDS",
     "Bank Name": "CACEIS BANK",
@@ -19454,8 +19454,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "PTF",
     "SWIFT Code": "ISAEFRPPPTF",
     "Bank Name": "CACEIS BANK",
@@ -19467,8 +19467,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "AGO",
     "SWIFT Code": "ISAEFRPPAGO",
     "Bank Name": "CACEIS BANK",
@@ -19480,8 +19480,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "AFS",
     "SWIFT Code": "ISAEFRPPAFS",
     "Bank Name": "CACEIS BANK",
@@ -19493,8 +19493,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CAI",
     "SWIFT Code": "ISAEFRPPCAI",
     "Bank Name": "CACEIS BANK",
@@ -19506,8 +19506,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "BTC",
     "SWIFT Code": "ISAEFRPPBTC",
     "Bank Name": "CACEIS BANK",
@@ -19519,8 +19519,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "BTU",
     "SWIFT Code": "ISAEFRPPBTU",
     "Bank Name": "CACEIS BANK",
@@ -19532,8 +19532,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CIM",
     "SWIFT Code": "ISAEFRPPCIM",
     "Bank Name": "CACEIS BANK",
@@ -19545,8 +19545,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "ITM",
     "SWIFT Code": "ISAEFRPPITM",
     "Bank Name": "CACEIS BANK",
@@ -19558,8 +19558,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "IVQ",
     "SWIFT Code": "ISAEFRPPIVQ",
     "Bank Name": "CACEIS BANK",
@@ -19571,8 +19571,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CIB",
     "SWIFT Code": "ISAEFRPPCIB",
     "Bank Name": "CACEIS BANK",
@@ -19584,8 +19584,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "PSE",
     "SWIFT Code": "ISAEFRPPPSE",
     "Bank Name": "CACEIS BANK",
@@ -19597,8 +19597,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "EXA",
     "SWIFT Code": "ISAEFRPPEXA",
     "Bank Name": "CACEIS BANK",
@@ -19610,8 +19610,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "GLR",
     "SWIFT Code": "ISAEFRPPGLR",
     "Bank Name": "CACEIS BANK",
@@ -19623,8 +19623,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CWC",
     "SWIFT Code": "ISAEFRPPCWC",
     "Bank Name": "CACEIS BANK",
@@ -19636,8 +19636,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "TUS",
     "SWIFT Code": "ISAEFRPPTUS",
     "Bank Name": "CACEIS BANK",
@@ -19649,8 +19649,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "TUL",
     "SWIFT Code": "ISAEFRPPTUL",
     "Bank Name": "CACEIS BANK",
@@ -19662,8 +19662,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CNL",
     "SWIFT Code": "ISAEFRPPCNL",
     "Bank Name": "CACEIS BANK",
@@ -19675,8 +19675,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CAP",
     "SWIFT Code": "ISAEFRPPCAP",
     "Bank Name": "CACEIS BANK",
@@ -19688,8 +19688,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "INC",
     "SWIFT Code": "ISAEFRPPINC",
     "Bank Name": "CACEIS BANK",
@@ -19701,8 +19701,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "INO",
     "SWIFT Code": "ISAEFRPPINO",
     "Bank Name": "CACEIS BANK",
@@ -19714,8 +19714,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "ITO",
     "SWIFT Code": "ISAEFRPPITO",
     "Bank Name": "CACEIS BANK",
@@ -19727,8 +19727,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "NBC",
     "SWIFT Code": "ISAEFRPPNBC",
     "Bank Name": "CACEIS BANK",
@@ -19740,8 +19740,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "NBU",
     "SWIFT Code": "ISAEFRPPNBU",
     "Bank Name": "CACEIS BANK",
@@ -19753,8 +19753,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "NBO",
     "SWIFT Code": "ISAEFRPPNBO",
     "Bank Name": "CACEIS BANK",
@@ -19766,8 +19766,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "OPX",
     "SWIFT Code": "ISAEFRPPOPX",
     "Bank Name": "CACEIS BANK",
@@ -19779,8 +19779,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "OCU",
     "SWIFT Code": "ISAEFRPPOCU",
     "Bank Name": "CACEIS BANK",
@@ -19792,8 +19792,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "OPO",
     "SWIFT Code": "ISAEFRPPOPO",
     "Bank Name": "CACEIS BANK",
@@ -19805,8 +19805,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CWO",
     "SWIFT Code": "ISAEFRPPCWO",
     "Bank Name": "CACEIS BANK",
@@ -19818,8 +19818,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "KCU",
     "SWIFT Code": "ISAEFRPPKCU",
     "Bank Name": "CACEIS BANK",
@@ -19831,8 +19831,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "JBC",
     "SWIFT Code": "ISAEFRPPJBC",
     "Bank Name": "CACEIS BANK",
@@ -19844,8 +19844,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "QIC",
     "SWIFT Code": "ISAEFRPPQIC",
     "Bank Name": "CACEIS BANK",
@@ -19857,8 +19857,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "QIO",
     "SWIFT Code": "ISAEFRPPQIO",
     "Bank Name": "CACEIS BANK",
@@ -19870,8 +19870,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "KEO",
     "SWIFT Code": "ISAEFRPPKEO",
     "Bank Name": "CACEIS BANK",
@@ -19883,8 +19883,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "KEC",
     "SWIFT Code": "ISAEFRPPKEC",
     "Bank Name": "CACEIS BANK",
@@ -19896,8 +19896,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "TBM",
     "SWIFT Code": "ISAEFRPPTBM",
     "Bank Name": "CACEIS BANK",
@@ -19909,8 +19909,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CAL",
     "SWIFT Code": "ISAEFRPPCAL",
     "Bank Name": "CACEIS BANK",
@@ -19922,8 +19922,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "AGT",
     "SWIFT Code": "ISAEFRPPAGT",
     "Bank Name": "CACEIS BANK",
@@ -19935,8 +19935,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CON",
     "SWIFT Code": "ISAEFRPPCON",
     "Bank Name": "CACEIS BANK",
@@ -19948,8 +19948,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "SMB",
     "SWIFT Code": "ISAEFRPPSMB",
     "Bank Name": "CACEIS BANK",
@@ -19961,8 +19961,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "MCA",
     "SWIFT Code": "ISAEFRPPMCA",
     "Bank Name": "CACEIS BANK",
@@ -19974,8 +19974,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "DLT",
     "SWIFT Code": "ISAEFRPPDLT",
     "Bank Name": "CACEIS BANK",
@@ -19987,8 +19987,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "EXT",
     "SWIFT Code": "ISAEFRPPEXT",
     "Bank Name": "CACEIS BANK",
@@ -20000,8 +20000,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "ETC",
     "SWIFT Code": "ISAEFRPPETC",
     "Bank Name": "CACEIS BANK",
@@ -20013,8 +20013,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "TCC",
     "SWIFT Code": "ISAEFRPPTCC",
     "Bank Name": "CACEIS BANK",
@@ -20026,8 +20026,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "AIF",
     "SWIFT Code": "ISAEFRPPAIF",
     "Bank Name": "CACEIS BANK",
@@ -20039,8 +20039,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "BAA",
     "SWIFT Code": "ISAEFRPPBAA",
     "Bank Name": "CACEIS BANK",
@@ -20052,8 +20052,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CAC",
     "SWIFT Code": "ISAEFRPPCAC",
     "Bank Name": "CACEIS BANK",
@@ -20065,8 +20065,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CBD",
     "SWIFT Code": "ISAEFRPPCBD",
     "Bank Name": "CACEIS BANK",
@@ -20078,8 +20078,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FICV",
-    "bankCode": "FR",
+    "bankCode": "FICV",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "FICVFRP2",
     "Bank Name": "FINANCIERE ARBEVEL",
@@ -20091,8 +20091,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPIC",
-    "bankCode": "FR",
+    "bankCode": "FPIC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FPICFRPP",
     "Bank Name": "FINANCIERE PICHET S.A.S.",
@@ -20104,8 +20104,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNOM",
-    "bankCode": "FR",
+    "bankCode": "FNOM",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "FNOMFRP2",
     "Bank Name": "FINOM PAYMENTS B.V.",
@@ -20117,8 +20117,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORPA",
-    "bankCode": "FR",
+    "bankCode": "ORPA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ORPAFRPP",
     "Bank Name": "FINVAL",
@@ -20130,8 +20130,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGFI",
-    "bankCode": "FR",
+    "bankCode": "RGFI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "RGFIFRPP",
     "Bank Name": "FINVAL",
@@ -20143,8 +20143,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "FR",
+    "bankCode": "NBAD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NBADFRPP",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) PARIS",
@@ -20156,8 +20156,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "FR",
+    "bankCode": "NBAD",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "NBADFRPPBDF",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) PARIS",
@@ -20169,8 +20169,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "FR",
+    "bankCode": "NBAD",
+    "countryCode": "FR",
     "branchCode": "TFO",
     "SWIFT Code": "NBADFRPPTFO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) PARIS",
@@ -20182,8 +20182,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDVF",
-    "bankCode": "FR",
+    "bankCode": "FDVF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "FDVFFR22",
     "Bank Name": "FLORIMOND DESPREZ VEUVE ET FILS",
@@ -20195,8 +20195,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLWB",
-    "bankCode": "FR",
+    "bankCode": "FLWB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FLWBFRPP",
     "Bank Name": "FLOWBIRD S.A.S.",
@@ -20208,8 +20208,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEU",
-    "bankCode": "FR",
+    "bankCode": "FSEU",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "FSEUFRP2",
     "Bank Name": "FORTE SECURITIES EUROPE",
@@ -20221,8 +20221,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAUR",
-    "bankCode": "FR",
+    "bankCode": "FAUR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FAURFRPP",
     "Bank Name": "FORVIA",
@@ -20234,8 +20234,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NWNP",
-    "bankCode": "FR",
+    "bankCode": "NWNP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NWNPFRPP",
     "Bank Name": "FRAMATOME S.A.S.",
@@ -20247,8 +20247,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRAF",
-    "bankCode": "FR",
+    "bankCode": "FRAF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FRAFFRPP",
     "Bank Name": "FRANSABANK FRANCE S.A.",
@@ -20260,8 +20260,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GGEO",
-    "bankCode": "FR",
+    "bankCode": "GGEO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GGEOFRPP",
     "Bank Name": "GALILEO GLOBAL EDUCATION OPERATIONS S.A.S.",
@@ -20273,8 +20273,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFCO",
-    "bankCode": "FR",
+    "bankCode": "GFCO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GFCOFRPP",
     "Bank Name": "GEFCO",
@@ -20286,8 +20286,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GENN",
-    "bankCode": "FR",
+    "bankCode": "GENN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GENNFR22",
     "Bank Name": "GENEBANQUE SA",
@@ -20299,8 +20299,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPEE",
-    "bankCode": "FR",
+    "bankCode": "GPEE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GPEEFRPP",
     "Bank Name": "GENERALE POUR L'ENFANT S.A.S.",
@@ -20312,8 +20312,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEFC",
-    "bankCode": "FR",
+    "bankCode": "GEFC",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "GEFCFRPA",
     "Bank Name": "GENERALI FRANCE",
@@ -20325,8 +20325,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEWS",
-    "bankCode": "FR",
+    "bankCode": "GEWS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "GEWSFRP2",
     "Bank Name": "GENERALI WEALTH SOLUTIONS",
@@ -20338,8 +20338,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEFO",
-    "bankCode": "FR",
+    "bankCode": "GEFO",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GEFOFR22",
     "Bank Name": "GERFLOR S.A.S.",
@@ -20351,8 +20351,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEAT",
-    "bankCode": "FR",
+    "bankCode": "GEAT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GEATFRPP",
     "Bank Name": "GESTIMAT S.A.S.",
@@ -20364,8 +20364,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXAF",
-    "bankCode": "FR",
+    "bankCode": "AXAF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AXAFFRPP",
     "Bank Name": "GIE AXA FRANCE",
@@ -20377,8 +20377,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "FR",
+    "bankCode": "GOLD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GOLDFRPP",
     "Bank Name": "GOLDMAN SACHS PARIS INC. ET CIE",
@@ -20390,8 +20390,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVSA",
-    "bankCode": "FR",
+    "bankCode": "GVSA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GVSAFRPP",
     "Bank Name": "GRANDVISION FRANCE SAS",
@@ -20403,8 +20403,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRNY",
-    "bankCode": "FR",
+    "bankCode": "GRNY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GRNYFRPP",
     "Bank Name": "GREENYELLOW S.A.S.",
@@ -20416,8 +20416,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAM",
-    "bankCode": "FR",
+    "bankCode": "GPAM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GPAMFRPP",
     "Bank Name": "GROUPAMA ASSET MANAGEMENT",
@@ -20429,8 +20429,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPAM",
-    "bankCode": "FR",
+    "bankCode": "GPAM",
+    "countryCode": "FR",
     "branchCode": "IZN",
     "SWIFT Code": "GPAMFRPPIZN",
     "Bank Name": "GROUPAMA ASSET MANAGEMENT",
@@ -20442,8 +20442,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GGVI",
-    "bankCode": "FR",
+    "bankCode": "GGVI",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "GGVIFRP2",
     "Bank Name": "GROUPAMA GAN VIE",
@@ -20455,8 +20455,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPSI",
-    "bankCode": "FR",
+    "bankCode": "GPSI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GPSIFRPP",
     "Bank Name": "GROUPAMA SYSTEMES D'INFORMATION",
@@ -20468,8 +20468,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRDD",
-    "bankCode": "FR",
+    "bankCode": "GRDD",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GRDDFR22",
     "Bank Name": "GROUPE ADEO",
@@ -20481,8 +20481,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIMD",
-    "bankCode": "FR",
+    "bankCode": "GIMD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GIMDFRPP",
     "Bank Name": "GROUPE INDUSTRIEL MARCEL DASSAULT",
@@ -20494,8 +20494,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRLG",
-    "bankCode": "FR",
+    "bankCode": "GRLG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GRLGFR22",
     "Bank Name": "GROUPE LEGENDRE S.A.S.",
@@ -20507,8 +20507,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIPF",
-    "bankCode": "FR",
+    "bankCode": "SIPF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "SIPFFR22",
     "Bank Name": "GROUPE PETIT FORESTIER",
@@ -20520,8 +20520,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCBA",
-    "bankCode": "FR",
+    "bankCode": "GCBA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GCBAFRPP",
     "Bank Name": "GROUPEMENT DES CARTES BANCAIRES GIE",
@@ -20533,8 +20533,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRBT",
-    "bankCode": "FR",
+    "bankCode": "GRBT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GRBTFRPP",
     "Bank Name": "GUERBET",
@@ -20546,8 +20546,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOR",
-    "bankCode": "FR",
+    "bankCode": "ECOR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ECORFR22",
     "Bank Name": "GUY DAUPHIN ENVIRONNEMENT",
@@ -20559,8 +20559,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRSA",
-    "bankCode": "FR",
+    "bankCode": "HRSA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "HRSAFR22",
     "Bank Name": "HARMONIIE SAS",
@@ -20572,8 +20572,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLSA",
-    "bankCode": "FR",
+    "bankCode": "HLSA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "HLSAFR22",
     "Bank Name": "HELLOASSO SAS",
@@ -20585,8 +20585,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HENN",
-    "bankCode": "FR",
+    "bankCode": "HENN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HENNFRPP",
     "Bank Name": "HENNER SAS",
@@ -20598,8 +20598,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRMS",
-    "bankCode": "FR",
+    "bankCode": "HRMS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HRMSFRPP",
     "Bank Name": "HERMES INTERNATIONAL",
@@ -20611,8 +20611,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMGF",
-    "bankCode": "FR",
+    "bankCode": "HMGF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HMGFFRPP",
     "Bank Name": "HMG FINANCE SA",
@@ -20624,8 +20624,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOLD",
-    "bankCode": "FR",
+    "bankCode": "HOLD",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "HOLDFR22",
     "Bank Name": "HOLDHAM",
@@ -20637,8 +20637,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDUF",
-    "bankCode": "FR",
+    "bankCode": "HDUF",
+    "countryCode": "FR",
     "branchCode": "R2R",
     "SWIFT Code": "HDUFFR2R",
     "Bank Name": "HOLDING LE DUFF 'HLD'",
@@ -20650,8 +20650,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HORF",
-    "bankCode": "FR",
+    "bankCode": "HORF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HORFFRPP",
     "Bank Name": "HORUS FINANCE S.A.",
@@ -20663,8 +20663,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "FR",
+    "bankCode": "MIDL",
+    "countryCode": "FR",
     "branchCode": "RPX",
     "SWIFT Code": "MIDLFRPX",
     "Bank Name": "HSBC BANK PLC",
@@ -20676,8 +20676,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "FR",
+    "bankCode": "MIDL",
+    "countryCode": "FR",
     "branchCode": "111",
     "SWIFT Code": "MIDLFRPX111",
     "Bank Name": "HSBC BANK PLC",
@@ -20689,8 +20689,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "FR",
+    "bankCode": "MIDL",
+    "countryCode": "FR",
     "branchCode": "222",
     "SWIFT Code": "MIDLFRPX222",
     "Bank Name": "HSBC BANK PLC",
@@ -20702,8 +20702,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "330",
     "SWIFT Code": "CCFRFRPP330",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -20715,8 +20715,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFR",
-    "bankCode": "FR",
+    "bankCode": "CCFR",
+    "countryCode": "FR",
     "branchCode": "120",
     "SWIFT Code": "CCFRFRPP120",
     "Bank Name": "HSBC CONTINENTAL EUROPE",
@@ -20728,8 +20728,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TIT",
     "SWIFT Code": "BDFEFRPPTIT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20741,8 +20741,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CMI",
     "SWIFT Code": "BDFEFRPPCMI",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20754,8 +20754,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ETC",
     "SWIFT Code": "BDFEFR2TETC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20767,8 +20767,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SIP",
     "SWIFT Code": "BDFEFR2TSIP",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20780,8 +20780,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "PUB",
     "SWIFT Code": "BDFEFR2TPUB",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20793,8 +20793,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "102",
     "SWIFT Code": "BDFEFR2T102",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20806,8 +20806,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FTC",
     "SWIFT Code": "BDFEFR2TFTC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -20819,8 +20819,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAV",
-    "bankCode": "FR",
+    "bankCode": "BSAV",
+    "countryCode": "FR",
     "branchCode": "R2C",
     "SWIFT Code": "BSAVFR2C",
     "Bank Name": "BANQUE DE SAVOIE S.A.",
@@ -20832,8 +20832,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELU",
-    "bankCode": "FR",
+    "bankCode": "DELU",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "DELUFR22",
     "Bank Name": "BANQUE DELUBAC ET CIE",
@@ -20845,8 +20845,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELU",
-    "bankCode": "FR",
+    "bankCode": "DELU",
+    "countryCode": "FR",
     "branchCode": "LCH",
     "SWIFT Code": "DELUFR22LCH",
     "Bank Name": "BANQUE DELUBAC ET CIE",
@@ -20858,8 +20858,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDEL",
-    "bankCode": "FR",
+    "bankCode": "EDEL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "EDELFR22",
     "Bank Name": "BANQUE EDEL SA",
@@ -20871,8 +20871,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "INS",
     "SWIFT Code": "CCBPFRPPINS",
     "Bank Name": "BANQUE FEDERALE DES BANQUES POPULAIRES (BANQUES POPULAIRES REGIONALES)",
@@ -20884,8 +20884,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDEI",
-    "bankCode": "FR",
+    "bankCode": "BDEI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BDEIFRPP",
     "Bank Name": "BANQUE FIDUCIAL (FORMERLY BANQUE THEMIS)",
@@ -20897,8 +20897,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFCO",
-    "bankCode": "FR",
+    "bankCode": "BFCO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BFCOFRPP",
     "Bank Name": "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",
@@ -20910,8 +20910,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRFR",
-    "bankCode": "FR",
+    "bankCode": "HRFR",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "HRFRFRP2",
     "Bank Name": "BANQUE HOTTINGUER S.A.",
@@ -20923,8 +20923,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICF",
-    "bankCode": "FR",
+    "bankCode": "BICF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BICFFRPP",
     "Bank Name": "BANQUE INTERNATIONALE DE COMMERCE-BRED",
@@ -20936,8 +20936,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMY",
-    "bankCode": "FR",
+    "bankCode": "BAMY",
+    "countryCode": "FR",
     "branchCode": "BDX",
     "SWIFT Code": "BAMYFR22BDX",
     "Bank Name": "BANQUE MICHEL INCHAUSPE - BAMI",
@@ -20949,8 +20949,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMY",
-    "bankCode": "FR",
+    "bankCode": "BAMY",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BAMYFR22",
     "Bank Name": "BANQUE MICHEL INCHAUSPE - BAMI",
@@ -20962,8 +20962,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "FR",
+    "bankCode": "BMIS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BMISFRPP",
     "Bank Name": "BANQUE MISR - SUCCURSALE DE PARIS",
@@ -20975,8 +20975,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "FR",
+    "bankCode": "BNPA",
+    "countryCode": "FR",
     "branchCode": "RPK",
     "SWIFT Code": "BNPAFRPK",
     "Bank Name": "BANQUE NATIONALE DE PARIS S.A.",
@@ -20988,8 +20988,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOMA",
-    "bankCode": "FR",
+    "bankCode": "NOMA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "NOMAFRPP",
     "Bank Name": "BANQUE NOMURA FRANCE S.A.",
@@ -21001,8 +21001,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSPF",
-    "bankCode": "FR",
+    "bankCode": "BSPF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BSPFFRPP",
     "Bank Name": "BANQUE PALATINE",
@@ -21014,8 +21014,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "MTZ",
     "SWIFT Code": "CCBPFRPPMTZ",
     "Bank Name": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE",
@@ -21027,8 +21027,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "STR",
     "SWIFT Code": "CCBPFRPPSTR",
     "Bank Name": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE (FORMER BANQUE POPULAIRE ALSACE)",
@@ -21040,8 +21040,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "169",
     "SWIFT Code": "CCBPFRPP169",
     "Bank Name": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE",
@@ -21053,8 +21053,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "BDX",
     "SWIFT Code": "CCBPFRPPBDX",
     "Bank Name": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE",
@@ -21066,8 +21066,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "CFD",
     "SWIFT Code": "CCBPFRPPCFD",
     "Bank Name": "BANQUE POPULAIRE AUVERGNE RHONE ALPES",
@@ -21079,8 +21079,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "GRE",
     "SWIFT Code": "CCBPFRPPGRE",
     "Bank Name": "BANQUE POPULAIRE AUVERGNE RHONE ALPES",
@@ -21092,8 +21092,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "LYO",
     "SWIFT Code": "CCBPFRPPLYO",
     "Bank Name": "BANQUE POPULAIRE AUVERGNE RHONE ALPES",
@@ -21105,8 +21105,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "DJN",
     "SWIFT Code": "CCBPFRPPDJN",
     "Bank Name": "BANQUE POPULAIRE BOURGOGNE FRANCHE COMTE",
@@ -21118,8 +21118,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "LIL",
     "SWIFT Code": "CCBPFRPPLIL",
     "Bank Name": "BANQUE POPULAIRE DU NORD",
@@ -21131,8 +21131,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "PPG",
     "SWIFT Code": "CCBPFRPPPPG",
     "Bank Name": "BANQUE POPULAIRE DU SUD",
@@ -21144,8 +21144,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "149",
     "SWIFT Code": "CCBPFRPP149",
     "Bank Name": "BANQUE POPULAIRE GRAND OUEST",
@@ -21157,8 +21157,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "NAN",
     "SWIFT Code": "CCBPFRPPNAN",
     "Bank Name": "BANQUE POPULAIRE GRAND OUEST",
@@ -21170,8 +21170,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "REN",
     "SWIFT Code": "CCBPFRPPREN",
     "Bank Name": "BANQUE POPULAIRE GRAND OUEST",
@@ -21183,8 +21183,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "219",
     "SWIFT Code": "CCBPFRPP219",
     "Bank Name": "BANQUE POPULAIRE GRAND-OUEST",
@@ -21196,8 +21196,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "CCBPFRPPMAR",
     "Bank Name": "BANQUE POPULAIRE MEDITERRANEE",
@@ -21209,8 +21209,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "TLS",
     "SWIFT Code": "CCBPFRPPTLS",
     "Bank Name": "BANQUE POPULAIRE OCCITANE",
@@ -21222,8 +21222,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "MTG",
     "SWIFT Code": "CCBPFRPPMTG",
     "Bank Name": "BANQUE POPULAIRE RIVES DE PARIS",
@@ -21235,8 +21235,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "VER",
     "SWIFT Code": "CCBPFRPPVER",
     "Bank Name": "BANQUE POPULAIRE VAL DE FRANCE",
@@ -21248,8 +21248,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBLX",
-    "bankCode": "FR",
+    "bankCode": "KBLX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KBLXFRPP",
     "Bank Name": "BANQUE RICHELIEU FRANCE",
@@ -21261,8 +21261,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAA",
-    "bankCode": "FR",
+    "bankCode": "SBAA",
+    "countryCode": "FR",
     "branchCode": "TGT",
     "SWIFT Code": "SBAAFRPPTGT",
     "Bank Name": "BANQUE SBA",
@@ -21274,8 +21274,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAA",
-    "bankCode": "FR",
+    "bankCode": "SBAA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SBAAFRPP",
     "Bank Name": "BANQUE SBA",
@@ -21287,8 +21287,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESCB",
-    "bankCode": "FR",
+    "bankCode": "ESCB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ESCBFRPP",
     "Bank Name": "BANQUE WORMSER FRERES / BANQUE D'ESCOMPTE",
@@ -21300,8 +21300,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESCB",
-    "bankCode": "FR",
+    "bankCode": "ESCB",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "ESCBFRPPBDF",
     "Bank Name": "BANQUE WORMSER FRERES / BANQUE D'ESCOMPTE",
@@ -21313,8 +21313,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBP",
-    "bankCode": "FR",
+    "bankCode": "CCBP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CCBPFRPP",
     "Bank Name": "BANQUES POPULAIRES-GROUPE BPCE",
@@ -21326,8 +21326,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "FR",
+    "bankCode": "BARC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BARCFRPP",
     "Bank Name": "BARCLAYS BANK IRELAND PLC PARIS",
@@ -21339,8 +21339,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "FR",
+    "bankCode": "BARC",
+    "countryCode": "FR",
     "branchCode": "RPC",
     "SWIFT Code": "BARCFRPC",
     "Bank Name": "BARCLAYS BANK IRELAND PLC PARIS",
@@ -21352,8 +21352,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPLC",
-    "bankCode": "FR",
+    "bankCode": "BPLC",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BPLCFRPP",
     "Bank Name": "BARCLAYS BANK PLC, FRENCH BRANCH",
@@ -21365,8 +21365,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCFM",
-    "bankCode": "FR",
+    "bankCode": "BCFM",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BCFMFR22",
     "Bank Name": "BASTIDE LE CONFORT MEDICAL S.A.",
@@ -21378,8 +21378,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VLTA",
-    "bankCode": "FR",
+    "bankCode": "VLTA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VLTAFRPP",
     "Bank Name": "VOLTALIA S.A.",
@@ -21391,8 +21391,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VDOO",
-    "bankCode": "FR",
+    "bankCode": "VDOO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "VDOOFRPP",
     "Bank Name": "VOODOO S.A.S.",
@@ -21404,8 +21404,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTER",
-    "bankCode": "FR",
+    "bankCode": "WTER",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "WTERFR22",
     "Bank Name": "WATERS S.A.S",
@@ -21417,8 +21417,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAVS",
-    "bankCode": "FR",
+    "bankCode": "WAVS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "WAVSFRPP",
     "Bank Name": "WAVESTONE S.A.",
@@ -21430,8 +21430,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDFR",
-    "bankCode": "FR",
+    "bankCode": "FDFR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "FDFRFR22",
     "Bank Name": "WEBHELP PAYMENT SERVICES FRANCE SAS",
@@ -21443,8 +21443,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEBH",
-    "bankCode": "FR",
+    "bankCode": "WEBH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "WEBHFRPP",
     "Bank Name": "WEBHELP SAS",
@@ -21456,8 +21456,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFSE",
-    "bankCode": "FR",
+    "bankCode": "WFSE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "WFSEFRPP",
     "Bank Name": "WELLS FARGO SECURITIES EUROPE S.A.",
@@ -21469,8 +21469,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFSE",
-    "bankCode": "FR",
+    "bankCode": "WFSE",
+    "countryCode": "FR",
     "branchCode": "BCP",
     "SWIFT Code": "WFSEFRPPBCP",
     "Bank Name": "WELLS FARGO SECURITIES EUROPE S.A.",
@@ -21482,8 +21482,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEND",
-    "bankCode": "FR",
+    "bankCode": "WEND",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "WENDFRPP",
     "Bank Name": "WENDEL SE",
@@ -21495,8 +21495,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEFN",
-    "bankCode": "FR",
+    "bankCode": "WEFN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "WEFNFR22",
     "Bank Name": "WEXIA FINANCES INTERNATIONAL",
@@ -21508,8 +21508,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIAG",
-    "bankCode": "FR",
+    "bankCode": "WIAG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "WIAGFRP2",
     "Bank Name": "WIDE ASSET MANAGEMENT",
@@ -21521,8 +21521,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTRA",
-    "bankCode": "FR",
+    "bankCode": "WTRA",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "WTRAFRP2",
     "Bank Name": "WOODSFORD TRADEBRIDGE SAS",
@@ -21534,8 +21534,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WFCS",
-    "bankCode": "FR",
+    "bankCode": "WFCS",
+    "countryCode": "FR",
     "branchCode": "R2P",
     "SWIFT Code": "WFCSFR2P",
     "Bank Name": "WORLD FREIGHT COMPANY S.A.S.",
@@ -21547,8 +21547,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGEN",
-    "bankCode": "FR",
+    "bankCode": "IGEN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "IGENFR22",
     "Bank Name": "WORLDLINE IGSA",
@@ -21560,8 +21560,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WOLN",
-    "bankCode": "FR",
+    "bankCode": "WOLN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "WOLNFR22",
     "Bank Name": "WORLDLINE S.A.",
@@ -21573,8 +21573,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOPP",
-    "bankCode": "FR",
+    "bankCode": "YOPP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "YOPPFRPP",
     "Bank Name": "YOPLAIT SAS",
@@ -21586,8 +21586,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOUI",
-    "bankCode": "FR",
+    "bankCode": "YOUI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "YOUIFRPP",
     "Bank Name": "YOUNITED S.A.",
@@ -21599,8 +21599,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YPII",
-    "bankCode": "FR",
+    "bankCode": "YPII",
+    "countryCode": "FR",
     "branchCode": "R2N",
     "SWIFT Code": "YPIIFR2N",
     "Bank Name": "YPI",
@@ -21612,8 +21612,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAVO",
-    "bankCode": "FR",
+    "bankCode": "ZAVO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ZAVOFRPP",
     "Bank Name": "Z AND V SAS",
@@ -21625,8 +21625,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "FR",
+    "bankCode": "BCIT",
+    "countryCode": "FR",
     "branchCode": "880",
     "SWIFT Code": "BCITFRPP880",
     "Bank Name": "INTESA SANPAOLO SPA",
@@ -21638,8 +21638,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "FR",
+    "bankCode": "BCIT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BCITFRPP",
     "Bank Name": "INTESA SANPAOLO SPA",
@@ -21651,8 +21651,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVZ",
-    "bankCode": "FR",
+    "bankCode": "INVZ",
+    "countryCode": "FR",
     "branchCode": "IHK",
     "SWIFT Code": "INVZFRPPIHK",
     "Bank Name": "INVESCO MANAGEMENT SA",
@@ -21664,8 +21664,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVZ",
-    "bankCode": "FR",
+    "bankCode": "INVZ",
+    "countryCode": "FR",
     "branchCode": "TRI",
     "SWIFT Code": "INVZFRPPTRI",
     "Bank Name": "INVESCO MANAGEMENT SA",
@@ -21677,8 +21677,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVZ",
-    "bankCode": "FR",
+    "bankCode": "INVZ",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "INVZFRPP",
     "Bank Name": "INVESCO MANAGEMENT SA",
@@ -21690,8 +21690,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVZ",
-    "bankCode": "FR",
+    "bankCode": "INVZ",
+    "countryCode": "FR",
     "branchCode": "IPE",
     "SWIFT Code": "INVZFRPPIPE",
     "Bank Name": "INVESCO MANAGEMENT SA",
@@ -21703,8 +21703,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVZ",
-    "bankCode": "FR",
+    "bankCode": "INVZ",
+    "countryCode": "FR",
     "branchCode": "MDO",
     "SWIFT Code": "INVZFRPPMDO",
     "Bank Name": "INVESCO MANAGEMENT SA",
@@ -21716,8 +21716,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVGR",
-    "bankCode": "FR",
+    "bankCode": "IVGR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IVGRFRPP",
     "Bank Name": "INVIVO GROUP S.A.",
@@ -21729,8 +21729,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORUN",
-    "bankCode": "FR",
+    "bankCode": "ORUN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ORUNFRPP",
     "Bank Name": "IPAGOO LLP FRENCH BRANCH",
@@ -21742,8 +21742,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPSN",
-    "bankCode": "FR",
+    "bankCode": "IPSN",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IPSNFRPP",
     "Bank Name": "IPSEN",
@@ -21755,8 +21755,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPSO",
-    "bankCode": "FR",
+    "bankCode": "IPSO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IPSOFRPP",
     "Bank Name": "IPSOS",
@@ -21768,8 +21768,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUNK",
-    "bankCode": "FR",
+    "bankCode": "HUNK",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "HUNKFRPP",
     "Bank Name": "IS CAPITAL S.R.L.",
@@ -21781,8 +21781,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTCE",
-    "bankCode": "FR",
+    "bankCode": "TTCE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "TTCEFRPP",
     "Bank Name": "IT-CE",
@@ -21794,8 +21794,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITME",
-    "bankCode": "FR",
+    "bankCode": "ITME",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ITMEFRPP",
     "Bank Name": "ITM ENTREPRISES S.A.S.",
@@ -21807,8 +21807,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IZNE",
-    "bankCode": "FR",
+    "bankCode": "IZNE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "IZNEFRPP",
     "Bank Name": "IZNES S.A.S.",
@@ -21820,8 +21820,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMGI",
-    "bankCode": "FR",
+    "bankCode": "YMGI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "YMGIFRPP",
     "Bank Name": "J.M.S",
@@ -21833,8 +21833,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "FR",
+    "bankCode": "CHAS",
+    "countryCode": "FR",
     "branchCode": "RPB",
     "SWIFT Code": "CHASFRPB",
     "Bank Name": "J.P. MORGAN SE - PARIS BRANCH",
@@ -21846,8 +21846,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "FR",
+    "bankCode": "CHAS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CHASFRPP",
     "Bank Name": "J.P. MORGAN SE - PARIS BRANCH",
@@ -21859,8 +21859,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "FR",
+    "bankCode": "CHAS",
+    "countryCode": "FR",
     "branchCode": "GMO",
     "SWIFT Code": "CHASFRPPGMO",
     "Bank Name": "J.P. MORGAN SE - PARIS BRANCH",
@@ -21872,8 +21872,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "FR",
+    "bankCode": "CHAS",
+    "countryCode": "FR",
     "branchCode": "IPB",
     "SWIFT Code": "CHASFRPPIPB",
     "Bank Name": "J.P. MORGAN SE - PARIS BRANCH",
@@ -21885,8 +21885,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "FR",
+    "bankCode": "CHAS",
+    "countryCode": "FR",
     "branchCode": "PCG",
     "SWIFT Code": "CHASFRPPPCG",
     "Bank Name": "J.P. MORGAN SE - PARIS BRANCH",
@@ -21898,8 +21898,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "FR",
+    "bankCode": "CHAS",
+    "countryCode": "FR",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASFRPPENQ",
     "Bank Name": "J.P. MORGAN SE - PARIS BRANCH",
@@ -21911,8 +21911,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCDX",
-    "bankCode": "FR",
+    "bankCode": "JCDX",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "JCDXFR22",
     "Bank Name": "JCDECAUX SE",
@@ -21924,8 +21924,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCGR",
-    "bankCode": "FR",
+    "bankCode": "JCGR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "JCGRFRPP",
     "Bank Name": "JEAN CASSEGRAIN",
@@ -21937,8 +21937,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRNU",
-    "bankCode": "FR",
+    "bankCode": "BRNU",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BRNUFR22",
     "Bank Name": "JM BRUNEAU S.A.S.",
@@ -21950,8 +21950,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMG",
-    "bankCode": "FR",
+    "bankCode": "JPMG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "JPMGFRPP",
     "Bank Name": "JPMORGAN CHASE BANK, N.A. - PARIS BRANCH",
@@ -21963,8 +21963,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "FR",
+    "bankCode": "KRED",
+    "countryCode": "FR",
     "branchCode": "416",
     "SWIFT Code": "KREDFRPP416",
     "Bank Name": "KBC BANK NV PARIS",
@@ -21976,8 +21976,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "FR",
+    "bankCode": "KRED",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KREDFRPP",
     "Bank Name": "KBC BANK NV PARIS",
@@ -21989,8 +21989,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "FR",
+    "bankCode": "KOEX",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KOEXFRPP",
     "Bank Name": "KEB HANA BANK",
@@ -22002,8 +22002,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBBR",
-    "bankCode": "FR",
+    "bankCode": "JBBR",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "JBBRFRPP",
     "Bank Name": "KEPLER CHEUVREUX",
@@ -22015,8 +22015,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBBR",
-    "bankCode": "FR",
+    "bankCode": "JBBR",
+    "countryCode": "FR",
     "branchCode": "01X",
     "SWIFT Code": "JBBRFRPP01X",
     "Bank Name": "KEPLER CHEUVREUX",
@@ -22028,8 +22028,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBBR",
-    "bankCode": "FR",
+    "bankCode": "JBBR",
+    "countryCode": "FR",
     "branchCode": "02X",
     "SWIFT Code": "JBBRFRPP02X",
     "Bank Name": "KEPLER CHEUVREUX",
@@ -22041,8 +22041,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEBE",
-    "bankCode": "FR",
+    "bankCode": "KEBE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KEBEFRPP",
     "Bank Name": "KERING BEAUTE S.A.S.",
@@ -22054,8 +22054,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPRF",
-    "bankCode": "FR",
+    "bankCode": "PPRF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PPRFFRPP",
     "Bank Name": "KERING FINANCE (FORMERLY PPR FINANCE)",
@@ -22067,8 +22067,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGSA",
-    "bankCode": "FR",
+    "bankCode": "KGSA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KGSAFRPP",
     "Bank Name": "KERING S.A.",
@@ -22080,8 +22080,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLRN",
-    "bankCode": "FR",
+    "bankCode": "KLRN",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "KLRNFRP2",
     "Bank Name": "KLARNA BANK AB FRENCH BRANCH",
@@ -22093,8 +22093,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLPI",
-    "bankCode": "FR",
+    "bankCode": "KLPI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KLPIFRPP",
     "Bank Name": "KLEPIERRE MANAGEMENT",
@@ -22106,8 +22106,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYRI",
-    "bankCode": "FR",
+    "bankCode": "KYRI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "KYRIFRPP",
     "Bank Name": "KYRIBA SAS",
@@ -22119,8 +22119,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMLC",
-    "bankCode": "FR",
+    "bankCode": "TMLC",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "TMLCFRP2",
     "Bank Name": "KYZPAY",
@@ -22132,8 +22132,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "AJA",
     "SWIFT Code": "PSSTFRPPAJA",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22145,8 +22145,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "BOR",
     "SWIFT Code": "PSSTFRPPBOR",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22158,8 +22158,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "CHA",
     "SWIFT Code": "PSSTFRPPCHA",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22171,8 +22171,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "CLE",
     "SWIFT Code": "PSSTFRPPCLE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22184,8 +22184,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "DIJ",
     "SWIFT Code": "PSSTFRPPDIJ",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22197,8 +22197,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "GRE",
     "SWIFT Code": "PSSTFRPPGRE",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22210,8 +22210,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "LIL",
     "SWIFT Code": "PSSTFRPPLIL",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22223,8 +22223,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "LIM",
     "SWIFT Code": "PSSTFRPPLIM",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22236,8 +22236,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "CVM",
     "SWIFT Code": "PSSTFRPPCVM",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22249,8 +22249,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "LYO",
     "SWIFT Code": "PSSTFRPPLYO",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22262,8 +22262,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSST",
-    "bankCode": "FR",
+    "bankCode": "PSST",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "PSSTFRPPMAR",
     "Bank Name": "LA BANQUE POSTALE",
@@ -22275,8 +22275,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPA",
-    "bankCode": "FR",
+    "bankCode": "CNPA",
+    "countryCode": "FR",
     "branchCode": "CDP",
     "SWIFT Code": "CNPAFRPPCDP",
     "Bank Name": "CNP ASSURANCES",
@@ -22288,8 +22288,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPA",
-    "bankCode": "FR",
+    "bankCode": "CNPA",
+    "countryCode": "FR",
     "branchCode": "NRT",
     "SWIFT Code": "CNPAFRPPNRT",
     "Bank Name": "CNP ASSURANCES",
@@ -22301,8 +22301,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPA",
-    "bankCode": "FR",
+    "bankCode": "CNPA",
+    "countryCode": "FR",
     "branchCode": "QIS",
     "SWIFT Code": "CNPAFRPPQIS",
     "Bank Name": "CNP ASSURANCES",
@@ -22314,8 +22314,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPA",
-    "bankCode": "FR",
+    "bankCode": "CNPA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CNPAFRPP",
     "Bank Name": "CNP ASSURANCES",
@@ -22327,8 +22327,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COFA",
-    "bankCode": "FR",
+    "bankCode": "COFA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "COFAFR22",
     "Bank Name": "COFACE",
@@ -22340,8 +22340,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCFU",
-    "bankCode": "FR",
+    "bankCode": "CCFU",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CCFUFRP2",
     "Bank Name": "COHEN AND COMPANY FINANCIAL (EUROPE) S.A.",
@@ -22353,8 +22353,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLLA",
-    "bankCode": "FR",
+    "bankCode": "CLLA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CLLAFRPP",
     "Bank Name": "COLAS S.A.",
@@ -22366,8 +22366,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLNE",
-    "bankCode": "FR",
+    "bankCode": "CLNE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CLNEFRPP",
     "Bank Name": "COLISEE INTERNATIONAL S.A.",
@@ -22379,8 +22379,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLL",
-    "bankCode": "FR",
+    "bankCode": "COLL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "COLLFR22",
     "Bank Name": "COLLECTE LOCALISATION SATELLITES",
@@ -22392,8 +22392,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLPN",
-    "bankCode": "FR",
+    "bankCode": "CLPN",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CLPNFRP2",
     "Bank Name": "COLVILLE CAPITAL PARTNERS",
@@ -22405,8 +22405,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMMG",
-    "bankCode": "FR",
+    "bankCode": "CMMG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CMMGFRP2",
     "Bank Name": "COMGEST S.A.",
@@ -22418,8 +22418,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "FR",
+    "bankCode": "COBA",
+    "countryCode": "FR",
     "branchCode": "RPX",
     "SWIFT Code": "COBAFRPX",
     "Bank Name": "COMMERZBANK AG",
@@ -22431,8 +22431,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "FR",
+    "bankCode": "COBA",
+    "countryCode": "FR",
     "branchCode": "TPA",
     "SWIFT Code": "COBAFRPXTPA",
     "Bank Name": "COMMERZBANK AG",
@@ -22444,8 +22444,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "FR",
+    "bankCode": "COBA",
+    "countryCode": "FR",
     "branchCode": "MCA",
     "SWIFT Code": "COBAFRPXMCA",
     "Bank Name": "COMMERZBANK AG",
@@ -22457,8 +22457,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIEO",
-    "bankCode": "FR",
+    "bankCode": "GIEO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "GIEOFRPP",
     "Bank Name": "COMPAGNIE D'INVESTISSEMENTS INDUSTRIELS ET COMMERCIAUX - CIIC",
@@ -22470,8 +22470,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAHR",
-    "bankCode": "FR",
+    "bankCode": "DAHR",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "DAHRFR2M",
     "Bank Name": "COMPAGNIE DAHER S.A.",
@@ -22483,8 +22483,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFFO",
-    "bankCode": "FR",
+    "bankCode": "CFFO",
+    "countryCode": "FR",
     "branchCode": "SSS",
     "SWIFT Code": "CFFOFRPPSSS",
     "Bank Name": "COMPAGNIE DE FINANCEMENT FONCIER",
@@ -22496,8 +22496,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFFO",
-    "bankCode": "FR",
+    "bankCode": "CFFO",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CFFOFRPP",
     "Bank Name": "COMPAGNIE DE FINANCEMENT FONCIER",
@@ -22509,8 +22509,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGOB",
-    "bankCode": "FR",
+    "bankCode": "SGOB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "SGOBFRPP",
     "Bank Name": "COMPAGNIE DE SAINT-GOBAIN",
@@ -22522,8 +22522,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDAL",
-    "bankCode": "FR",
+    "bankCode": "CDAL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CDALFRPP",
     "Bank Name": "COMPAGNIE DES ALPES",
@@ -22535,8 +22535,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPNO",
-    "bankCode": "FR",
+    "bankCode": "CPNO",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "CPNOFR2M",
     "Bank Name": "COMPAGNIE DU PONANT SAS",
@@ -22548,8 +22548,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROUL",
-    "bankCode": "FR",
+    "bankCode": "ROUL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ROULFR22",
     "Bank Name": "COMPAGNIE FINANCIERE ET DE PARTICIPATIONS ROULLIER",
@@ -22561,8 +22561,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGCP",
-    "bankCode": "FR",
+    "bankCode": "CGCP",
+    "countryCode": "FR",
     "branchCode": "RPL",
     "SWIFT Code": "CGCPFRPL",
     "Bank Name": "COMPAGNIE GENERALE DE CREDIT AUX PARTICULIERS - CREDIPAR",
@@ -22574,8 +22574,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGLE",
-    "bankCode": "FR",
+    "bankCode": "CGLE",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "CGLEFR2M",
     "Bank Name": "COMPAGNIE GENERALE DE LOCATION D'EQUIPEMENTS",
@@ -22587,8 +22587,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POMN",
-    "bankCode": "FR",
+    "bankCode": "POMN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "POMNFR22",
     "Bank Name": "COMPAGNIE PLASTIC OMNIUM",
@@ -22600,8 +22600,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNPG",
-    "bankCode": "FR",
+    "bankCode": "CNPG",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "CNPGFRP2",
     "Bank Name": "CONSEIL PLUS GESTION",
@@ -22613,8 +22613,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COHD",
-    "bankCode": "FR",
+    "bankCode": "COHD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "COHDFRPP",
     "Bank Name": "CONSOLIS HOLDING S.A.S.",
@@ -22626,8 +22626,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSTM",
-    "bankCode": "FR",
+    "bankCode": "CSTM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CSTMFRPP",
     "Bank Name": "CONSTELLIUM SE",
@@ -22639,8 +22639,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSQA",
-    "bankCode": "FR",
+    "bankCode": "CSQA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CSQAFRPP",
     "Bank Name": "CONTENT SQUARE S.A.S.",
@@ -22652,8 +22652,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGAL",
-    "bankCode": "FR",
+    "bankCode": "CGAL",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CGALFRPP",
     "Bank Name": "CONTOURGLOBAL MANAGEMENT FRANCE SAS",
@@ -22665,8 +22665,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEFP",
-    "bankCode": "FR",
+    "bankCode": "CEFP",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CEFPFRPP",
     "Bank Name": "COUNCIL OF EUROPE DEVELOPMENT BANK",
@@ -22678,8 +22678,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDRE",
-    "bankCode": "FR",
+    "bankCode": "FDRE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "FDREFR22",
     "Bank Name": "COVIVIO",
@@ -22691,8 +22691,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPRM",
-    "bankCode": "FR",
+    "bankCode": "CPRM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CPRMFRPP",
     "Bank Name": "CPR ASSET MANAGEMENT",
@@ -22704,8 +22704,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPRP",
-    "bankCode": "FR",
+    "bankCode": "CPRP",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "CPRPFR22",
     "Bank Name": "CPRPSNCF",
@@ -22717,8 +22717,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "820",
     "SWIFT Code": "AGRIFRPP820",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22730,8 +22730,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "812",
     "SWIFT Code": "AGRIFRPP812",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22743,8 +22743,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "887",
     "SWIFT Code": "AGRIFRPP887",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22756,8 +22756,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "881",
     "SWIFT Code": "AGRIFRPP881",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22769,8 +22769,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "813",
     "SWIFT Code": "AGRIFRPP813",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22782,8 +22782,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "825",
     "SWIFT Code": "AGRIFRPP825",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22795,8 +22795,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "833",
     "SWIFT Code": "AGRIFRPP833",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22808,8 +22808,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "848",
     "SWIFT Code": "AGRIFRPP848",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22821,8 +22821,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "BRU",
     "SWIFT Code": "AGRIFRPPBRU",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22834,8 +22834,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "866",
     "SWIFT Code": "AGRIFRPP866",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22847,8 +22847,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "844",
     "SWIFT Code": "AGRIFRPP844",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22860,8 +22860,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "868",
     "SWIFT Code": "AGRIFRPP868",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22873,8 +22873,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "891",
     "SWIFT Code": "AGRIFRPP891",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22886,8 +22886,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "839",
     "SWIFT Code": "AGRIFRPP839",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22899,8 +22899,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "817",
     "SWIFT Code": "AGRIFRPP817",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22912,8 +22912,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "FR",
+    "bankCode": "AGRI",
+    "countryCode": "FR",
     "branchCode": "835",
     "SWIFT Code": "AGRIFRPP835",
     "Bank Name": "CREDIT AGRICOLE",
@@ -22925,8 +22925,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CGN",
     "SWIFT Code": "BDFEFR2TCGN",
     "Bank Name": "BANQUE DE FRANCE",
@@ -22938,8 +22938,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TCH",
     "SWIFT Code": "BDFEFR2TTCH",
     "Bank Name": "BANQUE DE FRANCE",
@@ -22951,8 +22951,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FIC",
     "SWIFT Code": "BDFEFR2TFIC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -22964,8 +22964,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "POL",
     "SWIFT Code": "BDFEFR2TPOL",
     "Bank Name": "BANQUE DE FRANCE",
@@ -22977,8 +22977,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CCT",
     "SWIFT Code": "BDFEFRPPCCT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -22990,8 +22990,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E30",
     "SWIFT Code": "BDFEFR2TE30",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23003,8 +23003,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E10",
     "SWIFT Code": "BDFEFR2TE10",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23016,8 +23016,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E14",
     "SWIFT Code": "BDFEFR2TE14",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23029,8 +23029,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E11",
     "SWIFT Code": "BDFEFR2TE11",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23042,8 +23042,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E12",
     "SWIFT Code": "BDFEFR2TE12",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23055,8 +23055,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ECR",
     "SWIFT Code": "BDFEFR2TECR",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23068,8 +23068,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "EBE",
     "SWIFT Code": "BDFEFR2TEBE",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23081,8 +23081,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ENL",
     "SWIFT Code": "BDFEFR2TENL",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23094,8 +23094,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "820",
     "SWIFT Code": "BDFEFR2T820",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23107,8 +23107,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "721",
     "SWIFT Code": "BDFEFR2T721",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23120,8 +23120,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "724",
     "SWIFT Code": "BDFEFR2T724",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23133,8 +23133,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "782",
     "SWIFT Code": "BDFEFR2T782",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23146,8 +23146,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "743",
     "SWIFT Code": "BDFEFR2T743",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23159,8 +23159,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "733",
     "SWIFT Code": "BDFEFR2T733",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23172,8 +23172,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "700",
     "SWIFT Code": "BDFEFR2T700",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23185,8 +23185,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "720",
     "SWIFT Code": "BDFEFR2T720",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23198,8 +23198,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TRA",
     "SWIFT Code": "BDFEFR2TTRA",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23211,8 +23211,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "DSE",
     "SWIFT Code": "BDFEFR2TDSE",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23224,8 +23224,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SFP",
     "SWIFT Code": "BDFEFR2TSFP",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23237,8 +23237,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FPR",
     "SWIFT Code": "BDFEFR2TFPR",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23250,8 +23250,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SRD",
     "SWIFT Code": "BDFEFRPPSRD",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23263,8 +23263,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "GCO",
     "SWIFT Code": "BDFEFR2TGCO",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23276,8 +23276,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "GDP",
     "SWIFT Code": "BDFEFR2TGDP",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23289,8 +23289,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "243",
     "SWIFT Code": "BDFEFR2T243",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23302,8 +23302,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "IDD",
     "SWIFT Code": "BDFEFR2TIDD",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23315,8 +23315,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "IND",
     "SWIFT Code": "BDFEFR2TIND",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23328,8 +23328,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TEC",
     "SWIFT Code": "BDFEFRPPTEC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23341,8 +23341,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "MAP",
     "SWIFT Code": "BDFEFRPPMAP",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23354,8 +23354,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FI1",
     "SWIFT Code": "BDFEFR2TFI1",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23367,8 +23367,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FI2",
     "SWIFT Code": "BDFEFR2TFI2",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23380,8 +23380,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "OPC",
     "SWIFT Code": "BDFEFR2TOPC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23393,8 +23393,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ERM",
     "SWIFT Code": "BDFEFR2TERM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23406,8 +23406,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "NUM",
     "SWIFT Code": "BDFEFR2TNUM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23419,8 +23419,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CCB",
     "SWIFT Code": "BDFEFR2TCCB",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23432,8 +23432,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CCB",
     "SWIFT Code": "BDFEFR2LCCB",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23445,8 +23445,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "POM",
     "SWIFT Code": "BDFEFR2TPOM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23458,8 +23458,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ICM",
     "SWIFT Code": "BDFEFR2TICM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23471,8 +23471,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "104",
     "SWIFT Code": "BDFEFR2T104",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23484,8 +23484,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TEM",
     "SWIFT Code": "BDFEFR2TTEM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23497,8 +23497,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CDT",
     "SWIFT Code": "BDFEFR2TCDT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23510,8 +23510,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SRD",
     "SWIFT Code": "BDFEFR2TSRD",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23523,8 +23523,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SPM",
     "SWIFT Code": "BDFEFR2TSPM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23536,8 +23536,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "DMC",
     "SWIFT Code": "BDFEFR2TDMC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23549,8 +23549,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SAI",
     "SWIFT Code": "BDFEFR2TSAI",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23562,8 +23562,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SPE",
     "SWIFT Code": "BDFEFR2TSPE",
     "Bank Name": "BANQUE DE FRANCE",
@@ -23575,8 +23575,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXPM",
-    "bankCode": "FR",
+    "bankCode": "AXPM",
+    "countryCode": "FR",
     "branchCode": "RPB",
     "SWIFT Code": "AXPMFRPB",
     "Bank Name": "ARCHITAS FRANCE S.A.",
@@ -23588,8 +23588,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARDH",
-    "bankCode": "FR",
+    "bankCode": "ARDH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ARDHFRPP",
     "Bank Name": "ARDIAN HOLDING S.A.S.",
@@ -23601,8 +23601,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARNN",
-    "bankCode": "FR",
+    "bankCode": "ARNN",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ARNNFR22",
     "Bank Name": "ARIANESPACE",
@@ -23614,8 +23614,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARKE",
-    "bankCode": "FR",
+    "bankCode": "ARKE",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ARKEFR22",
     "Bank Name": "ARKEMA",
@@ -23627,8 +23627,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRSR",
-    "bankCode": "FR",
+    "bankCode": "GRSR",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "GRSRFR22",
     "Bank Name": "ART ET TECHNIQUES DU PROGRES",
@@ -23640,8 +23640,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARVV",
-    "bankCode": "FR",
+    "bankCode": "ARVV",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "ARVVFRP2",
     "Bank Name": "ARVELLA INVESTMENTS",
@@ -23653,8 +23653,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASSY",
-    "bankCode": "FR",
+    "bankCode": "ASSY",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ASSYFRPP",
     "Bank Name": "ASSYSTEM",
@@ -23666,8 +23666,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATLA",
-    "bankCode": "FR",
+    "bankCode": "ATLA",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "ATLAFR22",
     "Bank Name": "ATLANTIC SOCIETE FRANCAISE DE DEVELOPPEMENT THERMIQUE",
@@ -23679,8 +23679,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFOM",
-    "bankCode": "FR",
+    "bankCode": "AFOM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AFOMFRPP",
     "Bank Name": "ATLASFORMEN SAS",
@@ -23692,8 +23692,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATOS",
-    "bankCode": "FR",
+    "bankCode": "ATOS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ATOSFRPP",
     "Bank Name": "ATOS SE",
@@ -23705,8 +23705,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "FR",
+    "bankCode": "BCMA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BCMAFRPP",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE-PARIS",
@@ -23718,8 +23718,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "FR",
+    "bankCode": "BCMA",
+    "countryCode": "FR",
     "branchCode": "TGT",
     "SWIFT Code": "BCMAFRPPTGT",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE-PARIS",
@@ -23731,8 +23731,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUDV",
-    "bankCode": "FR",
+    "bankCode": "AUDV",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AUDVFRPP",
     "Bank Name": "AUBERT AND DUVAL S.A.S.",
@@ -23744,8 +23744,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AULS",
-    "bankCode": "FR",
+    "bankCode": "AULS",
+    "countryCode": "FR",
     "branchCode": "RP2",
     "SWIFT Code": "AULSFRP2",
     "Bank Name": "AUREL BGC",
@@ -23757,8 +23757,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "FR",
+    "bankCode": "ANZB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "ANZBFRPP",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -23770,8 +23770,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUOD",
-    "bankCode": "FR",
+    "bankCode": "AUOD",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AUODFRPP",
     "Bank Name": "AUTODISTRIBUTION S.A.S.",
@@ -23783,8 +23783,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVTG",
-    "bankCode": "FR",
+    "bankCode": "AVTG",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AVTGFR22",
     "Bank Name": "AVIONS DE TRANSPORT REGIONAL GIE",
@@ -23796,8 +23796,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXFI",
-    "bankCode": "FR",
+    "bankCode": "AXFI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AXFIFRPP",
     "Bank Name": "AXA BANQUE FINANCEMENT",
@@ -23809,8 +23809,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXAB",
-    "bankCode": "FR",
+    "bankCode": "AXAB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AXABFRPP",
     "Bank Name": "AXA BANQUE SA",
@@ -23822,8 +23822,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXAB",
-    "bankCode": "FR",
+    "bankCode": "AXAB",
+    "countryCode": "FR",
     "branchCode": "MAR",
     "SWIFT Code": "AXABFRPPMAR",
     "Bank Name": "AXA BANQUE SA",
@@ -23835,8 +23835,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXAB",
-    "bankCode": "FR",
+    "bankCode": "AXAB",
+    "countryCode": "FR",
     "branchCode": "TG2",
     "SWIFT Code": "AXABFRPPTG2",
     "Bank Name": "AXA BANQUE SA",
@@ -23848,8 +23848,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXAF",
-    "bankCode": "FR",
+    "bankCode": "AXAF",
+    "countryCode": "FR",
     "branchCode": "RPA",
     "SWIFT Code": "AXAFFRPA",
     "Bank Name": "AXA FRANCE VIE",
@@ -23861,8 +23861,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AHLF",
-    "bankCode": "FR",
+    "bankCode": "AHLF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AHLFFR22",
     "Bank Name": "AXA HOME LOAN SFH",
@@ -23874,8 +23874,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXRL",
-    "bankCode": "FR",
+    "bankCode": "AXRL",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AXRLFR22",
     "Bank Name": "AXEREAL FINANCES",
@@ -23887,8 +23887,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXSF",
-    "bankCode": "FR",
+    "bankCode": "AXSF",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "AXSFFR22",
     "Bank Name": "AXWAY SOFTWARE S.A.",
@@ -23900,8 +23900,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAII",
-    "bankCode": "FR",
+    "bankCode": "BAII",
+    "countryCode": "FR",
     "branchCode": "R22",
     "SWIFT Code": "BAIIFR22",
     "Bank Name": "B.A.I. BRETAGNE ANGLETERRE IRLANDE S.A.",
@@ -23913,8 +23913,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAH",
-    "bankCode": "FR",
+    "bankCode": "BAAH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BAAHFRPP",
     "Bank Name": "BA AND SH S.A.S.",
@@ -23926,8 +23926,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BWAG",
-    "bankCode": "FR",
+    "bankCode": "BWAG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BWAGFRPP",
     "Bank Name": "BABCOCK WANSON GROUP S.A.S.",
@@ -23939,8 +23939,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOU",
-    "bankCode": "FR",
+    "bankCode": "BBOU",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BBOUFRPP",
     "Bank Name": "BABILOU GROUP SAS",
@@ -23952,8 +23952,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBLL",
-    "bankCode": "FR",
+    "bankCode": "BBLL",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "BBLLFR2L",
     "Bank Name": "BABOLAT VS",
@@ -23965,8 +23965,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "FR",
+    "bankCode": "BBVA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BBVAFRPP",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA",
@@ -23978,8 +23978,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "FR",
+    "bankCode": "BBVA",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "BBVAFRPPBDF",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA",
@@ -23991,8 +23991,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "FR",
+    "bankCode": "BSAB",
+    "countryCode": "FR",
     "branchCode": "BCE",
     "SWIFT Code": "BSABFRPPBCE",
     "Bank Name": "BANCO DE SABADELL",
@@ -24004,8 +24004,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "FR",
+    "bankCode": "BSAB",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BSABFRPP",
     "Bank Name": "BANCO DE SABADELL",
@@ -24017,8 +24017,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "FR",
+    "bankCode": "BRAS",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BRASFRPP",
     "Bank Name": "BANCO DO BRASIL AG SUCCURSALE FRANCE",
@@ -24030,8 +24030,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "FR",
+    "bankCode": "BSCH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BSCHFRPP",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -24043,8 +24043,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "FR",
+    "bankCode": "BSCH",
+    "countryCode": "FR",
     "branchCode": "BF1",
     "SWIFT Code": "BSCHFRPPBF1",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -24056,8 +24056,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "FR",
+    "bankCode": "BSCH",
+    "countryCode": "FR",
     "branchCode": "LMS",
     "SWIFT Code": "BSCHFRPPLMS",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -24069,8 +24069,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUDI",
-    "bankCode": "FR",
+    "bankCode": "AUDI",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "AUDIFRPP",
     "Bank Name": "BANK AUDI FRANCE",
@@ -24082,8 +24082,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "FR",
+    "bankCode": "BMCE",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BMCEFRPP",
     "Bank Name": "BANK OF AFRICA UNITED KINGDOM PLC SUCCURSALE EN FRANCE",
@@ -24095,8 +24095,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "VAM",
     "SWIFT Code": "BOFAFRPPVAM",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, PARIS BRANCH",
@@ -24108,8 +24108,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BOFAFRPP",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, PARIS BRANCH",
@@ -24121,8 +24121,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "FR",
+    "bankCode": "BOFA",
+    "countryCode": "FR",
     "branchCode": "FIC",
     "SWIFT Code": "BOFAFRPPFIC",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, PARIS BRANCH",
@@ -24134,8 +24134,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "FR",
+    "bankCode": "BKCH",
+    "countryCode": "FR",
     "branchCode": "100",
     "SWIFT Code": "BKCHFRPP100",
     "Bank Name": "BANK OF CHINA, PARIS BRANCH",
@@ -24147,8 +24147,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "FR",
+    "bankCode": "BKCH",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BKCHFRPP",
     "Bank Name": "BANK OF CHINA, PARIS BRANCH",
@@ -24160,8 +24160,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "FR",
+    "bankCode": "BKCH",
+    "countryCode": "FR",
     "branchCode": "013",
     "SWIFT Code": "BKCHFRPP013",
     "Bank Name": "BANK OF CHINA, PARIS BRANCH",
@@ -24173,8 +24173,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "FR",
+    "bankCode": "COMM",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "COMMFRPP",
     "Bank Name": "BANK OF COMMUNICATIONS (LUXEMBOURG) S.A. PARIS BRANCH",
@@ -24186,8 +24186,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "FR",
+    "bankCode": "BKID",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "BKIDFRPP",
     "Bank Name": "BANK OF INDIA",
@@ -24199,8 +24199,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "FR",
+    "bankCode": "PICT",
+    "countryCode": "FR",
     "branchCode": "ROB",
     "SWIFT Code": "PICTFRPPROB",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE PARIS",
@@ -24212,8 +24212,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "FR",
+    "bankCode": "PICT",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "PICTFRPP",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCCURSALE DE PARIS",
@@ -24225,8 +24225,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CEI",
     "SWIFT Code": "ISAEFRPPCEI",
     "Bank Name": "CACEIS BANK",
@@ -24238,8 +24238,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "EQI",
     "SWIFT Code": "ISAEFRPPEQI",
     "Bank Name": "CACEIS BANK",
@@ -24251,8 +24251,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "ERF",
     "SWIFT Code": "ISAEFRPPERF",
     "Bank Name": "CACEIS BANK",
@@ -24264,8 +24264,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "NAT",
     "SWIFT Code": "ISAEFRPPNAT",
     "Bank Name": "CACEIS BANK",
@@ -24277,8 +24277,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "OWN",
     "SWIFT Code": "ISAEFRPPOWN",
     "Bank Name": "CACEIS BANK",
@@ -24290,8 +24290,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "UCB",
     "SWIFT Code": "ISAEFRPPUCB",
     "Bank Name": "CACEIS BANK",
@@ -24303,8 +24303,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "UCM",
     "SWIFT Code": "ISAEFRPPUCM",
     "Bank Name": "CACEIS BANK",
@@ -24316,8 +24316,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "WST",
     "SWIFT Code": "ISAEFRPPWST",
     "Bank Name": "CACEIS BANK",
@@ -24329,8 +24329,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "4SF",
     "SWIFT Code": "ISAEFRPP4SF",
     "Bank Name": "CACEIS BANK",
@@ -24342,8 +24342,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "INS",
     "SWIFT Code": "ISAEFRPPINS",
     "Bank Name": "CACEIS BANK",
@@ -24355,8 +24355,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "UCI",
     "SWIFT Code": "ISAEFRPPUCI",
     "Bank Name": "CACEIS BANK",
@@ -24368,8 +24368,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "PER",
     "SWIFT Code": "ISAEFRPPPER",
     "Bank Name": "CACEIS BANK",
@@ -24381,8 +24381,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "CBL",
     "SWIFT Code": "ISAEFRPPCBL",
     "Bank Name": "CACEIS BANK",
@@ -24394,8 +24394,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "ISC",
     "SWIFT Code": "ISAEFRPPISC",
     "Bank Name": "CACEIS BANK",
@@ -24407,8 +24407,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "ISO",
     "SWIFT Code": "ISAEFRPPISO",
     "Bank Name": "CACEIS BANK",
@@ -24420,8 +24420,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "IMC",
     "SWIFT Code": "ISAEFRPPIMC",
     "Bank Name": "CACEIS BANK",
@@ -24433,8 +24433,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "IMO",
     "SWIFT Code": "ISAEFRPPIMO",
     "Bank Name": "CACEIS BANK",
@@ -24446,8 +24446,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "MFS",
     "SWIFT Code": "ISAEFRPPMFS",
     "Bank Name": "CACEIS BANK",
@@ -24459,8 +24459,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "SOL",
     "SWIFT Code": "ISAEFRPPSOL",
     "Bank Name": "CACEIS BANK",
@@ -24472,8 +24472,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "S3C",
     "SWIFT Code": "ISAEFRPPS3C",
     "Bank Name": "CACEIS BANK",
@@ -24485,8 +24485,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "PFS",
     "SWIFT Code": "ISAEFRPPPFS",
     "Bank Name": "CACEIS BANK",
@@ -24498,8 +24498,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "SA1",
     "SWIFT Code": "ISAEFRPPSA1",
     "Bank Name": "CACEIS BANK",
@@ -24511,8 +24511,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "SA2",
     "SWIFT Code": "ISAEFRPPSA2",
     "Bank Name": "CACEIS BANK",
@@ -24524,8 +24524,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "FR",
+    "bankCode": "ISAE",
+    "countryCode": "FR",
     "branchCode": "MID",
     "SWIFT Code": "ISAEFRPPMID",
     "Bank Name": "CACEIS BANK",
@@ -24537,8 +24537,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "FR",
+    "bankCode": "FNET",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "FNETFRPP",
     "Bank Name": "CACEIS FUND ADMINISTRATION",
@@ -24550,8 +24550,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DISF",
-    "bankCode": "FR",
+    "bankCode": "DISF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "DISFFRPP",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK FRANCE S.A.",
@@ -24563,8 +24563,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DISF",
-    "bankCode": "FR",
+    "bankCode": "DISF",
+    "countryCode": "FR",
     "branchCode": "MOD",
     "SWIFT Code": "DISFFRPPMOD",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK FRANCE S.A.",
@@ -24576,8 +24576,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DISF",
-    "bankCode": "FR",
+    "bankCode": "DISF",
+    "countryCode": "FR",
     "branchCode": "INV",
     "SWIFT Code": "DISFFRPPINV",
     "Bank Name": "CACEIS INVESTOR SERVICES BANK FRANCE S.A.",
@@ -24589,8 +24589,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCIF",
-    "bankCode": "FR",
+    "bankCode": "CCIF",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CCIFFRPP",
     "Bank Name": "CAISSE CENTRALE DU CREDIT IMMOBILIER DE FRANCE",
@@ -24602,8 +24602,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "627",
     "SWIFT Code": "CEPAFRPP627",
     "Bank Name": "CAISSE D EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE",
@@ -24615,8 +24615,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "802",
     "SWIFT Code": "CEPAFRPP802",
     "Bank Name": "CAISSE D EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE",
@@ -24628,8 +24628,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "BRU",
     "SWIFT Code": "CEPAFRPPBRU",
     "Bank Name": "CAISSE D EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE",
@@ -24641,8 +24641,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "333",
     "SWIFT Code": "CEPAFRPP333",
     "Bank Name": "CAISSE D'EPARGNE AQUITAINE POITOU CHARENTES",
@@ -24654,8 +24654,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "871",
     "SWIFT Code": "CEPAFRPP871",
     "Bank Name": "CAISSE D'EPARGNE AUVERGNE LIMOUSIN",
@@ -24667,8 +24667,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "444",
     "SWIFT Code": "CEPAFRPP444",
     "Bank Name": "CAISSE D'EPARGNE BRETAGNE PAYS DE LOIRE",
@@ -24680,8 +24680,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "131",
     "SWIFT Code": "CEPAFRPP131",
     "Bank Name": "CAISSE D'EPARGNE CEPAC",
@@ -24693,8 +24693,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "831",
     "SWIFT Code": "CEPAFRPP831",
     "Bank Name": "CAISSE D'EPARGNE COTE D'AZUR",
@@ -24706,8 +24706,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "213",
     "SWIFT Code": "CEPAFRPP213",
     "Bank Name": "CAISSE D'EPARGNE DE BOURGOGNE FRANCHE-COMTE",
@@ -24719,8 +24719,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "426",
     "SWIFT Code": "CEPAFRPP426",
     "Bank Name": "CAISSE D'EPARGNE DE LOIRE DROME ARDECHE",
@@ -24732,8 +24732,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "313",
     "SWIFT Code": "CEPAFRPP313",
     "Bank Name": "CAISSE D'EPARGNE DE MIDI PYRENEES",
@@ -24745,8 +24745,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "348",
     "SWIFT Code": "CEPAFRPP348",
     "Bank Name": "CAISSE D'EPARGNE DU LANGUEDOC ROUSSILLON",
@@ -24758,8 +24758,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "513",
     "SWIFT Code": "CEPAFRPP513",
     "Bank Name": "CAISSE D'EPARGNE GRAND EST EUROPE",
@@ -24771,8 +24771,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "670",
     "SWIFT Code": "CEPAFRPP670",
     "Bank Name": "CAISSE D'EPARGNE GRAND EST EUROPE",
@@ -24784,8 +24784,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "751",
     "SWIFT Code": "CEPAFRPP751",
     "Bank Name": "CAISSE D'EPARGNE ILE DE FRANCE",
@@ -24797,8 +24797,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "450",
     "SWIFT Code": "CEPAFRPP450",
     "Bank Name": "CAISSE D'EPARGNE LOIRE CENTRE",
@@ -24810,8 +24810,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "142",
     "SWIFT Code": "CEPAFRPP142",
     "Bank Name": "CAISSE D'EPARGNE NORMANDIE",
@@ -24823,8 +24823,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "FR",
+    "bankCode": "CEPA",
+    "countryCode": "FR",
     "branchCode": "382",
     "SWIFT Code": "CEPAFRPP382",
     "Bank Name": "CAISSE D'EPARGNE RHONE ALPES",
@@ -24836,8 +24836,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCMR",
-    "bankCode": "FR",
+    "bankCode": "CCMR",
+    "countryCode": "FR",
     "branchCode": "R2M",
     "SWIFT Code": "CCMRFR2M",
     "Bank Name": "CAISSE DE CREDIT MUNICIPAL DE MARSEILLE",
@@ -24849,8 +24849,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "FR",
+    "bankCode": "CDCG",
+    "countryCode": "FR",
     "branchCode": "RPP",
     "SWIFT Code": "CDCGFRPP",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -24862,8 +24862,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCG",
-    "bankCode": "FR",
+    "bankCode": "CDCG",
+    "countryCode": "FR",
     "branchCode": "CAC",
     "SWIFT Code": "CDCGFRPPCAC",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -24875,8 +24875,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CSM",
     "SWIFT Code": "SOGEFRPPCSM",
     "Bank Name": "SOCIETE GENERALE",
@@ -24888,8 +24888,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHY",
     "SWIFT Code": "SOGEFRPPCHY",
     "Bank Name": "SOCIETE GENERALE",
@@ -24901,8 +24901,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHM",
     "SWIFT Code": "SOGEFRPPCHM",
     "Bank Name": "SOCIETE GENERALE",
@@ -24914,8 +24914,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHS",
     "SWIFT Code": "SOGEFRPPCHS",
     "Bank Name": "SOCIETE GENERALE",
@@ -24927,8 +24927,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHT",
     "SWIFT Code": "SOGEFRPPCHT",
     "Bank Name": "SOCIETE GENERALE",
@@ -24940,8 +24940,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHX",
     "SWIFT Code": "SOGEFRPPCHX",
     "Bank Name": "SOCIETE GENERALE",
@@ -24953,8 +24953,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHA",
     "SWIFT Code": "SOGEFRPPCHA",
     "Bank Name": "SOCIETE GENERALE",
@@ -24966,8 +24966,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CHE",
     "SWIFT Code": "SOGEFRPPCHE",
     "Bank Name": "SOCIETE GENERALE",
@@ -24979,8 +24979,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CLF",
     "SWIFT Code": "SOGEFRPPCLF",
     "Bank Name": "SOCIETE GENERALE",
@@ -24992,8 +24992,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CLI",
     "SWIFT Code": "SOGEFRPPCLI",
     "Bank Name": "SOCIETE GENERALE",
@@ -25005,8 +25005,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "COG",
     "SWIFT Code": "SOGEFRPPCOG",
     "Bank Name": "SOCIETE GENERALE",
@@ -25018,8 +25018,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "COM",
     "SWIFT Code": "SOGEFRPPCOM",
     "Bank Name": "SOCIETE GENERALE",
@@ -25031,8 +25031,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CSH",
     "SWIFT Code": "SOGEFRPPCSH",
     "Bank Name": "SOCIETE GENERALE",
@@ -25044,8 +25044,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CIG",
     "SWIFT Code": "SOGEFRPPCIG",
     "Bank Name": "SOCIETE GENERALE",
@@ -25057,8 +25057,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DSE",
     "SWIFT Code": "SOGEFRPPDSE",
     "Bank Name": "SOCIETE GENERALE",
@@ -25070,8 +25070,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CBV",
     "SWIFT Code": "SOGEFRPPCBV",
     "Bank Name": "SOCIETE GENERALE",
@@ -25083,8 +25083,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CRE",
     "SWIFT Code": "SOGEFRPPCRE",
     "Bank Name": "SOCIETE GENERALE",
@@ -25096,8 +25096,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CEV",
     "SWIFT Code": "SOGEFRPPCEV",
     "Bank Name": "SOCIETE GENERALE",
@@ -25109,8 +25109,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "CRT",
     "SWIFT Code": "SOGEFRPPCRT",
     "Bank Name": "SOCIETE GENERALE",
@@ -25122,8 +25122,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DAX",
     "SWIFT Code": "SOGEFRPPDAX",
     "Bank Name": "SOCIETE GENERALE",
@@ -25135,8 +25135,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DIE",
     "SWIFT Code": "SOGEFRPPDIE",
     "Bank Name": "SOCIETE GENERALE",
@@ -25148,8 +25148,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DIG",
     "SWIFT Code": "SOGEFRPPDIG",
     "Bank Name": "SOCIETE GENERALE",
@@ -25161,8 +25161,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DIJ",
     "SWIFT Code": "SOGEFRPPDIJ",
     "Bank Name": "SOCIETE GENERALE",
@@ -25174,8 +25174,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DOU",
     "SWIFT Code": "SOGEFRPPDOU",
     "Bank Name": "SOCIETE GENERALE",
@@ -25187,8 +25187,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DRA",
     "SWIFT Code": "SOGEFRPPDRA",
     "Bank Name": "SOCIETE GENERALE",
@@ -25200,8 +25200,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DRX",
     "SWIFT Code": "SOGEFRPPDRX",
     "Bank Name": "SOCIETE GENERALE",
@@ -25213,8 +25213,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DUN",
     "SWIFT Code": "SOGEFRPPDUN",
     "Bank Name": "SOCIETE GENERALE",
@@ -25226,8 +25226,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "DKE",
     "SWIFT Code": "SOGEFRPPDKE",
     "Bank Name": "SOCIETE GENERALE",
@@ -25239,8 +25239,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ELB",
     "SWIFT Code": "SOGEFRPPELB",
     "Bank Name": "SOCIETE GENERALE",
@@ -25252,8 +25252,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EPY",
     "SWIFT Code": "SOGEFRPPEPY",
     "Bank Name": "SOCIETE GENERALE",
@@ -25265,8 +25265,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EPI",
     "SWIFT Code": "SOGEFRPPEPI",
     "Bank Name": "SOCIETE GENERALE",
@@ -25278,8 +25278,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ETA",
     "SWIFT Code": "SOGEFRPPETA",
     "Bank Name": "SOCIETE GENERALE",
@@ -25291,8 +25291,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EVX",
     "SWIFT Code": "SOGEFRPPEVX",
     "Bank Name": "SOCIETE GENERALE",
@@ -25304,8 +25304,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "EVR",
     "SWIFT Code": "SOGEFRPPEVR",
     "Bank Name": "SOCIETE GENERALE",
@@ -25317,8 +25317,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FEV",
     "SWIFT Code": "SOGEFRPPFEV",
     "Bank Name": "SOCIETE GENERALE",
@@ -25330,8 +25330,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FOX",
     "SWIFT Code": "SOGEFRPPFOX",
     "Bank Name": "SOCIETE GENERALE",
@@ -25343,8 +25343,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FON",
     "SWIFT Code": "SOGEFRPPFON",
     "Bank Name": "SOCIETE GENERALE",
@@ -25356,8 +25356,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ST2",
     "SWIFT Code": "SOGEFRPPST2",
     "Bank Name": "SOCIETE GENERALE",
@@ -25369,8 +25369,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GAR",
     "SWIFT Code": "SOGEFRPPGAR",
     "Bank Name": "SOCIETE GENERALE",
@@ -25382,8 +25382,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "FBM",
     "SWIFT Code": "SOGEFRPPFBM",
     "Bank Name": "SOCIETE GENERALE",
@@ -25395,8 +25395,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HRS",
     "SWIFT Code": "SOGEFRPPHRS",
     "Bank Name": "SOCIETE GENERALE",
@@ -25408,8 +25408,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GRA",
     "SWIFT Code": "SOGEFRPPGRA",
     "Bank Name": "SOCIETE GENERALE",
@@ -25421,8 +25421,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GRS",
     "SWIFT Code": "SOGEFRPPGRS",
     "Bank Name": "SOCIETE GENERALE",
@@ -25434,8 +25434,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GRL",
     "SWIFT Code": "SOGEFRPPGRL",
     "Bank Name": "SOCIETE GENERALE",
@@ -25447,8 +25447,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GRM",
     "SWIFT Code": "SOGEFRPPGRM",
     "Bank Name": "SOCIETE GENERALE",
@@ -25460,8 +25460,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "GVH",
     "SWIFT Code": "SOGEFRPPGVH",
     "Bank Name": "SOCIETE GENERALE",
@@ -25473,8 +25473,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HOU",
     "SWIFT Code": "SOGEFRPPHOU",
     "Bank Name": "SOCIETE GENERALE",
@@ -25486,8 +25486,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "HYE",
     "SWIFT Code": "SOGEFRPPHYE",
     "Bank Name": "SOCIETE GENERALE",
@@ -25499,8 +25499,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "ILM",
     "SWIFT Code": "SOGEFRPPILM",
     "Bank Name": "SOCIETE GENERALE",
@@ -25512,8 +25512,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "FR",
+    "bankCode": "SOGE",
+    "countryCode": "FR",
     "branchCode": "IVS",
     "SWIFT Code": "SOGEFRPPIVS",
     "Bank Name": "SOCIETE GENERALE",
@@ -25525,8 +25525,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "100",
     "SWIFT Code": "BDFEFR2T100",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25538,8 +25538,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "101",
     "SWIFT Code": "BDFEFR2T101",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25551,8 +25551,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "120",
     "SWIFT Code": "BDFEFR2T120",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25564,8 +25564,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "121",
     "SWIFT Code": "BDFEFR2T121",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25577,8 +25577,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "131",
     "SWIFT Code": "BDFEFR2T131",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25590,8 +25590,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "141",
     "SWIFT Code": "BDFEFR2T141",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25603,8 +25603,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "151",
     "SWIFT Code": "BDFEFR2T151",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25616,8 +25616,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "171",
     "SWIFT Code": "BDFEFR2T171",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25629,8 +25629,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "177",
     "SWIFT Code": "BDFEFR2T177",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25642,8 +25642,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "211",
     "SWIFT Code": "BDFEFR2T211",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25655,8 +25655,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "224",
     "SWIFT Code": "BDFEFR2T224",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25668,8 +25668,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "282",
     "SWIFT Code": "BDFEFR2T282",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25681,8 +25681,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "292",
     "SWIFT Code": "BDFEFR2T292",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25694,8 +25694,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "C30",
     "SWIFT Code": "BDFEFR2TC30",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25707,8 +25707,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CAI",
     "SWIFT Code": "BDFEFRPPCAI",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25720,8 +25720,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CMS",
     "SWIFT Code": "BDFEFR2TCMS",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25733,8 +25733,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "EUX",
     "SWIFT Code": "BDFEFR2TEUX",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25746,8 +25746,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "R2L",
     "SWIFT Code": "BDFEFR2L",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25759,8 +25759,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "IPM",
     "SWIFT Code": "BDFEFR2TIPM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25772,8 +25772,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "3GX",
     "SWIFT Code": "BDFEFR2T3GX",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25785,8 +25785,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "228",
     "SWIFT Code": "BDFEFR2T228",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25798,8 +25798,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "AUT",
     "SWIFT Code": "BDFEFR2TAUT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25811,8 +25811,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "AU2",
     "SWIFT Code": "BDFEFR2TAU2",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25824,8 +25824,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CBT",
     "SWIFT Code": "BDFEFR2TCBT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25837,8 +25837,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ALT",
     "SWIFT Code": "BDFEFR2TALT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25850,8 +25850,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FID",
     "SWIFT Code": "BDFEFR2TFID",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25863,8 +25863,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CP1",
     "SWIFT Code": "BDFEFR2TCP1",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25876,8 +25876,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CC1",
     "SWIFT Code": "BDFEFR2TCC1",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25889,8 +25889,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "FAC",
     "SWIFT Code": "BDFEFR2TFAC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25902,8 +25902,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "4CB",
     "SWIFT Code": "BDFEFR2T4CB",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25915,8 +25915,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "PIV",
     "SWIFT Code": "BDFEFR2TPIV",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25928,8 +25928,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "200",
     "SWIFT Code": "BDFEFR2T200",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25941,8 +25941,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "BDF",
     "SWIFT Code": "BDFEFR2TBDF",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25954,8 +25954,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "188",
     "SWIFT Code": "BDFEFR2T188",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25967,8 +25967,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "179",
     "SWIFT Code": "BDFEFR2T179",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25980,8 +25980,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E15",
     "SWIFT Code": "BDFEFR2TE15",
     "Bank Name": "BANQUE DE FRANCE",
@@ -25993,8 +25993,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "ESB",
     "SWIFT Code": "BDFEFR2TESB",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26006,8 +26006,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "IAM",
     "SWIFT Code": "BDFEFR2TIAM",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26019,8 +26019,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "143",
     "SWIFT Code": "BDFEFR2T143",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26032,8 +26032,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "E31",
     "SWIFT Code": "BDFEFR2TE31",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26045,8 +26045,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CAI",
     "SWIFT Code": "BDFEFR2TCAI",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26058,8 +26058,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "CBL",
     "SWIFT Code": "BDFEFR2TCBL",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26071,8 +26071,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "C31",
     "SWIFT Code": "BDFEFR2TC31",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26084,8 +26084,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "C51",
     "SWIFT Code": "BDFEFR2TC51",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26097,8 +26097,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "C10",
     "SWIFT Code": "BDFEFR2TC10",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26110,8 +26110,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "C50",
     "SWIFT Code": "BDFEFR2TC50",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26123,8 +26123,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SEE",
     "SWIFT Code": "BDFEFR2TSEE",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26136,8 +26136,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "SCC",
     "SWIFT Code": "BDFEFR2TSCC",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26149,8 +26149,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TIT",
     "SWIFT Code": "BDFEFR2TTIT",
     "Bank Name": "BANQUE DE FRANCE",
@@ -26162,8 +26162,8 @@ const france = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDFE",
-    "bankCode": "FR",
+    "bankCode": "BDFE",
+    "countryCode": "FR",
     "branchCode": "TRY",
     "SWIFT Code": "BDFEFR2TTRY",
     "Bank Name": "BANQUE DE FRANCE",

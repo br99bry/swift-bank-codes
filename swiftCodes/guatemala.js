@@ -1,7 +1,7 @@
 const guatemala = [
   {
-    "countryCode": "AMCN",
-    "bankCode": "GT",
+    "bankCode": "AMCN",
+    "countryCode": "GT",
     "branchCode": "TGT",
     "SWIFT Code": "AMCNGTGT",
     "Bank Name": "BAC REFORMADOR",
@@ -13,8 +13,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRO",
-    "bankCode": "GT",
+    "bankCode": "AGRO",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "AGROGTGC",
     "Bank Name": "BANCO AGROMERCANTIL DE GUATEMALA, S.A.",
@@ -26,8 +26,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTK",
-    "bankCode": "GT",
+    "bankCode": "AZTK",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "AZTKGTGC",
     "Bank Name": "BANCO AZTECA DE GUATEMALA",
@@ -39,8 +39,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDSO",
-    "bankCode": "GT",
+    "bankCode": "CDSO",
+    "countryCode": "GT",
     "branchCode": "TG2",
     "SWIFT Code": "CDSOGTG2",
     "Bank Name": "BANCO CREDICORP SOCIEDAD ANNIMA",
@@ -52,8 +52,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDCT",
-    "bankCode": "GT",
+    "bankCode": "BDCT",
+    "countryCode": "GT",
     "branchCode": "TGT",
     "SWIFT Code": "BDCTGTGT",
     "Bank Name": "BANCO DE CREDITO, S.A.",
@@ -65,8 +65,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGU",
-    "bankCode": "GT",
+    "bankCode": "BAGU",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "BAGUGTGC",
     "Bank Name": "BANCO DE GUATEMALA",
@@ -78,8 +78,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGU",
-    "bankCode": "GT",
+    "bankCode": "BAGU",
+    "countryCode": "GT",
     "branchCode": "TGB",
     "SWIFT Code": "BAGUGTGB",
     "Bank Name": "BANCO DE GUATEMALA",
@@ -91,8 +91,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRAJ",
-    "bankCode": "GT",
+    "bankCode": "TRAJ",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "TRAJGTGC",
     "Bank Name": "BANCO DE LOS TRABAJADORES",
@@ -104,8 +104,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCOH",
-    "bankCode": "GT",
+    "bankCode": "FCOH",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "FCOHGTGC",
     "Bank Name": "BANCO FICOHSA GUATEMALA",
@@ -117,8 +117,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTCO",
-    "bankCode": "GT",
+    "bankCode": "GTCO",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "GTCOGTGC",
     "Bank Name": "BANCO G AND T CONTINENTAL, S.A.",
@@ -130,8 +130,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INDL",
-    "bankCode": "GT",
+    "bankCode": "INDL",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "INDLGTGC",
     "Bank Name": "BANCO INDUSTRIAL, S.A.",
@@ -143,8 +143,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINM",
-    "bankCode": "GT",
+    "bankCode": "BINM",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "BINMGTGC",
     "Bank Name": "BANCO INMOBILIARIO, S.A.",
@@ -156,8 +156,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIBI",
-    "bankCode": "GT",
+    "bankCode": "DIBI",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "DIBIGTGC",
     "Bank Name": "BANCO INTERNACIONAL, S.A.",
@@ -169,8 +169,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIVN",
-    "bankCode": "GT",
+    "bankCode": "FIVN",
+    "countryCode": "GT",
     "branchCode": "TGT",
     "SWIFT Code": "FIVNGTGT",
     "Bank Name": "BANCO INV",
@@ -182,8 +182,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSOA",
-    "bankCode": "GT",
+    "bankCode": "NSOA",
+    "countryCode": "GT",
     "branchCode": "TGT",
     "SWIFT Code": "NSOAGTGT",
     "Bank Name": "BANCO NEXA",
@@ -195,8 +195,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRC",
-    "bankCode": "GT",
+    "bankCode": "BPRC",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "BPRCGTGC",
     "Bank Name": "BANCO PROMERICA, S.A.",
@@ -208,8 +208,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRC",
-    "bankCode": "GT",
+    "bankCode": "BPRC",
+    "countryCode": "GT",
     "branchCode": "GUA",
     "SWIFT Code": "BPRCGTGCGUA",
     "Bank Name": "BANCO PROMERICA, S.A.",
@@ -221,8 +221,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRRL",
-    "bankCode": "GT",
+    "bankCode": "BRRL",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "BRRLGTGC",
     "Bank Name": "BANRURAL S.A.",
@@ -234,8 +234,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GT",
+    "bankCode": "CITI",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "CITIGTGC",
     "Bank Name": "CITIBANK N.A. SUCURSAL GUATEMALA",
@@ -247,8 +247,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHNA",
-    "bankCode": "GT",
+    "bankCode": "CHNA",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "CHNAGTGC",
     "Bank Name": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
@@ -260,8 +260,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCIC",
-    "bankCode": "GT",
+    "bankCode": "OCIC",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "OCICGTGC",
     "Bank Name": "FINANCIERA DE OCCIDENTE, S.A.",
@@ -273,8 +273,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICGS",
-    "bankCode": "GT",
+    "bankCode": "ICGS",
+    "countryCode": "GT",
     "branchCode": "TGC",
     "SWIFT Code": "ICGSGTGC",
     "Bank Name": "IMAGENES COMPUTARIZADAS DE GUATEMALA, S. A.",
@@ -286,8 +286,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIVB",
-    "bankCode": "GT",
+    "bankCode": "VIVB",
+    "countryCode": "GT",
     "branchCode": "TG2",
     "SWIFT Code": "VIVBGTG2",
     "Bank Name": "PRIMER BANCO DE AHORRO Y PRSTAMO PARA LA VIVIENDA FAMILIAR, S.A.",
@@ -299,8 +299,8 @@ const guatemala = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIVB",
-    "bankCode": "GT",
+    "bankCode": "VIVB",
+    "countryCode": "GT",
     "branchCode": "TGT",
     "SWIFT Code": "VIVBGTGT",
     "Bank Name": "VIVIBANCO, SOCIEDAD ANONIMA",

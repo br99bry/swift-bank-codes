@@ -1,7 +1,7 @@
 const southKorea = [
   {
-    "countryCode": "CEMM",
-    "bankCode": "KR",
+    "bankCode": "CEMM",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CEMMKRSE",
     "Bank Name": "LG CHEM, LTD",
@@ -13,8 +13,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGDT",
-    "bankCode": "KR",
+    "bankCode": "LGDT",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "LGDTKRSE",
     "Bank Name": "LG DISPLAY",
@@ -26,8 +26,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGET",
-    "bankCode": "KR",
+    "bankCode": "LGET",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "LGETKRSE",
     "Bank Name": "LG ELECTRONICS INC.",
@@ -39,8 +39,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LTCH",
-    "bankCode": "KR",
+    "bankCode": "LTCH",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "LTCHKRSE",
     "Bank Name": "LOTTE CHEMICAL CORPORATION",
@@ -52,8 +52,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDCC",
-    "bankCode": "KR",
+    "bankCode": "LDCC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "LDCCKRSE",
     "Bank Name": "LOTTE DATA COMMUNICATION COMPANY",
@@ -65,8 +65,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBFK",
-    "bankCode": "KR",
+    "bankCode": "MBFK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MBFKKRSE",
     "Bank Name": "MERCEDES-BENZ FINANCIAL SERVICES KOREA LTD.",
@@ -78,8 +78,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBKR",
-    "bankCode": "KR",
+    "bankCode": "MBKR",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MBKRKRSE",
     "Bank Name": "MERCEDES-BENZ KOREA LIMITED",
@@ -91,8 +91,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFBC",
-    "bankCode": "KR",
+    "bankCode": "KFBC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KFBCKRSE",
     "Bank Name": "MERITZ SECURITIES CO.,LTD",
@@ -104,8 +104,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLKR",
-    "bankCode": "KR",
+    "bankCode": "MLKR",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MLKRKRSE",
     "Bank Name": "MERRILL LYNCH INTERNATIONAL LLC, SEOUL BRANCH",
@@ -117,8 +117,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTC",
-    "bankCode": "KR",
+    "bankCode": "MBTC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MBTCKRSE",
     "Bank Name": "METROPOLITAN BANK AND TRUST COMPANY",
@@ -130,8 +130,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIAE",
-    "bankCode": "KR",
+    "bankCode": "MIAE",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MIAEKRSE",
     "Bank Name": "MIRAE ASSET SECURITIES CO., LTD.",
@@ -143,8 +143,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIAE",
-    "bankCode": "KR",
+    "bankCode": "MIAE",
+    "countryCode": "KR",
     "branchCode": "CUS",
     "SWIFT Code": "MIAEKRSECUS",
     "Bank Name": "MIRAE ASSET SECURITIES CO., LTD.",
@@ -156,8 +156,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "KR",
+    "bankCode": "MHCB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MHCBKRSE",
     "Bank Name": "MIZUHO BANK, LTD., SEOUL BRANCH",
@@ -169,8 +169,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNNN",
-    "bankCode": "KR",
+    "bankCode": "MNNN",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "MNNNKRS2",
     "Bank Name": "MOIN, INC.",
@@ -182,8 +182,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSKR",
-    "bankCode": "KR",
+    "bankCode": "MSKR",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "MSKRKRSX",
     "Bank Name": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
@@ -195,8 +195,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSKR",
-    "bankCode": "KR",
+    "bankCode": "MSKR",
+    "countryCode": "KR",
     "branchCode": "TSY",
     "SWIFT Code": "MSKRKRSXTSY",
     "Bank Name": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
@@ -208,8 +208,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSKR",
-    "bankCode": "KR",
+    "bankCode": "MSKR",
+    "countryCode": "KR",
     "branchCode": "GPR",
     "SWIFT Code": "MSKRKRSXGPR",
     "Bank Name": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
@@ -221,8 +221,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBK",
-    "bankCode": "KR",
+    "bankCode": "MSBK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MSBKKRSE",
     "Bank Name": "MORGAN STANLEY BANK INTERNATIONAL LIMITED, SEOUL BRANCH",
@@ -234,8 +234,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTIR",
-    "bankCode": "KR",
+    "bankCode": "MTIR",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "MTIRKR22",
     "Bank Name": "MTI CORPORATION",
@@ -247,8 +247,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "KR",
+    "bankCode": "BOTK",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "BOTKKRSX",
     "Bank Name": "MUFG BANK, LTD., SEOUL BRANCH",
@@ -260,8 +260,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "KR",
+    "bankCode": "NBPA",
+    "countryCode": "KR",
     "branchCode": "RSI",
     "SWIFT Code": "NBPAKRSI",
     "Bank Name": "NATIONAL BANK OF PAKISTAN, SEOUL BRANCH KOREA",
@@ -273,8 +273,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WISH",
-    "bankCode": "KR",
+    "bankCode": "WISH",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "WISHKRSE",
     "Bank Name": "NH INVESTMENT AND SECURITIES CO.,LTD.",
@@ -286,8 +286,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WISH",
-    "bankCode": "KR",
+    "bankCode": "WISH",
+    "countryCode": "KR",
     "branchCode": "CUS",
     "SWIFT Code": "WISHKRSECUS",
     "Bank Name": "NH INVESTMENT AND SECURITIES CO.,LTD.",
@@ -299,8 +299,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMEG",
-    "bankCode": "KR",
+    "bankCode": "AMEG",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "AMEGKRSE",
     "Bank Name": "NH-AMUNDI ASSET MANAGEMENT CO., LTD.",
@@ -312,8 +312,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFIK",
-    "bankCode": "KR",
+    "bankCode": "NFIK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "NFIKKRSE",
     "Bank Name": "NOMURA FINANCIAL INVESTMENT (KOREA) CO., LTD.",
@@ -325,8 +325,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACF",
-    "bankCode": "KR",
+    "bankCode": "NACF",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "NACFKRSE",
     "Bank Name": "NONGHYUP BANK (FORMERLY KNOWN AS NATIONAL AGRICULTURAL COOPERATIVE FEDERATION)",
@@ -338,8 +338,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSIM",
-    "bankCode": "KR",
+    "bankCode": "OSIM",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "OSIMKRSE",
     "Bank Name": "OSSTEM IMPLANT CO., LTD.",
@@ -351,8 +351,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "KR",
+    "bankCode": "OCBC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "OCBCKRSE",
     "Bank Name": "OVERSEA-CHINESE BANKING COPORATION LIMITED, SEOUL BRANCH",
@@ -364,8 +364,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMCF",
-    "bankCode": "KR",
+    "bankCode": "PMCF",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "PMCFKRSE",
     "Bank Name": "PMCFCK",
@@ -377,8 +377,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSCC",
-    "bankCode": "KR",
+    "bankCode": "PSCC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "PSCCKRSE",
     "Bank Name": "POSCO",
@@ -390,8 +390,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "KR",
+    "bankCode": "SECT",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "SECTKRS2",
     "Bank Name": "SAMSUNG ACTIVE ASSET MANAGEMENT CO., LTD.",
@@ -403,8 +403,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SITA",
-    "bankCode": "KR",
+    "bankCode": "SITA",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "SITAKRS2",
     "Bank Name": "SAMSUNG ASSET MANAGEMENT CO.,LTD.",
@@ -416,8 +416,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNT",
-    "bankCode": "KR",
+    "bankCode": "SCNT",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SCNTKRSE",
     "Bank Name": "SAMSUNG C AND T CORPORATION",
@@ -429,8 +429,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCNT",
-    "bankCode": "KR",
+    "bankCode": "SCNT",
+    "countryCode": "KR",
     "branchCode": "RST",
     "SWIFT Code": "SCNTKRST",
     "Bank Name": "SAMSUNG C AND T CORPORATION TRADING AND INVESTMENT",
@@ -442,8 +442,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEMT",
-    "bankCode": "KR",
+    "bankCode": "SEMT",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "SEMTKR22",
     "Bank Name": "SAMSUNG ELECTRO-MECHANICS CO., LTD",
@@ -455,8 +455,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "KR",
+    "bankCode": "SECT",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SECTKRSE",
     "Bank Name": "SAMSUNG ELECTRONICS CO., LTD.",
@@ -468,8 +468,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMSG",
-    "bankCode": "KR",
+    "bankCode": "SMSG",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SMSGKRSE",
     "Bank Name": "SAMSUNG ENGINEERING CO., LTD",
@@ -481,8 +481,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFMI",
-    "bankCode": "KR",
+    "bankCode": "SFMI",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SFMIKRSE",
     "Bank Name": "SAMSUNG FIRE AND MARINE INSURANCE CO., LTD",
@@ -494,8 +494,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSHI",
-    "bankCode": "KR",
+    "bankCode": "SSHI",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SSHIKRSE",
     "Bank Name": "SAMSUNG HEAVY INDUSTRIES CO., LTD.",
@@ -507,8 +507,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSLI",
-    "bankCode": "KR",
+    "bankCode": "SSLI",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SSLIKRSE",
     "Bank Name": "SAMSUNG LIFE INSURANCE CO., LTD",
@@ -520,8 +520,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSDI",
-    "bankCode": "KR",
+    "bankCode": "SSDI",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "SSDIKR22",
     "Bank Name": "SAMSUNG SDI CO.,LTD.",
@@ -533,8 +533,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSDS",
-    "bankCode": "KR",
+    "bankCode": "SSDS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SSDSKRSE",
     "Bank Name": "SAMSUNG SDS CO., LTD.",
@@ -546,8 +546,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMC",
-    "bankCode": "KR",
+    "bankCode": "SAMC",
+    "countryCode": "KR",
     "branchCode": "RSL",
     "SWIFT Code": "SAMCKRSL",
     "Bank Name": "SAMSUNG SECURITIES CO.,LTD",
@@ -559,8 +559,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMC",
-    "bankCode": "KR",
+    "bankCode": "SAMC",
+    "countryCode": "KR",
     "branchCode": "CUS",
     "SWIFT Code": "SAMCKRSLCUS",
     "Bank Name": "SAMSUNG SECURITIES CO.,LTD",
@@ -572,8 +572,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWEI",
-    "bankCode": "KR",
+    "bankCode": "SWEI",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SWEIKRSE",
     "Bank Name": "SAMSUNG WELSTORY INCORPORATED",
@@ -585,8 +585,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEGN",
-    "bankCode": "KR",
+    "bankCode": "SEGN",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SEGNKRSE",
     "Bank Name": "SEEGENE, INC.",
@@ -598,8 +598,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNTB",
-    "bankCode": "KR",
+    "bankCode": "SNTB",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "SNTBKRS2",
     "Bank Name": "SENTBE INC",
@@ -611,8 +611,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSGI",
-    "bankCode": "KR",
+    "bankCode": "KSGI",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KSGIKRSE",
     "Bank Name": "SEOUL GUARANTEE INSURANCE COMPANY",
@@ -624,8 +624,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRVE",
-    "bankCode": "KR",
+    "bankCode": "SRVE",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SRVEKRSE",
     "Bank Name": "SERVEONE CO., LTD.",
@@ -637,8 +637,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSE",
-    "bankCode": "KR",
+    "bankCode": "SGSE",
+    "countryCode": "KR",
     "branchCode": "RSL",
     "SWIFT Code": "SGSEKRSL",
     "Bank Name": "SG SECURITIES KOREA CO., LTD.",
@@ -650,8 +650,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSAT",
-    "bankCode": "KR",
+    "bankCode": "SSAT",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SSATKRSE",
     "Bank Name": "SHINHAN ASSET MANAGEMENT CO.,LTD.",
@@ -663,8 +663,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KR",
+    "bankCode": "SHBK",
+    "countryCode": "KR",
     "branchCode": "CLS",
     "SWIFT Code": "SHBKKRSECLS",
     "Bank Name": "SHINHAN BANK",
@@ -676,8 +676,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KR",
+    "bankCode": "SHBK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SHBKKRSE",
     "Bank Name": "SHINHAN BANK",
@@ -689,8 +689,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KR",
+    "bankCode": "SHBK",
+    "countryCode": "KR",
     "branchCode": "CUS",
     "SWIFT Code": "SHBKKRSECUS",
     "Bank Name": "SHINHAN BANK",
@@ -702,8 +702,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KR",
+    "bankCode": "SHBK",
+    "countryCode": "KR",
     "branchCode": "KPO",
     "SWIFT Code": "SHBKKRSEKPO",
     "Bank Name": "SHINHAN BANK",
@@ -715,8 +715,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "KR",
+    "bankCode": "SHBK",
+    "countryCode": "KR",
     "branchCode": "TST",
     "SWIFT Code": "SHBKKRSETST",
     "Bank Name": "SHINHAN BANK",
@@ -728,8 +728,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSIS",
-    "bankCode": "KR",
+    "bankCode": "SSIS",
+    "countryCode": "KR",
     "branchCode": "RSS",
     "SWIFT Code": "SSISKRSS",
     "Bank Name": "SHINHAN SECURITIES CO., LTD.",
@@ -741,8 +741,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIOK",
-    "bankCode": "KR",
+    "bankCode": "BIOK",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "BIOKKR22",
     "Bank Name": "SK BIOTEK",
@@ -754,8 +754,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOCO",
-    "bankCode": "KR",
+    "bankCode": "IOCO",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "IOCOKRSE",
     "Bank Name": "SK INNOVATION CO., LTD.",
@@ -767,8 +767,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMIE",
-    "bankCode": "KR",
+    "bankCode": "SMIE",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "SMIEKRS2",
     "Bank Name": "SMILEGATE ASSET MANAGEMENT INC.",
@@ -780,8 +780,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "KR",
+    "bankCode": "SOGE",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SOGEKRSE",
     "Bank Name": "SOCIETE GENERALE, SEOUL BRANCH",
@@ -793,8 +793,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "KR",
+    "bankCode": "SCBL",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SCBLKRSE",
     "Bank Name": "STANDARD CHARTERED BANK KOREA LIMITED",
@@ -806,8 +806,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "KR",
+    "bankCode": "SCBL",
+    "countryCode": "KR",
     "branchCode": "EQI",
     "SWIFT Code": "SCBLKRSEEQI",
     "Bank Name": "STANDARD CHARTERED BANK KOREA LIMITED",
@@ -819,8 +819,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "KR",
+    "bankCode": "SBIN",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SBINKRSE",
     "Bank Name": "STATE BANK OF INDIA",
@@ -832,8 +832,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "KR",
+    "bankCode": "SBOS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SBOSKRSE",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY, KOREA BRANCH",
@@ -845,8 +845,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFFC",
-    "bankCode": "KR",
+    "bankCode": "NFFC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "NFFCKRSE",
     "Bank Name": "SUHYUP BANK",
@@ -858,8 +858,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "KR",
+    "bankCode": "SMBC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SMBCKRSE",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -871,8 +871,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAUS",
-    "bankCode": "KR",
+    "bankCode": "TAUS",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "TAUSKRS2",
     "Bank Name": "TAURUS ASSET MANAGEMENT CO., LTD.",
@@ -884,8 +884,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "KR",
+    "bankCode": "IRVT",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "IRVTKRSX",
     "Bank Name": "THE BANK OF NEW YORK MELLON, SEOUL BRANCH",
@@ -897,8 +897,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXIK",
-    "bankCode": "KR",
+    "bankCode": "EXIK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "EXIKKRSE",
     "Bank Name": "THE EXPORT-IMPORT BANK OF KOREA",
@@ -910,8 +910,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXIK",
-    "bankCode": "KR",
+    "bankCode": "EXIK",
+    "countryCode": "KR",
     "branchCode": "FEF",
     "SWIFT Code": "EXIKKRSEFEF",
     "Bank Name": "THE EXPORT-IMPORT BANK OF KOREA",
@@ -923,8 +923,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXIK",
-    "bankCode": "KR",
+    "bankCode": "EXIK",
+    "countryCode": "KR",
     "branchCode": "IFD",
     "SWIFT Code": "EXIKKRSEIFD",
     "Bank Name": "THE EXPORT-IMPORT BANK OF KOREA",
@@ -936,8 +936,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "KR",
+    "bankCode": "HSBC",
+    "countryCode": "KR",
     "branchCode": "BSN",
     "SWIFT Code": "HSBCKRSEBSN",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
@@ -949,8 +949,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "KR",
+    "bankCode": "HSBC",
+    "countryCode": "KR",
     "branchCode": "CLS",
     "SWIFT Code": "HSBCKRSECLS",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
@@ -962,8 +962,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "KR",
+    "bankCode": "HSBC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HSBCKRSE",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
@@ -975,8 +975,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIAE",
-    "bankCode": "KR",
+    "bankCode": "TIAE",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "TIAEKRS2",
     "Bank Name": "TI ASSET MANAGEMENT CO., LTD.",
@@ -988,8 +988,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOBN",
-    "bankCode": "KR",
+    "bankCode": "TOBN",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "TOBNKRSE",
     "Bank Name": "TOSSBANK CORP",
@@ -1001,8 +1001,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIHB",
-    "bankCode": "KR",
+    "bankCode": "FIHB",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "FIHBKRS2",
     "Bank Name": "U FINTECH HUB INC.",
@@ -1014,8 +1014,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAF",
-    "bankCode": "KR",
+    "bankCode": "UBAF",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "UBAFKRSX",
     "Bank Name": "U.B.A.F.-UNION DE BANQUES ARABES ET FRANCAISES",
@@ -1027,8 +1027,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "KR",
+    "bankCode": "UOVB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "UOVBKRSE",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED, SEOUL BRANCH",
@@ -1040,8 +1040,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "KR",
+    "bankCode": "PNBP",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "PNBPKRSX",
     "Bank Name": "WELLS FARGO BANK, N.A., SEOUL BRANCH",
@@ -1053,8 +1053,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIOO",
-    "bankCode": "KR",
+    "bankCode": "WIOO",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "WIOOKRS2",
     "Bank Name": "WIREBARLEY CORPORATION",
@@ -1066,8 +1066,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "KR",
+    "bankCode": "HVBK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HVBKKRSE",
     "Bank Name": "WOORI BANK, SEOUL",
@@ -1079,8 +1079,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "KR",
+    "bankCode": "HVBK",
+    "countryCode": "KR",
     "branchCode": "CUS",
     "SWIFT Code": "HVBKKRSECUS",
     "Bank Name": "WOORI BANK, SEOUL",
@@ -1092,8 +1092,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHMB",
-    "bankCode": "KR",
+    "bankCode": "KHMB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KHMBKRSE",
     "Bank Name": "WOORI INVESTMENT BANK",
@@ -1105,8 +1105,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMBK",
-    "bankCode": "KR",
+    "bankCode": "YMBK",
+    "countryCode": "KR",
     "branchCode": "R2P",
     "SWIFT Code": "YMBKKR2P",
     "Bank Name": "YAMAGUCHI BANK, LTD., THE, BUSAN BRANCH",
@@ -1118,8 +1118,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TYMB",
-    "bankCode": "KR",
+    "bankCode": "TYMB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "TYMBKRSE",
     "Bank Name": "YUANTA SECURITIES KOREA CO.,LTD",
@@ -1131,8 +1131,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYBE",
-    "bankCode": "KR",
+    "bankCode": "HYBE",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HYBEKRSE",
     "Bank Name": "HYBE CO., LTD",
@@ -1144,8 +1144,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEGC",
-    "bankCode": "KR",
+    "bankCode": "HEGC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HEGCKRSE",
     "Bank Name": "HYUNDAI ENGINEERING AND CONSTRUCTION CO., LTD.",
@@ -1157,8 +1157,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYEC",
-    "bankCode": "KR",
+    "bankCode": "HYEC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HYECKRSE",
     "Bank Name": "HYUNDAI ENGINEERING CO.,LTD.",
@@ -1170,8 +1170,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HGLO",
-    "bankCode": "KR",
+    "bankCode": "HGLO",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HGLOKRSE",
     "Bank Name": "HYUNDAI GLOVIS CO. LTD.",
@@ -1183,8 +1183,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYMO",
-    "bankCode": "KR",
+    "bankCode": "HYMO",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HYMOKRSE",
     "Bank Name": "HYUNDAI MOBIS, CO., LTD.",
@@ -1196,8 +1196,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYSC",
-    "bankCode": "KR",
+    "bankCode": "HYSC",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "HYSCKR22",
     "Bank Name": "HYUNDAI STEEL",
@@ -1209,8 +1209,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKS",
-    "bankCode": "KR",
+    "bankCode": "IBKS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "IBKSKRSE",
     "Bank Name": "IBK SECURITIES CO., LTD.",
@@ -1222,8 +1222,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGAA",
-    "bankCode": "KR",
+    "bankCode": "IGAA",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "IGAAKRS2",
     "Bank Name": "IGIS ASSET MANAGEMENT CO., LTD",
@@ -1235,8 +1235,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "KR",
+    "bankCode": "ICBK",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "ICBKKRSE",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SEOUL BRANCH",
@@ -1248,8 +1248,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "KR",
+    "bankCode": "IBKO",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "IBKOKRSE",
     "Bank Name": "INDUSTRIAL BANK OF KOREA",
@@ -1261,8 +1261,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "KR",
+    "bankCode": "INGB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "INGBKRSE",
     "Bank Name": "ING BANK N.V.",
@@ -1274,8 +1274,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "KR",
+    "bankCode": "INGB",
+    "countryCode": "KR",
     "branchCode": "RSS",
     "SWIFT Code": "INGBKRSS",
     "Bank Name": "ING BANK N.V., SEOUL SECURITIES",
@@ -1287,8 +1287,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "KR",
+    "bankCode": "CHAS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CHASKRSE",
     "Bank Name": "J.P. MORGAN SECURITIES (FAR EAST) LTD",
@@ -1300,8 +1300,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "KR",
+    "bankCode": "CHAS",
+    "countryCode": "KR",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASKRSEENQ",
     "Bank Name": "J.P. MORGAN SECURITIES (FAR EAST) LTD",
@@ -1313,8 +1313,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JJBK",
-    "bankCode": "KR",
+    "bankCode": "JJBK",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "JJBKKR22",
     "Bank Name": "JEJU BANK",
@@ -1326,8 +1326,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEON",
-    "bankCode": "KR",
+    "bankCode": "JEON",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "JEONKRSE",
     "Bank Name": "JEONBUK BANK",
@@ -1339,8 +1339,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JEON",
-    "bankCode": "KR",
+    "bankCode": "JEON",
+    "countryCode": "KR",
     "branchCode": "CLS",
     "SWIFT Code": "JEONKRSECLS",
     "Bank Name": "JEONBUK BANK",
@@ -1352,8 +1352,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "KR",
+    "bankCode": "CHAS",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "CHASKRSX",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH",
@@ -1365,8 +1365,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "KR",
+    "bankCode": "CHAS",
+    "countryCode": "KR",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASKRSXENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH",
@@ -1378,8 +1378,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAKO",
-    "bankCode": "KR",
+    "bankCode": "KAKO",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "KAKOKR22",
     "Bank Name": "KAKAOBANK CORP",
@@ -1391,8 +1391,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYSE",
-    "bankCode": "KR",
+    "bankCode": "HYSE",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HYSEKRSE",
     "Bank Name": "KB SECURITIES CO., LTD.",
@@ -1404,8 +1404,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "KR",
+    "bankCode": "KOEX",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KOEXKRSE",
     "Bank Name": "KEB HANA BANK",
@@ -1417,8 +1417,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "KR",
+    "bankCode": "KOEX",
+    "countryCode": "KR",
     "branchCode": "CLS",
     "SWIFT Code": "KOEXKRSECLS",
     "Bank Name": "KEB HANA BANK",
@@ -1430,8 +1430,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "KR",
+    "bankCode": "KOEX",
+    "countryCode": "KR",
     "branchCode": "FCL",
     "SWIFT Code": "KOEXKRSEFCL",
     "Bank Name": "KEB HANA BANK",
@@ -1443,8 +1443,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "KR",
+    "bankCode": "KOEX",
+    "countryCode": "KR",
     "branchCode": "FCN",
     "SWIFT Code": "KOEXKRSEFCN",
     "Bank Name": "KEB HANA BANK",
@@ -1456,8 +1456,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIWC",
-    "bankCode": "KR",
+    "bankCode": "KIWC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KIWCKRSE",
     "Bank Name": "KIWOOM SECURITIES CO,. LTD.",
@@ -1469,8 +1469,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KR",
+    "bankCode": "CZNB",
+    "countryCode": "KR",
     "branchCode": "CLS",
     "SWIFT Code": "CZNBKRSECLS",
     "Bank Name": "KOOKMIN BANK",
@@ -1482,8 +1482,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KR",
+    "bankCode": "CZNB",
+    "countryCode": "KR",
     "branchCode": "CTD",
     "SWIFT Code": "CZNBKRSECTD",
     "Bank Name": "KOOKMIN BANK",
@@ -1495,8 +1495,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KR",
+    "bankCode": "CZNB",
+    "countryCode": "KR",
     "branchCode": "GAM",
     "SWIFT Code": "CZNBKRSEGAM",
     "Bank Name": "KOOKMIN BANK",
@@ -1508,8 +1508,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KR",
+    "bankCode": "CZNB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CZNBKRSE",
     "Bank Name": "KOOKMIN BANK",
@@ -1521,8 +1521,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KR",
+    "bankCode": "CZNB",
+    "countryCode": "KR",
     "branchCode": "TRD",
     "SWIFT Code": "CZNBKRSETRD",
     "Bank Name": "KOOKMIN BANK",
@@ -1534,8 +1534,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "KR",
+    "bankCode": "CZNB",
+    "countryCode": "KR",
     "branchCode": "WLS",
     "SWIFT Code": "CZNBKRSEWLS",
     "Bank Name": "KOOKMIN BANK",
@@ -1547,8 +1547,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "KR",
+    "bankCode": "KODB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KODBKRSE",
     "Bank Name": "KOREA DEVELOPMENT BANK, THE",
@@ -1560,8 +1560,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "KR",
+    "bankCode": "KODB",
+    "countryCode": "KR",
     "branchCode": "001",
     "SWIFT Code": "KODBKRSE001",
     "Bank Name": "KOREA DEVELOPMENT BANK, THE",
@@ -1573,8 +1573,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRFS",
-    "bankCode": "KR",
+    "bankCode": "MRFS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "MRFSKRSE",
     "Bank Name": "KOREA FUND PARTNERS",
@@ -1586,8 +1586,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KISE",
-    "bankCode": "KR",
+    "bankCode": "KISE",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KISEKRSE",
     "Bank Name": "KOREA INVESTMENT AND SECURITIES CO., LTD.",
@@ -1599,8 +1599,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOIC",
-    "bankCode": "KR",
+    "bankCode": "KOIC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KOICKRSE",
     "Bank Name": "KOREA INVESTMENT CORPORATION",
@@ -1612,8 +1612,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSDC",
-    "bankCode": "KR",
+    "bankCode": "KSDC",
+    "countryCode": "KR",
     "branchCode": "GFS",
     "SWIFT Code": "KSDCKRSEGFS",
     "Bank Name": "KOREA SECURITIES DEPOSITORY",
@@ -1625,8 +1625,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSDC",
-    "bankCode": "KR",
+    "bankCode": "KSDC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KSDCKRSE",
     "Bank Name": "KOREA SECURITIES DEPOSITORY",
@@ -1638,8 +1638,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSDC",
-    "bankCode": "KR",
+    "bankCode": "KSDC",
+    "countryCode": "KR",
     "branchCode": "FUN",
     "SWIFT Code": "KSDCKRSEFUN",
     "Bank Name": "KOREA SECURITIES DEPOSITORY",
@@ -1651,8 +1651,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSDC",
-    "bankCode": "KR",
+    "bankCode": "KSDC",
+    "countryCode": "KR",
     "branchCode": "FOT",
     "SWIFT Code": "KSDCKRSEFOT",
     "Bank Name": "KOREA SECURITIES DEPOSITORY",
@@ -1664,8 +1664,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSDC",
-    "bankCode": "KR",
+    "bankCode": "KSDC",
+    "countryCode": "KR",
     "branchCode": "KDR",
     "SWIFT Code": "KSDCKRSEKDR",
     "Bank Name": "KOREA SECURITIES DEPOSITORY",
@@ -1677,8 +1677,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSDC",
-    "bankCode": "KR",
+    "bankCode": "KSDC",
+    "countryCode": "KR",
     "branchCode": "SLB",
     "SWIFT Code": "KSDCKRSESLB",
     "Bank Name": "KOREA SECURITIES DEPOSITORY",
@@ -1690,8 +1690,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSCF",
-    "bankCode": "KR",
+    "bankCode": "KSCF",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KSCFKRSE",
     "Bank Name": "KSCFC",
@@ -1703,8 +1703,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTGC",
-    "bankCode": "KR",
+    "bankCode": "KTGC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KTGCKRSE",
     "Bank Name": "KT AND G CORPORATION",
@@ -1716,8 +1716,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KWAB",
-    "bankCode": "KR",
+    "bankCode": "KWAB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KWABKRSE",
     "Bank Name": "KWANGJU BANK LTD, THE",
@@ -1729,8 +1729,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYBO",
-    "bankCode": "KR",
+    "bankCode": "KYBO",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KYBOKRSE",
     "Bank Name": "KYOBO LIFE INSURANCE CO., LTD.",
@@ -1742,8 +1742,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYNA",
-    "bankCode": "KR",
+    "bankCode": "KYNA",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "KYNAKR22",
     "Bank Name": "KYONGNAM BANK",
@@ -1755,8 +1755,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYNA",
-    "bankCode": "KR",
+    "bankCode": "KYNA",
+    "countryCode": "KR",
     "branchCode": "ITL",
     "SWIFT Code": "KYNAKR22ITL",
     "Bank Name": "KYONGNAM BANK",
@@ -1768,8 +1768,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOLA",
-    "bankCode": "KR",
+    "bankCode": "SOLA",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "SOLAKRSE",
     "Bank Name": "LANDESBANK BADEN-WUERTTEMBERG, SEOUL",
@@ -1781,8 +1781,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "KR",
+    "bankCode": "ABOC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "ABOCKRSE",
     "Bank Name": "AGRICULTURAL BANK OF CHINA SEOUL BRANCH",
@@ -1794,8 +1794,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMOP",
-    "bankCode": "KR",
+    "bankCode": "AMOP",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "AMOPKRSE",
     "Bank Name": "AMOREPACIFIC CORPORATION",
@@ -1807,8 +1807,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "KR",
+    "bankCode": "ANZB",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "ANZBKRSX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -1820,8 +1820,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "KR",
+    "bankCode": "BNIN",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "BNINKRSE",
     "Bank Name": "BANK NEGARA INDONESIA SEOUL BRANCH",
@@ -1833,8 +1833,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "KR",
+    "bankCode": "BOFA",
+    "countryCode": "KR",
     "branchCode": "R2X",
     "SWIFT Code": "BOFAKR2X",
     "Bank Name": "BANK OF AMERICA, N.A. SEOUL BRANCH",
@@ -1846,8 +1846,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KR",
+    "bankCode": "BKCH",
+    "countryCode": "KR",
     "branchCode": "ANS",
     "SWIFT Code": "BKCHKRSEANS",
     "Bank Name": "BANK OF CHINA SEOUL BRANCH",
@@ -1859,8 +1859,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KR",
+    "bankCode": "BKCH",
+    "countryCode": "KR",
     "branchCode": "DAE",
     "SWIFT Code": "BKCHKRSEDAE",
     "Bank Name": "BANK OF CHINA SEOUL BRANCH",
@@ -1872,8 +1872,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KR",
+    "bankCode": "BKCH",
+    "countryCode": "KR",
     "branchCode": "ICN",
     "SWIFT Code": "BKCHKRSEICN",
     "Bank Name": "BANK OF CHINA SEOUL BRANCH",
@@ -1885,8 +1885,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KR",
+    "bankCode": "BKCH",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "BKCHKRSE",
     "Bank Name": "BANK OF CHINA SEOUL BRANCH",
@@ -1898,8 +1898,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KR",
+    "bankCode": "BKCH",
+    "countryCode": "KR",
     "branchCode": "GUR",
     "SWIFT Code": "BKCHKRSEGUR",
     "Bank Name": "BANK OF CHINA SEOUL BRANCH",
@@ -1911,8 +1911,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "KR",
+    "bankCode": "BKCH",
+    "countryCode": "KR",
     "branchCode": "GRO",
     "SWIFT Code": "BKCHKRSEGRO",
     "Bank Name": "BANK OF CHINA SEOUL BRANCH",
@@ -1924,8 +1924,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "KR",
+    "bankCode": "COMM",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "COMMKRSE",
     "Bank Name": "BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH",
@@ -1937,8 +1937,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "KR",
+    "bankCode": "COMM",
+    "countryCode": "KR",
     "branchCode": "888",
     "SWIFT Code": "COMMKRSE888",
     "Bank Name": "BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH",
@@ -1950,8 +1950,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOKR",
-    "bankCode": "KR",
+    "bankCode": "BOKR",
+    "countryCode": "KR",
     "branchCode": "RST",
     "SWIFT Code": "BOKRKRST",
     "Bank Name": "BANK OF KOREA",
@@ -1963,8 +1963,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOKR",
-    "bankCode": "KR",
+    "bankCode": "BOKR",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "BOKRKRSE",
     "Bank Name": "BANK OF KOREA",
@@ -1976,8 +1976,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNKS",
-    "bankCode": "KR",
+    "bankCode": "BNKS",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "BNKSKR22",
     "Bank Name": "BNK SECURITIES CO., LTD.",
@@ -1989,8 +1989,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "KR",
+    "bankCode": "BNPA",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "BNPAKRS2",
     "Bank Name": "BNP PARIBAS SECURITIES KOREA CO., LTD.",
@@ -2002,8 +2002,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "KR",
+    "bankCode": "BNPA",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "BNPAKRSE",
     "Bank Name": "BNP PARIBAS SEOUL BRANCH",
@@ -2015,8 +2015,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "KR",
+    "bankCode": "PUSB",
+    "countryCode": "KR",
     "branchCode": "R2P",
     "SWIFT Code": "PUSBKR2P",
     "Bank Name": "BUSAN BANK",
@@ -2028,8 +2028,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "KR",
+    "bankCode": "PUSB",
+    "countryCode": "KR",
     "branchCode": "MAS",
     "SWIFT Code": "PUSBKR2PMAS",
     "Bank Name": "BUSAN BANK",
@@ -2041,8 +2041,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "KR",
+    "bankCode": "PUSB",
+    "countryCode": "KR",
     "branchCode": "INT",
     "SWIFT Code": "PUSBKR2PINT",
     "Bank Name": "BUSAN BANK",
@@ -2054,8 +2054,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUSB",
-    "bankCode": "KR",
+    "bankCode": "PUSB",
+    "countryCode": "KR",
     "branchCode": "SEL",
     "SWIFT Code": "PUSBKR2PSEL",
     "Bank Name": "BUSAN BANK",
@@ -2067,8 +2067,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSAK",
-    "bankCode": "KR",
+    "bankCode": "CSAK",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "CSAKKRS2",
     "Bank Name": "CELENIAN ASSET MANAGEMENT (KOREA) LIMITED",
@@ -2080,8 +2080,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIWW",
-    "bankCode": "KR",
+    "bankCode": "CIWW",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CIWWKRSE",
     "Bank Name": "CHEIL WORLDWIDE, INC",
@@ -2093,8 +2093,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "KR",
+    "bankCode": "PCBC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "PCBCKRSE",
     "Bank Name": "CHINA CONSTRUCTION BANK SEOUL BRANCH",
@@ -2106,8 +2106,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVER",
-    "bankCode": "KR",
+    "bankCode": "EVER",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "EVERKRSE",
     "Bank Name": "CHINA EVERBRIGHT BANK SEOUL BRANCH",
@@ -2119,8 +2119,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "KR",
+    "bankCode": "CITI",
+    "countryCode": "KR",
     "branchCode": "RSX",
     "SWIFT Code": "CITIKRSX",
     "Bank Name": "CITIBANK KOREA INC",
@@ -2132,8 +2132,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "KR",
+    "bankCode": "CITI",
+    "countryCode": "KR",
     "branchCode": "WLS",
     "SWIFT Code": "CITIKRSXWLS",
     "Bank Name": "CITIBANK KOREA INC",
@@ -2145,8 +2145,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CJCC",
-    "bankCode": "KR",
+    "bankCode": "CJCC",
+    "countryCode": "KR",
     "branchCode": "RSS",
     "SWIFT Code": "CJCCKRSS",
     "Bank Name": "CJ CHEILJEDANG CORPORATION",
@@ -2158,8 +2158,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCGC",
-    "bankCode": "KR",
+    "bankCode": "KCGC",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "KCGCKRSE",
     "Bank Name": "CONSTRUCTION GUARANTEE COOPERATIVE",
@@ -2171,8 +2171,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "KR",
+    "bankCode": "CRLY",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CRLYKRSE",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -2184,8 +2184,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "KR",
+    "bankCode": "CRES",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CRESKRSE",
     "Bank Name": "CREDIT SUISSE AG, SEOUL BRANCH",
@@ -2197,8 +2197,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "KR",
+    "bankCode": "CSFB",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "CSFBKRSE",
     "Bank Name": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED, SEOUL BRANCH",
@@ -2210,8 +2210,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAEB",
-    "bankCode": "KR",
+    "bankCode": "DAEB",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "DAEBKR22",
     "Bank Name": "DAEGU BANK, LTD.,THE",
@@ -2223,8 +2223,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAEB",
-    "bankCode": "KR",
+    "bankCode": "DAEB",
+    "countryCode": "KR",
     "branchCode": "SEL",
     "SWIFT Code": "DAEBKR22SEL",
     "Bank Name": "DAEGU BANK, LTD.,THE",
@@ -2236,8 +2236,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTKR",
-    "bankCode": "KR",
+    "bankCode": "DTKR",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "DTKRKRSE",
     "Bank Name": "DAIMLER TRUCKS KOREA LTD.",
@@ -2249,8 +2249,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSSC",
-    "bankCode": "KR",
+    "bankCode": "DSSC",
+    "countryCode": "KR",
     "branchCode": "RS3",
     "SWIFT Code": "DSSCKRS3",
     "Bank Name": "DAISHIN SECURITIES CO., LTD",
@@ -2262,8 +2262,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "KR",
+    "bankCode": "DBSS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "DBSSKRSE",
     "Bank Name": "DBS BANK LTD, SEOUL BRANCH",
@@ -2275,8 +2275,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "KR",
+    "bankCode": "DBSS",
+    "countryCode": "KR",
     "branchCode": "IBD",
     "SWIFT Code": "DBSSKRSEIBD",
     "Bank Name": "DBS BANK LTD, SEOUL BRANCH",
@@ -2288,8 +2288,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "KR",
+    "bankCode": "DEUT",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "DEUTKRSE",
     "Bank Name": "DEUTSCHE BANK AG, SEOUL BRANCH",
@@ -2301,8 +2301,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NINP",
-    "bankCode": "KR",
+    "bankCode": "NINP",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "NINPKRSE",
     "Bank Name": "E9PAY CO. LTD",
@@ -2314,8 +2314,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENGU",
-    "bankCode": "KR",
+    "bankCode": "ENGU",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "ENGUKRSE",
     "Bank Name": "ENGINEERING GUARANTEE INSURANCE",
@@ -2327,8 +2327,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSAL",
-    "bankCode": "KR",
+    "bankCode": "GSAL",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "GSALKRSE",
     "Bank Name": "GOLDMAN SACHS (ASIA) L.L.C. SEOUL BRANCH",
@@ -2340,8 +2340,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCLF",
-    "bankCode": "KR",
+    "bankCode": "GCLF",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "GCLFKR22",
     "Bank Name": "GREEN CLIMATE FUND",
@@ -2353,8 +2353,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAFV",
-    "bankCode": "KR",
+    "bankCode": "HAFV",
+    "countryCode": "KR",
     "branchCode": "RS3",
     "SWIFT Code": "HAFVKRS3",
     "Bank Name": "HANA SECURITIES CO., LTD",
@@ -2366,8 +2366,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNWS",
-    "bankCode": "KR",
+    "bankCode": "HNWS",
+    "countryCode": "KR",
     "branchCode": "RSS",
     "SWIFT Code": "HNWSKRSS",
     "Bank Name": "HANWHA INVESTMENT AND SECURITIES CO., LTD.",
@@ -2379,8 +2379,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HWLI",
-    "bankCode": "KR",
+    "bankCode": "HWLI",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "HWLIKRSE",
     "Bank Name": "HANWHA LIFE INSURANCE",
@@ -2392,8 +2392,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTW",
-    "bankCode": "KR",
+    "bankCode": "SSTW",
+    "countryCode": "KR",
     "branchCode": "R22",
     "SWIFT Code": "SSTWKR22",
     "Bank Name": "HANWHA VISION CO., LTD.",
@@ -2405,8 +2405,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVSC",
-    "bankCode": "KR",
+    "bankCode": "HVSC",
+    "countryCode": "KR",
     "branchCode": "RS2",
     "SWIFT Code": "HVSCKRS2",
     "Bank Name": "HI INVESTMENT  SECURITIES CO., LTD.",
@@ -2418,8 +2418,8 @@ const southKorea = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LDFS",
-    "bankCode": "KR",
+    "bankCode": "LDFS",
+    "countryCode": "KR",
     "branchCode": "RSE",
     "SWIFT Code": "LDFSKRSE",
     "Bank Name": "HOTEL LOTTE CO.,LTD. (DUTY FREE)",

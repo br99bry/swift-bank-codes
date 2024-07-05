@@ -1,7 +1,7 @@
 const belize = [
   {
-    "countryCode": "LIBA",
-    "bankCode": "BZ",
+    "bankCode": "LIBA",
+    "countryCode": "BZ",
     "branchCode": "ZBZ",
     "SWIFT Code": "LIBABZBZ",
     "Bank Name": "ATLANTIC BANK LIMITED",
@@ -13,8 +13,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBA",
-    "bankCode": "BZ",
+    "bankCode": "LIBA",
+    "countryCode": "BZ",
     "branchCode": "0BS",
     "SWIFT Code": "LIBABZBZ0BS",
     "Bank Name": "ATLANTIC BANK LIMITED",
@@ -26,8 +26,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBT",
-    "bankCode": "BZ",
+    "bankCode": "BCBT",
+    "countryCode": "BZ",
     "branchCode": "ZBZ",
     "SWIFT Code": "BCBTBZBZ",
     "Bank Name": "BELIZE BANK INTERNATIONAL LIMITED",
@@ -39,8 +39,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBLZ",
-    "bankCode": "BZ",
+    "bankCode": "BBLZ",
+    "countryCode": "BZ",
     "branchCode": "ZBZ",
     "SWIFT Code": "BBLZBZBZ",
     "Bank Name": "BELIZE BANK LIMITED",
@@ -52,8 +52,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYE",
-    "bankCode": "BZ",
+    "bankCode": "CAYE",
+    "countryCode": "BZ",
     "branchCode": "ZBZ",
     "SWIFT Code": "CAYEBZBZ",
     "Bank Name": "CAYE INTERNATIONAL BANK LTD.",
@@ -65,8 +65,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEBB",
-    "bankCode": "BZ",
+    "bankCode": "CEBB",
+    "countryCode": "BZ",
     "branchCode": "ZBZ",
     "SWIFT Code": "CEBBBZBZ",
     "Bank Name": "CENTRAL BANK OF BELIZE",
@@ -78,8 +78,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRVT",
-    "bankCode": "BZ",
+    "bankCode": "PRVT",
+    "countryCode": "BZ",
     "branchCode": "ZBD",
     "SWIFT Code": "PRVTBZBD",
     "Bank Name": "HERITAGE BANK LIMITED",
@@ -91,8 +91,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRVT",
-    "bankCode": "BZ",
+    "bankCode": "PRVT",
+    "countryCode": "BZ",
     "branchCode": "ZBS",
     "SWIFT Code": "PRVTBZBS",
     "Bank Name": "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
@@ -104,8 +104,8 @@ const belize = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEL",
-    "bankCode": "BZ",
+    "bankCode": "NBEL",
+    "countryCode": "BZ",
     "branchCode": "ZBB",
     "SWIFT Code": "NBELBZBB",
     "Bank Name": "NATIONAL BANK OF BELIZE LIMITED",

@@ -1,7 +1,7 @@
 const nicaragua = [
   {
-    "countryCode": "ATTD",
-    "bankCode": "NI",
+    "bankCode": "ATTD",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "ATTDNIMA",
     "Bank Name": "BANCO ATLANTIDA NICARAGUA, SOCIEDAD ANONIMA",
@@ -13,8 +13,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "NI",
+    "bankCode": "PRCB",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "PRCBNIMA",
     "Bank Name": "BANCO AVANZ S.A.",
@@ -26,8 +26,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCNI",
-    "bankCode": "NI",
+    "bankCode": "BCNI",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "BCNINIMA",
     "Bank Name": "BANCO CENTRAL DE NICARAGUA",
@@ -39,8 +39,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAMC",
-    "bankCode": "NI",
+    "bankCode": "BAMC",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "BAMCNIMA",
     "Bank Name": "BANCO DE AMERICA CENTRAL",
@@ -52,8 +52,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDF",
-    "bankCode": "NI",
+    "bankCode": "BBDF",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "BBDFNIMA",
     "Bank Name": "BANCO DE FINANZAS, S.A.(BDF)",
@@ -65,8 +65,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFLP",
-    "bankCode": "NI",
+    "bankCode": "BFLP",
+    "countryCode": "NI",
     "branchCode": "IM2",
     "SWIFT Code": "BFLPNIM2",
     "Bank Name": "BANCO DE FOMENTO A LA PRODUCCION",
@@ -78,8 +78,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNO",
-    "bankCode": "NI",
+    "bankCode": "BUNO",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "BUNONIMA",
     "Bank Name": "BANCO FICOHSA NICARAGUA S.A.",
@@ -91,8 +91,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCE",
-    "bankCode": "NI",
+    "bankCode": "BCCE",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "BCCENIMA",
     "Bank Name": "BANCO LAFISE BANCENTRO, S.A.",
@@ -104,8 +104,8 @@ const nicaragua = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAPR",
-    "bankCode": "NI",
+    "bankCode": "BAPR",
+    "countryCode": "NI",
     "branchCode": "IMA",
     "SWIFT Code": "BAPRNIMA",
     "Bank Name": "BANPRO",

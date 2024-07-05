@@ -1,7 +1,7 @@
 const cameroon = [
   {
-    "countryCode": "ABNG",
-    "bankCode": "CM",
+    "bankCode": "ABNG",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "ABNGCMCX",
     "Bank Name": "ACCESS BANK CAMEROON PLC",
@@ -13,8 +13,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "CM",
+    "bankCode": "CCEI",
+    "countryCode": "CM",
     "branchCode": "BAF",
     "SWIFT Code": "CCEICMCXBAF",
     "Bank Name": "AFRILAND FIRST BANK",
@@ -26,8 +26,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "CM",
+    "bankCode": "CCEI",
+    "countryCode": "CM",
     "branchCode": "BDA",
     "SWIFT Code": "CCEICMCXBDA",
     "Bank Name": "AFRILAND FIRST BANK",
@@ -40,8 +40,8 @@ const cameroon = [
   },
   {},
   {
-    "countryCode": "CCEI",
-    "bankCode": "CM",
+    "bankCode": "CCEI",
+    "countryCode": "CM",
     "branchCode": "GRA",
     "SWIFT Code": "CCEICMCXGRA",
     "Bank Name": "AFRILAND FIRST BANK",
@@ -53,8 +53,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEI",
-    "bankCode": "CM",
+    "bankCode": "CCEI",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "CCEICMCX",
     "Bank Name": "AFRILAND FIRST BANK",
@@ -66,8 +66,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAGC",
-    "bankCode": "CM",
+    "bankCode": "NAGC",
+    "countryCode": "CM",
     "branchCode": "MCM",
     "SWIFT Code": "NAGCCMCM",
     "Bank Name": "BANGE BANK CAMEROUN (BANGE CMR S.A)",
@@ -79,8 +79,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCR",
-    "bankCode": "CM",
+    "bankCode": "ATCR",
+    "countryCode": "CM",
     "branchCode": "MCM",
     "SWIFT Code": "ATCRCMCM",
     "Bank Name": "BANQUE ATLANTIQUE CAMEROUN",
@@ -92,8 +92,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "150",
     "SWIFT Code": "BEACCMCX150",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -106,8 +106,8 @@ const cameroon = [
   },
   {},
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "120",
     "SWIFT Code": "BEACCMCX120",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -120,8 +120,8 @@ const cameroon = [
   },
   {},
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "130",
     "SWIFT Code": "BEACCMCX130",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -133,8 +133,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "BEACCMCX",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -146,8 +146,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "MCP",
     "SWIFT Code": "BEACCMCP",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -159,8 +159,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "100",
     "SWIFT Code": "BEACCMCX100",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -172,8 +172,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "091",
     "SWIFT Code": "BEACCMCX091",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -185,8 +185,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEAC",
-    "bankCode": "CM",
+    "bankCode": "BEAC",
+    "countryCode": "CM",
     "branchCode": "090",
     "SWIFT Code": "BEACCMCX090",
     "Bank Name": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
@@ -198,8 +198,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICLR",
-    "bankCode": "CM",
+    "bankCode": "ICLR",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "ICLRCMCX",
     "Bank Name": "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT",
@@ -211,8 +211,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPME",
-    "bankCode": "CM",
+    "bankCode": "BPME",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "BPMECMCX",
     "Bank Name": "BC PME SA",
@@ -224,8 +224,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "CM",
+    "bankCode": "BGFI",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "BGFICMCX",
     "Bank Name": "BGFIBANK CAMEROUN SA",
@@ -237,8 +237,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CM",
+    "bankCode": "CITI",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "CITICMCX",
     "Bank Name": "CITIBANK N.A.",
@@ -250,8 +250,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CM",
+    "bankCode": "CITI",
+    "countryCode": "CM",
     "branchCode": "TRD",
     "SWIFT Code": "CITICMCXTRD",
     "Bank Name": "CITIBANK N.A.",
@@ -263,8 +263,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "BFS",
     "SWIFT Code": "CBCDCMCXBFS",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -276,8 +276,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "BON",
     "SWIFT Code": "CBCDCMCXBON",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -289,8 +289,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "CBCDCMCX",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -302,8 +302,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "AKW",
     "SWIFT Code": "CBCDCMCXAKW",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -315,8 +315,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "GRA",
     "SWIFT Code": "CBCDCMCXGRA",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -328,8 +328,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "MRA",
     "SWIFT Code": "CBCDCMCXMRA",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -341,8 +341,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "MOK",
     "SWIFT Code": "CBCDCMCXMOK",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -354,8 +354,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCD",
-    "bankCode": "CM",
+    "bankCode": "CBCD",
+    "countryCode": "CM",
     "branchCode": "YDE",
     "SWIFT Code": "CBCDCMCXYDE",
     "Bank Name": "COMMERCIAL BANK - CAMEROUN",
@@ -367,8 +367,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCAM",
-    "bankCode": "CM",
+    "bankCode": "CCAM",
+    "countryCode": "CM",
     "branchCode": "MCY",
     "SWIFT Code": "CCAMCMCY",
     "Bank Name": "CREDIT COMMUNAUTAIRE D'AFRIQUE S.A.",
@@ -380,8 +380,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "CM",
+    "bankCode": "ECOC",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "ECOCCMCX",
     "Bank Name": "ECOBANK CAMEROUN SA.",
@@ -393,8 +393,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETCS",
-    "bankCode": "CM",
+    "bankCode": "ETCS",
+    "countryCode": "CM",
     "branchCode": "MC2",
     "SWIFT Code": "ETCSCMC2",
     "Bank Name": "ETC SURETY SA",
@@ -406,8 +406,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LREG",
-    "bankCode": "CM",
+    "bankCode": "LREG",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "LREGCMCX",
     "Bank Name": "LA REGIONALE BANK",
@@ -419,8 +419,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAFC",
-    "bankCode": "CM",
+    "bankCode": "NAFC",
+    "countryCode": "CM",
     "branchCode": "MCY",
     "SWIFT Code": "NAFCCMCY",
     "Bank Name": "NATIONAL FINANCIAL CREDIT BANK S.A.",
@@ -433,8 +433,8 @@ const cameroon = [
   },
   {},
   {
-    "countryCode": "SGCM",
-    "bankCode": "CM",
+    "bankCode": "SGCM",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "SGCMCMCX",
     "Bank Name": "SOCIETE GENERALE CAMEROUN",
@@ -446,8 +446,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCM",
-    "bankCode": "CM",
+    "bankCode": "SGCM",
+    "countryCode": "CM",
     "branchCode": "EXT",
     "SWIFT Code": "SGCMCMCXEXT",
     "Bank Name": "SOCIETE GENERALE CAMEROUN",
@@ -459,8 +459,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CM",
+    "bankCode": "SCBL",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "SCBLCMCX",
     "Bank Name": "STANDARD CHARTERED BANK CAMEROON S.A.",
@@ -472,8 +472,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CM",
+    "bankCode": "SCBL",
+    "countryCode": "CM",
     "branchCode": "0CY",
     "SWIFT Code": "SCBLCMCX0CY",
     "Bank Name": "STANDARD CHARTERED BANK CAMEROON S.A.",
@@ -485,8 +485,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCMA",
-    "bankCode": "CM",
+    "bankCode": "UCMA",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "UCMACMCX",
     "Bank Name": "UNION BANK OF CAMEROON PLC. (UBC PLC.)",
@@ -498,8 +498,8 @@ const cameroon = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "CM",
+    "bankCode": "UNAF",
+    "countryCode": "CM",
     "branchCode": "MCX",
     "SWIFT Code": "UNAFCMCX",
     "Bank Name": "UNITED BANK FOR AFRICA CAMEROUN S.A.",

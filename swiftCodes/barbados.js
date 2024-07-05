@@ -1,7 +1,7 @@
 const barbados = [
   {
-    "countryCode": "AMIB",
-    "bankCode": "BB",
+    "bankCode": "AMIB",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "AMIBBBBB",
     "Bank Name": "AMICORP BANK AND TRUST LTD",
@@ -13,8 +13,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPWC",
-    "bankCode": "BB",
+    "bankCode": "BPWC",
+    "countryCode": "BB",
     "branchCode": "BB2",
     "SWIFT Code": "BPWCBBB2",
     "Bank Name": "BARBADOS PUBLIC WORKERS COOPERATIVE CREDIT UNION LIMITED",
@@ -27,8 +27,8 @@ const barbados = [
   },
   {},
   {
-    "countryCode": "CDEV",
-    "bankCode": "BB",
+    "bankCode": "CDEV",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "CDEVBBBB",
     "Bank Name": "CARIBBEAN DEVELOPMENT BANK",
@@ -40,8 +40,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAB",
-    "bankCode": "BB",
+    "bankCode": "CBAB",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "CBABBBBB",
     "Bank Name": "CENTRAL BANK OF BARBADOS",
@@ -53,8 +53,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAB",
-    "bankCode": "BB",
+    "bankCode": "CBAB",
+    "countryCode": "BB",
     "branchCode": "BBG",
     "SWIFT Code": "CBABBBBG",
     "Bank Name": "CENTRAL BANK OF BARBADOS",
@@ -66,8 +66,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBL",
-    "bankCode": "BB",
+    "bankCode": "CTBL",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "CTBLBBBB",
     "Bank Name": "CIDEL BANK AND TRUST INC.",
@@ -79,8 +79,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCC",
-    "bankCode": "BB",
+    "bankCode": "CBCC",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "CBCCBBBB",
     "Bank Name": "CITY OF BRIDGETOWN CO-OPERATIVE CREDIT UNION LIMITED",
@@ -92,8 +92,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNDC",
-    "bankCode": "BB",
+    "bankCode": "CNDC",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "CNDCBBBB",
     "Bank Name": "CONCORDE BANK LIMITED",
@@ -105,8 +105,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCON",
-    "bankCode": "BB",
+    "bankCode": "CCON",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "CCONBBBB",
     "Bank Name": "CONTINENTAL BANK CORP",
@@ -118,8 +118,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCTT",
-    "bankCode": "BB",
+    "bankCode": "FCTT",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "FCTTBBBB",
     "Bank Name": "FIRST CITIZENS BANK (BARBADOS) LTD. THE MUTUAL BUILDING",
@@ -131,8 +131,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "BB",
+    "bankCode": "FCIB",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "FCIBBBBB",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
@@ -144,8 +144,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "BB",
+    "bankCode": "FCIB",
+    "countryCode": "BB",
     "branchCode": "BB2",
     "SWIFT Code": "FCIBBBB2",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL WEALTH MANAGEMENT BANK (BARBADOS) LIMITED",
@@ -157,8 +157,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "BB",
+    "bankCode": "MFCT",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "MFCTBBBB",
     "Bank Name": "MANUFACTURERS LIFE REINSURANCE LIMITED",
@@ -170,8 +170,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCCI",
-    "bankCode": "BB",
+    "bankCode": "OCCI",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "OCCIBBBB",
     "Bank Name": "OCCIDENTAL BANK BARBADOS (LTD)",
@@ -183,8 +183,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTO",
-    "bankCode": "BB",
+    "bankCode": "RBTO",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "RBTOBBBB",
     "Bank Name": "RBC BARBADOS TRADING BANK CORPORATION",
@@ -196,8 +196,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "BB",
+    "bankCode": "ROYC",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "ROYCBBBB",
     "Bank Name": "RBC ROYAL BANK (BARBADOS) LIMITED",
@@ -209,8 +209,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBA",
-    "bankCode": "BB",
+    "bankCode": "BNBA",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "BNBABBBB",
     "Bank Name": "REPUBLIC BANK (BARBADOS) LIMITED",
@@ -222,8 +222,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBBL",
-    "bankCode": "BB",
+    "bankCode": "SBBL",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "SBBLBBBB",
     "Bank Name": "SAGICOR BANK (BARBADOS) LIMITED",
@@ -235,8 +235,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BB",
+    "bankCode": "NOSC",
+    "countryCode": "BB",
     "branchCode": "BBB",
     "SWIFT Code": "NOSCBBBB",
     "Bank Name": "SCOTIABANK (BARBADOS) LIMITED",
@@ -248,8 +248,8 @@ const barbados = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BB",
+    "bankCode": "NOSC",
+    "countryCode": "BB",
     "branchCode": "BOB",
     "SWIFT Code": "NOSCBBBBBOB",
     "Bank Name": "SCOTIABANK (BARBADOS) LIMITED",

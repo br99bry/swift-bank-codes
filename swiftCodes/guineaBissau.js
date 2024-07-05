@@ -1,7 +1,7 @@
 const guineaBissau = [
   {
-    "countryCode": "BAOB",
-    "bankCode": "GW",
+    "bankCode": "BAOB",
+    "countryCode": "GW",
     "branchCode": "WGW",
     "SWIFT Code": "BAOBGWGW",
     "Bank Name": "BANCO DA AFRICA OCIDENTAL SA",
@@ -13,8 +13,8 @@ const guineaBissau = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDUG",
-    "bankCode": "GW",
+    "bankCode": "BDUG",
+    "countryCode": "GW",
     "branchCode": "WGW",
     "SWIFT Code": "BDUGGWGW",
     "Bank Name": "BANCO DA UNIAO",
@@ -26,8 +26,8 @@ const guineaBissau = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATGW",
-    "bankCode": "GW",
+    "bankCode": "ATGW",
+    "countryCode": "GW",
     "branchCode": "WGW",
     "SWIFT Code": "ATGWGWGW",
     "Bank Name": "BANQUE ATLANTIQUE DA GUINE-BISSAU,SA",
@@ -39,8 +39,8 @@ const guineaBissau = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "GW",
+    "bankCode": "CORI",
+    "countryCode": "GW",
     "branchCode": "WGW",
     "SWIFT Code": "CORIGWGW",
     "Bank Name": "CORIS BANK INTERNATIONAL GUINEE BISSAU",
@@ -53,8 +53,8 @@ const guineaBissau = [
   },
   {},
   {
-    "countryCode": "MDFC",
-    "bankCode": "GW",
+    "bankCode": "MDFC",
+    "countryCode": "GW",
     "branchCode": "WGW",
     "SWIFT Code": "MDFCGWGW",
     "Bank Name": "MINISTERIO DAS FINANCAS - DIRECCAO GERAL DO TESOURO - TESOURARIA GERAL",
@@ -66,8 +66,8 @@ const guineaBissau = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "GW",
+    "bankCode": "ORBK",
+    "countryCode": "GW",
     "branchCode": "WGW",
     "SWIFT Code": "ORBKGWGW",
     "Bank Name": "ORABANK GUINEE BISSAU",

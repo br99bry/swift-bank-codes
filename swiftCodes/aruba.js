@@ -1,7 +1,7 @@
 const aruba = [
   {
-    "countryCode": "ARUB",
-    "bankCode": "AW",
+    "bankCode": "ARUB",
+    "countryCode": "AW",
     "branchCode": "WAX",
     "SWIFT Code": "ARUBAWAX",
     "Bank Name": "ARUBA BANK, LTD",
@@ -13,8 +13,8 @@ const aruba = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDCC",
-    "bankCode": "AW",
+    "bankCode": "BDCC",
+    "countryCode": "AW",
     "branchCode": "WAW",
     "SWIFT Code": "BDCCAWAW",
     "Bank Name": "BANCO DI CARIBE (ARUBA) N.V",
@@ -26,8 +26,8 @@ const aruba = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBA",
-    "bankCode": "AW",
+    "bankCode": "CMBA",
+    "countryCode": "AW",
     "branchCode": "WAX",
     "SWIFT Code": "CMBAAWAX",
     "Bank Name": "CARIBBEAN MERCANTILE BANK N.V.",
@@ -39,8 +39,8 @@ const aruba = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAR",
-    "bankCode": "AW",
+    "bankCode": "CBAR",
+    "countryCode": "AW",
     "branchCode": "WAW",
     "SWIFT Code": "CBARAWAW",
     "Bank Name": "CENTRALE BANK VAN ARUBA",
@@ -52,8 +52,8 @@ const aruba = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTT",
-    "bankCode": "AW",
+    "bankCode": "RBTT",
+    "countryCode": "AW",
     "branchCode": "WAW",
     "SWIFT Code": "RBTTAWAW",
     "Bank Name": "RBC ROYAL BANK (ARUBA) N.V. (FORMERLY RBTT BANK ARUBA N.V.)",

@@ -1,7 +1,7 @@
 const haiti = [
   {
-    "countryCode": "BUHE",
-    "bankCode": "HT",
+    "bankCode": "BUHE",
+    "countryCode": "HT",
     "branchCode": "TPP",
     "SWIFT Code": "BUHEHTPP",
     "Bank Name": "BANQUE DE L'UNION HAITIENNE",
@@ -13,8 +13,8 @@ const haiti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRHA",
-    "bankCode": "HT",
+    "bankCode": "BRHA",
+    "countryCode": "HT",
     "branchCode": "TPP",
     "SWIFT Code": "BRHAHTPP",
     "Bank Name": "BANQUE DE LA REPUBLIQUE D'HAITI",
@@ -26,8 +26,8 @@ const haiti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCH",
-    "bankCode": "HT",
+    "bankCode": "BNCH",
+    "countryCode": "HT",
     "branchCode": "TPP",
     "SWIFT Code": "BNCHHTPP",
     "Bank Name": "BANQUE NATIONALE DE CREDIT (BNC)",
@@ -39,8 +39,8 @@ const haiti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPPL",
-    "bankCode": "HT",
+    "bankCode": "CPPL",
+    "countryCode": "HT",
     "branchCode": "TPP",
     "SWIFT Code": "CPPLHTPP",
     "Bank Name": "CAPITAL BANK S.A.",
@@ -52,8 +52,8 @@ const haiti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGH",
-    "bankCode": "HT",
+    "bankCode": "SOGH",
+    "countryCode": "HT",
     "branchCode": "TPP",
     "SWIFT Code": "SOGHHTPP",
     "Bank Name": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
@@ -65,8 +65,8 @@ const haiti = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBNK",
-    "bankCode": "HT",
+    "bankCode": "UBNK",
+    "countryCode": "HT",
     "branchCode": "TPP",
     "SWIFT Code": "UBNKHTPP",
     "Bank Name": "UNIBANK S.A.",

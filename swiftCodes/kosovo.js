@@ -1,7 +1,7 @@
 const kosovo = [
   {
-    "countryCode": "CDIS",
-    "bankCode": "XK",
+    "bankCode": "CDIS",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "CDISXKPR",
     "Bank Name": "BANKA CREDINS KOSOVE SH.A.",
@@ -13,8 +13,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKOM",
-    "bankCode": "XK",
+    "bankCode": "EKOM",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "EKOMXKPR",
     "Bank Name": "BANKA EKONOMIKE SH.A",
@@ -26,8 +26,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBA",
-    "bankCode": "XK",
+    "bankCode": "NCBA",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "NCBAXKPR",
     "Bank Name": "BANKA KOMBETARE TREGTARE KOSOVE",
@@ -39,8 +39,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPBX",
-    "bankCode": "XK",
+    "bankCode": "BPBX",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "BPBXXKPR",
     "Bank Name": "BANKA PER BIZNES SH.A.",
@@ -52,8 +52,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBRK",
-    "bankCode": "XK",
+    "bankCode": "CBRK",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "CBRKXKPR",
     "Bank Name": "CENTRAL BANK OF THE REPUBLIC OF KOSOVO",
@@ -65,8 +65,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLPR",
-    "bankCode": "XK",
+    "bankCode": "NLPR",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "NLPRXKPR",
     "Bank Name": "NLB BANKA SH.A.",
@@ -78,8 +78,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAYK",
-    "bankCode": "XK",
+    "bankCode": "PAYK",
+    "countryCode": "XK",
     "branchCode": "KP2",
     "SWIFT Code": "PAYKXKP2",
     "Bank Name": "PAYSERA KOSOVO",
@@ -91,8 +91,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHHA",
-    "bankCode": "XK",
+    "bankCode": "PHHA",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "PHHAXKPR",
     "Bank Name": "PRIBANK SH.A.",
@@ -104,8 +104,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHHA",
-    "bankCode": "XK",
+    "bankCode": "PHHA",
+    "countryCode": "XK",
     "branchCode": "015",
     "SWIFT Code": "PHHAXKPR015",
     "Bank Name": "PRIBANK SH.A.",
@@ -117,8 +117,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBKO",
-    "bankCode": "XK",
+    "bankCode": "MBKO",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "MBKOXKPR",
     "Bank Name": "PROCREDIT BANK SH.A KOSOVO",
@@ -130,8 +130,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBKO",
-    "bankCode": "XK",
+    "bankCode": "RBKO",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "RBKOXKPR",
     "Bank Name": "RAIFFEISEN BANK KOSOVO J.S.C. SH.A",
@@ -143,8 +143,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "030",
     "SWIFT Code": "TEBKXKPR030",
     "Bank Name": "TEB SHA",
@@ -156,8 +156,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "TEBKXKPR",
     "Bank Name": "TEB SHA",
@@ -169,8 +169,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "020",
     "SWIFT Code": "TEBKXKPR020",
     "Bank Name": "TEB SHA",
@@ -182,8 +182,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "024",
     "SWIFT Code": "TEBKXKPR024",
     "Bank Name": "TEB SHA",
@@ -195,8 +195,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "013",
     "SWIFT Code": "TEBKXKPR013",
     "Bank Name": "TEB SHA",
@@ -208,8 +208,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "014",
     "SWIFT Code": "TEBKXKPR014",
     "Bank Name": "TEB SHA",
@@ -221,8 +221,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "018",
     "SWIFT Code": "TEBKXKPR018",
     "Bank Name": "TEB SHA",
@@ -234,8 +234,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "017",
     "SWIFT Code": "TEBKXKPR017",
     "Bank Name": "TEB SHA",
@@ -247,8 +247,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "029",
     "SWIFT Code": "TEBKXKPR029",
     "Bank Name": "TEB SHA",
@@ -260,8 +260,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "026",
     "SWIFT Code": "TEBKXKPR026",
     "Bank Name": "TEB SHA",
@@ -273,8 +273,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "011",
     "SWIFT Code": "TEBKXKPR011",
     "Bank Name": "TEB SHA",
@@ -286,8 +286,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "023",
     "SWIFT Code": "TEBKXKPR023",
     "Bank Name": "TEB SHA",
@@ -299,8 +299,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "027",
     "SWIFT Code": "TEBKXKPR027",
     "Bank Name": "TEB SHA",
@@ -312,8 +312,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "015",
     "SWIFT Code": "TEBKXKPR015",
     "Bank Name": "TEB SHA",
@@ -325,8 +325,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "031",
     "SWIFT Code": "TEBKXKPR031",
     "Bank Name": "TEB SHA",
@@ -338,8 +338,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "034",
     "SWIFT Code": "TEBKXKPR034",
     "Bank Name": "TEB SHA",
@@ -351,8 +351,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "028",
     "SWIFT Code": "TEBKXKPR028",
     "Bank Name": "TEB SHA",
@@ -364,8 +364,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "033",
     "SWIFT Code": "TEBKXKPR033",
     "Bank Name": "TEB SHA",
@@ -377,8 +377,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "019",
     "SWIFT Code": "TEBKXKPR019",
     "Bank Name": "TEB SHA",
@@ -390,8 +390,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "012",
     "SWIFT Code": "TEBKXKPR012",
     "Bank Name": "TEB SHA",
@@ -403,8 +403,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "022",
     "SWIFT Code": "TEBKXKPR022",
     "Bank Name": "TEB SHA",
@@ -416,8 +416,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "025",
     "SWIFT Code": "TEBKXKPR025",
     "Bank Name": "TEB SHA",
@@ -429,8 +429,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "021",
     "SWIFT Code": "TEBKXKPR021",
     "Bank Name": "TEB SHA",
@@ -442,8 +442,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBK",
-    "bankCode": "XK",
+    "bankCode": "TEBK",
+    "countryCode": "XK",
     "branchCode": "016",
     "SWIFT Code": "TEBKXKPR016",
     "Bank Name": "TEB SHA",
@@ -455,8 +455,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "XK",
+    "bankCode": "TCZB",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "TCZBXKPR",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI",
@@ -468,8 +468,8 @@ const kosovo = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "XK",
+    "bankCode": "ISBK",
+    "countryCode": "XK",
     "branchCode": "KPR",
     "SWIFT Code": "ISBKXKPR",
     "Bank Name": "TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES",

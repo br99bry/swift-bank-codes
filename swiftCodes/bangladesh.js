@@ -1,7 +1,7 @@
 const bangladesh = [
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "073",
     "SWIFT Code": "ALARBDDH073",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -13,8 +13,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "070",
     "SWIFT Code": "ALARBDDH070",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -26,8 +26,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBHO",
-    "bankCode": "BD",
+    "bankCode": "BBHO",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BBHOBDDH",
     "Bank Name": "BANGLADESH BANK",
@@ -39,8 +39,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBHO",
-    "bankCode": "BD",
+    "bankCode": "BBHO",
+    "countryCode": "BD",
     "branchCode": "DDK",
     "SWIFT Code": "BBHOBDDK",
     "Bank Name": "BANGLADESH BANK",
@@ -52,8 +52,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "BCBLBDDH014",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -65,8 +65,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "BCBLBDDH020",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -78,8 +78,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BCBLBDDH",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -91,8 +91,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "BCBLBDDH015",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -104,8 +104,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "BCBLBDDH021",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -117,8 +117,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "019",
     "SWIFT Code": "BCBLBDDH019",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -130,8 +130,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "BCBLBDDH018",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -143,8 +143,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "BCBLBDDH017",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -156,8 +156,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "BCBLBDDH013",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -169,8 +169,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBL",
-    "bankCode": "BD",
+    "bankCode": "BCBL",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "BCBLBDDH016",
     "Bank Name": "BANGLADESH COMMERCE BANK LTD.",
@@ -182,8 +182,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDDB",
-    "bankCode": "BD",
+    "bankCode": "BDDB",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "BDDBBDDHAGB",
     "Bank Name": "BANGLADESH DEVELOPMENT BANK LIMITED (BDBL)",
@@ -195,8 +195,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDDB",
-    "bankCode": "BD",
+    "bankCode": "BDDB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BDDBBDDH",
     "Bank Name": "BANGLADESH DEVELOPMENT BANK LIMITED (BDBL)",
@@ -208,8 +208,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "AGD",
     "SWIFT Code": "BKBABDDHAGD",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -221,8 +221,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "SHO",
     "SWIFT Code": "BKBABDDHSHO",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -234,8 +234,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BKBABDDH",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -247,8 +247,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "BNN",
     "SWIFT Code": "BKBABDDHBNN",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -260,8 +260,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "CWK",
     "SWIFT Code": "BKBABDDHCWK",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -273,8 +273,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "KBB",
     "SWIFT Code": "BKBABDDHKBB",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -286,8 +286,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "LPO",
     "SWIFT Code": "BKBABDDHLPO",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -299,8 +299,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "SRS",
     "SWIFT Code": "BKBABDDHSRS",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -312,8 +312,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "KLN",
     "SWIFT Code": "BKBABDDHKLN",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -325,8 +325,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "KST",
     "SWIFT Code": "BKBABDDHKST",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -338,8 +338,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBA",
-    "bankCode": "BD",
+    "bankCode": "BKBA",
+    "countryCode": "BD",
     "branchCode": "NGJ",
     "SWIFT Code": "BKBABDDHNGJ",
     "Bank Name": "BANGLADESH KRISHI BANK",
@@ -351,8 +351,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "BD",
+    "bankCode": "ALFH",
+    "countryCode": "BD",
     "branchCode": "703",
     "SWIFT Code": "ALFHBDDH703",
     "Bank Name": "BANK ALFALAH LIMITED (BANGLADESH - DHAKA BRANCH)",
@@ -364,8 +364,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "BD",
+    "bankCode": "ALFH",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "ALFHBDDH",
     "Bank Name": "BANK ALFALAH LIMITED (BANGLADESH - DHAKA BRANCH)",
@@ -377,8 +377,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "BD",
+    "bankCode": "ALFH",
+    "countryCode": "BD",
     "branchCode": "702",
     "SWIFT Code": "ALFHBDDH702",
     "Bank Name": "BANK ALFALAH LIMITED (BANGLADESH - DHAKA BRANCH)",
@@ -390,8 +390,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "BALBBDDH005",
     "Bank Name": "BANK ASIA LTD",
@@ -403,8 +403,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "030",
     "SWIFT Code": "BALBBDDH030",
     "Bank Name": "BANK ASIA LTD",
@@ -416,8 +416,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "027",
     "SWIFT Code": "BALBBDDH027",
     "Bank Name": "BANK ASIA LTD",
@@ -429,8 +429,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "BALBBDDH013",
     "Bank Name": "BANK ASIA LTD",
@@ -442,8 +442,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "BALBBDDH009",
     "Bank Name": "BANK ASIA LTD",
@@ -455,8 +455,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "BALBBDDHOBU",
     "Bank Name": "BANK ASIA LTD",
@@ -468,8 +468,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "BALBBDDH022",
     "Bank Name": "BANK ASIA LTD",
@@ -481,8 +481,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "056",
     "SWIFT Code": "BALBBDDH056",
     "Bank Name": "BANK ASIA LTD",
@@ -494,8 +494,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BALBBDDH",
     "Bank Name": "BANK ASIA LTD",
@@ -507,8 +507,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "627",
     "SWIFT Code": "BALBBDDH627",
     "Bank Name": "BANK ASIA LTD",
@@ -520,8 +520,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "CTS",
     "SWIFT Code": "BALBBDDHCTS",
     "Bank Name": "BANK ASIA LTD",
@@ -533,8 +533,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "BALBBDDH002",
     "Bank Name": "BANK ASIA LTD",
@@ -546,8 +546,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "BALBBDDH021",
     "Bank Name": "BANK ASIA LTD",
@@ -559,8 +559,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "BALBBDDH004",
     "Bank Name": "BANK ASIA LTD",
@@ -572,8 +572,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "615",
     "SWIFT Code": "BALBBDDH615",
     "Bank Name": "BANK ASIA LTD",
@@ -585,8 +585,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "BALBBDDH012",
     "Bank Name": "BANK ASIA LTD",
@@ -598,8 +598,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "BALBBDDH008",
     "Bank Name": "BANK ASIA LTD",
@@ -611,8 +611,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "BALBBDDH014",
     "Bank Name": "BANK ASIA LTD",
@@ -624,8 +624,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "028",
     "SWIFT Code": "BALBBDDH028",
     "Bank Name": "BANK ASIA LTD",
@@ -637,8 +637,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "BALBBDDH017",
     "Bank Name": "BANK ASIA LTD",
@@ -650,8 +650,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "BD",
+    "bankCode": "HABB",
+    "countryCode": "BD",
     "branchCode": "0CH",
     "SWIFT Code": "HABBBDDH0CH",
     "Bank Name": "HABIB BANK LTD.",
@@ -663,8 +663,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "BD",
+    "bankCode": "HABB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "HABBBDDH",
     "Bank Name": "HABIB BANK LTD.",
@@ -676,8 +676,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "BBSHBDDH003",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -689,8 +689,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "BBSHBDDH005",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -702,8 +702,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BBSHBDDH",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -715,8 +715,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "029",
     "SWIFT Code": "BBSHBDDH029",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -728,8 +728,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "025",
     "SWIFT Code": "BBSHBDDH025",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -741,8 +741,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "030",
     "SWIFT Code": "BBSHBDDH030",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -754,8 +754,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "BBSHBDDH002",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -767,8 +767,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "BBSHBDDH006",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -780,8 +780,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "BBSHBDDH015",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -793,8 +793,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "BBSHBDDH008",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -806,8 +806,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBSH",
-    "bankCode": "BD",
+    "bankCode": "BBSH",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "BBSHBDDH007",
     "Bank Name": "ICB ISLAMIC BANK LIMITED",
@@ -819,8 +819,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "082",
     "SWIFT Code": "IFICBDDH082",
     "Bank Name": "IFIC BANK PLC",
@@ -832,8 +832,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "030",
     "SWIFT Code": "IFICBDDH030",
     "Bank Name": "IFIC BANK PLC",
@@ -845,8 +845,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "031",
     "SWIFT Code": "IFICBDDH031",
     "Bank Name": "IFIC BANK PLC",
@@ -858,8 +858,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "036",
     "SWIFT Code": "IFICBDDH036",
     "Bank Name": "IFIC BANK PLC",
@@ -871,8 +871,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "IFICBDDH",
     "Bank Name": "IFIC BANK PLC",
@@ -884,8 +884,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "IFICBDDH011",
     "Bank Name": "IFIC BANK PLC",
@@ -897,8 +897,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "IFICBDDH006",
     "Bank Name": "IFIC BANK PLC",
@@ -910,8 +910,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "IFICBDDH014",
     "Bank Name": "IFIC BANK PLC",
@@ -923,8 +923,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "IFICBDDH008",
     "Bank Name": "IFIC BANK PLC",
@@ -936,8 +936,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "IFICBDDH002",
     "Bank Name": "IFIC BANK PLC",
@@ -949,8 +949,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "IFICBDDH005",
     "Bank Name": "IFIC BANK PLC",
@@ -962,8 +962,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "IFICBDDH017",
     "Bank Name": "IFIC BANK PLC",
@@ -975,8 +975,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "IFICBDDH004",
     "Bank Name": "IFIC BANK PLC",
@@ -988,8 +988,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "029",
     "SWIFT Code": "IFICBDDH029",
     "Bank Name": "IFIC BANK PLC",
@@ -1001,8 +1001,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "099",
     "SWIFT Code": "IFICBDDH099",
     "Bank Name": "IFIC BANK PLC",
@@ -1014,8 +1014,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "IFICBDDH001",
     "Bank Name": "IFIC BANK PLC",
@@ -1027,8 +1027,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "IFICBDDH024",
     "Bank Name": "IFIC BANK PLC",
@@ -1040,8 +1040,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "061",
     "SWIFT Code": "IFICBDDH061",
     "Bank Name": "IFIC BANK PLC",
@@ -1053,8 +1053,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "060",
     "SWIFT Code": "IFICBDDH060",
     "Bank Name": "IFIC BANK PLC",
@@ -1066,8 +1066,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "IFICBDDH003",
     "Bank Name": "IFIC BANK PLC",
@@ -1079,8 +1079,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "063",
     "SWIFT Code": "IFICBDDH063",
     "Bank Name": "IFIC BANK PLC",
@@ -1092,8 +1092,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "080",
     "SWIFT Code": "IFICBDDH080",
     "Bank Name": "IFIC BANK PLC",
@@ -1105,8 +1105,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "065",
     "SWIFT Code": "IFICBDDH065",
     "Bank Name": "IFIC BANK PLC",
@@ -1118,8 +1118,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFIC",
-    "bankCode": "BD",
+    "bankCode": "IFIC",
+    "countryCode": "BD",
     "branchCode": "033",
     "SWIFT Code": "IFICBDDH033",
     "Bank Name": "IFIC BANK PLC",
@@ -1131,8 +1131,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "111",
     "SWIFT Code": "IBBLBDDH111",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1144,8 +1144,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "112",
     "SWIFT Code": "IBBLBDDH112",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1157,8 +1157,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "176",
     "SWIFT Code": "IBBLBDDH176",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1170,8 +1170,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "132",
     "SWIFT Code": "IBBLBDDH132",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1183,8 +1183,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "103",
     "SWIFT Code": "IBBLBDDH103",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1196,8 +1196,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "124",
     "SWIFT Code": "IBBLBDDH124",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1209,8 +1209,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "162",
     "SWIFT Code": "IBBLBDDH162",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1222,8 +1222,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "304",
     "SWIFT Code": "IBBLBDDH304",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1235,8 +1235,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "288",
     "SWIFT Code": "IBBLBDDH288",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1248,8 +1248,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "137",
     "SWIFT Code": "IBBLBDDH137",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1261,8 +1261,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "361",
     "SWIFT Code": "IBBLBDDH361",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1274,8 +1274,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "106",
     "SWIFT Code": "IBBLBDDH106",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1287,8 +1287,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "025",
     "SWIFT Code": "IBBLBDDH025",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -1300,8 +1300,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "204",
     "SWIFT Code": "DHBLBDDH204",
     "Bank Name": "DHAKA BANK PLC.",
@@ -1313,8 +1313,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "212",
     "SWIFT Code": "DHBLBDDH212",
     "Bank Name": "DHAKA BANK PLC.",
@@ -1326,8 +1326,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "301",
     "SWIFT Code": "DHBLBDDH301",
     "Bank Name": "DHAKA BANK PLC.",
@@ -1339,8 +1339,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "102",
     "SWIFT Code": "DBBLBDDH102",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1352,8 +1352,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "996",
     "SWIFT Code": "DBBLBDDH996",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1365,8 +1365,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "155",
     "SWIFT Code": "DBBLBDDH155",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1378,8 +1378,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "901",
     "SWIFT Code": "DBBLBDDH901",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1391,8 +1391,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "DBBLBDDH",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1404,8 +1404,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "103",
     "SWIFT Code": "DBBLBDDH103",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1417,8 +1417,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "995",
     "SWIFT Code": "DBBLBDDH995",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1430,8 +1430,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "CTS",
     "SWIFT Code": "DBBLBDDHCTS",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1443,8 +1443,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "122",
     "SWIFT Code": "DBBLBDDH122",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1456,8 +1456,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "110",
     "SWIFT Code": "DBBLBDDH110",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1469,8 +1469,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "116",
     "SWIFT Code": "DBBLBDDH116",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1482,8 +1482,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "118",
     "SWIFT Code": "DBBLBDDH118",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1495,8 +1495,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "107",
     "SWIFT Code": "DBBLBDDH107",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1508,8 +1508,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "101",
     "SWIFT Code": "DBBLBDDH101",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1521,8 +1521,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "114",
     "SWIFT Code": "DBBLBDDH114",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1534,8 +1534,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "105",
     "SWIFT Code": "DBBLBDDH105",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1547,8 +1547,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "104",
     "SWIFT Code": "DBBLBDDH104",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1560,8 +1560,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "902",
     "SWIFT Code": "DBBLBDDH902",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1573,8 +1573,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "117",
     "SWIFT Code": "DBBLBDDH117",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1586,8 +1586,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "111",
     "SWIFT Code": "DBBLBDDH111",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1599,8 +1599,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "994",
     "SWIFT Code": "DBBLBDDH994",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1612,8 +1612,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "106",
     "SWIFT Code": "DBBLBDDH106",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1625,8 +1625,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBBL",
-    "bankCode": "BD",
+    "bankCode": "DBBL",
+    "countryCode": "BD",
     "branchCode": "109",
     "SWIFT Code": "DBBLBDDH109",
     "Bank Name": "DUTCH-BANGLA BANK PLC.",
@@ -1638,8 +1638,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "EBLDBDDH018",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1651,8 +1651,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "EBLDBDDH003",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1664,8 +1664,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "EBLDBDDH012",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1677,8 +1677,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "EBLDBDDH006",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1690,8 +1690,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "019",
     "SWIFT Code": "EBLDBDDH019",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1703,8 +1703,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "EBLDBDDH015",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1716,8 +1716,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "EBLDBDDH",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1729,8 +1729,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "EBLDBDDH013",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1742,8 +1742,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "EBLDBDDH017",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1755,8 +1755,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "EBLDBDDHOBU",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1768,8 +1768,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "EBLDBDDH007",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1781,8 +1781,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "EBLDBDDH011",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1794,8 +1794,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "EBLDBDDH001",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1807,8 +1807,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "EBLDBDDH021",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1820,8 +1820,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "EBLDBDDH005",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1833,8 +1833,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "EBLDBDDH002",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1846,8 +1846,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "EBLDBDDH014",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1859,8 +1859,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "EBLDBDDH022",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1872,8 +1872,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "EBLDBDDH010",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1885,8 +1885,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "EBLDBDDH004",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1898,8 +1898,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "EBLDBDDH016",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1911,8 +1911,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "EBLDBDDH020",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1924,8 +1924,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "EBLDBDDH008",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1937,8 +1937,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBLD",
-    "bankCode": "BD",
+    "bankCode": "EBLD",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "EBLDBDDH009",
     "Bank Name": "EASTERN BANK PLC.",
@@ -1950,8 +1950,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "TRS",
     "SWIFT Code": "MTBLBDDHTRS",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -1963,8 +1963,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "BBB",
     "SWIFT Code": "MTBLBDDHBBB",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -1976,8 +1976,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "CRD",
     "SWIFT Code": "MTBLBDDHCRD",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -1989,8 +1989,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "DHA",
     "SWIFT Code": "MTBLBDDHDHA",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2002,8 +2002,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "DIL",
     "SWIFT Code": "MTBLBDDHDIL",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2015,8 +2015,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "MTBLBDDHGUL",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2028,8 +2028,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "TSD",
     "SWIFT Code": "MTBLBDDHTSD",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2041,8 +2041,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "TSM",
     "SWIFT Code": "MTBLBDDHTSM",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2054,8 +2054,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "NRB",
     "SWIFT Code": "MTBLBDDHNRB",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2067,8 +2067,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "MTBLBDDHOBU",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2080,8 +2080,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "PPB",
     "SWIFT Code": "MTBLBDDHPPB",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2093,8 +2093,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "PBR",
     "SWIFT Code": "MTBLBDDHPBR",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2106,8 +2106,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "PSB",
     "SWIFT Code": "MTBLBDDHPSB",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2119,8 +2119,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "MTBLBDDHUTR",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -2132,8 +2132,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "NBLBBDDH013",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2145,8 +2145,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "NBLBBDDH014",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2158,8 +2158,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "NBLBBDDH022",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2171,8 +2171,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "053",
     "SWIFT Code": "NBLBBDDH053",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2184,8 +2184,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "NBLBBDDH004",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2197,8 +2197,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "NBLBBDDH016",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2210,8 +2210,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "NBLBBDDH002",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2223,8 +2223,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "060",
     "SWIFT Code": "NBLBBDDH060",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2236,8 +2236,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "NBLBBDDH",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2249,8 +2249,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "200",
     "SWIFT Code": "NBLBBDDH200",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2262,8 +2262,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "031",
     "SWIFT Code": "NBLBBDDH031",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2275,8 +2275,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "106",
     "SWIFT Code": "NBLBBDDH106",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2288,8 +2288,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "NBLBBDDH012",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2301,8 +2301,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "063",
     "SWIFT Code": "NBLBBDDH063",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2314,8 +2314,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "NBLBBDDH001",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2327,8 +2327,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "NBLBBDDH015",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2340,8 +2340,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "NBLBBDDH021",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2353,8 +2353,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "067",
     "SWIFT Code": "NBLBBDDH067",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2366,8 +2366,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "NBLBBDDH003",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2379,8 +2379,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "054",
     "SWIFT Code": "NBLBBDDH054",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2392,8 +2392,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "048",
     "SWIFT Code": "NBLBBDDH048",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2405,8 +2405,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "032",
     "SWIFT Code": "NBLBBDDH032",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2418,8 +2418,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "069",
     "SWIFT Code": "NBLBBDDH069",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2431,8 +2431,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "043",
     "SWIFT Code": "NBLBBDDH043",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2444,8 +2444,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "058",
     "SWIFT Code": "NBLBBDDH058",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2457,8 +2457,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "111",
     "SWIFT Code": "NBLBBDDH111",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2470,8 +2470,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "049",
     "SWIFT Code": "NBLBBDDH049",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2483,8 +2483,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "998",
     "SWIFT Code": "NBLBBDDH998",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2496,8 +2496,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "997",
     "SWIFT Code": "NBLBBDDH997",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2509,8 +2509,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "098",
     "SWIFT Code": "NBLBBDDH098",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2522,8 +2522,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "068",
     "SWIFT Code": "NBLBBDDH068",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2535,8 +2535,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "073",
     "SWIFT Code": "NBLBBDDH073",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2548,8 +2548,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "075",
     "SWIFT Code": "NBLBBDDH075",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2561,8 +2561,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "029",
     "SWIFT Code": "NBLBBDDH029",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2574,8 +2574,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "062",
     "SWIFT Code": "NBLBBDDH062",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2587,8 +2587,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "NBLBBDDH007",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2600,8 +2600,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "026",
     "SWIFT Code": "NBLBBDDH026",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2613,8 +2613,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "039",
     "SWIFT Code": "NBLBBDDH039",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2626,8 +2626,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "NBLBBDDH010",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2639,8 +2639,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "036",
     "SWIFT Code": "NBLBBDDH036",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2652,8 +2652,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "NBLBBDDH005",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2665,8 +2665,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "NBLBBDDH006",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2678,8 +2678,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "NBLBBDDH024",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2691,8 +2691,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "076",
     "SWIFT Code": "NBLBBDDH076",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2704,8 +2704,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "086",
     "SWIFT Code": "NBLBBDDH086",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2717,8 +2717,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBLB",
-    "bankCode": "BD",
+    "bankCode": "NBLB",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "NBLBBDDH008",
     "Bank Name": "NATIONAL BANK LIMITED",
@@ -2730,8 +2730,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "BD",
+    "bankCode": "NBPA",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "NBPABDDH",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -2743,8 +2743,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "NCCLBDDHAGB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2756,8 +2756,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "JRB",
     "SWIFT Code": "NCCLBDDHJRB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2769,8 +2769,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "KTB",
     "SWIFT Code": "NCCLBDDHKTB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2782,8 +2782,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "ORN",
     "SWIFT Code": "NCCLBDDHORN",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2795,8 +2795,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "NCCLBDDH",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2808,8 +2808,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "BBB",
     "SWIFT Code": "NCCLBDDHBBB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2821,8 +2821,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "BAB",
     "SWIFT Code": "NCCLBDDHBAB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2834,8 +2834,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "BNB",
     "SWIFT Code": "NCCLBDDHBNB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2847,8 +2847,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "DMB",
     "SWIFT Code": "NCCLBDDHDMB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2860,8 +2860,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "DLB",
     "SWIFT Code": "NCCLBDDHDLB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2873,8 +2873,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "FEB",
     "SWIFT Code": "NCCLBDDHFEB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2886,8 +2886,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "GSB",
     "SWIFT Code": "NCCLBDDHGSB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2899,8 +2899,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "HID",
     "SWIFT Code": "NCCLBDDHHID",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2912,8 +2912,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "IGS",
     "SWIFT Code": "NCCLBDDHIGS",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2925,8 +2925,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "KWB",
     "SWIFT Code": "NCCLBDDHKWB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2938,8 +2938,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "MBB",
     "SWIFT Code": "NCCLBDDHMBB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2951,8 +2951,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "MFD",
     "SWIFT Code": "NCCLBDDHMFD",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2964,8 +2964,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "MGB",
     "SWIFT Code": "NCCLBDDHMGB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2977,8 +2977,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "MTB",
     "SWIFT Code": "NCCLBDDHMTB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -2990,8 +2990,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "NBB",
     "SWIFT Code": "NCCLBDDHNBB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3003,8 +3003,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "NCCLBDDHOBU",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3016,8 +3016,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "UTB",
     "SWIFT Code": "NCCLBDDHUTB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3029,8 +3029,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "JSB",
     "SWIFT Code": "NCCLBDDHJSB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3042,8 +3042,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "KLB",
     "SWIFT Code": "NCCLBDDHKLB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3055,8 +3055,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "NGB",
     "SWIFT Code": "NCCLBDDHNGB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3068,8 +3068,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "RPB",
     "SWIFT Code": "NCCLBDDHRPB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3081,8 +3081,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCL",
-    "bankCode": "BD",
+    "bankCode": "NCCL",
+    "countryCode": "BD",
     "branchCode": "LDB",
     "SWIFT Code": "NCCLBDDHLDB",
     "Bank Name": "NATIONAL CREDIT AND COMMERCE BANK PLC",
@@ -3094,8 +3094,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBD",
-    "bankCode": "BD",
+    "bankCode": "NRBD",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "NRBDBDDH",
     "Bank Name": "NRB BANK LIMITED",
@@ -3107,8 +3107,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "NRBBBDDHAGB",
     "Bank Name": "NRBC BANK PLC.",
@@ -3120,8 +3120,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "ORN",
     "SWIFT Code": "NRBBBDDHORN",
     "Bank Name": "NRBC BANK PLC.",
@@ -3133,8 +3133,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "NRBBBDDH",
     "Bank Name": "NRBC BANK PLC.",
@@ -3146,8 +3146,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "BAN",
     "SWIFT Code": "NRBBBDDHBAN",
     "Bank Name": "NRBC BANK PLC.",
@@ -3159,8 +3159,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "DHN",
     "SWIFT Code": "NRBBBDDHDHN",
     "Bank Name": "NRBC BANK PLC.",
@@ -3172,8 +3172,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "NRBBBDDHGUL",
     "Bank Name": "NRBC BANK PLC.",
@@ -3185,8 +3185,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "HAT",
     "SWIFT Code": "NRBBBDDHHAT",
     "Bank Name": "NRBC BANK PLC.",
@@ -3198,8 +3198,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "PRB",
     "SWIFT Code": "NRBBBDDHPRB",
     "Bank Name": "NRBC BANK PLC.",
@@ -3211,8 +3211,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRBB",
-    "bankCode": "BD",
+    "bankCode": "NRBB",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "NRBBBDDHUTR",
     "Bank Name": "NRBC BANK PLC.",
@@ -3224,8 +3224,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "OB2",
     "SWIFT Code": "ONEBBDDHOB2",
     "Bank Name": "ONE BANK LIMITED",
@@ -3237,8 +3237,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "ONEBBDDH002",
     "Bank Name": "ONE BANK LIMITED",
@@ -3250,8 +3250,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "023",
     "SWIFT Code": "ONEBBDDH023",
     "Bank Name": "ONE BANK LIMITED",
@@ -3263,8 +3263,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "ONEBBDDH004",
     "Bank Name": "ONE BANK LIMITED",
@@ -3276,8 +3276,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "ONEBBDDH",
     "Bank Name": "ONE BANK LIMITED",
@@ -3289,8 +3289,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "ONEBBDDH018",
     "Bank Name": "ONE BANK LIMITED",
@@ -3302,8 +3302,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "ONEBBDDH022",
     "Bank Name": "ONE BANK LIMITED",
@@ -3315,8 +3315,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "ONEBBDDH013",
     "Bank Name": "ONE BANK LIMITED",
@@ -3328,8 +3328,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "027",
     "SWIFT Code": "ONEBBDDH027",
     "Bank Name": "ONE BANK LIMITED",
@@ -3341,8 +3341,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "ONEBBDDH003",
     "Bank Name": "ONE BANK LIMITED",
@@ -3354,8 +3354,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "106",
     "SWIFT Code": "ONEBBDDH106",
     "Bank Name": "ONE BANK LIMITED",
@@ -3367,8 +3367,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "ONEBBDDH008",
     "Bank Name": "ONE BANK LIMITED",
@@ -3380,8 +3380,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "ONEBBDDH012",
     "Bank Name": "ONE BANK LIMITED",
@@ -3393,8 +3393,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "ONEBBDDH011",
     "Bank Name": "ONE BANK LIMITED",
@@ -3406,8 +3406,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "ONEBBDDH020",
     "Bank Name": "ONE BANK LIMITED",
@@ -3419,8 +3419,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "ONEBBDDHOBU",
     "Bank Name": "ONE BANK LIMITED",
@@ -3432,8 +3432,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "ONEBBDDH001",
     "Bank Name": "ONE BANK LIMITED",
@@ -3445,8 +3445,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "025",
     "SWIFT Code": "ONEBBDDH025",
     "Bank Name": "ONE BANK LIMITED",
@@ -3458,8 +3458,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "ONEBBDDH006",
     "Bank Name": "ONE BANK LIMITED",
@@ -3471,8 +3471,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "ONEBBDDH014",
     "Bank Name": "ONE BANK LIMITED",
@@ -3484,8 +3484,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "ONEBBDDH017",
     "Bank Name": "ONE BANK LIMITED",
@@ -3497,8 +3497,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "ONEBBDDH005",
     "Bank Name": "ONE BANK LIMITED",
@@ -3510,8 +3510,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ONEB",
-    "bankCode": "BD",
+    "bankCode": "ONEB",
+    "countryCode": "BD",
     "branchCode": "051",
     "SWIFT Code": "ONEBBDDH051",
     "Bank Name": "ONE BANK LIMITED",
@@ -3523,8 +3523,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRMS",
-    "bankCode": "BD",
+    "bankCode": "FRMS",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "FRMSBDDH",
     "Bank Name": "PADMA BANK LIMITED",
@@ -3536,8 +3536,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "PRBLBDDH008",
     "Bank Name": "PRIME BANK PLC.",
@@ -3549,8 +3549,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "PRBLBDDH022",
     "Bank Name": "PRIME BANK PLC.",
@@ -3562,8 +3562,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "PRBLBDDH015",
     "Bank Name": "PRIME BANK PLC.",
@@ -3575,8 +3575,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "PRBLBDDH017",
     "Bank Name": "PRIME BANK PLC.",
@@ -3588,8 +3588,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "PRBLBDDH002",
     "Bank Name": "PRIME BANK PLC.",
@@ -3601,8 +3601,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "025",
     "SWIFT Code": "PRBLBDDH025",
     "Bank Name": "PRIME BANK PLC.",
@@ -3614,8 +3614,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "CEZ",
     "SWIFT Code": "PRBLBDDHCEZ",
     "Bank Name": "PRIME BANK PLC.",
@@ -3627,8 +3627,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "027",
     "SWIFT Code": "PRBLBDDH027",
     "Bank Name": "PRIME BANK PLC.",
@@ -3640,8 +3640,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "PRBLBDDH",
     "Bank Name": "PRIME BANK PLC.",
@@ -3653,8 +3653,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "PRBLBDDH020",
     "Bank Name": "PRIME BANK PLC.",
@@ -3666,8 +3666,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "026",
     "SWIFT Code": "PRBLBDDH026",
     "Bank Name": "PRIME BANK PLC.",
@@ -3679,8 +3679,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "PRBLBDDH011",
     "Bank Name": "PRIME BANK PLC.",
@@ -3692,8 +3692,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "019",
     "SWIFT Code": "PRBLBDDH019",
     "Bank Name": "PRIME BANK PLC.",
@@ -3705,8 +3705,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "PRBLBDDH014",
     "Bank Name": "PRIME BANK PLC.",
@@ -3718,8 +3718,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "PRBLBDDH016",
     "Bank Name": "PRIME BANK PLC.",
@@ -3731,8 +3731,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "099",
     "SWIFT Code": "PRBLBDDH099",
     "Bank Name": "PRIME BANK PLC.",
@@ -3744,8 +3744,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "PRBLBDDH005",
     "Bank Name": "PRIME BANK PLC.",
@@ -3757,8 +3757,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "PRBLBDDH010",
     "Bank Name": "PRIME BANK PLC.",
@@ -3770,8 +3770,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "PRBLBDDH007",
     "Bank Name": "PRIME BANK PLC.",
@@ -3783,8 +3783,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "PRBLBDDH001",
     "Bank Name": "PRIME BANK PLC.",
@@ -3796,8 +3796,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "PRBLBDDH013",
     "Bank Name": "PRIME BANK PLC.",
@@ -3809,8 +3809,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "PRBLBDDH003",
     "Bank Name": "PRIME BANK PLC.",
@@ -3822,8 +3822,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "DEZ",
     "SWIFT Code": "PRBLBDDHDEZ",
     "Bank Name": "PRIME BANK PLC.",
@@ -3835,8 +3835,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "023",
     "SWIFT Code": "PRBLBDDH023",
     "Bank Name": "PRIME BANK PLC.",
@@ -3848,8 +3848,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "PRBLBDDH024",
     "Bank Name": "PRIME BANK PLC.",
@@ -3861,8 +3861,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "PRBLBDDH021",
     "Bank Name": "PRIME BANK PLC.",
@@ -3874,8 +3874,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "PRBLBDDH018",
     "Bank Name": "PRIME BANK PLC.",
@@ -3887,8 +3887,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "PRBLBDDH004",
     "Bank Name": "PRIME BANK PLC.",
@@ -3900,8 +3900,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "164",
     "SWIFT Code": "IBBLBDDH164",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3913,8 +3913,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "125",
     "SWIFT Code": "IBBLBDDH125",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3926,8 +3926,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "135",
     "SWIFT Code": "IBBLBDDH135",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3939,8 +3939,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "175",
     "SWIFT Code": "IBBLBDDH175",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3952,8 +3952,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "182",
     "SWIFT Code": "IBBLBDDH182",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3965,8 +3965,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "107",
     "SWIFT Code": "IBBLBDDH107",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3978,8 +3978,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "133",
     "SWIFT Code": "IBBLBDDH133",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -3991,8 +3991,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "140",
     "SWIFT Code": "IBBLBDDH140",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4004,8 +4004,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "108",
     "SWIFT Code": "IBBLBDDH108",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4017,8 +4017,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "171",
     "SWIFT Code": "IBBLBDDH171",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4030,8 +4030,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "119",
     "SWIFT Code": "IBBLBDDH119",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4043,8 +4043,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "152",
     "SWIFT Code": "IBBLBDDH152",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4056,8 +4056,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "126",
     "SWIFT Code": "IBBLBDDH126",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4069,8 +4069,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "122",
     "SWIFT Code": "IBBLBDDH122",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4082,8 +4082,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "115",
     "SWIFT Code": "IBBLBDDH115",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4095,8 +4095,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "113",
     "SWIFT Code": "IBBLBDDH113",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4108,8 +4108,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "117",
     "SWIFT Code": "IBBLBDDH117",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4121,8 +4121,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "143",
     "SWIFT Code": "IBBLBDDH143",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4134,8 +4134,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "293",
     "SWIFT Code": "IBBLBDDH293",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4147,8 +4147,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "104",
     "SWIFT Code": "IBBLBDDH104",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -4160,8 +4160,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "038",
     "SWIFT Code": "JAMUBDDH038",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4173,8 +4173,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "055",
     "SWIFT Code": "JAMUBDDH055",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4186,8 +4186,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "049",
     "SWIFT Code": "JAMUBDDH049",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4199,8 +4199,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "042",
     "SWIFT Code": "JAMUBDDH042",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4212,8 +4212,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "TFC",
     "SWIFT Code": "JAMUBDDHTFC",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4225,8 +4225,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "JAMUBDDH",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4238,8 +4238,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "053",
     "SWIFT Code": "JAMUBDDH053",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4251,8 +4251,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "048",
     "SWIFT Code": "JAMUBDDH048",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4264,8 +4264,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "052",
     "SWIFT Code": "JAMUBDDH052",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4277,8 +4277,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "037",
     "SWIFT Code": "JAMUBDDH037",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4290,8 +4290,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "045",
     "SWIFT Code": "JAMUBDDH045",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4303,8 +4303,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "043",
     "SWIFT Code": "JAMUBDDH043",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4316,8 +4316,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "057",
     "SWIFT Code": "JAMUBDDH057",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4329,8 +4329,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "056",
     "SWIFT Code": "JAMUBDDH056",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4342,8 +4342,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "035",
     "SWIFT Code": "JAMUBDDH035",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4355,8 +4355,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "051",
     "SWIFT Code": "JAMUBDDH051",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4368,8 +4368,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "036",
     "SWIFT Code": "JAMUBDDH036",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4381,8 +4381,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "040",
     "SWIFT Code": "JAMUBDDH040",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4394,8 +4394,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "520",
     "SWIFT Code": "JAMUBDDH520",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4407,8 +4407,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "041",
     "SWIFT Code": "JAMUBDDH041",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4420,8 +4420,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "039",
     "SWIFT Code": "JAMUBDDH039",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4433,8 +4433,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "058",
     "SWIFT Code": "JAMUBDDH058",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4446,8 +4446,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "TFP",
     "SWIFT Code": "JAMUBDDHTFP",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4459,8 +4459,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "054",
     "SWIFT Code": "JAMUBDDH054",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4472,8 +4472,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "044",
     "SWIFT Code": "JAMUBDDH044",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4485,8 +4485,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "047",
     "SWIFT Code": "JAMUBDDH047",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4498,8 +4498,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JAMU",
-    "bankCode": "BD",
+    "bankCode": "JAMU",
+    "countryCode": "BD",
     "branchCode": "050",
     "SWIFT Code": "JAMUBDDH050",
     "Bank Name": "JAMUNA BANK PLC.",
@@ -4511,8 +4511,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "MPC",
     "SWIFT Code": "JANBBDDHMPC",
     "Bank Name": "JANATA BANK PLC.",
@@ -4524,8 +4524,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "BSL",
     "SWIFT Code": "JANBBDDHBSL",
     "Bank Name": "JANATA BANK PLC.",
@@ -4537,8 +4537,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "BOG",
     "SWIFT Code": "JANBBDDHBOG",
     "Bank Name": "JANATA BANK PLC.",
@@ -4550,8 +4550,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "RUPBBDDH",
     "Bank Name": "RUPALI BANK LTD",
@@ -4563,8 +4563,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "RFB",
     "SWIFT Code": "RUPBBDDHRFB",
     "Bank Name": "RUPALI BANK LTD",
@@ -4576,8 +4576,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "GCD",
     "SWIFT Code": "RUPBBDDHGCD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4589,8 +4589,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "JRD",
     "SWIFT Code": "RUPBBDDHJRD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4602,8 +4602,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "LOD",
     "SWIFT Code": "RUPBBDDHLOD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4615,8 +4615,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "MFD",
     "SWIFT Code": "RUPBBDDHMFD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4628,8 +4628,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "MCD",
     "SWIFT Code": "RUPBBDDHMCD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4641,8 +4641,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "NBD",
     "SWIFT Code": "RUPBBDDHNBD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4654,8 +4654,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "PPD",
     "SWIFT Code": "RUPBBDDHPPD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4667,8 +4667,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "RBD",
     "SWIFT Code": "RUPBBDDHRBD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4680,8 +4680,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "REM",
     "SWIFT Code": "RUPBBDDHREM",
     "Bank Name": "RUPALI BANK LTD",
@@ -4693,8 +4693,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "RSD",
     "SWIFT Code": "RUPBBDDHRSD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4706,8 +4706,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "TCB",
     "SWIFT Code": "RUPBBDDHTCB",
     "Bank Name": "RUPALI BANK LTD",
@@ -4719,8 +4719,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "RTD",
     "SWIFT Code": "RUPBBDDHRTD",
     "Bank Name": "RUPALI BANK LTD",
@@ -4732,8 +4732,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "MKJ",
     "SWIFT Code": "RUPBBDDHMKJ",
     "Bank Name": "RUPALI BANK LTD",
@@ -4745,8 +4745,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "DPK",
     "SWIFT Code": "RUPBBDDHDPK",
     "Bank Name": "RUPALI BANK LTD",
@@ -4758,8 +4758,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "SBK",
     "SWIFT Code": "RUPBBDDHSBK",
     "Bank Name": "RUPALI BANK LTD",
@@ -4771,8 +4771,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "CBM",
     "SWIFT Code": "RUPBBDDHCBM",
     "Bank Name": "RUPALI BANK LTD",
@@ -4784,8 +4784,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "SKN",
     "SWIFT Code": "RUPBBDDHSKN",
     "Bank Name": "RUPALI BANK LTD",
@@ -4797,8 +4797,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "SBR",
     "SWIFT Code": "RUPBBDDHSBR",
     "Bank Name": "RUPALI BANK LTD",
@@ -4810,8 +4810,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "GLR",
     "SWIFT Code": "RUPBBDDHGLR",
     "Bank Name": "RUPALI BANK LTD",
@@ -4823,8 +4823,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "MBS",
     "SWIFT Code": "RUPBBDDHMBS",
     "Bank Name": "RUPALI BANK LTD",
@@ -4836,8 +4836,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "BD",
+    "bankCode": "SECT",
+    "countryCode": "BD",
     "branchCode": "DD2",
     "SWIFT Code": "SECTBDD2",
     "Bank Name": "SAMSUNG R AND D INSTITUTE BANGLADESH LTD",
@@ -4849,8 +4849,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "SJBLBDDHAGB",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4862,8 +4862,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "CTG",
     "SWIFT Code": "SJBLBDDHCTG",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4875,8 +4875,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "JUB",
     "SWIFT Code": "SJBLBDDHJUB",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4888,8 +4888,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "SJBLBDDHKTG",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4901,8 +4901,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "SJBLBDDH",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4914,8 +4914,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "BAN",
     "SWIFT Code": "SJBLBDDHBAN",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4927,8 +4927,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "BNG",
     "SWIFT Code": "SJBLBDDHBNG",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4940,8 +4940,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "CPC",
     "SWIFT Code": "SJBLBDDHCPC",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4953,8 +4953,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "DMB",
     "SWIFT Code": "SJBLBDDHDMB",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4966,8 +4966,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "DHN",
     "SWIFT Code": "SJBLBDDHDHN",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4979,8 +4979,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "ESK",
     "SWIFT Code": "SJBLBDDHESK",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -4992,8 +4992,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "FEX",
     "SWIFT Code": "SJBLBDDHFEX",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5005,8 +5005,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "SJBLBDDHGUL",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5018,8 +5018,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "KAW",
     "SWIFT Code": "SJBLBDDHKAW",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5031,8 +5031,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "SMR",
     "SWIFT Code": "SJBLBDDHSMR",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5044,8 +5044,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "MHK",
     "SWIFT Code": "SJBLBDDHMHK",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5057,8 +5057,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "MOT",
     "SWIFT Code": "SJBLBDDHMOT",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5070,8 +5070,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "MFB",
     "SWIFT Code": "SJBLBDDHMFB",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5083,8 +5083,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "SJBLBDDHOBU",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5096,8 +5096,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "TBO",
     "SWIFT Code": "SJBLBDDHTBO",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5109,8 +5109,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "SJBLBDDHUTR",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5122,8 +5122,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "JSR",
     "SWIFT Code": "SJBLBDDHJSR",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5135,8 +5135,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "KLN",
     "SWIFT Code": "SJBLBDDHKLN",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5148,8 +5148,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SJBL",
-    "bankCode": "BD",
+    "bankCode": "SJBL",
+    "countryCode": "BD",
     "branchCode": "NGJ",
     "SWIFT Code": "SJBLBDDHNGJ",
     "Bank Name": "SHAHJALAL ISLAMI BANK PLC.",
@@ -5161,8 +5161,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHMT",
-    "bankCode": "BD",
+    "bankCode": "SHMT",
+    "countryCode": "BD",
     "branchCode": "DDD",
     "SWIFT Code": "SHMTBDDD",
     "Bank Name": "SHIMANTO BANK LIMITED",
@@ -5174,8 +5174,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "SOIVBDDH",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5187,8 +5187,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "BOG",
     "SWIFT Code": "SOIVBDDHBOG",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5200,8 +5200,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "457",
     "SWIFT Code": "UTBLBDDH457",
     "Bank Name": "UTTARA BANK PLC",
@@ -5213,8 +5213,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "438",
     "SWIFT Code": "UTBLBDDH438",
     "Bank Name": "UTTARA BANK PLC",
@@ -5226,8 +5226,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "463",
     "SWIFT Code": "UTBLBDDH463",
     "Bank Name": "UTTARA BANK PLC",
@@ -5239,8 +5239,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "451",
     "SWIFT Code": "UTBLBDDH451",
     "Bank Name": "UTTARA BANK PLC",
@@ -5252,8 +5252,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "TDB",
     "SWIFT Code": "UTBLBDDHTDB",
     "Bank Name": "UTTARA BANK PLC",
@@ -5265,8 +5265,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "465",
     "SWIFT Code": "UTBLBDDH465",
     "Bank Name": "UTTARA BANK PLC",
@@ -5278,8 +5278,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "456",
     "SWIFT Code": "UTBLBDDH456",
     "Bank Name": "UTTARA BANK PLC",
@@ -5291,8 +5291,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "443",
     "SWIFT Code": "UTBLBDDH443",
     "Bank Name": "UTTARA BANK PLC",
@@ -5304,8 +5304,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "470",
     "SWIFT Code": "UTBLBDDH470",
     "Bank Name": "UTTARA BANK PLC",
@@ -5317,8 +5317,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "459",
     "SWIFT Code": "UTBLBDDH459",
     "Bank Name": "UTTARA BANK PLC",
@@ -5330,8 +5330,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "469",
     "SWIFT Code": "UTBLBDDH469",
     "Bank Name": "UTTARA BANK PLC",
@@ -5343,8 +5343,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "437",
     "SWIFT Code": "UTBLBDDH437",
     "Bank Name": "UTTARA BANK PLC",
@@ -5356,8 +5356,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "467",
     "SWIFT Code": "UTBLBDDH467",
     "Bank Name": "UTTARA BANK PLC",
@@ -5369,8 +5369,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "466",
     "SWIFT Code": "UTBLBDDH466",
     "Bank Name": "UTTARA BANK PLC",
@@ -5382,8 +5382,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "445",
     "SWIFT Code": "UTBLBDDH445",
     "Bank Name": "UTTARA BANK PLC",
@@ -5395,8 +5395,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "446",
     "SWIFT Code": "UTBLBDDH446",
     "Bank Name": "UTTARA BANK PLC",
@@ -5408,8 +5408,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "468",
     "SWIFT Code": "UTBLBDDH468",
     "Bank Name": "UTTARA BANK PLC",
@@ -5421,8 +5421,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "440",
     "SWIFT Code": "UTBLBDDH440",
     "Bank Name": "UTTARA BANK PLC",
@@ -5434,8 +5434,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "BD",
+    "bankCode": "HVBK",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "HVBKBDDH",
     "Bank Name": "WOORI BANK, DHAKA",
@@ -5447,8 +5447,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "SOIVBDDHAGB",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5460,8 +5460,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "JUB",
     "SWIFT Code": "SOIVBDDHJUB",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5473,8 +5473,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "KTJ",
     "SWIFT Code": "SOIVBDDHKTJ",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5486,8 +5486,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "BBR",
     "SWIFT Code": "SOIVBDDHBBR",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5499,8 +5499,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "BAN",
     "SWIFT Code": "SOIVBDDHBAN",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5512,8 +5512,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "BAS",
     "SWIFT Code": "SOIVBDDHBAS",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5525,8 +5525,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "CTP",
     "SWIFT Code": "SOIVBDDHCTP",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5538,8 +5538,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "COR",
     "SWIFT Code": "SOIVBDDHCOR",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5551,8 +5551,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "DHA",
     "SWIFT Code": "SOIVBDDHDHA",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5564,8 +5564,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "FEX",
     "SWIFT Code": "SOIVBDDHFEX",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5577,8 +5577,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "SOIVBDDHGUL",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5590,8 +5590,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "MHK",
     "SWIFT Code": "SOIVBDDHMHK",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5603,8 +5603,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "MVR",
     "SWIFT Code": "SOIVBDDHMVR",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5616,8 +5616,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "NAW",
     "SWIFT Code": "SOIVBDDHNAW",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5629,8 +5629,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "ESK",
     "SWIFT Code": "SOIVBDDHESK",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5642,8 +5642,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "SOIVBDDHOBU",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5655,8 +5655,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "PPB",
     "SWIFT Code": "SOIVBDDHPPB",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5668,8 +5668,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "PRN",
     "SWIFT Code": "SOIVBDDHPRN",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5681,8 +5681,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "SOIVBDDHUTR",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5694,8 +5694,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "KHU",
     "SWIFT Code": "SOIVBDDHKHU",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5707,8 +5707,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "NGJ",
     "SWIFT Code": "SOIVBDDHNGJ",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5720,8 +5720,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "RAJ",
     "SWIFT Code": "SOIVBDDHRAJ",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5733,8 +5733,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIV",
-    "bankCode": "BD",
+    "bankCode": "SOIV",
+    "countryCode": "BD",
     "branchCode": "SYL",
     "SWIFT Code": "SOIVBDDHSYL",
     "Bank Name": "SOCIAL ISLAMI BANK PLC",
@@ -5746,8 +5746,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "BOG",
     "SWIFT Code": "BSONBDDHBOG",
     "Bank Name": "SONALI BANK PLC",
@@ -5759,8 +5759,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "BRM",
     "SWIFT Code": "BSONBDDHBRM",
     "Bank Name": "SONALI BANK PLC",
@@ -5772,8 +5772,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "CHP",
     "SWIFT Code": "BSONBDDHCHP",
     "Bank Name": "SONALI BANK PLC",
@@ -5785,8 +5785,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "AGR",
     "SWIFT Code": "BSONBDDHAGR",
     "Bank Name": "SONALI BANK PLC",
@@ -5798,8 +5798,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "BHT",
     "SWIFT Code": "BSONBDDHBHT",
     "Bank Name": "SONALI BANK PLC",
@@ -5811,8 +5811,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "KHA",
     "SWIFT Code": "BSONBDDHKHA",
     "Bank Name": "SONALI BANK PLC",
@@ -5824,8 +5824,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "CTG",
     "SWIFT Code": "BSONBDDHCTG",
     "Bank Name": "SONALI BANK PLC",
@@ -5837,8 +5837,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "RWB",
     "SWIFT Code": "BSONBDDHRWB",
     "Bank Name": "SONALI BANK PLC",
@@ -5850,8 +5850,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "WEC",
     "SWIFT Code": "BSONBDDHWEC",
     "Bank Name": "SONALI BANK PLC",
@@ -5863,8 +5863,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "CCB",
     "SWIFT Code": "BSONBDDHCCB",
     "Bank Name": "SONALI BANK PLC",
@@ -5876,8 +5876,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BSONBDDH",
     "Bank Name": "SONALI BANK PLC",
@@ -5889,8 +5889,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "BWP",
     "SWIFT Code": "BSONBDDHBWP",
     "Bank Name": "SONALI BANK PLC",
@@ -5902,8 +5902,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "BBA",
     "SWIFT Code": "BSONBDDHBBA",
     "Bank Name": "SONALI BANK PLC",
@@ -5915,8 +5915,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "CNT",
     "SWIFT Code": "BSONBDDHCNT",
     "Bank Name": "SONALI BANK PLC",
@@ -5928,8 +5928,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "CWK",
     "SWIFT Code": "BSONBDDHCWK",
     "Bank Name": "SONALI BANK PLC",
@@ -5941,8 +5941,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "DHN",
     "SWIFT Code": "BSONBDDHDHN",
     "Bank Name": "SONALI BANK PLC",
@@ -5954,8 +5954,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "DIL",
     "SWIFT Code": "BSONBDDHDIL",
     "Bank Name": "SONALI BANK PLC",
@@ -5967,8 +5967,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "FCD",
     "SWIFT Code": "BSONBDDHFCD",
     "Bank Name": "SONALI BANK PLC",
@@ -5980,8 +5980,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "FEB",
     "SWIFT Code": "BSONBDDHFEB",
     "Bank Name": "SONALI BANK PLC",
@@ -5993,8 +5993,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "RMD",
     "SWIFT Code": "BSONBDDHRMD",
     "Bank Name": "SONALI BANK PLC",
@@ -6006,8 +6006,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "GRN",
     "SWIFT Code": "BSONBDDHGRN",
     "Bank Name": "SONALI BANK PLC",
@@ -6019,8 +6019,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "BSONBDDHGUL",
     "Bank Name": "SONALI BANK PLC",
@@ -6032,8 +6032,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SIA",
     "SWIFT Code": "BSONBDDHSIA",
     "Bank Name": "SONALI BANK PLC",
@@ -6045,8 +6045,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "LOD",
     "SWIFT Code": "BSONBDDHLOD",
     "Bank Name": "SONALI BANK PLC",
@@ -6058,8 +6058,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "RAM",
     "SWIFT Code": "BSONBDDHRAM",
     "Bank Name": "SONALI BANK PLC",
@@ -6071,8 +6071,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SDR",
     "SWIFT Code": "BSONBDDHSDR",
     "Bank Name": "SONALI BANK PLC",
@@ -6084,8 +6084,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SLP",
     "SWIFT Code": "BSONBDDHSLP",
     "Bank Name": "SONALI BANK PLC",
@@ -6097,8 +6097,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "BJN",
     "SWIFT Code": "UCBLBDDHBJN",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6110,8 +6110,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "GAB",
     "SWIFT Code": "UCBLBDDHGAB",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6123,8 +6123,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "EPR",
     "SWIFT Code": "UCBLBDDHEPR",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6136,8 +6136,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "FEX",
     "SWIFT Code": "UCBLBDDHFEX",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6149,8 +6149,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "GSN",
     "SWIFT Code": "UCBLBDDHGSN",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6162,8 +6162,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "IBD",
     "SWIFT Code": "UCBLBDDHIBD",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6175,8 +6175,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "KBZ",
     "SWIFT Code": "UCBLBDDHKBZ",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6188,8 +6188,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "MRP",
     "SWIFT Code": "UCBLBDDHMRP",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6201,8 +6201,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "MRB",
     "SWIFT Code": "UCBLBDDHMRB",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6214,8 +6214,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "MKH",
     "SWIFT Code": "UCBLBDDHMKH",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6227,8 +6227,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "MBD",
     "SWIFT Code": "UCBLBDDHMBD",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6240,8 +6240,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "NWP",
     "SWIFT Code": "UCBLBDDHNWP",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6253,8 +6253,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "NBZ",
     "SWIFT Code": "UCBLBDDHNBZ",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6266,8 +6266,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "NBH",
     "SWIFT Code": "UCBLBDDHNBH",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6279,8 +6279,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "UCBLBDDHOBU",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6292,8 +6292,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "PRB",
     "SWIFT Code": "UCBLBDDHPRB",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6305,8 +6305,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "TNG",
     "SWIFT Code": "UCBLBDDHTNG",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6318,8 +6318,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "TFO",
     "SWIFT Code": "UCBLBDDHTFO",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6331,8 +6331,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "CML",
     "SWIFT Code": "UCBLBDDHCML",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6344,8 +6344,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "UCBLBDDHUTR",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6357,8 +6357,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "KLN",
     "SWIFT Code": "UCBLBDDHKLN",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6370,8 +6370,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "NGJ",
     "SWIFT Code": "UCBLBDDHNGJ",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6383,8 +6383,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "RJH",
     "SWIFT Code": "UCBLBDDHRJH",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6396,8 +6396,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "RNG",
     "SWIFT Code": "UCBLBDDHRNG",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6409,8 +6409,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "SYL",
     "SWIFT Code": "UCBLBDDHSYL",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -6422,8 +6422,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "444",
     "SWIFT Code": "UTBLBDDH444",
     "Bank Name": "UTTARA BANK PLC",
@@ -6435,8 +6435,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "447",
     "SWIFT Code": "UTBLBDDH447",
     "Bank Name": "UTTARA BANK PLC",
@@ -6448,8 +6448,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "439",
     "SWIFT Code": "UTBLBDDH439",
     "Bank Name": "UTTARA BANK PLC",
@@ -6461,8 +6461,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "442",
     "SWIFT Code": "UTBLBDDH442",
     "Bank Name": "UTTARA BANK PLC",
@@ -6474,8 +6474,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "450",
     "SWIFT Code": "UTBLBDDH450",
     "Bank Name": "UTTARA BANK PLC",
@@ -6487,8 +6487,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "441",
     "SWIFT Code": "UTBLBDDH441",
     "Bank Name": "UTTARA BANK PLC",
@@ -6500,8 +6500,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "UTBLBDDH",
     "Bank Name": "UTTARA BANK PLC",
@@ -6513,8 +6513,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "460",
     "SWIFT Code": "UTBLBDDH460",
     "Bank Name": "UTTARA BANK PLC",
@@ -6526,8 +6526,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "449",
     "SWIFT Code": "UTBLBDDH449",
     "Bank Name": "UTTARA BANK PLC",
@@ -6539,8 +6539,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "453",
     "SWIFT Code": "UTBLBDDH453",
     "Bank Name": "UTTARA BANK PLC",
@@ -6552,8 +6552,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "434",
     "SWIFT Code": "UTBLBDDH434",
     "Bank Name": "UTTARA BANK PLC",
@@ -6565,8 +6565,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "452",
     "SWIFT Code": "UTBLBDDH452",
     "Bank Name": "UTTARA BANK PLC",
@@ -6578,8 +6578,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "462",
     "SWIFT Code": "UTBLBDDH462",
     "Bank Name": "UTTARA BANK PLC",
@@ -6591,8 +6591,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "433",
     "SWIFT Code": "UTBLBDDH433",
     "Bank Name": "UTTARA BANK PLC",
@@ -6604,8 +6604,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "464",
     "SWIFT Code": "UTBLBDDH464",
     "Bank Name": "UTTARA BANK PLC",
@@ -6617,8 +6617,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "435",
     "SWIFT Code": "UTBLBDDH435",
     "Bank Name": "UTTARA BANK PLC",
@@ -6630,8 +6630,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "458",
     "SWIFT Code": "UTBLBDDH458",
     "Bank Name": "UTTARA BANK PLC",
@@ -6643,8 +6643,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "431",
     "SWIFT Code": "UTBLBDDH431",
     "Bank Name": "UTTARA BANK PLC",
@@ -6656,8 +6656,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "436",
     "SWIFT Code": "UTBLBDDH436",
     "Bank Name": "UTTARA BANK PLC",
@@ -6669,8 +6669,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "461",
     "SWIFT Code": "UTBLBDDH461",
     "Bank Name": "UTTARA BANK PLC",
@@ -6682,8 +6682,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "455",
     "SWIFT Code": "UTBLBDDH455",
     "Bank Name": "UTTARA BANK PLC",
@@ -6695,8 +6695,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "432",
     "SWIFT Code": "UTBLBDDH432",
     "Bank Name": "UTTARA BANK PLC",
@@ -6708,8 +6708,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "448",
     "SWIFT Code": "UTBLBDDH448",
     "Bank Name": "UTTARA BANK PLC",
@@ -6721,8 +6721,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "454",
     "SWIFT Code": "UTBLBDDH454",
     "Bank Name": "UTTARA BANK PLC",
@@ -6734,8 +6734,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTBL",
-    "bankCode": "BD",
+    "bankCode": "UTBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "UTBLBDDHOBU",
     "Bank Name": "UTTARA BANK PLC",
@@ -6747,8 +6747,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "BALBBDDH003",
     "Bank Name": "BANK ASIA LTD",
@@ -6760,8 +6760,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "BALBBDDH007",
     "Bank Name": "BANK ASIA LTD",
@@ -6773,8 +6773,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BALB",
-    "bankCode": "BD",
+    "bankCode": "BALB",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "BALBBDDH015",
     "Bank Name": "BANK ASIA LTD",
@@ -6786,8 +6786,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "BKSIBDDH012",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6799,8 +6799,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "BKSIBDDH008",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6812,8 +6812,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "BKSIBDDH016",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6825,8 +6825,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "BKSIBDDH013",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6838,8 +6838,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "BKSIBDDH004",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6851,8 +6851,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BKSIBDDH",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6864,8 +6864,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "023",
     "SWIFT Code": "BKSIBDDH023",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6877,8 +6877,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "BKSIBDDH006",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6890,8 +6890,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "BKSIBDDH015",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6903,8 +6903,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "BKSIBDDH021",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6916,8 +6916,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "BKSIBDDH002",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6929,8 +6929,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "BKSIBDDH024",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6942,8 +6942,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "BKSIBDDH022",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6955,8 +6955,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "BKSIBDDH009",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6968,8 +6968,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "025",
     "SWIFT Code": "BKSIBDDH025",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6981,8 +6981,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "BKSIBDDH014",
     "Bank Name": "BASIC BANK LIMITED",
@@ -6994,8 +6994,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSI",
-    "bankCode": "BD",
+    "bankCode": "BKSI",
+    "countryCode": "BD",
     "branchCode": "026",
     "SWIFT Code": "BKSIBDDH026",
     "Bank Name": "BASIC BANK LIMITED",
@@ -7007,8 +7007,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOL",
-    "bankCode": "BD",
+    "bankCode": "BCOL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BCOLBDDH",
     "Bank Name": "BENGAL COMMERCIAL BANK LIMITED",
@@ -7020,8 +7020,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAK",
-    "bankCode": "BD",
+    "bankCode": "BRAK",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "BRAKBDDH",
     "Bank Name": "BRAC BANK PLC",
@@ -7033,8 +7033,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAK",
-    "bankCode": "BD",
+    "bankCode": "BRAK",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "BRAKBDDHOBU",
     "Bank Name": "BRAC BANK PLC",
@@ -7046,8 +7046,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHSX",
-    "bankCode": "BD",
+    "bankCode": "CHSX",
+    "countryCode": "BD",
     "branchCode": "DD2",
     "SWIFT Code": "CHSXBDD2",
     "Bank Name": "CHITTAGONG STOCK EXCHANGE LTD.",
@@ -7059,8 +7059,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BD",
+    "bankCode": "CITI",
+    "countryCode": "BD",
     "branchCode": "CTG",
     "SWIFT Code": "CITIBDDXCTG",
     "Bank Name": "CITIBANK N.A.",
@@ -7072,8 +7072,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BD",
+    "bankCode": "CITI",
+    "countryCode": "BD",
     "branchCode": "DDX",
     "SWIFT Code": "CITIBDDX",
     "Bank Name": "CITIBANK N.A.",
@@ -7085,8 +7085,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BD",
+    "bankCode": "CITI",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "CITIBDDXOBU",
     "Bank Name": "CITIBANK N.A.",
@@ -7098,8 +7098,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIZS",
-    "bankCode": "BD",
+    "bankCode": "CIZS",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "CIZSBDDH",
     "Bank Name": "CITIZENS BANK PLC",
@@ -7111,8 +7111,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBL",
-    "bankCode": "BD",
+    "bankCode": "CIBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "CIBLBDDH",
     "Bank Name": "CITY BANK LIMITED THE",
@@ -7124,8 +7124,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCEY",
-    "bankCode": "BD",
+    "bankCode": "CCEY",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "CCEYBDDH",
     "Bank Name": "COMMERCIAL BANK OF CEYLON PLC",
@@ -7137,8 +7137,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COYM",
-    "bankCode": "BD",
+    "bankCode": "COYM",
+    "countryCode": "BD",
     "branchCode": "DDD",
     "SWIFT Code": "COYMBDDD",
     "Bank Name": "COMMUNITY BANK BANGLADESH PLC.",
@@ -7150,8 +7150,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "201",
     "SWIFT Code": "DHBLBDDH201",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7163,8 +7163,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "203",
     "SWIFT Code": "DHBLBDDH203",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7176,8 +7176,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "202",
     "SWIFT Code": "DHBLBDDH202",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7189,8 +7189,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "TOC",
     "SWIFT Code": "DHBLBDDHTOC",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7202,8 +7202,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "DHBLBDDH",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7215,8 +7215,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "103",
     "SWIFT Code": "DHBLBDDH103",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7228,8 +7228,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "102",
     "SWIFT Code": "DHBLBDDH102",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7241,8 +7241,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "109",
     "SWIFT Code": "DHBLBDDH109",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7254,8 +7254,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "107",
     "SWIFT Code": "DHBLBDDH107",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7267,8 +7267,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "DHBLBDDHGUL",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7280,8 +7280,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "GL2",
     "SWIFT Code": "DHBLBDDHGL2",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7293,8 +7293,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "104",
     "SWIFT Code": "DHBLBDDH104",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7306,8 +7306,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "IB1",
     "SWIFT Code": "DHBLBDDHIB1",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7319,8 +7319,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "110",
     "SWIFT Code": "DHBLBDDH110",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7332,8 +7332,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "101",
     "SWIFT Code": "DHBLBDDH101",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7345,8 +7345,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "MKH",
     "SWIFT Code": "DHBLBDDHMKH",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7358,8 +7358,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "105",
     "SWIFT Code": "DHBLBDDH105",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7371,8 +7371,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "991",
     "SWIFT Code": "DHBLBDDH991",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7384,8 +7384,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBL",
-    "bankCode": "BD",
+    "bankCode": "DHBL",
+    "countryCode": "BD",
     "branchCode": "TOD",
     "SWIFT Code": "DHBLBDDHTOD",
     "Bank Name": "DHAKA BANK PLC.",
@@ -7397,8 +7397,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "202",
     "SWIFT Code": "IBBLBDDH202",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7410,8 +7410,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "167",
     "SWIFT Code": "IBBLBDDH167",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7423,8 +7423,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "230",
     "SWIFT Code": "IBBLBDDH230",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7436,8 +7436,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "121",
     "SWIFT Code": "IBBLBDDH121",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7449,8 +7449,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "IBBLBDDH",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7462,8 +7462,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "224",
     "SWIFT Code": "IBBLBDDH224",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7475,8 +7475,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "179",
     "SWIFT Code": "IBBLBDDH179",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7488,8 +7488,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "342",
     "SWIFT Code": "IBBLBDDH342",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7501,8 +7501,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "105",
     "SWIFT Code": "IBBLBDDH105",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7514,8 +7514,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "283",
     "SWIFT Code": "IBBLBDDH283",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7527,8 +7527,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "205",
     "SWIFT Code": "IBBLBDDH205",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7540,8 +7540,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "215",
     "SWIFT Code": "IBBLBDDH215",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7553,8 +7553,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "136",
     "SWIFT Code": "IBBLBDDH136",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7566,8 +7566,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "109",
     "SWIFT Code": "IBBLBDDH109",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7579,8 +7579,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "FRD",
     "SWIFT Code": "IBBLBDDHFRD",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7592,8 +7592,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "FTD",
     "SWIFT Code": "IBBLBDDHFTD",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7605,8 +7605,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "177",
     "SWIFT Code": "IBBLBDDH177",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7618,8 +7618,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "276",
     "SWIFT Code": "IBBLBDDH276",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7631,8 +7631,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "213",
     "SWIFT Code": "IBBLBDDH213",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7644,8 +7644,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "110",
     "SWIFT Code": "IBBLBDDH110",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7657,8 +7657,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "222",
     "SWIFT Code": "IBBLBDDH222",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7670,8 +7670,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "240",
     "SWIFT Code": "IBBLBDDH240",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7683,8 +7683,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "102",
     "SWIFT Code": "IBBLBDDH102",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7696,8 +7696,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "131",
     "SWIFT Code": "IBBLBDDH131",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7709,8 +7709,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "210",
     "SWIFT Code": "IBBLBDDH210",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7722,8 +7722,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "332",
     "SWIFT Code": "IBBLBDDH332",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7735,8 +7735,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "191",
     "SWIFT Code": "IBBLBDDH191",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7748,8 +7748,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "311",
     "SWIFT Code": "IBBLBDDH311",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7761,8 +7761,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "145",
     "SWIFT Code": "IBBLBDDH145",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7774,8 +7774,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "118",
     "SWIFT Code": "IBBLBDDH118",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7787,8 +7787,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "129",
     "SWIFT Code": "IBBLBDDH129",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7800,8 +7800,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "IBBLBDDH024",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7813,8 +7813,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "026",
     "SWIFT Code": "IBBLBDDH026",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7826,8 +7826,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "274",
     "SWIFT Code": "IBBLBDDH274",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7839,8 +7839,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "206",
     "SWIFT Code": "IBBLBDDH206",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7852,8 +7852,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "290",
     "SWIFT Code": "IBBLBDDH290",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7865,8 +7865,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "157",
     "SWIFT Code": "IBBLBDDH157",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7878,8 +7878,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "226",
     "SWIFT Code": "IBBLBDDH226",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7891,8 +7891,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "197",
     "SWIFT Code": "IBBLBDDH197",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7904,8 +7904,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "130",
     "SWIFT Code": "IBBLBDDH130",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7917,8 +7917,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "209",
     "SWIFT Code": "IBBLBDDH209",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7930,8 +7930,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "383",
     "SWIFT Code": "IBBLBDDH383",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7943,8 +7943,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "123",
     "SWIFT Code": "IBBLBDDH123",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7956,8 +7956,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "207",
     "SWIFT Code": "IBBLBDDH207",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7969,8 +7969,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "223",
     "SWIFT Code": "IBBLBDDH223",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7982,8 +7982,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "138",
     "SWIFT Code": "IBBLBDDH138",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -7995,8 +7995,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "148",
     "SWIFT Code": "IBBLBDDH148",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -8008,8 +8008,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "324",
     "SWIFT Code": "IBBLBDDH324",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -8021,8 +8021,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "158",
     "SWIFT Code": "IBBLBDDH158",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -8034,8 +8034,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBL",
-    "bankCode": "BD",
+    "bankCode": "IBBL",
+    "countryCode": "BD",
     "branchCode": "216",
     "SWIFT Code": "IBBLBDDH216",
     "Bank Name": "ISLAMI BANK BANGLADESH PLC.",
@@ -8047,8 +8047,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "UMT",
     "SWIFT Code": "BSONBDDHUMT",
     "Bank Name": "SONALI BANK PLC",
@@ -8060,8 +8060,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "WEB",
     "SWIFT Code": "BSONBDDHWEB",
     "Bank Name": "SONALI BANK PLC",
@@ -8073,8 +8073,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "DNJ",
     "SWIFT Code": "BSONBDDHDNJ",
     "Bank Name": "SONALI BANK PLC",
@@ -8086,8 +8086,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "JSR",
     "SWIFT Code": "BSONBDDHJSR",
     "Bank Name": "SONALI BANK PLC",
@@ -8099,8 +8099,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "DAU",
     "SWIFT Code": "BSONBDDHDAU",
     "Bank Name": "SONALI BANK PLC",
@@ -8112,8 +8112,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "KHU",
     "SWIFT Code": "BSONBDDHKHU",
     "Bank Name": "SONALI BANK PLC",
@@ -8125,8 +8125,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "KST",
     "SWIFT Code": "BSONBDDHKST",
     "Bank Name": "SONALI BANK PLC",
@@ -8138,8 +8138,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "MLV",
     "SWIFT Code": "BSONBDDHMLV",
     "Bank Name": "SONALI BANK PLC",
@@ -8151,8 +8151,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "MYM",
     "SWIFT Code": "BSONBDDHMYM",
     "Bank Name": "SONALI BANK PLC",
@@ -8164,8 +8164,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "LAD",
     "SWIFT Code": "BSONBDDHLAD",
     "Bank Name": "SONALI BANK PLC",
@@ -8177,8 +8177,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "NAR",
     "SWIFT Code": "BSONBDDHNAR",
     "Bank Name": "SONALI BANK PLC",
@@ -8190,8 +8190,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "PBB",
     "SWIFT Code": "BSONBDDHPBB",
     "Bank Name": "SONALI BANK PLC",
@@ -8203,8 +8203,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "RAJ",
     "SWIFT Code": "BSONBDDHRAJ",
     "Bank Name": "SONALI BANK PLC",
@@ -8216,8 +8216,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "PGR",
     "SWIFT Code": "BSONBDDHPGR",
     "Bank Name": "SONALI BANK PLC",
@@ -8229,8 +8229,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "RNG",
     "SWIFT Code": "BSONBDDHRNG",
     "Bank Name": "SONALI BANK PLC",
@@ -8242,8 +8242,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "LAL",
     "SWIFT Code": "BSONBDDHLAL",
     "Bank Name": "SONALI BANK PLC",
@@ -8255,8 +8255,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SAT",
     "SWIFT Code": "BSONBDDHSAT",
     "Bank Name": "SONALI BANK PLC",
@@ -8268,8 +8268,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SRJ",
     "SWIFT Code": "BSONBDDHSRJ",
     "Bank Name": "SONALI BANK PLC",
@@ -8281,8 +8281,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "CTK",
     "SWIFT Code": "BSONBDDHCTK",
     "Bank Name": "SONALI BANK PLC",
@@ -8294,8 +8294,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SNG",
     "SWIFT Code": "BSONBDDHSNG",
     "Bank Name": "SONALI BANK PLC",
@@ -8307,8 +8307,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "DGT",
     "SWIFT Code": "BSONBDDHDGT",
     "Bank Name": "SONALI BANK PLC",
@@ -8320,8 +8320,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSON",
-    "bankCode": "BD",
+    "bankCode": "BSON",
+    "countryCode": "BD",
     "branchCode": "SYL",
     "SWIFT Code": "BSONBDDHSYL",
     "Bank Name": "SONALI BANK PLC",
@@ -8333,8 +8333,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "SBACBDDHAGB",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8346,8 +8346,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "SBACBDDH",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8359,8 +8359,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "DHN",
     "SWIFT Code": "SBACBDDHDHN",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8372,8 +8372,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "GLS",
     "SWIFT Code": "SBACBDDHGLS",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8385,8 +8385,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "MHK",
     "SWIFT Code": "SBACBDDHMHK",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8398,8 +8398,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "SBACBDDHOBU",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8411,8 +8411,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "PRN",
     "SWIFT Code": "SBACBDDHPRN",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8424,8 +8424,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "TPU",
     "SWIFT Code": "SBACBDDHTPU",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8437,8 +8437,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "SBACBDDHUTR",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8450,8 +8450,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBAC",
-    "bankCode": "BD",
+    "bankCode": "SBAC",
+    "countryCode": "BD",
     "branchCode": "KLN",
     "SWIFT Code": "SBACBDDHKLN",
     "Bank Name": "SOUTH BANGLA AGRICULTURE AND COMMERCE BANK LIMITED",
@@ -8463,8 +8463,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "AGR",
     "SWIFT Code": "SEBDBDDHAGR",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8476,8 +8476,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "CDA",
     "SWIFT Code": "SEBDBDDHCDA",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8489,8 +8489,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "JUB",
     "SWIFT Code": "SEBDBDDHJUB",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8502,8 +8502,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "SEBDBDDHKTG",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8515,8 +8515,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "OBC",
     "SWIFT Code": "SEBDBDDHOBC",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8528,8 +8528,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "SEBDBDDHOBU",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8541,8 +8541,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "SEBDBDDH",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8554,8 +8554,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "AGA",
     "SWIFT Code": "SEBDBDDHAGA",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8567,8 +8567,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "BAN",
     "SWIFT Code": "SEBDBDDHBAN",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8580,8 +8580,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "BNG",
     "SWIFT Code": "SEBDBDDHBNG",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8593,8 +8593,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "CRP",
     "SWIFT Code": "SEBDBDDHCRP",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8606,8 +8606,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "DHN",
     "SWIFT Code": "SEBDBDDHDHN",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8619,8 +8619,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "SEBDBDDHGUL",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8632,8 +8632,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "IMG",
     "SWIFT Code": "SEBDBDDHIMG",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8645,8 +8645,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "CTS",
     "SWIFT Code": "SEBDBDDHCTS",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8658,8 +8658,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "KRN",
     "SWIFT Code": "SEBDBDDHKRN",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8671,8 +8671,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "MIB",
     "SWIFT Code": "SEBDBDDHMIB",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8684,8 +8684,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "NER",
     "SWIFT Code": "SEBDBDDHNER",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -8697,8 +8697,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "PRBLBDDH012",
     "Bank Name": "PRIME BANK PLC.",
@@ -8710,8 +8710,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "AEZ",
     "SWIFT Code": "PRBLBDDHAEZ",
     "Bank Name": "PRIME BANK PLC.",
@@ -8723,8 +8723,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "PRBLBDDH009",
     "Bank Name": "PRIME BANK PLC.",
@@ -8736,8 +8736,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "028",
     "SWIFT Code": "PRBLBDDH028",
     "Bank Name": "PRIME BANK PLC.",
@@ -8749,8 +8749,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBL",
-    "bankCode": "BD",
+    "bankCode": "PRBL",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "PRBLBDDH006",
     "Bank Name": "PRIME BANK PLC.",
@@ -8762,8 +8762,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "212",
     "SWIFT Code": "PUBABDDH212",
     "Bank Name": "PUBALI BANK PLC",
@@ -8775,8 +8775,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "204",
     "SWIFT Code": "PUBABDDH204",
     "Bank Name": "PUBALI BANK PLC",
@@ -8788,8 +8788,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "206",
     "SWIFT Code": "PUBABDDH206",
     "Bank Name": "PUBALI BANK PLC",
@@ -8801,8 +8801,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "205",
     "SWIFT Code": "PUBABDDH205",
     "Bank Name": "PUBALI BANK PLC",
@@ -8814,8 +8814,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "207",
     "SWIFT Code": "PUBABDDH207",
     "Bank Name": "PUBALI BANK PLC",
@@ -8827,8 +8827,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "PUBABDDH002",
     "Bank Name": "PUBALI BANK PLC",
@@ -8840,8 +8840,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "209",
     "SWIFT Code": "PUBABDDH209",
     "Bank Name": "PUBALI BANK PLC",
@@ -8853,8 +8853,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "PUBABDDH",
     "Bank Name": "PUBALI BANK PLC",
@@ -8866,8 +8866,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "196",
     "SWIFT Code": "PUBABDDH196",
     "Bank Name": "PUBALI BANK PLC",
@@ -8879,8 +8879,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "222",
     "SWIFT Code": "PUBABDDH222",
     "Bank Name": "PUBALI BANK PLC",
@@ -8892,8 +8892,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "226",
     "SWIFT Code": "PUBABDDH226",
     "Bank Name": "PUBALI BANK PLC",
@@ -8905,8 +8905,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "198",
     "SWIFT Code": "PUBABDDH198",
     "Bank Name": "PUBALI BANK PLC",
@@ -8918,8 +8918,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "199",
     "SWIFT Code": "PUBABDDH199",
     "Bank Name": "PUBALI BANK PLC",
@@ -8931,8 +8931,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "219",
     "SWIFT Code": "PUBABDDH219",
     "Bank Name": "PUBALI BANK PLC",
@@ -8944,8 +8944,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "200",
     "SWIFT Code": "PUBABDDH200",
     "Bank Name": "PUBALI BANK PLC",
@@ -8957,8 +8957,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "223",
     "SWIFT Code": "PUBABDDH223",
     "Bank Name": "PUBALI BANK PLC",
@@ -8970,8 +8970,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "194",
     "SWIFT Code": "PUBABDDH194",
     "Bank Name": "PUBALI BANK PLC",
@@ -8983,8 +8983,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "215",
     "SWIFT Code": "PUBABDDH215",
     "Bank Name": "PUBALI BANK PLC",
@@ -8996,8 +8996,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "217",
     "SWIFT Code": "PUBABDDH217",
     "Bank Name": "PUBALI BANK PLC",
@@ -9009,8 +9009,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "216",
     "SWIFT Code": "PUBABDDH216",
     "Bank Name": "PUBALI BANK PLC",
@@ -9022,8 +9022,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "195",
     "SWIFT Code": "PUBABDDH195",
     "Bank Name": "PUBALI BANK PLC",
@@ -9035,8 +9035,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "220",
     "SWIFT Code": "PUBABDDH220",
     "Bank Name": "PUBALI BANK PLC",
@@ -9048,8 +9048,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "PUBABDDH001",
     "Bank Name": "PUBALI BANK PLC",
@@ -9061,8 +9061,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "210",
     "SWIFT Code": "PUBABDDH210",
     "Bank Name": "PUBALI BANK PLC",
@@ -9074,8 +9074,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "201",
     "SWIFT Code": "PUBABDDH201",
     "Bank Name": "PUBALI BANK PLC",
@@ -9087,8 +9087,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "197",
     "SWIFT Code": "PUBABDDH197",
     "Bank Name": "PUBALI BANK PLC",
@@ -9100,8 +9100,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "221",
     "SWIFT Code": "PUBABDDH221",
     "Bank Name": "PUBALI BANK PLC",
@@ -9113,8 +9113,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "211",
     "SWIFT Code": "PUBABDDH211",
     "Bank Name": "PUBALI BANK PLC",
@@ -9126,8 +9126,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "203",
     "SWIFT Code": "PUBABDDH203",
     "Bank Name": "PUBALI BANK PLC",
@@ -9139,8 +9139,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "202",
     "SWIFT Code": "PUBABDDH202",
     "Bank Name": "PUBALI BANK PLC",
@@ -9152,8 +9152,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "213",
     "SWIFT Code": "PUBABDDH213",
     "Bank Name": "PUBALI BANK PLC",
@@ -9165,8 +9165,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "214",
     "SWIFT Code": "PUBABDDH214",
     "Bank Name": "PUBALI BANK PLC",
@@ -9178,8 +9178,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "218",
     "SWIFT Code": "PUBABDDH218",
     "Bank Name": "PUBALI BANK PLC",
@@ -9191,8 +9191,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBA",
-    "bankCode": "BD",
+    "bankCode": "PUBA",
+    "countryCode": "BD",
     "branchCode": "208",
     "SWIFT Code": "PUBABDDH208",
     "Bank Name": "PUBALI BANK PLC",
@@ -9204,8 +9204,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "SRB",
     "SWIFT Code": "RUPBBDDHSRB",
     "Bank Name": "RUPALI BANK LTD",
@@ -9217,8 +9217,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "TRB",
     "SWIFT Code": "RUPBBDDHTRB",
     "Bank Name": "RUPALI BANK LTD",
@@ -9230,8 +9230,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "BCB",
     "SWIFT Code": "RUPBBDDHBCB",
     "Bank Name": "RUPALI BANK LTD",
@@ -9243,8 +9243,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "AGC",
     "SWIFT Code": "RUPBBDDHAGC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9256,8 +9256,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "AMC",
     "SWIFT Code": "RUPBBDDHAMC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9269,8 +9269,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "NMC",
     "SWIFT Code": "RUPBBDDHNMC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9282,8 +9282,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "NRC",
     "SWIFT Code": "RUPBBDDHNRC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9295,8 +9295,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "RSC",
     "SWIFT Code": "RUPBBDDHRSC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9308,8 +9308,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "SRC",
     "SWIFT Code": "RUPBBDDHSRC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9321,8 +9321,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "TBC",
     "SWIFT Code": "RUPBBDDHTBC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9334,8 +9334,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RUPB",
-    "bankCode": "BD",
+    "bankCode": "RUPB",
+    "countryCode": "BD",
     "branchCode": "MPC",
     "SWIFT Code": "RUPBBDDHMPC",
     "Bank Name": "RUPALI BANK LTD",
@@ -9347,8 +9347,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "RNP",
     "SWIFT Code": "JANBBDDHRNP",
     "Bank Name": "JANATA BANK PLC.",
@@ -9360,8 +9360,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "FES",
     "SWIFT Code": "JANBBDDHFES",
     "Bank Name": "JANATA BANK PLC.",
@@ -9373,8 +9373,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "SLT",
     "SWIFT Code": "JANBBDDHSLT",
     "Bank Name": "JANATA BANK PLC.",
@@ -9386,8 +9386,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGBL",
-    "bankCode": "BD",
+    "bankCode": "MGBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "MGBLBDDH",
     "Bank Name": "MEGHNA BANK PLC.",
@@ -9399,8 +9399,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGBL",
-    "bankCode": "BD",
+    "bankCode": "MGBL",
+    "countryCode": "BD",
     "branchCode": "CTS",
     "SWIFT Code": "MGBLBDDHCTS",
     "Bank Name": "MEGHNA BANK PLC.",
@@ -9412,8 +9412,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGBL",
-    "bankCode": "BD",
+    "bankCode": "MGBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "MGBLBDDHOBU",
     "Bank Name": "MEGHNA BANK PLC.",
@@ -9425,8 +9425,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "MBLBBDDH018",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9438,8 +9438,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "MBLBBDDH003",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9451,8 +9451,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "MBLBBDDH016",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9464,8 +9464,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "MBLBBDDH010",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9477,8 +9477,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "MBLBBDDH",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9490,8 +9490,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "MBLBBDDH007",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9503,8 +9503,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "MBLBBDDH020",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9516,8 +9516,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "CTP",
     "SWIFT Code": "MBLBBDDHCTP",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9529,8 +9529,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "MBLBBDDH006",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9542,8 +9542,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "MBLBBDDH014",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9555,8 +9555,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "019",
     "SWIFT Code": "MBLBBDDH019",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9568,8 +9568,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "MBLBBDDH002",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9581,8 +9581,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "MBLBBDDH001",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9594,8 +9594,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "MBLBBDDH015",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9607,8 +9607,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "MBLBBDDH012",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9620,8 +9620,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "MBLBBDDH013",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9633,8 +9633,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "MBLBBDDH011",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9646,8 +9646,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "MBLBBDDH021",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9659,8 +9659,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "MBLBBDDH017",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9672,8 +9672,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "MBLBBDDH009",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9685,8 +9685,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "MBLBBDDH022",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9698,8 +9698,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "MBLBBDDH005",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9711,8 +9711,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBLB",
-    "bankCode": "BD",
+    "bankCode": "MBLB",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "MBLBBDDH008",
     "Bank Name": "MERCANTILE BANK PLC.",
@@ -9724,8 +9724,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBL",
-    "bankCode": "BD",
+    "bankCode": "MDBL",
+    "countryCode": "BD",
     "branchCode": "353",
     "SWIFT Code": "MDBLBDDH353",
     "Bank Name": "MIDLAND BANK LIMITED",
@@ -9737,8 +9737,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBL",
-    "bankCode": "BD",
+    "bankCode": "MDBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "MDBLBDDH",
     "Bank Name": "MIDLAND BANK LIMITED",
@@ -9750,8 +9750,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBL",
-    "bankCode": "BD",
+    "bankCode": "MDBL",
+    "countryCode": "BD",
     "branchCode": "352",
     "SWIFT Code": "MDBLBDDH352",
     "Bank Name": "MIDLAND BANK LIMITED",
@@ -9763,8 +9763,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBL",
-    "bankCode": "BD",
+    "bankCode": "MDBL",
+    "countryCode": "BD",
     "branchCode": "355",
     "SWIFT Code": "MDBLBDDH355",
     "Bank Name": "MIDLAND BANK LIMITED",
@@ -9776,8 +9776,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBL",
-    "bankCode": "BD",
+    "bankCode": "MDBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "MDBLBDDHOBU",
     "Bank Name": "MIDLAND BANK LIMITED",
@@ -9789,8 +9789,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDBL",
-    "bankCode": "BD",
+    "bankCode": "MDBL",
+    "countryCode": "BD",
     "branchCode": "354",
     "SWIFT Code": "MDBLBDDH354",
     "Bank Name": "MIDLAND BANK LIMITED",
@@ -9802,8 +9802,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "AGR",
     "SWIFT Code": "MODHBDDHAGR",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9815,8 +9815,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "MODHBDDH",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9828,8 +9828,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "CTU",
     "SWIFT Code": "MODHBDDHCTU",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9841,8 +9841,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "MODHBDDHGUL",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9854,8 +9854,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "MIT",
     "SWIFT Code": "MODHBDDHMIT",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9867,8 +9867,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "MTJ",
     "SWIFT Code": "MODHBDDHMTJ",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9880,8 +9880,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "MODHBDDHOBU",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9893,8 +9893,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODH",
-    "bankCode": "BD",
+    "bankCode": "MODH",
+    "countryCode": "BD",
     "branchCode": "UTT",
     "SWIFT Code": "MODHBDDHUTT",
     "Bank Name": "MODHUMOTI BANK LIMITED",
@@ -9906,8 +9906,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "MTBLBDDHAGB",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9919,8 +9919,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "JUB",
     "SWIFT Code": "MTBLBDDHJUB",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9932,8 +9932,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "MTBLBDDHKTG",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9945,8 +9945,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "TSC",
     "SWIFT Code": "MTBLBDDHTSC",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9958,8 +9958,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "MSL",
     "SWIFT Code": "MTBLBDDHMSL",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9971,8 +9971,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "MTBLBDDH",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9984,8 +9984,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBL",
-    "bankCode": "BD",
+    "bankCode": "MTBL",
+    "countryCode": "BD",
     "branchCode": "MNC",
     "SWIFT Code": "MTBLBDDHMNC",
     "Bank Name": "MUTUAL TRUST BANK PLC.",
@@ -9997,8 +9997,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "ESK",
     "SWIFT Code": "SEBDBDDHESK",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10010,8 +10010,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "SPB",
     "SWIFT Code": "SEBDBDDHSPB",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10023,8 +10023,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "SYM",
     "SWIFT Code": "SEBDBDDHSYM",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10036,8 +10036,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "UTT",
     "SWIFT Code": "SEBDBDDHUTT",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10049,8 +10049,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "KLN",
     "SWIFT Code": "SEBDBDDHKLN",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10062,8 +10062,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "NAR",
     "SWIFT Code": "SEBDBDDHNAR",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10075,8 +10075,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEBD",
-    "bankCode": "BD",
+    "bankCode": "SEBD",
+    "countryCode": "BD",
     "branchCode": "LDP",
     "SWIFT Code": "SEBDBDDHLDP",
     "Bank Name": "SOUTHEAST BANK PLC.",
@@ -10088,8 +10088,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "107",
     "SWIFT Code": "SDBLBDDH107",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10101,8 +10101,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "HU1",
     "SWIFT Code": "SDBLBDDHHU1",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10114,8 +10114,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "112",
     "SWIFT Code": "SDBLBDDH112",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10127,8 +10127,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "103",
     "SWIFT Code": "SDBLBDDH103",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10140,8 +10140,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "SDBLBDDH",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10153,8 +10153,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "119",
     "SWIFT Code": "SDBLBDDH119",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10166,8 +10166,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "CTS",
     "SWIFT Code": "SDBLBDDHCTS",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10179,8 +10179,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "114",
     "SWIFT Code": "SDBLBDDH114",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10192,8 +10192,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "113",
     "SWIFT Code": "SDBLBDDH113",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10205,8 +10205,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "122",
     "SWIFT Code": "SDBLBDDH122",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10218,8 +10218,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "109",
     "SWIFT Code": "SDBLBDDH109",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10231,8 +10231,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "117",
     "SWIFT Code": "SDBLBDDH117",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10244,8 +10244,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "104",
     "SWIFT Code": "SDBLBDDH104",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10257,8 +10257,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "120",
     "SWIFT Code": "SDBLBDDH120",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10270,8 +10270,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "121",
     "SWIFT Code": "SDBLBDDH121",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10283,8 +10283,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "116",
     "SWIFT Code": "SDBLBDDH116",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10296,8 +10296,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "SDBLBDDHOBU",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10309,8 +10309,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "118",
     "SWIFT Code": "SDBLBDDH118",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10322,8 +10322,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "102",
     "SWIFT Code": "SDBLBDDH102",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10335,8 +10335,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "RMT",
     "SWIFT Code": "SDBLBDDHRMT",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10348,8 +10348,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "105",
     "SWIFT Code": "SDBLBDDH105",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10361,8 +10361,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "115",
     "SWIFT Code": "SDBLBDDH115",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10374,8 +10374,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "108",
     "SWIFT Code": "SDBLBDDH108",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10387,8 +10387,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDBL",
-    "bankCode": "BD",
+    "bankCode": "SDBL",
+    "countryCode": "BD",
     "branchCode": "110",
     "SWIFT Code": "SDBLBDDH110",
     "Bank Name": "STANDARD BANK LIMITED",
@@ -10400,8 +10400,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "BD",
+    "bankCode": "SCBL",
+    "countryCode": "BD",
     "branchCode": "CTG",
     "SWIFT Code": "SCBLBDDXCTG",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -10413,8 +10413,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "BD",
+    "bankCode": "SCBL",
+    "countryCode": "BD",
     "branchCode": "DDX",
     "SWIFT Code": "SCBLBDDX",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -10426,8 +10426,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "BD",
+    "bankCode": "SCBL",
+    "countryCode": "BD",
     "branchCode": "SVR",
     "SWIFT Code": "SCBLBDDXSVR",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -10439,8 +10439,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "CTG",
     "SWIFT Code": "SBINBDDHCTG",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10452,8 +10452,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "OBC",
     "SWIFT Code": "SBINBDDHOBC",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10465,8 +10465,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "SBINBDDH",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10478,8 +10478,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "OBD",
     "SWIFT Code": "SBINBDDHOBD",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10491,8 +10491,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "056",
     "SWIFT Code": "SBINBDDH056",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10504,8 +10504,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "055",
     "SWIFT Code": "SBINBDDH055",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10517,8 +10517,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BD",
+    "bankCode": "SBIN",
+    "countryCode": "BD",
     "branchCode": "SYL",
     "SWIFT Code": "SBINBDDHSYL",
     "Bank Name": "STATE BANK OF INDIA",
@@ -10530,8 +10530,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BD",
+    "bankCode": "HSBC",
+    "countryCode": "BD",
     "branchCode": "CHG",
     "SWIFT Code": "HSBCBDDHCHG",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -10543,8 +10543,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BD",
+    "bankCode": "HSBC",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "HSBCBDDH",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -10556,8 +10556,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BD",
+    "bankCode": "HSBC",
+    "countryCode": "BD",
     "branchCode": "DAO",
     "SWIFT Code": "HSBCBDDHDAO",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -10569,8 +10569,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BD",
+    "bankCode": "HSBC",
+    "countryCode": "BD",
     "branchCode": "ISV",
     "SWIFT Code": "HSBCBDDHISV",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -10582,8 +10582,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "AGR",
     "SWIFT Code": "PRMRBDDHAGR",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -10595,8 +10595,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "PRMRBDDHKTG",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -10608,8 +10608,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "PRMRBDDH",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -10621,8 +10621,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "BNN",
     "SWIFT Code": "PRMRBDDHBNN",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -10634,8 +10634,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "BNG",
     "SWIFT Code": "PRMRBDDHBNG",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -10647,8 +10647,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "201",
     "SWIFT Code": "ABBLBDDH201",
     "Bank Name": "AB BANK LIMITED",
@@ -10660,8 +10660,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "101",
     "SWIFT Code": "ABBLBDDH101",
     "Bank Name": "AB BANK LIMITED",
@@ -10673,8 +10673,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "110",
     "SWIFT Code": "ABBLBDDH110",
     "Bank Name": "AB BANK LIMITED",
@@ -10686,8 +10686,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "105",
     "SWIFT Code": "ABBLBDDH105",
     "Bank Name": "AB BANK LIMITED",
@@ -10699,8 +10699,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "126",
     "SWIFT Code": "ABBLBDDH126",
     "Bank Name": "AB BANK LIMITED",
@@ -10712,8 +10712,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "102",
     "SWIFT Code": "ABBLBDDH102",
     "Bank Name": "AB BANK LIMITED",
@@ -10725,8 +10725,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "ABBLBDDHOBU",
     "Bank Name": "AB BANK LIMITED",
@@ -10738,8 +10738,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "103",
     "SWIFT Code": "ABBLBDDH103",
     "Bank Name": "AB BANK LIMITED",
@@ -10751,8 +10751,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "ABBLBDDH",
     "Bank Name": "AB BANK LIMITED",
@@ -10764,8 +10764,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "019",
     "SWIFT Code": "ABBLBDDH019",
     "Bank Name": "AB BANK LIMITED",
@@ -10777,8 +10777,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "ABBLBDDH003",
     "Bank Name": "AB BANK LIMITED",
@@ -10790,8 +10790,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "027",
     "SWIFT Code": "ABBLBDDH027",
     "Bank Name": "AB BANK LIMITED",
@@ -10803,8 +10803,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "ABBLBDDH009",
     "Bank Name": "AB BANK LIMITED",
@@ -10816,8 +10816,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "ABBLBDDH002",
     "Bank Name": "AB BANK LIMITED",
@@ -10829,8 +10829,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "ABBLBDDH011",
     "Bank Name": "AB BANK LIMITED",
@@ -10842,8 +10842,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "ABBLBDDH004",
     "Bank Name": "AB BANK LIMITED",
@@ -10855,8 +10855,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "ABBLBDDH013",
     "Bank Name": "AB BANK LIMITED",
@@ -10868,8 +10868,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "ABBLBDDH006",
     "Bank Name": "AB BANK LIMITED",
@@ -10881,8 +10881,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "ABBLBDDH010",
     "Bank Name": "AB BANK LIMITED",
@@ -10894,8 +10894,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "ABBLBDDH005",
     "Bank Name": "AB BANK LIMITED",
@@ -10907,8 +10907,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "ABBLBDDH020",
     "Bank Name": "AB BANK LIMITED",
@@ -10920,8 +10920,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "214",
     "SWIFT Code": "ABBLBDDH214",
     "Bank Name": "AB BANK LIMITED",
@@ -10933,8 +10933,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "301",
     "SWIFT Code": "ABBLBDDH301",
     "Bank Name": "AB BANK LIMITED",
@@ -10946,8 +10946,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "ABBLBDDH008",
     "Bank Name": "AB BANK LIMITED",
@@ -10959,8 +10959,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "111",
     "SWIFT Code": "ABBLBDDH111",
     "Bank Name": "AB BANK LIMITED",
@@ -10972,8 +10972,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABBL",
-    "bankCode": "BD",
+    "bankCode": "ABBL",
+    "countryCode": "BD",
     "branchCode": "112",
     "SWIFT Code": "ABBLBDDH112",
     "Bank Name": "AB BANK LIMITED",
@@ -10985,8 +10985,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "029",
     "SWIFT Code": "AGBKBDDH029",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -10998,8 +10998,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "0CH",
     "SWIFT Code": "AGBKBDDH0CH",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11011,8 +11011,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "AGBKBDDH018",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11024,8 +11024,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "AGBKBDDH016",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11037,8 +11037,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "AGBKBDDH015",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11050,8 +11050,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "035",
     "SWIFT Code": "AGBKBDDH035",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11063,8 +11063,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "AGBKBDDH017",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11076,8 +11076,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "039",
     "SWIFT Code": "AGBKBDDH039",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11089,8 +11089,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "041",
     "SWIFT Code": "AGBKBDDH041",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11102,8 +11102,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "AGBKBDDH020",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11115,8 +11115,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "AGBKBDDH013",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11128,8 +11128,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "AGBKBDDH",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11141,8 +11141,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "AGBKBDDH004",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11154,8 +11154,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "033",
     "SWIFT Code": "AGBKBDDH033",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11167,8 +11167,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "008",
     "SWIFT Code": "AGBKBDDH008",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11180,8 +11180,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "AGBKBDDH002",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11193,8 +11193,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "AGBKBDDH006",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11206,8 +11206,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "099",
     "SWIFT Code": "AGBKBDDH099",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11219,8 +11219,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "036",
     "SWIFT Code": "AGBKBDDH036",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11232,8 +11232,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "042",
     "SWIFT Code": "AGBKBDDH042",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11245,8 +11245,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "000",
     "SWIFT Code": "AGBKBDDH000",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11258,8 +11258,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "043",
     "SWIFT Code": "AGBKBDDH043",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11271,8 +11271,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "AGBKBDDH003",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11284,8 +11284,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "AGBKBDDH014",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11297,8 +11297,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "EXBKBDDH021",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11310,8 +11310,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "EXBKBDDH003",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11323,8 +11323,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "026",
     "SWIFT Code": "EXBKBDDH026",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11336,8 +11336,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "018",
     "SWIFT Code": "EXBKBDDH018",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11349,8 +11349,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "004",
     "SWIFT Code": "EXBKBDDH004",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11362,8 +11362,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "083",
     "SWIFT Code": "EXBKBDDH083",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11375,8 +11375,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "EXBKBDDH",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11388,8 +11388,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "061",
     "SWIFT Code": "EXBKBDDH061",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11401,8 +11401,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "029",
     "SWIFT Code": "EXBKBDDH029",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11414,8 +11414,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "019",
     "SWIFT Code": "EXBKBDDH019",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11427,8 +11427,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "067",
     "SWIFT Code": "EXBKBDDH067",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11440,8 +11440,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "EXBKBDDH007",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11453,8 +11453,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "039",
     "SWIFT Code": "EXBKBDDH039",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11466,8 +11466,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "006",
     "SWIFT Code": "EXBKBDDH006",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11479,8 +11479,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "035",
     "SWIFT Code": "EXBKBDDH035",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11492,8 +11492,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "023",
     "SWIFT Code": "EXBKBDDH023",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11505,8 +11505,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "EXBKBDDH017",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11518,8 +11518,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "EXBKBDDH001",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11531,8 +11531,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "EXBKBDDH010",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11544,8 +11544,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "EXBKBDDH014",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11557,8 +11557,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "045",
     "SWIFT Code": "EXBKBDDH045",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11570,8 +11570,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "EXBKBDDH002",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11583,8 +11583,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "013",
     "SWIFT Code": "EXBKBDDH013",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11596,8 +11596,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "EXBKBDDH015",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11609,8 +11609,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "EXBKBDDH011",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11622,8 +11622,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXBK",
-    "bankCode": "BD",
+    "bankCode": "EXBK",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "EXBKBDDH009",
     "Bank Name": "EXPORT IMPORT BANK OF BANGLADESH LTD",
@@ -11635,8 +11635,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "AGR",
     "SWIFT Code": "FSEBBDDHAGR",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11648,8 +11648,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "JUB",
     "SWIFT Code": "FSEBBDDHJUB",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11661,8 +11661,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "FSEBBDDHKTG",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11674,8 +11674,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "PRA",
     "SWIFT Code": "FSEBBDDHPRA",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11687,8 +11687,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "FSEBBDDH",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11700,8 +11700,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "BAN",
     "SWIFT Code": "FSEBBDDHBAN",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11713,8 +11713,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "BNG",
     "SWIFT Code": "FSEBBDDHBNG",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11726,8 +11726,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "CTD",
     "SWIFT Code": "FSEBBDDHCTD",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11739,8 +11739,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "DHA",
     "SWIFT Code": "FSEBBDDHDHA",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11752,8 +11752,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "DIL",
     "SWIFT Code": "FSEBBDDHDIL",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11765,8 +11765,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "FSEBBDDHGUL",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11778,8 +11778,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "KAR",
     "SWIFT Code": "FSEBBDDHKAR",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11791,8 +11791,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "MKH",
     "SWIFT Code": "FSEBBDDHMKH",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11804,8 +11804,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "MOT",
     "SWIFT Code": "FSEBBDDHMOT",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11817,8 +11817,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "FSEBBDDHOBU",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11830,8 +11830,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "TOP",
     "SWIFT Code": "FSEBBDDHTOP",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11843,8 +11843,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSEB",
-    "bankCode": "BD",
+    "bankCode": "FSEB",
+    "countryCode": "BD",
     "branchCode": "SYL",
     "SWIFT Code": "FSEBBDDHSYL",
     "Bank Name": "FIRST SECURITY ISLAMI BANK PLC.",
@@ -11856,8 +11856,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "AGC",
     "SWIFT Code": "NGBLBDDHAGC",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11869,8 +11869,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "NGBLBDDHKTG",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11882,8 +11882,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "NGBLBDDH",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11895,8 +11895,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "CTU",
     "SWIFT Code": "NGBLBDDHCTU",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11908,8 +11908,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "GCB",
     "SWIFT Code": "NGBLBDDHGCB",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11921,8 +11921,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "MTJ",
     "SWIFT Code": "NGBLBDDHMTJ",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11934,8 +11934,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NGBL",
-    "bankCode": "BD",
+    "bankCode": "NGBL",
+    "countryCode": "BD",
     "branchCode": "UTR",
     "SWIFT Code": "NGBLBDDHUTR",
     "Bank Name": "GLOBAL ISLAMI BANK PLC",
@@ -11947,8 +11947,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "001",
     "SWIFT Code": "AGBKBDDH001",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11960,8 +11960,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "034",
     "SWIFT Code": "AGBKBDDH034",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11973,8 +11973,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "007",
     "SWIFT Code": "AGBKBDDH007",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11986,8 +11986,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "040",
     "SWIFT Code": "AGBKBDDH040",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -11999,8 +11999,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "045",
     "SWIFT Code": "AGBKBDDH045",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12012,8 +12012,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "AGBKBDDH012",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12025,8 +12025,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "031",
     "SWIFT Code": "AGBKBDDH031",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12038,8 +12038,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "030",
     "SWIFT Code": "AGBKBDDH030",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12051,8 +12051,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "011",
     "SWIFT Code": "AGBKBDDH011",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12064,8 +12064,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "038",
     "SWIFT Code": "AGBKBDDH038",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12077,8 +12077,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "AGBKBDDH024",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12090,8 +12090,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "032",
     "SWIFT Code": "AGBKBDDH032",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12103,8 +12103,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "023",
     "SWIFT Code": "AGBKBDDH023",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12116,8 +12116,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "026",
     "SWIFT Code": "AGBKBDDH026",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12129,8 +12129,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "009",
     "SWIFT Code": "AGBKBDDH009",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12142,8 +12142,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "010",
     "SWIFT Code": "AGBKBDDH010",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12155,8 +12155,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "AGBKBDDH022",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12168,8 +12168,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "027",
     "SWIFT Code": "AGBKBDDH027",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12181,8 +12181,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "028",
     "SWIFT Code": "AGBKBDDH028",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12194,8 +12194,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "AGBKBDDH021",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12207,8 +12207,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "044",
     "SWIFT Code": "AGBKBDDH044",
     "Bank Name": "AGRANI BANK LIMITED",
@@ -12220,8 +12220,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBK",
-    "bankCode": "BD",
+    "bankCode": "AGBK",
+    "countryCode": "BD",
     "branchCode": "005",
     "SWIFT Code": "AGBKBDDH005",
     "Bank Name": "AGRANI BANK,RAMNA BRANCH,DHAKA(PHAKA)",
@@ -12233,8 +12233,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "071",
     "SWIFT Code": "ALARBDDH071",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12246,8 +12246,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "069",
     "SWIFT Code": "ALARBDDH069",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12259,8 +12259,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "076",
     "SWIFT Code": "ALARBDDH076",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12272,8 +12272,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "072",
     "SWIFT Code": "ALARBDDH072",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12285,8 +12285,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "087",
     "SWIFT Code": "ALARBDDH087",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12298,8 +12298,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "TPD",
     "SWIFT Code": "ALARBDDHTPD",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12311,8 +12311,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "ALARBDDH",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12324,8 +12324,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "079",
     "SWIFT Code": "ALARBDDH079",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12337,8 +12337,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "084",
     "SWIFT Code": "ALARBDDH084",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12350,8 +12350,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "080",
     "SWIFT Code": "ALARBDDH080",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12363,8 +12363,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "086",
     "SWIFT Code": "ALARBDDH086",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12376,8 +12376,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "091",
     "SWIFT Code": "ALARBDDH091",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12389,8 +12389,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "083",
     "SWIFT Code": "ALARBDDH083",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12402,8 +12402,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "090",
     "SWIFT Code": "ALARBDDH090",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12415,8 +12415,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "066",
     "SWIFT Code": "ALARBDDH066",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12428,8 +12428,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "075",
     "SWIFT Code": "ALARBDDH075",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12441,8 +12441,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "067",
     "SWIFT Code": "ALARBDDH067",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12454,8 +12454,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "074",
     "SWIFT Code": "ALARBDDH074",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12467,8 +12467,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "081",
     "SWIFT Code": "ALARBDDH081",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12480,8 +12480,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "092",
     "SWIFT Code": "ALARBDDH092",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12493,8 +12493,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "085",
     "SWIFT Code": "ALARBDDH085",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12506,8 +12506,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "ALARBDDHOBU",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12519,8 +12519,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "089",
     "SWIFT Code": "ALARBDDH089",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12532,8 +12532,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "082",
     "SWIFT Code": "ALARBDDH082",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12545,8 +12545,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "077",
     "SWIFT Code": "ALARBDDH077",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12558,8 +12558,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "068",
     "SWIFT Code": "ALARBDDH068",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12571,8 +12571,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "088",
     "SWIFT Code": "ALARBDDH088",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12584,8 +12584,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAR",
-    "bankCode": "BD",
+    "bankCode": "ALAR",
+    "countryCode": "BD",
     "branchCode": "078",
     "SWIFT Code": "ALARBDDH078",
     "Bank Name": "AL-ARAFAH ISLAMI BANK LTD.",
@@ -12597,8 +12597,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "AMK",
     "SWIFT Code": "JANBBDDHAMK",
     "Bank Name": "JANATA BANK PLC.",
@@ -12610,8 +12610,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "ADG",
     "SWIFT Code": "JANBBDDHADG",
     "Bank Name": "JANATA BANK PLC.",
@@ -12623,8 +12623,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "EPZ",
     "SWIFT Code": "JANBBDDHEPZ",
     "Bank Name": "JANATA BANK PLC.",
@@ -12636,8 +12636,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "CDA",
     "SWIFT Code": "JANBBDDHCDA",
     "Bank Name": "JANATA BANK PLC.",
@@ -12649,8 +12649,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JKG",
     "SWIFT Code": "JANBBDDHJKG",
     "Bank Name": "JANATA BANK PLC.",
@@ -12662,8 +12662,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "LDE",
     "SWIFT Code": "JANBBDDHLDE",
     "Bank Name": "JANATA BANK PLC.",
@@ -12675,8 +12675,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "SBB",
     "SWIFT Code": "JANBBDDHSBB",
     "Bank Name": "JANATA BANK PLC.",
@@ -12688,8 +12688,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "SMS",
     "SWIFT Code": "JANBBDDHSMS",
     "Bank Name": "JANATA BANK PLC.",
@@ -12701,8 +12701,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "CCN",
     "SWIFT Code": "JANBBDDHCCN",
     "Bank Name": "JANATA BANK PLC.",
@@ -12714,8 +12714,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "JANBBDDH",
     "Bank Name": "JANATA BANK PLC.",
@@ -12727,8 +12727,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "DCB",
     "SWIFT Code": "JANBBDDHDCB",
     "Bank Name": "JANATA BANK PLC.",
@@ -12740,8 +12740,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "ELE",
     "SWIFT Code": "JANBBDDHELE",
     "Bank Name": "JANATA BANK PLC.",
@@ -12753,8 +12753,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "FRG",
     "SWIFT Code": "JANBBDDHFRG",
     "Bank Name": "JANATA BANK PLC.",
@@ -12766,8 +12766,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "FGD",
     "SWIFT Code": "JANBBDDHFGD",
     "Bank Name": "JANATA BANK PLC.",
@@ -12779,8 +12779,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "FEC",
     "SWIFT Code": "JANBBDDHFEC",
     "Bank Name": "JANATA BANK PLC.",
@@ -12792,8 +12792,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "SRC",
     "SWIFT Code": "JANBBDDHSRC",
     "Bank Name": "JANATA BANK PLC.",
@@ -12805,8 +12805,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "GRB",
     "SWIFT Code": "JANBBDDHGRB",
     "Bank Name": "JANATA BANK PLC.",
@@ -12818,8 +12818,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "JANBBDDHGUL",
     "Bank Name": "JANATA BANK PLC.",
@@ -12831,8 +12831,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "IMA",
     "SWIFT Code": "JANBBDDHIMA",
     "Bank Name": "JANATA BANK PLC.",
@@ -12844,8 +12844,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JBC",
     "SWIFT Code": "JANBBDDHJBC",
     "Bank Name": "JANATA BANK PLC.",
@@ -12857,8 +12857,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JWC",
     "SWIFT Code": "JANBBDDHJWC",
     "Bank Name": "JANATA BANK PLC.",
@@ -12870,8 +12870,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "KAC",
     "SWIFT Code": "JANBBDDHKAC",
     "Bank Name": "JANATA BANK PLC.",
@@ -12883,8 +12883,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "KRN",
     "SWIFT Code": "JANBBDDHKRN",
     "Bank Name": "JANATA BANK PLC.",
@@ -12896,8 +12896,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JBD",
     "SWIFT Code": "JANBBDDHJBD",
     "Bank Name": "JANATA BANK PLC.",
@@ -12909,8 +12909,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "MGB",
     "SWIFT Code": "JANBBDDHMGB",
     "Bank Name": "JANATA BANK PLC.",
@@ -12922,8 +12922,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "MPD",
     "SWIFT Code": "JANBBDDHMPD",
     "Bank Name": "JANATA BANK PLC.",
@@ -12935,8 +12935,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "MCA",
     "SWIFT Code": "JANBBDDHMCA",
     "Bank Name": "JANATA BANK PLC.",
@@ -12948,8 +12948,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "NRB",
     "SWIFT Code": "JANBBDDHNRB",
     "Bank Name": "JANATA BANK PLC.",
@@ -12961,8 +12961,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JNB",
     "SWIFT Code": "JANBBDDHJNB",
     "Bank Name": "JANATA BANK PLC.",
@@ -12974,8 +12974,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "NMD",
     "SWIFT Code": "JANBBDDHNMD",
     "Bank Name": "JANATA BANK PLC.",
@@ -12987,8 +12987,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "PBD",
     "SWIFT Code": "JANBBDDHPBD",
     "Bank Name": "JANATA BANK PLC.",
@@ -13000,8 +13000,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "RBC",
     "SWIFT Code": "JANBBDDHRBC",
     "Bank Name": "JANATA BANK PLC.",
@@ -13013,8 +13013,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JRD",
     "SWIFT Code": "JANBBDDHJRD",
     "Bank Name": "JANATA BANK PLC.",
@@ -13026,8 +13026,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "SNB",
     "SWIFT Code": "JANBBDDHSNB",
     "Bank Name": "JANATA BANK PLC.",
@@ -13039,8 +13039,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "TKD",
     "SWIFT Code": "JANBBDDHTKD",
     "Bank Name": "JANATA BANK PLC.",
@@ -13052,8 +13052,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "UMC",
     "SWIFT Code": "JANBBDDHUMC",
     "Bank Name": "JANATA BANK PLC.",
@@ -13065,8 +13065,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "DNJ",
     "SWIFT Code": "JANBBDDHDNJ",
     "Bank Name": "JANATA BANK PLC.",
@@ -13078,8 +13078,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "HIL",
     "SWIFT Code": "JANBBDDHHIL",
     "Bank Name": "JANATA BANK PLC.",
@@ -13091,8 +13091,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "FAR",
     "SWIFT Code": "JANBBDDHFAR",
     "Bank Name": "JANATA BANK PLC.",
@@ -13104,8 +13104,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "JMK",
     "SWIFT Code": "JANBBDDHJMK",
     "Bank Name": "JANATA BANK PLC.",
@@ -13117,8 +13117,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "KSR",
     "SWIFT Code": "JANBBDDHKSR",
     "Bank Name": "JANATA BANK PLC.",
@@ -13130,8 +13130,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "KDA",
     "SWIFT Code": "JANBBDDHKDA",
     "Bank Name": "JANATA BANK PLC.",
@@ -13143,8 +13143,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "BUR",
     "SWIFT Code": "JANBBDDHBUR",
     "Bank Name": "JANATA BANK PLC.",
@@ -13156,8 +13156,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "HAL",
     "SWIFT Code": "JANBBDDHHAL",
     "Bank Name": "JANATA BANK PLC.",
@@ -13169,8 +13169,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "MYN",
     "SWIFT Code": "JANBBDDHMYN",
     "Bank Name": "JANATA BANK PLC.",
@@ -13182,8 +13182,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "BNG",
     "SWIFT Code": "JANBBDDHBNG",
     "Bank Name": "JANATA BANK PLC.",
@@ -13195,8 +13195,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "NGN",
     "SWIFT Code": "JANBBDDHNGN",
     "Bank Name": "JANATA BANK PLC.",
@@ -13208,8 +13208,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "NPJ",
     "SWIFT Code": "JANBBDDHNPJ",
     "Bank Name": "JANATA BANK PLC.",
@@ -13221,8 +13221,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "PNG",
     "SWIFT Code": "JANBBDDHPNG",
     "Bank Name": "JANATA BANK PLC.",
@@ -13234,8 +13234,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "BD",
+    "bankCode": "JANB",
+    "countryCode": "BD",
     "branchCode": "RAJ",
     "SWIFT Code": "JANBBDDHRAJ",
     "Bank Name": "JANATA BANK PLC.",
@@ -13247,8 +13247,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "CTO",
     "SWIFT Code": "PRMRBDDHCTO",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13260,8 +13260,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "DHN",
     "SWIFT Code": "PRMRBDDHDHN",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13273,8 +13273,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "DIL",
     "SWIFT Code": "PRMRBDDHDIL",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13286,8 +13286,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "DCB",
     "SWIFT Code": "PRMRBDDHDCB",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13299,8 +13299,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "ELE",
     "SWIFT Code": "PRMRBDDHELE",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13312,8 +13312,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "PRMRBDDHGUL",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13325,8 +13325,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "GCD",
     "SWIFT Code": "PRMRBDDHGCD",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13338,8 +13338,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "GGH",
     "SWIFT Code": "PRMRBDDHGGH",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13351,8 +13351,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "IMG",
     "SWIFT Code": "PRMRBDDHIMG",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13364,8 +13364,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "MHK",
     "SWIFT Code": "PRMRBDDHMHK",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13377,8 +13377,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "KBR",
     "SWIFT Code": "PRMRBDDHKBR",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13390,8 +13390,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "MTJ",
     "SWIFT Code": "PRMRBDDHMTJ",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13403,8 +13403,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "ORN",
     "SWIFT Code": "PRMRBDDHORN",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13416,8 +13416,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "UTT",
     "SWIFT Code": "PRMRBDDHUTT",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13429,8 +13429,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "KLN",
     "SWIFT Code": "PRMRBDDHKLN",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13442,8 +13442,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRMR",
-    "bankCode": "BD",
+    "bankCode": "PRMR",
+    "countryCode": "BD",
     "branchCode": "NRG",
     "SWIFT Code": "PRMRBDDHNRG",
     "Bank Name": "THE PREMIER BANK PLC",
@@ -13455,8 +13455,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "012",
     "SWIFT Code": "TTBLBDDH012",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13468,8 +13468,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "020",
     "SWIFT Code": "TTBLBDDH020",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13481,8 +13481,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "024",
     "SWIFT Code": "TTBLBDDH024",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13494,8 +13494,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "015",
     "SWIFT Code": "TTBLBDDH015",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13507,8 +13507,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "TTBLBDDH",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13520,8 +13520,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "014",
     "SWIFT Code": "TTBLBDDH014",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13533,8 +13533,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "017",
     "SWIFT Code": "TTBLBDDH017",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13546,8 +13546,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "016",
     "SWIFT Code": "TTBLBDDH016",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13559,8 +13559,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "030",
     "SWIFT Code": "TTBLBDDH030",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13572,8 +13572,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "022",
     "SWIFT Code": "TTBLBDDH022",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13585,8 +13585,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "OBU",
     "SWIFT Code": "TTBLBDDHOBU",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13598,8 +13598,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "002",
     "SWIFT Code": "TTBLBDDH002",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13611,8 +13611,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "003",
     "SWIFT Code": "TTBLBDDH003",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13624,8 +13624,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "023",
     "SWIFT Code": "TTBLBDDH023",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13637,8 +13637,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "035",
     "SWIFT Code": "TTBLBDDH035",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13650,8 +13650,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTBL",
-    "bankCode": "BD",
+    "bankCode": "TTBL",
+    "countryCode": "BD",
     "branchCode": "021",
     "SWIFT Code": "TTBLBDDH021",
     "Bank Name": "TRUST BANK LTD., THE",
@@ -13663,8 +13663,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "AGR",
     "SWIFT Code": "UBLDBDDHAGR",
     "Bank Name": "UNION BANK LIMITED",
@@ -13676,8 +13676,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "KTB",
     "SWIFT Code": "UBLDBDDHKTB",
     "Bank Name": "UNION BANK LIMITED",
@@ -13689,8 +13689,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "CTG",
     "SWIFT Code": "UBLDBDDHCTG",
     "Bank Name": "UNION BANK LIMITED",
@@ -13702,8 +13702,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "UBLDBDDH",
     "Bank Name": "UNION BANK LIMITED",
@@ -13715,8 +13715,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "BAN",
     "SWIFT Code": "UBLDBDDHBAN",
     "Bank Name": "UNION BANK LIMITED",
@@ -13728,8 +13728,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "CTO",
     "SWIFT Code": "UBLDBDDHCTO",
     "Bank Name": "UNION BANK LIMITED",
@@ -13741,8 +13741,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "DIL",
     "SWIFT Code": "UBLDBDDHDIL",
     "Bank Name": "UNION BANK LIMITED",
@@ -13754,8 +13754,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "GUL",
     "SWIFT Code": "UBLDBDDHGUL",
     "Bank Name": "UNION BANK LIMITED",
@@ -13767,8 +13767,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "HAT",
     "SWIFT Code": "UBLDBDDHHAT",
     "Bank Name": "UNION BANK LIMITED",
@@ -13780,8 +13780,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBLD",
-    "bankCode": "BD",
+    "bankCode": "UBLD",
+    "countryCode": "BD",
     "branchCode": "PAN",
     "SWIFT Code": "UBLDBDDHPAN",
     "Bank Name": "UNION BANK LIMITED",
@@ -13793,8 +13793,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "BGR",
     "SWIFT Code": "UCBLBDDHBGR",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13806,8 +13806,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "AGB",
     "SWIFT Code": "UCBLBDDHAGB",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13819,8 +13819,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "JBR",
     "SWIFT Code": "UCBLBDDHJBR",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13832,8 +13832,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "KDM",
     "SWIFT Code": "UCBLBDDHKDM",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13845,8 +13845,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "KTG",
     "SWIFT Code": "UCBLBDDHKTG",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13858,8 +13858,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "DDH",
     "SWIFT Code": "UCBLBDDH",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13871,8 +13871,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "BNB",
     "SWIFT Code": "UCBLBDDHBNB",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",
@@ -13884,8 +13884,8 @@ const bangladesh = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBL",
-    "bankCode": "BD",
+    "bankCode": "UCBL",
+    "countryCode": "BD",
     "branchCode": "BNG",
     "SWIFT Code": "UCBLBDDHBNG",
     "Bank Name": "UNITED COMMERCIAL BANK PLC",

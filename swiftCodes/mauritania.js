@@ -1,7 +1,7 @@
 const mauritania = [
   {
-    "countryCode": "AUBM",
-    "bankCode": "MR",
+    "bankCode": "AUBM",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "AUBMMRMR",
     "Bank Name": "ALGERIAN UNION BANK-SA (AUB-SA)",
@@ -13,8 +13,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "MR",
+    "bankCode": "BCMA",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BCMAMRMR",
     "Bank Name": "ATTIJARI BANK MAURITANIE",
@@ -26,8 +26,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMSH",
-    "bankCode": "MR",
+    "bankCode": "BMSH",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BMSHMRMR",
     "Bank Name": "BANQUE AL MUAMELAT AS SAHIHA",
@@ -39,8 +39,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAAW",
-    "bankCode": "MR",
+    "bankCode": "BAAW",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BAAWMRMR",
     "Bank Name": "BANQUE AL WAVA MAURITANIENNE ISLAMIQUE (BAMIS)",
@@ -52,8 +52,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEM",
-    "bankCode": "MR",
+    "bankCode": "BCEM",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BCEMMRMR",
     "Bank Name": "BANQUE CENTRALE DE MAURITANIE",
@@ -65,8 +65,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIAQ",
-    "bankCode": "MR",
+    "bankCode": "FIAQ",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "FIAQMRMR",
     "Bank Name": "BANQUE DES FINANCEMENTS ISLAMIQUES",
@@ -78,8 +78,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMDH",
-    "bankCode": "MR",
+    "bankCode": "AMDH",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "AMDHMRMR",
     "Bank Name": "BANQUE EL AMANA (BEA)",
@@ -91,8 +91,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMM",
-    "bankCode": "MR",
+    "bankCode": "BIMM",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BIMMMRMR",
     "Bank Name": "BANQUE ISLAMIQUE DE MAURITANIE",
@@ -104,8 +104,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BQMI",
-    "bankCode": "MR",
+    "bankCode": "BQMI",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BQMIMRMR",
     "Bank Name": "BANQUE MAURITANIENNE DE L'INVESTISSEMENT",
@@ -117,8 +117,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBIC",
-    "bankCode": "MR",
+    "bankCode": "MBIC",
+    "countryCode": "MR",
     "branchCode": "0MN",
     "SWIFT Code": "MBICMRMR0MN",
     "Bank Name": "BANQUE MAURITANIENNE POUR LE COMMERCE INTERNATIONAL",
@@ -131,8 +131,8 @@ const mauritania = [
   },
   {},
   {
-    "countryCode": "BQNM",
-    "bankCode": "MR",
+    "bankCode": "BQNM",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BQNMMRMR",
     "Bank Name": "BANQUE NATIONALE DE MAURITANIE",
@@ -144,8 +144,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPMA",
-    "bankCode": "MR",
+    "bankCode": "BPMA",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BPMAMRMR",
     "Bank Name": "BANQUE POPULAIRE DE MAURITANIE",
@@ -157,8 +157,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLI",
-    "bankCode": "MR",
+    "bankCode": "COLI",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "COLIMRMR",
     "Bank Name": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE",
@@ -170,8 +170,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZRZ",
-    "bankCode": "MR",
+    "bankCode": "CZRZ",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "CZRZMRMR",
     "Bank Name": "CHINGUITTY BANK",
@@ -183,8 +183,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBMC",
-    "bankCode": "MR",
+    "bankCode": "GBMC",
+    "countryCode": "MR",
     "branchCode": "NDB",
     "SWIFT Code": "GBMCMRMRNDB",
     "Bank Name": "GENERALE DE BANQUE DE MAURITANIE POUR L'INVESTISSEMENT ET LE COMMERCE",
@@ -196,8 +196,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBMC",
-    "bankCode": "MR",
+    "bankCode": "GBMC",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "GBMCMRMR",
     "Bank Name": "GENERALE DE BANQUE DE MAURITANIE POUR L'INVESTISSEMENT ET LE COMMERCE",
@@ -209,8 +209,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBMR",
-    "bankCode": "MR",
+    "bankCode": "IBMR",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "IBMRMRMR",
     "Bank Name": "INTERNATIONAL BANK OF MAURITANIA",
@@ -222,8 +222,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMR",
-    "bankCode": "MR",
+    "bankCode": "NBMR",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "NBMRMRMR",
     "Bank Name": "NOUVELLE BANQUE DE MAURITANIE",
@@ -235,8 +235,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "MR",
+    "bankCode": "ORBK",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "ORBKMRMR",
     "Bank Name": "ORABANK MAURITANIE",
@@ -248,8 +248,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "MR",
+    "bankCode": "QNBA",
+    "countryCode": "MR",
     "branchCode": "RMU",
     "SWIFT Code": "QNBAMRMU",
     "Bank Name": "QATAR NATIONAL BANK (QNB)",
@@ -261,8 +261,8 @@ const mauritania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIIM",
-    "bankCode": "MR",
+    "bankCode": "BIIM",
+    "countryCode": "MR",
     "branchCode": "RMR",
     "SWIFT Code": "BIIMMRMR",
     "Bank Name": "SOCIETE GENERALE MAURITANIE",

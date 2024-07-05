@@ -1,7 +1,7 @@
 const kiribati = [
   {
-    "countryCode": "BKIR",
-    "bankCode": "KI",
+    "bankCode": "BKIR",
+    "countryCode": "KI",
     "branchCode": "IKI",
     "SWIFT Code": "BKIRKIKI",
     "Bank Name": "ANZ BANK (KIRIBATI) LTD",

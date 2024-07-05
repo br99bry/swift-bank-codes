@@ -1,7 +1,7 @@
 const saoTomeAndPrincipe = [
   {
-    "countryCode": "AFFS",
-    "bankCode": "ST",
+    "bankCode": "AFFS",
+    "countryCode": "ST",
     "branchCode": "TST",
     "SWIFT Code": "AFFSSTST",
     "Bank Name": "AFRILAND FIRST BANK STP",
@@ -13,8 +13,8 @@ const saoTomeAndPrincipe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSTP",
-    "bankCode": "ST",
+    "bankCode": "CSTP",
+    "countryCode": "ST",
     "branchCode": "TST",
     "SWIFT Code": "CSTPSTST",
     "Bank Name": "BANCO CENTRAL DE SAO TOME E PRINCIPE",
@@ -26,8 +26,8 @@ const saoTomeAndPrincipe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INOI",
-    "bankCode": "ST",
+    "bankCode": "INOI",
+    "countryCode": "ST",
     "branchCode": "TST",
     "SWIFT Code": "INOISTST",
     "Bank Name": "BANCO INTERNACIONAL DE SAO TOME E PRINCIPE",
@@ -39,8 +39,8 @@ const saoTomeAndPrincipe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "ST",
+    "bankCode": "BGFI",
+    "countryCode": "ST",
     "branchCode": "TST",
     "SWIFT Code": "BGFISTST",
     "Bank Name": "BGFIBANK SAO TOME ET PRINCIPE",
@@ -52,8 +52,8 @@ const saoTomeAndPrincipe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "ST",
+    "bankCode": "ECOC",
+    "countryCode": "ST",
     "branchCode": "TST",
     "SWIFT Code": "ECOCSTST",
     "Bank Name": "ECOBANK SAO TOME",
@@ -65,8 +65,8 @@ const saoTomeAndPrincipe = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESTP",
-    "bankCode": "ST",
+    "bankCode": "ESTP",
+    "countryCode": "ST",
     "branchCode": "TST",
     "SWIFT Code": "ESTPSTST",
     "Bank Name": "ENERGYBANK SAO TOME E PRINCIPE S.A",

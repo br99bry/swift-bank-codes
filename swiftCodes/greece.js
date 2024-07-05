@@ -1,7 +1,7 @@
 const greece = [
   {
-    "countryCode": "AEBA",
-    "bankCode": "GR",
+    "bankCode": "AEBA",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "AEBAGRAA",
     "Bank Name": "AEGEAN BALTIC BANK S.A.",
@@ -13,8 +13,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRBA",
-    "bankCode": "GR",
+    "bankCode": "CRBA",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "CRBAGRAA",
     "Bank Name": "ALPHA BANK SA",
@@ -26,8 +26,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRBA",
-    "bankCode": "GR",
+    "bankCode": "CRBA",
+    "countryCode": "GR",
     "branchCode": "I01",
     "SWIFT Code": "CRBAGRAAI01",
     "Bank Name": "ALPHA BANK SA",
@@ -39,8 +39,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACHN",
-    "bankCode": "GR",
+    "bankCode": "ACHN",
+    "countryCode": "GR",
     "branchCode": "R22",
     "SWIFT Code": "ACHNGR22",
     "Bank Name": "AMBROSIA CAPITAL HELLAS SINGLE MEMBER INVESTMENT SERVICES S.A.",
@@ -52,8 +52,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APSY",
-    "bankCode": "GR",
+    "bankCode": "APSY",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "APSYGRA2",
     "Bank Name": "ARGO PAYMENT SERVICES S.A PAYMENT INSTITUTION",
@@ -65,8 +65,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATHC",
-    "bankCode": "GR",
+    "bankCode": "ATHC",
+    "countryCode": "GR",
     "branchCode": "RAB",
     "SWIFT Code": "ATHCGRAB",
     "Bank Name": "ATHEXCLEAR",
@@ -78,8 +78,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATTI",
-    "bankCode": "GR",
+    "bankCode": "ATTI",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "ATTIGRAA",
     "Bank Name": "ATTICA BANK SA",
@@ -91,8 +91,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATTI",
-    "bankCode": "GR",
+    "bankCode": "ATTI",
+    "countryCode": "GR",
     "branchCode": "068",
     "SWIFT Code": "ATTIGRAA068",
     "Bank Name": "ATTICA BANK SA",
@@ -104,8 +104,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "GR",
+    "bankCode": "BOFA",
+    "countryCode": "GR",
     "branchCode": "R2X",
     "SWIFT Code": "BOFAGR2X",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, ATHENS BRANCH",
@@ -117,8 +117,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "GR",
+    "bankCode": "BKCH",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "BKCHGRAA",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A. ATHENS BRANCH",
@@ -130,8 +130,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "ST2",
     "SWIFT Code": "BNGRGRAAST2",
     "Bank Name": "BANK OF GREECE",
@@ -143,8 +143,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "BNGRGRAA",
     "Bank Name": "BANK OF GREECE",
@@ -156,8 +156,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "030",
     "SWIFT Code": "BNGRGRAA030",
     "Bank Name": "BANK OF GREECE",
@@ -169,8 +169,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "ACO",
     "SWIFT Code": "BNGRGRAAACO",
     "Bank Name": "BANK OF GREECE",
@@ -182,8 +182,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "SSS",
     "SWIFT Code": "BNGRGRAASSS",
     "Bank Name": "BANK OF GREECE",
@@ -195,8 +195,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "CCB",
     "SWIFT Code": "BNGRGRAACCB",
     "Bank Name": "BANK OF GREECE",
@@ -208,8 +208,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "053",
     "SWIFT Code": "BNGRGRAA053",
     "Bank Name": "BANK OF GREECE",
@@ -221,8 +221,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "059",
     "SWIFT Code": "BNGRGRAA059",
     "Bank Name": "BANK OF GREECE",
@@ -234,8 +234,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "042",
     "SWIFT Code": "BNGRGRAA042",
     "Bank Name": "BANK OF GREECE",
@@ -247,8 +247,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "IOP",
     "SWIFT Code": "BNGRGRAAIOP",
     "Bank Name": "BANK OF GREECE",
@@ -260,8 +260,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "INS",
     "SWIFT Code": "BNGRGRAAINS",
     "Bank Name": "BANK OF GREECE",
@@ -273,8 +273,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "DIA",
     "SWIFT Code": "BNGRGRAADIA",
     "Bank Name": "BANK OF GREECE",
@@ -286,8 +286,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "017",
     "SWIFT Code": "BNGRGRAA017",
     "Bank Name": "BANK OF GREECE",
@@ -299,8 +299,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "EUX",
     "SWIFT Code": "BNGRGRAAEUX",
     "Bank Name": "BANK OF GREECE",
@@ -312,8 +312,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "013",
     "SWIFT Code": "BNGRGRAA013",
     "Bank Name": "BANK OF GREECE",
@@ -325,8 +325,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "027",
     "SWIFT Code": "BNGRGRAA027",
     "Bank Name": "BANK OF GREECE",
@@ -338,8 +338,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "HRM",
     "SWIFT Code": "BNGRGRAAHRM",
     "Bank Name": "BANK OF GREECE",
@@ -351,8 +351,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "CON",
     "SWIFT Code": "BNGRGRAACON",
     "Bank Name": "BANK OF GREECE",
@@ -364,8 +364,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "072",
     "SWIFT Code": "BNGRGRAA072",
     "Bank Name": "BANK OF GREECE",
@@ -377,8 +377,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "094",
     "SWIFT Code": "BNGRGRAA094",
     "Bank Name": "BANK OF GREECE",
@@ -390,8 +390,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "PBS",
     "SWIFT Code": "BNGRGRAAPBS",
     "Bank Name": "BANK OF GREECE",
@@ -403,8 +403,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "012",
     "SWIFT Code": "BNGRGRAA012",
     "Bank Name": "BANK OF GREECE",
@@ -416,8 +416,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "PEN",
     "SWIFT Code": "BNGRGRAAPEN",
     "Bank Name": "BANK OF GREECE",
@@ -429,8 +429,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "SCT",
     "SWIFT Code": "BNGRGRAASCT",
     "Bank Name": "BANK OF GREECE",
@@ -443,8 +443,8 @@ const greece = [
   },
   {},
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "ECM",
     "SWIFT Code": "BNGRGRAAECM",
     "Bank Name": "BANK OF GREECE",
@@ -456,8 +456,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "BR8",
     "SWIFT Code": "BNGRGRAABR8",
     "Bank Name": "BANK OF GREECE",
@@ -469,8 +469,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "BR4",
     "SWIFT Code": "BNGRGRAABR4",
     "Bank Name": "BANK OF GREECE",
@@ -482,8 +482,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "FXD",
     "SWIFT Code": "BNGRGRAAFXD",
     "Bank Name": "BANK OF GREECE",
@@ -495,8 +495,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGR",
-    "bankCode": "GR",
+    "bankCode": "BNGR",
+    "countryCode": "GR",
     "branchCode": "121",
     "SWIFT Code": "BNGRGRAA121",
     "Bank Name": "BANK OF GREECE",
@@ -508,8 +508,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSTD",
-    "bankCode": "GR",
+    "bankCode": "BSTD",
+    "countryCode": "GR",
     "branchCode": "R2T",
     "SWIFT Code": "BSTDGR2T",
     "Bank Name": "BLACK SEA TRADE AND DEVELOPMENT BANK",
@@ -521,8 +521,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "GR",
+    "bankCode": "PARB",
+    "countryCode": "GR",
     "branchCode": "RAX",
     "SWIFT Code": "PARBGRAX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, GREECE",
@@ -534,8 +534,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GR",
+    "bankCode": "CITI",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "CITIGRAA",
     "Bank Name": "CITIBANK EUROPE PLC GREECE BRANCH",
@@ -547,8 +547,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GR",
+    "bankCode": "CITI",
+    "countryCode": "GR",
     "branchCode": "731",
     "SWIFT Code": "CITIGRAA731",
     "Bank Name": "CITIBANK EUROPE PLC GREECE BRANCH",
@@ -560,8 +560,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GR",
+    "bankCode": "CITI",
+    "countryCode": "GR",
     "branchCode": "SEC",
     "SWIFT Code": "CITIGRAASEC",
     "Bank Name": "CITIBANK EUROPE PLC GREECE BRANCH",
@@ -573,8 +573,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GR",
+    "bankCode": "CITI",
+    "countryCode": "GR",
     "branchCode": "732",
     "SWIFT Code": "CITIGRAA732",
     "Bank Name": "CITIBANK EUROPE PLC GREECE BRANCH",
@@ -586,8 +586,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "GR",
+    "bankCode": "CITI",
+    "countryCode": "GR",
     "branchCode": "733",
     "SWIFT Code": "CITIGRAA733",
     "Bank Name": "CITIBANK EUROPE PLC GREECE BRANCH",
@@ -599,8 +599,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COES",
-    "bankCode": "GR",
+    "bankCode": "COES",
+    "countryCode": "GR",
     "branchCode": "R22",
     "SWIFT Code": "COESGR22",
     "Bank Name": "COOPERATIVE BANK OF CENTRAL MACEDONIA LTD",
@@ -612,8 +612,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STXA",
-    "bankCode": "GR",
+    "bankCode": "STXA",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "STXAGRA2",
     "Bank Name": "COOPERATIVE BANK OF CHANIA",
@@ -625,8 +625,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STXA",
-    "bankCode": "GR",
+    "bankCode": "STXA",
+    "countryCode": "GR",
     "branchCode": "I01",
     "SWIFT Code": "STXAGRA2I01",
     "Bank Name": "COOPERATIVE BANK OF CHANIA",
@@ -638,8 +638,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STIO",
-    "bankCode": "GR",
+    "bankCode": "STIO",
+    "countryCode": "GR",
     "branchCode": "R2I",
     "SWIFT Code": "STIOGR2I",
     "Bank Name": "COOPERATIVE BANK OF EPIRUS LLC",
@@ -651,8 +651,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STIO",
-    "bankCode": "GR",
+    "bankCode": "STIO",
+    "countryCode": "GR",
     "branchCode": "I01",
     "SWIFT Code": "STIOGR2II01",
     "Bank Name": "COOPERATIVE BANK OF EPIRUS LLC",
@@ -664,8 +664,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STKA",
-    "bankCode": "GR",
+    "bankCode": "STKA",
+    "countryCode": "GR",
     "branchCode": "RAX",
     "SWIFT Code": "STKAGRAX",
     "Bank Name": "COOPERATIVE BANK OF KARDITSA COOP L.L.",
@@ -677,8 +677,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTK",
-    "bankCode": "GR",
+    "bankCode": "STTK",
+    "countryCode": "GR",
     "branchCode": "I01",
     "SWIFT Code": "STTKGR22I01",
     "Bank Name": "COOPERATIVE BANK OF THESSALY LL",
@@ -690,8 +690,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTK",
-    "bankCode": "GR",
+    "bankCode": "STTK",
+    "countryCode": "GR",
     "branchCode": "I02",
     "SWIFT Code": "STTKGR22I02",
     "Bank Name": "COOPERATIVE BANK OF THESSALY LL",
@@ -703,8 +703,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STTK",
-    "bankCode": "GR",
+    "bankCode": "STTK",
+    "countryCode": "GR",
     "branchCode": "R22",
     "SWIFT Code": "STTKGR22",
     "Bank Name": "COOPERATIVE BANK OF THESSALY LL",
@@ -716,8 +716,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPEM",
-    "bankCode": "GR",
+    "bankCode": "CPEM",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "CPEMGRA2",
     "Bank Name": "COSMOTE PAYMENTS - ELECTRONIC MONEY SERVICES S.A",
@@ -729,8 +729,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENCH",
-    "bankCode": "GR",
+    "bankCode": "ENCH",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "ENCHGRAA",
     "Bank Name": "ENEX CLEARING HOUSE SINGLE MEMBER S.A.",
@@ -742,8 +742,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENCH",
-    "bankCode": "GR",
+    "bankCode": "ENCH",
+    "countryCode": "GR",
     "branchCode": "ASI",
     "SWIFT Code": "ENCHGRAAASI",
     "Bank Name": "ENEX CLEARING HOUSE SINGLE MEMBER S.A.",
@@ -755,8 +755,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBK",
-    "bankCode": "GR",
+    "bankCode": "ERBK",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "ERBKGRAA",
     "Bank Name": "EUROBANK S.A.",
@@ -768,8 +768,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBK",
-    "bankCode": "GR",
+    "bankCode": "ERBK",
+    "countryCode": "GR",
     "branchCode": "SEC",
     "SWIFT Code": "ERBKGRAASEC",
     "Bank Name": "EUROBANK S.A.",
@@ -781,8 +781,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERBK",
-    "bankCode": "GR",
+    "bankCode": "ERBK",
+    "countryCode": "GR",
     "branchCode": "TIP",
     "SWIFT Code": "ERBKGRAATIP",
     "Bank Name": "EUROBANK S.A.",
@@ -794,8 +794,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EISV",
-    "bankCode": "GR",
+    "bankCode": "EISV",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "EISVGRA2",
     "Bank Name": "EUROTRUST INVESTMENT SERVICES S.A.",
@@ -807,8 +807,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPSN",
-    "bankCode": "GR",
+    "bankCode": "EPSN",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "EPSNGRA2",
     "Bank Name": "EVERYPAY PAYMENT SERVICES SINGLE MEMBER SOCIETE ANONYME",
@@ -820,8 +820,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHOP",
-    "bankCode": "GR",
+    "bankCode": "GHOP",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "GHOPGRAA",
     "Bank Name": "GRIVALIA HOSPITALITY S.A.",
@@ -833,8 +833,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCSD",
-    "bankCode": "GR",
+    "bankCode": "HCSD",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "HCSDGRAA",
     "Bank Name": "HELLENIC CENTRAL SECURITIES DEPOSITORY S.A.",
@@ -846,8 +846,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCSD",
-    "bankCode": "GR",
+    "bankCode": "HCSD",
+    "countryCode": "GR",
     "branchCode": "ASI",
     "SWIFT Code": "HCSDGRAAASI",
     "Bank Name": "HELLENIC CENTRAL SECURITIES DEPOSITORY S.A.",
@@ -859,8 +859,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEHI",
-    "bankCode": "GR",
+    "bankCode": "HEHI",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "HEHIGRAA",
     "Bank Name": "HELLENIQ ENERGY HOLDINGS A.E.",
@@ -872,8 +872,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IEPI",
-    "bankCode": "GR",
+    "bankCode": "IEPI",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "IEPIGRA2",
     "Bank Name": "INTEL EXPRESS PAYMENT INSTITUTION INTELI EXPRESS",
@@ -885,8 +885,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFGA",
-    "bankCode": "GR",
+    "bankCode": "MFGA",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "MFGAGRAA",
     "Bank Name": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
@@ -898,8 +898,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFGA",
-    "bankCode": "GR",
+    "bankCode": "MFGA",
+    "countryCode": "GR",
     "branchCode": "PDI",
     "SWIFT Code": "MFGAGRAAPDI",
     "Bank Name": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
@@ -911,8 +911,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFGA",
-    "bankCode": "GR",
+    "bankCode": "MFGA",
+    "countryCode": "GR",
     "branchCode": "PDM",
     "SWIFT Code": "MFGAGRAAPDM",
     "Bank Name": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
@@ -924,8 +924,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFGA",
-    "bankCode": "GR",
+    "bankCode": "MFGA",
+    "countryCode": "GR",
     "branchCode": "SPP",
     "SWIFT Code": "MFGAGRAASPP",
     "Bank Name": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
@@ -937,8 +937,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOHC",
-    "bankCode": "GR",
+    "bankCode": "MOHC",
+    "countryCode": "GR",
     "branchCode": "R22",
     "SWIFT Code": "MOHCGR22",
     "Bank Name": "MOTOR OIL (HELLAS) CORINTH REFINERIES S.A.",
@@ -950,8 +950,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "GR",
+    "bankCode": "ETHN",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "ETHNGRAA",
     "Bank Name": "NATIONAL BANK OF GREECE S.A.",
@@ -963,8 +963,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "GR",
+    "bankCode": "ETHN",
+    "countryCode": "GR",
     "branchCode": "CUS",
     "SWIFT Code": "ETHNGRAACUS",
     "Bank Name": "NATIONAL BANK OF GREECE S.A.",
@@ -976,8 +976,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "GR",
+    "bankCode": "ETHN",
+    "countryCode": "GR",
     "branchCode": "GRI",
     "SWIFT Code": "ETHNGRAAGRI",
     "Bank Name": "NATIONAL BANK OF GREECE S.A.",
@@ -989,8 +989,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHN",
-    "bankCode": "GR",
+    "bankCode": "ETHN",
+    "countryCode": "GR",
     "branchCode": "TIP",
     "SWIFT Code": "ETHNGRAATIP",
     "Bank Name": "NATIONAL BANK OF GREECE S.A.",
@@ -1002,8 +1002,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOG",
-    "bankCode": "GR",
+    "bankCode": "IBOG",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "IBOGGRAA",
     "Bank Name": "OPTIMA BANK S.A. (FORMERLY INVESTMENT BANK OF GREECE S.A)",
@@ -1015,8 +1015,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBOG",
-    "bankCode": "GR",
+    "bankCode": "IBOG",
+    "countryCode": "GR",
     "branchCode": "TIP",
     "SWIFT Code": "IBOGGRAATIP",
     "Bank Name": "OPTIMA BANK S.A. (FORMERLY INVESTMENT BANK OF GREECE S.A)",
@@ -1028,8 +1028,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STPG",
-    "bankCode": "GR",
+    "bankCode": "STPG",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "STPGGRAA",
     "Bank Name": "PANCRETA BANK S.A.",
@@ -1041,8 +1041,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STPG",
-    "bankCode": "GR",
+    "bankCode": "STPG",
+    "countryCode": "GR",
     "branchCode": "I01",
     "SWIFT Code": "STPGGRAAI01",
     "Bank Name": "PANCRETA BANK S.A.",
@@ -1054,8 +1054,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIRB",
-    "bankCode": "GR",
+    "bankCode": "PIRB",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "PIRBGRAA",
     "Bank Name": "PIRAEUS BANK SA",
@@ -1067,8 +1067,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIRB",
-    "bankCode": "GR",
+    "bankCode": "PIRB",
+    "countryCode": "GR",
     "branchCode": "INS",
     "SWIFT Code": "PIRBGRAAINS",
     "Bank Name": "PIRAEUS BANK SA",
@@ -1080,8 +1080,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIRB",
-    "bankCode": "GR",
+    "bankCode": "PIRB",
+    "countryCode": "GR",
     "branchCode": "SEC",
     "SWIFT Code": "PIRBGRAASEC",
     "Bank Name": "PIRAEUS BANK SA",
@@ -1093,8 +1093,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIRB",
-    "bankCode": "GR",
+    "bankCode": "PIRB",
+    "countryCode": "GR",
     "branchCode": "CBS",
     "SWIFT Code": "PIRBGRAACBS",
     "Bank Name": "PIRAEUS BANK SA",
@@ -1106,8 +1106,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "GR",
+    "bankCode": "PRCB",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "PRCBGRAA",
     "Bank Name": "PROCREDIT BANK (BULGARIA) EAD THESSALONIKI BRANCH",
@@ -1119,8 +1119,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "GR",
+    "bankCode": "TCZB",
+    "countryCode": "GR",
     "branchCode": "RAT",
     "SWIFT Code": "TCZBGRAT",
     "Bank Name": "T.C. ZIRAAT BANKASI ATHENS CENTRAL BRANCH",
@@ -1132,8 +1132,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBIB",
-    "bankCode": "GR",
+    "bankCode": "TBIB",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "TBIBGRAA",
     "Bank Name": "TBI BANK EAD, BRANCH GREECE",
@@ -1145,8 +1145,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TFIM",
-    "bankCode": "GR",
+    "bankCode": "TFIM",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "TFIMGRAA",
     "Bank Name": "TFI MARKETS LTD GREEK BRANCH",
@@ -1158,8 +1158,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "GR",
+    "bankCode": "PANX",
+    "countryCode": "GR",
     "branchCode": "RA2",
     "SWIFT Code": "PANXGRA2",
     "Bank Name": "UNIFIEDPOST PAYMENTS SA FOREIGN BRANCH",
@@ -1171,8 +1171,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "GR",
+    "bankCode": "VPAY",
+    "countryCode": "GR",
     "branchCode": "RA3",
     "SWIFT Code": "VPAYGRA3",
     "Bank Name": "VIVA PAYMENT SERVICES S.A.",
@@ -1184,8 +1184,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "GR",
+    "bankCode": "VPAY",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "VPAYGRAA",
     "Bank Name": "VIVA PAYMENT SERVICES SINGLE MEMBER S.A.",
@@ -1197,8 +1197,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "GR",
+    "bankCode": "VPAY",
+    "countryCode": "GR",
     "branchCode": "TPS",
     "SWIFT Code": "VPAYGRAATPS",
     "Bank Name": "VIVA PAYMENT SERVICES SINGLE MEMBER S.A.",
@@ -1210,8 +1210,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRXB",
-    "bankCode": "GR",
+    "bankCode": "PRXB",
+    "countryCode": "GR",
     "branchCode": "RAA",
     "SWIFT Code": "PRXBGRAA",
     "Bank Name": "VIVABANK SINGLE MEMBER BANKING S.A.",
@@ -1223,8 +1223,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRXB",
-    "bankCode": "GR",
+    "bankCode": "PRXB",
+    "countryCode": "GR",
     "branchCode": "TPT",
     "SWIFT Code": "PRXBGRAATPT",
     "Bank Name": "VIVABANK SINGLE MEMBER BANKING S.A.",
@@ -1236,8 +1236,8 @@ const greece = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRXB",
-    "bankCode": "GR",
+    "bankCode": "PRXB",
+    "countryCode": "GR",
     "branchCode": "TPS",
     "SWIFT Code": "PRXBGRAATPS",
     "Bank Name": "VIVABANK SINGLE MEMBER BANKING S.A.",

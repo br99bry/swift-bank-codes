@@ -1,7 +1,7 @@
 const poland = [
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "ZAA",
     "SWIFT Code": "EBOSPLPWZAA",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -13,8 +13,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PL",
+    "bankCode": "BKCH",
+    "countryCode": "PL",
     "branchCode": "LPX",
     "SWIFT Code": "BKCHPLPX",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A. POLAND BRANCH",
@@ -26,8 +26,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKOP",
-    "bankCode": "PL",
+    "bankCode": "PKOP",
+    "countryCode": "PL",
     "branchCode": "KRA",
     "SWIFT Code": "PKOPPLPWKRA",
     "Bank Name": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
@@ -39,8 +39,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKOP",
-    "bankCode": "PL",
+    "bankCode": "PKOP",
+    "countryCode": "PL",
     "branchCode": "SMK",
     "SWIFT Code": "PKOPPLPWSMK",
     "Bank Name": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
@@ -52,8 +52,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKOP",
-    "bankCode": "PL",
+    "bankCode": "PKOP",
+    "countryCode": "PL",
     "branchCode": "CUS",
     "SWIFT Code": "PKOPPLPWCUS",
     "Bank Name": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
@@ -65,8 +65,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKOP",
-    "bankCode": "PL",
+    "bankCode": "PKOP",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "PKOPPLPW",
     "Bank Name": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
@@ -78,8 +78,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POLU",
-    "bankCode": "PL",
+    "bankCode": "POLU",
+    "countryCode": "PL",
     "branchCode": "LPR",
     "SWIFT Code": "POLUPLPR",
     "Bank Name": "BANK POLSKIEJ SPOLDZIELCZOSCI SPOLKA AKCYJNA",
@@ -91,8 +91,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRZK",
-    "bankCode": "PL",
+    "bankCode": "SRZK",
+    "countryCode": "PL",
     "branchCode": "LPK",
     "SWIFT Code": "SRZKPLPK",
     "Bank Name": "BANK SPOLDZIELCZY RZEMIOSLA W KRAKOWIE",
@@ -104,8 +104,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPBO",
-    "bankCode": "PL",
+    "bankCode": "SPBO",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "SPBOPLPW",
     "Bank Name": "BANK SPOLDZIELCZY W BRODNICY",
@@ -117,8 +117,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPBC",
-    "bankCode": "PL",
+    "bankCode": "SPBC",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "SPBCPLPP",
     "Bank Name": "BANK SPOLDZIELCZY W BYDGOSZCZY",
@@ -130,8 +130,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPAB",
-    "bankCode": "PL",
+    "bankCode": "PPAB",
+    "countryCode": "PL",
     "branchCode": "LPK",
     "SWIFT Code": "PPABPLPK",
     "Bank Name": "BNP PARIBAS BANK POLSKA S.A.",
@@ -143,8 +143,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "PL",
+    "bankCode": "BNPA",
+    "countryCode": "PL",
     "branchCode": "LPX",
     "SWIFT Code": "BNPAPLPX",
     "Bank Name": "BNP PARIBAS S.A. BRANCH IN POLAND",
@@ -156,8 +156,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "PL",
+    "bankCode": "PARB",
+    "countryCode": "PL",
     "branchCode": "LPX",
     "SWIFT Code": "PARBPLPX",
     "Bank Name": "BNP PARIBAS SECURITIES POLAND",
@@ -169,8 +169,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BONP",
-    "bankCode": "PL",
+    "bankCode": "BONP",
+    "countryCode": "PL",
     "branchCode": "LP9",
     "SWIFT Code": "BONPPLP9",
     "Bank Name": "BONDSPOT S.A.",
@@ -182,8 +182,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBPL",
-    "bankCode": "PL",
+    "bankCode": "FBPL",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "FBPLPLPW",
     "Bank Name": "CA AUTO BANK SPA SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -195,8 +195,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "PL",
+    "bankCode": "CAIX",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "CAIXPLPW",
     "Bank Name": "CAIXABANK, S.A. (SPOLKA AKCYJNA) ODDZIAL W POLSCE",
@@ -208,8 +208,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "PL",
+    "bankCode": "PCBC",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "PCBCPLPW",
     "Bank Name": "CHINA CONSTRUCTION BANK(EUROPE)WARSAW BRANCH",
@@ -221,8 +221,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CINK",
-    "bankCode": "PL",
+    "bankCode": "CINK",
+    "countryCode": "PL",
     "branchCode": "LPZ",
     "SWIFT Code": "CINKPLPZ",
     "Bank Name": "CINKCIARZ.PL SP. Z O.O.",
@@ -234,8 +234,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CONP",
-    "bankCode": "PL",
+    "bankCode": "CONP",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "CONPPLPW",
     "Bank Name": "CONOTOXIA SP. Z O.O.",
@@ -247,8 +247,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "PL",
+    "bankCode": "AGRI",
+    "countryCode": "PL",
     "branchCode": "LPR",
     "SWIFT Code": "AGRIPLPR",
     "Bank Name": "CREDIT AGRICOLE BANK POLSKA S.A.",
@@ -260,8 +260,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABA",
-    "bankCode": "PL",
+    "bankCode": "DABA",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "DABAPLPW",
     "Bank Name": "DANSKE BANK A/S S.A. ODZIAL W POLSCE",
@@ -273,8 +273,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PL",
+    "bankCode": "DEUT",
+    "countryCode": "PL",
     "branchCode": "LPX",
     "SWIFT Code": "DEUTPLPX",
     "Bank Name": "DEUTSCHE BANK POLSKA S.A.",
@@ -286,8 +286,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHBF",
-    "bankCode": "PL",
+    "bankCode": "MHBF",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "MHBFPLPW",
     "Bank Name": "DNB BANK POLSKA S.A.",
@@ -299,8 +299,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FESK",
-    "bankCode": "PL",
+    "bankCode": "FESK",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "FESKPLP2",
     "Bank Name": "FENIGE SPOLKA AKCYJNA",
@@ -312,8 +312,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNTM",
-    "bankCode": "PL",
+    "bankCode": "FNTM",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "FNTMPLP2",
     "Bank Name": "FINTECOM SP. Z O.O.",
@@ -325,8 +325,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAV",
-    "bankCode": "PL",
+    "bankCode": "GUAV",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "GUAVPLPP",
     "Bank Name": "GUAVAPAY POLAND SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
@@ -338,8 +338,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSI",
-    "bankCode": "PL",
+    "bankCode": "ESSI",
+    "countryCode": "PL",
     "branchCode": "LPX",
     "SWIFT Code": "ESSIPLPX",
     "Bank Name": "HAITONG BANK S.A., SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -351,8 +351,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "PL",
+    "bankCode": "HSBC",
+    "countryCode": "PL",
     "branchCode": "LPS",
     "SWIFT Code": "HSBCPLPS",
     "Bank Name": "HSBC CONTINENTAL EUROPE (SA) ODDZIAL W POLSCE",
@@ -364,8 +364,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "PL",
+    "bankCode": "HSBC",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "HSBCPLPW",
     "Bank Name": "HSBC CONTINENTAL EUROPE (SA) ODDZIAL W POLSCE",
@@ -377,8 +377,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "PL",
+    "bankCode": "ICBK",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "ICBKPLPW",
     "Bank Name": "ICBC POLAND BRANCH",
@@ -390,8 +390,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGTR",
-    "bankCode": "PL",
+    "bankCode": "IGTR",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "IGTRPLPW",
     "Bank Name": "IGORIA TRADE S.A.",
@@ -403,8 +403,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "PL",
+    "bankCode": "INGB",
+    "countryCode": "PL",
     "branchCode": "LPH",
     "SWIFT Code": "INGBPLPH",
     "Bank Name": "ING BANK HIPOTECZNY S.A.",
@@ -416,8 +416,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "PL",
+    "bankCode": "INGB",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "INGBPLPW",
     "Bank Name": "ING BANK SLASKI SA",
@@ -429,8 +429,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "PL",
+    "bankCode": "BCIT",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "BCITPLPW",
     "Bank Name": "INTESA SANPAOLO SPA",
@@ -442,8 +442,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAG",
-    "bankCode": "PL",
+    "bankCode": "IPAG",
+    "countryCode": "PL",
     "branchCode": "LPL",
     "SWIFT Code": "IPAGPLPL",
     "Bank Name": "IPAGOO LLP, SPOLKA PARTNERSKA ODDZIAL",
@@ -455,8 +455,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCP",
-    "bankCode": "PL",
+    "bankCode": "KCCP",
+    "countryCode": "PL",
     "branchCode": "ASI",
     "SWIFT Code": "KCCPPLPWASI",
     "Bank Name": "KDPW CCP",
@@ -468,8 +468,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCP",
-    "bankCode": "PL",
+    "bankCode": "KCCP",
+    "countryCode": "PL",
     "branchCode": "OTC",
     "SWIFT Code": "KCCPPLPWOTC",
     "Bank Name": "KDPW CCP",
@@ -481,8 +481,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCCP",
-    "bankCode": "PL",
+    "bankCode": "KCCP",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "KCCPPLPW",
     "Bank Name": "KDPW CCP",
@@ -494,8 +494,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDPW",
-    "bankCode": "PL",
+    "bankCode": "KDPW",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "KDPWPLPW",
     "Bank Name": "KDPW S.A.",
@@ -507,8 +507,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKIR",
-    "bankCode": "PL",
+    "bankCode": "EKIR",
+    "countryCode": "PL",
     "branchCode": "LPD",
     "SWIFT Code": "EKIRPLPD",
     "Bank Name": "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)",
@@ -520,8 +520,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKIR",
-    "bankCode": "PL",
+    "bankCode": "EKIR",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "EKIRPLPW",
     "Bank Name": "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)",
@@ -533,8 +533,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKOK",
-    "bankCode": "PL",
+    "bankCode": "SKOK",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "SKOKPLPW",
     "Bank Name": "KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO-KREDYTOWA",
@@ -546,8 +546,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRSP",
-    "bankCode": "PL",
+    "bankCode": "KRSP",
+    "countryCode": "PL",
     "branchCode": "LPK",
     "SWIFT Code": "KRSPPLPK",
     "Bank Name": "KRAKOWSKI BANK SPOLDZIELCZY",
@@ -559,8 +559,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRSP",
-    "bankCode": "PL",
+    "bankCode": "KRSP",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "KRSPPLP2",
     "Bank Name": "KRAKOWSKI BANK SPOLDZIELCZY",
@@ -572,8 +572,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBH",
-    "bankCode": "PL",
+    "bankCode": "RHBH",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "RHBHPLPW",
     "Bank Name": "MBANK HIPOTECZNY SA",
@@ -585,8 +585,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "BIA",
     "SWIFT Code": "BREXPLPWBIA",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -598,8 +598,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "BIB",
     "SWIFT Code": "BREXPLPWBIB",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -611,8 +611,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "BYD",
     "SWIFT Code": "BREXPLPWBYD",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -624,8 +624,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "CZE",
     "SWIFT Code": "BREXPLPWCZE",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -637,8 +637,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "GDA",
     "SWIFT Code": "BREXPLPWGDA",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -650,8 +650,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "GDY",
     "SWIFT Code": "BREXPLPWGDY",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -663,8 +663,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "GOR",
     "SWIFT Code": "BREXPLPWGOR",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -676,8 +676,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "KAL",
     "SWIFT Code": "BREXPLPWKAL",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -689,8 +689,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "KAT",
     "SWIFT Code": "BREXPLPWKAT",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -702,8 +702,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "RCO",
     "SWIFT Code": "BREXPLPWRCO",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -715,8 +715,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "KIE",
     "SWIFT Code": "BREXPLPWKIE",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -728,8 +728,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "KOS",
     "SWIFT Code": "BREXPLPWKOS",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -741,8 +741,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "KRA",
     "SWIFT Code": "BREXPLPWKRA",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -754,8 +754,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "LOD",
     "SWIFT Code": "BREXPLPWLOD",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -767,8 +767,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "OMB",
     "SWIFT Code": "BREXPLPWOMB",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -780,8 +780,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "MBK",
     "SWIFT Code": "BREXPLPWMBK",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -793,8 +793,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "MUL",
     "SWIFT Code": "BREXPLPWMUL",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -806,8 +806,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "LUB",
     "SWIFT Code": "BREXPLPWLUB",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -819,8 +819,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "NWS",
     "SWIFT Code": "BREXPLPWNWS",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -832,8 +832,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "OLS",
     "SWIFT Code": "BREXPLPWOLS",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -845,8 +845,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "OPO",
     "SWIFT Code": "BREXPLPWOPO",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -858,8 +858,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "POZ",
     "SWIFT Code": "BREXPLPWPOZ",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -871,8 +871,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "RYB",
     "SWIFT Code": "BREXPLPWRYB",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -884,8 +884,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "RZE",
     "SWIFT Code": "BREXPLPWRZE",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -897,8 +897,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "SZC",
     "SWIFT Code": "BREXPLPWSZC",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -910,8 +910,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "TOR",
     "SWIFT Code": "BREXPLPWTOR",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -923,8 +923,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WAL",
     "SWIFT Code": "BREXPLPWWAL",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -936,8 +936,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WA1",
     "SWIFT Code": "BREXPLPWWA1",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -949,8 +949,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WA4",
     "SWIFT Code": "BREXPLPWWA4",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -962,8 +962,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WA5",
     "SWIFT Code": "BREXPLPWWA5",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -975,8 +975,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "CUS",
     "SWIFT Code": "BREXPLPWCUS",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -988,8 +988,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "MDM",
     "SWIFT Code": "BREXPLPWMDM",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1001,8 +1001,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "BREXPLPW",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1014,8 +1014,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "DKS",
     "SWIFT Code": "BREXPLPWDKS",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1027,8 +1027,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WA2",
     "SWIFT Code": "BREXPLPWWA2",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1040,8 +1040,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WA3",
     "SWIFT Code": "BREXPLPWWA3",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1053,8 +1053,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "WRO",
     "SWIFT Code": "BREXPLPWWRO",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1066,8 +1066,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREX",
-    "bankCode": "PL",
+    "bankCode": "BREX",
+    "countryCode": "PL",
     "branchCode": "ZIE",
     "SWIFT Code": "BREXPLPWZIE",
     "Bank Name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
@@ -1079,8 +1079,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBP",
-    "bankCode": "PL",
+    "bankCode": "MBBP",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "MBBPPLPW",
     "Bank Name": "MERCEDES-BENZ BANK POLSKA S.A.",
@@ -1092,8 +1092,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSDM",
-    "bankCode": "PL",
+    "bankCode": "MSDM",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "MSDMPLP2",
     "Bank Name": "MICHAEL STROM DOM MAKLERSKI S.A.",
@@ -1105,8 +1105,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOPZ",
-    "bankCode": "PL",
+    "bankCode": "MOPZ",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "MOPZPLP2",
     "Bank Name": "MONEZIUM SP.Z.O.O",
@@ -1118,8 +1118,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNAA",
-    "bankCode": "PL",
+    "bankCode": "MNAA",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "MNAAPLP2",
     "Bank Name": "MONSAS SP. Z O.O.",
@@ -1131,8 +1131,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "BAN",
     "SWIFT Code": "NBPLPLPWBAN",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1144,8 +1144,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "LPA",
     "SWIFT Code": "NBPLPLPA",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1157,8 +1157,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "LPD",
     "SWIFT Code": "NBPLPLPD",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1170,8 +1170,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "NBPLPLPW",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1183,8 +1183,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "KIR",
     "SWIFT Code": "NBPLPLPWKIR",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1196,8 +1196,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "DSP",
     "SWIFT Code": "NBPLPLPDDSP",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1209,8 +1209,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "SEA",
     "SWIFT Code": "NBPLPLPWSEA",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1222,8 +1222,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "SEB",
     "SWIFT Code": "NBPLPLPWSEB",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1235,8 +1235,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPL",
-    "bankCode": "PL",
+    "bankCode": "NBPL",
+    "countryCode": "PL",
     "branchCode": "CRD",
     "SWIFT Code": "NBPLPLPWCRD",
     "Bank Name": "NARODOWY BANK POLSKI",
@@ -1248,8 +1248,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDPW",
-    "bankCode": "PL",
+    "bankCode": "KDPW",
+    "countryCode": "PL",
     "branchCode": "LPA",
     "SWIFT Code": "KDPWPLPA",
     "Bank Name": "NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)",
@@ -1261,8 +1261,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESB",
-    "bankCode": "PL",
+    "bankCode": "NESB",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "NESBPLPW",
     "Bank Name": "NEST BANK S.A.",
@@ -1274,8 +1274,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESB",
-    "bankCode": "PL",
+    "bankCode": "NESB",
+    "countryCode": "PL",
     "branchCode": "FMB",
     "SWIFT Code": "NESBPLPWFMB",
     "Bank Name": "NEST BANK S.A.",
@@ -1287,8 +1287,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NWDM",
-    "bankCode": "PL",
+    "bankCode": "NWDM",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "NWDMPLP2",
     "Bank Name": "NWAI DOM MAKLERSKI S.A.",
@@ -1300,8 +1300,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYVE",
-    "bankCode": "PL",
+    "bankCode": "HYVE",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "HYVEPLP2",
     "Bank Name": "PEKAO BANK HIPOTECZNY SA",
@@ -1313,8 +1313,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPEO",
-    "bankCode": "PL",
+    "bankCode": "TPEO",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "TPEOPLPW",
     "Bank Name": "PEKAO TFI S.A.",
@@ -1326,8 +1326,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKH",
-    "bankCode": "PL",
+    "bankCode": "BPKH",
+    "countryCode": "PL",
     "branchCode": "LPG",
     "SWIFT Code": "BPKHPLPG",
     "Bank Name": "PKO BANK HIPOTECZNY SA",
@@ -1339,8 +1339,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "BIA",
     "SWIFT Code": "BPKOPLPWBIA",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1352,8 +1352,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "TOB",
     "SWIFT Code": "BPKOPLPWTOB",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1365,8 +1365,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "GDG",
     "SWIFT Code": "BPKOPLPWGDG",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1378,8 +1378,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "GOA",
     "SWIFT Code": "BPKOPLPWGOA",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1391,8 +1391,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "KAB",
     "SWIFT Code": "BPKOPLPWKAB",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1404,8 +1404,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "KRD",
     "SWIFT Code": "BPKOPLPWKRD",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1417,8 +1417,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "LDA",
     "SWIFT Code": "BPKOPLPWLDA",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1430,8 +1430,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "LUA",
     "SWIFT Code": "BPKOPLPWLUA",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1443,8 +1443,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "OLS",
     "SWIFT Code": "BPKOPLPWOLS",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1456,8 +1456,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "POA",
     "SWIFT Code": "BPKOPLPWPOA",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1469,8 +1469,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "BPKOPLPW",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1482,8 +1482,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "CSD",
     "SWIFT Code": "BPKOPLPWCSD",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1495,8 +1495,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "TDH",
     "SWIFT Code": "BPKOPLPWTDH",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1508,8 +1508,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "WAA",
     "SWIFT Code": "BPKOPLPWWAA",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1521,8 +1521,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "SEC",
     "SWIFT Code": "BPKOPLPWSEC",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1534,8 +1534,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "PL",
+    "bankCode": "BPKO",
+    "countryCode": "PL",
     "branchCode": "WRD",
     "SWIFT Code": "BPKOPLPWWRD",
     "Bank Name": "PKO BANK POLSKI S.A.",
@@ -1547,8 +1547,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "PTFIPLPW",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1560,8 +1560,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "AKG",
     "SWIFT Code": "PTFIPLPWAKG",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1573,8 +1573,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "AKT",
     "SWIFT Code": "PTFIPLPWAKT",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1586,8 +1586,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ALF",
     "SWIFT Code": "PTFIPLPWALF",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1599,8 +1599,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ALS",
     "SWIFT Code": "PTFIPLPWALS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1612,8 +1612,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "DEL",
     "SWIFT Code": "PTFIPLPWDEL",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1625,8 +1625,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "GAM",
     "SWIFT Code": "PTFIPLPWGAM",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1638,8 +1638,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "NED",
     "SWIFT Code": "PTFIPLPWNED",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1651,8 +1651,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "OGL",
     "SWIFT Code": "PTFIPLPWOGL",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1664,8 +1664,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "OKP",
     "SWIFT Code": "PTFIPLPWOKP",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1677,8 +1677,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "PAK",
     "SWIFT Code": "PTFIPLPWPAK",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1690,8 +1690,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "PAS",
     "SWIFT Code": "PTFIPLPWPAS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1703,8 +1703,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "POB",
     "SWIFT Code": "PTFIPLPWPOB",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1716,8 +1716,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "PPI",
     "SWIFT Code": "PTFIPLPWPPI",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1729,8 +1729,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "AMM",
     "SWIFT Code": "PTFIPLPWAMM",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1742,8 +1742,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "SGM",
     "SWIFT Code": "PTFIPLPWSGM",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1755,8 +1755,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "MER",
     "SWIFT Code": "PTFIPLPWMER",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1768,8 +1768,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ASZ",
     "SWIFT Code": "PTFIPLPWASZ",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1781,8 +1781,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FBL",
     "SWIFT Code": "PTFIPLPWFBL",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1794,8 +1794,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P25",
     "SWIFT Code": "PTFIPLPWP25",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1807,8 +1807,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P30",
     "SWIFT Code": "PTFIPLPWP30",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1820,8 +1820,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P35",
     "SWIFT Code": "PTFIPLPWP35",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1833,8 +1833,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P40",
     "SWIFT Code": "PTFIPLPWP40",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1846,8 +1846,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P45",
     "SWIFT Code": "PTFIPLPWP45",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1859,8 +1859,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P50",
     "SWIFT Code": "PTFIPLPWP50",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1872,8 +1872,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P55",
     "SWIFT Code": "PTFIPLPWP55",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1885,8 +1885,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P60",
     "SWIFT Code": "PTFIPLPWP60",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1898,8 +1898,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "P65",
     "SWIFT Code": "PTFIPLPWP65",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1911,8 +1911,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FEO",
     "SWIFT Code": "PTFIPLPWFEO",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1924,8 +1924,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "EWZ",
     "SWIFT Code": "PTFIPLPWEWZ",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1937,8 +1937,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FGD",
     "SWIFT Code": "PTFIPLPWFGD",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -1950,8 +1950,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPB",
-    "bankCode": "PL",
+    "bankCode": "BMPB",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "BMPBPLPP",
     "Bank Name": "AION S.A. SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -1963,8 +1963,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBP",
-    "bankCode": "PL",
+    "bankCode": "ALBP",
+    "countryCode": "PL",
     "branchCode": "CUS",
     "SWIFT Code": "ALBPPLPWCUS",
     "Bank Name": "ALIOR BANK SPOLKA AKCYJNA",
@@ -1976,8 +1976,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBP",
-    "bankCode": "PL",
+    "bankCode": "ALBP",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "ALBPPLPW",
     "Bank Name": "ALIOR BANK SPOLKA AKCYJNA",
@@ -1989,8 +1989,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASFH",
-    "bankCode": "PL",
+    "bankCode": "ASFH",
+    "countryCode": "PL",
     "branchCode": "LPK",
     "SWIFT Code": "ASFHPLPK",
     "Bank Name": "AMER SPORTS FINANCIAL SHARED SERVICE SP.",
@@ -2002,8 +2002,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAO",
-    "bankCode": "PL",
+    "bankCode": "ISAO",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "ISAOPLPP",
     "Bank Name": "AS INBANK SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -2015,8 +2015,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPHK",
-    "bankCode": "PL",
+    "bankCode": "BPHK",
+    "countryCode": "PL",
     "branchCode": "LPK",
     "SWIFT Code": "BPHKPLPK",
     "Bank Name": "BANK BPH SA",
@@ -2028,8 +2028,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPHK",
-    "bankCode": "PL",
+    "bankCode": "BPHK",
+    "countryCode": "PL",
     "branchCode": "CUS",
     "SWIFT Code": "BPHKPLPKCUS",
     "Bank Name": "BANK BPH SA",
@@ -2041,8 +2041,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOSK",
-    "bankCode": "PL",
+    "bankCode": "GOSK",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "GOSKPLPW",
     "Bank Name": "BANK GOSPODARSTWA KRAJOWEGO",
@@ -2054,8 +2054,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PL",
+    "bankCode": "CITI",
+    "countryCode": "PL",
     "branchCode": "LPX",
     "SWIFT Code": "CITIPLPX",
     "Bank Name": "BANK HANDLOWY W WARSZAWIE SA",
@@ -2067,8 +2067,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PL",
+    "bankCode": "CITI",
+    "countryCode": "PL",
     "branchCode": "BRO",
     "SWIFT Code": "CITIPLPXBRO",
     "Bank Name": "BANK HANDLOWY W WARSZAWIE SA",
@@ -2080,8 +2080,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PL",
+    "bankCode": "CITI",
+    "countryCode": "PL",
     "branchCode": "CCH",
     "SWIFT Code": "CITIPLPXCCH",
     "Bank Name": "BANK HANDLOWY W WARSZAWIE SA",
@@ -2093,8 +2093,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGB",
-    "bankCode": "PL",
+    "bankCode": "BIGB",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "BIGBPLPW",
     "Bank Name": "BANK MILLENNIUM S.A.",
@@ -2106,8 +2106,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGB",
-    "bankCode": "PL",
+    "bankCode": "BIGB",
+    "countryCode": "PL",
     "branchCode": "CUS",
     "SWIFT Code": "BIGBPLPWCUS",
     "Bank Name": "BANK MILLENNIUM S.A.",
@@ -2119,8 +2119,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSJ",
-    "bankCode": "PL",
+    "bankCode": "NOSJ",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "NOSJPLPP",
     "Bank Name": "BANK NOWY SPOLKA AKCYJNA",
@@ -2132,8 +2132,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "216",
     "SWIFT Code": "EBOSPLPW216",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2145,8 +2145,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "261",
     "SWIFT Code": "EBOSPLPW261",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2158,8 +2158,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "018",
     "SWIFT Code": "EBOSPLPW018",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2171,8 +2171,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "CHA",
     "SWIFT Code": "EBOSPLPWCHA",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2184,8 +2184,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "005",
     "SWIFT Code": "EBOSPLPW005",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2197,8 +2197,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "274",
     "SWIFT Code": "EBOSPLPW274",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2210,8 +2210,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "089",
     "SWIFT Code": "EBOSPLPW089",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2223,8 +2223,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "199",
     "SWIFT Code": "EBOSPLPW199",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2236,8 +2236,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "119",
     "SWIFT Code": "EBOSPLPW119",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2249,8 +2249,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "KIA",
     "SWIFT Code": "EBOSPLPWKIA",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2262,8 +2262,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "232",
     "SWIFT Code": "EBOSPLPW232",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2275,8 +2275,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "034",
     "SWIFT Code": "EBOSPLPW034",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2288,8 +2288,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "106",
     "SWIFT Code": "EBOSPLPW106",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2301,8 +2301,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "258",
     "SWIFT Code": "EBOSPLPW258",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2314,8 +2314,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "245",
     "SWIFT Code": "EBOSPLPW245",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2327,8 +2327,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "LOA",
     "SWIFT Code": "EBOSPLPWLOA",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2340,8 +2340,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "135",
     "SWIFT Code": "EBOSPLPW135",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2353,8 +2353,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "210",
     "SWIFT Code": "EBOSPLPW210",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2366,8 +2366,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "063",
     "SWIFT Code": "EBOSPLPW063",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2379,8 +2379,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "229",
     "SWIFT Code": "EBOSPLPW229",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2392,8 +2392,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "223",
     "SWIFT Code": "EBOSPLPW223",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2405,8 +2405,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "PIA",
     "SWIFT Code": "EBOSPLPWPIA",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2418,8 +2418,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "290",
     "SWIFT Code": "EBOSPLPW290",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2431,8 +2431,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "047",
     "SWIFT Code": "EBOSPLPW047",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2444,8 +2444,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "122",
     "SWIFT Code": "EBOSPLPW122",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2457,8 +2457,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "SUA",
     "SWIFT Code": "EBOSPLPWSUA",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2470,8 +2470,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "076",
     "SWIFT Code": "EBOSPLPW076",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2483,8 +2483,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "252",
     "SWIFT Code": "EBOSPLPW252",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2496,8 +2496,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "304",
     "SWIFT Code": "EBOSPLPW304",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2509,8 +2509,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "EBOSPLPW",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2522,8 +2522,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "017",
     "SWIFT Code": "EBOSPLPW017",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2535,8 +2535,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "102",
     "SWIFT Code": "EBOSPLPW102",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2548,8 +2548,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "157",
     "SWIFT Code": "EBOSPLPW157",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2561,8 +2561,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "287",
     "SWIFT Code": "EBOSPLPW287",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2574,8 +2574,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "050",
     "SWIFT Code": "EBOSPLPW050",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2587,8 +2587,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBOS",
-    "bankCode": "PL",
+    "bankCode": "EBOS",
+    "countryCode": "PL",
     "branchCode": "021",
     "SWIFT Code": "EBOSPLPW021",
     "Bank Name": "BANK OCHRONY SRODOWISKA S.A.",
@@ -2600,8 +2600,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBKP",
-    "bankCode": "PL",
+    "bankCode": "WBKP",
+    "countryCode": "PL",
     "branchCode": "CBM",
     "SWIFT Code": "WBKPPLPPCBM",
     "Bank Name": "SANTANDER BANK POLSKA S.A. (FORMERLY BANK ZACHODNI WBK S.A.)",
@@ -2613,8 +2613,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBKP",
-    "bankCode": "PL",
+    "bankCode": "WBKP",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "WBKPPLPP",
     "Bank Name": "SANTANDER BANK POLSKA S.A. (FORMERLY BANK ZACHODNI WBK S.A.)",
@@ -2626,8 +2626,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCFB",
-    "bankCode": "PL",
+    "bankCode": "SCFB",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "SCFBPLPW",
     "Bank Name": "SANTANDER CONSUMER BANK SA",
@@ -2639,8 +2639,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBWC",
-    "bankCode": "PL",
+    "bankCode": "GBWC",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "GBWCPLPP",
     "Bank Name": "SGB-BANK S.A. (FORMERLY GOSPODARCZY BANK WIELKOPOLSKI S.A.)",
@@ -2652,8 +2652,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSE",
-    "bankCode": "PL",
+    "bankCode": "ESSE",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "ESSEPLPW",
     "Bank Name": "SKANDINAVISKA ENSKILDA BANKEN AB, SPOLKA AKCYJNA, ODDZIAL W POLSCE",
@@ -2665,8 +2665,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "PL",
+    "bankCode": "SOGE",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "SOGEPLPW",
     "Bank Name": "SOCIETE GENERALE SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -2678,8 +2678,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAND",
-    "bankCode": "PL",
+    "bankCode": "HAND",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "HANDPLPW",
     "Bank Name": "SVENSKA HANDELSBANKEN AB SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -2691,8 +2691,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOFN",
-    "bankCode": "PL",
+    "bankCode": "TOFN",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "TOFNPLPP",
     "Bank Name": "TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH PZU SA",
@@ -2704,8 +2704,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOBA",
-    "bankCode": "PL",
+    "bankCode": "TOBA",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "TOBAPLPW",
     "Bank Name": "TOYOTA BANK POLSKA S.A.",
@@ -2717,8 +2717,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WART",
-    "bankCode": "PL",
+    "bankCode": "WART",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "WARTPLPW",
     "Bank Name": "TUIR WARTA S.A.",
@@ -2730,8 +2730,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "PL",
+    "bankCode": "PANX",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "PANXPLP2",
     "Bank Name": "UNIFIEDPOST PAYMENTS JOINT STOCK COMPANY, BRANCH IN POLAND",
@@ -2743,8 +2743,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBGC",
-    "bankCode": "PL",
+    "bankCode": "GBGC",
+    "countryCode": "PL",
     "branchCode": "LPK",
     "SWIFT Code": "GBGCPLPK",
     "Bank Name": "VELOBANK S.A.",
@@ -2756,8 +2756,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "PL",
+    "bankCode": "VPAY",
+    "countryCode": "PL",
     "branchCode": "LP2",
     "SWIFT Code": "VPAYPLP2",
     "Bank Name": "VIVA PAYMENT SERVICES SPOLKA AKCYJNA ODDZIAL W POLSCE",
@@ -2769,8 +2769,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOWA",
-    "bankCode": "PL",
+    "bankCode": "VOWA",
+    "countryCode": "PL",
     "branchCode": "LP9",
     "SWIFT Code": "VOWAPLP9",
     "Bank Name": "VOLKSWAGEN BANK GMBH SP.Z O.O. ODDZIAL W POLSCE",
@@ -2782,8 +2782,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WSPD",
-    "bankCode": "PL",
+    "bankCode": "WSPD",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "WSPDPLPP",
     "Bank Name": "WARMINSKO-MAZURSKI BANK SPOLDZIELCZY (WARMIA MASURIA COOPERATIVE BANK)",
@@ -2795,8 +2795,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FGM",
     "SWIFT Code": "PTFIPLPWFGM",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2808,8 +2808,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FGS",
     "SWIFT Code": "PTFIPLPWFGS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2821,8 +2821,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FMS",
     "SWIFT Code": "PTFIPLPWFMS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2834,8 +2834,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FNK",
     "SWIFT Code": "PTFIPLPWFNK",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2847,8 +2847,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FOW",
     "SWIFT Code": "PTFIPLPWFOW",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2860,8 +2860,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ADG",
     "SWIFT Code": "PTFIPLPWADG",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2873,8 +2873,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "AMS",
     "SWIFT Code": "PTFIPLPWAMS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2886,8 +2886,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FAP",
     "SWIFT Code": "PTFIPLPWFAP",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2899,8 +2899,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ARW",
     "SWIFT Code": "PTFIPLPWARW",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2912,8 +2912,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ARA",
     "SWIFT Code": "PTFIPLPWARA",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2925,8 +2925,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "AAP",
     "SWIFT Code": "PTFIPLPWAAP",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2938,8 +2938,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ARE",
     "SWIFT Code": "PTFIPLPWARE",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2951,8 +2951,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ARJ",
     "SWIFT Code": "PTFIPLPWARJ",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2964,8 +2964,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ARZ",
     "SWIFT Code": "PTFIPLPWARZ",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2977,8 +2977,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FDL",
     "SWIFT Code": "PTFIPLPWFDL",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -2990,8 +2990,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "EOS",
     "SWIFT Code": "PTFIPLPWEOS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3003,8 +3003,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "GPL",
     "SWIFT Code": "PTFIPLPWGPL",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3016,8 +3016,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FIB",
     "SWIFT Code": "PTFIPLPWFIB",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3029,8 +3029,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "MDG",
     "SWIFT Code": "PTFIPLPWMDG",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3042,8 +3042,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FOD",
     "SWIFT Code": "PTFIPLPWFOD",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3055,8 +3055,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "OBG",
     "SWIFT Code": "PTFIPLPWOBG",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3068,8 +3068,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ORP",
     "SWIFT Code": "PTFIPLPWORP",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3081,8 +3081,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FOS",
     "SWIFT Code": "PTFIPLPWFOS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3094,8 +3094,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "DUS",
     "SWIFT Code": "PTFIPLPWDUS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3107,8 +3107,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FSK",
     "SWIFT Code": "PTFIPLPWFSK",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3120,8 +3120,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FSW",
     "SWIFT Code": "PTFIPLPWFSW",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3133,8 +3133,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "SUR",
     "SWIFT Code": "PTFIPLPWSUR",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3146,8 +3146,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "ECH",
     "SWIFT Code": "PTFIPLPWECH",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3159,8 +3159,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "DIA",
     "SWIFT Code": "PTFIPLPWDIA",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3172,8 +3172,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "RUB",
     "SWIFT Code": "PTFIPLPWRUB",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3185,8 +3185,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "SZA",
     "SWIFT Code": "PTFIPLPWSZA",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3198,8 +3198,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "SZM",
     "SWIFT Code": "PTFIPLPWSZM",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3211,8 +3211,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "SIG",
     "SWIFT Code": "PTFIPLPWSIG",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3224,8 +3224,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FSD",
     "SWIFT Code": "PTFIPLPWFSD",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3237,8 +3237,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FSO",
     "SWIFT Code": "PTFIPLPWFSO",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3250,8 +3250,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FSF",
     "SWIFT Code": "PTFIPLPWFSF",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3263,8 +3263,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "FSS",
     "SWIFT Code": "PTFIPLPWFSS",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3276,8 +3276,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "BUR",
     "SWIFT Code": "PTFIPLPWBUR",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3289,8 +3289,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "E70",
     "SWIFT Code": "PTFIPLPWE70",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3302,8 +3302,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "E20",
     "SWIFT Code": "PTFIPLPWE20",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3315,8 +3315,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "E30",
     "SWIFT Code": "PTFIPLPWE30",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3328,8 +3328,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "E40",
     "SWIFT Code": "PTFIPLPWE40",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3341,8 +3341,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "E50",
     "SWIFT Code": "PTFIPLPWE50",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3354,8 +3354,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTFI",
-    "bankCode": "PL",
+    "bankCode": "PTFI",
+    "countryCode": "PL",
     "branchCode": "E60",
     "SWIFT Code": "PTFIPLPWE60",
     "Bank Name": "PKO TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH SA",
@@ -3367,8 +3367,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVSE",
-    "bankCode": "PL",
+    "bankCode": "IVSE",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "IVSEPLPP",
     "Bank Name": "PLUS BANK S.A.",
@@ -3380,8 +3380,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POCZ",
-    "bankCode": "PL",
+    "bankCode": "POCZ",
+    "countryCode": "PL",
     "branchCode": "LP4",
     "SWIFT Code": "POCZPLP4",
     "Bank Name": "POCZTOWY BANK SA",
@@ -3393,8 +3393,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIK",
-    "bankCode": "PL",
+    "bankCode": "BLIK",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "BLIKPLPW",
     "Bank Name": "POLSKI STANDARD PLATNOSCI SP. Z O.O.",
@@ -3406,8 +3406,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PZUZ",
-    "bankCode": "PL",
+    "bankCode": "PZUZ",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "PZUZPLPP",
     "Bank Name": "POWSZECHNY ZAKLAD UBEZPIECZEN NA ZYCIE SPOLKA AKCYJNA",
@@ -3419,8 +3419,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PZUS",
-    "bankCode": "PL",
+    "bankCode": "PZUS",
+    "countryCode": "PL",
     "branchCode": "LPP",
     "SWIFT Code": "PZUSPLPP",
     "Bank Name": "POWSZECHNY ZAKLAD UBEZPIECZEN SPOLKA AKCYJNA",
@@ -3432,8 +3432,8 @@ const poland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSAT",
-    "bankCode": "PL",
+    "bankCode": "PSAT",
+    "countryCode": "PL",
     "branchCode": "LPW",
     "SWIFT Code": "PSATPLPW",
     "Bank Name": "PROSERVICE FINTECO SP Z O.O.",

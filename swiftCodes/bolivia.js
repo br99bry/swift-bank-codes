@@ -1,7 +1,7 @@
 const bolivia = [
   {
-    "countryCode": "BANI",
-    "bankCode": "BO",
+    "bankCode": "BANI",
+    "countryCode": "BO",
     "branchCode": "CBB",
     "SWIFT Code": "BANIBOLXCBB",
     "Bank Name": "BANCO BISA S.A.",
@@ -13,8 +13,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANI",
-    "bankCode": "BO",
+    "bankCode": "BANI",
+    "countryCode": "BO",
     "branchCode": "OLX",
     "SWIFT Code": "BANIBOLX",
     "Bank Name": "BANCO BISA S.A.",
@@ -26,8 +26,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANI",
-    "bankCode": "BO",
+    "bankCode": "BANI",
+    "countryCode": "BO",
     "branchCode": "SCZ",
     "SWIFT Code": "BANIBOLXSCZ",
     "Bank Name": "BANCO BISA S.A.",
@@ -39,8 +39,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEB",
-    "bankCode": "BO",
+    "bankCode": "BCEB",
+    "countryCode": "BO",
     "branchCode": "OLP",
     "SWIFT Code": "BCEBBOLP",
     "Bank Name": "BANCO CENTRAL DE BOLIVIA",
@@ -52,8 +52,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPL",
-    "bankCode": "BO",
+    "bankCode": "BCPL",
+    "countryCode": "BO",
     "branchCode": "CBB",
     "SWIFT Code": "BCPLBOLXCBB",
     "Bank Name": "BANCO DE CREDITO DE BOLIVIA S.A.",
@@ -65,8 +65,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPL",
-    "bankCode": "BO",
+    "bankCode": "BCPL",
+    "countryCode": "BO",
     "branchCode": "OLX",
     "SWIFT Code": "BCPLBOLX",
     "Bank Name": "BANCO DE CREDITO DE BOLIVIA S.A.",
@@ -78,8 +78,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCPL",
-    "bankCode": "BO",
+    "bankCode": "BCPL",
+    "countryCode": "BO",
     "branchCode": "SCZ",
     "SWIFT Code": "BCPLBOLXSCZ",
     "Bank Name": "BANCO DE CREDITO DE BOLIVIA S.A.",
@@ -91,8 +91,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "BO",
+    "bankCode": "NACN",
+    "countryCode": "BO",
     "branchCode": "OLP",
     "SWIFT Code": "NACNBOLP",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -104,8 +104,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOEO",
-    "bankCode": "BO",
+    "bankCode": "BOEO",
+    "countryCode": "BO",
     "branchCode": "CBB",
     "SWIFT Code": "BOEOBO22CBB",
     "Bank Name": "BANCO ECONOMICO S.A.",
@@ -117,8 +117,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOEO",
-    "bankCode": "BO",
+    "bankCode": "BOEO",
+    "countryCode": "BO",
     "branchCode": "LPZ",
     "SWIFT Code": "BOEOBO22LPZ",
     "Bank Name": "BANCO ECONOMICO S.A.",
@@ -130,8 +130,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOEO",
-    "bankCode": "BO",
+    "bankCode": "BOEO",
+    "countryCode": "BO",
     "branchCode": "O22",
     "SWIFT Code": "BOEOBO22",
     "Bank Name": "BANCO ECONOMICO S.A.",
@@ -143,8 +143,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOEO",
-    "bankCode": "BO",
+    "bankCode": "BOEO",
+    "countryCode": "BO",
     "branchCode": "BEC",
     "SWIFT Code": "BOEOBO22BEC",
     "Bank Name": "BANCO ECONOMICO S.A.",
@@ -156,8 +156,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOEO",
-    "bankCode": "BO",
+    "bankCode": "BOEO",
+    "countryCode": "BO",
     "branchCode": "SCZ",
     "SWIFT Code": "BOEOBO22SCZ",
     "Bank Name": "BANCO ECONOMICO S.A.",
@@ -169,8 +169,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIF",
-    "bankCode": "BO",
+    "bankCode": "BFIF",
+    "countryCode": "BO",
     "branchCode": "OLP",
     "SWIFT Code": "BFIFBOLP",
     "Bank Name": "BANCO FIE S.A.",
@@ -182,8 +182,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFOR",
-    "bankCode": "BO",
+    "bankCode": "BFOR",
+    "countryCode": "BO",
     "branchCode": "OLP",
     "SWIFT Code": "BFORBOLP",
     "Bank Name": "BANCO FORTALEZA SA",
@@ -195,8 +195,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNDR",
-    "bankCode": "BO",
+    "bankCode": "GNDR",
+    "countryCode": "BO",
     "branchCode": "GEB",
     "SWIFT Code": "GNDRBO22GEB",
     "Bank Name": "BANCO GANADERO S.A.",
@@ -208,8 +208,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNDR",
-    "bankCode": "BO",
+    "bankCode": "GNDR",
+    "countryCode": "BO",
     "branchCode": "O22",
     "SWIFT Code": "GNDRBO22",
     "Bank Name": "BANCO GANADERO S.A.",
@@ -221,8 +221,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNDR",
-    "bankCode": "BO",
+    "bankCode": "GNDR",
+    "countryCode": "BO",
     "branchCode": "FIT",
     "SWIFT Code": "GNDRBO22FIT",
     "Bank Name": "BANCO GANADERO S.A.",
@@ -234,8 +234,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNDR",
-    "bankCode": "BO",
+    "bankCode": "GNDR",
+    "countryCode": "BO",
     "branchCode": "CMI",
     "SWIFT Code": "GNDRBO22CMI",
     "Bank Name": "BANCO GANADERO S.A.",
@@ -247,8 +247,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MERB",
-    "bankCode": "BO",
+    "bankCode": "MERB",
+    "countryCode": "BO",
     "branchCode": "CBB",
     "SWIFT Code": "MERBBOLXCBB",
     "Bank Name": "BANCO MERCANTIL SANTA CRUZ S.A.",
@@ -260,8 +260,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MERB",
-    "bankCode": "BO",
+    "bankCode": "MERB",
+    "countryCode": "BO",
     "branchCode": "OLX",
     "SWIFT Code": "MERBBOLX",
     "Bank Name": "BANCO MERCANTIL SANTA CRUZ S.A.",
@@ -273,8 +273,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MERB",
-    "bankCode": "BO",
+    "bankCode": "MERB",
+    "countryCode": "BO",
     "branchCode": "SCZ",
     "SWIFT Code": "MERBBOLXSCZ",
     "Bank Name": "BANCO MERCANTIL SANTA CRUZ S.A.",
@@ -286,8 +286,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "CBB",
     "SWIFT Code": "BNBOBOLXCBB",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -299,8 +299,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "OLX",
     "SWIFT Code": "BNBOBOLX",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -312,8 +312,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "LPZ",
     "SWIFT Code": "BNBOBOLXLPZ",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -325,8 +325,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "TES",
     "SWIFT Code": "BNBOBOLXTES",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -338,8 +338,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "ORU",
     "SWIFT Code": "BNBOBOLXORU",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -351,8 +351,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "POI",
     "SWIFT Code": "BNBOBOLXPOI",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -364,8 +364,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "SCZ",
     "SWIFT Code": "BNBOBOLXSCZ",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -377,8 +377,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "SRE",
     "SWIFT Code": "BNBOBOLXSRE",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -390,8 +390,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBO",
-    "bankCode": "BO",
+    "bankCode": "BNBO",
+    "countryCode": "BO",
     "branchCode": "TJA",
     "SWIFT Code": "BNBOBOLXTJA",
     "Bank Name": "BANCO NACIONAL DE BOLIVIA",
@@ -404,8 +404,8 @@ const bolivia = [
   },
   {},
   {
-    "countryCode": "PYEO",
-    "bankCode": "BO",
+    "bankCode": "PYEO",
+    "countryCode": "BO",
     "branchCode": "OLP",
     "SWIFT Code": "PYEOBOLP",
     "Bank Name": "BANCO PYME ECOFUTURO S.A.",
@@ -417,8 +417,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSOL",
-    "bankCode": "BO",
+    "bankCode": "BSOL",
+    "countryCode": "BO",
     "branchCode": "OLP",
     "SWIFT Code": "BSOLBOLP",
     "Bank Name": "BANCO SOLIDARIO S.A.",
@@ -430,8 +430,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAUN",
-    "bankCode": "BO",
+    "bankCode": "BAUN",
+    "countryCode": "BO",
     "branchCode": "CBB",
     "SWIFT Code": "BAUNBO22CBB",
     "Bank Name": "BANCO UNION S.A.",
@@ -443,8 +443,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAUN",
-    "bankCode": "BO",
+    "bankCode": "BAUN",
+    "countryCode": "BO",
     "branchCode": "O22",
     "SWIFT Code": "BAUNBO22",
     "Bank Name": "BANCO UNION S.A.",
@@ -456,8 +456,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAUN",
-    "bankCode": "BO",
+    "bankCode": "BAUN",
+    "countryCode": "BO",
     "branchCode": "LPZ",
     "SWIFT Code": "BAUNBO22LPZ",
     "Bank Name": "BANCO UNION S.A.",
@@ -469,8 +469,8 @@ const bolivia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAUN",
-    "bankCode": "BO",
+    "bankCode": "BAUN",
+    "countryCode": "BO",
     "branchCode": "SCZ",
     "SWIFT Code": "BAUNBO22SCZ",
     "Bank Name": "BANCO UNION S.A.",

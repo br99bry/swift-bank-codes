@@ -1,7 +1,7 @@
 const mayotte = [
   {
-    "countryCode": "BFCO",
-    "bankCode": "YT",
+    "bankCode": "BFCO",
+    "countryCode": "YT",
     "branchCode": "TYT",
     "SWIFT Code": "BFCOYTYT",
     "Bank Name": "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",

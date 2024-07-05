@@ -1,7 +1,7 @@
 const capeVerde = [
   {
-    "countryCode": "BAIP",
-    "bankCode": "CV",
+    "bankCode": "BAIP",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "BAIPCVCV",
     "Bank Name": "BANCO BAI CABO VERDE, S.A",
@@ -13,8 +13,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAVD",
-    "bankCode": "CV",
+    "bankCode": "BAVD",
+    "countryCode": "CV",
     "branchCode": "VCP",
     "SWIFT Code": "BAVDCVCP",
     "Bank Name": "BANCO BIC CABO VERDE, S.A.",
@@ -27,8 +27,8 @@ const capeVerde = [
   },
   {},
   {
-    "countryCode": "BCAV",
-    "bankCode": "CV",
+    "bankCode": "BCAV",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "BCAVCVCV",
     "Bank Name": "BANCO DE CABO VERDE",
@@ -40,8 +40,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFII",
-    "bankCode": "CV",
+    "bankCode": "BFII",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "BFIICVCV",
     "Bank Name": "BANCO DE FOMENTO INTERNACIONAL, S.A. (FORMERLY BANCO FIDUCIARIO INTERNACIONAL (I.F.I.), S.A.)",
@@ -53,8 +53,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "CV",
+    "bankCode": "CGDI",
+    "countryCode": "CV",
     "branchCode": "VCP",
     "SWIFT Code": "CGDICVCP",
     "Bank Name": "BANCO INTERATLANTICO, SARL",
@@ -66,8 +66,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIF",
-    "bankCode": "CV",
+    "bankCode": "PRIF",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "PRIFCVCV",
     "Bank Name": "BANCO PRIVADO INTERNACIONAL (IFI)",
@@ -79,8 +79,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CANB",
-    "bankCode": "CV",
+    "bankCode": "CANB",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "CANBCVCV",
     "Bank Name": "BCN-BANCO CABOVERDIANO DE NEGOCIOS SA",
@@ -92,8 +92,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXEC",
-    "bankCode": "CV",
+    "bankCode": "CXEC",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "CXECCVCV",
     "Bank Name": "CAIXA ECONOMICA DE CABO VERDE, SA",
@@ -105,8 +105,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "CV",
+    "bankCode": "ECOC",
+    "countryCode": "CV",
     "branchCode": "VCV",
     "SWIFT Code": "ECOCCVCV",
     "Bank Name": "ECOBANK CABO VERDE",
@@ -118,8 +118,8 @@ const capeVerde = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "CV",
+    "bankCode": "BESC",
+    "countryCode": "CV",
     "branchCode": "VCP",
     "SWIFT Code": "BESCCVCP",
     "Bank Name": "INTERNATIONAL INVESTMENT BANK, SA",

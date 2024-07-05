@@ -1,7 +1,7 @@
 const turkey = [
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "IKT",
     "SWIFT Code": "ICBKTRISIKT",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -13,8 +13,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "TZL",
     "SWIFT Code": "ICBKTRISTZL",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -26,8 +26,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "KDK",
     "SWIFT Code": "ICBKTRISKDK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -39,8 +39,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "KZY",
     "SWIFT Code": "ICBKTRISKZY",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -52,8 +52,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "LVT",
     "SWIFT Code": "ICBKTRISLVT",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -65,8 +65,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "MER",
     "SWIFT Code": "ICBKTRISMER",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -78,8 +78,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "MAL",
     "SWIFT Code": "ICBKTRISMAL",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -91,8 +91,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BAK",
     "SWIFT Code": "ICBKTRISBAK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -104,8 +104,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "MOD",
     "SWIFT Code": "ICBKTRISMOD",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -117,8 +117,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "PNG",
     "SWIFT Code": "ICBKTRISPNG",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -130,8 +130,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "TKM",
     "SWIFT Code": "ICBKTRISTKM",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -143,8 +143,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "TKS",
     "SWIFT Code": "ICBKTRISTKS",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -156,8 +156,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "TSV",
     "SWIFT Code": "ICBKTRISTSV",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -169,8 +169,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "UMR",
     "SWIFT Code": "ICBKTRISUMR",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -182,8 +182,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BOR",
     "SWIFT Code": "ICBKTRISBOR",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -195,8 +195,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BST",
     "SWIFT Code": "ICBKTRISBST",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -208,8 +208,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "IZM",
     "SWIFT Code": "ICBKTRISIZM",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -221,8 +221,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "KYS",
     "SWIFT Code": "ICBKTRISKYS",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -234,8 +234,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "KON",
     "SWIFT Code": "ICBKTRISKON",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -247,8 +247,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "MRS",
     "SWIFT Code": "ICBKTRISMRS",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -260,8 +260,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BOD",
     "SWIFT Code": "ICBKTRISBOD",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -273,8 +273,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "SMS",
     "SWIFT Code": "ICBKTRISSMS",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -286,8 +286,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "TRB",
     "SWIFT Code": "ICBKTRISTRB",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -299,8 +299,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "USK",
     "SWIFT Code": "ICBKTRISUSK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -312,8 +312,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "260",
     "SWIFT Code": "INGBTRIS260",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -325,8 +325,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "736",
     "SWIFT Code": "INGBTRIS736",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -338,8 +338,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "169",
     "SWIFT Code": "INGBTRIS169",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -351,8 +351,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "146",
     "SWIFT Code": "INGBTRIS146",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -364,8 +364,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "213",
     "SWIFT Code": "INGBTRIS213",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -377,8 +377,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "359",
     "SWIFT Code": "INGBTRIS359",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -390,8 +390,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "714",
     "SWIFT Code": "INGBTRIS714",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -403,8 +403,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "212",
     "SWIFT Code": "INGBTRIS212",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -416,8 +416,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "190",
     "SWIFT Code": "INGBTRIS190",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -429,8 +429,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "499",
     "SWIFT Code": "INGBTRIS499",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -442,8 +442,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "441",
     "SWIFT Code": "INGBTRIS441",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -455,8 +455,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "299",
     "SWIFT Code": "INGBTRIS299",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -468,8 +468,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "279",
     "SWIFT Code": "INGBTRIS279",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -481,8 +481,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "720",
     "SWIFT Code": "INGBTRIS720",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -494,8 +494,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "174",
     "SWIFT Code": "INGBTRIS174",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -507,8 +507,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "207",
     "SWIFT Code": "INGBTRIS207",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -520,8 +520,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "151",
     "SWIFT Code": "INGBTRIS151",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -533,8 +533,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "246",
     "SWIFT Code": "INGBTRIS246",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -546,8 +546,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "315",
     "SWIFT Code": "INGBTRIS315",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -559,8 +559,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "176",
     "SWIFT Code": "INGBTRIS176",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -572,8 +572,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "286",
     "SWIFT Code": "INGBTRIS286",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -585,8 +585,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "690",
     "SWIFT Code": "INGBTRIS690",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -598,8 +598,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "434",
     "SWIFT Code": "INGBTRIS434",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -611,8 +611,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "653",
     "SWIFT Code": "INGBTRIS653",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -624,8 +624,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "429",
     "SWIFT Code": "INGBTRIS429",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -637,8 +637,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "114",
     "SWIFT Code": "INGBTRIS114",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -650,8 +650,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "380",
     "SWIFT Code": "TEBUTRIS380",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -663,8 +663,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "523",
     "SWIFT Code": "TEBUTRIS523",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -676,8 +676,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "434",
     "SWIFT Code": "TEBUTRIS434",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -689,8 +689,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TEBUTRIS",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -702,8 +702,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "152",
     "SWIFT Code": "TEBUTRIS152",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -715,8 +715,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "468",
     "SWIFT Code": "TEBUTRIS468",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -728,8 +728,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "060",
     "SWIFT Code": "TEBUTRIS060",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -741,8 +741,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "460",
     "SWIFT Code": "TEBUTRIS460",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -754,8 +754,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "061",
     "SWIFT Code": "TEBUTRIS061",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -767,8 +767,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "228",
     "SWIFT Code": "TEBUTRIS228",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -780,8 +780,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "536",
     "SWIFT Code": "TEBUTRIS536",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -793,8 +793,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "012",
     "SWIFT Code": "TEBUTRIS012",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -806,8 +806,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "220",
     "SWIFT Code": "TEBUTRIS220",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -819,8 +819,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "197",
     "SWIFT Code": "TEBUTRIS197",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -832,8 +832,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "452",
     "SWIFT Code": "TEBUTRIS452",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -845,8 +845,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "476",
     "SWIFT Code": "TEBUTRIS476",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -858,8 +858,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "042",
     "SWIFT Code": "TEBUTRIS042",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -871,8 +871,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "139",
     "SWIFT Code": "TEBUTRIS139",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -884,8 +884,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "140",
     "SWIFT Code": "TEBUTRIS140",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -897,8 +897,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "155",
     "SWIFT Code": "TEBUTRIS155",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -910,8 +910,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "278",
     "SWIFT Code": "TEBUTRIS278",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -923,8 +923,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "111",
     "SWIFT Code": "TEBUTRIS111",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -936,8 +936,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "654",
     "SWIFT Code": "TEBUTRIS654",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -949,8 +949,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "563",
     "SWIFT Code": "TEBUTRIS563",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -962,8 +962,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "056",
     "SWIFT Code": "TEBUTRIS056",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -975,8 +975,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "558",
     "SWIFT Code": "TEBUTRIS558",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -988,8 +988,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "377",
     "SWIFT Code": "TEBUTRIS377",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1001,8 +1001,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "187",
     "SWIFT Code": "TEBUTRIS187",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1014,8 +1014,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "302",
     "SWIFT Code": "TEBUTRIS302",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1027,8 +1027,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "271",
     "SWIFT Code": "TEBUTRIS271",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1040,8 +1040,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "210",
     "SWIFT Code": "TEBUTRIS210",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1053,8 +1053,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "112",
     "SWIFT Code": "TEBUTRIS112",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1066,8 +1066,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "045",
     "SWIFT Code": "TEBUTRIS045",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1079,8 +1079,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "121",
     "SWIFT Code": "TEBUTRIS121",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1092,8 +1092,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "441",
     "SWIFT Code": "TEBUTRIS441",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1105,8 +1105,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "129",
     "SWIFT Code": "TEBUTRIS129",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1118,8 +1118,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "406",
     "SWIFT Code": "TEBUTRIS406",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1131,8 +1131,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "064",
     "SWIFT Code": "TEBUTRIS064",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1144,8 +1144,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "180",
     "SWIFT Code": "TEBUTRIS180",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1157,8 +1157,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "032",
     "SWIFT Code": "TEBUTRIS032",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1170,8 +1170,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "254",
     "SWIFT Code": "TEBUTRIS254",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1183,8 +1183,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "125",
     "SWIFT Code": "TEBUTRIS125",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1196,8 +1196,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "130",
     "SWIFT Code": "TEBUTRIS130",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1209,8 +1209,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "013",
     "SWIFT Code": "TEBUTRIS013",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1222,8 +1222,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "070",
     "SWIFT Code": "TEBUTRIS070",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1235,8 +1235,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "131",
     "SWIFT Code": "TEBUTRIS131",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1248,8 +1248,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "037",
     "SWIFT Code": "TEBUTRIS037",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1261,8 +1261,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "127",
     "SWIFT Code": "TEBUTRIS127",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1274,8 +1274,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "343",
     "SWIFT Code": "TEBUTRIS343",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1287,8 +1287,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "402",
     "SWIFT Code": "TEBUTRIS402",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -1300,8 +1300,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "129",
     "SWIFT Code": "INGBTRIS129",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1313,8 +1313,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "145",
     "SWIFT Code": "INGBTRIS145",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1326,8 +1326,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "216",
     "SWIFT Code": "INGBTRIS216",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1339,8 +1339,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "454",
     "SWIFT Code": "INGBTRIS454",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1352,8 +1352,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "256",
     "SWIFT Code": "INGBTRIS256",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1365,8 +1365,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "724",
     "SWIFT Code": "INGBTRIS724",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1378,8 +1378,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "651",
     "SWIFT Code": "INGBTRIS651",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1391,8 +1391,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "281",
     "SWIFT Code": "INGBTRIS281",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1404,8 +1404,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "305",
     "SWIFT Code": "INGBTRIS305",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1417,8 +1417,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "156",
     "SWIFT Code": "INGBTRIS156",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1430,8 +1430,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "681",
     "SWIFT Code": "INGBTRIS681",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1443,8 +1443,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "194",
     "SWIFT Code": "INGBTRIS194",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1456,8 +1456,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "431",
     "SWIFT Code": "INGBTRIS431",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1469,8 +1469,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "324",
     "SWIFT Code": "INGBTRIS324",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1482,8 +1482,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "218",
     "SWIFT Code": "INGBTRIS218",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1495,8 +1495,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "219",
     "SWIFT Code": "INGBTRIS219",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1508,8 +1508,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "138",
     "SWIFT Code": "INGBTRIS138",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1521,8 +1521,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "117",
     "SWIFT Code": "INGBTRIS117",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1534,8 +1534,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "188",
     "SWIFT Code": "INGBTRIS188",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1547,8 +1547,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "721",
     "SWIFT Code": "INGBTRIS721",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1560,8 +1560,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "164",
     "SWIFT Code": "INGBTRIS164",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1573,8 +1573,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "331",
     "SWIFT Code": "INGBTRIS331",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1586,8 +1586,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "133",
     "SWIFT Code": "INGBTRIS133",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1599,8 +1599,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "152",
     "SWIFT Code": "INGBTRIS152",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1612,8 +1612,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "199",
     "SWIFT Code": "INGBTRIS199",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1625,8 +1625,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "398",
     "SWIFT Code": "INGBTRIS398",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1638,8 +1638,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "264",
     "SWIFT Code": "INGBTRIS264",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1651,8 +1651,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "657",
     "SWIFT Code": "INGBTRIS657",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1664,8 +1664,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "222",
     "SWIFT Code": "INGBTRIS222",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1677,8 +1677,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "713",
     "SWIFT Code": "INGBTRIS713",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1690,8 +1690,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "445",
     "SWIFT Code": "INGBTRIS445",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1703,8 +1703,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "106",
     "SWIFT Code": "INGBTRIS106",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1716,8 +1716,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "184",
     "SWIFT Code": "INGBTRIS184",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1729,8 +1729,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "196",
     "SWIFT Code": "INGBTRIS196",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1742,8 +1742,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "658",
     "SWIFT Code": "INGBTRIS658",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1755,8 +1755,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "161",
     "SWIFT Code": "INGBTRIS161",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1768,8 +1768,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "443",
     "SWIFT Code": "INGBTRIS443",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1781,8 +1781,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "224",
     "SWIFT Code": "INGBTRIS224",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1794,8 +1794,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "147",
     "SWIFT Code": "INGBTRIS147",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1807,8 +1807,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "718",
     "SWIFT Code": "INGBTRIS718",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1820,8 +1820,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "227",
     "SWIFT Code": "INGBTRIS227",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1833,8 +1833,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "228",
     "SWIFT Code": "INGBTRIS228",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1846,8 +1846,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "192",
     "SWIFT Code": "INGBTRIS192",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1859,8 +1859,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "323",
     "SWIFT Code": "INGBTRIS323",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1872,8 +1872,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "263",
     "SWIFT Code": "INGBTRIS263",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1885,8 +1885,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "INGBTRIS",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1898,8 +1898,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "504",
     "SWIFT Code": "INGBTRIS504",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1911,8 +1911,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "142",
     "SWIFT Code": "INGBTRIS142",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1924,8 +1924,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "225",
     "SWIFT Code": "INGBTRIS225",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1937,8 +1937,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "230",
     "SWIFT Code": "INGBTRIS230",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -1950,8 +1950,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "TR",
+    "bankCode": "BCIT",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BCITTRIS",
     "Bank Name": "INTESA SANPAOLO ISTANBUL BRANCH",
@@ -1963,8 +1963,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISIS",
-    "bankCode": "TR",
+    "bankCode": "ISIS",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ISISTRIS",
     "Bank Name": "IS YATIRIM MENKUL DEGERLER AS",
@@ -1976,8 +1976,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISOK",
-    "bankCode": "TR",
+    "bankCode": "ISOK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ISOKTRIS",
     "Bank Name": "ISTANBUL ODEME KURULUSU A.S.",
@@ -1989,8 +1989,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVSB",
-    "bankCode": "TR",
+    "bankCode": "TVSB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TVSBTRIS",
     "Bank Name": "ISTANBUL TAKAS VE SAKLAMA BANKASI A.S.",
@@ -2002,8 +2002,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TR",
+    "bankCode": "CHAS",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "CHASTRIS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., ISTANBUL BRANCH",
@@ -2015,8 +2015,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "TR",
+    "bankCode": "CHAS",
+    "countryCode": "TR",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASTRISENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., ISTANBUL BRANCH",
@@ -2028,8 +2028,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTEF",
-    "bankCode": "TR",
+    "bankCode": "KTEF",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "KTEFTRIS",
     "Bank Name": "KUVEYT TURK KATILIM BANKASI A.S.",
@@ -2041,8 +2041,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WMHT",
-    "bankCode": "TR",
+    "bankCode": "WMHT",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "WMHTTRIS",
     "Bank Name": "LC WAIKIKI MAGAZACILIK HIZMETLERI TICARET ANONIM SIRKETI",
@@ -2054,8 +2054,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKKC",
-    "bankCode": "TR",
+    "bankCode": "MKKC",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "MKKCTRIS",
     "Bank Name": "MERKEZI KAYIT KURULUSU A.S.",
@@ -2067,8 +2067,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYNS",
-    "bankCode": "TR",
+    "bankCode": "MYNS",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "MYNSTRIS",
     "Bank Name": "MISYON YATIRIM BANKASI A.S.",
@@ -2080,8 +2080,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSMD",
-    "bankCode": "TR",
+    "bankCode": "MSMD",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "MSMDTRIS",
     "Bank Name": "MORGAN STANLEY MENKUL DEGERLER ANONIM SIRKETI",
@@ -2093,8 +2093,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "TR",
+    "bankCode": "BOTK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BOTKTRIS",
     "Bank Name": "MUFG BANK TURKEY A.S.",
@@ -2106,8 +2106,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NURO",
-    "bankCode": "TR",
+    "bankCode": "NURO",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "NUROTRIS",
     "Bank Name": "NUROL YATIRIM BANKASI A.S.",
@@ -2119,8 +2119,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ODEA",
-    "bankCode": "TR",
+    "bankCode": "ODEA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ODEATRIS",
     "Bank Name": "ODEABANK A.S.",
@@ -2132,8 +2132,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POKR",
-    "bankCode": "TR",
+    "bankCode": "POKR",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "POKRTR2A",
     "Bank Name": "PARAGRAM ODEME KURULUSU AS",
@@ -2145,8 +2145,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAHA",
-    "bankCode": "TR",
+    "bankCode": "PAHA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "PAHATRIS",
     "Bank Name": "PASHA YATIRIM BANKASI A.S.",
@@ -2158,8 +2158,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOHE",
-    "bankCode": "TR",
+    "bankCode": "HOHE",
+    "countryCode": "TR",
     "branchCode": "RII",
     "SWIFT Code": "HOHETRII",
     "Bank Name": "PAYPORTER ODEME HIZMETLERI VE ELEKTRONIK PARA A.S.",
@@ -2171,8 +2171,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ADA",
     "SWIFT Code": "FNNBTRISADA",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2184,8 +2184,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ANK",
     "SWIFT Code": "FNNBTRISANK",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2197,8 +2197,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "NCT",
     "SWIFT Code": "FNNBTRISNCT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2210,8 +2210,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "SIT",
     "SWIFT Code": "FNNBTRISSIT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2223,8 +2223,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "AUS",
     "SWIFT Code": "FNNBTRISAUS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2236,8 +2236,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ATK",
     "SWIFT Code": "FNNBTRISATK",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2249,8 +2249,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ANT",
     "SWIFT Code": "FNNBTRISANT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2262,8 +2262,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MNV",
     "SWIFT Code": "FNNBTRISMNV",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2275,8 +2275,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KUS",
     "SWIFT Code": "FNNBTRISKUS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2288,8 +2288,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "BLS",
     "SWIFT Code": "FNNBTRISBLS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2301,8 +2301,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "BUR",
     "SWIFT Code": "FNNBTRISBUR",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2314,8 +2314,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "DEN",
     "SWIFT Code": "FNNBTRISDEN",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2327,8 +2327,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "DIY",
     "SWIFT Code": "FNNBTRISDIY",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2340,8 +2340,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ESK",
     "SWIFT Code": "FNNBTRISESK",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2353,8 +2353,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "GZT",
     "SWIFT Code": "FNNBTRISGZT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2366,8 +2366,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ALT",
     "SWIFT Code": "FNNBTRISALT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2379,8 +2379,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "AHL",
     "SWIFT Code": "FNNBTRISAHL",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2392,8 +2392,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "AVC",
     "SWIFT Code": "FNNBTRISAVC",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2405,8 +2405,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "BAY",
     "SWIFT Code": "FNNBTRISBAY",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2418,8 +2418,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ELM",
     "SWIFT Code": "FNNBTRISELM",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2431,8 +2431,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ENP",
     "SWIFT Code": "FNNBTRISENP",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2444,8 +2444,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "GAY",
     "SWIFT Code": "FNNBTRISGAY",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2457,8 +2457,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "IGP",
     "SWIFT Code": "FNNBTRISIGP",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2470,8 +2470,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "GUN",
     "SWIFT Code": "FNNBTRISGUN",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2483,8 +2483,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "OPS",
     "SWIFT Code": "FNNBTRISOPS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2496,8 +2496,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "IKT",
     "SWIFT Code": "FNNBTRISIKT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2509,8 +2509,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "IMS",
     "SWIFT Code": "FNNBTRISIMS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2522,8 +2522,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KRK",
     "SWIFT Code": "FNNBTRISKRK",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2535,8 +2535,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KTL",
     "SWIFT Code": "FNNBTRISKTL",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2548,8 +2548,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KOZ",
     "SWIFT Code": "FNNBTRISKOZ",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2561,8 +2561,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "LSA",
     "SWIFT Code": "FNNBTRISLSA",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2574,8 +2574,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "FNNBTRIS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2587,8 +2587,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MSL",
     "SWIFT Code": "FNNBTRISMSL",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -2600,8 +2600,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TR",
+    "bankCode": "CITI",
+    "countryCode": "TR",
     "branchCode": "IZM",
     "SWIFT Code": "CITITRIXIZM",
     "Bank Name": "CITIBANK A.S.",
@@ -2613,8 +2613,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YATI",
-    "bankCode": "TR",
+    "bankCode": "YATI",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "YATITRIS",
     "Bank Name": "D YATIRIM BANKASI ANONIM SIRKETI",
@@ -2626,8 +2626,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENI",
-    "bankCode": "TR",
+    "bankCode": "DENI",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "DENITRIS",
     "Bank Name": "DENIZBANK A.S.",
@@ -2639,8 +2639,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENI",
-    "bankCode": "TR",
+    "bankCode": "DENI",
+    "countryCode": "TR",
     "branchCode": "340",
     "SWIFT Code": "DENITRIS340",
     "Bank Name": "DENIZBANK A.S.",
@@ -2652,8 +2652,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENI",
-    "bankCode": "TR",
+    "bankCode": "DENI",
+    "countryCode": "TR",
     "branchCode": "915",
     "SWIFT Code": "DENITRIS915",
     "Bank Name": "DENIZBANK A.S.",
@@ -2665,8 +2665,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DENI",
-    "bankCode": "TR",
+    "bankCode": "DENI",
+    "countryCode": "TR",
     "branchCode": "134",
     "SWIFT Code": "DENITRIS134",
     "Bank Name": "DENIZBANK A.S.",
@@ -2678,8 +2678,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEYA",
-    "bankCode": "TR",
+    "bankCode": "DEYA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "DEYATRIS",
     "Bank Name": "DESTEKBANK",
@@ -2691,8 +2691,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TR",
+    "bankCode": "DEUT",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "DEUTTRIS",
     "Bank Name": "DEUTSCHE BANK A.S.",
@@ -2704,8 +2704,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "TR",
+    "bankCode": "DEUT",
+    "countryCode": "TR",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTTRISCUS",
     "Bank Name": "DEUTSCHE BANK A.S.",
@@ -2717,8 +2717,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTR",
-    "bankCode": "TR",
+    "bankCode": "BKTR",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BKTRTRIS",
     "Bank Name": "DEUTSCHE BANK ISTANBUL",
@@ -2730,8 +2730,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYAK",
-    "bankCode": "TR",
+    "bankCode": "DYAK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "DYAKTRIS",
     "Bank Name": "DILER YATIRIM BANKASI A.S.",
@@ -2743,8 +2743,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSGH",
-    "bankCode": "TR",
+    "bankCode": "DSGH",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "DSGHTRIS",
     "Bank Name": "DOGAN SIRKETLER GRUBU HOLDING AS",
@@ -2756,8 +2756,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECTV",
-    "bankCode": "TR",
+    "bankCode": "ECTV",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ECTVTRIS",
     "Bank Name": "ECO TRADE AND DEVELOPMENT BANK",
@@ -2769,8 +2769,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECZO",
-    "bankCode": "TR",
+    "bankCode": "ECZO",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ECZOTRIS",
     "Bank Name": "ECZACIBASI HOLDING ANONIM SIRKETI",
@@ -2782,8 +2782,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKSF",
-    "bankCode": "TR",
+    "bankCode": "EKSF",
+    "countryCode": "TR",
     "branchCode": "RI2",
     "SWIFT Code": "EKSFTRI2",
     "Bank Name": "EKSPO FAKTORING A.S.",
@@ -2795,8 +2795,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBHL",
-    "bankCode": "TR",
+    "bankCode": "FBHL",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "FBHLTRIS",
     "Bank Name": "FIBABANKA A.S.",
@@ -2808,8 +2808,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPLJ",
-    "bankCode": "TR",
+    "bankCode": "GPLJ",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "GPLJTRIS",
     "Bank Name": "GETIR PERAKENDE LOJISTIK ANONIM SIRKETI",
@@ -2821,8 +2821,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLOH",
-    "bankCode": "TR",
+    "bankCode": "GLOH",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "GLOHTRIS",
     "Bank Name": "GLOBAL ODEME HIZMETLERI A.S.",
@@ -2834,8 +2834,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOGY",
-    "bankCode": "TR",
+    "bankCode": "GOGY",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "GOGYTRIS",
     "Bank Name": "GOLDEN GLOBAL YATIRIM BANKASI A.S.",
@@ -2847,8 +2847,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSDB",
-    "bankCode": "TR",
+    "bankCode": "GSDB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "GSDBTRIS",
     "Bank Name": "GSD YATIRIM BANKASI A.S.",
@@ -2860,8 +2860,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "TR",
+    "bankCode": "HABB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "HABBTRIS",
     "Bank Name": "HABIB BANK LTD.",
@@ -2873,8 +2873,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HTYB",
-    "bankCode": "TR",
+    "bankCode": "HTYB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "HTYBTRIS",
     "Bank Name": "HAYAT FINANS KATILIM BANKASI A.S.",
@@ -2886,8 +2886,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TR",
+    "bankCode": "HSBC",
+    "countryCode": "TR",
     "branchCode": "RIX",
     "SWIFT Code": "HSBCTRIX",
     "Bank Name": "HSBC BANK A.S.",
@@ -2899,8 +2899,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TR",
+    "bankCode": "HSBC",
+    "countryCode": "TR",
     "branchCode": "002",
     "SWIFT Code": "HSBCTRIX002",
     "Bank Name": "HSBC BANK A.S.",
@@ -2912,8 +2912,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TR",
+    "bankCode": "HSBC",
+    "countryCode": "TR",
     "branchCode": "933",
     "SWIFT Code": "HSBCTRIX933",
     "Bank Name": "HSBC BANK A.S.",
@@ -2925,8 +2925,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TR",
+    "bankCode": "HSBC",
+    "countryCode": "TR",
     "branchCode": "956",
     "SWIFT Code": "HSBCTRIX956",
     "Bank Name": "HSBC BANK A.S.",
@@ -2938,8 +2938,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TR",
+    "bankCode": "HSBC",
+    "countryCode": "TR",
     "branchCode": "001",
     "SWIFT Code": "HSBCTRIX001",
     "Bank Name": "HSBC BANK A.S.",
@@ -2951,8 +2951,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "TR",
+    "bankCode": "HSBC",
+    "countryCode": "TR",
     "branchCode": "HYM",
     "SWIFT Code": "HSBCTRIXHYM",
     "Bank Name": "HSBC BANK A.S.",
@@ -2964,8 +2964,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBY",
-    "bankCode": "TR",
+    "bankCode": "HSBY",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "HSBYTRIS",
     "Bank Name": "HSBC YATIRIM MENKUL DEGERLER A.S",
@@ -2977,8 +2977,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ADN",
     "SWIFT Code": "ICBKTRISADN",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -2990,8 +2990,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ANK",
     "SWIFT Code": "ICBKTRISANK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3003,8 +3003,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "NEC",
     "SWIFT Code": "ICBKTRISNEC",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3016,8 +3016,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "OST",
     "SWIFT Code": "ICBKTRISOST",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3029,8 +3029,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ATK",
     "SWIFT Code": "ICBKTRISATK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3042,8 +3042,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ANT",
     "SWIFT Code": "ICBKTRISANT",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3055,8 +3055,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "AYD",
     "SWIFT Code": "ICBKTRISAYD",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3068,8 +3068,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BAL",
     "SWIFT Code": "ICBKTRISBAL",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3081,8 +3081,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BUR",
     "SWIFT Code": "ICBKTRISBUR",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3094,8 +3094,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "DNZ",
     "SWIFT Code": "ICBKTRISDNZ",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3107,8 +3107,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ESK",
     "SWIFT Code": "ICBKTRISESK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3120,8 +3120,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ISK",
     "SWIFT Code": "ICBKTRISISK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3133,8 +3133,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ICBKTRIS",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3146,8 +3146,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "AVC",
     "SWIFT Code": "ICBKTRISAVC",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3159,8 +3159,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BKY",
     "SWIFT Code": "ICBKTRISBKY",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3172,8 +3172,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BYP",
     "SWIFT Code": "ICBKTRISBYP",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3185,8 +3185,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "BSK",
     "SWIFT Code": "ICBKTRISBSK",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3198,8 +3198,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "DLY",
     "SWIFT Code": "ICBKTRISDLY",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3211,8 +3211,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "MTP",
     "SWIFT Code": "ICBKTRISMTP",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3224,8 +3224,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "ETL",
     "SWIFT Code": "ICBKTRISETL",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3237,8 +3237,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "TR",
+    "bankCode": "ICBK",
+    "countryCode": "TR",
     "branchCode": "GUN",
     "SWIFT Code": "ICBKTRISGUN",
     "Bank Name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
@@ -3250,8 +3250,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "277",
     "SWIFT Code": "TEBUTRIS277",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3263,8 +3263,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "185",
     "SWIFT Code": "TEBUTRIS185",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3276,8 +3276,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "673",
     "SWIFT Code": "TEBUTRIS673",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3289,8 +3289,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "144",
     "SWIFT Code": "TEBUTRIS144",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3302,8 +3302,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "098",
     "SWIFT Code": "TEBUTRIS098",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3315,8 +3315,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "199",
     "SWIFT Code": "TEBUTRIS199",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3328,8 +3328,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "019",
     "SWIFT Code": "TEBUTRIS019",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3341,8 +3341,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "684",
     "SWIFT Code": "TEBUTRIS684",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3354,8 +3354,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "388",
     "SWIFT Code": "TEBUTRIS388",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3367,8 +3367,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "787",
     "SWIFT Code": "TEBUTRIS787",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3380,8 +3380,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "128",
     "SWIFT Code": "TEBUTRIS128",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3393,8 +3393,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "599",
     "SWIFT Code": "TEBUTRIS599",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3406,8 +3406,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "480",
     "SWIFT Code": "TEBUTRIS480",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3419,8 +3419,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "303",
     "SWIFT Code": "TEBUTRIS303",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3432,8 +3432,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "287",
     "SWIFT Code": "TEBUTRIS287",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3445,8 +3445,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "213",
     "SWIFT Code": "TEBUTRIS213",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3458,8 +3458,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "294",
     "SWIFT Code": "TEBUTRIS294",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3471,8 +3471,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "745",
     "SWIFT Code": "TEBUTRIS745",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3484,8 +3484,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "161",
     "SWIFT Code": "TEBUTRIS161",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3497,8 +3497,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "602",
     "SWIFT Code": "TEBUTRIS602",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3510,8 +3510,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "316",
     "SWIFT Code": "TEBUTRIS316",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3523,8 +3523,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "148",
     "SWIFT Code": "TEBUTRIS148",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3536,8 +3536,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "567",
     "SWIFT Code": "TEBUTRIS567",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3549,8 +3549,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "041",
     "SWIFT Code": "TEBUTRIS041",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3562,8 +3562,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "413",
     "SWIFT Code": "TEBUTRIS413",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3575,8 +3575,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "791",
     "SWIFT Code": "TEBUTRIS791",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3588,8 +3588,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "227",
     "SWIFT Code": "TEBUTRIS227",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3601,8 +3601,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "184",
     "SWIFT Code": "TEBUTRIS184",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3614,8 +3614,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "028",
     "SWIFT Code": "TEBUTRIS028",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3627,8 +3627,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "358",
     "SWIFT Code": "TEBUTRIS358",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3640,8 +3640,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "409",
     "SWIFT Code": "TEBUTRIS409",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3653,8 +3653,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "097",
     "SWIFT Code": "TEBUTRIS097",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3666,8 +3666,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "337",
     "SWIFT Code": "TEBUTRIS337",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3679,8 +3679,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "196",
     "SWIFT Code": "TEBUTRIS196",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3692,8 +3692,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "035",
     "SWIFT Code": "TEBUTRIS035",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3705,8 +3705,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "270",
     "SWIFT Code": "TEBUTRIS270",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3718,8 +3718,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "085",
     "SWIFT Code": "TEBUTRIS085",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3731,8 +3731,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "678",
     "SWIFT Code": "TEBUTRIS678",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3744,8 +3744,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "243",
     "SWIFT Code": "TEBUTRIS243",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3757,8 +3757,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "784",
     "SWIFT Code": "TEBUTRIS784",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3770,8 +3770,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "049",
     "SWIFT Code": "TEBUTRIS049",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3783,8 +3783,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "183",
     "SWIFT Code": "TEBUTRIS183",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3796,8 +3796,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "072",
     "SWIFT Code": "TEBUTRIS072",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3809,8 +3809,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "561",
     "SWIFT Code": "TEBUTRIS561",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3822,8 +3822,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "087",
     "SWIFT Code": "TEBUTRIS087",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3835,8 +3835,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "095",
     "SWIFT Code": "TEBUTRIS095",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3848,8 +3848,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "435",
     "SWIFT Code": "TEBUTRIS435",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3861,8 +3861,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "788",
     "SWIFT Code": "TEBUTRIS788",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3874,8 +3874,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "472",
     "SWIFT Code": "TEBUTRIS472",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3887,8 +3887,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "074",
     "SWIFT Code": "TEBUTRIS074",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3900,8 +3900,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "354",
     "SWIFT Code": "TEBUTRIS354",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3913,8 +3913,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "108",
     "SWIFT Code": "TEBUTRIS108",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3926,8 +3926,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "687",
     "SWIFT Code": "TEBUTRIS687",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3939,8 +3939,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "323",
     "SWIFT Code": "TEBUTRIS323",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3952,8 +3952,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "285",
     "SWIFT Code": "TEBUTRIS285",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3965,8 +3965,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "006",
     "SWIFT Code": "TEBUTRIS006",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3978,8 +3978,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "342",
     "SWIFT Code": "TEBUTRIS342",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -3991,8 +3991,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "150",
     "SWIFT Code": "TEBUTRIS150",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4004,8 +4004,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "456",
     "SWIFT Code": "TEBUTRIS456",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4017,8 +4017,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "382",
     "SWIFT Code": "TEBUTRIS382",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4030,8 +4030,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "105",
     "SWIFT Code": "TEBUTRIS105",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4043,8 +4043,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "761",
     "SWIFT Code": "TEBUTRIS761",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4056,8 +4056,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "517",
     "SWIFT Code": "TEBUTRIS517",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4069,8 +4069,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "670",
     "SWIFT Code": "TEBUTRIS670",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4082,8 +4082,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "627",
     "SWIFT Code": "TEBUTRIS627",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4095,8 +4095,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "252",
     "SWIFT Code": "TEBUTRIS252",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4108,8 +4108,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "101",
     "SWIFT Code": "TEBUTRIS101",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4121,8 +4121,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "230",
     "SWIFT Code": "TEBUTRIS230",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4134,8 +4134,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "167",
     "SWIFT Code": "TEBUTRIS167",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4147,8 +4147,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "308",
     "SWIFT Code": "TEBUTRIS308",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4160,8 +4160,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "138",
     "SWIFT Code": "TEBUTRIS138",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4173,8 +4173,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "716",
     "SWIFT Code": "TEBUTRIS716",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4186,8 +4186,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "136",
     "SWIFT Code": "TEBUTRIS136",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4199,8 +4199,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "124",
     "SWIFT Code": "TEBUTRIS124",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4212,8 +4212,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "657",
     "SWIFT Code": "TEBUTRIS657",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4225,8 +4225,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "701",
     "SWIFT Code": "TEBUTRIS701",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4238,8 +4238,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "239",
     "SWIFT Code": "TEBUTRIS239",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4251,8 +4251,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "191",
     "SWIFT Code": "TEBUTRIS191",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4264,8 +4264,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "474",
     "SWIFT Code": "TEBUTRIS474",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4277,8 +4277,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "682",
     "SWIFT Code": "TEBUTRIS682",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4290,8 +4290,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "311",
     "SWIFT Code": "TEBUTRIS311",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4303,8 +4303,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "034",
     "SWIFT Code": "TEBUTRIS034",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4316,8 +4316,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "226",
     "SWIFT Code": "TEBUTRIS226",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4329,8 +4329,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "163",
     "SWIFT Code": "TEBUTRIS163",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4342,8 +4342,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "073",
     "SWIFT Code": "TEBUTRIS073",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4355,8 +4355,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "782",
     "SWIFT Code": "TEBUTRIS782",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4368,8 +4368,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "204",
     "SWIFT Code": "TEBUTRIS204",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4381,8 +4381,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "732",
     "SWIFT Code": "TEBUTRIS732",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4394,8 +4394,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "173",
     "SWIFT Code": "TEBUTRIS173",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4407,8 +4407,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "604",
     "SWIFT Code": "TEBUTRIS604",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4420,8 +4420,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "025",
     "SWIFT Code": "TEBUTRIS025",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4433,8 +4433,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "188",
     "SWIFT Code": "TEBUTRIS188",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4446,8 +4446,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "387",
     "SWIFT Code": "TEBUTRIS387",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4459,8 +4459,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "560",
     "SWIFT Code": "TEBUTRIS560",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4472,8 +4472,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "318",
     "SWIFT Code": "TEBUTRIS318",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4485,8 +4485,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "282",
     "SWIFT Code": "TEBUTRIS282",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4498,8 +4498,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "293",
     "SWIFT Code": "TEBUTRIS293",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4511,8 +4511,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "744",
     "SWIFT Code": "TEBUTRIS744",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4524,8 +4524,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "174",
     "SWIFT Code": "TEBUTRIS174",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4537,8 +4537,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "704",
     "SWIFT Code": "TEBUTRIS704",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4550,8 +4550,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "086",
     "SWIFT Code": "TEBUTRIS086",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4563,8 +4563,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "069",
     "SWIFT Code": "TEBUTRIS069",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4576,8 +4576,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "322",
     "SWIFT Code": "TEBUTRIS322",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4589,8 +4589,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "208",
     "SWIFT Code": "TEBUTRIS208",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4602,8 +4602,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "040",
     "SWIFT Code": "TEBUTRIS040",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4615,8 +4615,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "200",
     "SWIFT Code": "TEBUTRIS200",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4628,8 +4628,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "160",
     "SWIFT Code": "TEBUTRIS160",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4641,8 +4641,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "053",
     "SWIFT Code": "TEBUTRIS053",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4654,8 +4654,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "394",
     "SWIFT Code": "TEBUTRIS394",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4667,8 +4667,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "051",
     "SWIFT Code": "TEBUTRIS051",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4680,8 +4680,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "625",
     "SWIFT Code": "TEBUTRIS625",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4693,8 +4693,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "229",
     "SWIFT Code": "TEBUTRIS229",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4706,8 +4706,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "381",
     "SWIFT Code": "TEBUTRIS381",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4719,8 +4719,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "703",
     "SWIFT Code": "TEBUTRIS703",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4732,8 +4732,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "249",
     "SWIFT Code": "TEBUTRIS249",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4745,8 +4745,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "050",
     "SWIFT Code": "TEBUTRIS050",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4758,8 +4758,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "276",
     "SWIFT Code": "TEBUTRIS276",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4771,8 +4771,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "253",
     "SWIFT Code": "TEBUTRIS253",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4784,8 +4784,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "356",
     "SWIFT Code": "TEBUTRIS356",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4797,8 +4797,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "031",
     "SWIFT Code": "TEBUTRIS031",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4810,8 +4810,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "486",
     "SWIFT Code": "TEBUTRIS486",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4823,8 +4823,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "283",
     "SWIFT Code": "TEBUTRIS283",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4836,8 +4836,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "672",
     "SWIFT Code": "TEBUTRIS672",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4849,8 +4849,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "378",
     "SWIFT Code": "TEBUTRIS378",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4862,8 +4862,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "268",
     "SWIFT Code": "TEBUTRIS268",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4875,8 +4875,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "763",
     "SWIFT Code": "TEBUTRIS763",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4888,8 +4888,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "023",
     "SWIFT Code": "TEBUTRIS023",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4901,8 +4901,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "572",
     "SWIFT Code": "TEBUTRIS572",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4914,8 +4914,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "170",
     "SWIFT Code": "TEBUTRIS170",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4927,8 +4927,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "713",
     "SWIFT Code": "TEBUTRIS713",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4940,8 +4940,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "379",
     "SWIFT Code": "TEBUTRIS379",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4953,8 +4953,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "339",
     "SWIFT Code": "TEBUTRIS339",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4966,8 +4966,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "205",
     "SWIFT Code": "TEBUTRIS205",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4979,8 +4979,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "668",
     "SWIFT Code": "TEBUTRIS668",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -4992,8 +4992,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "348",
     "SWIFT Code": "TEBUTRIS348",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5005,8 +5005,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "313",
     "SWIFT Code": "TEBUTRIS313",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5018,8 +5018,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "416",
     "SWIFT Code": "TEBUTRIS416",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5031,8 +5031,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "722",
     "SWIFT Code": "TEBUTRIS722",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5044,8 +5044,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "411",
     "SWIFT Code": "TEBUTRIS411",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5057,8 +5057,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "244",
     "SWIFT Code": "TEBUTRIS244",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5070,8 +5070,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "734",
     "SWIFT Code": "TEBUTRIS734",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5083,8 +5083,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "217",
     "SWIFT Code": "TEBUTRIS217",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5096,8 +5096,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "020",
     "SWIFT Code": "TEBUTRIS020",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5109,8 +5109,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "326",
     "SWIFT Code": "TEBUTRIS326",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5122,8 +5122,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "286",
     "SWIFT Code": "TEBUTRIS286",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5135,8 +5135,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "118",
     "SWIFT Code": "TEBUTRIS118",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5148,8 +5148,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "728",
     "SWIFT Code": "TEBUTRIS728",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5161,8 +5161,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "030",
     "SWIFT Code": "TEBUTRIS030",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5174,8 +5174,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "708",
     "SWIFT Code": "TEBUTRIS708",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5187,8 +5187,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "260",
     "SWIFT Code": "TEBUTRIS260",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -5200,8 +5200,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAKF",
-    "bankCode": "TR",
+    "bankCode": "VAKF",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "VAKFTRIS",
     "Bank Name": "VAKIF KATILIM BANKASI A.S.",
@@ -5213,8 +5213,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "YAPITRIS",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5226,8 +5226,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "612",
     "SWIFT Code": "YAPITRIS612",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5239,8 +5239,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "AUD",
     "SWIFT Code": "YAPITRISAUD",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5252,8 +5252,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "CHQ",
     "SWIFT Code": "YAPITRISCHQ",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5265,8 +5265,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "COM",
     "SWIFT Code": "YAPITRISCOM",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5278,8 +5278,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "COR",
     "SWIFT Code": "YAPITRISCOR",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5291,8 +5291,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "CRC",
     "SWIFT Code": "YAPITRISCRC",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5304,8 +5304,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "FAC",
     "SWIFT Code": "YAPITRISFAC",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5317,8 +5317,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "FEX",
     "SWIFT Code": "YAPITRISFEX",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5330,8 +5330,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "072",
     "SWIFT Code": "YAPITRIS072",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5343,8 +5343,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "INQ",
     "SWIFT Code": "YAPITRISINQ",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5356,8 +5356,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "INV",
     "SWIFT Code": "YAPITRISINV",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5369,8 +5369,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "PNR",
     "SWIFT Code": "YAPITRISPNR",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5382,8 +5382,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAPI",
-    "bankCode": "TR",
+    "bankCode": "YAPI",
+    "countryCode": "TR",
     "branchCode": "REC",
     "SWIFT Code": "YAPITRISREC",
     "Bank Name": "YAPI VE KREDI BANKASI A.S.",
@@ -5395,8 +5395,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YLDM",
-    "bankCode": "TR",
+    "bankCode": "YLDM",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "YLDMTRIS",
     "Bank Name": "YILDIRIM HOLDING A.S.",
@@ -5408,8 +5408,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZKBA",
-    "bankCode": "TR",
+    "bankCode": "ZKBA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ZKBATRIS",
     "Bank Name": "ZIRAAT KATILIM BANKASI A.S.",
@@ -5421,8 +5421,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZOHL",
-    "bankCode": "TR",
+    "bankCode": "ZOHL",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ZOHLTRIS",
     "Bank Name": "ZORLU HOLDING A.S.",
@@ -5434,8 +5434,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "680",
     "SWIFT Code": "INGBTRIS680",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5447,8 +5447,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "442",
     "SWIFT Code": "INGBTRIS442",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5460,8 +5460,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "221",
     "SWIFT Code": "INGBTRIS221",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5473,8 +5473,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "472",
     "SWIFT Code": "INGBTRIS472",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5486,8 +5486,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "178",
     "SWIFT Code": "INGBTRIS178",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5499,8 +5499,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "247",
     "SWIFT Code": "INGBTRIS247",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5512,8 +5512,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "779",
     "SWIFT Code": "INGBTRIS779",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5525,8 +5525,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "719",
     "SWIFT Code": "INGBTRIS719",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5538,8 +5538,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "455",
     "SWIFT Code": "INGBTRIS455",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5551,8 +5551,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "186",
     "SWIFT Code": "INGBTRIS186",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5564,8 +5564,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "234",
     "SWIFT Code": "INGBTRIS234",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5577,8 +5577,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "202",
     "SWIFT Code": "INGBTRIS202",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5590,8 +5590,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "143",
     "SWIFT Code": "INGBTRIS143",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5603,8 +5603,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "005",
     "SWIFT Code": "INGBTRIS005",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5616,8 +5616,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "158",
     "SWIFT Code": "INGBTRIS158",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5629,8 +5629,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "266",
     "SWIFT Code": "INGBTRIS266",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5642,8 +5642,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "335",
     "SWIFT Code": "INGBTRIS335",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5655,8 +5655,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "154",
     "SWIFT Code": "INGBTRIS154",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5668,8 +5668,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "153",
     "SWIFT Code": "INGBTRIS153",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5681,8 +5681,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "267",
     "SWIFT Code": "INGBTRIS267",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5694,8 +5694,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "262",
     "SWIFT Code": "INGBTRIS262",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5707,8 +5707,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "482",
     "SWIFT Code": "INGBTRIS482",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5720,8 +5720,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "439",
     "SWIFT Code": "INGBTRIS439",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5733,8 +5733,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "268",
     "SWIFT Code": "INGBTRIS268",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5746,8 +5746,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "306",
     "SWIFT Code": "INGBTRIS306",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5759,8 +5759,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "483",
     "SWIFT Code": "INGBTRIS483",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5772,8 +5772,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "172",
     "SWIFT Code": "INGBTRIS172",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5785,8 +5785,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "257",
     "SWIFT Code": "INGBTRIS257",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5798,8 +5798,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "175",
     "SWIFT Code": "INGBTRIS175",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5811,8 +5811,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "327",
     "SWIFT Code": "INGBTRIS327",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5824,8 +5824,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "293",
     "SWIFT Code": "INGBTRIS293",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5837,8 +5837,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "136",
     "SWIFT Code": "INGBTRIS136",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5850,8 +5850,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "654",
     "SWIFT Code": "INGBTRIS654",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5863,8 +5863,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "273",
     "SWIFT Code": "INGBTRIS273",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5876,8 +5876,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "373",
     "SWIFT Code": "INGBTRIS373",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5889,8 +5889,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "137",
     "SWIFT Code": "INGBTRIS137",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5902,8 +5902,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "667",
     "SWIFT Code": "INGBTRIS667",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5915,8 +5915,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "149",
     "SWIFT Code": "INGBTRIS149",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5928,8 +5928,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "112",
     "SWIFT Code": "INGBTRIS112",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5941,8 +5941,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "118",
     "SWIFT Code": "INGBTRIS118",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5954,8 +5954,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "157",
     "SWIFT Code": "INGBTRIS157",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5967,8 +5967,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "436",
     "SWIFT Code": "INGBTRIS436",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5980,8 +5980,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "677",
     "SWIFT Code": "INGBTRIS677",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -5993,8 +5993,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "243",
     "SWIFT Code": "INGBTRIS243",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6006,8 +6006,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "139",
     "SWIFT Code": "INGBTRIS139",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6019,8 +6019,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "448",
     "SWIFT Code": "INGBTRIS448",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6032,8 +6032,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "242",
     "SWIFT Code": "INGBTRIS242",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6045,8 +6045,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "173",
     "SWIFT Code": "INGBTRIS173",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6058,8 +6058,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "126",
     "SWIFT Code": "INGBTRIS126",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6071,8 +6071,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "TR",
+    "bankCode": "INGB",
+    "countryCode": "TR",
     "branchCode": "182",
     "SWIFT Code": "INGBTRIS182",
     "Bank Name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
@@ -6084,8 +6084,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "241",
     "SWIFT Code": "TEBUTRIS241",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6097,8 +6097,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "176",
     "SWIFT Code": "TEBUTRIS176",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6110,8 +6110,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "234",
     "SWIFT Code": "TEBUTRIS234",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6123,8 +6123,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "076",
     "SWIFT Code": "TEBUTRIS076",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6136,8 +6136,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "014",
     "SWIFT Code": "TEBUTRIS014",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6149,8 +6149,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "393",
     "SWIFT Code": "TEBUTRIS393",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6162,8 +6162,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "789",
     "SWIFT Code": "TEBUTRIS789",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6175,8 +6175,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "674",
     "SWIFT Code": "TEBUTRIS674",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6188,8 +6188,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "022",
     "SWIFT Code": "TEBUTRIS022",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6201,8 +6201,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "048",
     "SWIFT Code": "TEBUTRIS048",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6214,8 +6214,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "078",
     "SWIFT Code": "TEBUTRIS078",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6227,8 +6227,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "542",
     "SWIFT Code": "TEBUTRIS542",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6240,8 +6240,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "079",
     "SWIFT Code": "TEBUTRIS079",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6253,8 +6253,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "123",
     "SWIFT Code": "TEBUTRIS123",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6266,8 +6266,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "637",
     "SWIFT Code": "TEBUTRIS637",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6279,8 +6279,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "663",
     "SWIFT Code": "TEBUTRIS663",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6292,8 +6292,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "047",
     "SWIFT Code": "TEBUTRIS047",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6305,8 +6305,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "407",
     "SWIFT Code": "TEBUTRIS407",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6318,8 +6318,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "451",
     "SWIFT Code": "TEBUTRIS451",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6331,8 +6331,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "431",
     "SWIFT Code": "TEBUTRIS431",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6344,8 +6344,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "189",
     "SWIFT Code": "TEBUTRIS189",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6357,8 +6357,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "110",
     "SWIFT Code": "TEBUTRIS110",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6370,8 +6370,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "157",
     "SWIFT Code": "TEBUTRIS157",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6383,8 +6383,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "CMD",
     "SWIFT Code": "TEBUTRISCMD",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6396,8 +6396,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "143",
     "SWIFT Code": "TEBUTRIS143",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6409,8 +6409,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "341",
     "SWIFT Code": "TEBUTRIS341",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6422,8 +6422,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "929",
     "SWIFT Code": "TEBUTRIS929",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6435,8 +6435,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "562",
     "SWIFT Code": "TEBUTRIS562",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6448,8 +6448,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "134",
     "SWIFT Code": "TEBUTRIS134",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6461,8 +6461,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "018",
     "SWIFT Code": "TEBUTRIS018",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6474,8 +6474,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "931",
     "SWIFT Code": "TEBUTRIS931",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6487,8 +6487,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "096",
     "SWIFT Code": "TEBUTRIS096",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6500,8 +6500,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "221",
     "SWIFT Code": "TEBUTRIS221",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6513,8 +6513,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "721",
     "SWIFT Code": "TEBUTRIS721",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6526,8 +6526,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "029",
     "SWIFT Code": "TEBUTRIS029",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6539,8 +6539,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "389",
     "SWIFT Code": "TEBUTRIS389",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6552,8 +6552,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "609",
     "SWIFT Code": "TEBUTRIS609",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6565,8 +6565,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "336",
     "SWIFT Code": "TEBUTRIS336",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6578,8 +6578,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "016",
     "SWIFT Code": "TEBUTRIS016",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6591,8 +6591,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "335",
     "SWIFT Code": "TEBUTRIS335",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6604,8 +6604,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "430",
     "SWIFT Code": "TEBUTRIS430",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6617,8 +6617,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "202",
     "SWIFT Code": "TEBUTRIS202",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6630,8 +6630,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "392",
     "SWIFT Code": "TEBUTRIS392",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6643,8 +6643,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "186",
     "SWIFT Code": "TEBUTRIS186",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6656,8 +6656,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "699",
     "SWIFT Code": "TEBUTRIS699",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6669,8 +6669,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "146",
     "SWIFT Code": "TEBUTRIS146",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6682,8 +6682,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "039",
     "SWIFT Code": "TEBUTRIS039",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6695,8 +6695,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "404",
     "SWIFT Code": "TEBUTRIS404",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6708,8 +6708,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "408",
     "SWIFT Code": "TEBUTRIS408",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6721,8 +6721,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "119",
     "SWIFT Code": "TEBUTRIS119",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -6734,8 +6734,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADAB",
-    "bankCode": "TR",
+    "bankCode": "ADAB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ADABTRIS",
     "Bank Name": "ADABANK A.S.",
@@ -6747,8 +6747,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "002",
     "SWIFT Code": "AKBKTRIS002",
     "Bank Name": "AKBANK T.A.S.",
@@ -6760,8 +6760,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "005",
     "SWIFT Code": "AKBKTRIS005",
     "Bank Name": "AKBANK T.A.S.",
@@ -6773,8 +6773,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "056",
     "SWIFT Code": "AKBKTRIS056",
     "Bank Name": "AKBANK T.A.S.",
@@ -6786,8 +6786,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "043",
     "SWIFT Code": "AKBKTRIS043",
     "Bank Name": "AKBANK T.A.S.",
@@ -6799,8 +6799,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "012",
     "SWIFT Code": "AKBKTRIS012",
     "Bank Name": "AKBANK T.A.S.",
@@ -6812,8 +6812,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "057",
     "SWIFT Code": "AKBKTRIS057",
     "Bank Name": "AKBANK T.A.S.",
@@ -6825,8 +6825,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "035",
     "SWIFT Code": "AKBKTRIS035",
     "Bank Name": "AKBANK T.A.S.",
@@ -6838,8 +6838,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "AKBKTRIS",
     "Bank Name": "AKBANK T.A.S.",
@@ -6851,8 +6851,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "004",
     "SWIFT Code": "AKBKTRIS004",
     "Bank Name": "AKBANK T.A.S.",
@@ -6864,8 +6864,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "039",
     "SWIFT Code": "AKBKTRIS039",
     "Bank Name": "AKBANK T.A.S.",
@@ -6877,8 +6877,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "019",
     "SWIFT Code": "AKBKTRIS019",
     "Bank Name": "AKBANK T.A.S.",
@@ -6890,8 +6890,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "888",
     "SWIFT Code": "AKBKTRIS888",
     "Bank Name": "AKBANK T.A.S.",
@@ -6903,8 +6903,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "020",
     "SWIFT Code": "AKBKTRIS020",
     "Bank Name": "AKBANK T.A.S.",
@@ -6916,8 +6916,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "192",
     "SWIFT Code": "AKBKTRIS192",
     "Bank Name": "AKBANK T.A.S.",
@@ -6929,8 +6929,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "006",
     "SWIFT Code": "AKBKTRIS006",
     "Bank Name": "AKBANK T.A.S.",
@@ -6942,8 +6942,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "066",
     "SWIFT Code": "AKBKTRIS066",
     "Bank Name": "AKBANK T.A.S.",
@@ -6955,8 +6955,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "999",
     "SWIFT Code": "AKBKTRIS999",
     "Bank Name": "AKBANK T.A.S.",
@@ -6968,8 +6968,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "018",
     "SWIFT Code": "AKBKTRIS018",
     "Bank Name": "AKBANK T.A.S.",
@@ -6981,8 +6981,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "622",
     "SWIFT Code": "AKBKTRIS622",
     "Bank Name": "AKBANK T.A.S.",
@@ -6994,8 +6994,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKBK",
-    "bankCode": "TR",
+    "bankCode": "AKBK",
+    "countryCode": "TR",
     "branchCode": "059",
     "SWIFT Code": "AKBKTRIS059",
     "Bank Name": "AKBANK T.A.S.",
@@ -7007,8 +7007,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEAO",
-    "bankCode": "TR",
+    "bankCode": "AEAO",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "AEAOTRIS",
     "Bank Name": "AKKAN ENERJI VE MADENCILIK ANONIM SIRKETI",
@@ -7020,8 +7020,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYT",
-    "bankCode": "TR",
+    "bankCode": "CAYT",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "CAYTTRIS",
     "Bank Name": "AKTIF YATIRIM BANKASI A.S.",
@@ -7033,8 +7033,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYT",
-    "bankCode": "TR",
+    "bankCode": "CAYT",
+    "countryCode": "TR",
     "branchCode": "001",
     "SWIFT Code": "CAYTTRIS001",
     "Bank Name": "AKTIF YATIRIM BANKASI A.S.",
@@ -7046,8 +7046,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYT",
-    "bankCode": "TR",
+    "bankCode": "CAYT",
+    "countryCode": "TR",
     "branchCode": "002",
     "SWIFT Code": "CAYTTRIS002",
     "Bank Name": "AKTIF YATIRIM BANKASI A.S.",
@@ -7059,8 +7059,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYT",
-    "bankCode": "TR",
+    "bankCode": "CAYT",
+    "countryCode": "TR",
     "branchCode": "003",
     "SWIFT Code": "CAYTTRIS003",
     "Bank Name": "AKTIF YATIRIM BANKASI A.S.",
@@ -7072,8 +7072,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTFH",
-    "bankCode": "TR",
+    "bankCode": "BTFH",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BTFHTRIS",
     "Bank Name": "ALBARAKA TURK PARTICIPATION BANK",
@@ -7085,8 +7085,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFB",
-    "bankCode": "TR",
+    "bankCode": "ALFB",
+    "countryCode": "TR",
     "branchCode": "909",
     "SWIFT Code": "ALFBTRIS909",
     "Bank Name": "ALTERNATIFBANK A.S.",
@@ -7098,8 +7098,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFB",
-    "bankCode": "TR",
+    "bankCode": "ALFB",
+    "countryCode": "TR",
     "branchCode": "908",
     "SWIFT Code": "ALFBTRIS908",
     "Bank Name": "ALTERNATIFBANK A.S.",
@@ -7111,8 +7111,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFB",
-    "bankCode": "TR",
+    "bankCode": "ALFB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ALFBTRIS",
     "Bank Name": "ALTERNATIFBANK A.S.",
@@ -7124,8 +7124,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFB",
-    "bankCode": "TR",
+    "bankCode": "ALFB",
+    "countryCode": "TR",
     "branchCode": "907",
     "SWIFT Code": "ALFBTRIS907",
     "Bank Name": "ALTERNATIFBANK A.S.",
@@ -7137,8 +7137,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDL",
-    "bankCode": "TR",
+    "bankCode": "ANDL",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ANDLTRIS",
     "Bank Name": "ANADOLUBANK A.S.",
@@ -7150,8 +7150,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDL",
-    "bankCode": "TR",
+    "bankCode": "ANDL",
+    "countryCode": "TR",
     "branchCode": "TUZ",
     "SWIFT Code": "ANDLTRISTUZ",
     "Bank Name": "ANADOLUBANK A.S.",
@@ -7163,8 +7163,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATUB",
-    "bankCode": "TR",
+    "bankCode": "ATUB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ATUBTRIS",
     "Bank Name": "ARAB TURKISH BANK",
@@ -7176,8 +7176,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEYY",
-    "bankCode": "TR",
+    "bankCode": "MEYY",
+    "countryCode": "TR",
     "branchCode": "MMD",
     "SWIFT Code": "MEYYTRISMMD",
     "Bank Name": "BANK OF AMERICA YATIRIM BANK AS",
@@ -7189,8 +7189,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEYY",
-    "bankCode": "TR",
+    "bankCode": "MEYY",
+    "countryCode": "TR",
     "branchCode": "WIN",
     "SWIFT Code": "MEYYTRISWIN",
     "Bank Name": "BANK OF AMERICA YATIRIM BANK AS",
@@ -7202,8 +7202,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEYY",
-    "bankCode": "TR",
+    "bankCode": "MEYY",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "MEYYTRIS",
     "Bank Name": "BANK OF AMERICA YATIRIM BANK AS",
@@ -7215,8 +7215,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEYY",
-    "bankCode": "TR",
+    "bankCode": "MEYY",
+    "countryCode": "TR",
     "branchCode": "MLB",
     "SWIFT Code": "MEYYTRISMLB",
     "Bank Name": "BANK OF AMERICA YATIRIM BANK AS",
@@ -7228,8 +7228,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEYY",
-    "bankCode": "TR",
+    "bankCode": "MEYY",
+    "countryCode": "TR",
     "branchCode": "IST",
     "SWIFT Code": "MEYYTRISIST",
     "Bank Name": "BANK OF AMERICA YATIRIM BANK AS",
@@ -7241,8 +7241,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "TR",
+    "bankCode": "BKCH",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BKCHTRIS",
     "Bank Name": "BANK OF CHINA TURKEY A.S.",
@@ -7254,8 +7254,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPTR",
-    "bankCode": "TR",
+    "bankCode": "BPTR",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BPTRTRIS",
     "Bank Name": "BANKPOZITIF KREDI VE KALKINMA BANKASI A.S.",
@@ -7267,8 +7267,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAYD",
-    "bankCode": "TR",
+    "bankCode": "BAYD",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "BAYDTRIS",
     "Bank Name": "BIRLESIK FON BANKASI A.S.",
@@ -7280,8 +7280,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEKF",
-    "bankCode": "TR",
+    "bankCode": "TEKF",
+    "countryCode": "TR",
     "branchCode": "SEC",
     "SWIFT Code": "TEKFTRISSEC",
     "Bank Name": "BURGAN BANK A.S.",
@@ -7293,8 +7293,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEKF",
-    "bankCode": "TR",
+    "bankCode": "TEKF",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TEKFTRIS",
     "Bank Name": "BURGAN BANK A.S.",
@@ -7306,8 +7306,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEKF",
-    "bankCode": "TR",
+    "bankCode": "TEKF",
+    "countryCode": "TR",
     "branchCode": "970",
     "SWIFT Code": "TEKFTRIS970",
     "Bank Name": "BURGAN BANK A.S.",
@@ -7319,8 +7319,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEKF",
-    "bankCode": "TR",
+    "bankCode": "TEKF",
+    "countryCode": "TR",
     "branchCode": "946",
     "SWIFT Code": "TEKFTRIS946",
     "Bank Name": "BURGAN BANK A.S.",
@@ -7332,8 +7332,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEKF",
-    "bankCode": "TR",
+    "bankCode": "TEKF",
+    "countryCode": "TR",
     "branchCode": "901",
     "SWIFT Code": "TEKFTRIS901",
     "Bank Name": "BURGAN BANK A.S.",
@@ -7345,8 +7345,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGIM",
-    "bankCode": "TR",
+    "bankCode": "CGIM",
+    "countryCode": "TR",
     "branchCode": "RI2",
     "SWIFT Code": "CGIMTRI2",
     "Bank Name": "CANDY GROUP INTERNATIONAL LTD MERKEZI DUBAI TURKIYE ISTANBUL SUBESI",
@@ -7358,8 +7358,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TR",
+    "bankCode": "CITI",
+    "countryCode": "TR",
     "branchCode": "ANK",
     "SWIFT Code": "CITITRIXANK",
     "Bank Name": "CITIBANK A.S.",
@@ -7371,8 +7371,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TR",
+    "bankCode": "CITI",
+    "countryCode": "TR",
     "branchCode": "RIX",
     "SWIFT Code": "CITITRIX",
     "Bank Name": "CITIBANK A.S.",
@@ -7384,8 +7384,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "752",
     "SWIFT Code": "TEBUTRIS752",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7397,8 +7397,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "198",
     "SWIFT Code": "TEBUTRIS198",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7410,8 +7410,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "333",
     "SWIFT Code": "TEBUTRIS333",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7423,8 +7423,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "158",
     "SWIFT Code": "TEBUTRIS158",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7436,8 +7436,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "090",
     "SWIFT Code": "TEBUTRIS090",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7449,8 +7449,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "494",
     "SWIFT Code": "TEBUTRIS494",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7462,8 +7462,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "181",
     "SWIFT Code": "TEBUTRIS181",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7475,8 +7475,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "135",
     "SWIFT Code": "TEBUTRIS135",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7488,8 +7488,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "423",
     "SWIFT Code": "TEBUTRIS423",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7501,8 +7501,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "671",
     "SWIFT Code": "TEBUTRIS671",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7514,8 +7514,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "691",
     "SWIFT Code": "TEBUTRIS691",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7527,8 +7527,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "247",
     "SWIFT Code": "TEBUTRIS247",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7540,8 +7540,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "681",
     "SWIFT Code": "TEBUTRIS681",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7553,8 +7553,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "284",
     "SWIFT Code": "TEBUTRIS284",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7566,8 +7566,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "109",
     "SWIFT Code": "TEBUTRIS109",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7579,8 +7579,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "289",
     "SWIFT Code": "TEBUTRIS289",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7592,8 +7592,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "730",
     "SWIFT Code": "TEBUTRIS730",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7605,8 +7605,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "224",
     "SWIFT Code": "TEBUTRIS224",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7618,8 +7618,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "651",
     "SWIFT Code": "TEBUTRIS651",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7631,8 +7631,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "242",
     "SWIFT Code": "TEBUTRIS242",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7644,8 +7644,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "091",
     "SWIFT Code": "TEBUTRIS091",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7657,8 +7657,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "092",
     "SWIFT Code": "TEBUTRIS092",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7670,8 +7670,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "518",
     "SWIFT Code": "TEBUTRIS518",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7683,8 +7683,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "215",
     "SWIFT Code": "TEBUTRIS215",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7696,8 +7696,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "710",
     "SWIFT Code": "TEBUTRIS710",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7709,8 +7709,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "310",
     "SWIFT Code": "TEBUTRIS310",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7722,8 +7722,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "559",
     "SWIFT Code": "TEBUTRIS559",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7735,8 +7735,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "738",
     "SWIFT Code": "TEBUTRIS738",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7748,8 +7748,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "731",
     "SWIFT Code": "TEBUTRIS731",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7761,8 +7761,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "700",
     "SWIFT Code": "TEBUTRIS700",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7774,8 +7774,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "088",
     "SWIFT Code": "TEBUTRIS088",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7787,8 +7787,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "634",
     "SWIFT Code": "TEBUTRIS634",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -7800,8 +7800,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUAR",
-    "bankCode": "TR",
+    "bankCode": "TUAR",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TUARTRIS",
     "Bank Name": "TURKISH AIRLINES INC",
@@ -7813,8 +7813,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUBA",
-    "bankCode": "TR",
+    "bankCode": "TUBA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TUBATRIS",
     "Bank Name": "TURKISH BANK A.S.",
@@ -7826,8 +7826,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUBA",
-    "bankCode": "TR",
+    "bankCode": "TUBA",
+    "countryCode": "TR",
     "branchCode": "TBL",
     "SWIFT Code": "TUBATRISTBL",
     "Bank Name": "TURKISH BANK A.S.",
@@ -7839,8 +7839,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCMB",
-    "bankCode": "TR",
+    "bankCode": "TCMB",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "TCMBTR2A",
     "Bank Name": "TURKIYE CUMHURIYET MERKEZ BANKASI (CENTRAL BANK OF THE REPUBLIC OF TURKEY)",
@@ -7852,8 +7852,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "ANK",
     "SWIFT Code": "TCZBTR2AANK",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7865,8 +7865,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "TCZBTR2A",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7878,8 +7878,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "ANT",
     "SWIFT Code": "TCZBTR2AANT",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7891,8 +7891,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "FEX",
     "SWIFT Code": "TCZBTR2AFEX",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7904,8 +7904,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "IST",
     "SWIFT Code": "TCZBTR2AIST",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7917,8 +7917,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "IZM",
     "SWIFT Code": "TCZBTR2AIZM",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7930,8 +7930,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "TR",
+    "bankCode": "TCZB",
+    "countryCode": "TR",
     "branchCode": "MER",
     "SWIFT Code": "TCZBTR2AMER",
     "Bank Name": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
@@ -7943,8 +7943,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMLA",
-    "bankCode": "TR",
+    "bankCode": "EMLA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "EMLATRIS",
     "Bank Name": "TURKIYE EMLAK KATILIM BANKASI A.S.",
@@ -7956,8 +7956,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFKB",
-    "bankCode": "TR",
+    "bankCode": "AFKB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "AFKBTRIS",
     "Bank Name": "TURKIYE FINANS KATILIM BANKASI A.S.",
@@ -7969,8 +7969,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TGBATRIS",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -7982,8 +7982,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "382",
     "SWIFT Code": "TGBATRIS382",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -7995,8 +7995,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "384",
     "SWIFT Code": "TGBATRIS384",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -8008,8 +8008,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "987",
     "SWIFT Code": "TGBATRIS987",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -8021,8 +8021,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "381",
     "SWIFT Code": "TGBATRIS381",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -8034,8 +8034,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "257",
     "SWIFT Code": "TEBUTRIS257",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8047,8 +8047,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "643",
     "SWIFT Code": "TEBUTRIS643",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8060,8 +8060,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "245",
     "SWIFT Code": "TEBUTRIS245",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8073,8 +8073,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "089",
     "SWIFT Code": "TEBUTRIS089",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8086,8 +8086,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "690",
     "SWIFT Code": "TEBUTRIS690",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8099,8 +8099,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "259",
     "SWIFT Code": "TEBUTRIS259",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8112,8 +8112,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "664",
     "SWIFT Code": "TEBUTRIS664",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8125,8 +8125,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "114",
     "SWIFT Code": "TEBUTRIS114",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8138,8 +8138,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "203",
     "SWIFT Code": "TEBUTRIS203",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8151,8 +8151,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "192",
     "SWIFT Code": "TEBUTRIS192",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8164,8 +8164,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "723",
     "SWIFT Code": "TEBUTRIS723",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8177,8 +8177,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "724",
     "SWIFT Code": "TEBUTRIS724",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8190,8 +8190,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "340",
     "SWIFT Code": "TEBUTRIS340",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8203,8 +8203,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "292",
     "SWIFT Code": "TEBUTRIS292",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8216,8 +8216,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "327",
     "SWIFT Code": "TEBUTRIS327",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8229,8 +8229,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "304",
     "SWIFT Code": "TEBUTRIS304",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8242,8 +8242,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "702",
     "SWIFT Code": "TEBUTRIS702",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8255,8 +8255,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "038",
     "SWIFT Code": "TEBUTRIS038",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8268,8 +8268,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "385",
     "SWIFT Code": "TEBUTRIS385",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8281,8 +8281,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "444",
     "SWIFT Code": "TEBUTRIS444",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8294,8 +8294,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "793",
     "SWIFT Code": "TEBUTRIS793",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8307,8 +8307,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "584",
     "SWIFT Code": "TEBUTRIS584",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8320,8 +8320,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "652",
     "SWIFT Code": "TEBUTRIS652",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8333,8 +8333,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "352",
     "SWIFT Code": "TEBUTRIS352",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8346,8 +8346,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "255",
     "SWIFT Code": "TEBUTRIS255",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8359,8 +8359,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "746",
     "SWIFT Code": "TEBUTRIS746",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8372,8 +8372,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "688",
     "SWIFT Code": "TEBUTRIS688",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8385,8 +8385,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "237",
     "SWIFT Code": "TEBUTRIS237",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8398,8 +8398,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "240",
     "SWIFT Code": "TEBUTRIS240",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8411,8 +8411,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "314",
     "SWIFT Code": "TEBUTRIS314",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8424,8 +8424,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "106",
     "SWIFT Code": "TEBUTRIS106",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8437,8 +8437,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "133",
     "SWIFT Code": "TEBUTRIS133",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8450,8 +8450,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "496",
     "SWIFT Code": "TEBUTRIS496",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8463,8 +8463,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "709",
     "SWIFT Code": "TEBUTRIS709",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8476,8 +8476,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "419",
     "SWIFT Code": "TEBUTRIS419",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8489,8 +8489,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "102",
     "SWIFT Code": "TEBUTRIS102",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8502,8 +8502,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "665",
     "SWIFT Code": "TEBUTRIS665",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8515,8 +8515,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "258",
     "SWIFT Code": "TEBUTRIS258",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8528,8 +8528,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "692",
     "SWIFT Code": "TEBUTRIS692",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8541,8 +8541,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "694",
     "SWIFT Code": "TEBUTRIS694",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8554,8 +8554,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "166",
     "SWIFT Code": "TEBUTRIS166",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8567,8 +8567,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "153",
     "SWIFT Code": "TEBUTRIS153",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8580,8 +8580,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "182",
     "SWIFT Code": "TEBUTRIS182",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8593,8 +8593,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "698",
     "SWIFT Code": "TEBUTRIS698",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8606,8 +8606,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "689",
     "SWIFT Code": "TEBUTRIS689",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8619,8 +8619,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "642",
     "SWIFT Code": "TEBUTRIS642",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8632,8 +8632,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "195",
     "SWIFT Code": "TEBUTRIS195",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8645,8 +8645,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "113",
     "SWIFT Code": "TEBUTRIS113",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8658,8 +8658,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "505",
     "SWIFT Code": "TEBUTRIS505",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8671,8 +8671,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "288",
     "SWIFT Code": "TEBUTRIS288",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -8684,8 +8684,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MEC",
     "SWIFT Code": "FNNBTRISMEC",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8697,8 +8697,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MRT",
     "SWIFT Code": "FNNBTRISMRT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8710,8 +8710,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "SUL",
     "SWIFT Code": "FNNBTRISSUL",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8723,8 +8723,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "TPK",
     "SWIFT Code": "FNNBTRISTPK",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8736,8 +8736,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "TRO",
     "SWIFT Code": "FNNBTRISTRO",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8749,8 +8749,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "BRN",
     "SWIFT Code": "FNNBTRISBRN",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8762,8 +8762,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "GMR",
     "SWIFT Code": "FNNBTRISGMR",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8775,8 +8775,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "IZM",
     "SWIFT Code": "FNNBTRISIZM",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8788,8 +8788,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "TOC",
     "SWIFT Code": "FNNBTRISTOC",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8801,8 +8801,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KHM",
     "SWIFT Code": "FNNBTRISKHM",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8814,8 +8814,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KYS",
     "SWIFT Code": "FNNBTRISKYS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8827,8 +8827,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KSN",
     "SWIFT Code": "FNNBTRISKSN",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8840,8 +8840,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "GEB",
     "SWIFT Code": "FNNBTRISGEB",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8853,8 +8853,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KOC",
     "SWIFT Code": "FNNBTRISKOC",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8866,8 +8866,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "KNY",
     "SWIFT Code": "FNNBTRISKNY",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8879,8 +8879,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MLT",
     "SWIFT Code": "FNNBTRISMLT",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8892,8 +8892,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MAN",
     "SWIFT Code": "FNNBTRISMAN",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8905,8 +8905,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MRS",
     "SWIFT Code": "FNNBTRISMRS",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8918,8 +8918,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "BOD",
     "SWIFT Code": "FNNBTRISBOD",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8931,8 +8931,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "MAR",
     "SWIFT Code": "FNNBTRISMAR",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8944,8 +8944,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "ADP",
     "SWIFT Code": "FNNBTRISADP",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8957,8 +8957,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "SAM",
     "SWIFT Code": "FNNBTRISSAM",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8970,8 +8970,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "URF",
     "SWIFT Code": "FNNBTRISURF",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8983,8 +8983,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "TR",
+    "bankCode": "FNNB",
+    "countryCode": "TR",
     "branchCode": "TRB",
     "SWIFT Code": "FNNBTRISTRB",
     "Bank Name": "QNB FINANSBANK A.S.",
@@ -8996,8 +8996,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "TR",
+    "bankCode": "RABO",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "RABOTRIS",
     "Bank Name": "RABOBANK ANONIM SIRKETI",
@@ -9009,8 +9009,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROHO",
-    "bankCode": "TR",
+    "bankCode": "ROHO",
+    "countryCode": "TR",
     "branchCode": "R22",
     "SWIFT Code": "ROHOTR22",
     "Bank Name": "RONESANS HOLDING A.S.",
@@ -9022,8 +9022,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "TR",
+    "bankCode": "SECT",
+    "countryCode": "TR",
     "branchCode": "RI2",
     "SWIFT Code": "SECTTRI2",
     "Bank Name": "SAMSUNG ELECTRONICS ELEKTRONIK SANAYI VE TICARET LIMITED SIRKETI",
@@ -9035,8 +9035,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKE",
-    "bankCode": "TR",
+    "bankCode": "SEKE",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "SEKETR2A",
     "Bank Name": "SEKERBANK T.A.S.",
@@ -9048,8 +9048,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKE",
-    "bankCode": "TR",
+    "bankCode": "SEKE",
+    "countryCode": "TR",
     "branchCode": "AHL",
     "SWIFT Code": "SEKETR2AAHL",
     "Bank Name": "SEKERBANK T.A.S.",
@@ -9061,8 +9061,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKE",
-    "bankCode": "TR",
+    "bankCode": "SEKE",
+    "countryCode": "TR",
     "branchCode": "AIS",
     "SWIFT Code": "SEKETR2AAIS",
     "Bank Name": "SEKERBANK T.A.S.",
@@ -9074,8 +9074,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKE",
-    "bankCode": "TR",
+    "bankCode": "SEKE",
+    "countryCode": "TR",
     "branchCode": "KSB",
     "SWIFT Code": "SEKETR2AKSB",
     "Bank Name": "SEKERBANK T.A.S.",
@@ -9087,8 +9087,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOHA",
-    "bankCode": "TR",
+    "bankCode": "SOHA",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "SOHATRIS",
     "Bank Name": "SENDER ODEME HIZMETLERI ANONIM SIRKETI",
@@ -9100,8 +9100,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "TR",
+    "bankCode": "SOGE",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "SOGETRIS",
     "Bank Name": "SOCIETE GENERALE",
@@ -9113,8 +9113,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TR",
+    "bankCode": "SCBL",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "SCBLTRIS",
     "Bank Name": "STANDARD CHARTERED YATIRIM BANKASI TURK A.S.",
@@ -9126,8 +9126,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKNS",
-    "bankCode": "TR",
+    "bankCode": "TKNS",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TKNSTRIS",
     "Bank Name": "T.O.M. KATILIM BANKASI ANONIM SIRKETI",
@@ -9139,8 +9139,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEKH",
-    "bankCode": "TR",
+    "bankCode": "TEKH",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TEKHTRIS",
     "Bank Name": "TEKFEN HOLDING A.S.",
@@ -9152,8 +9152,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TYAS",
-    "bankCode": "TR",
+    "bankCode": "TYAS",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TYASTRIS",
     "Bank Name": "TERA YATIRIM BANKASI A.S.",
@@ -9165,8 +9165,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "535",
     "SWIFT Code": "TEBUTRIS535",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9178,8 +9178,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "445",
     "SWIFT Code": "TEBUTRIS445",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9191,8 +9191,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "524",
     "SWIFT Code": "TEBUTRIS524",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9204,8 +9204,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "269",
     "SWIFT Code": "TEBUTRIS269",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9217,8 +9217,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "446",
     "SWIFT Code": "TEBUTRIS446",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9230,8 +9230,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "117",
     "SWIFT Code": "TEBUTRIS117",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9243,8 +9243,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "656",
     "SWIFT Code": "TEBUTRIS656",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9256,8 +9256,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "359",
     "SWIFT Code": "TEBUTRIS359",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9269,8 +9269,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "573",
     "SWIFT Code": "TEBUTRIS573",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9282,8 +9282,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "156",
     "SWIFT Code": "TEBUTRIS156",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9295,8 +9295,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "281",
     "SWIFT Code": "TEBUTRIS281",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9308,8 +9308,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "116",
     "SWIFT Code": "TEBUTRIS116",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9321,8 +9321,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "755",
     "SWIFT Code": "TEBUTRIS755",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9334,8 +9334,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "201",
     "SWIFT Code": "TEBUTRIS201",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9347,8 +9347,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "122",
     "SWIFT Code": "TEBUTRIS122",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9360,8 +9360,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "487",
     "SWIFT Code": "TEBUTRIS487",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9373,8 +9373,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "618",
     "SWIFT Code": "TEBUTRIS618",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9386,8 +9386,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "261",
     "SWIFT Code": "TEBUTRIS261",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9399,8 +9399,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "233",
     "SWIFT Code": "TEBUTRIS233",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9412,8 +9412,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "383",
     "SWIFT Code": "TEBUTRIS383",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9425,8 +9425,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "596",
     "SWIFT Code": "TEBUTRIS596",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9438,8 +9438,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "015",
     "SWIFT Code": "TEBUTRIS015",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9451,8 +9451,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "194",
     "SWIFT Code": "TEBUTRIS194",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9464,8 +9464,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "606",
     "SWIFT Code": "TEBUTRIS606",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9477,8 +9477,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "147",
     "SWIFT Code": "TEBUTRIS147",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9490,8 +9490,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "SUK",
     "SWIFT Code": "TEBUTRISSUK",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9503,8 +9503,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "930",
     "SWIFT Code": "TEBUTRIS930",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9516,8 +9516,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "178",
     "SWIFT Code": "TEBUTRIS178",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9529,8 +9529,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "528",
     "SWIFT Code": "TEBUTRIS528",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9542,8 +9542,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "055",
     "SWIFT Code": "TEBUTRIS055",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9555,8 +9555,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "VOS",
     "SWIFT Code": "TEBUTRISVOS",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9568,8 +9568,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "236",
     "SWIFT Code": "TEBUTRIS236",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9581,8 +9581,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "218",
     "SWIFT Code": "TEBUTRIS218",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9594,8 +9594,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "043",
     "SWIFT Code": "TEBUTRIS043",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9607,8 +9607,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "610",
     "SWIFT Code": "TEBUTRIS610",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9620,8 +9620,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "132",
     "SWIFT Code": "TEBUTRIS132",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9633,8 +9633,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "219",
     "SWIFT Code": "TEBUTRIS219",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9646,8 +9646,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "538",
     "SWIFT Code": "TEBUTRIS538",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9659,8 +9659,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "329",
     "SWIFT Code": "TEBUTRIS329",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9672,8 +9672,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "251",
     "SWIFT Code": "TEBUTRIS251",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9685,8 +9685,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "054",
     "SWIFT Code": "TEBUTRIS054",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9698,8 +9698,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "370",
     "SWIFT Code": "TEBUTRIS370",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9711,8 +9711,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "093",
     "SWIFT Code": "TEBUTRIS093",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9724,8 +9724,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "521",
     "SWIFT Code": "TEBUTRIS521",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9737,8 +9737,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "345",
     "SWIFT Code": "TEBUTRIS345",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9750,8 +9750,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "067",
     "SWIFT Code": "TEBUTRIS067",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9763,8 +9763,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "211",
     "SWIFT Code": "TEBUTRIS211",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9776,8 +9776,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "455",
     "SWIFT Code": "TEBUTRIS455",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9789,8 +9789,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "216",
     "SWIFT Code": "TEBUTRIS216",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9802,8 +9802,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "725",
     "SWIFT Code": "TEBUTRIS725",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9815,8 +9815,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "792",
     "SWIFT Code": "TEBUTRIS792",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9828,8 +9828,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "697",
     "SWIFT Code": "TEBUTRIS697",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9841,8 +9841,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "100",
     "SWIFT Code": "TEBUTRIS100",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9854,8 +9854,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "398",
     "SWIFT Code": "TEBUTRIS398",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9867,8 +9867,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "231",
     "SWIFT Code": "TEBUTRIS231",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9880,8 +9880,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "696",
     "SWIFT Code": "TEBUTRIS696",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9893,8 +9893,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "066",
     "SWIFT Code": "TEBUTRIS066",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9906,8 +9906,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "248",
     "SWIFT Code": "TEBUTRIS248",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9919,8 +9919,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "555",
     "SWIFT Code": "TEBUTRIS555",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9932,8 +9932,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "753",
     "SWIFT Code": "TEBUTRIS753",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9945,8 +9945,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "068",
     "SWIFT Code": "TEBUTRIS068",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9958,8 +9958,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "754",
     "SWIFT Code": "TEBUTRIS754",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9971,8 +9971,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "279",
     "SWIFT Code": "TEBUTRIS279",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9984,8 +9984,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "172",
     "SWIFT Code": "TEBUTRIS172",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -9997,8 +9997,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "331",
     "SWIFT Code": "TEBUTRIS331",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10010,8 +10010,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "115",
     "SWIFT Code": "TEBUTRIS115",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10023,8 +10023,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "107",
     "SWIFT Code": "TEBUTRIS107",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10036,8 +10036,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "478",
     "SWIFT Code": "TEBUTRIS478",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10049,8 +10049,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "330",
     "SWIFT Code": "TEBUTRIS330",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10062,8 +10062,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "462",
     "SWIFT Code": "TEBUTRIS462",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10075,8 +10075,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "275",
     "SWIFT Code": "TEBUTRIS275",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10088,8 +10088,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "353",
     "SWIFT Code": "TEBUTRIS353",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10101,8 +10101,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "290",
     "SWIFT Code": "TEBUTRIS290",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10114,8 +10114,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "075",
     "SWIFT Code": "TEBUTRIS075",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10127,8 +10127,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "512",
     "SWIFT Code": "TEBUTRIS512",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10140,8 +10140,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "735",
     "SWIFT Code": "TEBUTRIS735",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10153,8 +10153,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "154",
     "SWIFT Code": "TEBUTRIS154",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10166,8 +10166,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "477",
     "SWIFT Code": "TEBUTRIS477",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10179,8 +10179,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "321",
     "SWIFT Code": "TEBUTRIS321",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10192,8 +10192,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "659",
     "SWIFT Code": "TEBUTRIS659",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10205,8 +10205,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "714",
     "SWIFT Code": "TEBUTRIS714",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10218,8 +10218,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "077",
     "SWIFT Code": "TEBUTRIS077",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10231,8 +10231,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "498",
     "SWIFT Code": "TEBUTRIS498",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10244,8 +10244,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "351",
     "SWIFT Code": "TEBUTRIS351",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10257,8 +10257,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "190",
     "SWIFT Code": "TEBUTRIS190",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10270,8 +10270,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "660",
     "SWIFT Code": "TEBUTRIS660",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10283,8 +10283,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "677",
     "SWIFT Code": "TEBUTRIS677",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10296,8 +10296,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "328",
     "SWIFT Code": "TEBUTRIS328",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10309,8 +10309,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "686",
     "SWIFT Code": "TEBUTRIS686",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10322,8 +10322,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "142",
     "SWIFT Code": "TEBUTRIS142",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10335,8 +10335,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "273",
     "SWIFT Code": "TEBUTRIS273",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10348,8 +10348,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "120",
     "SWIFT Code": "TEBUTRIS120",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10361,8 +10361,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "465",
     "SWIFT Code": "TEBUTRIS465",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10374,8 +10374,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "017",
     "SWIFT Code": "TEBUTRIS017",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10387,8 +10387,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "587",
     "SWIFT Code": "TEBUTRIS587",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10400,8 +10400,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "384",
     "SWIFT Code": "TEBUTRIS384",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10413,8 +10413,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "065",
     "SWIFT Code": "TEBUTRIS065",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10426,8 +10426,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "298",
     "SWIFT Code": "TEBUTRIS298",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10439,8 +10439,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "457",
     "SWIFT Code": "TEBUTRIS457",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10452,8 +10452,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "193",
     "SWIFT Code": "TEBUTRIS193",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10465,8 +10465,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "363",
     "SWIFT Code": "TEBUTRIS363",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10478,8 +10478,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "151",
     "SWIFT Code": "TEBUTRIS151",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10491,8 +10491,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "297",
     "SWIFT Code": "TEBUTRIS297",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10504,8 +10504,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "266",
     "SWIFT Code": "TEBUTRIS266",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10517,8 +10517,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "291",
     "SWIFT Code": "TEBUTRIS291",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10530,8 +10530,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "315",
     "SWIFT Code": "TEBUTRIS315",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10543,8 +10543,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "058",
     "SWIFT Code": "TEBUTRIS058",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10556,8 +10556,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "103",
     "SWIFT Code": "TEBUTRIS103",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10569,8 +10569,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "579",
     "SWIFT Code": "TEBUTRIS579",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10582,8 +10582,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "162",
     "SWIFT Code": "TEBUTRIS162",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10595,8 +10595,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "790",
     "SWIFT Code": "TEBUTRIS790",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10608,8 +10608,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "280",
     "SWIFT Code": "TEBUTRIS280",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10621,8 +10621,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEBU",
-    "bankCode": "TR",
+    "bankCode": "TEBU",
+    "countryCode": "TR",
     "branchCode": "727",
     "SWIFT Code": "TEBUTRIS727",
     "Bank Name": "TURK EKONOMI BANKASI A.S.",
@@ -10634,8 +10634,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "383",
     "SWIFT Code": "TGBATRIS383",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -10647,8 +10647,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "986",
     "SWIFT Code": "TGBATRIS986",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -10660,8 +10660,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "982",
     "SWIFT Code": "TGBATRIS982",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -10673,8 +10673,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "093",
     "SWIFT Code": "TGBATRIS093",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -10686,8 +10686,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "489",
     "SWIFT Code": "TGBATRIS489",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -10699,8 +10699,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TGBA",
-    "bankCode": "TR",
+    "bankCode": "TGBA",
+    "countryCode": "TR",
     "branchCode": "310",
     "SWIFT Code": "TGBATRIS310",
     "Bank Name": "TURKIYE GARANTI BANKASI A.S.",
@@ -10712,8 +10712,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "613",
     "SWIFT Code": "TRHBTR2A613",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10725,8 +10725,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "118",
     "SWIFT Code": "TRHBTR2A118",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10738,8 +10738,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "610",
     "SWIFT Code": "TRHBTR2A610",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10751,8 +10751,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "TRHBTR2A",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10764,8 +10764,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "611",
     "SWIFT Code": "TRHBTR2A611",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10777,8 +10777,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "EXM",
     "SWIFT Code": "TRHBTR2AEXM",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10790,8 +10790,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "FIS",
     "SWIFT Code": "TRHBTR2AFIS",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10803,8 +10803,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "995",
     "SWIFT Code": "TRHBTR2A995",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10816,8 +10816,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "INV",
     "SWIFT Code": "TRHBTR2AINV",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10829,8 +10829,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "914",
     "SWIFT Code": "TRHBTR2A914",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10842,8 +10842,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "116",
     "SWIFT Code": "TRHBTR2A116",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10855,8 +10855,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "TKS",
     "SWIFT Code": "TRHBTR2ATKS",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10868,8 +10868,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "958",
     "SWIFT Code": "TRHBTR2A958",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10881,8 +10881,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "RCN",
     "SWIFT Code": "TRHBTR2ARCN",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10894,8 +10894,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "SWF",
     "SWIFT Code": "TRHBTR2ASWF",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10907,8 +10907,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "TRY",
     "SWIFT Code": "TRHBTR2ATRY",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10920,8 +10920,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRHB",
-    "bankCode": "TR",
+    "bankCode": "TRHB",
+    "countryCode": "TR",
     "branchCode": "117",
     "SWIFT Code": "TRHBTR2A117",
     "Bank Name": "TURKIYE HALK BANKASI A.S. (HEAD OFFICE)",
@@ -10933,8 +10933,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIKB",
-    "bankCode": "TR",
+    "bankCode": "TIKB",
+    "countryCode": "TR",
     "branchCode": "KRD",
     "SWIFT Code": "TIKBTR2AKRD",
     "Bank Name": "TURKIYE IHRACAT KREDI BANKASI (TURK EXIMBANK)",
@@ -10946,8 +10946,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIKB",
-    "bankCode": "TR",
+    "bankCode": "TIKB",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "TIKBTR2A",
     "Bank Name": "TURKIYE IHRACAT KREDI BANKASI (TURK EXIMBANK)",
@@ -10959,8 +10959,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "TR",
+    "bankCode": "ISBK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "ISBKTRIS",
     "Bank Name": "TURKIYE IS BANKASI A.S.",
@@ -10972,8 +10972,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "TR",
+    "bankCode": "ISBK",
+    "countryCode": "TR",
     "branchCode": "CUS",
     "SWIFT Code": "ISBKTRISCUS",
     "Bank Name": "TURKIYE IS BANKASI A.S.",
@@ -10985,8 +10985,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "TR",
+    "bankCode": "ISBK",
+    "countryCode": "TR",
     "branchCode": "INT",
     "SWIFT Code": "ISBKTRISINT",
     "Bank Name": "TURKIYE IS BANKASI A.S.",
@@ -10998,8 +10998,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISBK",
-    "bankCode": "TR",
+    "bankCode": "ISBK",
+    "countryCode": "TR",
     "branchCode": "ISP",
     "SWIFT Code": "ISBKTRISISP",
     "Bank Name": "TURKIYE IS BANKASI A.S.",
@@ -11011,8 +11011,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKBN",
-    "bankCode": "TR",
+    "bankCode": "TKBN",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "TKBNTR2A",
     "Bank Name": "TURKIYE KALKINMA VE YATIRIM BANKASI A.S.",
@@ -11024,8 +11024,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSKB",
-    "bankCode": "TR",
+    "bankCode": "TSKB",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TSKBTRIS",
     "Bank Name": "TURKIYE SINAI KALKINMA BANKASI A.S.",
@@ -11037,8 +11037,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSCM",
-    "bankCode": "TR",
+    "bankCode": "SSCM",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "SSCMTRIS",
     "Bank Name": "TURKIYE SISE VE CAM FABRIKALARI A.S",
@@ -11050,8 +11050,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "TR",
+    "bankCode": "TVBA",
+    "countryCode": "TR",
     "branchCode": "R2A",
     "SWIFT Code": "TVBATR2A",
     "Bank Name": "TURKIYE VAKIFLAR BANKASI T.A.O.",
@@ -11063,8 +11063,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "TR",
+    "bankCode": "TVBA",
+    "countryCode": "TR",
     "branchCode": "CUS",
     "SWIFT Code": "TVBATR2ACUS",
     "Bank Name": "TURKIYE VAKIFLAR BANKASI T.A.O.",
@@ -11076,8 +11076,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "TR",
+    "bankCode": "TVBA",
+    "countryCode": "TR",
     "branchCode": "596",
     "SWIFT Code": "TVBATR2A596",
     "Bank Name": "TURKIYE VAKIFLAR BANKASI T.A.O.",
@@ -11089,8 +11089,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "TR",
+    "bankCode": "TVBA",
+    "countryCode": "TR",
     "branchCode": "FEX",
     "SWIFT Code": "TVBATR2AFEX",
     "Bank Name": "TURKIYE VAKIFLAR BANKASI T.A.O.",
@@ -11102,8 +11102,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "TR",
+    "bankCode": "TVBA",
+    "countryCode": "TR",
     "branchCode": "337",
     "SWIFT Code": "TVBATR2A337",
     "Bank Name": "TURKIYE VAKIFLAR BANKASI T.A.O.",
@@ -11115,8 +11115,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "036",
     "SWIFT Code": "TBNKTRIS036",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11128,8 +11128,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "022",
     "SWIFT Code": "TBNKTRIS022",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11141,8 +11141,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "010",
     "SWIFT Code": "TBNKTRIS010",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11154,8 +11154,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "030",
     "SWIFT Code": "TBNKTRIS030",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11167,8 +11167,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "042",
     "SWIFT Code": "TBNKTRIS042",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11180,8 +11180,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "040",
     "SWIFT Code": "TBNKTRIS040",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11193,8 +11193,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "RIS",
     "SWIFT Code": "TBNKTRIS",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11206,8 +11206,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "039",
     "SWIFT Code": "TBNKTRIS039",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11219,8 +11219,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "015",
     "SWIFT Code": "TBNKTRIS015",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11232,8 +11232,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "004",
     "SWIFT Code": "TBNKTRIS004",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11245,8 +11245,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "033",
     "SWIFT Code": "TBNKTRIS033",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11258,8 +11258,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "035",
     "SWIFT Code": "TBNKTRIS035",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",
@@ -11271,8 +11271,8 @@ const turkey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBNK",
-    "bankCode": "TR",
+    "bankCode": "TBNK",
+    "countryCode": "TR",
     "branchCode": "028",
     "SWIFT Code": "TBNKTRIS028",
     "Bank Name": "TURKLAND BANK A.S. (T-BANK)",

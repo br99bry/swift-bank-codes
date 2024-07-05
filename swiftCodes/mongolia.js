@@ -1,7 +1,7 @@
 const mongolia = [
   {
-    "countryCode": "ARGB",
-    "bankCode": "MN",
+    "bankCode": "ARGB",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "ARGBMNUB",
     "Bank Name": "ARIG BANK OF MONGOLIA (ARIG BANK LLC)",
@@ -13,8 +13,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOMU",
-    "bankCode": "MN",
+    "bankCode": "BOMU",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "BOMUMNUB",
     "Bank Name": "BANK OF MONGOLIA, THE",
@@ -26,8 +26,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOGD",
-    "bankCode": "MN",
+    "bankCode": "BOGD",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "BOGDMNUB",
     "Bank Name": "BOGD BANK",
@@ -39,8 +39,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBMN",
-    "bankCode": "MN",
+    "bankCode": "CBMN",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "CBMNMNUB",
     "Bank Name": "CAPITAL BANK OF MONGOLIA",
@@ -52,8 +52,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPIT",
-    "bankCode": "MN",
+    "bankCode": "CPIT",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "CPITMNUB",
     "Bank Name": "CAPITRON BANK",
@@ -65,8 +65,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHKH",
-    "bankCode": "MN",
+    "bankCode": "CHKH",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "CHKHMNUB",
     "Bank Name": "CHINGGIS KHAAN BANK",
@@ -78,8 +78,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBOM",
-    "bankCode": "MN",
+    "bankCode": "DBOM",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "DBOMMNUB",
     "Bank Name": "DEVELOPMENT BANK OF MONGOLIA",
@@ -91,8 +91,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLMT",
-    "bankCode": "MN",
+    "bankCode": "GLMT",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "GLMTMNUB",
     "Bank Name": "GOLOMT BANK OF MONGOLIA",
@@ -104,8 +104,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLMT",
-    "bankCode": "MN",
+    "bankCode": "GLMT",
+    "countryCode": "MN",
     "branchCode": "CUS",
     "SWIFT Code": "GLMTMNUBCUS",
     "Bank Name": "GOLOMT BANK OF MONGOLIA",
@@ -117,8 +117,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGMO",
-    "bankCode": "MN",
+    "bankCode": "AGMO",
+    "countryCode": "MN",
     "branchCode": "CUS",
     "SWIFT Code": "AGMOMNUBCUS",
     "Bank Name": "KHAN BANK JSC",
@@ -130,8 +130,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGMO",
-    "bankCode": "MN",
+    "bankCode": "AGMO",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "AGMOMNUB",
     "Bank Name": "KHAN BANK JSC",
@@ -143,8 +143,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBKN",
-    "bankCode": "MN",
+    "bankCode": "MBKN",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "MBKNMNUB",
     "Bank Name": "M BANK JSC",
@@ -156,8 +156,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNJS",
-    "bankCode": "MN",
+    "bankCode": "MNJS",
+    "countryCode": "MN",
     "branchCode": "NU2",
     "SWIFT Code": "MNJSMNU2",
     "Bank Name": "MONGOL POST JSC",
@@ -169,8 +169,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAIM",
-    "bankCode": "MN",
+    "bankCode": "NAIM",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "NAIMMNUB",
     "Bank Name": "NATIONAL INVESTMENT BANK OF MONGOLIA",
@@ -182,8 +182,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FSNL",
-    "bankCode": "MN",
+    "bankCode": "FSNL",
+    "countryCode": "MN",
     "branchCode": "NU2",
     "SWIFT Code": "FSNLMNU2",
     "Bank Name": "SENDMN NBFI",
@@ -195,8 +195,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBM",
-    "bankCode": "MN",
+    "bankCode": "STBM",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "STBMMNUB",
     "Bank Name": "STATE BANK",
@@ -208,8 +208,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TDBM",
-    "bankCode": "MN",
+    "bankCode": "TDBM",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "TDBMMNUB",
     "Bank Name": "TRADE AND DEVELOPMENT BANK JSC",
@@ -221,8 +221,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBOM",
-    "bankCode": "MN",
+    "bankCode": "TBOM",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "TBOMMNUB",
     "Bank Name": "TRANSBANK",
@@ -234,8 +234,8 @@ const mongolia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAXB",
-    "bankCode": "MN",
+    "bankCode": "CAXB",
+    "countryCode": "MN",
     "branchCode": "NUB",
     "SWIFT Code": "CAXBMNUB",
     "Bank Name": "XACBANK",

@@ -1,7 +1,7 @@
 const saintKittsAndNevis = [
   {
-    "countryCode": "BNEI",
-    "bankCode": "KN",
+    "bankCode": "BNEI",
+    "countryCode": "KN",
     "branchCode": "NNE",
     "SWIFT Code": "BNEIKNNE",
     "Bank Name": "BANK OF NEVIS INTERNATIONAL LIMITED",
@@ -13,8 +13,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNEV",
-    "bankCode": "KN",
+    "bankCode": "BNEV",
+    "countryCode": "KN",
     "branchCode": "NNE",
     "SWIFT Code": "BNEVKNNE",
     "Bank Name": "BANK OF NEVIS, THE",
@@ -26,8 +26,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECCB",
-    "bankCode": "KN",
+    "bankCode": "ECCB",
+    "countryCode": "KN",
     "branchCode": "NSK",
     "SWIFT Code": "ECCBKNSK",
     "Bank Name": "EASTERN CARIBBEAN CENTRAL BANK",
@@ -39,8 +39,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECSX",
-    "bankCode": "KN",
+    "bankCode": "ECSX",
+    "countryCode": "KN",
     "branchCode": "NSK",
     "SWIFT Code": "ECSXKNSK",
     "Bank Name": "EASTERN CARIBBEAN SECURITIES EXCHANGE LTD",
@@ -52,8 +52,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "KN",
+    "bankCode": "FCIB",
+    "countryCode": "KN",
     "branchCode": "NSK",
     "SWIFT Code": "FCIBKNSK",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
@@ -65,8 +65,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVKN",
-    "bankCode": "KN",
+    "bankCode": "GVKN",
+    "countryCode": "KN",
     "branchCode": "NSK",
     "SWIFT Code": "GVKNKNSK",
     "Bank Name": "GOVERMENT OF ST. KITTS AND NEVIS",
@@ -78,8 +78,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBT",
-    "bankCode": "KN",
+    "bankCode": "NIBT",
+    "countryCode": "KN",
     "branchCode": "NNE",
     "SWIFT Code": "NIBTKNNE",
     "Bank Name": "HAMILTON RESERVE BANK LTD.",
@@ -91,8 +91,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "KN",
+    "bankCode": "RBNK",
+    "countryCode": "KN",
     "branchCode": "NSK",
     "SWIFT Code": "RBNKKNSK",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -104,8 +104,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "KN",
+    "bankCode": "RBNK",
+    "countryCode": "KN",
     "branchCode": "KNA",
     "SWIFT Code": "RBNKKNSKKNA",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -117,8 +117,8 @@ const saintKittsAndNevis = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KNAN",
-    "bankCode": "KN",
+    "bankCode": "KNAN",
+    "countryCode": "KN",
     "branchCode": "NSK",
     "SWIFT Code": "KNANKNSK",
     "Bank Name": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",

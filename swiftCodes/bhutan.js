@@ -1,7 +1,7 @@
 const bhutan = [
   {
-    "countryCode": "BHUB",
-    "bankCode": "BT",
+    "bankCode": "BHUB",
+    "countryCode": "BT",
     "branchCode": "001",
     "SWIFT Code": "BHUBBTBT001",
     "Bank Name": "BANK OF BHUTAN LIMITED",
@@ -13,8 +13,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHUB",
-    "bankCode": "BT",
+    "bankCode": "BHUB",
+    "countryCode": "BT",
     "branchCode": "022",
     "SWIFT Code": "BHUBBTBT022",
     "Bank Name": "BANK OF BHUTAN LIMITED",
@@ -26,8 +26,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHUB",
-    "bankCode": "BT",
+    "bankCode": "BHUB",
+    "countryCode": "BT",
     "branchCode": "TBT",
     "SWIFT Code": "BHUBBTBT",
     "Bank Name": "BANK OF BHUTAN LIMITED",
@@ -39,8 +39,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHDE",
-    "bankCode": "BT",
+    "bankCode": "BHDE",
+    "countryCode": "BT",
     "branchCode": "TBT",
     "SWIFT Code": "BHDEBTBT",
     "Bank Name": "BHUTAN DEVELOPMENT BANK LIMITED",
@@ -52,8 +52,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBT",
-    "bankCode": "BT",
+    "bankCode": "BNBT",
+    "countryCode": "BT",
     "branchCode": "TBT",
     "SWIFT Code": "BNBTBTBT",
     "Bank Name": "BHUTAN NATIONAL BANK LTD",
@@ -65,8 +65,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIKI",
-    "bankCode": "BT",
+    "bankCode": "DIKI",
+    "countryCode": "BT",
     "branchCode": "TBB",
     "SWIFT Code": "DIKIBTBB",
     "Bank Name": "DK LIMITED",
@@ -78,8 +78,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIKI",
-    "bankCode": "BT",
+    "bankCode": "DIKI",
+    "countryCode": "BT",
     "branchCode": "ORO",
     "SWIFT Code": "DIKIBTBBORO",
     "Bank Name": "DK LIMITED",
@@ -91,8 +91,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUNB",
-    "bankCode": "BT",
+    "bankCode": "PUNB",
+    "countryCode": "BT",
     "branchCode": "TBT",
     "SWIFT Code": "PUNBBTBT",
     "Bank Name": "DRUK PNB BANK LIMITED",
@@ -104,8 +104,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RMAB",
-    "bankCode": "BT",
+    "bankCode": "RMAB",
+    "countryCode": "BT",
     "branchCode": "TBT",
     "SWIFT Code": "RMABBTBT",
     "Bank Name": "ROYAL MONETARY AUTHORITY OF BHUTAN",
@@ -117,8 +117,8 @@ const bhutan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBBT",
-    "bankCode": "BT",
+    "bankCode": "TBBT",
+    "countryCode": "BT",
     "branchCode": "TBT",
     "SWIFT Code": "TBBTBTBT",
     "Bank Name": "T BANK LTD",

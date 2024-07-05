@@ -1,7 +1,7 @@
 const romania = [
   {
-    "countryCode": "TNIS",
-    "bankCode": "RO",
+    "bankCode": "TNIS",
+    "countryCode": "RO",
     "branchCode": "OB2",
     "SWIFT Code": "TNISROB2",
     "Bank Name": "A1 TELECOM NETWORK ISP SRL",
@@ -13,8 +13,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBL",
-    "bankCode": "RO",
+    "bankCode": "RZBL",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "RZBLROBU",
     "Bank Name": "AEDIFICIUM BANCA PENTRU LOCUINTE S.A.",
@@ -26,8 +26,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBP",
-    "bankCode": "RO",
+    "bankCode": "ALBP",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "ALBPROBU",
     "Bank Name": "ALIOR BANK SA WARSAW BUCHAREST BRANCH",
@@ -39,8 +39,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUCU",
-    "bankCode": "RO",
+    "bankCode": "BUCU",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BUCUROBU",
     "Bank Name": "ALPHA BANK ROMANIA SA",
@@ -52,8 +52,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRCO",
-    "bankCode": "RO",
+    "bankCode": "CRCO",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "CRCOROBU",
     "Bank Name": "BANCA CENTRALA COOPERATISTA CREDITCOOP",
@@ -65,8 +65,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNCB",
-    "bankCode": "RO",
+    "bankCode": "RNCB",
+    "countryCode": "RO",
     "branchCode": "AR0",
     "SWIFT Code": "RNCBROBUAR0",
     "Bank Name": "BANCA COMERCIALA ROMANA S.A",
@@ -78,8 +78,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNCB",
-    "bankCode": "RO",
+    "bankCode": "RNCB",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "RNCBROBU",
     "Bank Name": "BANCA COMERCIALA ROMANA S.A",
@@ -91,8 +91,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNCB",
-    "bankCode": "RO",
+    "bankCode": "RNCB",
+    "countryCode": "RO",
     "branchCode": "CS0",
     "SWIFT Code": "RNCBROBUCS0",
     "Bank Name": "BANCA COMERCIALA ROMANA S.A",
@@ -104,8 +104,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNCB",
-    "bankCode": "RO",
+    "bankCode": "RNCB",
+    "countryCode": "RO",
     "branchCode": "CV0",
     "SWIFT Code": "RNCBROBUCV0",
     "Bank Name": "BANCA COMERCIALA ROMANA S.A",
@@ -117,8 +117,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNCB",
-    "bankCode": "RO",
+    "bankCode": "RNCB",
+    "countryCode": "RO",
     "branchCode": "IL0",
     "SWIFT Code": "RNCBROBUIL0",
     "Bank Name": "BANCA COMERCIALA ROMANA S.A",
@@ -130,8 +130,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIND",
-    "bankCode": "RO",
+    "bankCode": "MIND",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "MINDROBU",
     "Bank Name": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
@@ -143,8 +143,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "ABI",
     "SWIFT Code": "BTRLRO22ABI",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -156,8 +156,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "ABA",
     "SWIFT Code": "BTRLRO22ABA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -169,8 +169,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BH4",
     "SWIFT Code": "BTRLRO22BH4",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -182,8 +182,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "TRA",
     "SWIFT Code": "BTRLRO22TRA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -195,8 +195,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "AR1",
     "SWIFT Code": "BTRLRO22AR1",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -208,8 +208,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "AR2",
     "SWIFT Code": "BTRLRO22AR2",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -221,8 +221,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "ARA",
     "SWIFT Code": "BTRLRO22ARA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -234,8 +234,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BCA",
     "SWIFT Code": "BTRLRO22BCA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -247,8 +247,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "MMA",
     "SWIFT Code": "BTRLRO22MMA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -260,8 +260,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BHB",
     "SWIFT Code": "BTRLRO22BHB",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -273,8 +273,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BNA",
     "SWIFT Code": "BTRLRO22BNA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -286,8 +286,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BTA",
     "SWIFT Code": "BTRLRO22BTA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -299,8 +299,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BRA",
     "SWIFT Code": "BTRLRO22BRA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -312,8 +312,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BVA",
     "SWIFT Code": "BTRLRO22BVA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -325,8 +325,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BB4",
     "SWIFT Code": "BTRLRO22BB4",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -338,8 +338,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BB3",
     "SWIFT Code": "BTRLRO22BB3",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -351,8 +351,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BB2",
     "SWIFT Code": "BTRLRO22BB2",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -364,8 +364,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BBC",
     "SWIFT Code": "BTRLRO22BBC",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -377,8 +377,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BOT",
     "SWIFT Code": "BTRLRO22BOT",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -390,8 +390,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BVO",
     "SWIFT Code": "BTRLRO22BVO",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -403,8 +403,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BBL",
     "SWIFT Code": "BTRLRO22BBL",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -416,8 +416,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BB1",
     "SWIFT Code": "BTRLRO22BB1",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -429,8 +429,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BBB",
     "SWIFT Code": "BTRLRO22BBB",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -442,8 +442,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BBP",
     "SWIFT Code": "BTRLRO22BBP",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -455,8 +455,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BBA",
     "SWIFT Code": "BTRLRO22BBA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -468,8 +468,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BBV",
     "SWIFT Code": "BTRLRO22BBV",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -481,8 +481,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BZA",
     "SWIFT Code": "BTRLRO22BZA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -494,8 +494,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SMC",
     "SWIFT Code": "BTRLRO22SMC",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -507,8 +507,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "AR4",
     "SWIFT Code": "BTRLRO22AR4",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -520,8 +520,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "O22",
     "SWIFT Code": "BTRLRO22",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -533,8 +533,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJ8",
     "SWIFT Code": "BTRLRO22CJ8",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -546,8 +546,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BTS",
     "SWIFT Code": "BTRLRO22BTS",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -559,8 +559,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJA",
     "SWIFT Code": "BTRLRO22CJA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -572,8 +572,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJM",
     "SWIFT Code": "BTRLRO22CJM",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -585,8 +585,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJZ",
     "SWIFT Code": "BTRLRO22CJZ",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -598,8 +598,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CTA",
     "SWIFT Code": "BTRLRO22CTA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -611,8 +611,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "DJA",
     "SWIFT Code": "BTRLRO22DJA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -624,8 +624,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJD",
     "SWIFT Code": "BTRLRO22CJD",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -637,8 +637,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "HDA",
     "SWIFT Code": "BTRLRO22HDA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -650,8 +650,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRDE",
-    "bankCode": "RO",
+    "bankCode": "BRDE",
+    "countryCode": "RO",
     "branchCode": "CAM",
     "SWIFT Code": "BRDEROBUCAM",
     "Bank Name": "BRD - GROUPE SOCIETE GENERALE SA",
@@ -663,8 +663,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRDE",
-    "bankCode": "RO",
+    "bankCode": "BRDE",
+    "countryCode": "RO",
     "branchCode": "TIT",
     "SWIFT Code": "BRDEROBUTIT",
     "Bank Name": "BRD - GROUPE SOCIETE GENERALE SA",
@@ -676,8 +676,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPFS",
-    "bankCode": "RO",
+    "bankCode": "CPFS",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "CPFSROBU",
     "Bank Name": "CAPITAL FINANCIAL SERVICES SA",
@@ -689,8 +689,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBUH",
-    "bankCode": "RO",
+    "bankCode": "CBUH",
+    "countryCode": "RO",
     "branchCode": "OBB",
     "SWIFT Code": "CBUHROBB",
     "Bank Name": "CCP.RO BUCHAREST S.A.",
@@ -702,8 +702,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECE",
-    "bankCode": "RO",
+    "bankCode": "CECE",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "CECEROBU",
     "Bank Name": "CEC BANK-S.A.",
@@ -715,8 +715,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEZO",
-    "bankCode": "RO",
+    "bankCode": "CEZO",
+    "countryCode": "RO",
     "branchCode": "OBB",
     "SWIFT Code": "CEZOROBB",
     "Bank Name": "CEZ ROMANIA SA",
@@ -728,8 +728,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "RO",
+    "bankCode": "CITI",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "CITIROBU",
     "Bank Name": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
@@ -741,8 +741,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "RO",
+    "bankCode": "CITI",
+    "countryCode": "RO",
     "branchCode": "TGT",
     "SWIFT Code": "CITIROBUTGT",
     "Bank Name": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
@@ -754,8 +754,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "RO",
+    "bankCode": "CITI",
+    "countryCode": "RO",
     "branchCode": "TRD",
     "SWIFT Code": "CITIROBUTRD",
     "Bank Name": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
@@ -767,8 +767,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNNB",
-    "bankCode": "RO",
+    "bankCode": "FNNB",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "FNNBROBU",
     "Bank Name": "CREDIT EUROPE BANK (ROMANIA) S.A.",
@@ -780,8 +780,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DECN",
-    "bankCode": "RO",
+    "bankCode": "DECN",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "DECNROBU",
     "Bank Name": "DEPOZITARUL CENTRAL S.A.",
@@ -793,8 +793,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRMA",
-    "bankCode": "RO",
+    "bankCode": "BRMA",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BRMAROBU",
     "Bank Name": "EXIM BANCA ROMANEASCA S.A.",
@@ -806,8 +806,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNOI",
-    "bankCode": "RO",
+    "bankCode": "FNOI",
+    "countryCode": "RO",
     "branchCode": "OB2",
     "SWIFT Code": "FNOIROB2",
     "Bank Name": "FINANCE ONE IFN S.A.",
@@ -819,8 +819,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIRB",
-    "bankCode": "RO",
+    "bankCode": "PIRB",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "PIRBROBU",
     "Bank Name": "FIRST BANK",
@@ -832,8 +832,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UGBI",
-    "bankCode": "RO",
+    "bankCode": "UGBI",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "UGBIROBU",
     "Bank Name": "GARANTI BANK S.A.",
@@ -845,8 +845,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "RO",
+    "bankCode": "INGB",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "INGBROBU",
     "Bank Name": "ING BANK N.V., BUCHAREST BRANCH",
@@ -858,8 +858,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WBAN",
-    "bankCode": "RO",
+    "bankCode": "WBAN",
+    "countryCode": "RO",
     "branchCode": "O22",
     "SWIFT Code": "WBANRO22",
     "Bank Name": "INTESA SANPAOLO ROMANIA S.A.",
@@ -871,8 +871,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVVI",
-    "bankCode": "RO",
+    "bankCode": "IVVI",
+    "countryCode": "RO",
     "branchCode": "OB2",
     "SWIFT Code": "IVVIROB2",
     "Bank Name": "INVESTIMENTAL S.A.",
@@ -884,8 +884,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KMGR",
-    "bankCode": "RO",
+    "bankCode": "KMGR",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "KMGRROBU",
     "Bank Name": "KMG ROMPETROL SRL",
@@ -897,8 +897,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREL",
-    "bankCode": "RO",
+    "bankCode": "BREL",
+    "countryCode": "RO",
     "branchCode": "CAM",
     "SWIFT Code": "BRELROBUCAM",
     "Bank Name": "LIBRA BANK S.A.",
@@ -910,8 +910,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BREL",
-    "bankCode": "RO",
+    "bankCode": "BREL",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BRELROBU",
     "Bank Name": "LIBRA BANK S.A.",
@@ -923,8 +923,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TREZ",
-    "bankCode": "RO",
+    "bankCode": "TREZ",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "TREZROBU",
     "Bank Name": "MINISTRY OF FINANCE",
@@ -936,8 +936,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOR",
-    "bankCode": "RO",
+    "bankCode": "NBOR",
+    "countryCode": "RO",
     "branchCode": "OBP",
     "SWIFT Code": "NBORROBP",
     "Bank Name": "NATIONAL BANK OF ROMANIA",
@@ -949,8 +949,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOR",
-    "bankCode": "RO",
+    "bankCode": "NBOR",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "NBORROBU",
     "Bank Name": "NATIONAL BANK OF ROMANIA",
@@ -962,8 +962,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOR",
-    "bankCode": "RO",
+    "bankCode": "NBOR",
+    "countryCode": "RO",
     "branchCode": "OBA",
     "SWIFT Code": "NBORROBA",
     "Bank Name": "NATIONAL BANK OF ROMANIA - REGIS",
@@ -975,8 +975,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOR",
-    "bankCode": "RO",
+    "bankCode": "NBOR",
+    "countryCode": "RO",
     "branchCode": "OBB",
     "SWIFT Code": "NBORROBB",
     "Bank Name": "NATIONAL BANK OF ROMANIA - SAFIR",
@@ -988,8 +988,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMVP",
-    "bankCode": "RO",
+    "bankCode": "OMVP",
+    "countryCode": "RO",
     "branchCode": "OBB",
     "SWIFT Code": "OMVPROBB",
     "Bank Name": "OMV PETROM SA",
@@ -1001,8 +1001,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OTPV",
-    "bankCode": "RO",
+    "bankCode": "OTPV",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "OTPVROBU",
     "Bank Name": "OTP BANK ROMANIA S.A.",
@@ -1014,8 +1014,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARP",
-    "bankCode": "RO",
+    "bankCode": "CARP",
+    "countryCode": "RO",
     "branchCode": "O22",
     "SWIFT Code": "CARPRO22",
     "Bank Name": "PATRIA BANK S.A.",
@@ -1027,8 +1027,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPKO",
-    "bankCode": "RO",
+    "bankCode": "BPKO",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BPKOROBU",
     "Bank Name": "PKO BANK POLSKI S.A. VARSOVIA, SUCURSALA BUCURESTI",
@@ -1040,8 +1040,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PORL",
-    "bankCode": "RO",
+    "bankCode": "PORL",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "PORLROBU",
     "Bank Name": "PORSCHE BANK ROMANIA SA",
@@ -1053,8 +1053,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRO",
-    "bankCode": "RO",
+    "bankCode": "MIRO",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "MIROROBU",
     "Bank Name": "PROCREDIT BANK S.A.",
@@ -1066,8 +1066,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBR",
-    "bankCode": "RO",
+    "bankCode": "RZBR",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "RZBRROBU",
     "Bank Name": "RAIFFEISEN BANK S.A.",
@@ -1079,8 +1079,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "RO",
+    "bankCode": "REVO",
+    "countryCode": "RO",
     "branchCode": "OBB",
     "SWIFT Code": "REVOROBB",
     "Bank Name": "REVOLUT BANK UAB VILNIUS SUCURSALA BUCURESTI",
@@ -1092,8 +1092,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROIN",
-    "bankCode": "RO",
+    "bankCode": "ROIN",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "ROINROBU",
     "Bank Name": "SALT BANK SA",
@@ -1105,8 +1105,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUBG",
-    "bankCode": "RO",
+    "bankCode": "SUBG",
+    "countryCode": "RO",
     "branchCode": "OBB",
     "SWIFT Code": "SUBGROBB",
     "Bank Name": "SUPERBET",
@@ -1118,8 +1118,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBIB",
-    "bankCode": "RO",
+    "bankCode": "TBIB",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "TBIBROBU",
     "Bank Name": "TBI BANK EAD SOFIA BUCHAREST BRANCH",
@@ -1131,8 +1131,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFER",
-    "bankCode": "RO",
+    "bankCode": "BFER",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BFERROBU",
     "Bank Name": "TECHVENTURES BANK SA",
@@ -1144,8 +1144,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRPC",
-    "bankCode": "RO",
+    "bankCode": "TRPC",
+    "countryCode": "RO",
     "branchCode": "OB2",
     "SWIFT Code": "TRPCROB2",
     "Bank Name": "TRANSFER RAPID ELECTRONIC",
@@ -1157,8 +1157,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRPC",
-    "bankCode": "RO",
+    "bankCode": "TRPC",
+    "countryCode": "RO",
     "branchCode": "TRE",
     "SWIFT Code": "TRPCROB2TRE",
     "Bank Name": "TRANSFER RAPID ELECTRONIC",
@@ -1170,8 +1170,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRFD",
-    "bankCode": "RO",
+    "bankCode": "TRFD",
+    "countryCode": "RO",
     "branchCode": "OBS",
     "SWIFT Code": "TRFDROBS",
     "Bank Name": "TRANSFOND S.A.",
@@ -1183,8 +1183,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRFD",
-    "bankCode": "RO",
+    "bankCode": "TRFD",
+    "countryCode": "RO",
     "branchCode": "SNT",
     "SWIFT Code": "TRFDROBSSNT",
     "Bank Name": "TRANSFOND S.A.",
@@ -1196,8 +1196,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "RO",
+    "bankCode": "BACX",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BACXROBU",
     "Bank Name": "UNICREDIT BANK SA",
@@ -1209,8 +1209,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "RO",
+    "bankCode": "PANX",
+    "countryCode": "RO",
     "branchCode": "O22",
     "SWIFT Code": "PANXRO22",
     "Bank Name": "UNIFIEDPOST PAYMENTS LA HULPE SUCURSALA TIMISOARA",
@@ -1222,8 +1222,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGNA",
-    "bankCode": "RO",
+    "bankCode": "EGNA",
+    "countryCode": "RO",
     "branchCode": "OBX",
     "SWIFT Code": "EGNAROBX",
     "Bank Name": "VISTA BANK (ROMANIA) S.A.",
@@ -1235,8 +1235,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "RO",
+    "bankCode": "VPAY",
+    "countryCode": "RO",
     "branchCode": "OB2",
     "SWIFT Code": "VPAYROB2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A SUCURSALA BUCURESTI",
@@ -1248,8 +1248,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "VLD",
     "SWIFT Code": "BTRLRO22VLD",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1261,8 +1261,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BVF",
     "SWIFT Code": "BTRLRO22BVF",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1274,8 +1274,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SVF",
     "SWIFT Code": "BTRLRO22SVF",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1287,8 +1287,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "VRA",
     "SWIFT Code": "BTRLRO22VRA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1300,8 +1300,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "GLA",
     "SWIFT Code": "BTRLRO22GLA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1313,8 +1313,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJG",
     "SWIFT Code": "BTRLRO22CJG",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1326,8 +1326,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "GRA",
     "SWIFT Code": "BTRLRO22GRA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1339,8 +1339,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJH",
     "SWIFT Code": "BTRLRO22CJH",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1352,8 +1352,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "ISA",
     "SWIFT Code": "BTRLRO22ISA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1365,8 +1365,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "AR5",
     "SWIFT Code": "BTRLRO22AR5",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1378,8 +1378,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "TML",
     "SWIFT Code": "BTRLRO22TML",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1391,8 +1391,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CTM",
     "SWIFT Code": "BTRLRO22CTM",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1404,8 +1404,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "AR3",
     "SWIFT Code": "BTRLRO22AR3",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1417,8 +1417,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "HRO",
     "SWIFT Code": "BTRLRO22HRO",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1430,8 +1430,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BCO",
     "SWIFT Code": "BTRLRO22BCO",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1443,8 +1443,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BHA",
     "SWIFT Code": "BTRLRO22BHA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1456,8 +1456,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "HDP",
     "SWIFT Code": "BTRLRO22HDP",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1469,8 +1469,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "NTA",
     "SWIFT Code": "BTRLRO22NTA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1482,8 +1482,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "AGA",
     "SWIFT Code": "BTRLRO22AGA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1495,8 +1495,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "PHA",
     "SWIFT Code": "BTRLRO22PHA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1508,8 +1508,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SVR",
     "SWIFT Code": "BTRLRO22SVR",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1521,8 +1521,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "BZR",
     "SWIFT Code": "BTRLRO22BZR",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1534,8 +1534,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "VLA",
     "SWIFT Code": "BTRLRO22VLA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1547,8 +1547,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "MSR",
     "SWIFT Code": "BTRLRO22MSR",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1560,8 +1560,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CSA",
     "SWIFT Code": "BTRLRO22CSA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1573,8 +1573,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "NTR",
     "SWIFT Code": "BTRLRO22NTR",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1586,8 +1586,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SMA",
     "SWIFT Code": "BTRLRO22SMA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1599,8 +1599,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CVA",
     "SWIFT Code": "BTRLRO22CVA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1612,8 +1612,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SBA",
     "SWIFT Code": "BTRLRO22SBA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1625,8 +1625,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "MMS",
     "SWIFT Code": "BTRLRO22MMS",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1638,8 +1638,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "OTA",
     "SWIFT Code": "BTRLRO22OTA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1651,8 +1651,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "ILA",
     "SWIFT Code": "BTRLRO22ILA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1664,8 +1664,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SVA",
     "SWIFT Code": "BTRLRO22SVA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1677,8 +1677,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "DBA",
     "SWIFT Code": "BTRLRO22DBA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1690,8 +1690,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "GJA",
     "SWIFT Code": "BTRLRO22GJA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1703,8 +1703,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "MSA",
     "SWIFT Code": "BTRLRO22MSA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1716,8 +1716,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "NTT",
     "SWIFT Code": "BTRLRO22NTT",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1729,8 +1729,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CVT",
     "SWIFT Code": "BTRLRO22CVT",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1742,8 +1742,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "GLT",
     "SWIFT Code": "BTRLRO22GLT",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1755,8 +1755,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "TMA",
     "SWIFT Code": "BTRLRO22TMA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1768,8 +1768,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "CJT",
     "SWIFT Code": "BTRLRO22CJT",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1781,8 +1781,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "MHA",
     "SWIFT Code": "BTRLRO22MHA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1794,8 +1794,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SVV",
     "SWIFT Code": "BTRLRO22SVV",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1807,8 +1807,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTRL",
-    "bankCode": "RO",
+    "bankCode": "BTRL",
+    "countryCode": "RO",
     "branchCode": "SJA",
     "SWIFT Code": "BTRLRO22SJA",
     "Bank Name": "BANCA TRANSILVANIA S.A.",
@@ -1820,8 +1820,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "RO",
+    "bankCode": "BKCH",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BKCHROBU",
     "Bank Name": "BANK OF CHINA (CENTRAL AND EASTERN EUROPE) LIMITED BUCHAREST BRANCH",
@@ -1833,8 +1833,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "RO",
+    "bankCode": "BLOM",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BLOMROBU",
     "Bank Name": "BANQUE BANORIENT FRANCE",
@@ -1846,8 +1846,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCRL",
-    "bankCode": "RO",
+    "bankCode": "BCRL",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BCRLROBU",
     "Bank Name": "BCR BANCA PENTRU LOCUINTE S.A.",
@@ -1859,8 +1859,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "RO",
+    "bankCode": "BNPA",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BNPAROBU",
     "Bank Name": "BNP PARIBAS PERSONAL FINANCE S.A. PARIS SUCURSALA BUCURESTI",
@@ -1872,8 +1872,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTSB",
-    "bankCode": "RO",
+    "bankCode": "FTSB",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "FTSBROBU",
     "Bank Name": "BNP PARIBAS S.A. PARIS SUCURSALA BUCURESTI",
@@ -1885,8 +1885,8 @@ const romania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRDE",
-    "bankCode": "RO",
+    "bankCode": "BRDE",
+    "countryCode": "RO",
     "branchCode": "OBU",
     "SWIFT Code": "BRDEROBU",
     "Bank Name": "BRD - GROUPE SOCIETE GENERALE SA",

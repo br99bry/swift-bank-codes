@@ -1,7 +1,7 @@
 const tanzania = [
   {
-    "countryCode": "NMIB",
-    "bankCode": "TZ",
+    "bankCode": "NMIB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "NMIBTZTZ",
     "Bank Name": "NMB BANK PLC",
@@ -13,8 +13,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZA",
-    "bankCode": "TZ",
+    "bankCode": "PBZA",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "PBZATZTZ",
     "Bank Name": "PEOPLE'S BANK OF ZANZIBAR, THE",
@@ -26,8 +26,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZA",
-    "bankCode": "TZ",
+    "bankCode": "PBZA",
+    "countryCode": "TZ",
     "branchCode": "CHK",
     "SWIFT Code": "PBZATZTZCHK",
     "Bank Name": "PEOPLE'S BANK OF ZANZIBAR, THE",
@@ -39,8 +39,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBZA",
-    "bankCode": "TZ",
+    "bankCode": "PBZA",
+    "countryCode": "TZ",
     "branchCode": "NWK",
     "SWIFT Code": "PBZATZTZNWK",
     "Bank Name": "PEOPLE'S BANK OF ZANZIBAR, THE",
@@ -52,8 +52,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "TZ",
+    "bankCode": "SBIC",
+    "countryCode": "TZ",
     "branchCode": "ZTX",
     "SWIFT Code": "SBICTZTX",
     "Bank Name": "STANBIC BANK TANZANIA LIMITED",
@@ -65,8 +65,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TZ",
+    "bankCode": "SCBL",
+    "countryCode": "TZ",
     "branchCode": "ZTX",
     "SWIFT Code": "SCBLTZTX",
     "Bank Name": "STANDARD CHARTERED BANK TANZANIA LTD",
@@ -78,8 +78,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "TZ",
+    "bankCode": "SCBL",
+    "countryCode": "TZ",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLTZTXSSU",
     "Bank Name": "STANDARD CHARTERED BANK TANZANIA LTD",
@@ -91,8 +91,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TZAD",
-    "bankCode": "TZ",
+    "bankCode": "TZAD",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "TZADTZTZ",
     "Bank Name": "TANZANIA AGRICULTURAL DEVELOPMENT BANK",
@@ -104,8 +104,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAPB",
-    "bankCode": "TZ",
+    "bankCode": "TAPB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "TAPBTZTZ",
     "Bank Name": "TANZANIA COMMMERCIAL BANK PLC",
@@ -118,8 +118,8 @@ const tanzania = [
   },
   {},
   {
-    "countryCode": "UCCT",
-    "bankCode": "TZ",
+    "bankCode": "UCCT",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "UCCTTZTZ",
     "Bank Name": "UCHUMI COMMERCIAL BANK LTD",
@@ -131,8 +131,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "TZ",
+    "bankCode": "UNAF",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "UNAFTZTZ",
     "Bank Name": "UNITED BANK FOR AFRICA (TANZANIA) LIMITED",
@@ -144,8 +144,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YETM",
-    "bankCode": "TZ",
+    "bankCode": "YETM",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "YETMTZTZ",
     "Bank Name": "YETU MICROFINANCE BANK PLC",
@@ -157,8 +157,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "TZ",
+    "bankCode": "BARC",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "BARCTZTZ",
     "Bank Name": "ABSA BANK TANZANIA LIMITED",
@@ -170,8 +170,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACTZ",
-    "bankCode": "TZ",
+    "bankCode": "ACTZ",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "ACTZTZTZ",
     "Bank Name": "ACCESS MICROFINANCE BANK TANZANIA LTD",
@@ -183,8 +183,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMBZ",
-    "bankCode": "TZ",
+    "bankCode": "FMBZ",
+    "countryCode": "TZ",
     "branchCode": "ZTX",
     "SWIFT Code": "FMBZTZTX",
     "Bank Name": "AFRICAN BANKING CORPORATION TANZANIA LIMITED",
@@ -196,8 +196,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKCO",
-    "bankCode": "TZ",
+    "bankCode": "AKCO",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "AKCOTZTZ",
     "Bank Name": "AKIBA COMMERCIAL BANK PLC",
@@ -209,8 +209,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMNN",
-    "bankCode": "TZ",
+    "bankCode": "AMNN",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "AMNNTZTZ",
     "Bank Name": "AMANA BANK LIMITED",
@@ -222,8 +222,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZAN",
-    "bankCode": "TZ",
+    "bankCode": "AZAN",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "AZANTZTZ",
     "Bank Name": "AZANIA BANK LIMITED",
@@ -235,8 +235,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUAF",
-    "bankCode": "TZ",
+    "bankCode": "EUAF",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "EUAFTZTZ",
     "Bank Name": "BANK OF AFRICA TANZANIA LIMITED",
@@ -248,8 +248,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "TZ",
+    "bankCode": "BARB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "BARBTZTZ",
     "Bank Name": "BANK OF BARODA (TANZANIA) LTD",
@@ -261,8 +261,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "TZ",
+    "bankCode": "BKID",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "BKIDTZTZ",
     "Bank Name": "BANK OF INDIA (TANZANIA) LIMITED",
@@ -274,8 +274,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TANZ",
-    "bankCode": "TZ",
+    "bankCode": "TANZ",
+    "countryCode": "TZ",
     "branchCode": "ZTX",
     "SWIFT Code": "TANZTZTX",
     "Bank Name": "BANK OF TANZANIA",
@@ -287,8 +287,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTI",
-    "bankCode": "TZ",
+    "bankCode": "BCTI",
+    "countryCode": "TZ",
     "branchCode": "ZTT",
     "SWIFT Code": "BCTITZTT",
     "Bank Name": "BUSINESS CONNEXION (TANZANIA) LIMITED",
@@ -300,8 +300,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNRB",
-    "bankCode": "TZ",
+    "bankCode": "CNRB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "CNRBTZTZ",
     "Bank Name": "CANARA BANK  (TANZANIA) LTD",
@@ -313,8 +313,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDSH",
-    "bankCode": "TZ",
+    "bankCode": "CDSH",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "CDSHTZTZ",
     "Bank Name": "CHINA DASHENG BANK LIMITED",
@@ -326,8 +326,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "TZ",
+    "bankCode": "CITI",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "CITITZTZ",
     "Bank Name": "CITIBANK TANZANIA LTD",
@@ -339,8 +339,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORU",
-    "bankCode": "TZ",
+    "bankCode": "CORU",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "CORUTZTZ",
     "Bank Name": "CRDB BANK PLC",
@@ -352,8 +352,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSTX",
-    "bankCode": "TZ",
+    "bankCode": "DSTX",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "DSTXTZTZ",
     "Bank Name": "DAR ES SALAAM STOCK EXCHANGE",
@@ -365,8 +365,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DASU",
-    "bankCode": "TZ",
+    "bankCode": "DASU",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "DASUTZTZ",
     "Bank Name": "DCB COMMERCIAL BANK PLC",
@@ -378,8 +378,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTKE",
-    "bankCode": "TZ",
+    "bankCode": "DTKE",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "DTKETZTZ",
     "Bank Name": "DIAMOND TRUST BANK TANZANIA PUBLIC LIMITED COMPANY",
@@ -391,8 +391,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "TZ",
+    "bankCode": "ECOC",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "ECOCTZTZ",
     "Bank Name": "ECOBANK TANZANIA LIMITED",
@@ -404,8 +404,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQBL",
-    "bankCode": "TZ",
+    "bankCode": "EQBL",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "EQBLTZTZ",
     "Bank Name": "EQUITY BANK TANZANIA LIMITED",
@@ -417,8 +417,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTN",
-    "bankCode": "TZ",
+    "bankCode": "EXTN",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "EXTNTZTZ",
     "Bank Name": "EXIMBANK (TANZANIA) LTD",
@@ -430,8 +430,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTN",
-    "bankCode": "TZ",
+    "bankCode": "EXTN",
+    "countryCode": "TZ",
     "branchCode": "TFD",
     "SWIFT Code": "EXTNTZTZTFD",
     "Bank Name": "EXIMBANK (TANZANIA) LTD",
@@ -443,8 +443,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNMI",
-    "bankCode": "TZ",
+    "bankCode": "FNMI",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "FNMITZTZ",
     "Bank Name": "FINCA MICROFINANCE BANK LIMITED",
@@ -456,8 +456,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "TZ",
+    "bankCode": "GTBI",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "GTBITZTZ",
     "Bank Name": "GUARANTY TRUST BANK TANZANIA LTD",
@@ -469,8 +469,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABL",
-    "bankCode": "TZ",
+    "bankCode": "HABL",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "HABLTZTZ",
     "Bank Name": "HABIB AFRICAN BANK",
@@ -482,8 +482,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMBL",
-    "bankCode": "TZ",
+    "bankCode": "IMBL",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "IMBLTZTZ",
     "Bank Name": "I AND M BANK (T) LIMITED",
@@ -495,8 +495,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKMY",
-    "bankCode": "TZ",
+    "bankCode": "BKMY",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "BKMYTZTZ",
     "Bank Name": "INTERNATIONAL COMMERCIAL BANK (TANZANIA) LIMITED",
@@ -508,8 +508,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCBL",
-    "bankCode": "TZ",
+    "bankCode": "KCBL",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "KCBLTZTZ",
     "Bank Name": "KCB BANK TANZANIA LIMITED",
@@ -521,8 +521,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLMJ",
-    "bankCode": "TZ",
+    "bankCode": "KLMJ",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "KLMJTZTZ",
     "Bank Name": "KILIMANJARO CO-OPERATIVE BANK LTD",
@@ -534,8 +534,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADVB",
-    "bankCode": "TZ",
+    "bankCode": "ADVB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "ADVBTZTZ",
     "Bank Name": "LETSHEGO BANK (T) LIMITED",
@@ -547,8 +547,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTL",
-    "bankCode": "TZ",
+    "bankCode": "MBTL",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "MBTLTZTZ",
     "Bank Name": "MAENDELEO BANK PLC",
@@ -560,8 +560,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MKCB",
-    "bankCode": "TZ",
+    "bankCode": "MKCB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "MKCBTZTZ",
     "Bank Name": "MKOMBOZI COMMERCIAL BANK LTD",
@@ -573,8 +573,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUOB",
-    "bankCode": "TZ",
+    "bankCode": "MUOB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "MUOBTZTZ",
     "Bank Name": "MUCOBA BANK PLC",
@@ -586,8 +586,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MWCO",
-    "bankCode": "TZ",
+    "bankCode": "MWCO",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "MWCOTZTZ",
     "Bank Name": "MWALIMU COMMERCIAL BANK PLC",
@@ -599,8 +599,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MWCB",
-    "bankCode": "TZ",
+    "bankCode": "MWCB",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "MWCBTZTZ",
     "Bank Name": "MWANGA HAKIKA BANK LIMITED",
@@ -612,8 +612,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "0T4",
     "SWIFT Code": "NLCBTZTX0T4",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -625,8 +625,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "0T3",
     "SWIFT Code": "NLCBTZTX0T3",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -638,8 +638,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "FIN",
     "SWIFT Code": "NLCBTZTXFIN",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -651,8 +651,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "ZTX",
     "SWIFT Code": "NLCBTZTX",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -664,8 +664,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "IND",
     "SWIFT Code": "NLCBTZTXIND",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -677,8 +677,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "KIC",
     "SWIFT Code": "NLCBTZTXKIC",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -690,8 +690,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "MNA",
     "SWIFT Code": "NLCBTZTXMNA",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -703,8 +703,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "0T8",
     "SWIFT Code": "NLCBTZTX0T8",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -716,8 +716,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "MBE",
     "SWIFT Code": "NLCBTZTXMBE",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -729,8 +729,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "MOR",
     "SWIFT Code": "NLCBTZTXMOR",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -742,8 +742,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "0TM",
     "SWIFT Code": "NLCBTZTX0TM",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -755,8 +755,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "0T5",
     "SWIFT Code": "NLCBTZTX0T5",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -768,8 +768,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "TAN",
     "SWIFT Code": "NLCBTZTXTAN",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -781,8 +781,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLCB",
-    "bankCode": "TZ",
+    "bankCode": "NLCB",
+    "countryCode": "TZ",
     "branchCode": "ZAN",
     "SWIFT Code": "NLCBTZTXZAN",
     "Bank Name": "NATIONAL BANK OF COMMERCE, THE",
@@ -794,8 +794,8 @@ const tanzania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAF",
-    "bankCode": "TZ",
+    "bankCode": "CBAF",
+    "countryCode": "TZ",
     "branchCode": "ZTZ",
     "SWIFT Code": "CBAFTZTZ",
     "Bank Name": "NCBA BANK TANZANIA LIMITED",

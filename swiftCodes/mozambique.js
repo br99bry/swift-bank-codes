@@ -1,7 +1,7 @@
 const mozambique = [
   {
-    "countryCode": "ABMZ",
-    "bankCode": "MZ",
+    "bankCode": "ABMZ",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "ABMZMZMA",
     "Bank Name": "ABSA BANK MOCAMBIQUE,SA",
@@ -13,8 +13,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNG",
-    "bankCode": "MZ",
+    "bankCode": "ABNG",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "ABNGMZMA",
     "Bank Name": "ACCESS BANK MOZAMBIQUE, SA",
@@ -26,8 +26,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIG",
-    "bankCode": "MZ",
+    "bankCode": "BDIG",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "BDIGMZMA",
     "Bank Name": "BANCO BIG MOCAMBIQUE, S.A.",
@@ -39,8 +39,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMOC",
-    "bankCode": "MZ",
+    "bankCode": "BMOC",
+    "countryCode": "MZ",
     "branchCode": "ZMP",
     "SWIFT Code": "BMOCMZMP",
     "Bank Name": "BANCO DE MOCAMBIQUE",
@@ -52,8 +52,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMOC",
-    "bankCode": "MZ",
+    "bankCode": "BMOC",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "BMOCMZMA",
     "Bank Name": "BANCO DE MOCAMBIQUE",
@@ -65,8 +65,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMO",
-    "bankCode": "MZ",
+    "bankCode": "BIMO",
+    "countryCode": "MZ",
     "branchCode": "ZMX",
     "SWIFT Code": "BIMOMZMX",
     "Bank Name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
@@ -78,8 +78,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMO",
-    "bankCode": "MZ",
+    "bankCode": "BIMO",
+    "countryCode": "MZ",
     "branchCode": "FIN",
     "SWIFT Code": "BIMOMZMXFIN",
     "Bank Name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
@@ -91,8 +91,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMO",
-    "bankCode": "MZ",
+    "bankCode": "BIMO",
+    "countryCode": "MZ",
     "branchCode": "INT",
     "SWIFT Code": "BIMOMZMXINT",
     "Bank Name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
@@ -104,8 +104,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAIS",
-    "bankCode": "MZ",
+    "bankCode": "MAIS",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "MAISMZMA",
     "Bank Name": "BANCO MAIS, SA",
@@ -117,8 +117,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIM",
-    "bankCode": "MZ",
+    "bankCode": "BNIM",
+    "countryCode": "MZ",
     "branchCode": "ZMP",
     "SWIFT Code": "BNIMMZMP",
     "Bank Name": "BANCO NACIONAL DE INVESTIMENTO, SA",
@@ -130,8 +130,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "MZ",
+    "bankCode": "SOGE",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "SOGEMZMA",
     "Bank Name": "BANCO SOCIETE GENERALE (MOCAMBIQUE) S.A.",
@@ -143,8 +143,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "MZ",
+    "bankCode": "CGDI",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "CGDIMZMA",
     "Bank Name": "BCI",
@@ -156,8 +156,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "MZ",
+    "bankCode": "ECOC",
+    "countryCode": "MZ",
     "branchCode": "ZMP",
     "SWIFT Code": "ECOCMZMP",
     "Bank Name": "ECOBANK MOCAMBIQUE, S.A.",
@@ -169,8 +169,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCG",
-    "bankCode": "MZ",
+    "bankCode": "FRCG",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "FRCGMZMA",
     "Bank Name": "FIRST CAPITAL BANK SA",
@@ -182,8 +182,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "MZ",
+    "bankCode": "FIRN",
+    "countryCode": "MZ",
     "branchCode": "ZMX",
     "SWIFT Code": "FIRNMZMX",
     "Bank Name": "FNB MOZAMBIQUE,SA",
@@ -195,8 +195,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOZA",
-    "bankCode": "MZ",
+    "bankCode": "MOZA",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "MOZAMZMA",
     "Bank Name": "MOZA BANCO SA",
@@ -208,8 +208,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIC",
-    "bankCode": "MZ",
+    "bankCode": "UNIC",
+    "countryCode": "MZ",
     "branchCode": "ZMX",
     "SWIFT Code": "UNICMZMX",
     "Bank Name": "NEDBANK MOCAMBIQUE, S.A.",
@@ -221,8 +221,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "MZ",
+    "bankCode": "SBIC",
+    "countryCode": "MZ",
     "branchCode": "ZMX",
     "SWIFT Code": "SBICMZMX",
     "Bank Name": "STANDARD BANK SA",
@@ -234,8 +234,8 @@ const mozambique = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "MZ",
+    "bankCode": "UNAF",
+    "countryCode": "MZ",
     "branchCode": "ZMA",
     "SWIFT Code": "UNAFMZMA",
     "Bank Name": "UBA MOCAMBIQUE,SA",

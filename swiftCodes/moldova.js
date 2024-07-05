@@ -1,7 +1,7 @@
 const moldova = [
   {
-    "countryCode": "CMTB",
-    "bankCode": "MD",
+    "bankCode": "CMTB",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "CMTBMD2X",
     "Bank Name": "BANCA COMERCIALA 'COMERTBANK' S.A.",
@@ -13,8 +13,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXMM",
-    "bankCode": "MD",
+    "bankCode": "EXMM",
+    "countryCode": "MD",
     "branchCode": "D22",
     "SWIFT Code": "EXMMMD22",
     "Bank Name": "BANCA COMERCIALA EXIMBANK S.A.",
@@ -26,8 +26,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTMD",
-    "bankCode": "MD",
+    "bankCode": "FTMD",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "FTMDMD2X",
     "Bank Name": "BANCA DE FINANTE SI COMERT S.A. (FINCOMBANK S.A.)",
@@ -39,8 +39,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENEG",
-    "bankCode": "MD",
+    "bankCode": "ENEG",
+    "countryCode": "MD",
     "branchCode": "D22",
     "SWIFT Code": "ENEGMD22",
     "Bank Name": "BC ENERGBANK S.A.",
@@ -52,8 +52,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECBM",
-    "bankCode": "MD",
+    "bankCode": "ECBM",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "ECBMMD2X",
     "Bank Name": "BC EUROCREDITBANK S.A.",
@@ -65,8 +65,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRN",
-    "bankCode": "MD",
+    "bankCode": "AGRN",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "AGRNMD2X",
     "Bank Name": "BC MOLDOVA - AGROINDBANK S.A.",
@@ -78,8 +78,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "MD",
+    "bankCode": "PRCB",
+    "countryCode": "MD",
     "branchCode": "D22",
     "SWIFT Code": "PRCBMD22",
     "Bank Name": "BC PROCREDIT BANK S.A.",
@@ -91,8 +91,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VICB",
-    "bankCode": "MD",
+    "bankCode": "VICB",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "VICBMD2X",
     "Bank Name": "JOINT-STOCK COMMERCIAL VICTORIABANK",
@@ -104,8 +104,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLD",
-    "bankCode": "MD",
+    "bankCode": "MOLD",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "MOLDMD2X",
     "Bank Name": "MOLDINDCONBANK",
@@ -117,8 +117,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBMD",
-    "bankCode": "MD",
+    "bankCode": "NBMD",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "NBMDMD2X",
     "Bank Name": "NATIONAL BANK OF MOLDOVA",
@@ -130,8 +130,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOBB",
-    "bankCode": "MD",
+    "bankCode": "MOBB",
+    "countryCode": "MD",
     "branchCode": "D22",
     "SWIFT Code": "MOBBMD22",
     "Bank Name": "OTP BANK S.A.",
@@ -143,8 +143,8 @@ const moldova = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RNCB",
-    "bankCode": "MD",
+    "bankCode": "RNCB",
+    "countryCode": "MD",
     "branchCode": "D2X",
     "SWIFT Code": "RNCBMD2X",
     "Bank Name": "ROMANIAN COMMERCIAL BANK CHISINAU S.A.",

@@ -1,7 +1,7 @@
 const stVincentAndGrenadines = [
   {
-    "countryCode": "NCBV",
-    "bankCode": "VC",
+    "bankCode": "NCBV",
+    "countryCode": "VC",
     "branchCode": "C22",
     "SWIFT Code": "NCBVVC22",
     "Bank Name": "BANK OF ST. VINCENT AND THE GRENADINES LTD.",
@@ -13,8 +13,8 @@ const stVincentAndGrenadines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVVG",
-    "bankCode": "VC",
+    "bankCode": "GVVG",
+    "countryCode": "VC",
     "branchCode": "CVC",
     "SWIFT Code": "GVVGVCVC",
     "Bank Name": "GOVERNMENT OF ST.VINCENT AND THE GRENADINES",
@@ -26,8 +26,8 @@ const stVincentAndGrenadines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPBB",
-    "bankCode": "VC",
+    "bankCode": "MPBB",
+    "countryCode": "VC",
     "branchCode": "CVC",
     "SWIFT Code": "MPBBVCVC",
     "Bank Name": "MPB BANK LTD",
@@ -39,8 +39,8 @@ const stVincentAndGrenadines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "VC",
+    "bankCode": "RBNK",
+    "countryCode": "VC",
     "branchCode": "CVC",
     "SWIFT Code": "RBNKVCVC",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -52,8 +52,8 @@ const stVincentAndGrenadines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "VC",
+    "bankCode": "RBNK",
+    "countryCode": "VC",
     "branchCode": "SVG",
     "SWIFT Code": "RBNKVCVCSVG",
     "Bank Name": "REPUBLIC BANK (EC) LIMITED",
@@ -65,8 +65,8 @@ const stVincentAndGrenadines = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STCV",
-    "bankCode": "VC",
+    "bankCode": "STCV",
+    "countryCode": "VC",
     "branchCode": "CVC",
     "SWIFT Code": "STCVVCVC",
     "Bank Name": "THE SAINT VINCENT CO-OPERATIVE BANK LIMITED",

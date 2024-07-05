@@ -1,7 +1,7 @@
 const coteDivoire = [
   {
-    "countryCode": "BICI",
-    "bankCode": "CI",
+    "bankCode": "BICI",
+    "countryCode": "CI",
     "branchCode": "PLT",
     "SWIFT Code": "BICICIABPLT",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
@@ -13,8 +13,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "CI",
+    "bankCode": "BICI",
+    "countryCode": "CI",
     "branchCode": "SUD",
     "SWIFT Code": "BICICIABSUD",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
@@ -26,8 +26,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "CI",
+    "bankCode": "BICI",
+    "countryCode": "CI",
     "branchCode": "BKE",
     "SWIFT Code": "BICICIABBKE",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
@@ -39,8 +39,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSOI",
-    "bankCode": "CI",
+    "bankCode": "BSOI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BSOICIAB",
     "Bank Name": "BANQUE MALIENNE DE SOLIDARITE COTE D'IVOIRE",
@@ -52,8 +52,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSSS",
-    "bankCode": "CI",
+    "bankCode": "CSSS",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "CSSSCIAB",
     "Bank Name": "BANQUE NATIONALE D'INVESTISSEMENT",
@@ -65,8 +65,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNCG",
-    "bankCode": "CI",
+    "bankCode": "CNCG",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "CNCGCIAB",
     "Bank Name": "BANQUE POPULAIRE DE COTE D'IVOIRE",
@@ -79,8 +79,8 @@ const coteDivoire = [
   },
   {},
   {
-    "countryCode": "BGFI",
-    "bankCode": "CI",
+    "bankCode": "BGFI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BGFICIAB",
     "Bank Name": "BGFIBANK COTE D'IVOIRE",
@@ -92,8 +92,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGCD",
-    "bankCode": "CI",
+    "bankCode": "BGCD",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BGCDCIAB",
     "Bank Name": "BRIDGE BANK GROUP COTE D'IVOIRE",
@@ -105,8 +105,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "CI",
+    "bankCode": "BSAH",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BSAHCIAB",
     "Bank Name": "BSIC COTE D'IVOIRE",
@@ -118,8 +118,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "CI",
+    "bankCode": "CITI",
+    "countryCode": "CI",
     "branchCode": "IAX",
     "SWIFT Code": "CITICIAX",
     "Bank Name": "CITIBANK COTE D'IVOIRE SA",
@@ -131,8 +131,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBCI",
-    "bankCode": "CI",
+    "bankCode": "IBCI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "IBCICIAB",
     "Bank Name": "COFIPA INVESTMENT BANK CI",
@@ -144,8 +144,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIVD",
-    "bankCode": "CI",
+    "bankCode": "CIVD",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "CIVDCIAB",
     "Bank Name": "COMPAGNIE IVOIRIENNE D'ELECTRICITE",
@@ -157,8 +157,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "CI",
+    "bankCode": "CORI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "CORICIAB",
     "Bank Name": "CORIS BANK INTERNATIONAL",
@@ -170,8 +170,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "CI",
+    "bankCode": "ECOC",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "ECOCCIAB",
     "Bank Name": "ECOBANK - COTE D'IVOIRE S.A.",
@@ -183,8 +183,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "CI",
+    "bankCode": "GTBI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "GTBICIAB",
     "Bank Name": "GUARANTY TRUST BANK COTE D'IVOIRE",
@@ -196,8 +196,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNSA",
-    "bankCode": "CI",
+    "bankCode": "MNSA",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "MNSACIAB",
     "Bank Name": "MANSA BANK",
@@ -209,8 +209,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAO",
-    "bankCode": "CI",
+    "bankCode": "BIAO",
+    "countryCode": "CI",
     "branchCode": "GIN",
     "SWIFT Code": "BIAOCIABGIN",
     "Bank Name": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
@@ -222,8 +222,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAO",
-    "bankCode": "CI",
+    "bankCode": "BIAO",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BIAOCIAB",
     "Bank Name": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
@@ -235,8 +235,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAO",
-    "bankCode": "CI",
+    "bankCode": "BIAO",
+    "countryCode": "CI",
     "branchCode": "DMB",
     "SWIFT Code": "BIAOCIABDMB",
     "Bank Name": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
@@ -248,8 +248,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAO",
-    "bankCode": "CI",
+    "bankCode": "BIAO",
+    "countryCode": "CI",
     "branchCode": "032",
     "SWIFT Code": "BIAOCIAB032",
     "Bank Name": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
@@ -261,8 +261,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAO",
-    "bankCode": "CI",
+    "bankCode": "BIAO",
+    "countryCode": "CI",
     "branchCode": "034",
     "SWIFT Code": "BIAOCIAB034",
     "Bank Name": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
@@ -276,8 +276,8 @@ const coteDivoire = [
   {},
   {},
   {
-    "countryCode": "ORBK",
-    "bankCode": "CI",
+    "bankCode": "ORBK",
+    "countryCode": "CI",
     "branchCode": "BF1",
     "SWIFT Code": "ORBKCIABBF1",
     "Bank Name": "ORABANK COTE D'IVOIRE",
@@ -289,8 +289,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "CI",
+    "bankCode": "ORBK",
+    "countryCode": "CI",
     "branchCode": "ML1",
     "SWIFT Code": "ORBKCIABML1",
     "Bank Name": "ORABANK COTE D'IVOIRE",
@@ -303,8 +303,8 @@ const coteDivoire = [
   },
   {},
   {
-    "countryCode": "ORBK",
-    "bankCode": "CI",
+    "bankCode": "ORBK",
+    "countryCode": "CI",
     "branchCode": "SN2",
     "SWIFT Code": "ORBKCIABSN2",
     "Bank Name": "ORABANK COTE D'IVOIRE",
@@ -316,8 +316,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORAC",
-    "bankCode": "CI",
+    "bankCode": "ORAC",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "ORACCIAB",
     "Bank Name": "ORANGE BANK AFRICA",
@@ -329,8 +329,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCI",
-    "bankCode": "CI",
+    "bankCode": "SGCI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "SGCICIAB",
     "Bank Name": "SOCIETE GENERALE COTE D'IVOIRE",
@@ -342,8 +342,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIVB",
-    "bankCode": "CI",
+    "bankCode": "SIVB",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "SIVBCIAB",
     "Bank Name": "SOCIETE IVOIRIENNE DE BANQUE",
@@ -355,8 +355,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "CI",
+    "bankCode": "SBIC",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "SBICCIAB",
     "Bank Name": "STANBIC BANK",
@@ -368,8 +368,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CI",
+    "bankCode": "SCBL",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "SCBLCIAB",
     "Bank Name": "STANDARD CHARTERED BANK COTE D'IVOIRE",
@@ -381,8 +381,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "CI",
+    "bankCode": "SCBL",
+    "countryCode": "CI",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLCIABSSU",
     "Bank Name": "STANDARD CHARTERED BANK COTE D'IVOIRE",
@@ -395,8 +395,8 @@ const coteDivoire = [
   },
   {},
   {
-    "countryCode": "UNAF",
-    "bankCode": "CI",
+    "bankCode": "UNAF",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "UNAFCIAB",
     "Bank Name": "UNITED BANK FOR AFRICA COTE D'IVOIRE",
@@ -408,8 +408,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSBK",
-    "bankCode": "CI",
+    "bankCode": "VSBK",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "VSBKCIAB",
     "Bank Name": "VERSUS BANK",
@@ -421,8 +421,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFGI",
-    "bankCode": "CI",
+    "bankCode": "AFGI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "AFGICIAB",
     "Bank Name": "AFG BANK COTE D'IVOIRE",
@@ -434,8 +434,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "SRP",
     "SWIFT Code": "AFDBCIABSRP",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -447,8 +447,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "MDT",
     "SWIFT Code": "AFDBCIABMDT",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -460,8 +460,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "ITF",
     "SWIFT Code": "AFDBCIABITF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -473,8 +473,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "LTW",
     "SWIFT Code": "AFDBCIABLTW",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -486,8 +486,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "AGT",
     "SWIFT Code": "AFDBCIABAGT",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -499,8 +499,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "DRC",
     "SWIFT Code": "AFDBCIABDRC",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -512,8 +512,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "ATF",
     "SWIFT Code": "AFDBCIABATF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -525,8 +525,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "AWF",
     "SWIFT Code": "AFDBCIABAWF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -538,8 +538,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "CBF",
     "SWIFT Code": "AFDBCIABCBF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -551,8 +551,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "FAP",
     "SWIFT Code": "AFDBCIABFAP",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -564,8 +564,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "MCB",
     "SWIFT Code": "AFDBCIABMCB",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -577,8 +577,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "NPD",
     "SWIFT Code": "AFDBCIABNPD",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -590,8 +590,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "SEF",
     "SWIFT Code": "AFDBCIABSEF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -603,8 +603,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "SRF",
     "SWIFT Code": "AFDBCIABSRF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -616,8 +616,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "ZMD",
     "SWIFT Code": "AFDBCIABZMD",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -629,8 +629,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "AMI",
     "SWIFT Code": "AFDBCIABAMI",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -642,8 +642,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "MIC",
     "SWIFT Code": "AFDBCIABMIC",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -655,8 +655,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "FSF",
     "SWIFT Code": "AFDBCIABFSF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -668,8 +668,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "AFDBCIAB",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -681,8 +681,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "NTF",
     "SWIFT Code": "AFDBCIABNTF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -694,8 +694,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "PRS",
     "SWIFT Code": "AFDBCIABPRS",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -707,8 +707,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "WAT",
     "SWIFT Code": "AFDBCIABWAT",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -720,8 +720,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "ADF",
     "SWIFT Code": "AFDBCIABADF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -733,8 +733,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "AIF",
     "SWIFT Code": "AFDBCIABAIF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -746,8 +746,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "ALS",
     "SWIFT Code": "AFDBCIABALS",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -759,8 +759,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "ARE",
     "SWIFT Code": "AFDBCIABARE",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -772,8 +772,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "GAF",
     "SWIFT Code": "AFDBCIABGAF",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -785,8 +785,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "MFW",
     "SWIFT Code": "AFDBCIABMFW",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -798,8 +798,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "PID",
     "SWIFT Code": "AFDBCIABPID",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -811,8 +811,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "RWS",
     "SWIFT Code": "AFDBCIABRWS",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -824,8 +824,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFDB",
-    "bankCode": "CI",
+    "bankCode": "AFDB",
+    "countryCode": "CI",
     "branchCode": "TRY",
     "SWIFT Code": "AFDBCIABTRY",
     "Bank Name": "AFRICAN DEVELOPMENT BANK",
@@ -837,8 +837,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMFN",
-    "bankCode": "CI",
+    "bankCode": "OMFN",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "OMFNCIAB",
     "Bank Name": "AFRILAND FIRST BANK COTE D'IVOIRE",
@@ -850,8 +850,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOAC",
-    "bankCode": "CI",
+    "bankCode": "SOAC",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "SOACCIAB",
     "Bank Name": "ALIOS FINANCE (SAFCA)",
@@ -863,8 +863,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "CI",
+    "bankCode": "AFRI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "AFRICIAB",
     "Bank Name": "BANK OF AFRICA - COTE D'IVOIRE",
@@ -876,8 +876,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCI",
-    "bankCode": "CI",
+    "bankCode": "ATCI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "ATCICIAB",
     "Bank Name": "BANQUE ATLANTIQUE COTE D'IVOIRE",
@@ -889,8 +889,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATCI",
-    "bankCode": "CI",
+    "bankCode": "ATCI",
+    "countryCode": "CI",
     "branchCode": "SAN",
     "SWIFT Code": "ATCICIABSAN",
     "Bank Name": "BANQUE ATLANTIQUE COTE D'IVOIRE",
@@ -902,8 +902,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "ABE",
     "SWIFT Code": "BCAOCIABABE",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -915,8 +915,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BCAOCIAB",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -928,8 +928,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "BOU",
     "SWIFT Code": "BCAOCIABBOU",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -941,8 +941,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "DAL",
     "SWIFT Code": "BCAOCIABDAL",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -954,8 +954,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "KOR",
     "SWIFT Code": "BCAOCIABKOR",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -967,8 +967,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "MAN",
     "SWIFT Code": "BCAOCIABMAN",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -980,8 +980,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "CI",
+    "bankCode": "BCAO",
+    "countryCode": "CI",
     "branchCode": "SAN",
     "SWIFT Code": "BCAOCIABSAN",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -993,8 +993,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDAJ",
-    "bankCode": "CI",
+    "bankCode": "BDAJ",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BDAJCIAB",
     "Bank Name": "BANQUE DABIDJAN, SA.",
@@ -1006,8 +1006,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHCI",
-    "bankCode": "CI",
+    "bankCode": "BHCI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BHCICIAB",
     "Bank Name": "BANQUE DE L'HABITAT DE COTE D'IVOIRE",
@@ -1019,8 +1019,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDUT",
-    "bankCode": "CI",
+    "bankCode": "BDUT",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BDUTCIAB",
     "Bank Name": "BANQUE DE L'UNION - COTE D'IVOIRE",
@@ -1032,8 +1032,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BQTR",
-    "bankCode": "CI",
+    "bankCode": "BQTR",
+    "countryCode": "CI",
     "branchCode": "IAD",
     "SWIFT Code": "BQTRCIAD",
     "Bank Name": "BANQUE DES DEPOTS DU TRESOR PUBLIC",
@@ -1045,8 +1045,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "CI",
+    "bankCode": "BICI",
+    "countryCode": "CI",
     "branchCode": "BSE",
     "SWIFT Code": "BICICIABBSE",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
@@ -1058,8 +1058,8 @@ const coteDivoire = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "CI",
+    "bankCode": "BICI",
+    "countryCode": "CI",
     "branchCode": "IAB",
     "SWIFT Code": "BICICIAB",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",

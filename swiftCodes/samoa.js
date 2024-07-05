@@ -1,7 +1,7 @@
 const samoa = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "WS",
+    "bankCode": "ANZB",
+    "countryCode": "WS",
     "branchCode": "SWW",
     "SWIFT Code": "ANZBWSWW",
     "Bank Name": "ANZ BANK (SAMOA) LTD",
@@ -13,8 +13,8 @@ const samoa = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "WS",
+    "bankCode": "BOSP",
+    "countryCode": "WS",
     "branchCode": "SWS",
     "SWIFT Code": "BOSPWSWS",
     "Bank Name": "BANK SOUTH PACIFIC (SAMOA) LIMITED",
@@ -26,8 +26,8 @@ const samoa = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSA",
-    "bankCode": "WS",
+    "bankCode": "CBSA",
+    "countryCode": "WS",
     "branchCode": "SWS",
     "SWIFT Code": "CBSAWSWS",
     "Bank Name": "CENTRAL BANK OF SAMOA",
@@ -39,8 +39,8 @@ const samoa = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSL",
-    "bankCode": "WS",
+    "bankCode": "NBSL",
+    "countryCode": "WS",
     "branchCode": "SWS",
     "SWIFT Code": "NBSLWSWS",
     "Bank Name": "NATIONAL BANK OF SAMOA LIMITED",
@@ -52,8 +52,8 @@ const samoa = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCOB",
-    "bankCode": "WS",
+    "bankCode": "SCOB",
+    "countryCode": "WS",
     "branchCode": "SWS",
     "SWIFT Code": "SCOBWSWS",
     "Bank Name": "SAMOA COMMERCIAL BANK LIMITED",

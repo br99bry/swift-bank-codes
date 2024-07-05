@@ -1,7 +1,7 @@
 const senegal = [
   {
-    "countryCode": "ABSH",
-    "bankCode": "SN",
+    "bankCode": "ABSH",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ABSHSNDA",
     "Bank Name": "ABS SA",
@@ -13,8 +13,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASSA",
-    "bankCode": "SN",
+    "bankCode": "ASSA",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ASSASNDA",
     "Bank Name": "AIR SENEGAL SA",
@@ -26,8 +26,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFRI",
-    "bankCode": "SN",
+    "bankCode": "AFRI",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "AFRISNDA",
     "Bank Name": "BANK OF AFRICA-SENEGAL",
@@ -39,8 +39,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATSN",
-    "bankCode": "SN",
+    "bankCode": "ATSN",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ATSNSNDA",
     "Bank Name": "BANQUE ATLANTIQUE SENEGAL",
@@ -52,8 +52,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "SN",
+    "bankCode": "BCAO",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BCAOSNDA",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -65,8 +65,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "SN",
+    "bankCode": "BCAO",
+    "countryCode": "SN",
     "branchCode": "001",
     "SWIFT Code": "BCAOSNDA001",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -78,8 +78,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "SN",
+    "bankCode": "BCAO",
+    "countryCode": "SN",
     "branchCode": "KAO",
     "SWIFT Code": "BCAOSNDAKAO",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -91,8 +91,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "SN",
+    "bankCode": "BCAO",
+    "countryCode": "SN",
     "branchCode": "ZIG",
     "SWIFT Code": "BCAOSNDAZIG",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -104,8 +104,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "SN",
+    "bankCode": "BCAO",
+    "countryCode": "SN",
     "branchCode": "NDP",
     "SWIFT Code": "BCAOSNDP",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST (B.C.E.A.O.)",
@@ -117,8 +117,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "SN",
+    "bankCode": "BCAO",
+    "countryCode": "SN",
     "branchCode": "NDD",
     "SWIFT Code": "BCAOSNDD",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST (B.C.E.A.O.)",
@@ -130,8 +130,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDKR",
-    "bankCode": "SN",
+    "bankCode": "BDKR",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BDKRSNDA",
     "Bank Name": "BANQUE DE DAKAR SA",
@@ -143,8 +143,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDMA",
-    "bankCode": "SN",
+    "bankCode": "BDMA",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BDMASNDA",
     "Bank Name": "BANQUE DE DEVELOPPEMENT MALI (BDM), SUCCURSALE DU SENEGAL",
@@ -156,8 +156,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LHSE",
-    "bankCode": "SN",
+    "bankCode": "LHSE",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "LHSESNDA",
     "Bank Name": "BANQUE DE L'HABITAT DU SENEGAL",
@@ -169,8 +169,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMU",
-    "bankCode": "SN",
+    "bankCode": "BIMU",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BIMUSNDA",
     "Bank Name": "BANQUE DES INSTITUTIONS MUTUALISTES D'AFRIQUE DE L'OUEST",
@@ -182,8 +182,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICI",
-    "bankCode": "SN",
+    "bankCode": "BICI",
+    "countryCode": "SN",
     "branchCode": "NDX",
     "SWIFT Code": "BICISNDX",
     "Bank Name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DU SENEGAL",
@@ -195,8 +195,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISSN",
-    "bankCode": "SN",
+    "bankCode": "ISSN",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ISSNSNDA",
     "Bank Name": "BANQUE ISLAMIQUE DU SENEGAL",
@@ -208,8 +208,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNDX",
-    "bankCode": "SN",
+    "bankCode": "BNDX",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BNDXSNDA",
     "Bank Name": "BANQUE NATIONALE POUR LE DEVELOPPEMENT ECONOMIQUE DU SENEGAL (BNDE)",
@@ -221,8 +221,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COLI",
-    "bankCode": "SN",
+    "bankCode": "COLI",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "COLISNDA",
     "Bank Name": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE SENEGAL",
@@ -234,8 +234,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRMX",
-    "bankCode": "SN",
+    "bankCode": "BRMX",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BRMXSNDA",
     "Bank Name": "BANQUE REGIONALE DE MARCHES",
@@ -247,8 +247,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "SN",
+    "bankCode": "BSAH",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BSAHSNDA",
     "Bank Name": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (SENEGAL) S.A.",
@@ -260,8 +260,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGFI",
-    "bankCode": "SN",
+    "bankCode": "BGFI",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BGFISNDA",
     "Bank Name": "BGFIBANK SENEGAL",
@@ -273,8 +273,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGCD",
-    "bankCode": "SN",
+    "bankCode": "BGCD",
+    "countryCode": "SN",
     "branchCode": "NDK",
     "SWIFT Code": "BGCDSNDK",
     "Bank Name": "BRIDGE BANK SENEGAL",
@@ -286,8 +286,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCD",
-    "bankCode": "SN",
+    "bankCode": "CDCD",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "CDCDSNDA",
     "Bank Name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
@@ -299,8 +299,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAO",
-    "bankCode": "SN",
+    "bankCode": "CBAO",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "CBAOSNDA",
     "Bank Name": "CBAO, GROUPE ATTIJARIWAFA BANK",
@@ -312,8 +312,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SN",
+    "bankCode": "CITI",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "CITISNDA",
     "Bank Name": "CITIBANK N.A.",
@@ -325,8 +325,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "SN",
+    "bankCode": "CORI",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "CORISNDA",
     "Bank Name": "CORIS BANK INTERNATIONAL SENEGAL SA",
@@ -338,8 +338,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "SN",
+    "bankCode": "BCMA",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "BCMASNDA",
     "Bank Name": "CREDIT DU SENEGAL",
@@ -351,8 +351,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLIB",
-    "bankCode": "SN",
+    "bankCode": "CLIB",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "CLIBSNDA",
     "Bank Name": "CREDIT INTERNATIONAL SA",
@@ -364,8 +364,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "SN",
+    "bankCode": "ECOC",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ECOCSNDA",
     "Bank Name": "ECOBANK SENEGAL",
@@ -377,8 +377,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICSG",
-    "bankCode": "SN",
+    "bankCode": "ICSG",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ICSGSNDA",
     "Bank Name": "FBNBANK SENEGAL",
@@ -390,8 +390,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CADK",
-    "bankCode": "SN",
+    "bankCode": "CADK",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "CADKSNDA",
     "Bank Name": "LA BANQUE AGRICOLE",
@@ -403,8 +403,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OUTR",
-    "bankCode": "SN",
+    "bankCode": "OUTR",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "OUTRSNDA",
     "Bank Name": "LA BANQUE OUTARDE",
@@ -416,8 +416,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNAO",
-    "bankCode": "SN",
+    "bankCode": "FNAO",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "FNAOSNDA",
     "Bank Name": "LA FINANCIERE DE L'AFRIQUE DE L'OUEST - LA FINAO",
@@ -429,8 +429,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBLN",
-    "bankCode": "SN",
+    "bankCode": "DBLN",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "DBLNSNDA",
     "Bank Name": "NSIA BANQUE SENEGAL",
@@ -442,8 +442,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "SN",
+    "bankCode": "ORBK",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "ORBKSNDA",
     "Bank Name": "ORABANK SENEGAL",
@@ -455,8 +455,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSN",
-    "bankCode": "SN",
+    "bankCode": "SGSN",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "SGSNSNDA",
     "Bank Name": "SOCIETE GENERALE SENEGAL",
@@ -468,8 +468,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSN",
-    "bankCode": "SN",
+    "bankCode": "SGSN",
+    "countryCode": "SN",
     "branchCode": "IBE",
     "SWIFT Code": "SGSNSNDAIBE",
     "Bank Name": "SOCIETE GENERALE SENEGAL",
@@ -481,8 +481,8 @@ const senegal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAF",
-    "bankCode": "SN",
+    "bankCode": "UNAF",
+    "countryCode": "SN",
     "branchCode": "NDA",
     "SWIFT Code": "UNAFSNDA",
     "Bank Name": "UNITED BANK FOR AFRICA SENEGAL",

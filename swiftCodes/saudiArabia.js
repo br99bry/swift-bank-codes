@@ -1,7 +1,7 @@
 const saudiArabia = [
   {
-    "countryCode": "CITI",
-    "bankCode": "SA",
+    "bankCode": "CITI",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "CITISARI",
     "Bank Name": "CITIGROUP SAUDI ARABIA",
@@ -13,8 +13,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "SA",
+    "bankCode": "CITI",
+    "countryCode": "SA",
     "branchCode": "SIG",
     "SWIFT Code": "CITISARISIG",
     "Bank Name": "CITIGROUP SAUDI ARABIA",
@@ -26,8 +26,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "SA",
+    "bankCode": "CRES",
+    "countryCode": "SA",
     "branchCode": "ARY",
     "SWIFT Code": "CRESSARY",
     "Bank Name": "CREDIT SUISSE AG, RIYADH BRANCH",
@@ -39,8 +39,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "SA",
+    "bankCode": "CRES",
+    "countryCode": "SA",
     "branchCode": "20R",
     "SWIFT Code": "CRESSARA20R",
     "Bank Name": "CREDIT SUISSE SAUDI ARABIA",
@@ -52,8 +52,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "SA",
+    "bankCode": "CRES",
+    "countryCode": "SA",
     "branchCode": "ARA",
     "SWIFT Code": "CRESSARA",
     "Bank Name": "CREDIT SUISSE SAUDI ARABIA",
@@ -65,8 +65,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBAK",
-    "bankCode": "SA",
+    "bankCode": "DBAK",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "DBAKSARI",
     "Bank Name": "D360 BANK",
@@ -78,8 +78,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DERF",
-    "bankCode": "SA",
+    "bankCode": "DERF",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "DERFSARI",
     "Bank Name": "DERAYAH FINANCIAL COMPANY",
@@ -91,8 +91,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "GES",
     "SWIFT Code": "DEUTSARIGES",
     "Bank Name": "DEUTSCHE BANK AG, RIYADH BRANCH",
@@ -104,8 +104,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "DEUTSARI",
     "Bank Name": "DEUTSCHE BANK AG, RIYADH BRANCH",
@@ -117,8 +117,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "ARA",
     "SWIFT Code": "DEUTSARA",
     "Bank Name": "DEUTSCHE BANK AG, RIYADH BRANCH",
@@ -130,8 +130,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "AWM",
     "SWIFT Code": "DEUTSARAAWM",
     "Bank Name": "DEUTSCHE BANK AG, RIYADH BRANCH",
@@ -143,8 +143,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTSARACUS",
     "Bank Name": "DEUTSCHE BANK AG, RIYADH BRANCH",
@@ -156,8 +156,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTSARICUS",
     "Bank Name": "DEUTSCHE BANK AG, RIYADH BRANCH",
@@ -169,8 +169,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "SA",
+    "bankCode": "DEUT",
+    "countryCode": "SA",
     "branchCode": "ARB",
     "SWIFT Code": "DEUTSARB",
     "Bank Name": "DEUTSCHE SECURITIES SAUDI ARABIA",
@@ -182,8 +182,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLMR",
-    "bankCode": "SA",
+    "bankCode": "SLMR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SLMRSARI",
     "Bank Name": "DR. SULAIMAN AL-HABIB MEDICAL SERVICES GROUP COMPANY",
@@ -195,8 +195,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "SA",
+    "bankCode": "EBIL",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "EBILSARI",
     "Bank Name": "EMIRATES NBD PJSC",
@@ -208,8 +208,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFHC",
-    "bankCode": "SA",
+    "bankCode": "SFHC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SFHCSARI",
     "Bank Name": "FAS HOLDING",
@@ -221,8 +221,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAAH",
-    "bankCode": "SA",
+    "bankCode": "FAAH",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "FAAHSARI",
     "Bank Name": "FAWAZ A AL HOKAIR AND CO",
@@ -234,8 +234,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FABM",
-    "bankCode": "SA",
+    "bankCode": "FABM",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "FABMSARI",
     "Bank Name": "FIRST ABU DHABI BANK",
@@ -247,8 +247,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FABM",
-    "bankCode": "SA",
+    "bankCode": "FABM",
+    "countryCode": "SA",
     "branchCode": "CHN",
     "SWIFT Code": "FABMSARICHN",
     "Bank Name": "FIRST ABU DHABI BANK",
@@ -260,8 +260,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "SA",
+    "bankCode": "GULF",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "GULFSARI",
     "Bank Name": "GULF INTERNATIONAL BANK (GIB) SAUDI ARABIA,       S.C.J.S.C.",
@@ -273,8 +273,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HINC",
-    "bankCode": "SA",
+    "bankCode": "HINC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "HINCSARI",
     "Bank Name": "HASSANA INVESTMENT COMPANY",
@@ -286,8 +286,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "SA",
+    "bankCode": "ICBK",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ICBKSARI",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA RIYADH BRANCH, SA",
@@ -299,8 +299,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IENE",
-    "bankCode": "SA",
+    "bankCode": "IENE",
+    "countryCode": "SA",
     "branchCode": "ADH",
     "SWIFT Code": "IENESADH",
     "Bank Name": "INDUSTRIALIZATION AND ENERGY SERVICES CO. (TAQA)",
@@ -312,8 +312,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACWA",
-    "bankCode": "SA",
+    "bankCode": "ACWA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ACWASARI",
     "Bank Name": "INTERNATIONAL CO. FOR WATER AND POWER PROJECTS",
@@ -325,8 +325,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITFK",
-    "bankCode": "SA",
+    "bankCode": "ITFK",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "ITFKSAJE",
     "Bank Name": "INTERNATIONAL ISLAMIC TRADE FINANCE CORPORATION (MEMBER ISLAMIC DEVELOPMENT BANK GROUP)",
@@ -339,8 +339,8 @@ const saudiArabia = [
   },
   {},
   {
-    "countryCode": "ICDK",
-    "bankCode": "SA",
+    "bankCode": "ICDK",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "ICDKSAJE",
     "Bank Name": "ISLAMIC CORPORATION FOR THE DEVELOPMENT OF THE PRIVATE SECTOR (MEMBER, ISLAMIC DEVELOPMENT BANK GROUP)",
@@ -352,8 +352,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISLD",
-    "bankCode": "SA",
+    "bankCode": "ISLD",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "ISLDSAJE",
     "Bank Name": "ISLAMIC DEVELOPMENT BANK",
@@ -365,8 +365,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISLD",
-    "bankCode": "SA",
+    "bankCode": "ISLD",
+    "countryCode": "SA",
     "branchCode": "ICD",
     "SWIFT Code": "ISLDSAJEICD",
     "Bank Name": "ISLAMIC DEVELOPMENT BANK",
@@ -378,8 +378,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISLD",
-    "bankCode": "SA",
+    "bankCode": "ISLD",
+    "countryCode": "SA",
     "branchCode": "ITF",
     "SWIFT Code": "ISLDSAJEITF",
     "Bank Name": "ISLAMIC DEVELOPMENT BANK",
@@ -391,8 +391,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMG",
-    "bankCode": "SA",
+    "bankCode": "JPMG",
+    "countryCode": "SA",
     "branchCode": "ARY",
     "SWIFT Code": "JPMGSARY",
     "Bank Name": "J.P. MORGAN SAUDI ARABIA COMPANY",
@@ -404,8 +404,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMG",
-    "bankCode": "SA",
+    "bankCode": "JPMG",
+    "countryCode": "SA",
     "branchCode": "DCC",
     "SWIFT Code": "JPMGSARYDCC",
     "Bank Name": "J.P. MORGAN SAUDI ARABIA COMPANY",
@@ -417,8 +417,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCDN",
-    "bankCode": "SA",
+    "bankCode": "JCDN",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "JCDNSAJE",
     "Bank Name": "JEDDAH CENTRAL DEVELOPMENT COMPANY",
@@ -430,8 +430,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JHAH",
-    "bankCode": "SA",
+    "bankCode": "JHAH",
+    "countryCode": "SA",
     "branchCode": "ADH",
     "SWIFT Code": "JHAHSADH",
     "Bank Name": "JOHNS HOPKINS ARAMCO HEALTHCARE",
@@ -443,8 +443,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "SA",
+    "bankCode": "CHAS",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "CHASSARI",
     "Bank Name": "JPMORGAN CHASE BANK, N.A. RIYADH",
@@ -456,8 +456,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "SA",
+    "bankCode": "CHAS",
+    "countryCode": "SA",
     "branchCode": "SAU",
     "SWIFT Code": "CHASSARISAU",
     "Bank Name": "JPMORGAN CHASE BANK, N.A. RIYADH",
@@ -469,8 +469,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLSA",
-    "bankCode": "SA",
+    "bankCode": "MLSA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "MLSASARI",
     "Bank Name": "MERRILL LYNCH KINGDOM OF SAUDI ARABIA",
@@ -482,8 +482,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETIS",
-    "bankCode": "SA",
+    "bankCode": "ETIS",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ETISSARI",
     "Bank Name": "MOBILY",
@@ -495,8 +495,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "SA",
+    "bankCode": "BOTK",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BOTKSARI",
     "Bank Name": "MUFG BANK, LTD. RIYADH BRANCH",
@@ -508,8 +508,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCLC",
-    "bankCode": "SA",
+    "bankCode": "NCLC",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NCLCSAJE",
     "Bank Name": "NAHDI CARE CLINICS",
@@ -521,8 +521,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NHDI",
-    "bankCode": "SA",
+    "bankCode": "NHDI",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NHDISAJE",
     "Bank Name": "NAHDI MEDICAL COMPANY",
@@ -534,8 +534,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBIQ",
-    "bankCode": "SA",
+    "bankCode": "NBIQ",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NBIQSARI",
     "Bank Name": "NATIONAL BANK OF  IRAQ KSA BRANCH",
@@ -547,8 +547,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "SA",
+    "bankCode": "NBOB",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NBOBSARI",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -560,8 +560,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "SA",
+    "bankCode": "NBOB",
+    "countryCode": "SA",
     "branchCode": "TOP",
     "SWIFT Code": "NBOBSARITOP",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -573,8 +573,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBEG",
-    "bankCode": "SA",
+    "bankCode": "NBEG",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NBEGSARI",
     "Bank Name": "NATIONAL BANK OF EGYPT - RIYADH BRANCH",
@@ -586,8 +586,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "SA",
+    "bankCode": "NBOK",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NBOKSAJE",
     "Bank Name": "NATIONAL BANK OF KUWAIT",
@@ -599,8 +599,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "SA",
+    "bankCode": "NBPA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NBPASARI",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -612,8 +612,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBCC",
-    "bankCode": "SA",
+    "bankCode": "NBCC",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NBCCSAJE",
     "Bank Name": "NATIONAL BISCUITS AND CONFECTIONERY COMPANY",
@@ -625,8 +625,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAFD",
-    "bankCode": "SA",
+    "bankCode": "NAFD",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NAFDSAJE",
     "Bank Name": "NATIONAL FOOD INDUSTRIES CO. LTD",
@@ -638,8 +638,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALQA",
-    "bankCode": "SA",
+    "bankCode": "ALQA",
+    "countryCode": "SA",
     "branchCode": "ADK",
     "SWIFT Code": "ALQASADK",
     "Bank Name": "ABDULHADI ABDULLAH AL-QAHTANI SONS GROUP HOLDING COMPANY CJSC",
@@ -651,8 +651,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAS",
-    "bankCode": "SA",
+    "bankCode": "AIAS",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "AIASSARI",
     "Bank Name": "ABDULLAH IBRAHIM ALKHORAYEF SONS COMPANY",
@@ -664,8 +664,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INMA",
-    "bankCode": "SA",
+    "bankCode": "INMA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "INMASARI",
     "Bank Name": "AL INMA BANK",
@@ -677,8 +677,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALRD",
-    "bankCode": "SA",
+    "bankCode": "ALRD",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ALRDSARI",
     "Bank Name": "AL RA'IDAH INVESTMENT COMPANY",
@@ -690,8 +690,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RJHI",
-    "bankCode": "SA",
+    "bankCode": "RJHI",
+    "countryCode": "SA",
     "branchCode": "ARC",
     "SWIFT Code": "RJHISARIARC",
     "Bank Name": "AL RAJHI BANK",
@@ -703,8 +703,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RJHI",
-    "bankCode": "SA",
+    "bankCode": "RJHI",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "RJHISARI",
     "Bank Name": "AL RAJHI BANK",
@@ -716,8 +716,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAHC",
-    "bankCode": "SA",
+    "bankCode": "SAHC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SAHCSARI",
     "Bank Name": "ALAWWAL INVEST",
@@ -729,8 +729,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FANR",
-    "bankCode": "SA",
+    "bankCode": "FANR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "FANRSARI",
     "Bank Name": "ALFANAR CO CLOSED JOINT STOCK COMPANY",
@@ -742,8 +742,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALMR",
-    "bankCode": "SA",
+    "bankCode": "ALMR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ALMRSARI",
     "Bank Name": "ALMARAI COMPANY",
@@ -755,8 +755,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARNB",
-    "bankCode": "SA",
+    "bankCode": "ARNB",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ARNBSARI",
     "Bank Name": "ARAB NATIONAL BANK",
@@ -768,8 +768,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIC",
-    "bankCode": "SA",
+    "bankCode": "APIC",
+    "countryCode": "SA",
     "branchCode": "ADM",
     "SWIFT Code": "APICSADM",
     "Bank Name": "ARAB PETROLEUM INVESTMENTS CORPORATION",
@@ -781,8 +781,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APIC",
-    "bankCode": "SA",
+    "bankCode": "APIC",
+    "countryCode": "SA",
     "branchCode": "ADB",
     "SWIFT Code": "APICSADB",
     "Bank Name": "ARAB PETROLEUM INVESTMENTS CORPORATION",
@@ -794,8 +794,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALRY",
-    "bankCode": "SA",
+    "bankCode": "ALRY",
+    "countryCode": "SA",
     "branchCode": "ADD",
     "SWIFT Code": "ALRYSADD",
     "Bank Name": "ARAMCO LUBRICANTS AND RETAIL COMPANY LLC",
@@ -807,8 +807,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPC",
-    "bankCode": "SA",
+    "bankCode": "SAPC",
+    "countryCode": "SA",
     "branchCode": "ADH",
     "SWIFT Code": "SAPCSADH",
     "Bank Name": "ARAMCO TRADING COMPANY",
@@ -820,8 +820,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPC",
-    "bankCode": "SA",
+    "bankCode": "SAPC",
+    "countryCode": "SA",
     "branchCode": "USA",
     "SWIFT Code": "SAPCSADHUSA",
     "Bank Name": "ARAMCO TRADING COMPANY",
@@ -833,8 +833,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPC",
-    "bankCode": "SA",
+    "bankCode": "SAPC",
+    "countryCode": "SA",
     "branchCode": "ATH",
     "SWIFT Code": "SAPCSADHATH",
     "Bank Name": "ARAMCO TRADING COMPANY",
@@ -846,8 +846,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPC",
-    "bankCode": "SA",
+    "bankCode": "SAPC",
+    "countryCode": "SA",
     "branchCode": "AEF",
     "SWIFT Code": "SAPCSADHAEF",
     "Bank Name": "ARAMCO TRADING COMPANY",
@@ -859,8 +859,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPC",
-    "bankCode": "SA",
+    "bankCode": "SAPC",
+    "countryCode": "SA",
     "branchCode": "UKL",
     "SWIFT Code": "SAPCSADHUKL",
     "Bank Name": "ARAMCO TRADING COMPANY",
@@ -872,8 +872,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAPC",
-    "bankCode": "SA",
+    "bankCode": "SAPC",
+    "countryCode": "SA",
     "branchCode": "SSG",
     "SWIFT Code": "SAPCSADHSSG",
     "Bank Name": "ARAMCO TRADING COMPANY",
@@ -885,8 +885,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBI",
-    "bankCode": "SA",
+    "bankCode": "ALBI",
+    "countryCode": "SA",
     "branchCode": "DAM",
     "SWIFT Code": "ALBISARIDAM",
     "Bank Name": "BANK AL BILAD",
@@ -898,8 +898,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBI",
-    "bankCode": "SA",
+    "bankCode": "ALBI",
+    "countryCode": "SA",
     "branchCode": "JED",
     "SWIFT Code": "ALBISARIJED",
     "Bank Name": "BANK AL BILAD",
@@ -911,8 +911,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBI",
-    "bankCode": "SA",
+    "bankCode": "ALBI",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ALBISARI",
     "Bank Name": "BANK AL BILAD",
@@ -924,8 +924,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBI",
-    "bankCode": "SA",
+    "bankCode": "ALBI",
+    "countryCode": "SA",
     "branchCode": "CAP",
     "SWIFT Code": "ALBISARICAP",
     "Bank Name": "BANK AL BILAD",
@@ -937,8 +937,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALBI",
-    "bankCode": "SA",
+    "bankCode": "ALBI",
+    "countryCode": "SA",
     "branchCode": "TFC",
     "SWIFT Code": "ALBISARITFC",
     "Bank Name": "BANK AL BILAD",
@@ -950,8 +950,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "013",
     "SWIFT Code": "BJAZSAJE013",
     "Bank Name": "BANK AL-JAZIRA",
@@ -963,8 +963,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "026",
     "SWIFT Code": "BJAZSAJE026",
     "Bank Name": "BANK AL-JAZIRA",
@@ -976,8 +976,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "009",
     "SWIFT Code": "BJAZSAJE009",
     "Bank Name": "BANK AL-JAZIRA",
@@ -989,8 +989,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "025",
     "SWIFT Code": "BJAZSAJE025",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1002,8 +1002,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "BJAZSAJE",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1015,8 +1015,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "002",
     "SWIFT Code": "BJAZSAJE002",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1028,8 +1028,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "007",
     "SWIFT Code": "BJAZSAJE007",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1041,8 +1041,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "006",
     "SWIFT Code": "BJAZSAJE006",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1054,8 +1054,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "021",
     "SWIFT Code": "BJAZSAJE021",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1067,8 +1067,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "019",
     "SWIFT Code": "BJAZSAJE019",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1080,8 +1080,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "011",
     "SWIFT Code": "BJAZSAJE011",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1093,8 +1093,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "010",
     "SWIFT Code": "BJAZSAJE010",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1106,8 +1106,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "AJC",
     "SWIFT Code": "BJAZSAJEAJC",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1119,8 +1119,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "FWR",
     "SWIFT Code": "BJAZSAJEFWR",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1132,8 +1132,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "016",
     "SWIFT Code": "BJAZSAJE016",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1145,8 +1145,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BJAZ",
-    "bankCode": "SA",
+    "bankCode": "BJAZ",
+    "countryCode": "SA",
     "branchCode": "027",
     "SWIFT Code": "BJAZSAJE027",
     "Bank Name": "BANK AL-JAZIRA",
@@ -1158,8 +1158,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "SA",
+    "bankCode": "BKCH",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BKCHSARI",
     "Bank Name": "BANK OF CHINA RIYADH BRANCH",
@@ -1171,8 +1171,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMUS",
-    "bankCode": "SA",
+    "bankCode": "BMUS",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BMUSSARI",
     "Bank Name": "BANKMUSCAT",
@@ -1184,8 +1184,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSFR",
-    "bankCode": "SA",
+    "bankCode": "BSFR",
+    "countryCode": "SA",
     "branchCode": "EST",
     "SWIFT Code": "BSFRSARIEST",
     "Bank Name": "BANQUE SAUDI FRANSI",
@@ -1197,8 +1197,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSFR",
-    "bankCode": "SA",
+    "bankCode": "BSFR",
+    "countryCode": "SA",
     "branchCode": "WST",
     "SWIFT Code": "BSFRSARIWST",
     "Bank Name": "BANQUE SAUDI FRANSI",
@@ -1210,8 +1210,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSFR",
-    "bankCode": "SA",
+    "bankCode": "BSFR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BSFRSARI",
     "Bank Name": "BANQUE SAUDI FRANSI",
@@ -1223,8 +1223,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSFR",
-    "bankCode": "SA",
+    "bankCode": "BSFR",
+    "countryCode": "SA",
     "branchCode": "RYD",
     "SWIFT Code": "BSFRSARIRYD",
     "Bank Name": "BANQUE SAUDI FRANSI",
@@ -1236,8 +1236,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSFR",
-    "bankCode": "SA",
+    "bankCode": "BSFR",
+    "countryCode": "SA",
     "branchCode": "GEM",
     "SWIFT Code": "BSFRSARIGEM",
     "Bank Name": "BANQUE SAUDI FRANSI",
@@ -1249,8 +1249,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "SA",
+    "bankCode": "BNPA",
+    "countryCode": "SA",
     "branchCode": "WMI",
     "SWIFT Code": "BNPASARBWMI",
     "Bank Name": "BNP PARIBAS INVESTMENT COMPANY KSA",
@@ -1262,8 +1262,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "SA",
+    "bankCode": "BNPA",
+    "countryCode": "SA",
     "branchCode": "ARB",
     "SWIFT Code": "BNPASARB",
     "Bank Name": "BNP PARIBAS INVESTMENT COMPANY KSA",
@@ -1275,8 +1275,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "SA",
+    "bankCode": "BNPA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BNPASARI",
     "Bank Name": "BNP PARIBAS SAUDI ARABIA",
@@ -1288,8 +1288,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAIC",
-    "bankCode": "SA",
+    "bankCode": "NAIC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NAICSARI",
     "Bank Name": "NATIONAL INDUSTRIALIZATION COMPANY",
@@ -1301,8 +1301,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NYFT",
-    "bankCode": "SA",
+    "bankCode": "NYFT",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NYFTSARI",
     "Bank Name": "NAYIFAT FINANCE COMPANY",
@@ -1314,8 +1314,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEOM",
-    "bankCode": "SA",
+    "bankCode": "NEOM",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "NEOMSARI",
     "Bank Name": "NEOM COMPANY",
@@ -1327,8 +1327,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OLFC",
-    "bankCode": "SA",
+    "bankCode": "OLFC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "OLFCSARI",
     "Bank Name": "OLAYAN FINANCING COMPANY",
@@ -1340,8 +1340,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSHC",
-    "bankCode": "SA",
+    "bankCode": "OSHC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "OSHCSARI",
     "Bank Name": "OLAYAN SAUDI HOLDING CLOSED JOINT STOCK COMPANY",
@@ -1353,8 +1353,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKAM",
-    "bankCode": "SA",
+    "bankCode": "OKAM",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "OKAMSARI",
     "Bank Name": "OMAR KASSEM ALESAYI MARKETING CO. LIMITED",
@@ -1366,8 +1366,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANY",
-    "bankCode": "SA",
+    "bankCode": "PANY",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "PANYSAJE",
     "Bank Name": "PANDA RETAIL COMPANY",
@@ -1379,8 +1379,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIFN",
-    "bankCode": "SA",
+    "bankCode": "PIFN",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "PIFNSARI",
     "Bank Name": "PUBLIC INVESTMENT FUND",
@@ -1392,8 +1392,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNBA",
-    "bankCode": "SA",
+    "bankCode": "QNBA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "QNBASARI",
     "Bank Name": "QATAR NATIONAL BANK",
@@ -1405,8 +1405,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAWA",
-    "bankCode": "SA",
+    "bankCode": "RAWA",
+    "countryCode": "SA",
     "branchCode": "ADK",
     "SWIFT Code": "RAWASADK",
     "Bank Name": "RAWABI HOLDING COMPANY",
@@ -1418,8 +1418,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RRBR",
-    "bankCode": "SA",
+    "bankCode": "RRBR",
+    "countryCode": "SA",
     "branchCode": "AR2",
     "SWIFT Code": "RRBRSAR2",
     "Bank Name": "RETECH REINSURANCE BROKERS CO.",
@@ -1431,8 +1431,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIBL",
-    "bankCode": "SA",
+    "bankCode": "RIBL",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "RIBLSARI",
     "Bank Name": "RIYAD BANK",
@@ -1444,8 +1444,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIBL",
-    "bankCode": "SA",
+    "bankCode": "RIBL",
+    "countryCode": "SA",
     "branchCode": "SSD",
     "SWIFT Code": "RIBLSARISSD",
     "Bank Name": "RIYAD BANK",
@@ -1457,8 +1457,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RICC",
-    "bankCode": "SA",
+    "bankCode": "RICC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "RICCSARI",
     "Bank Name": "RIYADH INTERNATIONAL CATERING CORPORATION",
@@ -1470,8 +1470,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDCC",
-    "bankCode": "SA",
+    "bankCode": "SDCC",
+    "countryCode": "SA",
     "branchCode": "ADA",
     "SWIFT Code": "SDCCSADA",
     "Bank Name": "SADARA CHEMICAL COMPANY",
@@ -1483,8 +1483,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIPH",
-    "bankCode": "SA",
+    "bankCode": "SIPH",
+    "countryCode": "SA",
     "branchCode": "ADB",
     "SWIFT Code": "SIPHSADB",
     "Bank Name": "SAHARA INTERNATIONAL PETROCHEMICAL COMPANY (SIPCHEM)",
@@ -1496,8 +1496,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAM",
-    "bankCode": "SA",
+    "bankCode": "ARAM",
+    "countryCode": "SA",
     "branchCode": "ADH",
     "SWIFT Code": "ARAMSADH",
     "Bank Name": "SAUDI ARAMCO",
@@ -1509,8 +1509,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBRF",
-    "bankCode": "SA",
+    "bankCode": "LBRF",
+    "countryCode": "SA",
     "branchCode": "AJD",
     "SWIFT Code": "LBRFSAJD",
     "Bank Name": "SAUDI ARAMCO BASE OIL COMPANY - LUBEREF",
@@ -1522,8 +1522,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRMR",
-    "bankCode": "SA",
+    "bankCode": "SRMR",
+    "countryCode": "SA",
     "branchCode": "ADB",
     "SWIFT Code": "SRMRSADB",
     "Bank Name": "SAUDI ARAMCO MOBIL REFINERY COMPANY LIMITED (SAMREF)",
@@ -1535,8 +1535,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABB",
-    "bankCode": "SA",
+    "bankCode": "SABB",
+    "countryCode": "SA",
     "branchCode": "AWI",
     "SWIFT Code": "SABBSARIAWI",
     "Bank Name": "SAUDI AWWAL BANK (FORMERLY: THE SAUDI BRITISH BANK)",
@@ -1548,8 +1548,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABB",
-    "bankCode": "SA",
+    "bankCode": "SABB",
+    "countryCode": "SA",
     "branchCode": "AIS",
     "SWIFT Code": "SABBSARIAIS",
     "Bank Name": "SAUDI AWWAL BANK (FORMERLY: THE SAUDI BRITISH BANK)",
@@ -1561,8 +1561,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABB",
-    "bankCode": "SA",
+    "bankCode": "SABB",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SABBSARI",
     "Bank Name": "SAUDI AWWAL BANK (FORMERLY: THE SAUDI BRITISH BANK)",
@@ -1574,8 +1574,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABB",
-    "bankCode": "SA",
+    "bankCode": "SABB",
+    "countryCode": "SA",
     "branchCode": "TSO",
     "SWIFT Code": "SABBSARITSO",
     "Bank Name": "SAUDI AWWAL BANK (FORMERLY: THE SAUDI BRITISH BANK)",
@@ -1587,8 +1587,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBHQ",
-    "bankCode": "SA",
+    "bankCode": "SBHQ",
+    "countryCode": "SA",
     "branchCode": "ARR",
     "SWIFT Code": "SBHQSARR",
     "Bank Name": "SAUDI BASIC INDUSTRIES CORPORATION (SABIC)",
@@ -1600,8 +1600,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMA",
-    "bankCode": "SA",
+    "bankCode": "SAMA",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SAMASARI",
     "Bank Name": "SAUDI CENTRAL BANK",
@@ -1613,8 +1613,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCEG",
-    "bankCode": "SA",
+    "bankCode": "SCEG",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SCEGSARI",
     "Bank Name": "SAUDI CHEMICAL COMPANY HOLDING",
@@ -1626,8 +1626,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHM",
-    "bankCode": "SA",
+    "bankCode": "SCHM",
+    "countryCode": "SA",
     "branchCode": "ADE",
     "SWIFT Code": "SCHMSADE",
     "Bank Name": "SAUDI CHEVRON PHILLIPS CO.",
@@ -1639,8 +1639,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEDP",
-    "bankCode": "SA",
+    "bankCode": "SEDP",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "SEDPSAJE",
     "Bank Name": "SAUDI ECONOMIC AND DEVELOPMENT COMPANY FOR SECURITIES",
@@ -1652,8 +1652,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELEC",
-    "bankCode": "SA",
+    "bankCode": "ELEC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "ELECSARI",
     "Bank Name": "SAUDI ELECTRICITY COMPANY",
@@ -1665,8 +1665,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAUX",
-    "bankCode": "SA",
+    "bankCode": "SAUX",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SAUXSARI",
     "Bank Name": "SAUDI EXPORT-IMPORT BANK",
@@ -1678,8 +1678,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFCP",
-    "bankCode": "SA",
+    "bankCode": "SFCP",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SFCPSARI",
     "Bank Name": "SAUDI FRANSI CAPITAL",
@@ -1691,8 +1691,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIBC",
-    "bankCode": "SA",
+    "bankCode": "SIBC",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SIBCSARI",
     "Bank Name": "SAUDI INVESTMENT BANK, THE",
@@ -1704,8 +1704,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIBC",
-    "bankCode": "SA",
+    "bankCode": "SIBC",
+    "countryCode": "SA",
     "branchCode": "SPV",
     "SWIFT Code": "SIBCSARISPV",
     "Bank Name": "SAUDI INVESTMENT BANK, THE",
@@ -1717,8 +1717,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBDT",
-    "bankCode": "SA",
+    "bankCode": "SBDT",
+    "countryCode": "SA",
     "branchCode": "ADA",
     "SWIFT Code": "SBDTSADA",
     "Bank Name": "SAUDI TABREED DISTRICT COOLING COMPANY",
@@ -1730,8 +1730,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STCO",
-    "bankCode": "SA",
+    "bankCode": "STCO",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "STCOSARI",
     "Bank Name": "SAUDI TELECOM COMPANY",
@@ -1743,8 +1743,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGCO",
-    "bankCode": "SA",
+    "bankCode": "SGCO",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "SGCOSAJE",
     "Bank Name": "SAVOLA GROUP",
@@ -1756,8 +1756,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCCY",
-    "bankCode": "SA",
+    "bankCode": "SCCY",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SCCYSARI",
     "Bank Name": "SECURITIES CLEARING CENTER COMPANY CLOSED JOINT STOCK COMPANY",
@@ -1769,8 +1769,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SDCP",
-    "bankCode": "SA",
+    "bankCode": "SDCP",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SDCPSARI",
     "Bank Name": "SECURITIES DEPOSITORY CENTER COMPANY",
@@ -1782,8 +1782,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAYR",
-    "bankCode": "SA",
+    "bankCode": "TAYR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "TAYRSARI",
     "Bank Name": "SEERA GROUP HOLDING",
@@ -1795,8 +1795,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SICS",
-    "bankCode": "SA",
+    "bankCode": "SICS",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SICSSARI",
     "Bank Name": "SICO CAPITAL CJSC",
@@ -1808,8 +1808,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCCO",
-    "bankCode": "SA",
+    "bankCode": "NCCO",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NCCOSAJE",
     "Bank Name": "SNB CAPITAL COMPANY",
@@ -1821,8 +1821,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSHR",
-    "bankCode": "SA",
+    "bankCode": "BSHR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BSHRSARI",
     "Bank Name": "SOHAR INTERNATIONAL RIYADH BRANCH",
@@ -1834,8 +1834,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SA",
+    "bankCode": "SCBL",
+    "countryCode": "SA",
     "branchCode": "AR2",
     "SWIFT Code": "SCBLSAR2",
     "Bank Name": "STANDARD CHARTERED BANK BRANCH",
@@ -1847,8 +1847,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "SA",
+    "bankCode": "SCBL",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SCBLSARI",
     "Bank Name": "STANDARD CHARTERED CAPITAL (SAUDI ARABIA)",
@@ -1860,8 +1860,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STCJ",
-    "bankCode": "SA",
+    "bankCode": "STCJ",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "STCJSARI",
     "Bank Name": "STC BANK (MIXED CLOSED JSC)",
@@ -1873,8 +1873,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "SA",
+    "bankCode": "TCZB",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "TCZBSAJE",
     "Bank Name": "T.C. ZIRAAT BANKASI A.S.",
@@ -1886,8 +1886,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FMTI",
-    "bankCode": "SA",
+    "bankCode": "FMTI",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "FMTISAJE",
     "Bank Name": "TAMER GROUP",
@@ -1899,8 +1899,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICEC",
-    "bankCode": "SA",
+    "bankCode": "ICEC",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "ICECSAJE",
     "Bank Name": "THE ISLAMIC CORP FOR THE INSURANCE OF INVESTMENT AND EXPORT CREDIT (MEMBER ISLAMIC DEVELOPMENT BANKGROUP)",
@@ -1912,8 +1912,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARI",
-    "bankCode": "SA",
+    "bankCode": "BARI",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "BARISARI",
     "Bank Name": "THE NATIONAL SHIPPING COMPANY OF SAUDI ARABIA",
@@ -1925,8 +1925,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNOR",
-    "bankCode": "SA",
+    "bankCode": "CNOR",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "CNORSARI",
     "Bank Name": "THE NORTHERN TRUST COMPANY OF SAUDI ARABIA (CLOSED JOINT STOCK COMPANY)",
@@ -1938,8 +1938,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFFD",
-    "bankCode": "SA",
+    "bankCode": "SFFD",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "SFFDSARI",
     "Bank Name": "THE SAUDI FUND FOR DEVELOPMENT",
@@ -1951,8 +1951,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SA",
+    "bankCode": "NCBK",
+    "countryCode": "SA",
     "branchCode": "615",
     "SWIFT Code": "NCBKSAJE615",
     "Bank Name": "THE SAUDI NATIONAL BANK",
@@ -1964,8 +1964,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SA",
+    "bankCode": "NCBK",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "NCBKSAJE",
     "Bank Name": "THE SAUDI NATIONAL BANK",
@@ -1977,8 +1977,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SA",
+    "bankCode": "NCBK",
+    "countryCode": "SA",
     "branchCode": "101",
     "SWIFT Code": "NCBKSAJE101",
     "Bank Name": "THE SAUDI NATIONAL BANK",
@@ -1990,8 +1990,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SA",
+    "bankCode": "NCBK",
+    "countryCode": "SA",
     "branchCode": "613",
     "SWIFT Code": "NCBKSAJE613",
     "Bank Name": "THE SAUDI NATIONAL BANK",
@@ -2003,8 +2003,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SA",
+    "bankCode": "NCBK",
+    "countryCode": "SA",
     "branchCode": "555",
     "SWIFT Code": "NCBKSAJE555",
     "Bank Name": "THE SAUDI NATIONAL BANK",
@@ -2016,8 +2016,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBK",
-    "bankCode": "SA",
+    "bankCode": "NCBK",
+    "countryCode": "SA",
     "branchCode": "614",
     "SWIFT Code": "NCBKSAJE614",
     "Bank Name": "THE SAUDI NATIONAL BANK",
@@ -2029,8 +2029,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCFS",
-    "bankCode": "SA",
+    "bankCode": "UCFS",
+    "countryCode": "SA",
     "branchCode": "ADA",
     "SWIFT Code": "UCFSSADA",
     "Bank Name": "UNITED COMPANY FOR FINANCIAL SERVICES (TAS'HEEL FINANCE)",
@@ -2042,8 +2042,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXTR",
-    "bankCode": "SA",
+    "bankCode": "EXTR",
+    "countryCode": "SA",
     "branchCode": "ADA",
     "SWIFT Code": "EXTRSADA",
     "Bank Name": "UNITED ELECTRONICS COMPANY",
@@ -2055,8 +2055,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIIO",
-    "bankCode": "SA",
+    "bankCode": "VIIO",
+    "countryCode": "SA",
     "branchCode": "ARI",
     "SWIFT Code": "VIIOSARI",
     "Bank Name": "VISION BANK",
@@ -2068,8 +2068,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WGIC",
-    "bankCode": "SA",
+    "bankCode": "WGIC",
+    "countryCode": "SA",
     "branchCode": "ADK",
     "SWIFT Code": "WGICSADK",
     "Bank Name": "WISAYAH GLOBAL INVESTMENT COMPANY",
@@ -2081,8 +2081,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YASR",
-    "bankCode": "SA",
+    "bankCode": "YASR",
+    "countryCode": "SA",
     "branchCode": "ADB",
     "SWIFT Code": "YASRSADB",
     "Bank Name": "YANBU ARAMCO SINOPEC REFINING (YASREF) LIMITED",
@@ -2094,8 +2094,8 @@ const saudiArabia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZTHM",
-    "bankCode": "SA",
+    "bankCode": "ZTHM",
+    "countryCode": "SA",
     "branchCode": "AJE",
     "SWIFT Code": "ZTHMSAJE",
     "Bank Name": "ZAHID TRACTOR AND HM",

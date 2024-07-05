@@ -1,7 +1,7 @@
 const albania = [
   {
-    "countryCode": "RSTA",
-    "bankCode": "AL",
+    "bankCode": "RSTA",
+    "countryCode": "AL",
     "branchCode": "LTT",
     "SWIFT Code": "RSTAALTT",
     "Bank Name": "ALBANIAN SECURITIES REGISTER ALREG",
@@ -13,8 +13,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMPO",
-    "bankCode": "AL",
+    "bankCode": "EMPO",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "EMPOALTR",
     "Bank Name": "AMERICAN BANK OF INVESTMENTS S.A.",
@@ -26,8 +26,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STAN",
-    "bankCode": "AL",
+    "bankCode": "STAN",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "STANALTR",
     "Bank Name": "BANK OF ALBANIA",
@@ -39,8 +39,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STAN",
-    "bankCode": "AL",
+    "bankCode": "STAN",
+    "countryCode": "AL",
     "branchCode": "LTS",
     "SWIFT Code": "STANALTS",
     "Bank Name": "BANK OF ALBANIA",
@@ -52,8 +52,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBA",
-    "bankCode": "AL",
+    "bankCode": "NCBA",
+    "countryCode": "AL",
     "branchCode": "LTX",
     "SWIFT Code": "NCBAALTX",
     "Bank Name": "BANKA KOMBETARE TREGTARE SH.A.",
@@ -65,8 +65,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRBA",
-    "bankCode": "AL",
+    "bankCode": "CRBA",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "CRBAALTR",
     "Bank Name": "BANKA OTP ALBANIA SH.A",
@@ -78,8 +78,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUPP",
-    "bankCode": "AL",
+    "bankCode": "PUPP",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "PUPPALTR",
     "Bank Name": "BANKA OTP ALBANIA SH.A.",
@@ -91,8 +91,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDIS",
-    "bankCode": "AL",
+    "bankCode": "CDIS",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "CDISALTR",
     "Bank Name": "CREDINS BANK S.A.",
@@ -104,8 +104,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FINV",
-    "bankCode": "AL",
+    "bankCode": "FINV",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "FINVALTR",
     "Bank Name": "FIRST INVESTMENT BANK-ALBANIA SH.A",
@@ -117,8 +117,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USAL",
-    "bankCode": "AL",
+    "bankCode": "USAL",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "USALALTR",
     "Bank Name": "INTESA SANPAOLO BANK ALBANIA SH.A.",
@@ -130,8 +130,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIFB",
-    "bankCode": "AL",
+    "bankCode": "MIFB",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "MIFBALTR",
     "Bank Name": "MINISTRY OF FINANCE OF ALBANIA",
@@ -143,8 +143,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEFA",
-    "bankCode": "AL",
+    "bankCode": "FEFA",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "FEFAALTR",
     "Bank Name": "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
@@ -156,8 +156,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGSB",
-    "bankCode": "AL",
+    "bankCode": "SGSB",
+    "countryCode": "AL",
     "branchCode": "LTX",
     "SWIFT Code": "SGSBALTX",
     "Bank Name": "RAIFFEISEN BANK SH.A.",
@@ -169,8 +169,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIRB",
-    "bankCode": "AL",
+    "bankCode": "TIRB",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "TIRBALTR",
     "Bank Name": "TIRANA BANK",
@@ -182,8 +182,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAL",
-    "bankCode": "AL",
+    "bankCode": "UNAL",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "UNALALTR",
     "Bank Name": "UNION BANK SH.A.",
@@ -195,8 +195,8 @@ const albania = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAIS",
-    "bankCode": "AL",
+    "bankCode": "AAIS",
+    "countryCode": "AL",
     "branchCode": "LTR",
     "SWIFT Code": "AAISALTR",
     "Bank Name": "UNITED BANK OF ALBANIA SH.A",

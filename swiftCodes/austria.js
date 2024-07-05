@@ -1,7 +1,7 @@
 const austria = [
   {
-    "countryCode": "THLG",
-    "bankCode": "AT",
+    "bankCode": "THLG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "THLGATWW",
     "Bank Name": "A1 TOWERS HOLDING GMBH",
@@ -13,8 +13,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSEE",
-    "bankCode": "AT",
+    "bankCode": "HSEE",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "HSEEAT2K",
     "Bank Name": "ADDIKO BANK AG",
@@ -26,8 +26,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRX",
-    "bankCode": "AT",
+    "bankCode": "AGRX",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "AGRXATWW",
     "Bank Name": "AGRANA BETEILIGUNGS-AG",
@@ -39,8 +39,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALDI",
-    "bankCode": "AT",
+    "bankCode": "ALDI",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "ALDIAT22",
     "Bank Name": "ALDI SUED CASH MANAGEMENT GMBH",
@@ -52,8 +52,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALIK",
-    "bankCode": "AT",
+    "bankCode": "ALIK",
+    "countryCode": "AT",
     "branchCode": "TW2",
     "SWIFT Code": "ALIKATW2",
     "Bank Name": "ALLIANZ INVEST KAPITALANLAGEGESELLSCHAFT MBH",
@@ -65,8 +65,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALPE",
-    "bankCode": "AT",
+    "bankCode": "ALPE",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "ALPEAT22",
     "Bank Name": "ALPEN PRIVATBANK AG",
@@ -78,8 +78,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIVT",
-    "bankCode": "AT",
+    "bankCode": "CIVT",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "CIVTATWW",
     "Bank Name": "AMUNDI AUSTRIA GMBH",
@@ -91,8 +91,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANII",
-    "bankCode": "AT",
+    "bankCode": "ANII",
+    "countryCode": "AT",
     "branchCode": "T2G",
     "SWIFT Code": "ANIIAT2G",
     "Bank Name": "ANDRITZ AG",
@@ -104,8 +104,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAAB",
-    "bankCode": "AT",
+    "bankCode": "HAAB",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "HAABAT2K",
     "Bank Name": "AUSTRIAN ANADI BANK AG",
@@ -117,8 +117,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAAB",
-    "bankCode": "AT",
+    "bankCode": "HAAB",
+    "countryCode": "AT",
     "branchCode": "KLA",
     "SWIFT Code": "HAABAT2KKLA",
     "Bank Name": "AUSTRIAN ANADI BANK AG",
@@ -130,8 +130,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "AT",
+    "bankCode": "BRAS",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BRASATWW",
     "Bank Name": "BANCO DO BRASIL AG",
@@ -143,8 +143,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "BLU",
     "SWIFT Code": "BTVAAT22BLU",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -156,8 +156,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "BRE",
     "SWIFT Code": "BTVAAT22BRE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -169,8 +169,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "DOR",
     "SWIFT Code": "BTVAAT22DOR",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -182,8 +182,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "FDK",
     "SWIFT Code": "BTVAAT22FDK",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -195,8 +195,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "IMS",
     "SWIFT Code": "BTVAAT22IMS",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -208,8 +208,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "BTVAAT22",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -221,8 +221,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "VLS",
     "SWIFT Code": "BTVAAT22VLS",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -234,8 +234,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "HOH",
     "SWIFT Code": "BTVAAT22HOH",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -247,8 +247,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "GOE",
     "SWIFT Code": "BTVAAT22GOE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -260,8 +260,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "EHR",
     "SWIFT Code": "BTVAAT22EHR",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -273,8 +273,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "KIB",
     "SWIFT Code": "BTVAAT22KIB",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -286,8 +286,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "KIT",
     "SWIFT Code": "BTVAAT22KIT",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -299,8 +299,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "KUF",
     "SWIFT Code": "BTVAAT22KUF",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -312,8 +312,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "LAN",
     "SWIFT Code": "BTVAAT22LAN",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -325,8 +325,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "LIE",
     "SWIFT Code": "BTVAAT22LIE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -338,8 +338,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "MAY",
     "SWIFT Code": "BTVAAT22MAY",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -351,8 +351,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "REU",
     "SWIFT Code": "BTVAAT22REU",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -364,8 +364,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "SWZ",
     "SWIFT Code": "BTVAAT22SWZ",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -377,8 +377,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "SEE",
     "SWIFT Code": "BTVAAT22SEE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -390,8 +390,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "SOE",
     "SWIFT Code": "BTVAAT22SOE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -403,8 +403,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "STJ",
     "SWIFT Code": "BTVAAT22STJ",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -416,8 +416,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "WIE",
     "SWIFT Code": "BTVAAT22WIE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -429,8 +429,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "WOE",
     "SWIFT Code": "BTVAAT22WOE",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -442,8 +442,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTVA",
-    "bankCode": "AT",
+    "bankCode": "BTVA",
+    "countryCode": "AT",
     "branchCode": "WOF",
     "SWIFT Code": "BTVAAT22WOF",
     "Bank Name": "BANK FUER TIROL UND VORARLBERG AG",
@@ -455,8 +455,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUTB",
-    "bankCode": "AT",
+    "bankCode": "GUTB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "GUTBATWW",
     "Bank Name": "BANK GUTMANN AG",
@@ -468,8 +468,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AT",
+    "bankCode": "BKCH",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BKCHATWW",
     "Bank Name": "BANK OF CHINA (KOEZEP-KELET-EUROPA) LTD.",
@@ -481,8 +481,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WISM",
-    "bankCode": "AT",
+    "bankCode": "WISM",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "WISMATWW",
     "Bank Name": "BANK WINTER AND CO. AG",
@@ -494,8 +494,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPBA",
-    "bankCode": "AT",
+    "bankCode": "SPBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SPBAATWW",
     "Bank Name": "BANK99 AG",
@@ -507,8 +507,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPBA",
-    "bankCode": "AT",
+    "bankCode": "SPBA",
+    "countryCode": "AT",
     "branchCode": "B99",
     "SWIFT Code": "SPBAATWWB99",
     "Bank Name": "BANK99 AG",
@@ -520,8 +520,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAE",
-    "bankCode": "AT",
+    "bankCode": "SPAE",
+    "countryCode": "AT",
     "branchCode": "KIT",
     "SWIFT Code": "SPAEAT2SKIT",
     "Bank Name": "BANKHAUS CARL SPAENGLER AND CO. AG",
@@ -533,8 +533,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAE",
-    "bankCode": "AT",
+    "bankCode": "SPAE",
+    "countryCode": "AT",
     "branchCode": "LIN",
     "SWIFT Code": "SPAEAT2SLIN",
     "Bank Name": "BANKHAUS CARL SPAENGLER AND CO. AG",
@@ -546,8 +546,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAE",
-    "bankCode": "AT",
+    "bankCode": "SPAE",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "SPAEAT2S",
     "Bank Name": "BANKHAUS CARL SPAENGLER AND CO. AG",
@@ -559,8 +559,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAE",
-    "bankCode": "AT",
+    "bankCode": "SPAE",
+    "countryCode": "AT",
     "branchCode": "KAN",
     "SWIFT Code": "SPAEAT2SKAN",
     "Bank Name": "BANKHAUS CARL SPAENGLER AND CO. AG",
@@ -572,8 +572,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAE",
-    "bankCode": "AT",
+    "bankCode": "SPAE",
+    "countryCode": "AT",
     "branchCode": "WIE",
     "SWIFT Code": "SPAEAT2SWIE",
     "Bank Name": "BANKHAUS CARL SPAENGLER AND CO. AG",
@@ -586,8 +586,8 @@ const austria = [
   },
   {},
   {
-    "countryCode": "BAOS",
-    "bankCode": "AT",
+    "bankCode": "BAOS",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BAOSATWW",
     "Bank Name": "BAUSPARKASSE DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -599,8 +599,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUBU",
-    "bankCode": "AT",
+    "bankCode": "WUBU",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "WUBUAT2S",
     "Bank Name": "BAUSPARKASSE WUESTENROT AG",
@@ -612,8 +612,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "GRA",
     "SWIFT Code": "BAWAATWWGRA",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -625,8 +625,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "INN",
     "SWIFT Code": "BAWAATWWINN",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -638,8 +638,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "MAT",
     "SWIFT Code": "OBKLAT2LMAT",
     "Bank Name": "OBERBANK AG",
@@ -651,8 +651,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "OTT",
     "SWIFT Code": "OBKLAT2LOTT",
     "Bank Name": "OBERBANK AG",
@@ -664,8 +664,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "PER",
     "SWIFT Code": "OBKLAT2LPER",
     "Bank Name": "OBERBANK AG",
@@ -677,8 +677,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "RIE",
     "SWIFT Code": "OBKLAT2LRIE",
     "Bank Name": "OBERBANK AG",
@@ -690,8 +690,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "ROB",
     "SWIFT Code": "OBKLAT2LROB",
     "Bank Name": "OBERBANK AG",
@@ -703,8 +703,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "SAA",
     "SWIFT Code": "OBKLAT2LSAA",
     "Bank Name": "OBERBANK AG",
@@ -716,8 +716,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "SAL",
     "SWIFT Code": "OBKLAT2LSAL",
     "Bank Name": "OBERBANK AG",
@@ -729,8 +729,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "STP",
     "SWIFT Code": "OBKLAT2LSTP",
     "Bank Name": "OBERBANK AG",
@@ -742,8 +742,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "SRD",
     "SWIFT Code": "OBKLAT2LSRD",
     "Bank Name": "OBERBANK AG",
@@ -755,8 +755,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "SWA",
     "SWIFT Code": "OBKLAT2LSWA",
     "Bank Name": "OBERBANK AG",
@@ -768,8 +768,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "SEK",
     "SWIFT Code": "OBKLAT2LSEK",
     "Bank Name": "OBERBANK AG",
@@ -781,8 +781,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "STM",
     "SWIFT Code": "OBKLAT2LSTM",
     "Bank Name": "OBERBANK AG",
@@ -794,8 +794,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "TRA",
     "SWIFT Code": "OBKLAT2LTRA",
     "Bank Name": "OBERBANK AG",
@@ -807,8 +807,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "TUL",
     "SWIFT Code": "OBKLAT2LTUL",
     "Bank Name": "OBERBANK AG",
@@ -820,8 +820,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "WIE",
     "SWIFT Code": "OBKLAT2LWIE",
     "Bank Name": "OBERBANK AG",
@@ -833,8 +833,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "VOE",
     "SWIFT Code": "OBKLAT2LVOE",
     "Bank Name": "OBERBANK AG",
@@ -846,8 +846,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "WAI",
     "SWIFT Code": "OBKLAT2LWAI",
     "Bank Name": "OBERBANK AG",
@@ -859,8 +859,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "WEL",
     "SWIFT Code": "OBKLAT2LWEL",
     "Bank Name": "OBERBANK AG",
@@ -872,8 +872,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "WLG",
     "SWIFT Code": "OBKLAT2LWLG",
     "Bank Name": "OBERBANK AG",
@@ -885,8 +885,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "WRN",
     "SWIFT Code": "OBKLAT2LWRN",
     "Bank Name": "OBERBANK AG",
@@ -898,8 +898,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBLA",
-    "bankCode": "AT",
+    "bankCode": "OBLA",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "OBLAAT2L",
     "Bank Name": "OBEROESTERREICHISCHE LANDESBANK AG",
@@ -911,8 +911,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSD",
-    "bankCode": "AT",
+    "bankCode": "OCSD",
+    "countryCode": "AT",
     "branchCode": "DOM",
     "SWIFT Code": "OCSDATWWDOM",
     "Bank Name": "OEKB CSD GMBH",
@@ -924,8 +924,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSD",
-    "bankCode": "AT",
+    "bankCode": "OCSD",
+    "countryCode": "AT",
     "branchCode": "INT",
     "SWIFT Code": "OCSDATWWINT",
     "Bank Name": "OEKB CSD GMBH",
@@ -937,8 +937,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSD",
-    "bankCode": "AT",
+    "bankCode": "OCSD",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "OCSDATWWT2S",
     "Bank Name": "OEKB CSD GMBH",
@@ -950,8 +950,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSD",
-    "bankCode": "AT",
+    "bankCode": "OCSD",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "OCSDATWW",
     "Bank Name": "OEKB CSD GMBH",
@@ -963,8 +963,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSD",
-    "bankCode": "AT",
+    "bankCode": "OCSD",
+    "countryCode": "AT",
     "branchCode": "HVS",
     "SWIFT Code": "OCSDATWWHVS",
     "Bank Name": "OEKB CSD GMBH",
@@ -976,8 +976,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCSD",
-    "bankCode": "AT",
+    "bankCode": "OCSD",
+    "countryCode": "AT",
     "branchCode": "TW2",
     "SWIFT Code": "OCSDATW2",
     "Bank Name": "OEKB CSD GMBH",
@@ -989,8 +989,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OEKO",
-    "bankCode": "AT",
+    "bankCode": "OEKO",
+    "countryCode": "AT",
     "branchCode": "PBS",
     "SWIFT Code": "OEKOATWWPBS",
     "Bank Name": "OESTERREICHISCHE KONTROLLBANK AG",
@@ -1002,8 +1002,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OEKB",
-    "bankCode": "AT",
+    "bankCode": "OEKB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "OEKBATWW",
     "Bank Name": "OESTERREICHISCHE KONTROLLBANK AG",
@@ -1015,8 +1015,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OEKO",
-    "bankCode": "AT",
+    "bankCode": "OEKO",
+    "countryCode": "AT",
     "branchCode": "KMS",
     "SWIFT Code": "OEKOATWWKMS",
     "Bank Name": "OESTERREICHISCHE KONTROLLBANK AG",
@@ -1028,8 +1028,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OEKO",
-    "bankCode": "AT",
+    "bankCode": "OEKO",
+    "countryCode": "AT",
     "branchCode": "CON",
     "SWIFT Code": "OEKOATWWCON",
     "Bank Name": "OESTERREICHISCHE KONTROLLBANK AG",
@@ -1041,8 +1041,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OEKO",
-    "bankCode": "AT",
+    "bankCode": "OEKO",
+    "countryCode": "AT",
     "branchCode": "ECO",
     "SWIFT Code": "OEKOATWWECO",
     "Bank Name": "OESTERREICHISCHE KONTROLLBANK AG",
@@ -1054,8 +1054,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OEKO",
-    "bankCode": "AT",
+    "bankCode": "OEKO",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "OEKOATWW",
     "Bank Name": "OESTERREICHISCHE KONTROLLBANK AG",
@@ -1067,8 +1067,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABA",
-    "bankCode": "AT",
+    "bankCode": "NABA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "NABAATWW",
     "Bank Name": "OESTERREICHISCHE NATIONALBANK",
@@ -1080,8 +1080,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABA",
-    "bankCode": "AT",
+    "bankCode": "NABA",
+    "countryCode": "AT",
     "branchCode": "GRA",
     "SWIFT Code": "NABAATWWGRA",
     "Bank Name": "OESTERREICHISCHE NATIONALBANK",
@@ -1093,8 +1093,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABA",
-    "bankCode": "AT",
+    "bankCode": "NABA",
+    "countryCode": "AT",
     "branchCode": "BUN",
     "SWIFT Code": "NABAATWWBUN",
     "Bank Name": "OESTERREICHISCHE NATIONALBANK",
@@ -1106,8 +1106,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABA",
-    "bankCode": "AT",
+    "bankCode": "NABA",
+    "countryCode": "AT",
     "branchCode": "ECM",
     "SWIFT Code": "NABAATWWECM",
     "Bank Name": "OESTERREICHISCHE NATIONALBANK",
@@ -1119,8 +1119,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABA",
-    "bankCode": "AT",
+    "bankCode": "NABA",
+    "countryCode": "AT",
     "branchCode": "TWG",
     "SWIFT Code": "NABAATWG",
     "Bank Name": "OESTERREICHISCHE NATIONALBANK CSA (CLEARING SERVICE AUSTRIA)",
@@ -1132,8 +1132,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APOS",
-    "bankCode": "AT",
+    "bankCode": "APOS",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "APOSATWW",
     "Bank Name": "OESTERREICHISCHE POST AG",
@@ -1145,8 +1145,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMVV",
-    "bankCode": "AT",
+    "bankCode": "OMVV",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "OMVVATWW",
     "Bank Name": "OMV AG",
@@ -1158,8 +1158,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFID",
-    "bankCode": "AT",
+    "bankCode": "OFID",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "OFIDATWW",
     "Bank Name": "OPEC FUND FOR INTERNATIONAL DEVELOPMENT (OFID)",
@@ -1171,8 +1171,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PABA",
-    "bankCode": "AT",
+    "bankCode": "PABA",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "PABAAT2L",
     "Bank Name": "PARTNER BANK AG",
@@ -1184,8 +1184,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOCH",
-    "bankCode": "AT",
+    "bankCode": "KOCH",
+    "countryCode": "AT",
     "branchCode": "T2H",
     "SWIFT Code": "KOCHAT2H",
     "Bank Name": "PLAION GMBH",
@@ -1197,8 +1197,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "VSGKAT2K",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1210,8 +1210,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "101",
     "SWIFT Code": "VSGKAT2K101",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1223,8 +1223,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "102",
     "SWIFT Code": "VSGKAT2K102",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1236,8 +1236,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "104",
     "SWIFT Code": "VSGKAT2K104",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1249,8 +1249,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "109",
     "SWIFT Code": "VSGKAT2K109",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1262,8 +1262,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "116",
     "SWIFT Code": "VSGKAT2K116",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1275,8 +1275,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "117",
     "SWIFT Code": "VSGKAT2K117",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -1288,8 +1288,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "333",
     "SWIFT Code": "RZTIAT22333",
     "Bank Name": "RAIFFEISENBANK TANNHEIMERTAL EGEN",
@@ -1301,8 +1301,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "064",
     "SWIFT Code": "RVSAAT2S064",
     "Bank Name": "RAIFFEISENBANK TAXENBACH EGEN",
@@ -1314,8 +1314,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "669",
     "SWIFT Code": "RZOOAT2L669",
     "Bank Name": "RAIFFEISENBANK TIMELKAM-LENZING-PUCHKIRCHEN EGEN",
@@ -1327,8 +1327,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "209",
     "SWIFT Code": "RZTIAT22209",
     "Bank Name": "RAIFFEISENBANK TIROL MITTE WEST EGEN",
@@ -1340,8 +1340,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "260",
     "SWIFT Code": "RZTIAT22260",
     "Bank Name": "RAIFFEISENBANK TIROL MITTE WEST EGEN",
@@ -1353,8 +1353,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "336",
     "SWIFT Code": "RZTIAT22336",
     "Bank Name": "RAIFFEISENBANK TIROL MITTE WEST EGEN",
@@ -1366,8 +1366,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "LFD",
     "SWIFT Code": "RLNWATWWLFD",
     "Bank Name": "RAIFFEISENBANK TRAISEN-GOELSENTAL EGEN",
@@ -1379,8 +1379,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "347",
     "SWIFT Code": "RZSTAT2G347",
     "Bank Name": "RAIFFEISENBANK TURNAU-ST. LORENZEN EGEN",
@@ -1392,8 +1392,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "342",
     "SWIFT Code": "RZTIAT22342",
     "Bank Name": "RAIFFEISENBANK TUX EGEN",
@@ -1405,8 +1405,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "066",
     "SWIFT Code": "RVSAAT2S066",
     "Bank Name": "RAIFFEISENBANK UNKEN EGEN",
@@ -1418,8 +1418,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "292",
     "SWIFT Code": "RZKTAT2K292",
     "Bank Name": "RAIFFEISENBANK UNTERES LAVANTTAL EGEN",
@@ -1431,8 +1431,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "018",
     "SWIFT Code": "RVSAAT2S018",
     "Bank Name": "RAIFFEISENBANK UNTERSBERG EGEN",
@@ -1444,8 +1444,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "272",
     "SWIFT Code": "RZKTAT2K272",
     "Bank Name": "RAIFFEISENBANK VOELKERMARKT-BLEIBURG EGEN",
@@ -1457,8 +1457,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "546",
     "SWIFT Code": "RZKTAT2K546",
     "Bank Name": "RAIFFEISENBANK VOELKERMARKT-BLEIBURG EGEN",
@@ -1470,8 +1470,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "435",
     "SWIFT Code": "RVVGAT2B435",
     "Bank Name": "RAIFFEISENBANK VORDERBREGENZERWALD EGEN",
@@ -1483,8 +1483,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "291",
     "SWIFT Code": "RZTIAT22291",
     "Bank Name": "RAIFFEISENBANK VORDERES OETZTAL EGEN",
@@ -1496,8 +1496,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "475",
     "SWIFT Code": "RVVGAT2B475",
     "Bank Name": "RAIFFEISENBANK VORDERLAND EGEN",
@@ -1509,8 +1509,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "732",
     "SWIFT Code": "RZOOAT2L732",
     "Bank Name": "RAIFFEISENBANK WALDING-OTTENSHEIM EGEN",
@@ -1522,8 +1522,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "021",
     "SWIFT Code": "RVSAAT2S021",
     "Bank Name": "RAIFFEISENBANK WALLERSEE EGEN",
@@ -1535,8 +1535,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "071",
     "SWIFT Code": "RVSAAT2S071",
     "Bank Name": "RAIFFEISENBANK WALS-HIMMELREICH EGEN",
@@ -1548,8 +1548,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "738",
     "SWIFT Code": "RZOOAT2L738",
     "Bank Name": "RAIFFEISENBANK WARTBERG AN DER KREMS EGEN",
@@ -1561,8 +1561,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "106",
     "SWIFT Code": "RLBBAT2E106",
     "Bank Name": "RAIFFEISENBANK WEIDEN AM SEE EGEN",
@@ -1574,8 +1574,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "BGA",
     "SWIFT Code": "RLNWATWWBGA",
     "Bank Name": "RAIFFEISENBANK WEINVIERTEL NORDOST EGEN",
@@ -1587,8 +1587,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "ZDF",
     "SWIFT Code": "RLNWATWWZDF",
     "Bank Name": "RAIFFEISENBANK WEINVIERTEL NORDOST EGEN",
@@ -1600,8 +1600,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "474",
     "SWIFT Code": "RVVGAT2B474",
     "Bank Name": "RAIFFEISENBANK WEISSACHTAL EGEN",
@@ -1613,8 +1613,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "445",
     "SWIFT Code": "RVVGAT2B445",
     "Bank Name": "RAIFFEISENBANK WEISSACHTAL EGEN",
@@ -1626,8 +1626,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "741",
     "SWIFT Code": "RZOOAT2L741",
     "Bank Name": "RAIFFEISENBANK WEISSKIRCHEN A.D. TRAUN EGEN",
@@ -1639,8 +1639,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "187",
     "SWIFT Code": "RZSTAT2G187",
     "Bank Name": "RAIFFEISENBANK WEIZ-ANGER EGEN",
@@ -1652,8 +1652,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "680",
     "SWIFT Code": "RZOOAT2L680",
     "Bank Name": "RAIFFEISENBANK WELS EGEN",
@@ -1665,8 +1665,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "770",
     "SWIFT Code": "RZOOAT2L770",
     "Bank Name": "RAIFFEISENBANK WELS SUED EGEN",
@@ -1678,8 +1678,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "559",
     "SWIFT Code": "RZKTAT2K559",
     "Bank Name": "RAIFFEISENBANK WERNBERG, REG.GEN.M.B.H.",
@@ -1691,8 +1691,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "747",
     "SWIFT Code": "RZOOAT2L747",
     "Bank Name": "RAIFFEISENBANK WEYER EGEN",
@@ -1704,8 +1704,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "PRB",
     "SWIFT Code": "RLNWATWWPRB",
     "Bank Name": "RAIFFEISENBANK WIENERWALD EGEN",
@@ -1717,8 +1717,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "245",
     "SWIFT Code": "RZTIAT22245",
     "Bank Name": "RAIFFEISENBANK WILDER KAISER - BRIXENTAL WEST EGEN",
@@ -1730,8 +1730,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "318",
     "SWIFT Code": "RZTIAT22318",
     "Bank Name": "RAIFFEISENBANK WILDER KAISER - BRIXENTAL WEST EGEN",
@@ -1743,8 +1743,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "354",
     "SWIFT Code": "RZTIAT22354",
     "Bank Name": "RAIFFEISENBANK WILDER KAISER - BRIXENTAL WEST EGEN",
@@ -1756,8 +1756,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "499",
     "SWIFT Code": "RZSTAT2G499",
     "Bank Name": "RAIFFEISENBANK WILDON-PREDING EGEN",
@@ -1769,8 +1769,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "357",
     "SWIFT Code": "RZTIAT22357",
     "Bank Name": "RAIFFEISENBANK WILDSCHOENAU EGEN",
@@ -1782,8 +1782,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "491",
     "SWIFT Code": "RZOOAT2L491",
     "Bank Name": "RAIFFEISENBANK WINDISCHGARSTEN EGEN",
@@ -1795,8 +1795,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "230",
     "SWIFT Code": "RZTIAT22230",
     "Bank Name": "RAIFFEISENBANK WIPPTAL - STUBAITAL MITTE EGEN",
@@ -1808,8 +1808,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "329",
     "SWIFT Code": "RZTIAT22329",
     "Bank Name": "RAIFFEISENBANK WIPPTAL - STUBAITAL MITTE EGEN",
@@ -1821,8 +1821,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "AUE",
     "SWIFT Code": "RLNWATWWAUE",
     "Bank Name": "RAIFFEISENBANK WOLKERSDORF - AUERSTHAL EGEN",
@@ -1834,8 +1834,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "WDF",
     "SWIFT Code": "RLNWATWWWDF",
     "Bank Name": "RAIFFEISENBANK WOLKERSDORF - AUERSTHAL EGEN",
@@ -1847,8 +1847,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "642",
     "SWIFT Code": "RLNWATWW642",
     "Bank Name": "RAIFFEISENBANK WR. NEUSTADT-SCHNEEBERGLAND EGEN",
@@ -1860,8 +1860,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "NSM",
     "SWIFT Code": "RLNWATWWNSM",
     "Bank Name": "RAIFFEISENBANK WR. NEUSTADT-SCHNEEBERGLAND EGEN",
@@ -1873,8 +1873,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "WRN",
     "SWIFT Code": "RLNWATWWWRN",
     "Bank Name": "RAIFFEISENBANK WR. NEUSTADT-SCHNEEBERGLAND EGEN",
@@ -1886,8 +1886,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "WHY",
     "SWIFT Code": "RLNWATWWWHY",
     "Bank Name": "RAIFFEISENBANK YBBSTAL EGEN",
@@ -1899,8 +1899,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "368",
     "SWIFT Code": "RZSTAT2G368",
     "Bank Name": "RAIFFEISENBANK ZIRBENLAND EGEN",
@@ -1912,8 +1912,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "067",
     "SWIFT Code": "RLBBAT2E067",
     "Bank Name": "RAIFFEISENBEZIRKSBANK OBERWART EGEN",
@@ -1925,8 +1925,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "125",
     "SWIFT Code": "RLBBAT2E125",
     "Bank Name": "RAIFFEISENBEZIRKSBANK OBERWART EGEN",
@@ -1938,8 +1938,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "ASPKAT2L",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -1951,8 +1951,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HA8",
     "SWIFT Code": "GIBAATWWHA8",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -1964,8 +1964,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "MTH",
     "SWIFT Code": "ASPKAT2LMTH",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -1977,8 +1977,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "OBE",
     "SWIFT Code": "ASPKAT2LOBE",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -1990,8 +1990,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "PER",
     "SWIFT Code": "ASPKAT2LPER",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2003,8 +2003,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "RAA",
     "SWIFT Code": "ASPKAT2LRAA",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2016,8 +2016,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "SRD",
     "SWIFT Code": "ASPKAT2LSRD",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2029,8 +2029,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "SWA",
     "SWIFT Code": "ASPKAT2LSWA",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2042,8 +2042,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HA7",
     "SWIFT Code": "GIBAATWWHA7",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2055,8 +2055,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "STF",
     "SWIFT Code": "ASPKAT2LSTF",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2068,8 +2068,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HA5",
     "SWIFT Code": "GIBAATWWHA5",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2081,8 +2081,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HA6",
     "SWIFT Code": "GIBAATWWHA6",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2094,8 +2094,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "VOE",
     "SWIFT Code": "ASPKAT2LVOE",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2107,8 +2107,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "WEL",
     "SWIFT Code": "ASPKAT2LWEL",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -2120,8 +2120,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPSC",
-    "bankCode": "AT",
+    "bankCode": "SPSC",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "SPSCAT22",
     "Bank Name": "SPARKASSE SCHWAZ AG",
@@ -2133,8 +2133,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "AT",
+    "bankCode": "SBOS",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SBOSATWW",
     "Bank Name": "STATE STREET BANK INTERNATIONAL GMBH",
@@ -2146,8 +2146,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STSP",
-    "bankCode": "AT",
+    "bankCode": "STSP",
+    "countryCode": "AT",
     "branchCode": "T2G",
     "SWIFT Code": "STSPAT2G",
     "Bank Name": "STEIERMAERKISCHE BANK UND SPARKASSEN AG",
@@ -2159,8 +2159,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KREC",
-    "bankCode": "AT",
+    "bankCode": "KREC",
+    "countryCode": "AT",
     "branchCode": "T2G",
     "SWIFT Code": "KRECAT2G",
     "Bank Name": "STEIERMAERKISCHE BANK UND SPARKASSEN AG",
@@ -2172,8 +2172,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KREC",
-    "bankCode": "AT",
+    "bankCode": "KREC",
+    "countryCode": "AT",
     "branchCode": "WIE",
     "SWIFT Code": "KRECAT2GWIE",
     "Bank Name": "STEIERMAERKISCHE BANK UND SPARKASSEN AG",
@@ -2185,8 +2185,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEUP",
-    "bankCode": "AT",
+    "bankCode": "SEUP",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "SEUPAT22",
     "Bank Name": "STEINHOFF EUROPE AG",
@@ -2198,8 +2198,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPBA",
-    "bankCode": "AT",
+    "bankCode": "OPBA",
+    "countryCode": "AT",
     "branchCode": "TW2",
     "SWIFT Code": "OPBAATW2",
     "Bank Name": "STELLANTIS BANK SA",
@@ -2211,8 +2211,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWAC",
-    "bankCode": "AT",
+    "bankCode": "SWAC",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "SWACAT22",
     "Bank Name": "SWARCO AG",
@@ -2224,8 +2224,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKOM",
-    "bankCode": "AT",
+    "bankCode": "TKOM",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "TKOMATWW",
     "Bank Name": "TELEKOM AUSTRIA AG",
@@ -2237,8 +2237,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPIH",
-    "bankCode": "AT",
+    "bankCode": "SPIH",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "SPIHAT22",
     "Bank Name": "TIROLER SPARKASSE BANKAG INNSBRUCK",
@@ -2250,8 +2250,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "AMS",
     "SWIFT Code": "BKAUATWWAMS",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2263,8 +2263,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "BAD",
     "SWIFT Code": "BKAUATWWBAD",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2276,8 +2276,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "BLU",
     "SWIFT Code": "BKAUATWWBLU",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2289,8 +2289,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "BRU",
     "SWIFT Code": "BKAUATWWBRU",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2302,8 +2302,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "DOR",
     "SWIFT Code": "BKAUATWWDOR",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2315,8 +2315,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "FDK",
     "SWIFT Code": "BKAUATWWFDK",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2328,8 +2328,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "HAL",
     "SWIFT Code": "BKAUATWWHAL",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2341,8 +2341,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "HAN",
     "SWIFT Code": "BKAUATWWHAN",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2354,8 +2354,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "HOL",
     "SWIFT Code": "BKAUATWWHOL",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2367,8 +2367,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "HOR",
     "SWIFT Code": "BKAUATWWHOR",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2380,8 +2380,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "JUD",
     "SWIFT Code": "BKAUATWWJUD",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2393,8 +2393,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "KIT",
     "SWIFT Code": "BKAUATWWKIT",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2406,8 +2406,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "KLB",
     "SWIFT Code": "BKAUATWWKLB",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2419,8 +2419,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "LEO",
     "SWIFT Code": "BKAUATWWLEO",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2432,8 +2432,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "LIE",
     "SWIFT Code": "BKAUATWWLIE",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2445,8 +2445,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "NSS",
     "SWIFT Code": "BKAUATWWNSS",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2458,8 +2458,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "OBP",
     "SWIFT Code": "BKAUATWWOBP",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2471,8 +2471,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "PDF",
     "SWIFT Code": "BKAUATWWPDF",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2484,8 +2484,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "SLA",
     "SWIFT Code": "BKAUATWWSLA",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2497,8 +2497,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "STO",
     "SWIFT Code": "BKAUATWWSTO",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2510,8 +2510,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "TRA",
     "SWIFT Code": "BKAUATWWTRA",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2523,8 +2523,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "TUL",
     "SWIFT Code": "BKAUATWWTUL",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2536,8 +2536,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "LEI",
     "SWIFT Code": "BKAUATWWLEI",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2549,8 +2549,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "VOE",
     "SWIFT Code": "BKAUATWWVOE",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2562,8 +2562,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BKAUATWW",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2575,8 +2575,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "ZEL",
     "SWIFT Code": "BKAUATWWZEL",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -2588,8 +2588,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VSGK",
-    "bankCode": "AT",
+    "bankCode": "VSGK",
+    "countryCode": "AT",
     "branchCode": "130",
     "SWIFT Code": "VSGKAT2K130",
     "Bank Name": "POSOJILNICA BANK EGEN",
@@ -2601,8 +2601,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBT",
-    "bankCode": "AT",
+    "bankCode": "CTBT",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "CTBTATWW",
     "Bank Name": "PREPARATORY COMMISSION FOR THE COMPREHENSIVE NUCLEAR-TEST-BAN TREATY ORGANIZATION (CTBTO)",
@@ -2614,8 +2614,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSSA",
-    "bankCode": "AT",
+    "bankCode": "PSSA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "PSSAATWW",
     "Bank Name": "PSA PAYMENT SERVICES AUSTRIA GMBH",
@@ -2627,8 +2627,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "GFA",
     "SWIFT Code": "RZBAATWWGFA",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2640,8 +2640,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "RZBAATWWT2S",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2653,8 +2653,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "A01",
     "SWIFT Code": "RZBAATWWA01",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2666,8 +2666,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "POP",
     "SWIFT Code": "RZBAATWWPOP",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2679,8 +2679,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "SEC",
     "SWIFT Code": "RZBAATWWSEC",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2692,8 +2692,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "TRE",
     "SWIFT Code": "RZBAATWWTRE",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2705,8 +2705,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "RZBAATWW",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2718,8 +2718,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "VAM",
     "SWIFT Code": "RZBAATWWVAM",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2731,8 +2731,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "REC",
     "SWIFT Code": "RZBAATWWREC",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2744,8 +2744,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "RCB",
     "SWIFT Code": "RZBAATWWRCB",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2757,8 +2757,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "GPL",
     "SWIFT Code": "RZBAATWWGPL",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2770,8 +2770,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "A02",
     "SWIFT Code": "RZBAATWWA02",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2783,8 +2783,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "AT",
+    "bankCode": "RZBA",
+    "countryCode": "AT",
     "branchCode": "A03",
     "SWIFT Code": "RZBAATWWA03",
     "Bank Name": "RAIFFEISEN BANK INTERNATIONAL AG",
@@ -2796,8 +2796,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "436",
     "SWIFT Code": "RZKTAT2K436",
     "Bank Name": "RAIFFEISEN BANK LURNFELD-MOELLTAL EGEN",
@@ -2809,8 +2809,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "412",
     "SWIFT Code": "RZKTAT2K412",
     "Bank Name": "RAIFFEISEN BANK LURNFELD-MOELLTAL EGEN",
@@ -2822,8 +2822,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "383",
     "SWIFT Code": "RZKTAT2K383",
     "Bank Name": "RAIFFEISEN BANK VILLACH REG.GEN.M.B.H.",
@@ -2835,8 +2835,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "496",
     "SWIFT Code": "RZKTAT2K496",
     "Bank Name": "RAIFFEISEN BANK VILLACH REG.GEN.M.B.H.",
@@ -2848,8 +2848,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "216",
     "SWIFT Code": "RZTIAT22216",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK KUFSTEIN EGEN",
@@ -2861,8 +2861,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "223",
     "SWIFT Code": "RZTIAT22223",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK KUFSTEIN EGEN",
@@ -2874,8 +2874,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "358",
     "SWIFT Code": "RZTIAT22358",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK KUFSTEIN EGEN",
@@ -2887,8 +2887,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "063",
     "SWIFT Code": "RLBBAT2E063",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2900,8 +2900,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "090",
     "SWIFT Code": "RLBBAT2E090",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2913,8 +2913,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "002",
     "SWIFT Code": "RLBBAT2E002",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2926,8 +2926,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "004",
     "SWIFT Code": "RLBBAT2E004",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2939,8 +2939,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "033",
     "SWIFT Code": "RLBBAT2E033",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2952,8 +2952,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "038",
     "SWIFT Code": "RLBBAT2E038",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2965,8 +2965,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "071",
     "SWIFT Code": "RLBBAT2E071",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2978,8 +2978,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "114",
     "SWIFT Code": "RLBBAT2E114",
     "Bank Name": "RAIFFEISEN BEZIRKSBANK NEUSIEDL OST EGEN",
@@ -2991,8 +2991,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENB",
-    "bankCode": "AT",
+    "bankCode": "CENB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "CENBATWW",
     "Bank Name": "RAIFFEISEN DIGITAL BANK AG",
@@ -3004,8 +3004,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CENB",
-    "bankCode": "AT",
+    "bankCode": "CENB",
+    "countryCode": "AT",
     "branchCode": "RDB",
     "SWIFT Code": "CENBATWWRDB",
     "Bank Name": "RAIFFEISEN DIGITAL BANK AG",
@@ -3017,8 +3017,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RKAG",
-    "bankCode": "AT",
+    "bankCode": "RKAG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "RKAGATWW",
     "Bank Name": "RAIFFEISEN KAPITALANLAGE-GES. M.B.H.",
@@ -3030,8 +3030,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "T2B",
     "SWIFT Code": "RVVGAT2B",
     "Bank Name": "RAIFFEISEN LANDESBANK VORARLBERG MIT REVISIONSVERBAND EGEN",
@@ -3043,8 +3043,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "400",
     "SWIFT Code": "RVVGAT2B400",
     "Bank Name": "RAIFFEISEN LANDESBANK VORARLBERG MIT REVISIONSVERBAND EGEN",
@@ -3056,8 +3056,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "218",
     "SWIFT Code": "RZTIAT22218",
     "Bank Name": "RAIFFEISEN REGIONALBANK ACHENSEE EGEN",
@@ -3069,8 +3069,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "352",
     "SWIFT Code": "RZTIAT22352",
     "Bank Name": "RAIFFEISEN REGIONALBANK ACHENSEE EGEN",
@@ -3082,8 +3082,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "229",
     "SWIFT Code": "RZTIAT22229",
     "Bank Name": "RAIFFEISEN REGIONALBANK FUEGEN-KALTENBACH-ZELL EGEN",
@@ -3095,8 +3095,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "360",
     "SWIFT Code": "RZTIAT22360",
     "Bank Name": "RAIFFEISEN REGIONALBANK FUEGEN-KALTENBACH-ZELL EGEN",
@@ -3108,8 +3108,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "027",
     "SWIFT Code": "RLBBAT2E027",
     "Bank Name": "RAIFFEISEN REGIONALBANK GUESSING-JENNERSDORF EGEN",
@@ -3121,8 +3121,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "034",
     "SWIFT Code": "RLBBAT2E034",
     "Bank Name": "RAIFFEISEN REGIONALBANK GUESSING-JENNERSDORF EGEN",
@@ -3134,8 +3134,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "041",
     "SWIFT Code": "RLBBAT2E041",
     "Bank Name": "RAIFFEISEN REGIONALBANK GUESSING-JENNERSDORF EGEN",
@@ -3147,8 +3147,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "362",
     "SWIFT Code": "RZTIAT22362",
     "Bank Name": "RAIFFEISEN REGIONALBANK HALL IN TIROL EGEN",
@@ -3160,8 +3160,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "367",
     "SWIFT Code": "RZTIAT22367",
     "Bank Name": "RAIFFEISEN REGIONALBANK MATREI I.O. EGEN",
@@ -3173,8 +3173,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "378",
     "SWIFT Code": "RZTIAT22378",
     "Bank Name": "RAIFFEISEN REGIONALBANK MATREI I.O. EGEN",
@@ -3186,8 +3186,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "PDF",
     "SWIFT Code": "RLNWATWWPDF",
     "Bank Name": "RAIFFEISEN REGIONALBANK MOEDLING EGEN",
@@ -3199,8 +3199,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "GTD",
     "SWIFT Code": "RLNWATWWGTD",
     "Bank Name": "RAIFFEISEN REGIONALBANK MOEDLING EGEN",
@@ -3212,8 +3212,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "272",
     "SWIFT Code": "RZTIAT22272",
     "Bank Name": "RAIFFEISEN REGIONALBANK SCHWAZ-WATTENS EGEN",
@@ -3225,8 +3225,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "322",
     "SWIFT Code": "RZTIAT22322",
     "Bank Name": "RAIFFEISEN REGIONALBANK SCHWAZ-WATTENS EGEN",
@@ -3238,8 +3238,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "126",
     "SWIFT Code": "RZOOAT2L126",
     "Bank Name": "RAIFFEISENBANK ENNSTAL EGEN",
@@ -3251,8 +3251,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "016",
     "SWIFT Code": "RVSAAT2S016",
     "Bank Name": "RAIFFEISENBANK FAISTENAU-HINTERSEE EGEN",
@@ -3264,8 +3264,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "100",
     "SWIFT Code": "RZOOAT2L100",
     "Bank Name": "RAIFFEISENBANK FELDKIRCHEN-GOLDWOERTH EGEN",
@@ -3277,8 +3277,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "015",
     "SWIFT Code": "RVSAAT2S015",
     "Bank Name": "RAIFFEISENBANK FLACHGAU MITTE EGEN",
@@ -3290,8 +3290,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "030",
     "SWIFT Code": "RVSAAT2S030",
     "Bank Name": "RAIFFEISENBANK FLACHGAU NORD EGEN",
@@ -3303,8 +3303,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "074",
     "SWIFT Code": "RLBBAT2E074",
     "Bank Name": "RAIFFEISENBANK FRAUENKIRCHEN-MOENCHHOF-PODERSDORF AM SEE EGEN",
@@ -3316,8 +3316,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "116",
     "SWIFT Code": "RLBBAT2E116",
     "Bank Name": "RAIFFEISENBANK FRAUENKIRCHEN-MOENCHHOF-PODERSDORF AM SEE EGEN",
@@ -3329,8 +3329,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "054",
     "SWIFT Code": "RLBBAT2E054",
     "Bank Name": "RAIFFEISENBANK FRAUENKIRCHEN-MOENCHHOF-PODERSDORF AM SEE EGEN",
@@ -3342,8 +3342,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "501",
     "SWIFT Code": "RZKTAT2K501",
     "Bank Name": "RAIFFEISENBANK FRIESACH-METNITZTAL, REG.GEN.M.B.H.",
@@ -3355,8 +3355,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "065",
     "SWIFT Code": "RVSAAT2S065",
     "Bank Name": "RAIFFEISENBANK FUSCHLSEE WEST EGEN",
@@ -3368,8 +3368,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "094",
     "SWIFT Code": "RZSTAT2G094",
     "Bank Name": "RAIFFEISENBANK GAMLITZ EGEN",
@@ -3381,8 +3381,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "113",
     "SWIFT Code": "RZOOAT2L113",
     "Bank Name": "RAIFFEISENBANK GAMPERN EGEN",
@@ -3394,8 +3394,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "026",
     "SWIFT Code": "RVSAAT2S026",
     "Bank Name": "RAIFFEISENBANK GASTEIN EGEN",
@@ -3407,8 +3407,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "118",
     "SWIFT Code": "RZOOAT2L118",
     "Bank Name": "RAIFFEISENBANK GERETSBERG EGEN",
@@ -3420,8 +3420,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "102",
     "SWIFT Code": "RZSTAT2G102",
     "Bank Name": "RAIFFEISENBANK GLEINSTAETTEN-LEUTSCHACH-GROSS ST. FLORIAN EGEN",
@@ -3433,8 +3433,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "232",
     "SWIFT Code": "RZTIAT22232",
     "Bank Name": "RAIFFEISENBANK GOING EGEN",
@@ -3446,8 +3446,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "017",
     "SWIFT Code": "RVSAAT2S017",
     "Bank Name": "RAIFFEISENBANK GOLLING-SCHEFFAU-KELLAU REG.GEN.M.B.H.",
@@ -3459,8 +3459,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "320",
     "SWIFT Code": "RZKTAT2K320",
     "Bank Name": "RAIFFEISENBANK GRAFENSTEIN-MAGDALENSBERG UND UMGEBUNG, REG.GEN.M.B.H.",
@@ -3472,8 +3472,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "135",
     "SWIFT Code": "RZOOAT2L135",
     "Bank Name": "RAIFFEISENBANK GRAMASTETTEN RODLTAL EGEN",
@@ -3485,8 +3485,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "383",
     "SWIFT Code": "RZOOAT2L383",
     "Bank Name": "RAIFFEISENBANK GRAMASTETTEN RODLTAL EGEN",
@@ -3498,8 +3498,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "111",
     "SWIFT Code": "RZSTAT2G111",
     "Bank Name": "RAIFFEISENBANK GRATKORN EGEN",
@@ -3511,8 +3511,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "138",
     "SWIFT Code": "RZSTAT2G138",
     "Bank Name": "RAIFFEISENBANK GRATWEIN-HITZENDORF EGEN",
@@ -3524,8 +3524,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "367",
     "SWIFT Code": "RZSTAT2G367",
     "Bank Name": "RAIFFEISENBANK GRAZ-ST. PETER EGEN",
@@ -3537,8 +3537,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "439",
     "SWIFT Code": "RZSTAT2G439",
     "Bank Name": "RAIFFEISENBANK GRAZ-STRASSGANG EGEN",
@@ -3550,8 +3550,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "068",
     "SWIFT Code": "RZOOAT2L068",
     "Bank Name": "RAIFFEISENBANK GREIN EGEN",
@@ -3563,8 +3563,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "019",
     "SWIFT Code": "RVSAAT2S019",
     "Bank Name": "RAIFFEISENBANK GROSSARL-HUETTSCHLAG EGEN",
@@ -3576,8 +3576,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "322",
     "SWIFT Code": "RZKTAT2K322",
     "Bank Name": "RAIFFEISENBANK GROSSGLOCKNER-WEISSENSEE EG",
@@ -3589,8 +3589,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "431",
     "SWIFT Code": "RZKTAT2K431",
     "Bank Name": "RAIFFEISENBANK GROSSGLOCKNER-WEISSENSEE EG",
@@ -3602,8 +3602,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "561",
     "SWIFT Code": "RZKTAT2K561",
     "Bank Name": "RAIFFEISENBANK GROSSGLOCKNER-WEISSENSEE EG",
@@ -3615,8 +3615,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "020",
     "SWIFT Code": "RVSAAT2S020",
     "Bank Name": "RAIFFEISENBANK GROSSGMAIN EGEN",
@@ -3628,8 +3628,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "129",
     "SWIFT Code": "RZOOAT2L129",
     "Bank Name": "RAIFFEISENBANK GUNSKIRCHEN EGEN",
@@ -3641,8 +3641,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "128",
     "SWIFT Code": "RZSTAT2G128",
     "Bank Name": "RAIFFEISENBANK HALBENRAIN-TIESCHEN EGEN",
@@ -3654,8 +3654,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "022",
     "SWIFT Code": "RVSAAT2S022",
     "Bank Name": "RAIFFEISENBANK HALLEIN-OBERALM EGEN",
@@ -3667,8 +3667,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "155",
     "SWIFT Code": "RZOOAT2L155",
     "Bank Name": "RAIFFEISENBANK HANDENBERG - ST. GEORGEN A. F. EGEN",
@@ -3680,8 +3680,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "133",
     "SWIFT Code": "RZSTAT2G133",
     "Bank Name": "RAIFFEISENBANK HAUSMANNSTAETTEN EGEN",
@@ -3693,8 +3693,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "170",
     "SWIFT Code": "RZSTAT2G170",
     "Bank Name": "RAIFFEISENBANK HEILIGENKREUZ-KIRCHBACH -ST. GEORGEN EGEN",
@@ -3706,8 +3706,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "543",
     "SWIFT Code": "RZKTAT2K543",
     "Bank Name": "RAIFFEISENBANK HERMAGOR EG",
@@ -3719,8 +3719,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "165",
     "SWIFT Code": "RZOOAT2L165",
     "Bank Name": "RAIFFEISENBANK HINTERSTODER UND VORDERSTODER EGEN",
@@ -3732,8 +3732,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "240",
     "SWIFT Code": "RZTIAT22240",
     "Bank Name": "RAIFFEISENBANK HIPPACH-HART EGEN",
@@ -3745,8 +3745,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "241",
     "SWIFT Code": "RZTIAT22241",
     "Bank Name": "RAIFFEISENBANK HIPPACH-HART EGEN",
@@ -3758,8 +3758,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "012",
     "SWIFT Code": "RVSAAT2S012",
     "Bank Name": "RAIFFEISENBANK HOHE TAUERN EGEN",
@@ -3771,8 +3771,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "027",
     "SWIFT Code": "RVSAAT2S027",
     "Bank Name": "RAIFFEISENBANK HUETTAU-ST. MARTIN-NIEDERNFRITZ REG.GEN.M.B.H.",
@@ -3784,8 +3784,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "151",
     "SWIFT Code": "RZSTAT2G151",
     "Bank Name": "RAIFFEISENBANK ILZ-GROSSSTEINBACH-RIEGERSBURG EGEN",
@@ -3797,8 +3797,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "420",
     "SWIFT Code": "RVVGAT2B420",
     "Bank Name": "RAIFFEISENBANK IM RHEINTAL EGEN",
@@ -3810,8 +3810,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "WTH",
     "SWIFT Code": "RLNWATWWWTH",
     "Bank Name": "RAIFFEISENBANK IM THAYATAL EGEN",
@@ -3823,8 +3823,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "458",
     "SWIFT Code": "RVVGAT2B458",
     "Bank Name": "RAIFFEISENBANK IM WALGAU EGEN",
@@ -3836,8 +3836,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "424",
     "SWIFT Code": "RVVGAT2B424",
     "Bank Name": "RAIFFEISENBANK IM WALGAU EGEN",
@@ -3849,8 +3849,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "318",
     "SWIFT Code": "RLNWATWW318",
     "Bank Name": "RAIFFEISENBANK IM WEINVIERTEL EGEN",
@@ -3862,8 +3862,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "MIB",
     "SWIFT Code": "RLNWATWWMIB",
     "Bank Name": "RAIFFEISENBANK IM WEINVIERTEL EGEN",
@@ -3875,8 +3875,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "POY",
     "SWIFT Code": "RLNWATWWPOY",
     "Bank Name": "RAIFFEISENBANK IM WEINVIERTEL EGEN",
@@ -3888,8 +3888,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "254",
     "SWIFT Code": "RZKTAT2K254",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -3901,8 +3901,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "255",
     "SWIFT Code": "RZKTAT2K255",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -3914,8 +3914,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "374",
     "SWIFT Code": "RZSTAT2G374",
     "Bank Name": "RAIFFEISENBANK MITTLERE SUEDOSTSTEIERMARK EGEN",
@@ -3927,8 +3927,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "075",
     "SWIFT Code": "RZSTAT2G075",
     "Bank Name": "RAIFFEISENBANK MITTLERE SUEDOSTSTEIERMARK EGEN",
@@ -3940,8 +3940,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "465",
     "SWIFT Code": "RZKTAT2K465",
     "Bank Name": "RAIFFEISENBANK MITTLERES LAVANTTAL EGEN",
@@ -3953,8 +3953,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "481",
     "SWIFT Code": "RZKTAT2K481",
     "Bank Name": "RAIFFEISENBANK MITTLERES LAVANTTAL EGEN",
@@ -3966,8 +3966,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "651",
     "SWIFT Code": "RLNWATWW651",
     "Bank Name": "RAIFFEISENBANK MITTLERES MOSTVIERTEL EGEN",
@@ -3979,8 +3979,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "939",
     "SWIFT Code": "RLNWATWW939",
     "Bank Name": "RAIFFEISENBANK MITTLERES MOSTVIERTEL EGEN",
@@ -3992,8 +3992,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "322",
     "SWIFT Code": "RZOOAT2L322",
     "Bank Name": "RAIFFEISENBANK MONDSEELAND EGEN",
@@ -4005,8 +4005,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "422",
     "SWIFT Code": "RVVGAT2B422",
     "Bank Name": "RAIFFEISENBANK MONTFORT EGEN",
@@ -4018,8 +4018,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "429",
     "SWIFT Code": "RVVGAT2B429",
     "Bank Name": "RAIFFEISENBANK MONTFORT EGEN",
@@ -4031,8 +4031,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "461",
     "SWIFT Code": "RVVGAT2B461",
     "Bank Name": "RAIFFEISENBANK MONTFORT EGEN",
@@ -4044,8 +4044,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "402",
     "SWIFT Code": "RVVGAT2B402",
     "Bank Name": "RAIFFEISENBANK MONTFORT EGEN",
@@ -4057,8 +4057,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "411",
     "SWIFT Code": "RZKTAT2K411",
     "Bank Name": "RAIFFEISENBANK MOOSBURG-TIGRING, REG.GEN.M.B.H.",
@@ -4070,8 +4070,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "330",
     "SWIFT Code": "RZOOAT2L330",
     "Bank Name": "RAIFFEISENBANK MUEHLVIERTLER ALM EGEN",
@@ -4083,8 +4083,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "420",
     "SWIFT Code": "RZOOAT2L420",
     "Bank Name": "RAIFFEISENBANK MUEHLVIERTLER ALM EGEN",
@@ -4096,8 +4096,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "186",
     "SWIFT Code": "RZSTAT2G186",
     "Bank Name": "RAIFFEISENBANK MUERZTAL EGEN",
@@ -4109,8 +4109,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "238",
     "SWIFT Code": "RZSTAT2G238",
     "Bank Name": "RAIFFEISENBANK MURAU EGEN",
@@ -4122,8 +4122,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "402",
     "SWIFT Code": "RZSTAT2G402",
     "Bank Name": "RAIFFEISENBANK MURAU EGEN",
@@ -4135,8 +4135,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "370",
     "SWIFT Code": "RZSTAT2G370",
     "Bank Name": "RAIFFEISENBANK MURECK EGEN",
@@ -4148,8 +4148,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "283",
     "SWIFT Code": "RZTIAT22283",
     "Bank Name": "RAIFFEISENBANK NAUDERS EGEN",
@@ -4161,8 +4161,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "252",
     "SWIFT Code": "RZSTAT2G252",
     "Bank Name": "RAIFFEISENBANK NESTELBACH-EGGERSDORF EGEN",
@@ -4174,8 +4174,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "356",
     "SWIFT Code": "RZOOAT2L356",
     "Bank Name": "RAIFFEISENBANK NEUKIRCHEN AN DER VOECKLA EGEN",
@@ -4187,8 +4187,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "085",
     "SWIFT Code": "RLBBAT2E085",
     "Bank Name": "RAIFFEISENBANK NEUSIEDLERSEE-HUEGELLAND EGEN",
@@ -4200,8 +4200,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "092",
     "SWIFT Code": "RLBBAT2E092",
     "Bank Name": "RAIFFEISENBANK NEUSIEDLERSEE-HUEGELLAND EGEN",
@@ -4213,8 +4213,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "012",
     "SWIFT Code": "RLBBAT2E012",
     "Bank Name": "RAIFFEISENBANK NEUSIEDLERSEE-HUEGELLAND EGEN",
@@ -4226,8 +4226,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "055",
     "SWIFT Code": "RLBBAT2E055",
     "Bank Name": "RAIFFEISENBANK NEUSIEDLERSEE-HUEGELLAND EGEN",
@@ -4239,8 +4239,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "275",
     "SWIFT Code": "RZTIAT22275",
     "Bank Name": "RAIFFEISENBANK NEUSTIFT-MIEDERS-SCHOENBERG IM STUBAITAL EGEN",
@@ -4252,8 +4252,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "285",
     "SWIFT Code": "RZTIAT22285",
     "Bank Name": "RAIFFEISENBANK NEUSTIFT-MIEDERS-SCHOENBERG IM STUBAITAL EGEN",
@@ -4265,8 +4265,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "457",
     "SWIFT Code": "RZKTAT2K457",
     "Bank Name": "RAIFFEISENBANK NOCKBERGE EGEN",
@@ -4278,8 +4278,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "461",
     "SWIFT Code": "RZKTAT2K461",
     "Bank Name": "RAIFFEISENBANK NOCKBERGE EGEN",
@@ -4291,8 +4291,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "370",
     "SWIFT Code": "RZOOAT2L370",
     "Bank Name": "RAIFFEISENBANK OBERES INNVIERTEL EGEN",
@@ -4304,8 +4304,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "491",
     "SWIFT Code": "RZKTAT2K491",
     "Bank Name": "RAIFFEISENBANK OBERES LAVANTTAL REG.GEN.M.B.H.",
@@ -4317,8 +4317,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "OWS",
     "SWIFT Code": "RLNWATWWOWS",
     "Bank Name": "RAIFFEISENBANK OBERES WALDVIERTEL EGEN",
@@ -4330,8 +4330,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBRT",
-    "bankCode": "AT",
+    "bankCode": "RBRT",
+    "countryCode": "AT",
     "branchCode": "BHJ",
     "SWIFT Code": "RBRTAT22BHJ",
     "Bank Name": "RAIFFEISENBANK OBERLAND-REUTTE EGEN",
@@ -4343,8 +4343,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "220",
     "SWIFT Code": "RZTIAT22220",
     "Bank Name": "RAIFFEISENBANK OBERLAND-REUTTE EGEN",
@@ -4356,8 +4356,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "359",
     "SWIFT Code": "RZTIAT22359",
     "Bank Name": "RAIFFEISENBANK OBERLAND-REUTTE EGEN",
@@ -4369,8 +4369,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBRT",
-    "bankCode": "AT",
+    "bankCode": "RBRT",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "RBRTAT22",
     "Bank Name": "RAIFFEISENBANK OBERLAND-REUTTE EGEN",
@@ -4382,8 +4382,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "039",
     "SWIFT Code": "RVSAAT2S039",
     "Bank Name": "RAIFFEISENBANK OBERPINZGAU EGEN",
@@ -4395,8 +4395,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "390",
     "SWIFT Code": "RZOOAT2L390",
     "Bank Name": "RAIFFEISENBANK OHLSDORF EGEN",
@@ -4408,8 +4408,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "510",
     "SWIFT Code": "RZKTAT2K510",
     "Bank Name": "RAIFFEISENBANK OSSIACHER SEE EG",
@@ -4421,8 +4421,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "023",
     "SWIFT Code": "RZSTAT2G023",
     "Bank Name": "RAIFFEISENBANK OSTSTEIERMARK NORD EGEN",
@@ -4434,8 +4434,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "282",
     "SWIFT Code": "RZSTAT2G282",
     "Bank Name": "RAIFFEISENBANK PASSAIL EGEN",
@@ -4447,8 +4447,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "777",
     "SWIFT Code": "RZOOAT2L777",
     "Bank Name": "RAIFFEISENBANK PERG EGEN",
@@ -4460,8 +4460,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "053",
     "SWIFT Code": "RVSAAT2S053",
     "Bank Name": "RAIFFEISENBANK PINZGAU MITTE EGEN",
@@ -4473,8 +4473,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "207",
     "SWIFT Code": "RZTIAT22207",
     "Bank Name": "RAIFFEISENBANK PITZTAL EGEN",
@@ -4486,8 +4486,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "353",
     "SWIFT Code": "RZTIAT22353",
     "Bank Name": "RAIFFEISENBANK PITZTAL EGEN",
@@ -4499,8 +4499,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "434",
     "SWIFT Code": "RZOOAT2L434",
     "Bank Name": "RAIFFEISENBANK POENDORF - FRANKENMARKT EGEN",
@@ -4512,8 +4512,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "055",
     "SWIFT Code": "RVSAAT2S055",
     "Bank Name": "RAIFFEISENBANK PONGAU MITTE EGEN",
@@ -4525,8 +4525,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "437",
     "SWIFT Code": "RZOOAT2L437",
     "Bank Name": "RAIFFEISENBANK PRAMBACHKIRCHEN EGEN",
@@ -4538,8 +4538,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "545",
     "SWIFT Code": "RZOOAT2L545",
     "Bank Name": "RAIFFEISENBANK INNERES SALZKAMMERGUT EGEN",
@@ -4551,8 +4551,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "200",
     "SWIFT Code": "RZOOAT2L200",
     "Bank Name": "RAIFFEISENBANK INNKREIS MITTE EGEN",
@@ -4564,8 +4564,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "214",
     "SWIFT Code": "RZOOAT2L214",
     "Bank Name": "RAIFFEISENBANK KEMATEN-NEUHOFEN EGEN",
@@ -4577,8 +4577,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "263",
     "SWIFT Code": "RZTIAT22263",
     "Bank Name": "RAIFFEISENBANK KITZBUEHEL - ST. JOHANN EGEN",
@@ -4590,8 +4590,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "226",
     "SWIFT Code": "RZOOAT2L226",
     "Bank Name": "RAIFFEISENBANK KLEINMUENCHEN/LINZ EGEN",
@@ -4603,8 +4603,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "367",
     "SWIFT Code": "RLNWATWW367",
     "Bank Name": "RAIFFEISENBANK KLOSTERNEUBURG EGEN",
@@ -4616,8 +4616,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "262",
     "SWIFT Code": "RZTIAT22262",
     "Bank Name": "RAIFFEISENBANK KOESSEN-KIRCHDORF EGEN",
@@ -4629,8 +4629,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "264",
     "SWIFT Code": "RZTIAT22264",
     "Bank Name": "RAIFFEISENBANK KOESSEN-KIRCHDORF EGEN",
@@ -4642,8 +4642,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "364",
     "SWIFT Code": "RZKTAT2K364",
     "Bank Name": "RAIFFEISENBANK KOETSCHACH - MAUTHEN, REG.GEN.M.B.H.",
@@ -4655,8 +4655,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "231",
     "SWIFT Code": "RZOOAT2L231",
     "Bank Name": "RAIFFEISENBANK KOLLERSCHLAG EGEN",
@@ -4668,8 +4668,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "KOR",
     "SWIFT Code": "RLNWATWWKOR",
     "Bank Name": "RAIFFEISENBANK KORNEUBURG EGEN",
@@ -4681,8 +4681,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "KRE",
     "SWIFT Code": "RLNWATWWKRE",
     "Bank Name": "RAIFFEISENBANK KREMS EGEN",
@@ -4694,8 +4694,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "029",
     "SWIFT Code": "RVSAAT2S029",
     "Bank Name": "RAIFFEISENBANK KUCHL-ST. KOLOMAN EGEN",
@@ -4707,8 +4707,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "267",
     "SWIFT Code": "RZTIAT22267",
     "Bank Name": "RAIFFEISENBANK KUNDL-MUENSTER EGEN",
@@ -4720,8 +4720,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "279",
     "SWIFT Code": "RZTIAT22279",
     "Bank Name": "RAIFFEISENBANK KUNDL-MUENSTER EGEN",
@@ -4733,8 +4733,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "LAA",
     "SWIFT Code": "RLNWATWWLAA",
     "Bank Name": "RAIFFEISENBANK LAA/THAYA EGEN",
@@ -4746,8 +4746,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "268",
     "SWIFT Code": "RZTIAT22268",
     "Bank Name": "RAIFFEISENBANK LAENGENFELD EGEN",
@@ -4759,8 +4759,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "001",
     "SWIFT Code": "RVSAAT2S001",
     "Bank Name": "RAIFFEISENBANK LAMMERTAL EGEN",
@@ -4772,8 +4772,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "381",
     "SWIFT Code": "RZKTAT2K381",
     "Bank Name": "RAIFFEISENBANK LANDSKRON - GEGENDTAL, REG.GEN.M.B.H.",
@@ -4785,8 +4785,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "426",
     "SWIFT Code": "RLNWATWW426",
     "Bank Name": "RAIFFEISENBANK LANGENLOIS EGEN",
@@ -4798,8 +4798,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "269",
     "SWIFT Code": "RZTIAT22269",
     "Bank Name": "RAIFFEISENBANK LANGKAMPFEN-THIERSEE EGEN",
@@ -4811,8 +4811,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "339",
     "SWIFT Code": "RZTIAT22339",
     "Bank Name": "RAIFFEISENBANK LANGKAMPFEN-THIERSEE EGEN",
@@ -4824,8 +4824,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "449",
     "SWIFT Code": "RVVGAT2B449",
     "Bank Name": "RAIFFEISENBANK LECH AM ARLBERG EGEN",
@@ -4837,8 +4837,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "206",
     "SWIFT Code": "RZSTAT2G206",
     "Bank Name": "RAIFFEISENBANK LEIBNITZ EGEN",
@@ -4850,8 +4850,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "460",
     "SWIFT Code": "RZSTAT2G460",
     "Bank Name": "RAIFFEISENBANK LEOBEN-BRUCK EGEN",
@@ -4863,8 +4863,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "210",
     "SWIFT Code": "RZSTAT2G210",
     "Bank Name": "RAIFFEISENBANK LIEBOCH-STAINZ EGEN",
@@ -4876,8 +4876,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "400",
     "SWIFT Code": "RZKTAT2K400",
     "Bank Name": "RAIFFEISENBANK LIESER-MALTATAL EG",
@@ -4889,8 +4889,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "464",
     "SWIFT Code": "RZKTAT2K464",
     "Bank Name": "RAIFFEISENBANK LIESER-MALTATAL EG",
@@ -4902,8 +4902,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "227",
     "SWIFT Code": "RZSTAT2G227",
     "Bank Name": "RAIFFEISENBANK LIESINGTAL-ST. STEFAN EGEN",
@@ -4915,8 +4915,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "215",
     "SWIFT Code": "RZSTAT2G215",
     "Bank Name": "RAIFFEISENBANK LIEZEN-ROTTENMANN-TRIEBEN EGEN",
@@ -4928,8 +4928,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "170",
     "SWIFT Code": "RZOOAT2L170",
     "Bank Name": "RAIFFEISENBANK LINZ-LAND WEST EGEN",
@@ -4941,8 +4941,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "276",
     "SWIFT Code": "RZOOAT2L276",
     "Bank Name": "RAIFFEISENBANK LINZ-LAND WEST EGEN",
@@ -4954,8 +4954,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "487",
     "SWIFT Code": "RZSTAT2G487",
     "Bank Name": "RAIFFEISENBANK LIPIZZANERHEIMAT EGEN",
@@ -4967,8 +4967,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "290",
     "SWIFT Code": "RZOOAT2L290",
     "Bank Name": "RAIFFEISENBANK LOCHEN AM SEE EGEN",
@@ -4980,8 +4980,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "063",
     "SWIFT Code": "RVSAAT2S063",
     "Bank Name": "RAIFFEISENBANK LUNGAU EGEN",
@@ -4993,8 +4993,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "312",
     "SWIFT Code": "RZOOAT2L312",
     "Bank Name": "RAIFFEISENBANK MARIA SCHMOLLN-ST. JOHANN EGEN",
@@ -5006,8 +5006,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "129",
     "SWIFT Code": "RZSTAT2G129",
     "Bank Name": "RAIFFEISENBANK MARIAZELLERLAND EGEN",
@@ -5019,8 +5019,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "273",
     "SWIFT Code": "RZTIAT22273",
     "Bank Name": "RAIFFEISENBANK MATREI AM BRENNER UND UMGEBUNG EGEN",
@@ -5032,8 +5032,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "303",
     "SWIFT Code": "RZOOAT2L303",
     "Bank Name": "RAIFFEISENBANK MATTIGTAL EGEN",
@@ -5045,8 +5045,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "274",
     "SWIFT Code": "RZTIAT22274",
     "Bank Name": "RAIFFEISENBANK MAYRHOFEN UND UMGEBUNG EGEN",
@@ -5058,8 +5058,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "313",
     "SWIFT Code": "RZOOAT2L313",
     "Bank Name": "RAIFFEISENBANK MEGGENHOFEN-KEMATEN EGEN",
@@ -5071,8 +5071,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "479",
     "SWIFT Code": "RZKTAT2K479",
     "Bank Name": "RAIFFEISENBANK MILLSTAETTERSEE EG",
@@ -5084,8 +5084,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "405",
     "SWIFT Code": "RVVGAT2B405",
     "Bank Name": "RAIFFEISENBANK MITTEL- UND HINTERBREGENZERWALD EGEN",
@@ -5097,8 +5097,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "423",
     "SWIFT Code": "RVVGAT2B423",
     "Bank Name": "RAIFFEISENBANK MITTEL- UND HINTERBREGENZERWALD EGEN",
@@ -5110,8 +5110,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "340",
     "SWIFT Code": "RZKTAT2K340",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -5123,8 +5123,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "384",
     "SWIFT Code": "RZKTAT2K384",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -5136,8 +5136,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "407",
     "SWIFT Code": "RZKTAT2K407",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -5149,8 +5149,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "475",
     "SWIFT Code": "RZKTAT2K475",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -5162,8 +5162,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "505",
     "SWIFT Code": "RZKTAT2K505",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -5175,8 +5175,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "511",
     "SWIFT Code": "RZKTAT2K511",
     "Bank Name": "RAIFFEISENBANK MITTELKAERNTEN EG",
@@ -5188,8 +5188,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "KLA",
     "SWIFT Code": "BAWAATWWKLA",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5201,8 +5201,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "SAL",
     "SWIFT Code": "BAWAATWWSAL",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5214,8 +5214,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "BRE",
     "SWIFT Code": "BAWAATWWBRE",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5227,8 +5227,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "VIL",
     "SWIFT Code": "BAWAATWWVIL",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5240,8 +5240,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "WP1",
     "SWIFT Code": "BAWAATWWWP1",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5253,8 +5253,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BAWAATWW",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5266,8 +5266,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAWA",
-    "bankCode": "AT",
+    "bankCode": "BAWA",
+    "countryCode": "AT",
     "branchCode": "LIN",
     "SWIFT Code": "BAWAATWWLIN",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5279,8 +5279,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIRA",
-    "bankCode": "AT",
+    "bankCode": "DIRA",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "DIRAAT2S",
     "Bank Name": "BAWAG P.S.K. BANK FUER ARBEIT UND WIRTSCHAFT UND OESTERREICHISCHE POSTSPARKASSE AG",
@@ -5292,8 +5292,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIPG",
-    "bankCode": "AT",
+    "bankCode": "BIPG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BIPGATWW",
     "Bank Name": "BITPANDA GMBH",
@@ -5305,8 +5305,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "GRA",
     "SWIFT Code": "BFKKAT2KGRA",
     "Bank Name": "BKS BANK AG",
@@ -5318,8 +5318,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "BFKKAT2K",
     "Bank Name": "BKS BANK AG",
@@ -5331,8 +5331,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "KLA",
     "SWIFT Code": "BFKKAT2KKLA",
     "Bank Name": "BKS BANK AG",
@@ -5344,8 +5344,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "SPI",
     "SWIFT Code": "BFKKAT2KSPI",
     "Bank Name": "BKS BANK AG",
@@ -5357,8 +5357,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "WIE",
     "SWIFT Code": "BFKKAT2KWIE",
     "Bank Name": "BKS BANK AG",
@@ -5370,8 +5370,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "VIL",
     "SWIFT Code": "BFKKAT2KVIL",
     "Bank Name": "BKS BANK AG",
@@ -5383,8 +5383,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "AT",
+    "bankCode": "BFKK",
+    "countryCode": "AT",
     "branchCode": "WOL",
     "SWIFT Code": "BFKKAT2KWOL",
     "Bank Name": "BKS BANK AG",
@@ -5396,8 +5396,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "AT",
+    "bankCode": "GEBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "GEBAATWW",
     "Bank Name": "BNP PARIBAS S.A.",
@@ -5409,8 +5409,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFFA",
-    "bankCode": "AT",
+    "bankCode": "AFFA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "AFFAATWW",
     "Bank Name": "BUNDESMINISTERIUM FUER FINANZEN",
@@ -5422,8 +5422,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAAH",
-    "bankCode": "AT",
+    "bankCode": "CAAH",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "CAAHATWW",
     "Bank Name": "CCP AUSTRIA ABWICKLUNGSSTELLE FUER BOERSENGESCHAEFTE GMBH",
@@ -5435,8 +5435,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AT",
+    "bankCode": "CITI",
+    "countryCode": "AT",
     "branchCode": "TWX",
     "SWIFT Code": "CITIATWX",
     "Bank Name": "CITIBANK EUROPE PLC",
@@ -5448,8 +5448,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "AT",
+    "bankCode": "COBA",
+    "countryCode": "AT",
     "branchCode": "TWX",
     "SWIFT Code": "COBAATWX",
     "Bank Name": "COMMERZBANK AG",
@@ -5461,8 +5461,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "AT",
+    "bankCode": "COBA",
+    "countryCode": "AT",
     "branchCode": "MCA",
     "SWIFT Code": "COBAATWXMCA",
     "Bank Name": "COMMERZBANK AG, NIEDERLASSUNG WIEN WIEN",
@@ -5474,8 +5474,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESBK",
-    "bankCode": "AT",
+    "bankCode": "ESBK",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "ESBKATWW",
     "Bank Name": "DENIZBANK AG",
@@ -5487,8 +5487,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AT",
+    "bankCode": "DEUT",
+    "countryCode": "AT",
     "branchCode": "UNP",
     "SWIFT Code": "DEUTATWWUNP",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -5500,8 +5500,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AT",
+    "bankCode": "DEUT",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "DEUTATWW",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -5513,8 +5513,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOPH",
-    "bankCode": "AT",
+    "bankCode": "DOPH",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "DOPHAT22",
     "Bank Name": "DOPPELMAYR HOLDING SE",
@@ -5526,8 +5526,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOSP",
-    "bankCode": "AT",
+    "bankCode": "DOSP",
+    "countryCode": "AT",
     "branchCode": "T2D",
     "SWIFT Code": "DOSPAT2D",
     "Bank Name": "DORNBIRNER SPARKASSE BANK AG",
@@ -5539,8 +5539,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAMH",
-    "bankCode": "AT",
+    "bankCode": "EAMH",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "EAMHATWW",
     "Bank Name": "ERSTE ASSET MANAGEMENT GMBH",
@@ -5552,8 +5552,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU1",
     "SWIFT Code": "GIBAATWWTU1",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5565,8 +5565,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "BAD",
     "SWIFT Code": "GIBAATWWBAD",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5578,8 +5578,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "EIS",
     "SWIFT Code": "GIBAATWWEIS",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5591,8 +5591,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "GAE",
     "SWIFT Code": "GIBAATWWGAE",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5604,8 +5604,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "GUE",
     "SWIFT Code": "GIBAATWWGUE",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5617,8 +5617,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "JEN",
     "SWIFT Code": "GIBAATWWJEN",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5630,8 +5630,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "KLB",
     "SWIFT Code": "GIBAATWWKLB",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5643,8 +5643,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "MIS",
     "SWIFT Code": "GIBAATWWMIS",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5656,8 +5656,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "MOE",
     "SWIFT Code": "GIBAATWWMOE",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5669,8 +5669,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "PER",
     "SWIFT Code": "GIBAATWWPER",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5682,8 +5682,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "PIN",
     "SWIFT Code": "GIBAATWWPIN",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5695,8 +5695,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "PUR",
     "SWIFT Code": "GIBAATWWPUR",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5708,8 +5708,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "STP",
     "SWIFT Code": "GIBAATWWSTP",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5721,8 +5721,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "SWE",
     "SWIFT Code": "GIBAATWWSWE",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5734,8 +5734,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "STO",
     "SWIFT Code": "GIBAATWWSTO",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5747,8 +5747,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LA2",
     "SWIFT Code": "GIBAATWWLA2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5760,8 +5760,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "ZI2",
     "SWIFT Code": "GIBAATWWZI2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5773,8 +5773,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "ZI1",
     "SWIFT Code": "GIBAATWWZI1",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5786,8 +5786,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "GIBAATWW",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5799,8 +5799,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "WRN",
     "SWIFT Code": "GIBAATWWWRN",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5812,8 +5812,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "WND",
     "SWIFT Code": "GIBAATWWWND",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5825,8 +5825,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU6",
     "SWIFT Code": "GIBAATWWTU6",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5838,8 +5838,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HA4",
     "SWIFT Code": "GIBAATWWHA4",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5851,8 +5851,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "JE1",
     "SWIFT Code": "GIBAATWWJE1",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5864,8 +5864,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "JE2",
     "SWIFT Code": "GIBAATWWJE2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5877,8 +5877,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LA2",
     "SWIFT Code": "GIBAATWWLA2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5890,8 +5890,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LA3",
     "SWIFT Code": "GIBAATWWLA3",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5903,8 +5903,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LA4",
     "SWIFT Code": "GIBAATWWLA4",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5916,8 +5916,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LA5",
     "SWIFT Code": "GIBAATWWLA5",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5929,8 +5929,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LA6",
     "SWIFT Code": "GIBAATWWLA6",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5942,8 +5942,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "MI2",
     "SWIFT Code": "GIBAATWWMI2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5955,8 +5955,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "MI3",
     "SWIFT Code": "GIBAATWWMI3",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5968,8 +5968,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "PI1",
     "SWIFT Code": "GIBAATWWPI1",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5981,8 +5981,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "PI2",
     "SWIFT Code": "GIBAATWWPI2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -5994,8 +5994,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU4",
     "SWIFT Code": "GIBAATWWTU4",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6007,8 +6007,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU5",
     "SWIFT Code": "GIBAATWWTU5",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6020,8 +6020,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU6",
     "SWIFT Code": "GIBAATWWTU6",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6033,8 +6033,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "WND",
     "SWIFT Code": "GIBAATWWWND",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6046,8 +6046,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "WRN",
     "SWIFT Code": "GIBAATWWWRN",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6059,8 +6059,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "GIBAATWW",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6072,8 +6072,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "ZI1",
     "SWIFT Code": "GIBAATWWZI1",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6085,8 +6085,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "ZI2",
     "SWIFT Code": "GIBAATWWZI2",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6098,8 +6098,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "GU1",
     "SWIFT Code": "GIBAATWWGU1",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6111,8 +6111,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU3",
     "SWIFT Code": "GIBAATWWTU3",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6124,8 +6124,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "WOL",
     "SWIFT Code": "GIBAATWWWOL",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6137,8 +6137,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "ZIS",
     "SWIFT Code": "GIBAATWWZIS",
     "Bank Name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
@@ -6150,8 +6150,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TWG",
     "SWIFT Code": "GIBAATWG",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6163,8 +6163,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HAA",
     "SWIFT Code": "GIBAATWWHAA",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6176,8 +6176,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "LAA",
     "SWIFT Code": "GIBAATWWLAA",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6189,8 +6189,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TU2",
     "SWIFT Code": "GIBAATWWTU2",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6202,8 +6202,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "TUL",
     "SWIFT Code": "GIBAATWWTUL",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6215,8 +6215,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "WO1",
     "SWIFT Code": "GIBAATWWWO1",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6228,8 +6228,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "KAG",
     "SWIFT Code": "GIBAATWGKAG",
     "Bank Name": "ERSTE GROUP BANK AG",
@@ -6241,8 +6241,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUAA",
-    "bankCode": "AT",
+    "bankCode": "EUAA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "EUAAATWW",
     "Bank Name": "EUROPEAN AMERICAN INVESTMENT BANK AG",
@@ -6254,8 +6254,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIIW",
-    "bankCode": "AT",
+    "bankCode": "BIIW",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BIIWATWW",
     "Bank Name": "FLATEXDEGIRO BANK AG",
@@ -6267,8 +6267,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIIW",
-    "bankCode": "AT",
+    "bankCode": "BIIW",
+    "countryCode": "AT",
     "branchCode": "INP",
     "SWIFT Code": "BIIWATWWINP",
     "Bank Name": "FLATEXDEGIRO BANK AG",
@@ -6280,8 +6280,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FTCG",
-    "bankCode": "AT",
+    "bankCode": "FTCG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "FTCGATWW",
     "Bank Name": "FTC CAPITAL GMBH",
@@ -6293,8 +6293,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLAG",
-    "bankCode": "AT",
+    "bankCode": "SLAG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SLAGATWW",
     "Bank Name": "FWU LIFE INSURANCE AUSTRIA AG",
@@ -6306,8 +6306,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGEN",
-    "bankCode": "AT",
+    "bankCode": "BGEN",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BGENATWW",
     "Bank Name": "GENERALI BANK AG",
@@ -6319,8 +6319,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HHOG",
-    "bankCode": "AT",
+    "bankCode": "HHOG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "HHOGATWW",
     "Bank Name": "HEINZEL HOLDING GMBH",
@@ -6332,8 +6332,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPN",
-    "bankCode": "AT",
+    "bankCode": "HYPN",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "HYPNATWW",
     "Bank Name": "HYPO NOE LANDESBANK FUER NIEDEROESTERREICH UND WIEN AG",
@@ -6345,8 +6345,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPN",
-    "bankCode": "AT",
+    "bankCode": "HYPN",
+    "countryCode": "AT",
     "branchCode": "LDS",
     "SWIFT Code": "HYPNATWWLDS",
     "Bank Name": "HYPO NOE LANDESBANK FUER NIEDEROESTERREICH UND WIEN AG",
@@ -6358,8 +6358,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPT",
-    "bankCode": "AT",
+    "bankCode": "HYPT",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "HYPTAT22",
     "Bank Name": "HYPO TIROL BANK AG",
@@ -6371,8 +6371,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYPV",
-    "bankCode": "AT",
+    "bankCode": "HYPV",
+    "countryCode": "AT",
     "branchCode": "T2B",
     "SWIFT Code": "HYPVAT2B",
     "Bank Name": "HYPO VORARLBERG BANK AG",
@@ -6384,8 +6384,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EHBB",
-    "bankCode": "AT",
+    "bankCode": "EHBB",
+    "countryCode": "AT",
     "branchCode": "T2E",
     "SWIFT Code": "EHBBAT2E",
     "Bank Name": "HYPO-BANK BURGENLAND AG",
@@ -6397,8 +6397,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AT",
+    "bankCode": "ICBK",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "ICBKATWW",
     "Bank Name": "ICBC AUSTRIA BANK GMBH",
@@ -6410,8 +6410,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "AT",
+    "bankCode": "INGB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "INGBATWW",
     "Bank Name": "ING BANK N.V.",
@@ -6423,8 +6423,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INOJ",
-    "bankCode": "AT",
+    "bankCode": "INOJ",
+    "countryCode": "AT",
     "branchCode": "T2J",
     "SWIFT Code": "INOJAT2J",
     "Bank Name": "INNIO JENBACHER GMBH AND CO OG",
@@ -6436,8 +6436,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INKM",
-    "bankCode": "AT",
+    "bankCode": "INKM",
+    "countryCode": "AT",
     "branchCode": "TW2",
     "SWIFT Code": "INKMATW2",
     "Bank Name": "INTERMARKET BANK AG",
@@ -6449,8 +6449,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAEA",
-    "bankCode": "AT",
+    "bankCode": "IAEA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "IAEAATWW",
     "Bank Name": "INTERNATIONAL ATOMIC ENERGY AGENCY (IAEA)",
@@ -6462,8 +6462,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IQAM",
-    "bankCode": "AT",
+    "bankCode": "IQAM",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "IQAMATWW",
     "Bank Name": "IQAM INVEST GMBH",
@@ -6475,8 +6475,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISVP",
-    "bankCode": "AT",
+    "bankCode": "ISVP",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "ISVPATWW",
     "Bank Name": "ISAK VERMOEGENS- UND PROJEKTENTWICKLUNGS GMBH",
@@ -6488,8 +6488,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "078",
     "SWIFT Code": "RLBBAT2E078",
     "Bank Name": "RAIFFEISENBANK PURBACH EGEN",
@@ -6501,8 +6501,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "049",
     "SWIFT Code": "RVSAAT2S049",
     "Bank Name": "RAIFFEISENBANK RADSTADT-UNTERTAUERN-FILZMOOS-FORSTAU REG.GEN.M.B.H.",
@@ -6514,8 +6514,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "051",
     "SWIFT Code": "RVSAAT2S051",
     "Bank Name": "RAIFFEISENBANK RAURIS-BUCHEBEN EGEN",
@@ -6527,8 +6527,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "030",
     "SWIFT Code": "RZOOAT2L030",
     "Bank Name": "RAIFFEISENBANK REGION ALTHEIM EGEN",
@@ -6540,8 +6540,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "AMS",
     "SWIFT Code": "RLNWATWWAMS",
     "Bank Name": "RAIFFEISENBANK REGION AMSTETTEN EGEN",
@@ -6553,8 +6553,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "ASC",
     "SWIFT Code": "RLNWATWWASC",
     "Bank Name": "RAIFFEISENBANK REGION AMSTETTEN EGEN",
@@ -6566,8 +6566,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "SGY",
     "SWIFT Code": "RLNWATWWSGY",
     "Bank Name": "RAIFFEISENBANK REGION AMSTETTEN EGEN",
@@ -6579,8 +6579,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "SVH",
     "SWIFT Code": "RLNWATWWSVH",
     "Bank Name": "RAIFFEISENBANK REGION AMSTETTEN EGEN",
@@ -6592,8 +6592,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "277",
     "SWIFT Code": "RZOOAT2L277",
     "Bank Name": "RAIFFEISENBANK REGION BAD LEONFELDEN EGEN",
@@ -6605,8 +6605,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "BAD",
     "SWIFT Code": "RLNWATWWBAD",
     "Bank Name": "RAIFFEISENBANK REGION BADEN EGEN",
@@ -6618,8 +6618,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "GUE",
     "SWIFT Code": "RLNWATWWGUE",
     "Bank Name": "RAIFFEISENBANK REGION BADEN EGEN",
@@ -6631,8 +6631,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "WEB",
     "SWIFT Code": "RLNWATWWWEB",
     "Bank Name": "RAIFFEISENBANK REGION BADEN EGEN",
@@ -6644,8 +6644,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "EBD",
     "SWIFT Code": "RLNWATWWEBD",
     "Bank Name": "RAIFFEISENBANK REGION BADEN EGEN",
@@ -6657,8 +6657,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "060",
     "SWIFT Code": "RZOOAT2L060",
     "Bank Name": "RAIFFEISENBANK REGION BRAUNAU EGEN",
@@ -6670,8 +6670,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "010",
     "SWIFT Code": "RLBBAT2E010",
     "Bank Name": "RAIFFEISENBANK REGION DEUTSCHKREUTZ-HORITSCHON EGEN",
@@ -6683,8 +6683,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "031",
     "SWIFT Code": "RLBBAT2E031",
     "Bank Name": "RAIFFEISENBANK REGION DEUTSCHKREUTZ-HORITSCHON EGEN",
@@ -6696,8 +6696,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "048",
     "SWIFT Code": "RLBBAT2E048",
     "Bank Name": "RAIFFEISENBANK REGION DEUTSCHKREUTZ-HORITSCHON EGEN",
@@ -6709,8 +6709,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "058",
     "SWIFT Code": "RLBBAT2E058",
     "Bank Name": "RAIFFEISENBANK REGION DEUTSCHKREUTZ-HORITSCHON EGEN",
@@ -6722,8 +6722,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "180",
     "SWIFT Code": "RZOOAT2L180",
     "Bank Name": "RAIFFEISENBANK REGION EFERDING EGEN",
@@ -6735,8 +6735,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "071",
     "SWIFT Code": "RZSTAT2G071",
     "Bank Name": "RAIFFEISENBANK REGION FEHRING EGEN",
@@ -6748,8 +6748,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "497",
     "SWIFT Code": "RZSTAT2G497",
     "Bank Name": "RAIFFEISENBANK REGION FELDBACH EGEN",
@@ -6761,8 +6761,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "110",
     "SWIFT Code": "RZOOAT2L110",
     "Bank Name": "RAIFFEISENBANK REGION FREISTADT EGEN",
@@ -6774,8 +6774,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "077",
     "SWIFT Code": "RZSTAT2G077",
     "Bank Name": "RAIFFEISENBANK REGION FUERSTENFELD EGEN",
@@ -6787,8 +6787,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "111",
     "SWIFT Code": "RZOOAT2L111",
     "Bank Name": "RAIFFEISENBANK REGION GALLNEUKIRCHEN EGEN",
@@ -6800,8 +6800,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "161",
     "SWIFT Code": "RZOOAT2L161",
     "Bank Name": "RAIFFEISENBANK REGION GALLNEUKIRCHEN EGEN",
@@ -6813,8 +6813,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "475",
     "SWIFT Code": "RZOOAT2L475",
     "Bank Name": "RAIFFEISENBANK REGION GALLNEUKIRCHEN EGEN",
@@ -6826,8 +6826,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "103",
     "SWIFT Code": "RZSTAT2G103",
     "Bank Name": "RAIFFEISENBANK REGION GLEISDORF-PISCHELSDORF EGEN",
@@ -6839,8 +6839,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "285",
     "SWIFT Code": "RZSTAT2G285",
     "Bank Name": "RAIFFEISENBANK REGION GLEISDORF-PISCHELSDORF EGEN",
@@ -6852,8 +6852,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "377",
     "SWIFT Code": "RZSTAT2G377",
     "Bank Name": "RAIFFEISENBANK REGION GRAZ NORD EGEN",
@@ -6865,8 +6865,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "477",
     "SWIFT Code": "RZSTAT2G477",
     "Bank Name": "RAIFFEISENBANK REGION GRAZ-THALERHOF EGEN",
@@ -6878,8 +6878,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "736",
     "SWIFT Code": "RZOOAT2L736",
     "Bank Name": "RAIFFEISENBANK REGION GRIESKIRCHEN EGEN",
@@ -6891,8 +6891,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "403",
     "SWIFT Code": "RZSTAT2G403",
     "Bank Name": "RAIFFEISENBANK REGION HARTBERG EGEN",
@@ -6904,8 +6904,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "250",
     "SWIFT Code": "RZOOAT2L250",
     "Bank Name": "RAIFFEISENBANK REGION HAUSRUCK EGEN",
@@ -6917,8 +6917,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "380",
     "SWIFT Code": "RZOOAT2L380",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -6930,8 +6930,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "233",
     "SWIFT Code": "RZOOAT2L233",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -6943,8 +6943,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "318",
     "SWIFT Code": "RZOOAT2L318",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -6956,8 +6956,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "321",
     "SWIFT Code": "RZOOAT2L321",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -6969,8 +6969,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "362",
     "SWIFT Code": "RZOOAT2L362",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -6982,8 +6982,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "427",
     "SWIFT Code": "RZOOAT2L427",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -6995,8 +6995,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "481",
     "SWIFT Code": "RZOOAT2L481",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -7008,8 +7008,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "606",
     "SWIFT Code": "RZOOAT2L606",
     "Bank Name": "RAIFFEISENBANK REGION KIRCHDORF EGEN",
@@ -7021,8 +7021,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "361",
     "SWIFT Code": "RZOOAT2L361",
     "Bank Name": "RAIFFEISENBANK REGION NEUFELDEN EGEN",
@@ -7034,8 +7034,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "535",
     "SWIFT Code": "RZOOAT2L535",
     "Bank Name": "RAIFFEISENBANK REGION NEUFELDEN EGEN",
@@ -7047,8 +7047,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "300",
     "SWIFT Code": "RZOOAT2L300",
     "Bank Name": "RAIFFEISENBANK REGION NEUFELDEN EGEN",
@@ -7060,8 +7060,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "072",
     "SWIFT Code": "RLBBAT2E072",
     "Bank Name": "RAIFFEISENBANK REGION PARNDORF EGEN",
@@ -7073,8 +7073,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "442",
     "SWIFT Code": "RZOOAT2L442",
     "Bank Name": "RAIFFEISENBANK REGION PEUERBACH EGEN",
@@ -7086,8 +7086,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "521",
     "SWIFT Code": "RZOOAT2L521",
     "Bank Name": "RAIFFEISENBANK REGION PEUERBACH EGEN",
@@ -7099,8 +7099,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "284",
     "SWIFT Code": "RZOOAT2L284",
     "Bank Name": "RAIFFEISENBANK REGION RIED I.I. EGEN",
@@ -7112,8 +7112,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "450",
     "SWIFT Code": "RZOOAT2L450",
     "Bank Name": "RAIFFEISENBANK REGION RIED I.I. EGEN",
@@ -7125,8 +7125,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "735",
     "SWIFT Code": "RZOOAT2L735",
     "Bank Name": "RAIFFEISENBANK REGION RIED I.I. EGEN",
@@ -7138,8 +7138,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "160",
     "SWIFT Code": "RZOOAT2L160",
     "Bank Name": "RAIFFEISENBANK REGION ROHRBACH EGEN",
@@ -7151,8 +7151,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "410",
     "SWIFT Code": "RZOOAT2L410",
     "Bank Name": "RAIFFEISENBANK REGION ROHRBACH EGEN",
@@ -7164,8 +7164,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "455",
     "SWIFT Code": "RZOOAT2L455",
     "Bank Name": "RAIFFEISENBANK REGION SCHAERDING EGEN",
@@ -7177,8 +7177,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "455",
     "SWIFT Code": "RLNWATWW455",
     "Bank Name": "RAIFFEISENBANK REGION SCHALLABURG EGEN",
@@ -7190,8 +7190,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "PZD",
     "SWIFT Code": "RLNWATWWPZD",
     "Bank Name": "RAIFFEISENBANK REGION SCHALLABURG EGEN",
@@ -7203,8 +7203,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "400",
     "SWIFT Code": "RZOOAT2L400",
     "Bank Name": "RAIFFEISENBANK REGION SCHWANENSTADT EGEN",
@@ -7216,8 +7216,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "630",
     "SWIFT Code": "RZOOAT2L630",
     "Bank Name": "RAIFFEISENBANK REGION SCHWANENSTADT EGEN",
@@ -7229,8 +7229,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "823",
     "SWIFT Code": "RLNWATWW823",
     "Bank Name": "RAIFFEISENBANK REGION SCHWECHAT EGEN",
@@ -7242,8 +7242,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "157",
     "SWIFT Code": "RZOOAT2L157",
     "Bank Name": "RAIFFEISENBANK REGION SIERNING-ENNS EGEN",
@@ -7255,8 +7255,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "560",
     "SWIFT Code": "RZOOAT2L560",
     "Bank Name": "RAIFFEISENBANK REGION SIERNING-ENNS EGEN",
@@ -7268,8 +7268,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "769",
     "SWIFT Code": "RLNWATWW769",
     "Bank Name": "RAIFFEISENBANK REGION ST. POELTEN EGEN",
@@ -7281,8 +7281,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "OBG",
     "SWIFT Code": "RLNWATWWOBG",
     "Bank Name": "RAIFFEISENBANK REGION ST. POELTEN EGEN",
@@ -7294,8 +7294,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "710",
     "SWIFT Code": "RZOOAT2L710",
     "Bank Name": "RAIFFEISENBANK REGION VOECKLABRUCK EGEN",
@@ -7307,8 +7307,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "ZWE",
     "SWIFT Code": "RLNWATWWZWE",
     "Bank Name": "RAIFFEISENBANK REGION WALDVIERTEL MITTE EGEN",
@@ -7320,8 +7320,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "ASP",
     "SWIFT Code": "RLNWATWWASP",
     "Bank Name": "RAIFFEISENBANK REGION WIENER ALPEN EGEN",
@@ -7333,8 +7333,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "KIG",
     "SWIFT Code": "RLNWATWWKIG",
     "Bank Name": "RAIFFEISENBANK REGION WIENER ALPEN EGEN",
@@ -7346,8 +7346,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "390",
     "SWIFT Code": "RZKTAT2K390",
     "Bank Name": "RAIFFEISENBANK REGION WOERTHERSEE EG",
@@ -7359,8 +7359,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "355",
     "SWIFT Code": "RZKTAT2K355",
     "Bank Name": "RAIFFEISENBANK REGION WOERTHERSEE EG",
@@ -7372,8 +7372,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "487",
     "SWIFT Code": "RZKTAT2K487",
     "Bank Name": "RAIFFEISENBANK ROSENTAL, REG.GEN.M.B.H.",
@@ -7385,8 +7385,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "052",
     "SWIFT Code": "RVSAAT2S052",
     "Bank Name": "RAIFFEISENBANK SAALBACH-HINTERGLEMM-VIEHHOFEN EGEN",
@@ -7398,8 +7398,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "034",
     "SWIFT Code": "RVSAAT2S034",
     "Bank Name": "RAIFFEISENBANK SALZBURG LIEFERING-MAXGLAN-SIEZENHEIM EGEN",
@@ -7411,8 +7411,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "047",
     "SWIFT Code": "RVSAAT2S047",
     "Bank Name": "RAIFFEISENBANK SALZBURGER SEENLAND EGEN",
@@ -7424,8 +7424,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "510",
     "SWIFT Code": "RZOOAT2L510",
     "Bank Name": "RAIFFEISENBANK SALZKAMMERGUT EGEN",
@@ -7437,8 +7437,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "043",
     "SWIFT Code": "RZSTAT2G043",
     "Bank Name": "RAIFFEISENBANK SCHILCHERLAND EGEN",
@@ -7450,8 +7450,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "113",
     "SWIFT Code": "RZSTAT2G113",
     "Bank Name": "RAIFFEISENBANK SCHLADMING-GROEBMING EGEN",
@@ -7463,8 +7463,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "314",
     "SWIFT Code": "RZTIAT22314",
     "Bank Name": "RAIFFEISENBANK SEEFELD-LEUTASCH-REITH-SCHARNITZ REG.GEN.M.B.H.",
@@ -7476,8 +7476,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "306",
     "SWIFT Code": "RZTIAT22306",
     "Bank Name": "RAIFFEISENBANK SERFAUS-FISS-RIED EGEN",
@@ -7489,8 +7489,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "315",
     "SWIFT Code": "RZTIAT22315",
     "Bank Name": "RAIFFEISENBANK SERFAUS-FISS-RIED EGEN",
@@ -7502,8 +7502,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "368",
     "SWIFT Code": "RZTIAT22368",
     "Bank Name": "RAIFFEISENBANK SILLIAN - LIENZER TALBODEN EGEN",
@@ -7515,8 +7515,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "373",
     "SWIFT Code": "RZTIAT22373",
     "Bank Name": "RAIFFEISENBANK SILLIAN - LIENZER TALBODEN EGEN",
@@ -7528,8 +7528,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "316",
     "SWIFT Code": "RZTIAT22316",
     "Bank Name": "RAIFFEISENBANK SILZ-HAIMING UND UMGEBUNG EGEN",
@@ -7541,8 +7541,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "324",
     "SWIFT Code": "RZTIAT22324",
     "Bank Name": "RAIFFEISENBANK SOELDEN EGEN",
@@ -7554,8 +7554,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "069",
     "SWIFT Code": "RVSAAT2S069",
     "Bank Name": "RAIFFEISENBANK ST. JOHANN-WAGRAIN-KLEINARL EGEN",
@@ -7567,8 +7567,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "530",
     "SWIFT Code": "RZOOAT2L530",
     "Bank Name": "RAIFFEISENBANK ST. MARIEN EGEN",
@@ -7580,8 +7580,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "060",
     "SWIFT Code": "RVSAAT2S060",
     "Bank Name": "RAIFFEISENBANK ST. MARTIN-LOFER-WEISSBACH EGEN",
@@ -7593,8 +7593,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "500",
     "SWIFT Code": "RZKTAT2K500",
     "Bank Name": "RAIFFEISENBANK ST. PAUL IM LAVANTTAL EGEN",
@@ -7606,8 +7606,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "540",
     "SWIFT Code": "RZOOAT2L540",
     "Bank Name": "RAIFFEISENBANK ST. ROMAN EGEN",
@@ -7619,8 +7619,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "349",
     "SWIFT Code": "RZTIAT22349",
     "Bank Name": "RAIFFEISENBANK ST. ULRICH - WAIDRING EGEN",
@@ -7632,8 +7632,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "522",
     "SWIFT Code": "RZOOAT2L522",
     "Bank Name": "RAIFFEISENBANK ST.FLORIAN AM INN EGEN",
@@ -7645,8 +7645,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "056",
     "SWIFT Code": "RVSAAT2S056",
     "Bank Name": "RAIFFEISENBANK ST.GILGEN-FUSCHL-STROBL EGEN",
@@ -7658,8 +7658,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "433",
     "SWIFT Code": "RZSTAT2G433",
     "Bank Name": "RAIFFEISENBANK STALLHOFEN EGEN",
@@ -7671,8 +7671,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "633",
     "SWIFT Code": "RZOOAT2L633",
     "Bank Name": "RAIFFEISENBANK STEINBACH-GRUENBURG EGEN",
@@ -7684,8 +7684,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "249",
     "SWIFT Code": "RZSTAT2G249",
     "Bank Name": "RAIFFEISENBANK STEIRISCHES SALZKAMMERGUT-OEBLARN EGEN",
@@ -7697,8 +7697,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "543",
     "SWIFT Code": "RZOOAT2L543",
     "Bank Name": "RAIFFEISENBANK STEYR EGEN",
@@ -7710,8 +7710,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "114",
     "SWIFT Code": "RZOOAT2L114",
     "Bank Name": "RAIFFEISENBANK STEYR EGEN",
@@ -7723,8 +7723,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "STO",
     "SWIFT Code": "RLNWATWWSTO",
     "Bank Name": "RAIFFEISENBANK STOCKERAU EGEN",
@@ -7736,8 +7736,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "436",
     "SWIFT Code": "RZSTAT2G436",
     "Bank Name": "RAIFFEISENBANK STRADEN EGEN",
@@ -7749,8 +7749,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "420",
     "SWIFT Code": "RZSTAT2G420",
     "Bank Name": "RAIFFEISENBANK STRASS-SPIELFELD EGEN",
@@ -7762,8 +7762,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "062",
     "SWIFT Code": "RVSAAT2S062",
     "Bank Name": "RAIFFEISENBANK STRASSWALCHEN EGEN",
@@ -7775,8 +7775,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "056",
     "SWIFT Code": "RZSTAT2G056",
     "Bank Name": "RAIFFEISENBANK SUED-WESTSTEIERMARK EGEN",
@@ -7788,8 +7788,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITBA",
-    "bankCode": "AT",
+    "bankCode": "ITBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "ITBAATWW",
     "Bank Name": "ITHUBA CAPITAL AG",
@@ -7801,8 +7801,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBLU",
-    "bankCode": "AT",
+    "bankCode": "JBLU",
+    "countryCode": "AT",
     "branchCode": "T2H",
     "SWIFT Code": "JBLUAT2H",
     "Bank Name": "JULIUS BLUM GMBH",
@@ -7814,8 +7814,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "AT",
+    "bankCode": "KSPK",
+    "countryCode": "AT",
     "branchCode": "FRI",
     "SWIFT Code": "KSPKAT2KFRI",
     "Bank Name": "KAERNTNER SPARKASSE AG",
@@ -7827,8 +7827,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "AT",
+    "bankCode": "KSPK",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "KSPKAT2K",
     "Bank Name": "KAERNTNER SPARKASSE AG",
@@ -7840,8 +7840,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "AT",
+    "bankCode": "KSPK",
+    "countryCode": "AT",
     "branchCode": "STV",
     "SWIFT Code": "KSPKAT2KSTV",
     "Bank Name": "KAERNTNER SPARKASSE AG",
@@ -7853,8 +7853,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "AT",
+    "bankCode": "KSPK",
+    "countryCode": "AT",
     "branchCode": "SPI",
     "SWIFT Code": "KSPKAT2KSPI",
     "Bank Name": "KAERNTNER SPARKASSE AG",
@@ -7866,8 +7866,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "AT",
+    "bankCode": "KSPK",
+    "countryCode": "AT",
     "branchCode": "VIL",
     "SWIFT Code": "KSPKAT2KVIL",
     "Bank Name": "KAERNTNER SPARKASSE AG",
@@ -7879,8 +7879,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "AT",
+    "bankCode": "KSPK",
+    "countryCode": "AT",
     "branchCode": "WOL",
     "SWIFT Code": "KSPKAT2KWOL",
     "Bank Name": "KAERNTNER SPARKASSE AG",
@@ -7892,8 +7892,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KTBK",
-    "bankCode": "AT",
+    "bankCode": "KTBK",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "KTBKATWW",
     "Bank Name": "KATHREIN PRIVATBANK AG",
@@ -7905,8 +7905,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVO",
-    "bankCode": "AT",
+    "bankCode": "INVO",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "INVOATWW",
     "Bank Name": "KOMMUNALKREDIT AUSTRIA AG",
@@ -7918,8 +7918,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOAL",
-    "bankCode": "AT",
+    "bankCode": "BOAL",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "BOALAT2L",
     "Bank Name": "LAT NITROGEN AUSTRIA GMBH",
@@ -7931,8 +7931,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "AT",
+    "bankCode": "BLFL",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BLFLATWW",
     "Bank Name": "LGT BANK AG",
@@ -7944,8 +7944,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLFL",
-    "bankCode": "AT",
+    "bankCode": "BLFL",
+    "countryCode": "AT",
     "branchCode": "EXC",
     "SWIFT Code": "BLFLATWWEXC",
     "Bank Name": "LGT BANK AG",
@@ -7957,8 +7957,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COPR",
-    "bankCode": "AT",
+    "bankCode": "COPR",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "COPRATWW",
     "Bank Name": "LIECHTENSTEINISCHE LANDESBANK (OESTERREICH) AG",
@@ -7970,8 +7970,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MVOG",
-    "bankCode": "AT",
+    "bankCode": "MVOG",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "MVOGAT22",
     "Bank Name": "MARCHFELDER BANK EG",
@@ -7983,8 +7983,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMAG",
-    "bankCode": "AT",
+    "bankCode": "MMAG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "MMAGATWW",
     "Bank Name": "MAYR-MELNHOF KARTON AG",
@@ -7996,8 +7996,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "AT",
+    "bankCode": "MHCB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "MHCBATWW",
     "Bank Name": "MIZUHO BANK EUROPE N.V.",
@@ -8009,8 +8009,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMCA",
-    "bankCode": "AT",
+    "bankCode": "MMCA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "MMCAATWW",
     "Bank Name": "MM BOARD AND PAPER GMBH",
@@ -8022,8 +8022,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMPA",
-    "bankCode": "AT",
+    "bankCode": "MMPA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "MMPAATWW",
     "Bank Name": "MM PACKAGING GMBH",
@@ -8035,8 +8035,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NTBA",
-    "bankCode": "AT",
+    "bankCode": "NTBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "NTBAATWW",
     "Bank Name": "NOTARTREUHANDBANK AG",
@@ -8048,8 +8048,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "ALH",
     "SWIFT Code": "OBKLAT2LALH",
     "Bank Name": "OBERBANK AG",
@@ -8061,8 +8061,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "AMS",
     "SWIFT Code": "OBKLAT2LAMS",
     "Bank Name": "OBERBANK AG",
@@ -8074,8 +8074,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "ATP",
     "SWIFT Code": "OBKLAT2LATP",
     "Bank Name": "OBERBANK AG",
@@ -8087,8 +8087,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "BDA",
     "SWIFT Code": "OBKLAT2LBDA",
     "Bank Name": "OBERBANK AG",
@@ -8100,8 +8100,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "BDG",
     "SWIFT Code": "OBKLAT2LBDG",
     "Bank Name": "OBERBANK AG",
@@ -8113,8 +8113,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "BHG",
     "SWIFT Code": "OBKLAT2LBHG",
     "Bank Name": "OBERBANK AG",
@@ -8126,8 +8126,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "BDI",
     "SWIFT Code": "OBKLAT2LBDI",
     "Bank Name": "OBERBANK AG",
@@ -8139,8 +8139,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "BIS",
     "SWIFT Code": "OBKLAT2LBIS",
     "Bank Name": "OBERBANK AG",
@@ -8152,8 +8152,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "BRA",
     "SWIFT Code": "OBKLAT2LBRA",
     "Bank Name": "OBERBANK AG",
@@ -8165,8 +8165,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "EBE",
     "SWIFT Code": "OBKLAT2LEBE",
     "Bank Name": "OBERBANK AG",
@@ -8178,8 +8178,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "EFE",
     "SWIFT Code": "OBKLAT2LEFE",
     "Bank Name": "OBERBANK AG",
@@ -8191,8 +8191,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "EIS",
     "SWIFT Code": "OBKLAT2LEIS",
     "Bank Name": "OBERBANK AG",
@@ -8204,8 +8204,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "ENN",
     "SWIFT Code": "OBKLAT2LENN",
     "Bank Name": "OBERBANK AG",
@@ -8217,8 +8217,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "FRE",
     "SWIFT Code": "OBKLAT2LFRE",
     "Bank Name": "OBERBANK AG",
@@ -8230,8 +8230,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "GAL",
     "SWIFT Code": "OBKLAT2LGAL",
     "Bank Name": "OBERBANK AG",
@@ -8243,8 +8243,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "GRI",
     "SWIFT Code": "OBKLAT2LGRI",
     "Bank Name": "OBERBANK AG",
@@ -8256,8 +8256,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "HAN",
     "SWIFT Code": "OBKLAT2LHAN",
     "Bank Name": "OBERBANK AG",
@@ -8269,8 +8269,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "KIR",
     "SWIFT Code": "OBKLAT2LKIR",
     "Bank Name": "OBERBANK AG",
@@ -8282,8 +8282,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "KLB",
     "SWIFT Code": "OBKLAT2LKLB",
     "Bank Name": "OBERBANK AG",
@@ -8295,8 +8295,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "KRE",
     "SWIFT Code": "OBKLAT2LKRE",
     "Bank Name": "OBERBANK AG",
@@ -8308,8 +8308,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "KRM",
     "SWIFT Code": "OBKLAT2LKRM",
     "Bank Name": "OBERBANK AG",
@@ -8321,8 +8321,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "LAA",
     "SWIFT Code": "OBKLAT2LLAA",
     "Bank Name": "OBERBANK AG",
@@ -8334,8 +8334,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "LEN",
     "SWIFT Code": "OBKLAT2LLEN",
     "Bank Name": "OBERBANK AG",
@@ -8347,8 +8347,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "LOG",
     "SWIFT Code": "OBKLAT2LLOG",
     "Bank Name": "OBERBANK AG",
@@ -8360,8 +8360,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "GMU",
     "SWIFT Code": "OBKLAT2LGMU",
     "Bank Name": "OBERBANK AG",
@@ -8373,8 +8373,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "HAI",
     "SWIFT Code": "OBKLAT2LHAI",
     "Bank Name": "OBERBANK AG",
@@ -8386,8 +8386,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "STE",
     "SWIFT Code": "OBKLAT2LSTE",
     "Bank Name": "OBERBANK AG",
@@ -8399,8 +8399,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "OBKLAT2L",
     "Bank Name": "OBERBANK AG",
@@ -8412,8 +8412,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "FON",
     "SWIFT Code": "OBKLAT2LFON",
     "Bank Name": "OBERBANK AG",
@@ -8425,8 +8425,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBKL",
-    "bankCode": "AT",
+    "bankCode": "OBKL",
+    "countryCode": "AT",
     "branchCode": "MAR",
     "SWIFT Code": "OBKLAT2LMAR",
     "Bank Name": "OBERBANK AG",
@@ -8438,8 +8438,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "DIA",
     "SWIFT Code": "BKAUATWWDIA",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -8451,8 +8451,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "WEI",
     "SWIFT Code": "BKAUATWWWEI",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -8464,8 +8464,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "WOE",
     "SWIFT Code": "BKAUATWWWOE",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -8477,8 +8477,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKAU",
-    "bankCode": "AT",
+    "bankCode": "BKAU",
+    "countryCode": "AT",
     "branchCode": "WOL",
     "SWIFT Code": "BKAUATWWWOL",
     "Bank Name": "UNICREDIT BANK AUSTRIA AG",
@@ -8490,8 +8490,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIB",
-    "bankCode": "AT",
+    "bankCode": "CAIB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "CAIBATWW",
     "Bank Name": "UNICREDIT BANK GMBH",
@@ -8503,8 +8503,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UING",
-    "bankCode": "AT",
+    "bankCode": "UING",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "UINGATWW",
     "Bank Name": "UNIQA INSURANCE GROUP AG",
@@ -8516,8 +8516,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TVBA",
-    "bankCode": "AT",
+    "bankCode": "TVBA",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "TVBAATWW",
     "Bank Name": "VAKIFBANK INTERNATIONAL AG",
@@ -8529,8 +8529,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAAG",
-    "bankCode": "AT",
+    "bankCode": "VAAG",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "VAAGATWW",
     "Bank Name": "VAMED AG",
@@ -8542,8 +8542,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "AT",
+    "bankCode": "VPAY",
+    "countryCode": "AT",
     "branchCode": "TW2",
     "SWIFT Code": "VPAYATW2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A.",
@@ -8555,8 +8555,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "KLA",
     "SWIFT Code": "VBOEATWWKLA",
     "Bank Name": "VOLKSBANK KAERNTEN EG",
@@ -8568,8 +8568,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "NOM",
     "SWIFT Code": "VBOEATWWNOM",
     "Bank Name": "VOLKSBANK NIEDEROESTERREICH AG",
@@ -8581,8 +8581,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBWE",
-    "bankCode": "AT",
+    "bankCode": "VBWE",
+    "countryCode": "AT",
     "branchCode": "02L",
     "SWIFT Code": "VBWEAT2W02L",
     "Bank Name": "VOLKSBANK OBEROESTERREICH AG",
@@ -8594,8 +8594,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBWE",
-    "bankCode": "AT",
+    "bankCode": "VBWE",
+    "countryCode": "AT",
     "branchCode": "T2W",
     "SWIFT Code": "VBWEAT2W",
     "Bank Name": "VOLKSBANK OBEROESTERREICH AG",
@@ -8607,8 +8607,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBWE",
-    "bankCode": "AT",
+    "bankCode": "VBWE",
+    "countryCode": "AT",
     "branchCode": "02M",
     "SWIFT Code": "VBWEAT2W02M",
     "Bank Name": "VOLKSBANK OBEROESTERREICH AG",
@@ -8620,8 +8620,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "OOE",
     "SWIFT Code": "VBOEATWWOOE",
     "Bank Name": "VOLKSBANK OBEROESTERREICH AG",
@@ -8633,8 +8633,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "SAL",
     "SWIFT Code": "VBOEATWWSAL",
     "Bank Name": "VOLKSBANK SALZBURG EG",
@@ -8646,8 +8646,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "GRA",
     "SWIFT Code": "VBOEATWWGRA",
     "Bank Name": "VOLKSBANK STEIERMARK AG",
@@ -8659,8 +8659,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "INN",
     "SWIFT Code": "VBOEATWWINN",
     "Bank Name": "VOLKSBANK TIROL AG",
@@ -8672,8 +8672,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "VBG",
     "SWIFT Code": "VBOEATWWVBG",
     "Bank Name": "VOLKSBANK VORARLBERG E. GEN.",
@@ -8685,8 +8685,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VOVB",
-    "bankCode": "AT",
+    "bankCode": "VOVB",
+    "countryCode": "AT",
     "branchCode": "T2B",
     "SWIFT Code": "VOVBAT2B",
     "Bank Name": "VOLKSBANK VORARLBERG E. GEN.",
@@ -8698,8 +8698,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VBOE",
-    "bankCode": "AT",
+    "bankCode": "VBOE",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "VBOEATWW",
     "Bank Name": "VOLKSBANK WIEN AG",
@@ -8711,8 +8711,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VKBL",
-    "bankCode": "AT",
+    "bankCode": "VKBL",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "VKBLAT2L",
     "Bank Name": "VOLKSKREDITBANK AG",
@@ -8724,8 +8724,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RANJ",
-    "bankCode": "AT",
+    "bankCode": "RANJ",
+    "countryCode": "AT",
     "branchCode": "T2B",
     "SWIFT Code": "RANJAT2B",
     "Bank Name": "WALSER RAIFFEISEN BANK AG",
@@ -8737,8 +8737,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUIB",
-    "bankCode": "AT",
+    "bankCode": "WUIB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "WUIBATWW",
     "Bank Name": "WESTERN UNION INTERNATIONAL BANK GMBH",
@@ -8750,8 +8750,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WINS",
-    "bankCode": "AT",
+    "bankCode": "WINS",
+    "countryCode": "AT",
     "branchCode": "TWN",
     "SWIFT Code": "WINSATWN",
     "Bank Name": "WIENER NEUSTAEDTER SPARKASSE",
@@ -8763,8 +8763,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIPB",
-    "bankCode": "AT",
+    "bankCode": "WIPB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "WIPBATWW",
     "Bank Name": "WIENER PRIVATBANK SE",
@@ -8776,8 +8776,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIEN",
-    "bankCode": "AT",
+    "bankCode": "WIEN",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "WIENATWW",
     "Bank Name": "WIENERBERGER FINANZ SERVICE GMBH",
@@ -8789,8 +8789,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUSN",
-    "bankCode": "AT",
+    "bankCode": "WUSN",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "WUSNATWW",
     "Bank Name": "WUESTENROT BANK AG",
@@ -8802,8 +8802,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZKWG",
-    "bankCode": "AT",
+    "bankCode": "ZKWG",
+    "countryCode": "AT",
     "branchCode": "T2W",
     "SWIFT Code": "ZKWGAT2W",
     "Bank Name": "ZKW GROUP GMBH",
@@ -8815,8 +8815,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PIAG",
-    "bankCode": "AT",
+    "bankCode": "PIAG",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "PIAGAT2S",
     "Bank Name": "ZUERCHER KANTONALBANK OESTERREICH AG",
@@ -8828,8 +8828,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "351",
     "SWIFT Code": "RZTIAT22351",
     "Bank Name": "RAIFFEISEN REGIONALBANK SCHWAZ-WATTENS EGEN",
@@ -8841,8 +8841,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "267",
     "SWIFT Code": "RZKTAT2K267",
     "Bank Name": "RAIFFEISEN-BEZIRKSBANK SPITTAL/DRAU, REG.GEN.M.B.H.",
@@ -8854,8 +8854,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "T2G",
     "SWIFT Code": "RZSTAT2G",
     "Bank Name": "RAIFFEISEN-LANDESBANK STEIERMARK AG",
@@ -8867,8 +8867,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "RZTIAT22",
     "Bank Name": "RAIFFEISEN-LANDESBANK TIROL AG",
@@ -8880,8 +8880,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "GAE",
     "SWIFT Code": "RLNWATWWGAE",
     "Bank Name": "RAIFFEISEN-REGIONALBANK GAENSERNDORF EGEN",
@@ -8893,8 +8893,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "200",
     "SWIFT Code": "RZTIAT22200",
     "Bank Name": "RAIFFEISENBANK ABSAM-THAUR-VOLDERS EGEN",
@@ -8906,8 +8906,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "337",
     "SWIFT Code": "RZTIAT22337",
     "Bank Name": "RAIFFEISENBANK ABSAM-THAUR-VOLDERS EGEN",
@@ -8919,8 +8919,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "347",
     "SWIFT Code": "RZTIAT22347",
     "Bank Name": "RAIFFEISENBANK ABSAM-THAUR-VOLDERS EGEN",
@@ -8932,8 +8932,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "001",
     "SWIFT Code": "RZSTAT2G001",
     "Bank Name": "RAIFFEISENBANK ADMONT EGEN",
@@ -8945,8 +8945,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "346",
     "SWIFT Code": "RZSTAT2G346",
     "Bank Name": "RAIFFEISENBANK AICHFELD EGEN",
@@ -8958,8 +8958,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "460",
     "SWIFT Code": "RZOOAT2L460",
     "Bank Name": "RAIFFEISENBANK AIST EGEN",
@@ -8971,8 +8971,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "613",
     "SWIFT Code": "RZOOAT2L613",
     "Bank Name": "RAIFFEISENBANK AIST EGEN",
@@ -8984,8 +8984,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "401",
     "SWIFT Code": "RVVGAT2B401",
     "Bank Name": "RAIFFEISENBANK ALBERSCHWENDE EGEN",
@@ -8997,8 +8997,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "127",
     "SWIFT Code": "RZOOAT2L127",
     "Bank Name": "RAIFFEISENBANK ALMTAL EGEN",
@@ -9010,8 +9010,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "203",
     "SWIFT Code": "RZTIAT22203",
     "Bank Name": "RAIFFEISENBANK ALPBACHTAL EGEN",
@@ -9023,8 +9023,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "004",
     "SWIFT Code": "RVSAAT2S004",
     "Bank Name": "RAIFFEISENBANK ALTENMARKT-FLACHAU-EBEN EGEN",
@@ -9036,8 +9036,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "482",
     "SWIFT Code": "RVVGAT2B482",
     "Bank Name": "RAIFFEISENBANK AM HOFSTEIG EGEN",
@@ -9049,8 +9049,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "007",
     "SWIFT Code": "RVSAAT2S007",
     "Bank Name": "RAIFFEISENBANK ANTHERING - ELIXHAUSEN EGEN",
@@ -9062,8 +9062,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "248",
     "SWIFT Code": "RZTIAT22248",
     "Bank Name": "RAIFFEISENBANK ARLBERG SILVRETTA EGEN",
@@ -9075,8 +9075,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "252",
     "SWIFT Code": "RZTIAT22252",
     "Bank Name": "RAIFFEISENBANK ARLBERG SILVRETTA EGEN",
@@ -9088,8 +9088,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "257",
     "SWIFT Code": "RZKTAT2K257",
     "Bank Name": "RAIFFEISENBANK ARNOLDSTEIN-FUERNITZ EG",
@@ -9101,8 +9101,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "305",
     "SWIFT Code": "RZKTAT2K305",
     "Bank Name": "RAIFFEISENBANK ARNOLDSTEIN-FUERNITZ EG",
@@ -9114,8 +9114,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "016",
     "SWIFT Code": "RZOOAT2L016",
     "Bank Name": "RAIFFEISENBANK ASPACH-WILDENAU EGEN",
@@ -9127,8 +9127,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "523",
     "SWIFT Code": "RZOOAT2L523",
     "Bank Name": "RAIFFEISENBANK ATTERGAU EGEN",
@@ -9140,8 +9140,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "608",
     "SWIFT Code": "RZOOAT2L608",
     "Bank Name": "RAIFFEISENBANK ATTERSEE-NORD EGEN",
@@ -9153,8 +9153,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "363",
     "SWIFT Code": "RZOOAT2L363",
     "Bank Name": "RAIFFEISENBANK ATTERSEE-SUED EGEN",
@@ -9166,8 +9166,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZST",
-    "bankCode": "AT",
+    "bankCode": "RZST",
+    "countryCode": "AT",
     "branchCode": "312",
     "SWIFT Code": "RZSTAT2G312",
     "Bank Name": "RAIFFEISENBANK BAD RADKERSBURG-KLOECH EGEN",
@@ -9179,8 +9179,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "750",
     "SWIFT Code": "RZOOAT2L750",
     "Bank Name": "RAIFFEISENBANK BAD WIMSBACH-NEYDHARTING EGEN",
@@ -9192,8 +9192,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "406",
     "SWIFT Code": "RVVGAT2B406",
     "Bank Name": "RAIFFEISENBANK BEZAU-MELLAU-BIZAU EGEN",
@@ -9205,8 +9205,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "468",
     "SWIFT Code": "RVVGAT2B468",
     "Bank Name": "RAIFFEISENBANK BLUDENZ-MONTAFON EGEN",
@@ -9218,8 +9218,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "410",
     "SWIFT Code": "RVVGAT2B410",
     "Bank Name": "RAIFFEISENBANK BLUDENZ-MONTAFON EGEN",
@@ -9231,8 +9231,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "439",
     "SWIFT Code": "RVVGAT2B439",
     "Bank Name": "RAIFFEISENBANK BODENSEE-LEIBLACHTAL EGEN",
@@ -9244,8 +9244,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVVG",
-    "bankCode": "AT",
+    "bankCode": "RVVG",
+    "countryCode": "AT",
     "branchCode": "431",
     "SWIFT Code": "RVVGAT2B431",
     "Bank Name": "RAIFFEISENBANK BODENSEE-LEIBLACHTAL EGEN",
@@ -9257,8 +9257,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "215",
     "SWIFT Code": "RZTIAT22215",
     "Bank Name": "RAIFFEISENBANK BRIXEN IM THALE EGEN",
@@ -9270,8 +9270,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "BRL",
     "SWIFT Code": "RLNWATWWBRL",
     "Bank Name": "RAIFFEISENBANK BRUCK-CARNUNTUM EGEN",
@@ -9283,8 +9283,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "271",
     "SWIFT Code": "RZKTAT2K271",
     "Bank Name": "RAIFFEISENBANK BRUECKL-EBERSTEIN-KLEIN ST. PAUL-WAISENBERG, REG.GEN.M.B.H.",
@@ -9296,8 +9296,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "124",
     "SWIFT Code": "RLBBAT2E124",
     "Bank Name": "RAIFFEISENBANK BURGENLAND MITTE EGEN",
@@ -9309,8 +9309,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "046",
     "SWIFT Code": "RLBBAT2E046",
     "Bank Name": "RAIFFEISENBANK BURGENLAND MITTE EGEN",
@@ -9322,8 +9322,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "065",
     "SWIFT Code": "RLBBAT2E065",
     "Bank Name": "RAIFFEISENBANK BURGENLAND MITTE EGEN",
@@ -9335,8 +9335,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "075",
     "SWIFT Code": "RZOOAT2L075",
     "Bank Name": "RAIFFEISENBANK DONAU-AMEISBERG EGEN",
@@ -9348,8 +9348,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "014",
     "SWIFT Code": "RLBBAT2E014",
     "Bank Name": "RAIFFEISENBANK DRASSMARKT-KOBERSDORF-ST. MARTIN EGEN",
@@ -9361,8 +9361,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "404",
     "SWIFT Code": "RZKTAT2K404",
     "Bank Name": "RAIFFEISENBANK DRAUTAL REG.GEN.M.B.H.",
@@ -9374,8 +9374,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "442",
     "SWIFT Code": "RZKTAT2K442",
     "Bank Name": "RAIFFEISENBANK DRAUTAL REG.GEN.M.B.H.",
@@ -9387,8 +9387,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "288",
     "SWIFT Code": "RZKTAT2K288",
     "Bank Name": "RAIFFEISENBANK EBERNDORF REG.GEN.M.B.H.",
@@ -9400,8 +9400,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "081",
     "SWIFT Code": "RZOOAT2L081",
     "Bank Name": "RAIFFEISENBANK EBERSCHWANG-PRAMET EGEN",
@@ -9413,8 +9413,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "438",
     "SWIFT Code": "RZOOAT2L438",
     "Bank Name": "RAIFFEISENBANK EBERSCHWANG-PRAMET EGEN",
@@ -9426,8 +9426,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "083",
     "SWIFT Code": "RZOOAT2L083",
     "Bank Name": "RAIFFEISENBANK EDT-LAMBACH EGEN",
@@ -9439,8 +9439,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "123",
     "SWIFT Code": "RLNWATWW123",
     "Bank Name": "RAIFFEISENBANK EGGENBURG EGEN",
@@ -9452,8 +9452,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "219",
     "SWIFT Code": "RZTIAT22219",
     "Bank Name": "RAIFFEISENBANK EHRWALD-LERMOOS-BIBERWIER EGEN",
@@ -9465,8 +9465,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "080",
     "SWIFT Code": "RZOOAT2L080",
     "Bank Name": "RAIFFEISENBANK ENNSTAL EGEN",
@@ -9478,8 +9478,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "281",
     "SWIFT Code": "RZTIAT22281",
     "Bank Name": "RAIFFEISENKASSE FUER MUTTERS, NATTERS UND KREITH REG.GEN.M.B.H.",
@@ -9491,8 +9491,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "278",
     "SWIFT Code": "RLNWATWW278",
     "Bank Name": "RAIFFEISENKASSE HAIDERSHOFEN EGEN",
@@ -9504,8 +9504,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "NSD",
     "SWIFT Code": "RLNWATWWNSD",
     "Bank Name": "RAIFFEISENKASSE NEUSIEDL A.D.ZAYA EGEN",
@@ -9517,8 +9517,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "ODO",
     "SWIFT Code": "RLNWATWWODO",
     "Bank Name": "RAIFFEISENKASSE ORTH A.D. DONAU EGEN",
@@ -9530,8 +9530,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "310",
     "SWIFT Code": "RZTIAT22310",
     "Bank Name": "RAIFFEISENKASSE RUM-INNSBRUCK/ARZL EGEN",
@@ -9543,8 +9543,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "320",
     "SWIFT Code": "RZTIAT22320",
     "Bank Name": "RAIFFEISENKASSE SCHLITTERS, BRUCK UND STRASS REG.GEN.M.B.H.",
@@ -9556,8 +9556,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "332",
     "SWIFT Code": "RZTIAT22332",
     "Bank Name": "RAIFFEISENKASSE STUMM, STUMMERBERG UND UMGEBUNG REG.GEN.M.B.H.",
@@ -9569,8 +9569,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZTI",
-    "bankCode": "AT",
+    "bankCode": "RZTI",
+    "countryCode": "AT",
     "branchCode": "386",
     "SWIFT Code": "RZTIAT22386",
     "Bank Name": "RAIFFEISENKASSE VILLGRATENTAL EGEN",
@@ -9582,8 +9582,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "135",
     "SWIFT Code": "RLBBAT2E135",
     "Bank Name": "RAIFFEISENLANDESBANK BURGENLAND UND REVISIONSVERBAND EGEN",
@@ -9595,8 +9595,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "035",
     "SWIFT Code": "RLBBAT2E035",
     "Bank Name": "RAIFFEISENLANDESBANK BURGENLAND UND REVISIONSVERBAND EGEN",
@@ -9608,8 +9608,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLBB",
-    "bankCode": "AT",
+    "bankCode": "RLBB",
+    "countryCode": "AT",
     "branchCode": "T2E",
     "SWIFT Code": "RLBBAT2E",
     "Bank Name": "RAIFFEISENLANDESBANK BURGENLAND UND REVISIONSVERBAND EGEN",
@@ -9621,8 +9621,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "358",
     "SWIFT Code": "RZKTAT2K358",
     "Bank Name": "RAIFFEISENLANDESBANK KAERNTEN - RECHENZENTRUM UND REVISIONSVERBAND, REG.GEN.M.B.H.",
@@ -9634,8 +9634,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZKT",
-    "bankCode": "AT",
+    "bankCode": "RZKT",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "RZKTAT2K",
     "Bank Name": "RAIFFEISENLANDESBANK KAERNTEN - RECHENZENTRUM UND REVISIONSVERBAND, REG.GEN.M.B.H.",
@@ -9647,8 +9647,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RLNW",
-    "bankCode": "AT",
+    "bankCode": "RLNW",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "RLNWATWW",
     "Bank Name": "RAIFFEISENLANDESBANK NIEDEROESTERREICH-WIEN AG",
@@ -9660,8 +9660,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "RZOOAT2L",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9673,8 +9673,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLHY",
-    "bankCode": "AT",
+    "bankCode": "SLHY",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "SLHYAT2S",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9686,8 +9686,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLHY",
-    "bankCode": "AT",
+    "bankCode": "SLHY",
+    "countryCode": "AT",
     "branchCode": "500",
     "SWIFT Code": "SLHYAT2S500",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9699,8 +9699,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "920",
     "SWIFT Code": "RZOOAT2L920",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9712,8 +9712,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "796",
     "SWIFT Code": "RZOOAT2L796",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9725,8 +9725,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "950",
     "SWIFT Code": "RZOOAT2L950",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9738,8 +9738,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "921",
     "SWIFT Code": "RZOOAT2L921",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9751,8 +9751,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "923",
     "SWIFT Code": "RZOOAT2L923",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9764,8 +9764,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "955",
     "SWIFT Code": "RZOOAT2L955",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9777,8 +9777,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZOO",
-    "bankCode": "AT",
+    "bankCode": "RZOO",
+    "countryCode": "AT",
     "branchCode": "922",
     "SWIFT Code": "RZOOAT2L922",
     "Bank Name": "RAIFFEISENLANDESBANK OBEROESTERREICH AG",
@@ -9790,8 +9790,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RVSA",
-    "bankCode": "AT",
+    "bankCode": "RVSA",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "RVSAAT2S",
     "Bank Name": "RAIFFEISENVERBAND SALZBURG EGEN",
@@ -9803,8 +9803,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBDM",
-    "bankCode": "AT",
+    "bankCode": "RBDM",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "RBDMAT22",
     "Bank Name": "RED BULL GMBH",
@@ -9816,8 +9816,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFFA",
-    "bankCode": "AT",
+    "bankCode": "AFFA",
+    "countryCode": "AT",
     "branchCode": "ABB",
     "SWIFT Code": "AFFAATWWABB",
     "Bank Name": "REPUBLIC OF AUSTRIA-FEDERAL MINISTRY OF FINANCE",
@@ -9829,8 +9829,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUND",
-    "bankCode": "AT",
+    "bankCode": "BUND",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BUNDATWW",
     "Bank Name": "REPUBLIK OESTERREICH",
@@ -9842,8 +9842,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RINI",
-    "bankCode": "AT",
+    "bankCode": "RINI",
+    "countryCode": "AT",
     "branchCode": "T2L",
     "SWIFT Code": "RINIAT2L",
     "Bank Name": "ROSENBAUER INTERNATIONAL AG",
@@ -9855,8 +9855,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBGS",
-    "bankCode": "AT",
+    "bankCode": "SBGS",
+    "countryCode": "AT",
     "branchCode": "T2S",
     "SWIFT Code": "SBGSAT2S",
     "Bank Name": "SALZBURGER SPARKASSE BANK AG",
@@ -9868,8 +9868,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SANT",
-    "bankCode": "AT",
+    "bankCode": "SANT",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SANTATWW",
     "Bank Name": "SANTANDER CONSUMER BANK GMBH",
@@ -9881,8 +9881,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSW",
-    "bankCode": "AT",
+    "bankCode": "BSSW",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "BSSWATWW",
     "Bank Name": "SCHELHAMMER CAPITAL BANK AG",
@@ -9894,8 +9894,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHO",
-    "bankCode": "AT",
+    "bankCode": "SCHO",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SCHOATWW",
     "Bank Name": "SCHOELLERBANK AG",
@@ -9907,8 +9907,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEKI",
-    "bankCode": "AT",
+    "bankCode": "SEKI",
+    "countryCode": "AT",
     "branchCode": "T2G",
     "SWIFT Code": "SEKIAT2G",
     "Bank Name": "SECURITY KAPITALANLAGE AG",
@@ -9920,8 +9920,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEMP",
-    "bankCode": "AT",
+    "bankCode": "SEMP",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SEMPATWW",
     "Bank Name": "SEMPERIT AG HOLDING",
@@ -9933,8 +9933,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SILP",
-    "bankCode": "AT",
+    "bankCode": "SILP",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SILPATWW",
     "Bank Name": "SIMPEL S.A. ZWEIGNIEDERLASSUNG STERREICH",
@@ -9946,8 +9946,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "AT",
+    "bankCode": "SGAB",
+    "countryCode": "AT",
     "branchCode": "TWW",
     "SWIFT Code": "SGABATWW",
     "Bank Name": "SOCIETE GENERALE",
@@ -9959,8 +9959,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAH",
-    "bankCode": "AT",
+    "bankCode": "SPAH",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "SPAHAT22",
     "Bank Name": "SPAR HOLDING AG",
@@ -9972,8 +9972,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPBR",
-    "bankCode": "AT",
+    "bankCode": "SPBR",
+    "countryCode": "AT",
     "branchCode": "T2B",
     "SWIFT Code": "SPBRAT2B",
     "Bank Name": "SPARKASSE BREGENZ BANK AG",
@@ -9985,8 +9985,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPFK",
-    "bankCode": "AT",
+    "bankCode": "SPFK",
+    "countryCode": "AT",
     "branchCode": "T2B",
     "SWIFT Code": "SPFKAT2B",
     "Bank Name": "SPARKASSE DER STADT FELDKIRCH",
@@ -9998,8 +9998,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPKI",
-    "bankCode": "AT",
+    "bankCode": "SPKI",
+    "countryCode": "AT",
     "branchCode": "T2K",
     "SWIFT Code": "SPKIAT2K",
     "Bank Name": "SPARKASSE DER STADT KITZBUEHEL",
@@ -10011,8 +10011,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HIM",
     "SWIFT Code": "GIBAATWWHIM",
     "Bank Name": "SPARKASSE HAINBURG-BRUCK-NEUSIEDL AG",
@@ -10024,8 +10024,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPKU",
-    "bankCode": "AT",
+    "bankCode": "SPKU",
+    "countryCode": "AT",
     "branchCode": "T22",
     "SWIFT Code": "SPKUAT22",
     "Bank Name": "SPARKASSE KUFSTEIN TIROLER SPARKASSE VON 1877",
@@ -10037,8 +10037,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "ENN",
     "SWIFT Code": "ASPKAT2LENN",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -10050,8 +10050,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GIBA",
-    "bankCode": "AT",
+    "bankCode": "GIBA",
+    "countryCode": "AT",
     "branchCode": "HA2",
     "SWIFT Code": "GIBAATWWHA2",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -10063,8 +10063,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "FRE",
     "SWIFT Code": "ASPKAT2LFRE",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -10076,8 +10076,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "GMU",
     "SWIFT Code": "ASPKAT2LGMU",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -10089,8 +10089,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "GRI",
     "SWIFT Code": "ASPKAT2LGRI",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -10102,8 +10102,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "GRU",
     "SWIFT Code": "ASPKAT2LGRU",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",
@@ -10115,8 +10115,8 @@ const austria = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPK",
-    "bankCode": "AT",
+    "bankCode": "ASPK",
+    "countryCode": "AT",
     "branchCode": "STE",
     "SWIFT Code": "ASPKAT2LSTE",
     "Bank Name": "SPARKASSE OBEROESTERREICH BANK AG",

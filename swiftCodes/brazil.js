@@ -1,7 +1,7 @@
 const brazil = [
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "CAS",
     "SWIFT Code": "BCBBBRPRCAS",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -13,8 +13,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "CTA",
     "SWIFT Code": "BCBBBRPRCTA",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -26,8 +26,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "RPR",
     "SWIFT Code": "BCBBBRPR",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -39,8 +39,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "FDS",
     "SWIFT Code": "BCBBBRPRFDS",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -52,8 +52,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "TSY",
     "SWIFT Code": "BCBBBRPRTSY",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -65,8 +65,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "FLA",
     "SWIFT Code": "BCBBBRPRFLA",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -78,8 +78,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "JVE",
     "SWIFT Code": "BCBBBRPRJVE",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -91,8 +91,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "MNS",
     "SWIFT Code": "BCBBBRPRMNS",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -104,8 +104,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "PNG",
     "SWIFT Code": "BCBBBRPRPNG",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -119,8 +119,8 @@ const brazil = [
   {},
   {},
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "BCBBBRPRRJO",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -132,8 +132,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "SDR",
     "SWIFT Code": "BCBBBRPRSDR",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -145,8 +145,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "STS",
     "SWIFT Code": "BCBBBRPRSTS",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -158,8 +158,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "COR",
     "SWIFT Code": "BCBBBRPRCOR",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -171,8 +171,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "NET",
     "SWIFT Code": "BCBBBRPRNET",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -184,8 +184,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "BCBBBRPRSPO",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -197,8 +197,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "CGB",
     "SWIFT Code": "BCBBBRPRCGB",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -210,8 +210,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "OFS",
     "SWIFT Code": "BCBBBRPROFS",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -223,8 +223,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "VTA",
     "SWIFT Code": "BCBBBRPRVTA",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -236,8 +236,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBON",
-    "bankCode": "BR",
+    "bankCode": "BBON",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BBONBRSP",
     "Bank Name": "BANCO BS2 S.A.",
@@ -249,8 +249,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBON",
-    "bankCode": "BR",
+    "bankCode": "BBON",
+    "countryCode": "BR",
     "branchCode": "RS2",
     "SWIFT Code": "BBONBRS2",
     "Bank Name": "BANCO BS2 S.A.",
@@ -262,8 +262,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPAB",
-    "bankCode": "BR",
+    "bankCode": "BPAB",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "BPABBRRJ",
     "Bank Name": "BANCO BTG PACTUAL S.A.",
@@ -275,8 +275,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSIX",
-    "bankCode": "BR",
+    "bankCode": "CSIX",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "CSIXBRSP",
     "Bank Name": "BANCO C6 S.A.",
@@ -288,8 +288,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "BR",
+    "bankCode": "CGDI",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "CGDIBRSP",
     "Bank Name": "BANCO CAIXA GERAL-BRASIL S/A",
@@ -301,8 +301,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBZ",
-    "bankCode": "BR",
+    "bankCode": "BCBZ",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BCBZBRSP",
     "Bank Name": "BANCO CARGILL S/A",
@@ -314,8 +314,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBR",
-    "bankCode": "BR",
+    "bankCode": "BCBR",
+    "countryCode": "BR",
     "branchCode": "RDF",
     "SWIFT Code": "BCBRBRDF",
     "Bank Name": "BANCO CENTRAL DO BRASIL",
@@ -327,8 +327,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBR",
-    "bankCode": "BR",
+    "bankCode": "BCBR",
+    "countryCode": "BR",
     "branchCode": "ORG",
     "SWIFT Code": "BCBRBRDFORG",
     "Bank Name": "BANCO CENTRAL DO BRASIL",
@@ -340,8 +340,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBR",
-    "bankCode": "BR",
+    "bankCode": "BCBR",
+    "countryCode": "BR",
     "branchCode": "INT",
     "SWIFT Code": "BCBRBRDFINT",
     "Bank Name": "BANCO CENTRAL DO BRASIL",
@@ -353,8 +353,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BR",
+    "bankCode": "CITI",
+    "countryCode": "BR",
     "branchCode": "RBR",
     "SWIFT Code": "CITIBRBR",
     "Bank Name": "BANCO CITIBANK SA",
@@ -367,8 +367,8 @@ const brazil = [
   },
   {},
   {
-    "countryCode": "BCSI",
-    "bankCode": "BR",
+    "bankCode": "BCSI",
+    "countryCode": "BR",
     "branchCode": "RRS",
     "SWIFT Code": "BCSIBRRS",
     "Bank Name": "BANCO COOPERATIVO SICREDI SA - BANSICREDI",
@@ -380,8 +380,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGB",
-    "bankCode": "BR",
+    "bankCode": "BAGB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BAGBBRSP",
     "Bank Name": "BANCO CREDIT AGRICOLE BRASIL SA",
@@ -393,8 +393,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPBM",
-    "bankCode": "BR",
+    "bankCode": "BPBM",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BPBMBRSP",
     "Bank Name": "BANCO CREFISA S.A.",
@@ -406,8 +406,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMAB",
-    "bankCode": "BR",
+    "bankCode": "AMAB",
+    "countryCode": "BR",
     "branchCode": "RAB",
     "SWIFT Code": "AMABBRAB",
     "Bank Name": "BANCO DA AMAZONIA S.A.",
@@ -419,8 +419,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAYC",
-    "bankCode": "BR",
+    "bankCode": "DAYC",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "DAYCBRSP",
     "Bank Name": "BANCO DAYCOVAL S/A",
@@ -432,8 +432,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGA",
-    "bankCode": "BR",
+    "bankCode": "BIGA",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "BIGABRRJ",
     "Bank Name": "BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A.",
@@ -445,8 +445,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGA",
-    "bankCode": "BR",
+    "bankCode": "BIGA",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "BIGABRRJSPO",
     "Bank Name": "BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A.",
@@ -459,8 +459,8 @@ const brazil = [
   },
   {},
   {
-    "countryCode": "BIGA",
-    "bankCode": "BR",
+    "bankCode": "BIGA",
+    "countryCode": "BR",
     "branchCode": "HGF",
     "SWIFT Code": "BIGABRRJHGF",
     "Bank Name": "BANCO DE INVESTIMENTOS CREDIT SUISSE (BRASIL) S.A.",
@@ -472,8 +472,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "BR",
+    "bankCode": "NACN",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "NACNBRSP",
     "Bank Name": "BANCO DE LA NACION ARGENTINA",
@@ -485,8 +485,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRBA",
-    "bankCode": "BR",
+    "bankCode": "PRBA",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "PRBABRSP",
     "Bank Name": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
@@ -498,8 +498,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "BHE",
     "SWIFT Code": "BRASBRRJBHE",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -511,8 +511,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "BNU",
     "SWIFT Code": "BRASBRRJBNU",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -524,8 +524,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "BRASBRRJ",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -537,8 +537,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "BSA",
     "SWIFT Code": "BRASBRRJBSA",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -550,8 +550,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "PPC",
     "SWIFT Code": "BRASBRRJPPC",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -563,8 +563,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "SUP",
     "SWIFT Code": "BRASBRRJSUP",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -576,8 +576,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "GFN",
     "SWIFT Code": "BRASBRRJGFN",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -589,8 +589,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "CAS",
     "SWIFT Code": "BRASBRRJCAS",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -602,8 +602,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "CTA",
     "SWIFT Code": "BRASBRRJCTA",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -615,8 +615,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "PAE",
     "SWIFT Code": "BRASBRRJPAE",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -628,8 +628,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "RCE",
     "SWIFT Code": "BRASBRRJRCE",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -641,8 +641,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "RPO",
     "SWIFT Code": "BRASBRRJRPO",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -654,8 +654,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "RJ1",
     "SWIFT Code": "BRASBRRJRJ1",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -667,8 +667,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "CGR",
     "SWIFT Code": "BRASBRRJCGR",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -680,8 +680,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "ADR",
     "SWIFT Code": "BRASBRRJADR",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -693,8 +693,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "BRASBRRJRJO",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -706,8 +706,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "RJ3",
     "SWIFT Code": "BRASBRRJRJ3",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -719,8 +719,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "SDR",
     "SWIFT Code": "BRASBRRJSDR",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -732,8 +732,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "IBR",
     "SWIFT Code": "BRASBRRJIBR",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -745,8 +745,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "SBO",
     "SWIFT Code": "BRASBRRJSBO",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -758,8 +758,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "BRASBRRJSPO",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -771,8 +771,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "BR",
+    "bankCode": "BRAS",
+    "countryCode": "BR",
     "branchCode": "OCO",
     "SWIFT Code": "BRASBRRJOCO",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -784,8 +784,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEPA",
-    "bankCode": "BR",
+    "bankCode": "BEPA",
+    "countryCode": "BR",
     "branchCode": "RAB",
     "SWIFT Code": "BEPABRAB",
     "Bank Name": "BANCO DO ESTADO DO PARA S.A.",
@@ -797,8 +797,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRGS",
-    "bankCode": "BR",
+    "bankCode": "BRGS",
+    "countryCode": "BR",
     "branchCode": "RRS",
     "SWIFT Code": "BRGSBRRS",
     "Bank Name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A",
@@ -810,8 +810,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRGS",
-    "bankCode": "BR",
+    "bankCode": "BRGS",
+    "countryCode": "BR",
     "branchCode": "PAE",
     "SWIFT Code": "BRGSBRRSPAE",
     "Bank Name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A",
@@ -823,8 +823,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "BHE",
     "SWIFT Code": "BNBRBRCFBHE",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -836,8 +836,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "FLA",
     "SWIFT Code": "BNBRBRCFFLA",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -849,8 +849,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "RCF",
     "SWIFT Code": "BNBRBRCF",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -862,8 +862,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "MCO",
     "SWIFT Code": "BNBRBRCFMCO",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -875,8 +875,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "NTL",
     "SWIFT Code": "BNBRBRCFNTL",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -888,8 +888,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "RCE",
     "SWIFT Code": "BNBRBRCFRCE",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -901,8 +901,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "BNBRBRCFRJO",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -914,8 +914,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "SDR",
     "SWIFT Code": "BNBRBRCFSDR",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -927,8 +927,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNBR",
-    "bankCode": "BR",
+    "bankCode": "BNBR",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "BNBRBRCFSPO",
     "Bank Name": "BANCO DO NORDESTE DO BRASIL S/A",
@@ -940,8 +940,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBI",
-    "bankCode": "BR",
+    "bankCode": "FIBI",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "FIBIBRSP",
     "Bank Name": "BANCO FIBRA S.A.",
@@ -953,8 +953,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLUR",
-    "bankCode": "BR",
+    "bankCode": "PLUR",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "PLURBRRJ",
     "Bank Name": "BANCO GENIAL S.A.",
@@ -966,8 +966,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAA",
-    "bankCode": "BR",
+    "bankCode": "GUAA",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "GUAABRRJ",
     "Bank Name": "BANCO GUANABARA SA",
@@ -979,8 +979,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBN",
-    "bankCode": "BR",
+    "bankCode": "HSBN",
+    "countryCode": "BR",
     "branchCode": "RSS",
     "SWIFT Code": "HSBNBRSS",
     "Bank Name": "BANCO HSBC S.A.",
@@ -992,8 +992,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIBR",
-    "bankCode": "BR",
+    "bankCode": "BIBR",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BIBRBRSP",
     "Bank Name": "BANCO INDUSTRIAL DO BRASIL S/A",
@@ -1005,8 +1005,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITEM",
-    "bankCode": "BR",
+    "bankCode": "ITEM",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "ITEMBRSP",
     "Bank Name": "BANCO INTER SA",
@@ -1018,8 +1018,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BR",
+    "bankCode": "CHAS",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "CHASBRSP",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -1031,8 +1031,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BR",
+    "bankCode": "CHAS",
+    "countryCode": "BR",
     "branchCode": "DCC",
     "SWIFT Code": "CHASBRSPDCC",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -1044,8 +1044,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BR",
+    "bankCode": "CHAS",
+    "countryCode": "BR",
     "branchCode": "GCC",
     "SWIFT Code": "CHASBRSPGCC",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -1057,8 +1057,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BR",
+    "bankCode": "CHAS",
+    "countryCode": "BR",
     "branchCode": "LPQ",
     "SWIFT Code": "CHASBRSPLPQ",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -1070,8 +1070,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BR",
+    "bankCode": "CHAS",
+    "countryCode": "BR",
     "branchCode": "TSM",
     "SWIFT Code": "CHASBRSPTSM",
     "Bank Name": "BANCO J.P. MORGAN S.A.",
@@ -1083,8 +1083,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "BR",
+    "bankCode": "KODB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "KODBBRSP",
     "Bank Name": "BANCO KDB DO BRASIL S.A.",
@@ -1096,8 +1096,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "BR",
+    "bankCode": "KOEX",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "KOEXBRSP",
     "Bank Name": "BANCO KEB HANA DO BRASIL S.A.",
@@ -1109,8 +1109,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLBC",
-    "bankCode": "BR",
+    "bankCode": "BLBC",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BLBCBRSP",
     "Bank Name": "BANCO LUSO BRASILEIRO S.A.",
@@ -1122,8 +1122,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAX",
-    "bankCode": "BR",
+    "bankCode": "BMAX",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "BMAXBRRJ",
     "Bank Name": "BANCO MASTER S.A.",
@@ -1135,8 +1135,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMBR",
-    "bankCode": "BR",
+    "bankCode": "BMBR",
+    "countryCode": "BR",
     "branchCode": "RRB",
     "SWIFT Code": "BMBRBRRB",
     "Bank Name": "BANCO MERCANTIL DO BRASIL S.A.",
@@ -1148,8 +1148,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLBO",
-    "bankCode": "BR",
+    "bankCode": "MLBO",
+    "countryCode": "BR",
     "branchCode": "RSX",
     "SWIFT Code": "MLBOBRSX",
     "Bank Name": "BANCO MERRILL LYNCH DE INVESTIMENTOS S.A.",
@@ -1161,8 +1161,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLBO",
-    "bankCode": "BR",
+    "bankCode": "MLBO",
+    "countryCode": "BR",
     "branchCode": "TRA",
     "SWIFT Code": "MLBOBRSXTRA",
     "Bank Name": "BANCO MERRILL LYNCH DE INVESTIMENTOS S.A.",
@@ -1174,8 +1174,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "BR",
+    "bankCode": "MHCB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "MHCBBRSP",
     "Bank Name": "BANCO MIZUHO DO BRASIL S.A.",
@@ -1187,8 +1187,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSDW",
-    "bankCode": "BR",
+    "bankCode": "MSDW",
+    "countryCode": "BR",
     "branchCode": "TSY",
     "SWIFT Code": "MSDWBRSPTSY",
     "Bank Name": "BANCO MORGAN STANLEY S.A",
@@ -1200,8 +1200,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSDW",
-    "bankCode": "BR",
+    "bankCode": "MSDW",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "MSDWBRSP",
     "Bank Name": "BANCO MORGAN STANLEY S.A",
@@ -1213,8 +1213,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "BR",
+    "bankCode": "BOTK",
+    "countryCode": "BR",
     "branchCode": "RSX",
     "SWIFT Code": "BOTKBRSX",
     "Bank Name": "BANCO MUFG BRASIL S.A.",
@@ -1226,8 +1226,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACD",
-    "bankCode": "BR",
+    "bankCode": "NACD",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "NACDBRRJ",
     "Bank Name": "BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL - BNDES",
@@ -1239,8 +1239,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BORI",
-    "bankCode": "BR",
+    "bankCode": "BORI",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BORIBRSP",
     "Bank Name": "BANCO ORIGINAL S.A.",
@@ -1252,8 +1252,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATVA",
-    "bankCode": "BR",
+    "bankCode": "ATVA",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "ATVABRRJ",
     "Bank Name": "ATIVA INVESTIMENTOS SA CORRETORA DE TITULOS CAMBIOE VALORES",
@@ -1265,8 +1265,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVSD",
-    "bankCode": "BR",
+    "bankCode": "AVSD",
+    "countryCode": "BR",
     "branchCode": "RS2",
     "SWIFT Code": "AVSDBRS2",
     "Bank Name": "AVENUE SECURITIES DTVM LTDA",
@@ -1278,8 +1278,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBMF",
-    "bankCode": "BR",
+    "bankCode": "XBMF",
+    "countryCode": "BR",
     "branchCode": "RBR",
     "SWIFT Code": "XBMFBRBR",
     "Bank Name": "B3 S.A - BRASIL, BOLSA, BALCAO",
@@ -1291,8 +1291,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBMF",
-    "bankCode": "BR",
+    "bankCode": "XBMF",
+    "countryCode": "BR",
     "branchCode": "CRD",
     "SWIFT Code": "XBMFBRBRCRD",
     "Bank Name": "B3 S.A - BRASIL, BOLSA, BALCAO",
@@ -1304,8 +1304,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBMF",
-    "bankCode": "BR",
+    "bankCode": "XBMF",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "XBMFBRSP",
     "Bank Name": "B3 S.A. - BRASIL, BOLSA, BALCAO",
@@ -1317,8 +1317,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBMF",
-    "bankCode": "BR",
+    "bankCode": "XBMF",
+    "countryCode": "BR",
     "branchCode": "DBL",
     "SWIFT Code": "XBMFBRSPDBL",
     "Bank Name": "B3 S.A. - BRASIL, BOLSA, BALCAO",
@@ -1330,8 +1330,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBMF",
-    "bankCode": "BR",
+    "bankCode": "XBMF",
+    "countryCode": "BR",
     "branchCode": "CRD",
     "SWIFT Code": "XBMFBRSPCRD",
     "Bank Name": "B3 S.A. - BRASIL, BOLSA, BALCAO",
@@ -1343,8 +1343,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABCB",
-    "bankCode": "BR",
+    "bankCode": "ABCB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "ABCBBRSP",
     "Bank Name": "BANCO ABC BRASIL S.A.",
@@ -1356,8 +1356,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "BR",
+    "bankCode": "ABNA",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "ABNABRSP",
     "Bank Name": "BANCO ABN AMRO S.A.",
@@ -1369,8 +1369,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUFA",
-    "bankCode": "BR",
+    "bankCode": "AUFA",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "AUFABRSP",
     "Bank Name": "BANCO ALFA DE INVESTIMENTO S.A., SAO PAULO",
@@ -1382,8 +1382,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBB",
-    "bankCode": "BR",
+    "bankCode": "ARBB",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "ARBBBRRJ",
     "Bank Name": "BANCO ARBI S.A.",
@@ -1395,8 +1395,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBMF",
-    "bankCode": "BR",
+    "bankCode": "BBMF",
+    "countryCode": "BR",
     "branchCode": "DBL",
     "SWIFT Code": "BBMFBRSPDBL",
     "Bank Name": "BANCO B3 S.A.",
@@ -1408,8 +1408,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBMF",
-    "bankCode": "BR",
+    "bankCode": "BBMF",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BBMFBRSP",
     "Bank Name": "BANCO B3 S.A.",
@@ -1421,8 +1421,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMBC",
-    "bankCode": "BR",
+    "bankCode": "BMBC",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BMBCBRSP",
     "Bank Name": "BANCO BMG S/A",
@@ -1434,8 +1434,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BR",
+    "bankCode": "BNPA",
+    "countryCode": "BR",
     "branchCode": "B2S",
     "SWIFT Code": "BNPABRSPB2S",
     "Bank Name": "BANCO BNP PARIBAS BRASIL S/A",
@@ -1447,8 +1447,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BR",
+    "bankCode": "BNPA",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BNPABRSP",
     "Bank Name": "BANCO BNP PARIBAS BRASIL S/A",
@@ -1460,8 +1460,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BR",
+    "bankCode": "BNPA",
+    "countryCode": "BR",
     "branchCode": "CWM",
     "SWIFT Code": "BNPABRSPCWM",
     "Bank Name": "BANCO BNP PARIBAS BRASIL S/A",
@@ -1473,8 +1473,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIN",
-    "bankCode": "BR",
+    "bankCode": "BBIN",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "BBINBRRJ",
     "Bank Name": "BANCO BOCOM BBM S.A.",
@@ -1486,8 +1486,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "NHO",
     "SWIFT Code": "BBDEBRSPNHO",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1499,8 +1499,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BBDEBRSP",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1512,8 +1512,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "ENQ",
     "SWIFT Code": "BBDEBRSPENQ",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1525,8 +1525,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "DAC",
     "SWIFT Code": "BBDEBRSPDAC",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1538,8 +1538,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "PCY",
     "SWIFT Code": "BBDEBRSPPCY",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1551,8 +1551,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "TES",
     "SWIFT Code": "BBDEBRSPTES",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1564,8 +1564,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "BLM",
     "SWIFT Code": "BBDEBRSPBLM",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1577,8 +1577,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "BHE",
     "SWIFT Code": "BBDEBRSPBHE",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1590,8 +1590,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "BNU",
     "SWIFT Code": "BBDEBRSPBNU",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1603,8 +1603,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "BSA",
     "SWIFT Code": "BBDEBRSPBSA",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1616,8 +1616,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "CAS",
     "SWIFT Code": "BBDEBRSPCAS",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1629,8 +1629,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "CTA",
     "SWIFT Code": "BBDEBRSPCTA",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1642,8 +1642,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "FLA",
     "SWIFT Code": "BBDEBRSPFLA",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1655,8 +1655,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "FAC",
     "SWIFT Code": "BBDEBRSPFAC",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1668,8 +1668,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "JVE",
     "SWIFT Code": "BBDEBRSPJVE",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1681,8 +1681,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "MNS",
     "SWIFT Code": "BBDEBRSPMNS",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1694,8 +1694,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "PAE",
     "SWIFT Code": "BBDEBRSPPAE",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1707,8 +1707,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "RCE",
     "SWIFT Code": "BBDEBRSPRCE",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1720,8 +1720,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "SDR",
     "SWIFT Code": "BBDEBRSPSDR",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1733,8 +1733,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "STS",
     "SWIFT Code": "BBDEBRSPSTS",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1746,8 +1746,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "VTA",
     "SWIFT Code": "BBDEBRSPVTA",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1759,8 +1759,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "BBDEBRSPRJO",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1772,8 +1772,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "CON",
     "SWIFT Code": "BBDEBRSPCON",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1785,8 +1785,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "BEX",
     "SWIFT Code": "BBDEBRSPBEX",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1798,8 +1798,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "BBDEBRSPSPO",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1811,8 +1811,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "CSH",
     "SWIFT Code": "BBDEBRSPCSH",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1824,8 +1824,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "BGS",
     "SWIFT Code": "BBDEBRSPBGS",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1837,8 +1837,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "OCO",
     "SWIFT Code": "BBDEBRSPOCO",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1850,8 +1850,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDE",
-    "bankCode": "BR",
+    "bankCode": "BBDE",
+    "countryCode": "BR",
     "branchCode": "MTZ",
     "SWIFT Code": "BBDEBRSPMTZ",
     "Bank Name": "BANCO BRADESCO S.A.",
@@ -1863,8 +1863,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "BLM",
     "SWIFT Code": "BCBBBRPRBLM",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -1876,8 +1876,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "BHE",
     "SWIFT Code": "BCBBBRPRBHE",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -1889,8 +1889,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBB",
-    "bankCode": "BR",
+    "bankCode": "BCBB",
+    "countryCode": "BR",
     "branchCode": "BNU",
     "SWIFT Code": "BCBBBRPRBNU",
     "Bank Name": "BANCO BRADESCO SA (FORMERLY KIRTON BANK S.A. - BANCO MULTIPLO)",
@@ -1902,8 +1902,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENBR",
-    "bankCode": "BR",
+    "bankCode": "ENBR",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "ENBRBRRJ",
     "Bank Name": "ENEL BRASIL S.A.",
@@ -1915,8 +1915,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "BR",
+    "bankCode": "GOLD",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "GOLDBRSP",
     "Bank Name": "GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A.",
@@ -1928,8 +1928,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSBC",
-    "bankCode": "BR",
+    "bankCode": "GSBC",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "GSBCBRSP",
     "Bank Name": "GOLDMAN SACHS DO BRASIL CORRETORA DE VALORES MOBILIARIOS S/A",
@@ -1941,8 +1941,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESB",
-    "bankCode": "BR",
+    "bankCode": "BESB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BESBBRSP",
     "Bank Name": "HAITONG BANCO DE INVESTIMENTODO BRASIL S.A.",
@@ -1954,8 +1954,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESB",
-    "bankCode": "BR",
+    "bankCode": "BESB",
+    "countryCode": "BR",
     "branchCode": "BES",
     "SWIFT Code": "BESBBRSPBES",
     "Bank Name": "HAITONG BANCO DE INVESTIMENTODO BRASIL S.A.",
@@ -1967,8 +1967,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "BR",
+    "bankCode": "ICBK",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "ICBKBRSP",
     "Bank Name": "ICBC DO BRASIL BANCO MULTIPLO S.A.",
@@ -1980,8 +1980,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "BR",
+    "bankCode": "ICBK",
+    "countryCode": "BR",
     "branchCode": "CLR",
     "SWIFT Code": "ICBKBRSPCLR",
     "Bank Name": "ICBC DO BRASIL BANCO MULTIPLO S.A.",
@@ -1993,8 +1993,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "BR",
+    "bankCode": "BCIT",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BCITBRSP",
     "Bank Name": "INTESA SANPAOLO BRASIL S.A. - BANCO MULTIPLO",
@@ -2006,8 +2006,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITFD",
-    "bankCode": "BR",
+    "bankCode": "ITFD",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "ITFDBRSP",
     "Bank Name": "INTL FCSTONE DTVM LTDA.",
@@ -2019,8 +2019,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "BHE",
     "SWIFT Code": "ITAUBRSPBHE",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2032,8 +2032,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BR",
+    "bankCode": "CBBA",
+    "countryCode": "BR",
     "branchCode": "BHE",
     "SWIFT Code": "CBBABRSPBHE",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2045,8 +2045,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "BNU",
     "SWIFT Code": "ITAUBRSPBNU",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2058,8 +2058,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "CAS",
     "SWIFT Code": "ITAUBRSPCAS",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2071,8 +2071,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BR",
+    "bankCode": "CBBA",
+    "countryCode": "BR",
     "branchCode": "CAS",
     "SWIFT Code": "CBBABRSPCAS",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2084,8 +2084,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "CTA",
     "SWIFT Code": "ITAUBRSPCTA",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2097,8 +2097,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "JVE",
     "SWIFT Code": "ITAUBRSPJVE",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2110,8 +2110,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "NHO",
     "SWIFT Code": "ITAUBRSPNHO",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2123,8 +2123,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "PAE",
     "SWIFT Code": "ITAUBRSPPAE",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2136,8 +2136,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BR",
+    "bankCode": "CBBA",
+    "countryCode": "BR",
     "branchCode": "PAE",
     "SWIFT Code": "CBBABRSPPAE",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2149,8 +2149,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "ITAUBRSPRJO",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2162,8 +2162,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BR",
+    "bankCode": "CBBA",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "CBBABRSPRJO",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2175,8 +2175,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BR",
+    "bankCode": "CBBA",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "CBBABRSP",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2188,8 +2188,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "ITAUBRSPSPO",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2201,8 +2201,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "ADR",
     "SWIFT Code": "ITAUBRSPADR",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2214,8 +2214,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "LOC",
     "SWIFT Code": "ITAUBRSPLOC",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2227,8 +2227,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "INT",
     "SWIFT Code": "ITAUBRSPINT",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2240,8 +2240,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "ISS",
     "SWIFT Code": "ITAUBRSPISS",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2253,8 +2253,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "BR",
+    "bankCode": "ITAU",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "ITAUBRSP",
     "Bank Name": "ITAU UNIBANCO S/A",
@@ -2266,8 +2266,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNTT",
-    "bankCode": "BR",
+    "bankCode": "LNTT",
+    "countryCode": "BR",
     "branchCode": "RPA",
     "SWIFT Code": "LNTTBRPA",
     "Bank Name": "LN TRADING TERMINAIS DE CARGAS DO BRASIL EIRELI",
@@ -2279,8 +2279,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABE",
-    "bankCode": "BR",
+    "bankCode": "DABE",
+    "countryCode": "BR",
     "branchCode": "RSX",
     "SWIFT Code": "DABEBRSX",
     "Bank Name": "MERCEDES-BENZ DO BRASIL LTDA",
@@ -2292,8 +2292,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABE",
-    "bankCode": "BR",
+    "bankCode": "DABE",
+    "countryCode": "BR",
     "branchCode": "IBA",
     "SWIFT Code": "DABEBRSXIBA",
     "Bank Name": "MERCEDES-BENZ DO BRASIL LTDA",
@@ -2305,8 +2305,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABE",
-    "bankCode": "BR",
+    "bankCode": "DABE",
+    "countryCode": "BR",
     "branchCode": "ROB",
     "SWIFT Code": "DABEBRSXROB",
     "Bank Name": "MERCEDES-BENZ DO BRASIL LTDA",
@@ -2318,8 +2318,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIAE",
-    "bankCode": "BR",
+    "bankCode": "MIAE",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "MIAEBRSP",
     "Bank Name": "MIRAE ASSET SECURITIES (BRASIL) CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -2331,8 +2331,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBM",
-    "bankCode": "BR",
+    "bankCode": "MCBM",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "MCBMBRSP",
     "Bank Name": "MONEYCORP BANCO DE CAMBIO S.A.",
@@ -2344,8 +2344,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NESN",
-    "bankCode": "BR",
+    "bankCode": "NESN",
+    "countryCode": "BR",
     "branchCode": "RSX",
     "SWIFT Code": "NESNBRSX",
     "Bank Name": "NESTLE BRAZIL LTDA",
@@ -2357,8 +2357,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COME",
-    "bankCode": "BR",
+    "bankCode": "COME",
+    "countryCode": "BR",
     "branchCode": "RRS",
     "SWIFT Code": "COMEBRRS",
     "Bank Name": "NOVO BANCO CONTINENTAL S.A.",
@@ -2370,8 +2370,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "BR",
+    "bankCode": "RABO",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "RABOBRSP",
     "Bank Name": "RABOBANK BRASIL",
@@ -2383,8 +2383,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSSB",
-    "bankCode": "BR",
+    "bankCode": "SSSB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "SSSBBRSP",
     "Bank Name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -2396,8 +2396,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSSB",
-    "bankCode": "BR",
+    "bankCode": "SSSB",
+    "countryCode": "BR",
     "branchCode": "NRI",
     "SWIFT Code": "SSSBBRSPNRI",
     "Bank Name": "SANTANDER CACEIS BRASIL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
@@ -2409,8 +2409,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BR",
+    "bankCode": "NOSC",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "NOSCBRSP",
     "Bank Name": "SCOTIABANK BRASIL S.A.-BANCO MULTIPLO",
@@ -2422,8 +2422,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBCT",
-    "bankCode": "BR",
+    "bankCode": "SBCT",
+    "countryCode": "BR",
     "branchCode": "RS2",
     "SWIFT Code": "SBCTBRS2",
     "Bank Name": "SCOTIABANK BRASIL SA CORRETORA DE TITULOS E VALORES MOBILIARIOS",
@@ -2435,8 +2435,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNPA",
-    "bankCode": "BR",
+    "bankCode": "UNPA",
+    "countryCode": "BR",
     "branchCode": "RPR",
     "SWIFT Code": "UNPABRPR",
     "Bank Name": "SISPRIME DO BRASIL - COOPERATIVA DE CREDITO",
@@ -2448,8 +2448,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DATR",
-    "bankCode": "BR",
+    "bankCode": "DATR",
+    "countryCode": "BR",
     "branchCode": "RSX",
     "SWIFT Code": "DATRBRSX",
     "Bank Name": "STAREXPORT TRADING S.A.",
@@ -2461,8 +2461,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCII",
-    "bankCode": "BR",
+    "bankCode": "BCII",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BCIIBRSP",
     "Bank Name": "STATE STREET BRASIL S.A.- BANCO COMERCIAL",
@@ -2474,8 +2474,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFCO",
-    "bankCode": "BR",
+    "bankCode": "IFCO",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "IFCOBRSP",
     "Bank Name": "STONEX BANCO DE CAMBIO S.A.",
@@ -2487,8 +2487,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBSP",
-    "bankCode": "BR",
+    "bankCode": "TBSP",
+    "countryCode": "BR",
     "branchCode": "RS2",
     "SWIFT Code": "TBSPBRS2",
     "Bank Name": "TRANSFERMATE DO BRASIL SERVICOS DE PAGAMENTO LTDA",
@@ -2500,8 +2500,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCO",
-    "bankCode": "BR",
+    "bankCode": "BKCO",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BKCOBRSP",
     "Bank Name": "TRAVELEX BANCO DE CAMBIO S.A.",
@@ -2513,8 +2513,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRUI",
-    "bankCode": "BR",
+    "bankCode": "TRUI",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "TRUIBRSP",
     "Bank Name": "TRUSTEE INVESTMENTS S/A",
@@ -2526,8 +2526,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRUI",
-    "bankCode": "BR",
+    "bankCode": "TRUI",
+    "countryCode": "BR",
     "branchCode": "RS2",
     "SWIFT Code": "TRUIBRS2",
     "Bank Name": "TRUSTEE INVESTMENTS S/A",
@@ -2539,8 +2539,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "BR",
+    "bankCode": "UBSW",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "UBSWBRSP",
     "Bank Name": "UBS BRASIL BANCO DE INVESTIMENTO S.A.",
@@ -2552,8 +2552,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OURI",
-    "bankCode": "BR",
+    "bankCode": "OURI",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "OURIBRSP",
     "Bank Name": "BANCO OURINVEST S.A",
@@ -2565,8 +2565,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPNM",
-    "bankCode": "BR",
+    "bankCode": "BPNM",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BPNMBRSP",
     "Bank Name": "BANCO PAN S.A.",
@@ -2578,8 +2578,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAUL",
-    "bankCode": "BR",
+    "bankCode": "PAUL",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "PAULBRSP",
     "Bank Name": "BANCO PAULISTA S.A.",
@@ -2591,8 +2591,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBBR",
-    "bankCode": "BR",
+    "bankCode": "PBBR",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "PBBRBRSP",
     "Bank Name": "BANCO PINE S.A.",
@@ -2604,8 +2604,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REND",
-    "bankCode": "BR",
+    "bankCode": "REND",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "RENDBRSP",
     "Bank Name": "BANCO RENDIMENTO S/A",
@@ -2617,8 +2617,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFR",
-    "bankCode": "BR",
+    "bankCode": "SAFR",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "SAFRBRSPRJO",
     "Bank Name": "BANCO SAFRA S.A.",
@@ -2630,8 +2630,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFR",
-    "bankCode": "BR",
+    "bankCode": "SAFR",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "SAFRBRSPSPO",
     "Bank Name": "BANCO SAFRA S.A.",
@@ -2643,8 +2643,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAFR",
-    "bankCode": "BR",
+    "bankCode": "SAFR",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "SAFRBRSP",
     "Bank Name": "BANCO SAFRA S.A.",
@@ -2656,8 +2656,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "GEB",
     "SWIFT Code": "BSCHBRSPGEB",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2669,8 +2669,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "BKR",
     "SWIFT Code": "BSCHBRSPBKR",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2682,8 +2682,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "AST",
     "SWIFT Code": "BSCHBRSPAST",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2695,8 +2695,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BSCHBRSP",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2708,8 +2708,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "CRT",
     "SWIFT Code": "BSCHBRSPCRT",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2721,8 +2721,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "BSCHBRSPSPO",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2734,8 +2734,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BR",
+    "bankCode": "BSCH",
+    "countryCode": "BR",
     "branchCode": "SEC",
     "SWIFT Code": "BSCHBRSPSEC",
     "Bank Name": "BANCO SANTANDER (BRASIL) S.A.",
@@ -2747,8 +2747,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMEA",
-    "bankCode": "BR",
+    "bankCode": "SMEA",
+    "countryCode": "BR",
     "branchCode": "RRB",
     "SWIFT Code": "SMEABRRB",
     "Bank Name": "BANCO SEMEAR S.A.",
@@ -2760,8 +2760,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSOG",
-    "bankCode": "BR",
+    "bankCode": "BSOG",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BSOGBRSP",
     "Bank Name": "BANCO SOCIETE GENERALE BRASIL S/A",
@@ -2773,8 +2773,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSBS",
-    "bankCode": "BR",
+    "bankCode": "BSBS",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BSBSBRSP",
     "Bank Name": "BANCO SOFISA S.A.",
@@ -2786,8 +2786,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUBR",
-    "bankCode": "BR",
+    "bankCode": "SUBR",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "SUBRBRSP",
     "Bank Name": "BANCO SUMITOMO MITSUI BRASILEIRO S.A.",
@@ -2799,8 +2799,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOPZ",
-    "bankCode": "BR",
+    "bankCode": "TOPZ",
+    "countryCode": "BR",
     "branchCode": "RRS",
     "SWIFT Code": "TOPZBRRS",
     "Bank Name": "BANCO TOPAZIO S.A.",
@@ -2812,8 +2812,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDVL",
-    "bankCode": "BR",
+    "bankCode": "IDVL",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "IDVLBRSP",
     "Bank Name": "BANCO VOITER S.A.",
@@ -2825,8 +2825,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BVOL",
-    "bankCode": "BR",
+    "bankCode": "BVOL",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BVOLBRSP",
     "Bank Name": "BANCO VOLKSWAGEN S.A.",
@@ -2838,8 +2838,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAVO",
-    "bankCode": "BR",
+    "bankCode": "BAVO",
+    "countryCode": "BR",
     "branchCode": "CST",
     "SWIFT Code": "BAVOBRSPCST",
     "Bank Name": "BANCO VOTORANTIM S.A.",
@@ -2851,8 +2851,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAVO",
-    "bankCode": "BR",
+    "bankCode": "BAVO",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BAVOBRSP",
     "Bank Name": "BANCO VOTORANTIM S.A.",
@@ -2864,8 +2864,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "BR",
+    "bankCode": "HVBK",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "HVBKBRSP",
     "Bank Name": "BANCO WOORI BANK DO BRASIL",
@@ -2877,8 +2877,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XCMB",
-    "bankCode": "BR",
+    "bankCode": "XCMB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "XCMBBRSP",
     "Bank Name": "BANCO XCMG BRASIL S/A",
@@ -2890,8 +2890,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCXP",
-    "bankCode": "BR",
+    "bankCode": "BCXP",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BCXPBRSP",
     "Bank Name": "BANCO XP S.A.",
@@ -2903,8 +2903,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLBO",
-    "bankCode": "BR",
+    "bankCode": "MLBO",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "MLBOBRSP",
     "Bank Name": "BANK OF AMERICA MERRILL LYNCH BANCO MULTIPLO S.A",
@@ -2916,8 +2916,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "BR",
+    "bankCode": "BKCH",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BKCHBRSP",
     "Bank Name": "BANK OF CHINA BRASIL S.A.",
@@ -2929,8 +2929,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDMG",
-    "bankCode": "BR",
+    "bankCode": "BDMG",
+    "countryCode": "BR",
     "branchCode": "RRB",
     "SWIFT Code": "BDMGBRRB",
     "Bank Name": "BDMG-BANCO DE DESENVOLVIMENTO DE MINAS GERAIS",
@@ -2942,8 +2942,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEXS",
-    "bankCode": "BR",
+    "bankCode": "BEXS",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BEXSBRSP",
     "Bank Name": "BEXS BANCO DE CAMBIO S/A",
@@ -2955,8 +2955,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "BR",
+    "bankCode": "BNYM",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "BNYMBRRJ",
     "Bank Name": "BNY MELLON SERVICOS FINANCEIROS DTVM SA",
@@ -2968,8 +2968,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTPA",
-    "bankCode": "BR",
+    "bankCode": "BTPA",
+    "countryCode": "BR",
     "branchCode": "RPR",
     "SWIFT Code": "BTPABRPR",
     "Bank Name": "BOLETOBANCARIO.COM TECNOLOGIA DE PAGAMENTOS LTDA",
@@ -2981,8 +2981,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PINM",
-    "bankCode": "BR",
+    "bankCode": "PINM",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "PINMBRSP",
     "Bank Name": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
@@ -2994,8 +2994,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDM",
-    "bankCode": "BR",
+    "bankCode": "BBDM",
+    "countryCode": "BR",
     "branchCode": "RSB",
     "SWIFT Code": "BBDMBRSB",
     "Bank Name": "BRAM - BRADESCO ASSET MANAGEMENT",
@@ -3007,8 +3007,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBDM",
-    "bankCode": "BR",
+    "bankCode": "BBDM",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BBDMBRSP",
     "Bank Name": "BRAM-BRADESCO ASSET MANAGEMENT",
@@ -3020,8 +3020,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSBO",
-    "bankCode": "BR",
+    "bankCode": "MSBO",
+    "countryCode": "BR",
     "branchCode": "RPR",
     "SWIFT Code": "MSBOBRPR",
     "Bank Name": "BRAZA BANK SA BANCO DE CAMBIO",
@@ -3033,8 +3033,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRBS",
-    "bankCode": "BR",
+    "bankCode": "BRBS",
+    "countryCode": "BR",
     "branchCode": "RDF",
     "SWIFT Code": "BRBSBRDF",
     "Bank Name": "BRB-BANCO DE BRASILIA S.A.",
@@ -3046,8 +3046,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEFX",
-    "bankCode": "BR",
+    "bankCode": "CEFX",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "CEFXBRSP",
     "Bank Name": "CAIXA ECONOMICA FEDERAL",
@@ -3059,8 +3059,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICB",
-    "bankCode": "BR",
+    "bankCode": "BICB",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "BICBBRSP",
     "Bank Name": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MULTIPLO S/A",
@@ -3072,8 +3072,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BR",
+    "bankCode": "CITI",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "CITIBRSPRJO",
     "Bank Name": "CITIBANK N.A.",
@@ -3085,8 +3085,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BR",
+    "bankCode": "CITI",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "CITIBRSP",
     "Bank Name": "CITIBANK N.A.",
@@ -3098,8 +3098,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BR",
+    "bankCode": "CITI",
+    "countryCode": "BR",
     "branchCode": "RSX",
     "SWIFT Code": "CITIBRSX",
     "Bank Name": "CITIBANK N.A.",
@@ -3111,8 +3111,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BR",
+    "bankCode": "CITI",
+    "countryCode": "BR",
     "branchCode": "HOF",
     "SWIFT Code": "CITIBRSPHOF",
     "Bank Name": "CITIBANK N.A.",
@@ -3124,8 +3124,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BR",
+    "bankCode": "CITI",
+    "countryCode": "BR",
     "branchCode": "SEC",
     "SWIFT Code": "CITIBRSPSEC",
     "Bank Name": "CITIBANK N.A.",
@@ -3137,8 +3137,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLCB",
-    "bankCode": "BR",
+    "bankCode": "CLCB",
+    "countryCode": "BR",
     "branchCode": "RRJ",
     "SWIFT Code": "CLCBBRRJ",
     "Bank Name": "COMPANHIA BRASILEIRA DE LIQUIDACAO E CUSTODIA",
@@ -3150,8 +3150,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BR",
+    "bankCode": "DEUT",
+    "countryCode": "BR",
     "branchCode": "RJO",
     "SWIFT Code": "DEUTBRSPRJO",
     "Bank Name": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
@@ -3163,8 +3163,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BR",
+    "bankCode": "DEUT",
+    "countryCode": "BR",
     "branchCode": "SPO",
     "SWIFT Code": "DEUTBRSPSPO",
     "Bank Name": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
@@ -3176,8 +3176,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BR",
+    "bankCode": "DEUT",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "DEUTBRSP",
     "Bank Name": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
@@ -3189,8 +3189,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BR",
+    "bankCode": "DEUT",
+    "countryCode": "BR",
     "branchCode": "CUS",
     "SWIFT Code": "DEUTBRSPCUS",
     "Bank Name": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
@@ -3202,8 +3202,8 @@ const brazil = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VWBR",
-    "bankCode": "BR",
+    "bankCode": "VWBR",
+    "countryCode": "BR",
     "branchCode": "RSP",
     "SWIFT Code": "VWBRBRSP",
     "Bank Name": "VOLKSWAGEN DO BRASIL INDUSTRIA DE VEICULOS AUTOMOTORES LTDA",

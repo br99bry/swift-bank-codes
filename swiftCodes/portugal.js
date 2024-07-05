@@ -1,7 +1,7 @@
 const portugal = [
   {
-    "countryCode": "BESC",
-    "bankCode": "PT",
+    "bankCode": "BESC",
+    "countryCode": "PT",
     "branchCode": "OPR",
     "SWIFT Code": "BESCPTPLOPR",
     "Bank Name": "NOVO BANCO, SA",
@@ -13,8 +13,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OGEU",
-    "bankCode": "PT",
+    "bankCode": "OGEU",
+    "countryCode": "PT",
     "branchCode": "TPM",
     "SWIFT Code": "OGEUPTPM",
     "Bank Name": "OFERTA GENUINA, S.A.",
@@ -26,8 +26,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMIC",
-    "bankCode": "PT",
+    "bankCode": "OMIC",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "OMICPTPL",
     "Bank Name": "OMICLEAR,C.C.,S.A.",
@@ -39,8 +39,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMIC",
-    "bankCode": "PT",
+    "bankCode": "OMIC",
+    "countryCode": "PT",
     "branchCode": "CLI",
     "SWIFT Code": "OMICPTPLCLI",
     "Bank Name": "OMICLEAR,C.C.,S.A.",
@@ -52,8 +52,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMIC",
-    "bankCode": "PT",
+    "bankCode": "OMIC",
+    "countryCode": "PT",
     "branchCode": "ASA",
     "SWIFT Code": "OMICPTPLASA",
     "Bank Name": "OMICLEAR,C.C.,S.A.",
@@ -65,8 +65,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTI",
-    "bankCode": "PT",
+    "bankCode": "PSTI",
+    "countryCode": "PT",
     "branchCode": "TPM",
     "SWIFT Code": "PSTIPTPM",
     "Bank Name": "PAUL STRICKER, S.A.",
@@ -78,8 +78,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENC",
-    "bankCode": "PT",
+    "bankCode": "RENC",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "RENCPTPL",
     "Bank Name": "REN - REN ELETRICA NACIONAL SA",
@@ -91,8 +91,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "PT",
+    "bankCode": "REVO",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "REVOPTP2",
     "Bank Name": "REVOLUT BANK UAB - SUCURSAL EM PORTUGAL",
@@ -104,8 +104,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASAO",
-    "bankCode": "PT",
+    "bankCode": "ASAO",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "ASAOPTPP",
     "Bank Name": "ROVENSA, S.A.",
@@ -117,8 +117,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SISR",
-    "bankCode": "PT",
+    "bankCode": "SISR",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "SISRPTPL",
     "Bank Name": "SIBS FORWARD PAYMENT SOLUTIONS SA",
@@ -130,8 +130,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIEO",
-    "bankCode": "PT",
+    "bankCode": "SIEO",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "SIEOPTPP",
     "Bank Name": "SIERRA PORTUGAL",
@@ -143,8 +143,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGFP",
-    "bankCode": "PT",
+    "bankCode": "SGFP",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "SGFPPTPL",
     "Bank Name": "SOCIEDADE GESTORA DOS FUNDOS DE PENSOES DO BANCO DE PORTUGAL S.A.",
@@ -156,8 +156,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGFP",
-    "bankCode": "PT",
+    "bankCode": "SGFP",
+    "countryCode": "PT",
     "branchCode": "PBD",
     "SWIFT Code": "SGFPPTPLPBD",
     "Bank Name": "SOCIEDADE GESTORA DOS FUNDOS DE PENSOES DO BANCO DE PORTUGAL S.A.",
@@ -169,8 +169,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGFP",
-    "bankCode": "PT",
+    "bankCode": "SGFP",
+    "countryCode": "PT",
     "branchCode": "PCD",
     "SWIFT Code": "SGFPPTPLPCD",
     "Bank Name": "SOCIEDADE GESTORA DOS FUNDOS DE PENSOES DO BANCO DE PORTUGAL S.A.",
@@ -182,8 +182,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SORP",
-    "bankCode": "PT",
+    "bankCode": "SORP",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "SORPPTPL",
     "Bank Name": "SOVENA GROUP SGPS",
@@ -195,8 +195,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POTC",
-    "bankCode": "PT",
+    "bankCode": "POTC",
+    "countryCode": "PT",
     "branchCode": "TPT",
     "SWIFT Code": "POTCPTPT",
     "Bank Name": "THE NAVIGATOR COMPANY SA",
@@ -208,8 +208,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNNG",
-    "bankCode": "PT",
+    "bankCode": "UNNG",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "UNNGPTP2",
     "Bank Name": "UNICAMBIO - INSTITUICAO DE PAGAMENTO, S.A.",
@@ -221,8 +221,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "PT",
+    "bankCode": "PANX",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "PANXPTP2",
     "Bank Name": "UNIFIEDPOST PAYMENTS  BRANCH IN PORTUGAL",
@@ -234,8 +234,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "PT",
+    "bankCode": "VPAY",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "VPAYPTP2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. SUCURSAL EM PORTUGAL",
@@ -247,8 +247,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZNK",
-    "bankCode": "PT",
+    "bankCode": "WZNK",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "WZNKPTPL",
     "Bank Name": "WIZINK BANK S.A.U. SUCURSAL EM PORTUGAL",
@@ -260,8 +260,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WZNK",
-    "bankCode": "PT",
+    "bankCode": "WZNK",
+    "countryCode": "PT",
     "branchCode": "SCO",
     "SWIFT Code": "WZNKPTPLSCO",
     "Bank Name": "WIZINK BANK S.A.U. SUCURSAL EM PORTUGAL",
@@ -273,8 +273,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "PT",
+    "bankCode": "ZURI",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "ZURIPTPL",
     "Bank Name": "ZURICH-COMPANHIA DE SEGUROS S.A.",
@@ -286,8 +286,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCT",
-    "bankCode": "PT",
+    "bankCode": "CDCT",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "CDCTPTP2",
     "Bank Name": "CAIXA DE CREDITO DE LEIRIA",
@@ -299,8 +299,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDCT",
-    "bankCode": "PT",
+    "bankCode": "CDCT",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "CDCTPTP2SIC",
     "Bank Name": "CAIXA DE CREDITO DE LEIRIA",
@@ -312,8 +312,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEMA",
-    "bankCode": "PT",
+    "bankCode": "CEMA",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "CEMAPTP2",
     "Bank Name": "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO",
@@ -325,8 +325,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEMA",
-    "bankCode": "PT",
+    "bankCode": "CEMA",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "CEMAPTP2SIC",
     "Bank Name": "CAIXA ECONOMICA DA MISERICORDIA DE ANGRA DO HEROISMO",
@@ -338,8 +338,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPIO",
-    "bankCode": "PT",
+    "bankCode": "MPIO",
+    "countryCode": "PT",
     "branchCode": "TIT",
     "SWIFT Code": "MPIOPTPLTIT",
     "Bank Name": "CAIXA ECONOMICA MONTEPIO GERAL, CAIXA ECONOMICA BANCARIA, SA",
@@ -351,8 +351,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPIO",
-    "bankCode": "PT",
+    "bankCode": "MPIO",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "MPIOPTPL",
     "Bank Name": "CAIXA ECONOMICA MONTEPIO GERAL, CAIXA ECONOMICA BANCARIA, SA",
@@ -364,8 +364,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPIO",
-    "bankCode": "PT",
+    "bankCode": "MPIO",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "MPIOPTPLSIC",
     "Bank Name": "CAIXA ECONOMICA MONTEPIO GERAL, CAIXA ECONOMICA BANCARIA, SA",
@@ -377,8 +377,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "PT",
+    "bankCode": "CGDI",
+    "countryCode": "PT",
     "branchCode": "OSF",
     "SWIFT Code": "CGDIPTPLOSF",
     "Bank Name": "CAIXA GERAL DE DEPOSITOS",
@@ -390,8 +390,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "PT",
+    "bankCode": "CGDI",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "CGDIPTPL",
     "Bank Name": "CAIXA GERAL DE DEPOSITOS",
@@ -403,8 +403,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "PT",
+    "bankCode": "CGDI",
+    "countryCode": "PT",
     "branchCode": "MRS",
     "SWIFT Code": "CGDIPTPLMRS",
     "Bank Name": "CAIXA GERAL DE DEPOSITOS",
@@ -416,8 +416,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "PT",
+    "bankCode": "CGDI",
+    "countryCode": "PT",
     "branchCode": "OPR",
     "SWIFT Code": "CGDIPTPLOPR",
     "Bank Name": "CAIXA GERAL DE DEPOSITOS",
@@ -429,8 +429,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "PT",
+    "bankCode": "BCOE",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "BCOEPTP2",
     "Bank Name": "CAJA RURAL DEL SUR, SOCIEDAD COOPERATIVA DE CREDITO - SUCURSAL EM PORTUGAL",
@@ -442,8 +442,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "PT",
+    "bankCode": "BCOE",
+    "countryCode": "PT",
     "branchCode": "MGS",
     "SWIFT Code": "BCOEPTP2MGS",
     "Bank Name": "CAJA RURAL DEL SUR, SOCIEDAD COOPERATIVA DE CREDITO - SUCURSAL EM PORTUGAL",
@@ -455,8 +455,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGPS",
-    "bankCode": "PT",
+    "bankCode": "CGPS",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "CGPSPTPP",
     "Bank Name": "CASAISINVEST SGPS S.A.",
@@ -468,8 +468,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPHL",
-    "bankCode": "PT",
+    "bankCode": "CPHL",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "CPHLPTPL",
     "Bank Name": "CIMPOR PORTUGAL HOLDINGS, SGPS, S.A.",
@@ -481,8 +481,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PT",
+    "bankCode": "CITI",
+    "countryCode": "PT",
     "branchCode": "SEC",
     "SWIFT Code": "CITIPTPXSEC",
     "Bank Name": "CITIBANK EUROPE PLC PORTUGAL BRANCH",
@@ -494,8 +494,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PT",
+    "bankCode": "CITI",
+    "countryCode": "PT",
     "branchCode": "TPX",
     "SWIFT Code": "CITIPTPX",
     "Bank Name": "CITIBANK EUROPE PLC PORTUGAL BRANCH",
@@ -507,8 +507,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LLIU",
-    "bankCode": "PT",
+    "bankCode": "LLIU",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "LLIUPTP2",
     "Bank Name": "DE LAGE LANDEN INTERNATIONAL B.V. SUCURSAL EM PORTUGAL",
@@ -520,8 +520,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PT",
+    "bankCode": "DEUT",
+    "countryCode": "PT",
     "branchCode": "FUN",
     "SWIFT Code": "DEUTPTPLFUN",
     "Bank Name": "DEUTSCHE BANK AG PORTUGAL BRANCH",
@@ -533,8 +533,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PT",
+    "bankCode": "DEUT",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "DEUTPTPL",
     "Bank Name": "DEUTSCHE BANK AG PORTUGAL BRANCH",
@@ -546,8 +546,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "PT",
+    "bankCode": "DEUT",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "DEUTPTPLSIC",
     "Bank Name": "DEUTSCHE BANK AG PORTUGAL BRANCH",
@@ -559,8 +559,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "PT",
+    "bankCode": "PRIB",
+    "countryCode": "PT",
     "branchCode": "TPX",
     "SWIFT Code": "PRIBPTPX",
     "Bank Name": "EDMOND DE ROTHSCHILD EUROPE SUCURSAL PORTUGUESA",
@@ -572,8 +572,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDEP",
-    "bankCode": "PT",
+    "bankCode": "EDEP",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "EDEPPTPP",
     "Bank Name": "EDP - ENERGIAS DE PORTUGAL S.A.",
@@ -585,8 +585,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPOS",
-    "bankCode": "PT",
+    "bankCode": "EPOS",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "EPOSPTPP",
     "Bank Name": "EFACEC POWER SOLUTIONS SGPS S.A.",
@@ -598,8 +598,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FADI",
-    "bankCode": "PT",
+    "bankCode": "FADI",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "FADIPTPP",
     "Bank Name": "FASHION DIVISION S.A",
@@ -611,8 +611,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPEA",
-    "bankCode": "PT",
+    "bankCode": "FPEA",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "FPEAPTP2",
     "Bank Name": "FINANCIERE DES PAIEMENTS ELECTRONIQUE SAS - SUCURSAL EM PORTUGAL",
@@ -624,8 +624,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAEG",
-    "bankCode": "PT",
+    "bankCode": "GAEG",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "GAEGPTPP",
     "Bank Name": "GALP ENERGIA, SGPS S.A.",
@@ -637,8 +637,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRPG",
-    "bankCode": "PT",
+    "bankCode": "GRPG",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "GRPGPTPP",
     "Bank Name": "GRUPO PESTANA - S.G.P.S. S.A.",
@@ -650,8 +650,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSI",
-    "bankCode": "PT",
+    "bankCode": "ESSI",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "ESSIPTPL",
     "Bank Name": "HAITONG BANK, S.A.",
@@ -663,8 +663,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSI",
-    "bankCode": "PT",
+    "bankCode": "ESSI",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "ESSIPTPLSIC",
     "Bank Name": "HAITONG BANK, S.A.",
@@ -676,8 +676,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOVF",
-    "bankCode": "PT",
+    "bankCode": "HOVF",
+    "countryCode": "PT",
     "branchCode": "TPT",
     "SWIFT Code": "HOVFPTPT",
     "Bank Name": "HOVIONE FARMACIENCIA SA",
@@ -689,8 +689,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IFLD",
-    "bankCode": "PT",
+    "bankCode": "IFLD",
+    "countryCode": "PT",
     "branchCode": "TP2",
     "SWIFT Code": "IFLDPTP2",
     "Bank Name": "IFTHENPAY LDA",
@@ -702,8 +702,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "PT",
+    "bankCode": "BBRU",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BBRUPTPL",
     "Bank Name": "ING BANK NV, SUCURSAL EM PORTUGAL",
@@ -715,8 +715,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "PT",
+    "bankCode": "BBRU",
+    "countryCode": "PT",
     "branchCode": "MGS",
     "SWIFT Code": "BBRUPTPLMGS",
     "Bank Name": "ING BANK NV, SUCURSAL EM PORTUGAL",
@@ -728,8 +728,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLS",
-    "bankCode": "PT",
+    "bankCode": "IBLS",
+    "countryCode": "PT",
     "branchCode": "CUG",
     "SWIFT Code": "IBLSPTPPCUG",
     "Bank Name": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
@@ -741,8 +741,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLS",
-    "bankCode": "PT",
+    "bankCode": "IBLS",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "IBLSPTPP",
     "Bank Name": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
@@ -754,8 +754,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLS",
-    "bankCode": "PT",
+    "bankCode": "IBLS",
+    "countryCode": "PT",
     "branchCode": "998",
     "SWIFT Code": "IBLSPTPP998",
     "Bank Name": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
@@ -767,8 +767,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLS",
-    "bankCode": "PT",
+    "bankCode": "IBLS",
+    "countryCode": "PT",
     "branchCode": "101",
     "SWIFT Code": "IBLSPTPP101",
     "Bank Name": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
@@ -780,8 +780,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBLS",
-    "bankCode": "PT",
+    "bankCode": "IBLS",
+    "countryCode": "PT",
     "branchCode": "999",
     "SWIFT Code": "IBLSPTPP999",
     "Bank Name": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
@@ -793,8 +793,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAG",
-    "bankCode": "PT",
+    "bankCode": "IPAG",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "IPAGPTPL",
     "Bank Name": "IPAGOO LLP PORTUGAL BRANCH",
@@ -806,8 +806,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "PT",
+    "bankCode": "ITAU",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "ITAUPTPP",
     "Bank Name": "ITAU BBA EUROPE",
@@ -819,8 +819,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITAU",
-    "bankCode": "PT",
+    "bankCode": "ITAU",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "ITAUPTPL",
     "Bank Name": "ITAU BBA INTERNATIONAL LIMITED, SUCURSAL EM PORTUGAL",
@@ -832,8 +832,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISPR",
-    "bankCode": "PT",
+    "bankCode": "ISPR",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "ISPRPTPL",
     "Bank Name": "IVN - SERVICOS PARTILHADOS, S.A.",
@@ -845,8 +845,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JERG",
-    "bankCode": "PT",
+    "bankCode": "JERG",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "JERGPTPL",
     "Bank Name": "JERONIMO MARTINS SGPS, S.A",
@@ -858,8 +858,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRRS",
-    "bankCode": "PT",
+    "bankCode": "NRRS",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "NRRSPTPP",
     "Bank Name": "NORS, S.A.",
@@ -871,8 +871,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESA",
-    "bankCode": "PT",
+    "bankCode": "BESA",
+    "countryCode": "PT",
     "branchCode": "TPA",
     "SWIFT Code": "BESAPTPA",
     "Bank Name": "NOVO BANCO DOS ACORES, SA",
@@ -884,8 +884,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "PT",
+    "bankCode": "BESC",
+    "countryCode": "PT",
     "branchCode": "OSF",
     "SWIFT Code": "BESCPTPLOSF",
     "Bank Name": "NOVO BANCO, SA",
@@ -897,8 +897,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "PT",
+    "bankCode": "BESC",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BESCPTPL",
     "Bank Name": "NOVO BANCO, SA",
@@ -910,8 +910,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "PT",
+    "bankCode": "BESC",
+    "countryCode": "PT",
     "branchCode": "CLM",
     "SWIFT Code": "BESCPTPLCLM",
     "Bank Name": "NOVO BANCO, SA",
@@ -923,8 +923,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESC",
-    "bankCode": "PT",
+    "bankCode": "BESC",
+    "countryCode": "PT",
     "branchCode": "ISA",
     "SWIFT Code": "BESCPTPLISA",
     "Bank Name": "NOVO BANCO, SA",
@@ -936,8 +936,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "PT",
+    "bankCode": "CAGL",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "CAGLPTPL",
     "Bank Name": "ABANCA CORPORACION BANCARIA, SA, SUCURSAL EM PORTUGAL",
@@ -949,8 +949,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGCP",
-    "bankCode": "PT",
+    "bankCode": "IGCP",
+    "countryCode": "PT",
     "branchCode": "CAB",
     "SWIFT Code": "IGCPPTPLCAB",
     "Bank Name": "AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA, IGCP EPE",
@@ -962,8 +962,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGCP",
-    "bankCode": "PT",
+    "bankCode": "IGCP",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "IGCPPTPL",
     "Bank Name": "AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA, IGCP EPE",
@@ -975,8 +975,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGCP",
-    "bankCode": "PT",
+    "bankCode": "IGCP",
+    "countryCode": "PT",
     "branchCode": "BRA",
     "SWIFT Code": "IGCPPTPLBRA",
     "Bank Name": "AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA, IGCP EPE",
@@ -988,8 +988,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGPP",
-    "bankCode": "PT",
+    "bankCode": "AGPP",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "AGPPPTPP",
     "Bank Name": "ASCENDI, SGPS, S.A.",
@@ -1001,8 +1001,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACTV",
-    "bankCode": "PT",
+    "bankCode": "ACTV",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "ACTVPTPL",
     "Bank Name": "BANCO ACTIVOBANK S.A.",
@@ -1014,8 +1014,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAPA",
-    "bankCode": "PT",
+    "bankCode": "BAPA",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BAPAPTPL",
     "Bank Name": "BANCO ATLANTICO EUROPA, SA",
@@ -1027,8 +1027,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAPA",
-    "bankCode": "PT",
+    "bankCode": "BAPA",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "BAPAPTPLSIC",
     "Bank Name": "BANCO ATLANTICO EUROPA, SA",
@@ -1040,8 +1040,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAIP",
-    "bankCode": "PT",
+    "bankCode": "BAIP",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BAIPPTPL",
     "Bank Name": "BANCO BAI EUROPA, SA",
@@ -1053,8 +1053,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAIP",
-    "bankCode": "PT",
+    "bankCode": "BAIP",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "BAIPPTPLSIC",
     "Bank Name": "BANCO BAI EUROPA, SA",
@@ -1066,8 +1066,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPNP",
-    "bankCode": "PT",
+    "bankCode": "BPNP",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BPNPPTPL",
     "Bank Name": "BANCO BIC PORTUGUES, S.A.",
@@ -1079,8 +1079,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPNP",
-    "bankCode": "PT",
+    "bankCode": "BPNP",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "BPNPPTPLSIC",
     "Bank Name": "BANCO BIC PORTUGUES, S.A.",
@@ -1092,8 +1092,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPNP",
-    "bankCode": "PT",
+    "bankCode": "BPNP",
+    "countryCode": "PT",
     "branchCode": "SFE",
     "SWIFT Code": "BPNPPTPLSFE",
     "Bank Name": "BANCO BIC PORTUGUES, S.A.",
@@ -1105,8 +1105,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "PT",
+    "bankCode": "BBVA",
+    "countryCode": "PT",
     "branchCode": "TG2",
     "SWIFT Code": "BBVAPTPLTG2",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A., SUCURSAL EM PORTUGAL",
@@ -1118,8 +1118,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "PT",
+    "bankCode": "BBVA",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BBVAPTPL",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A., SUCURSAL EM PORTUGAL",
@@ -1131,8 +1131,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBPI",
-    "bankCode": "PT",
+    "bankCode": "BBPI",
+    "countryCode": "PT",
     "branchCode": "GLF",
     "SWIFT Code": "BBPIPTPLGLF",
     "Bank Name": "BANCO BPI SA",
@@ -1144,8 +1144,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBPI",
-    "bankCode": "PT",
+    "bankCode": "BBPI",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BBPIPTPL",
     "Bank Name": "BANCO BPI SA",
@@ -1157,8 +1157,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "FUN",
     "SWIFT Code": "BCOMPTPLFUN",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1170,8 +1170,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "SFE",
     "SWIFT Code": "BCOMPTPLSFE",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1183,8 +1183,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "OFI",
     "SWIFT Code": "BCOMPTPLOFI",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1196,8 +1196,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "B07",
     "SWIFT Code": "BCOMPTPLB07",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1209,8 +1209,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "LES",
     "SWIFT Code": "BCOMPTPLLES",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1222,8 +1222,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "INT",
     "SWIFT Code": "BCOMPTPLINT",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1235,8 +1235,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "DRI",
     "SWIFT Code": "BCOMPTPLDRI",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1248,8 +1248,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "DIF",
     "SWIFT Code": "BCOMPTPLDIF",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1261,8 +1261,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BCOMPTPL",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1274,8 +1274,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "B01",
     "SWIFT Code": "BCOMPTPLB01",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1287,8 +1287,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "LEU",
     "SWIFT Code": "BCOMPTPLLEU",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1300,8 +1300,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "OTP",
     "SWIFT Code": "BCOMPTPLOTP",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1313,8 +1313,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOM",
-    "bankCode": "PT",
+    "bankCode": "BCOM",
+    "countryCode": "PT",
     "branchCode": "PLC",
     "SWIFT Code": "BCOMPTPLPLC",
     "Bank Name": "BANCO COMERCIAL PORTUGUES",
@@ -1326,8 +1326,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTTV",
-    "bankCode": "PT",
+    "bankCode": "CTTV",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "CTTVPTPL",
     "Bank Name": "BANCO CTT, S.A.",
@@ -1339,8 +1339,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTTV",
-    "bankCode": "PT",
+    "bankCode": "CTTV",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "CTTVPTPLSIC",
     "Bank Name": "BANCO CTT, S.A.",
@@ -1352,8 +1352,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIG",
-    "bankCode": "PT",
+    "bankCode": "BDIG",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BDIGPTPL",
     "Bank Name": "BANCO DE INVESTIMENTO GLOBAL S.A.",
@@ -1365,8 +1365,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BDIG",
-    "bankCode": "PT",
+    "bankCode": "BDIG",
+    "countryCode": "PT",
     "branchCode": "CLM",
     "SWIFT Code": "BDIGPTPLCLM",
     "Bank Name": "BANCO DE INVESTIMENTO GLOBAL S.A.",
@@ -1378,8 +1378,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "CON",
     "SWIFT Code": "BGALPTPLCON",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1391,8 +1391,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BGALPTPL",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1404,8 +1404,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "CBC",
     "SWIFT Code": "BGALPTTGCBC",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1417,8 +1417,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "SSB",
     "SWIFT Code": "BGALPTTGSSB",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1430,8 +1430,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "CCB",
     "SWIFT Code": "BGALPTTGCCB",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1443,8 +1443,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "BAC",
     "SWIFT Code": "BGALPTTGBAC",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1456,8 +1456,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "MRR",
     "SWIFT Code": "BGALPTTGMRR",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1469,8 +1469,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "SIT",
     "SWIFT Code": "BGALPTTGSIT",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1482,8 +1482,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "PTP",
     "SWIFT Code": "BGALPTTGPTP",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1495,8 +1495,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "PTP",
     "SWIFT Code": "BGALPTPLPTP",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1508,8 +1508,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "DCP",
     "SWIFT Code": "BGALPTPLDCP",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1521,8 +1521,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "CCB",
     "SWIFT Code": "BGALPTPLCCB",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1534,8 +1534,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "DET",
     "SWIFT Code": "BGALPTTGDET",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1547,8 +1547,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "FGD",
     "SWIFT Code": "BGALPTPLFGD",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1560,8 +1560,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "FG1",
     "SWIFT Code": "BGALPTPLFG1",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1573,8 +1573,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "FDR",
     "SWIFT Code": "BGALPTPLFDR",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1586,8 +1586,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "FR1",
     "SWIFT Code": "BGALPTPLFR1",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1599,8 +1599,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "FR2",
     "SWIFT Code": "BGALPTPLFR2",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1612,8 +1612,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "GPF",
     "SWIFT Code": "BGALPTPLGPF",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1625,8 +1625,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "IBC",
     "SWIFT Code": "BGALPTTGIBC",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1638,8 +1638,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "MMI",
     "SWIFT Code": "BGALPTTGMMI",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1651,8 +1651,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "MGS",
     "SWIFT Code": "BGALPTTGMGS",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1664,8 +1664,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "IPS",
     "SWIFT Code": "BGALPTTGIPS",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1677,8 +1677,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "TTG",
     "SWIFT Code": "BGALPTTG",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1690,8 +1690,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAL",
-    "bankCode": "PT",
+    "bankCode": "BGAL",
+    "countryCode": "PT",
     "branchCode": "TIP",
     "SWIFT Code": "BGALPTTGTIP",
     "Bank Name": "BANCO DE PORTUGAL",
@@ -1703,8 +1703,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "PT",
+    "bankCode": "BSAB",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BSABPTPL",
     "Bank Name": "BANCO DE SABADELL S.A., SUCURSAL EM PORTUGAL",
@@ -1716,8 +1716,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "PT",
+    "bankCode": "BSAB",
+    "countryCode": "PT",
     "branchCode": "001",
     "SWIFT Code": "BSABPTPL001",
     "Bank Name": "BANCO DE SABADELL S.A., SUCURSAL EM PORTUGAL",
@@ -1729,8 +1729,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "PT",
+    "bankCode": "BRAS",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BRASPTPL",
     "Bank Name": "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL",
@@ -1742,8 +1742,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "PT",
+    "bankCode": "BRAS",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "BRASPTPLSIC",
     "Bank Name": "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL",
@@ -1755,8 +1755,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIA",
-    "bankCode": "PT",
+    "bankCode": "BFIA",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BFIAPTPL",
     "Bank Name": "BANCO FINANTIA S.A.",
@@ -1768,8 +1768,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIA",
-    "bankCode": "PT",
+    "bankCode": "BFIA",
+    "countryCode": "PT",
     "branchCode": "SEC",
     "SWIFT Code": "BFIAPTPLSEC",
     "Bank Name": "BANCO FINANTIA S.A.",
@@ -1781,8 +1781,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIA",
-    "bankCode": "PT",
+    "bankCode": "BFIA",
+    "countryCode": "PT",
     "branchCode": "MC2",
     "SWIFT Code": "BFIAPTPLMC2",
     "Bank Name": "BANCO FINANTIA S.A.",
@@ -1794,8 +1794,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVVS",
-    "bankCode": "PT",
+    "bankCode": "IVVS",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "IVVSPTPL",
     "Bank Name": "BANCO INVEST S.A.",
@@ -1807,8 +1807,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVVS",
-    "bankCode": "PT",
+    "bankCode": "IVVS",
+    "countryCode": "PT",
     "branchCode": "002",
     "SWIFT Code": "IVVSPTPL002",
     "Bank Name": "BANCO INVEST S.A.",
@@ -1820,8 +1820,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLJC",
-    "bankCode": "PT",
+    "bankCode": "BLJC",
+    "countryCode": "PT",
     "branchCode": "TPT",
     "SWIFT Code": "BLJCPTPT",
     "Bank Name": "BANCO L.J. CARREGOSA, S.A.",
@@ -1833,8 +1833,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLJC",
-    "bankCode": "PT",
+    "bankCode": "BLJC",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "BLJCPTPTSIC",
     "Bank Name": "BANCO L.J. CARREGOSA, S.A.",
@@ -1846,8 +1846,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPGP",
-    "bankCode": "PT",
+    "bankCode": "BPGP",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BPGPPTPL",
     "Bank Name": "BANCO PORTUGUES DE GESTAO, S.A.",
@@ -1859,8 +1859,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPGP",
-    "bankCode": "PT",
+    "bankCode": "BPGP",
+    "countryCode": "PT",
     "branchCode": "001",
     "SWIFT Code": "BPGPPTPL001",
     "Bank Name": "BANCO PORTUGUES DE GESTAO, S.A.",
@@ -1872,8 +1872,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOTA",
-    "bankCode": "PT",
+    "bankCode": "TOTA",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "TOTAPTPL",
     "Bank Name": "BANCO SANTANDER TOTTA, SA",
@@ -1885,8 +1885,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOTA",
-    "bankCode": "PT",
+    "bankCode": "TOTA",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "TOTAPTPLSIC",
     "Bank Name": "BANCO SANTANDER TOTTA, SA",
@@ -1898,8 +1898,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOTA",
-    "bankCode": "PT",
+    "bankCode": "TOTA",
+    "countryCode": "PT",
     "branchCode": "COV",
     "SWIFT Code": "TOTAPTPLCOV",
     "Bank Name": "BANCO SANTANDER TOTTA, SA",
@@ -1911,8 +1911,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOTA",
-    "bankCode": "PT",
+    "bankCode": "TOTA",
+    "countryCode": "PT",
     "branchCode": "EMI",
     "SWIFT Code": "TOTAPTPLEMI",
     "Bank Name": "BANCO SANTANDER TOTTA, SA",
@@ -1924,8 +1924,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOTA",
-    "bankCode": "PT",
+    "bankCode": "TOTA",
+    "countryCode": "PT",
     "branchCode": "MOB",
     "SWIFT Code": "TOTAPTPLMOB",
     "Bank Name": "BANCO SANTANDER TOTTA, SA",
@@ -1937,8 +1937,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "PT",
+    "bankCode": "BKCH",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BKCHPTPL",
     "Bank Name": "BANK OF CHINA ( EUROPE) S.A. LISBON BRANCH - SUCURSAL EM PORTUGAL",
@@ -1950,8 +1950,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "PT",
+    "bankCode": "BKBK",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BKBKPTPL",
     "Bank Name": "BANKINTER SA-SUCURSAL EM PORTUGAL",
@@ -1963,8 +1963,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "PT",
+    "bankCode": "BKBK",
+    "countryCode": "PT",
     "branchCode": "MCA",
     "SWIFT Code": "BKBKPTPLMCA",
     "Bank Name": "BANKINTER SA-SUCURSAL EM PORTUGAL",
@@ -1976,8 +1976,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "PT",
+    "bankCode": "BARC",
+    "countryCode": "PT",
     "branchCode": "TPC",
     "SWIFT Code": "BARCPTPC",
     "Bank Name": "BARCLAYS BANK IRELAND PLC - SUCURSAL EM PORTUGAL",
@@ -1989,8 +1989,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BESZ",
-    "bankCode": "PT",
+    "bankCode": "BESZ",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BESZPTPL",
     "Bank Name": "BEST-BANCO ELECTRONICO DE SERVICO TOTAL S.A.",
@@ -2002,8 +2002,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHOD",
-    "bankCode": "PT",
+    "bankCode": "BHOD",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BHODPTPL",
     "Bank Name": "BIAL - HOLDING, S.A.",
@@ -2015,8 +2015,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNFI",
-    "bankCode": "PT",
+    "bankCode": "BNFI",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BNFIPTPL",
     "Bank Name": "BISON BANK, S.A.",
@@ -2028,8 +2028,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNFI",
-    "bankCode": "PT",
+    "bankCode": "BNFI",
+    "countryCode": "PT",
     "branchCode": "SIC",
     "SWIFT Code": "BNFIPTPLSIC",
     "Bank Name": "BISON BANK, S.A.",
@@ -2041,8 +2041,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIC",
-    "bankCode": "PT",
+    "bankCode": "BNIC",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BNICPTPL",
     "Bank Name": "BNI - BANCO DE NEGOCIOS INTERNACIONAL (EUROPA), S.A.",
@@ -2054,8 +2054,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIC",
-    "bankCode": "PT",
+    "bankCode": "BNIC",
+    "countryCode": "PT",
     "branchCode": "001",
     "SWIFT Code": "BNICPTPL001",
     "Bank Name": "BNI - BANCO DE NEGOCIOS INTERNACIONAL (EUROPA), S.A.",
@@ -2067,8 +2067,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "PT",
+    "bankCode": "BNPA",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "BNPAPTPL",
     "Bank Name": "BNP PARIBAS",
@@ -2080,8 +2080,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "PT",
+    "bankCode": "BNPA",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "BNPAPTPP",
     "Bank Name": "BNP PARIBAS PERSONAL FINANCE, S.A. - SUCURSAL EM PORTUGAL",
@@ -2093,8 +2093,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "PT",
+    "bankCode": "BNPA",
+    "countryCode": "PT",
     "branchCode": "INS",
     "SWIFT Code": "BNPAPTPPINS",
     "Bank Name": "BNP PARIBAS PERSONAL FINANCE, S.A. - SUCURSAL EM PORTUGAL",
@@ -2106,8 +2106,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "PT",
+    "bankCode": "BNPA",
+    "countryCode": "PT",
     "branchCode": "LIS",
     "SWIFT Code": "BNPAPTPLLIS",
     "Bank Name": "BNP PARIBAS PORTUGAL",
@@ -2119,8 +2119,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXBI",
-    "bankCode": "PT",
+    "bankCode": "CXBI",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "CXBIPTPL",
     "Bank Name": "CAIXA BANCO DE INVESTIMENTO, S.A.",
@@ -2132,8 +2132,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXBI",
-    "bankCode": "PT",
+    "bankCode": "CXBI",
+    "countryCode": "PT",
     "branchCode": "MCA",
     "SWIFT Code": "CXBIPTPLMCA",
     "Bank Name": "CAIXA BANCO DE INVESTIMENTO, S.A.",
@@ -2145,8 +2145,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CXBI",
-    "bankCode": "PT",
+    "bankCode": "CXBI",
+    "countryCode": "PT",
     "branchCode": "MOB",
     "SWIFT Code": "CXBIPTPLMOB",
     "Bank Name": "CAIXA BANCO DE INVESTIMENTO, S.A.",
@@ -2158,8 +2158,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCCM",
-    "bankCode": "PT",
+    "bankCode": "CCCM",
+    "countryCode": "PT",
     "branchCode": "TPL",
     "SWIFT Code": "CCCMPTPL",
     "Bank Name": "CAIXA CENTRAL CREDITO AGRICOLA MUTUO",
@@ -2171,8 +2171,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCCM",
-    "bankCode": "PT",
+    "bankCode": "CCCM",
+    "countryCode": "PT",
     "branchCode": "SCO",
     "SWIFT Code": "CCCMPTPLSCO",
     "Bank Name": "CAIXA CENTRAL CREDITO AGRICOLA MUTUO",
@@ -2184,8 +2184,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDOT",
-    "bankCode": "PT",
+    "bankCode": "CDOT",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "CDOTPTPP",
     "Bank Name": "CAIXA DE CREDITO AGRICOLA MUTUO DE MAFRA CRL",
@@ -2197,8 +2197,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDOT",
-    "bankCode": "PT",
+    "bankCode": "CDOT",
+    "countryCode": "PT",
     "branchCode": "CGS",
     "SWIFT Code": "CDOTPTPPCGS",
     "Bank Name": "CAIXA DE CREDITO AGRICOLA MUTUO DE MAFRA CRL",
@@ -2210,8 +2210,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTIU",
-    "bankCode": "PT",
+    "bankCode": "CTIU",
+    "countryCode": "PT",
     "branchCode": "TPP",
     "SWIFT Code": "CTIUPTPP",
     "Bank Name": "CAIXA DE CREDITO AGRICOLA MUTUO DE TORRES VEDRAS, C.R.L.",
@@ -2223,8 +2223,8 @@ const portugal = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTIU",
-    "bankCode": "PT",
+    "bankCode": "CTIU",
+    "countryCode": "PT",
     "branchCode": "CTV",
     "SWIFT Code": "CTIUPTPPCTV",
     "Bank Name": "CAIXA DE CREDITO AGRICOLA MUTUO DE TORRES VEDRAS, C.R.L.",

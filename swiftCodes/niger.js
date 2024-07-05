@@ -1,7 +1,7 @@
 const niger = [
   {
-    "countryCode": "AFRI",
-    "bankCode": "NE",
+    "bankCode": "AFRI",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "AFRINENI",
     "Bank Name": "BANK OF AFRICA NIGER",
@@ -13,8 +13,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BANE",
-    "bankCode": "NE",
+    "bankCode": "BANE",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BANENENI",
     "Bank Name": "BANQUE AGRICOLE DU NIGER",
@@ -26,8 +26,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATNE",
-    "bankCode": "NE",
+    "bankCode": "ATNE",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "ATNENENI",
     "Bank Name": "BANQUE ATLANTIQUE NIGER",
@@ -39,8 +39,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "NE",
+    "bankCode": "BCAO",
+    "countryCode": "NE",
     "branchCode": "MAR",
     "SWIFT Code": "BCAONENIMAR",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -52,8 +52,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "NE",
+    "bankCode": "BCAO",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BCAONENI",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -65,8 +65,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCAO",
-    "bankCode": "NE",
+    "bankCode": "BCAO",
+    "countryCode": "NE",
     "branchCode": "ZIN",
     "SWIFT Code": "BCAONENIZIN",
     "Bank Name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
@@ -78,8 +78,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDN",
-    "bankCode": "NE",
+    "bankCode": "BCDN",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BCDNNENI",
     "Bank Name": "BANQUE COMMERCIALE DU NIGER",
@@ -91,8 +91,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHDN",
-    "bankCode": "NE",
+    "bankCode": "BHDN",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BHDNNENI",
     "Bank Name": "BANQUE DE L'HABITAT DU NIGER - BHN",
@@ -104,8 +104,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIAN",
-    "bankCode": "NE",
+    "bankCode": "BIAN",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BIANNENI",
     "Bank Name": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER",
@@ -117,8 +117,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICV",
-    "bankCode": "NE",
+    "bankCode": "BICV",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BICVNENI",
     "Bank Name": "BANQUE ISLAMIQUE DU NIGER POUR LE COMMERCE ET L'INVESTISSEMENT",
@@ -130,8 +130,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRMX",
-    "bankCode": "NE",
+    "bankCode": "BRMX",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BRMXNENI",
     "Bank Name": "BANQUE REGIONALE DE MARCHES",
@@ -143,8 +143,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "NE",
+    "bankCode": "BSAH",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "BSAHNENI",
     "Bank Name": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (NIGER) S.A.",
@@ -156,8 +156,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAO",
-    "bankCode": "NE",
+    "bankCode": "CBAO",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "CBAONENI",
     "Bank Name": "CBAO GROUPE ATTIJARIWAFA BANK",
@@ -169,8 +169,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CORI",
-    "bankCode": "NE",
+    "bankCode": "CORI",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "CORINENI",
     "Bank Name": "CORIS BANK INTERNATIONAL SA-BRANCH OF NIGER",
@@ -182,8 +182,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "NE",
+    "bankCode": "ECOC",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "ECOCNENI",
     "Bank Name": "ECOBANK NIGER ECN",
@@ -195,8 +195,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBK",
-    "bankCode": "NE",
+    "bankCode": "ORBK",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "ORBKNENI",
     "Bank Name": "ORABANK NIGER",
@@ -208,8 +208,8 @@ const niger = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOCN",
-    "bankCode": "NE",
+    "bankCode": "SOCN",
+    "countryCode": "NE",
     "branchCode": "ENI",
     "SWIFT Code": "SOCNNENI",
     "Bank Name": "SOCIETE NIGERIENNE DE BANQUE",

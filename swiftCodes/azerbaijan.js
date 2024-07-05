@@ -1,7 +1,7 @@
 const azerbaijan = [
   {
-    "countryCode": "BRES",
-    "bankCode": "AZ",
+    "bankCode": "BRES",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "BRESAZ22",
     "Bank Name": "'BANK RESPUBLIKA' OJSC",
@@ -13,8 +13,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NICB",
-    "bankCode": "AZ",
+    "bankCode": "NICB",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "NICBAZ22",
     "Bank Name": "'YELO BANK' OJSC",
@@ -26,8 +26,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACAB",
-    "bankCode": "AZ",
+    "bankCode": "ACAB",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "ACABAZ22",
     "Bank Name": "ACCESSBANK",
@@ -39,8 +39,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZFI",
-    "bankCode": "AZ",
+    "bankCode": "AZFI",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "AZFIAZ22",
     "Bank Name": "AFB BANK OJSC",
@@ -52,8 +52,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACJT",
-    "bankCode": "AZ",
+    "bankCode": "ACJT",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "ACJTAZ22",
     "Bank Name": "AGRARKREDIT JOINT-STOCK NON-BANKING CREDIT ORGANIZATION",
@@ -65,8 +65,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZRT",
-    "bankCode": "AZ",
+    "bankCode": "AZRT",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "AZRTAZ22",
     "Bank Name": "AZER-TURK BANK",
@@ -78,8 +78,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAPN",
-    "bankCode": "AZ",
+    "bankCode": "CAPN",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "CAPNAZ22",
     "Bank Name": "AZERBAIJAN INDUSTRY BANK OJSC",
@@ -91,8 +91,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZPO",
-    "bankCode": "AZ",
+    "bankCode": "AZPO",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "AZPOAZ22",
     "Bank Name": "AZERPOST LIMITED LIABILITY COMPANY",
@@ -104,8 +104,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBTB",
-    "bankCode": "AZ",
+    "bankCode": "BBTB",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "BBTBAZ22",
     "Bank Name": "BANK BTB",
@@ -117,8 +117,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JBBK",
-    "bankCode": "AZ",
+    "bankCode": "JBBK",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "JBBKAZ22",
     "Bank Name": "BANK OF BAKU",
@@ -130,8 +130,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABZ",
-    "bankCode": "AZ",
+    "bankCode": "NABZ",
+    "countryCode": "AZ",
     "branchCode": "Z2C",
     "SWIFT Code": "NABZAZ2C",
     "Bank Name": "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN",
@@ -143,8 +143,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABZ",
-    "bankCode": "AZ",
+    "bankCode": "NABZ",
+    "countryCode": "AZ",
     "branchCode": "Z2X",
     "SWIFT Code": "NABZAZ2X",
     "Bank Name": "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN",
@@ -156,8 +156,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NABZ",
-    "bankCode": "AZ",
+    "bankCode": "NABZ",
+    "countryCode": "AZ",
     "branchCode": "RTS",
     "SWIFT Code": "NABZAZ2CRTS",
     "Bank Name": "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN",
@@ -169,8 +169,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AVRA",
-    "bankCode": "AZ",
+    "bankCode": "AVRA",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "AVRAAZ22",
     "Bank Name": "EURASIA BANK",
@@ -182,8 +182,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZEN",
-    "bankCode": "AZ",
+    "bankCode": "AZEN",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "AZENAZ22",
     "Bank Name": "EXPRESSBANK OJSC",
@@ -195,8 +195,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIIB",
-    "bankCode": "AZ",
+    "bankCode": "AIIB",
+    "countryCode": "AZ",
     "branchCode": "Z2X",
     "SWIFT Code": "AIIBAZ2X",
     "Bank Name": "KAPITAL BANK",
@@ -208,8 +208,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAXB",
-    "bankCode": "AZ",
+    "bankCode": "NAXB",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "NAXBAZ22",
     "Bank Name": "NAKHCHIVANBANK OJSC",
@@ -221,8 +221,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANDC",
-    "bankCode": "AZ",
+    "bankCode": "ANDC",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "ANDCAZ22",
     "Bank Name": "NATIONAL DEPOSITORY CENTER OF THE REPUBLIC OF AZERBAIJAN",
@@ -234,8 +234,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZAL",
-    "bankCode": "AZ",
+    "bankCode": "AZAL",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "AZALAZ22",
     "Bank Name": "OJSC PREMIUM BANK",
@@ -248,8 +248,8 @@ const azerbaijan = [
   },
   {},
   {
-    "countryCode": "PAHA",
-    "bankCode": "AZ",
+    "bankCode": "PAHA",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "PAHAAZ22",
     "Bank Name": "PASHA BANK OJSC",
@@ -261,8 +261,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTA",
-    "bankCode": "AZ",
+    "bankCode": "RBTA",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "RBTAAZ22",
     "Bank Name": "RABITABANK",
@@ -274,8 +274,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "AZ",
+    "bankCode": "SECT",
+    "countryCode": "AZ",
     "branchCode": "982",
     "SWIFT Code": "SECTAZ22982",
     "Bank Name": "SAMSUNG ELECTRONICS CAUCASUS COMPANY",
@@ -287,8 +287,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECT",
-    "bankCode": "AZ",
+    "bankCode": "SECT",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "SECTAZ22",
     "Bank Name": "SAMSUNG ELECTRONICS CAUCASUS COMPANY",
@@ -300,8 +300,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOIL",
-    "bankCode": "AZ",
+    "bankCode": "SOIL",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "SOILAZ22",
     "Bank Name": "STATE OIL FUND OF THE REPUBLIC OF AZERBAIJAN",
@@ -313,8 +313,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTRE",
-    "bankCode": "AZ",
+    "bankCode": "CTRE",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "CTREAZ22",
     "Bank Name": "STATE TREASURY AGENCY",
@@ -326,8 +326,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBAZ",
-    "bankCode": "AZ",
+    "bankCode": "IBAZ",
+    "countryCode": "AZ",
     "branchCode": "Z2X",
     "SWIFT Code": "IBAZAZ2X",
     "Bank Name": "THE INTERNATIONAL BANK OF AZERBAIJAN OJSC",
@@ -339,8 +339,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TURA",
-    "bankCode": "AZ",
+    "bankCode": "TURA",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "TURAAZ22",
     "Bank Name": "TURANBANK OJSC",
@@ -352,8 +352,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAZ",
-    "bankCode": "AZ",
+    "bankCode": "UBAZ",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "UBAZAZ22",
     "Bank Name": "UNIBANK CB",
@@ -365,8 +365,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAJC",
-    "bankCode": "AZ",
+    "bankCode": "HAJC",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "HAJCAZ22",
     "Bank Name": "XALQ BANK OPEN JOINT-STOCK COMPANY",
@@ -378,8 +378,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KABA",
-    "bankCode": "AZ",
+    "bankCode": "KABA",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "KABAAZ22",
     "Bank Name": "YAPIKREDI AZERBAIJAN CLOSED JSC",
@@ -391,8 +391,8 @@ const azerbaijan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "AZ",
+    "bankCode": "TCZB",
+    "countryCode": "AZ",
     "branchCode": "Z22",
     "SWIFT Code": "TCZBAZ22",
     "Bank Name": "ZIRAAT BANK AZERBAIJAN OJSC",

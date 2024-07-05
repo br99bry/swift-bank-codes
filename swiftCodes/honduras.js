@@ -1,7 +1,7 @@
 const honduras = [
   {
-    "countryCode": "ATTD",
-    "bankCode": "HN",
+    "bankCode": "ATTD",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "ATTDHNTE",
     "Bank Name": "BANCO ATLANTIDA",
@@ -13,8 +13,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZTK",
-    "bankCode": "HN",
+    "bankCode": "AZTK",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "AZTKHNTE",
     "Bank Name": "BANCO AZTECA DE HONDURAS, SA",
@@ -26,8 +26,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEH",
-    "bankCode": "HN",
+    "bankCode": "BCEH",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BCEHHNTE",
     "Bank Name": "BANCO CENTRAL DE HONDURAS",
@@ -39,8 +39,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEH",
-    "bankCode": "HN",
+    "bankCode": "BCEH",
+    "countryCode": "HN",
     "branchCode": "NTT",
     "SWIFT Code": "BCEHHNTT",
     "Bank Name": "BANCO CENTRAL DE HONDURAS BANCO CENTRAL",
@@ -52,8 +52,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIE",
-    "bankCode": "HN",
+    "bankCode": "BCIE",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BCIEHNTE",
     "Bank Name": "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA",
@@ -65,8 +65,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGAH",
-    "bankCode": "HN",
+    "bankCode": "BGAH",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BGAHHNTE",
     "Bank Name": "BANCO DAVIVIENDA HONDURAS, S.A.",
@@ -78,8 +78,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIL",
-    "bankCode": "HN",
+    "bankCode": "BMIL",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BMILHNTE",
     "Bank Name": "BANCO DE AMERICA CENTRAL HONDURAS, S.A.(BAC BAMER)",
@@ -91,8 +91,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "HN",
+    "bankCode": "PRCB",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "PRCBHNTE",
     "Bank Name": "BANCO DE DESARROLLO RURAL HONDURAS, S.A.",
@@ -104,8 +104,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HONA",
-    "bankCode": "HN",
+    "bankCode": "HONA",
+    "countryCode": "HN",
     "branchCode": "NT2",
     "SWIFT Code": "HONAHNT2",
     "Bank Name": "BANCO DE HONDURAS, S.A.",
@@ -117,8 +117,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSBO",
-    "bankCode": "HN",
+    "bankCode": "TSBO",
+    "countryCode": "HN",
     "branchCode": "NTA",
     "SWIFT Code": "TSBOHNTA",
     "Bank Name": "BANCO DE LOS TRABAJADORES",
@@ -130,8 +130,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOCC",
-    "bankCode": "HN",
+    "bankCode": "BOCC",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BOCCHNTE",
     "Bank Name": "BANCO DE OCCIDENTE S.A.",
@@ -143,8 +143,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOCC",
-    "bankCode": "HN",
+    "bankCode": "BOCC",
+    "countryCode": "HN",
     "branchCode": "SPS",
     "SWIFT Code": "BOCCHNTESPS",
     "Bank Name": "BANCO DE OCCIDENTE S.A.",
@@ -156,8 +156,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOCC",
-    "bankCode": "HN",
+    "bankCode": "BOCC",
+    "countryCode": "HN",
     "branchCode": "SRC",
     "SWIFT Code": "BOCCHNTESRC",
     "Bank Name": "BANCO DE OCCIDENTE S.A.",
@@ -169,8 +169,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOCC",
-    "bankCode": "HN",
+    "bankCode": "BOCC",
+    "countryCode": "HN",
     "branchCode": "TGU",
     "SWIFT Code": "BOCCHNTETGU",
     "Bank Name": "BANCO DE OCCIDENTE S.A.",
@@ -182,8 +182,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PISA",
-    "bankCode": "HN",
+    "bankCode": "PISA",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "PISAHNTE",
     "Bank Name": "BANCO DEL PAIS,S.A.",
@@ -195,8 +195,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CABF",
-    "bankCode": "HN",
+    "bankCode": "CABF",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "CABFHNTE",
     "Bank Name": "BANCO FINANCIERA CENTROAMERICANA S.A. FICENSA",
@@ -208,8 +208,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCOH",
-    "bankCode": "HN",
+    "bankCode": "FCOH",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "FCOHHNTE",
     "Bank Name": "BANCO FINANCIERA COMERCIAL HONDURENA S.A. (BANCO FICOHSA)",
@@ -221,8 +221,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BHCA",
-    "bankCode": "HN",
+    "bankCode": "BHCA",
+    "countryCode": "HN",
     "branchCode": "NTH",
     "SWIFT Code": "BHCAHNTH",
     "Bank Name": "BANCO HONDURENO DEL CAFE, S.A.",
@@ -234,8 +234,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCE",
-    "bankCode": "HN",
+    "bankCode": "BCCE",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BCCEHNTE",
     "Bank Name": "BANCO LAFISE (HONDURAS), S.A.",
@@ -247,8 +247,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPRH",
-    "bankCode": "HN",
+    "bankCode": "BPRH",
+    "countryCode": "HN",
     "branchCode": "NTE",
     "SWIFT Code": "BPRHHNTE",
     "Bank Name": "BANCO PROMERICA, S.A.",
@@ -260,8 +260,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCVO",
-    "bankCode": "HN",
+    "bankCode": "BCVO",
+    "countryCode": "HN",
     "branchCode": "NT2",
     "SWIFT Code": "BCVOHNT2",
     "Bank Name": "BOLSA CENTROAMERICANA DE VALORES, S.A.",
@@ -273,8 +273,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBVA",
-    "bankCode": "HN",
+    "bankCode": "CBVA",
+    "countryCode": "HN",
     "branchCode": "NT2",
     "SWIFT Code": "CBVAHNT2",
     "Bank Name": "CASA DE BOLSA DE VALORES S.A. (CABVAL)",
@@ -286,8 +286,8 @@ const honduras = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBPR",
-    "bankCode": "HN",
+    "bankCode": "PBPR",
+    "countryCode": "HN",
     "branchCode": "NT2",
     "SWIFT Code": "PBPRHNT2",
     "Bank Name": "PUESTO DE BOLSA PROMOTORA BURSATIL, S.A.",

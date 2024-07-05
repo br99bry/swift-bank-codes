@@ -1,7 +1,7 @@
 const guernsey = [
   {
-    "countryCode": "ARMK",
-    "bankCode": "GG",
+    "bankCode": "ARMK",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "ARMKGGSP",
     "Bank Name": "ALTERNATIVE RISK MANAGEMENT LIMITED",
@@ -13,8 +13,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APAX",
-    "bankCode": "GG",
+    "bankCode": "APAX",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "APAXGGSP",
     "Bank Name": "APAX PARTNERS GUERNSEY LIMITED",
@@ -26,8 +26,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPES",
-    "bankCode": "GG",
+    "bankCode": "IPES",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "IPESGGSP",
     "Bank Name": "APEX FUND AND CORPORATE SERVICES (GUERNSEY) LIMITED",
@@ -39,8 +39,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SARA",
-    "bankCode": "GG",
+    "bankCode": "SARA",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "SARAGGSP",
     "Bank Name": "BANK J. SAFRA SARASIN LTD, GUERNSEY BRANCH",
@@ -52,8 +52,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAER",
-    "bankCode": "GG",
+    "bankCode": "BAER",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "BAERGGSP",
     "Bank Name": "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)",
@@ -65,8 +65,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNTB",
-    "bankCode": "GG",
+    "bankCode": "BNTB",
+    "countryCode": "GG",
     "branchCode": "GSX",
     "SWIFT Code": "BNTBGGSX",
     "Bank Name": "BUTTERFIELD BANK (GUERNSEY) LIMITED",
@@ -78,8 +78,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGWI",
-    "bankCode": "GG",
+    "bankCode": "CGWI",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "CGWIGGSP",
     "Bank Name": "CANACCORD GENUITY WEALTH (INTERNATIONAL) LIMITED",
@@ -91,8 +91,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNFA",
-    "bankCode": "GG",
+    "bankCode": "CNFA",
+    "countryCode": "GG",
     "branchCode": "GS2",
     "SWIFT Code": "CNFAGGS2",
     "Bank Name": "CONFIANCE LIMITED",
@@ -104,8 +104,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "GG",
+    "bankCode": "CRES",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "CRESGGSP",
     "Bank Name": "CREDIT SUISSE AG, GUERNSEY BRANCH",
@@ -117,8 +117,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDC",
-    "bankCode": "GG",
+    "bankCode": "CSDC",
+    "countryCode": "GG",
     "branchCode": "GSX",
     "SWIFT Code": "CSDCGGSX",
     "Bank Name": "CREDIT SUISSE DEPOSIT CENTRE",
@@ -130,8 +130,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "GG",
+    "bankCode": "EFGB",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "EFGBGGSP",
     "Bank Name": "EFG BANK AG, GUERNSEY BRANCH",
@@ -143,8 +143,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "GG",
+    "bankCode": "FIRN",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "FIRNGGSP",
     "Bank Name": "FNB CHANNEL ISLANDS",
@@ -156,8 +156,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLIC",
-    "bankCode": "GG",
+    "bankCode": "BLIC",
+    "countryCode": "GG",
     "branchCode": "GSX",
     "SWIFT Code": "BLICGGSX",
     "Bank Name": "HSBC PRIVATE BANK (SUISSE) SA, GUERNSEY BRANCH",
@@ -169,8 +169,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GMGU",
-    "bankCode": "GG",
+    "bankCode": "GMGU",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "GMGUGGSP",
     "Bank Name": "INVESTEC BANK (CHANNEL ISLANDS) LIMITED",
@@ -182,8 +182,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFAL",
-    "bankCode": "GG",
+    "bankCode": "AFAL",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "AFALGGSP",
     "Bank Name": "IQ EQ FUND SERVICES (GUERNSEY) LIMITED",
@@ -195,8 +195,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGF",
-    "bankCode": "GG",
+    "bankCode": "EFGF",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "EFGFGGSP",
     "Bank Name": "LEONTEQ SECURITIES AG, GUERNSEY BRANCH",
@@ -208,8 +208,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NETM",
-    "bankCode": "GG",
+    "bankCode": "NETM",
+    "countryCode": "GG",
     "branchCode": "GS2",
     "SWIFT Code": "NETMGGS2",
     "Bank Name": "NERINE TRUST COMPANY LIMITED",
@@ -221,8 +221,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NREI",
-    "bankCode": "GG",
+    "bankCode": "NREI",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "NREIGGSP",
     "Bank Name": "NOMURA REINSURANCE 1 IC LIMITED",
@@ -234,8 +234,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBCO",
-    "bankCode": "GG",
+    "bankCode": "BBCO",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "BBCOGGSP",
     "Bank Name": "NORTHERN TRUST (GUERNSEY) LIMITED",
@@ -247,8 +247,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OAKT",
-    "bankCode": "GG",
+    "bankCode": "OAKT",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "OAKTGGSP",
     "Bank Name": "OAK TRUST (GUERNSEY) LIMITED",
@@ -260,8 +260,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PXIS",
-    "bankCode": "GG",
+    "bankCode": "PXIS",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "PXISGGSP",
     "Bank Name": "PRAXISIFM TRUST LIMITED",
@@ -273,8 +273,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PXIS",
-    "bankCode": "GG",
+    "bankCode": "PXIS",
+    "countryCode": "GG",
     "branchCode": "GSX",
     "SWIFT Code": "PXISGGSX",
     "Bank Name": "PRAXISIFM TRUST LIMITED",
@@ -286,8 +286,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRDG",
-    "bankCode": "GG",
+    "bankCode": "PRDG",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "PRDGGGSP",
     "Bank Name": "PRICEWATERHOUSECOOPERS (MIDDLE EAST GROUP) LIMITED",
@@ -299,8 +299,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAVE",
-    "bankCode": "GG",
+    "bankCode": "RAVE",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "RAVEGGSP",
     "Bank Name": "RAVENSCROFT (CI) LIMITED",
@@ -312,8 +312,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "GG",
+    "bankCode": "RBOS",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "RBOSGGSP",
     "Bank Name": "RBS INTERNATIONAL (GUERNSEY)",
@@ -325,8 +325,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "GG",
+    "bankCode": "RBOS",
+    "countryCode": "GG",
     "branchCode": "GSX",
     "SWIFT Code": "RBOSGGSX",
     "Bank Name": "RBSI TRADING AS NATWEST INTERNATIONAL (GUERNSEY)",
@@ -339,8 +339,8 @@ const guernsey = [
   },
   {},
   {
-    "countryCode": "ROSW",
-    "bankCode": "GG",
+    "bankCode": "ROSW",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "ROSWGGSP",
     "Bank Name": "ROTHSCHILD AND CO BANK INTERNATIONAL LIMITED (WEALTH MANAGEMENT)",
@@ -353,8 +353,8 @@ const guernsey = [
   },
   {},
   {
-    "countryCode": "ROYC",
-    "bankCode": "GG",
+    "bankCode": "ROYC",
+    "countryCode": "GG",
     "branchCode": "OFM",
     "SWIFT Code": "ROYCGGSPOFM",
     "Bank Name": "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED, GUERNSEY BRANCH",
@@ -366,8 +366,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHD",
-    "bankCode": "GG",
+    "bankCode": "SCHD",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "SCHDGGSP",
     "Bank Name": "SCHRODERS (C.I.) LIMITED",
@@ -379,8 +379,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "G26",
     "SWIFT Code": "SEIQGGSPG26",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -392,8 +392,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "S53",
     "SWIFT Code": "SEIQGGSPS53",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -405,8 +405,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "S29",
     "SWIFT Code": "SEIQGGSPS29",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -418,8 +418,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "S27",
     "SWIFT Code": "SEIQGGSPS27",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -431,8 +431,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "S25",
     "SWIFT Code": "SEIQGGSPS25",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -444,8 +444,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "S23",
     "SWIFT Code": "SEIQGGSPS23",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -457,8 +457,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "G92",
     "SWIFT Code": "SEIQGGSPG92",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -470,8 +470,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "G52",
     "SWIFT Code": "SEIQGGSPG52",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -483,8 +483,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "G89",
     "SWIFT Code": "SEIQGGSPG89",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -496,8 +496,8 @@ const guernsey = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEIQ",
-    "bankCode": "GG",
+    "bankCode": "SEIQ",
+    "countryCode": "GG",
     "branchCode": "G66",
     "SWIFT Code": "SEIQGGSPG66",
     "Bank Name": "SEI INVESTMENTS-GUERNSEY LIMITED",
@@ -510,8 +510,8 @@ const guernsey = [
   },
   {},
   {
-    "countryCode": "HAMB",
-    "bankCode": "GG",
+    "bankCode": "HAMB",
+    "countryCode": "GG",
     "branchCode": "GSP",
     "SWIFT Code": "HAMBGGSP",
     "Bank Name": "SG KLEINWORT HAMBROS BANK LIMITED - GUERNSEY BRANCH",

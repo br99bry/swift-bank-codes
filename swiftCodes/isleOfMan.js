@@ -1,7 +1,7 @@
 const isleOfMan = [
   {
-    "countryCode": "CIBQ",
-    "bankCode": "IM",
+    "bankCode": "CIBQ",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "CIBQIMDD",
     "Bank Name": "CAPITAL INTERNATIONAL BANK LIMITED",
@@ -13,8 +13,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNBT",
-    "bankCode": "IM",
+    "bankCode": "CNBT",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "CNBTIMDD",
     "Bank Name": "CAYMAN NATIONAL BANK (ISLE OF MAN) LIMITED",
@@ -26,8 +26,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDAX",
-    "bankCode": "IM",
+    "bankCode": "CDAX",
+    "countryCode": "IM",
     "branchCode": "MD2",
     "SWIFT Code": "CDAXIMD2",
     "Bank Name": "CDAX LIMITED",
@@ -39,8 +39,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNNI",
-    "bankCode": "IM",
+    "bankCode": "CNNI",
+    "countryCode": "IM",
     "branchCode": "MD2",
     "SWIFT Code": "CNNIIMD2",
     "Bank Name": "CONISTER BANK LIMITED",
@@ -52,8 +52,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IQEQ",
-    "bankCode": "IM",
+    "bankCode": "IQEQ",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "IQEQIMDD",
     "Bank Name": "IQ EQ GROUP MANAGEMENT (ISLE OF MAN) LIMITED",
@@ -65,8 +65,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RFLC",
-    "bankCode": "IM",
+    "bankCode": "RFLC",
+    "countryCode": "IM",
     "branchCode": "MDX",
     "SWIFT Code": "RFLCIMDX",
     "Bank Name": "NEDBANK PRIVATE WEALTH LTD.",
@@ -78,8 +78,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLAY",
-    "bankCode": "IM",
+    "bankCode": "PLAY",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "PLAYIMDD",
     "Bank Name": "PLAYTECH PLC",
@@ -91,8 +91,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "IM",
+    "bankCode": "RBOS",
+    "countryCode": "IM",
     "branchCode": "MDX",
     "SWIFT Code": "RBOSIMDX",
     "Bank Name": "RBS INTERNATIONAL (ISLE OF MAN)",
@@ -104,8 +104,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "IM",
+    "bankCode": "RBOS",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "RBOSIMDD",
     "Bank Name": "RBSI TRADING AS NATWEST INTERNATIONAL (ISLE OF MAN)",
@@ -117,8 +117,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAYR",
-    "bankCode": "IM",
+    "bankCode": "SAYR",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "SAYRIMDD",
     "Bank Name": "SAHARA ENERGY RESOURCE LIMITED",
@@ -130,8 +130,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "IM",
+    "bankCode": "SBIC",
+    "countryCode": "IM",
     "branchCode": "MDX",
     "SWIFT Code": "SBICIMDX",
     "Bank Name": "STANDARD BANK ISLE OF MAN LIMITED",
@@ -143,8 +143,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBZA",
-    "bankCode": "IM",
+    "bankCode": "SBZA",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "SBZAIMDD",
     "Bank Name": "STANDARD BANK OF SOUTH AFRICA LTD, ISLE OF MAN BRANCH",
@@ -156,8 +156,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RTNL",
-    "bankCode": "IM",
+    "bankCode": "RTNL",
+    "countryCode": "IM",
     "branchCode": "MDD",
     "SWIFT Code": "RTNLIMDD",
     "Bank Name": "STARS INTERACTIVE LIMITED",
@@ -169,8 +169,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBOS",
-    "bankCode": "IM",
+    "bankCode": "RBOS",
+    "countryCode": "IM",
     "branchCode": "MD2",
     "SWIFT Code": "RBOSIMD2",
     "Bank Name": "THE ROYAL BANK OF SCOTLAND INTERNATIONAL TRADING AS ISLE OF MAN BANK",
@@ -182,8 +182,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IM",
+    "bankCode": "ROKL",
+    "countryCode": "IM",
     "branchCode": "MDI",
     "SWIFT Code": "ROKLIMDI",
     "Bank Name": "UTMOST INTERNATIONAL ISLE OF MAN LIMITED",
@@ -195,8 +195,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IM",
+    "bankCode": "ROKL",
+    "countryCode": "IM",
     "branchCode": "OPS",
     "SWIFT Code": "ROKLIMDIOPS",
     "Bank Name": "UTMOST INTERNATIONAL ISLE OF MAN LIMITED",
@@ -208,8 +208,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IM",
+    "bankCode": "ROKL",
+    "countryCode": "IM",
     "branchCode": "1UW",
     "SWIFT Code": "ROKLIMDI1UW",
     "Bank Name": "UTMOST INTERNATIONAL ISLE OF MAN LIMITED",
@@ -221,8 +221,8 @@ const isleOfMan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROKL",
-    "bankCode": "IM",
+    "bankCode": "ROKL",
+    "countryCode": "IM",
     "branchCode": "OCB",
     "SWIFT Code": "ROKLIMDIOCB",
     "Bank Name": "UTMOST INTERNATIONAL ISLE OF MAN LIMITED",

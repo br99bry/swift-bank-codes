@@ -1,7 +1,7 @@
 const solomonIslands = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "SB",
+    "bankCode": "ANZB",
+    "countryCode": "SB",
     "branchCode": "BSB",
     "SWIFT Code": "ANZBSBSB",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -13,8 +13,8 @@ const solomonIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRED",
-    "bankCode": "SB",
+    "bankCode": "BRED",
+    "countryCode": "SB",
     "branchCode": "BSB",
     "SWIFT Code": "BREDSBSB",
     "Bank Name": "BRED BANK SOLOMON",
@@ -26,8 +26,8 @@ const solomonIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSP",
-    "bankCode": "SB",
+    "bankCode": "BOSP",
+    "countryCode": "SB",
     "branchCode": "BSB",
     "SWIFT Code": "BOSPSBSB",
     "Bank Name": "BSP FINANCIAL GROUP LIMITED",
@@ -39,8 +39,8 @@ const solomonIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBSI",
-    "bankCode": "SB",
+    "bankCode": "CBSI",
+    "countryCode": "SB",
     "branchCode": "BSB",
     "SWIFT Code": "CBSISBSB",
     "Bank Name": "CENTRAL BANK OF SOLOMON ISLANDS",
@@ -52,8 +52,8 @@ const solomonIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POBB",
-    "bankCode": "SB",
+    "bankCode": "POBB",
+    "countryCode": "SB",
     "branchCode": "BSB",
     "SWIFT Code": "POBBSBSB",
     "Bank Name": "PAN OCEANIC BANK LIMITED",

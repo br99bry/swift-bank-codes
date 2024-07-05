@@ -1,7 +1,7 @@
 const montenegro = [
   {
-    "countryCode": "HAAB",
-    "bankCode": "ME",
+    "bankCode": "HAAB",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "HAABMEPG",
     "Bank Name": "ADDIKO BANK A.D. PODGORICA",
@@ -13,8 +13,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZMN",
-    "bankCode": "ME",
+    "bankCode": "AZMN",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "AZMNMEPG",
     "Bank Name": "ADRIATIC BANK AD PODGORICA",
@@ -26,8 +26,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBCG",
-    "bankCode": "ME",
+    "bankCode": "CBCG",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "CBCGMEPG",
     "Bank Name": "CENTRALNA BANKA CRNE GORE (CENTRAL BANK OF MONTENEGRO)",
@@ -39,8 +39,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CKBC",
-    "bankCode": "ME",
+    "bankCode": "CKBC",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "CKBCMEPG",
     "Bank Name": "CRNOGORSKA KOMERCIJALNA BANKA AD PODGORICA",
@@ -52,8 +52,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPPO",
-    "bankCode": "ME",
+    "bankCode": "OPPO",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "OPPOMEPG",
     "Bank Name": "ERSTE BANK AD PODGORICA",
@@ -65,8 +65,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBBA",
-    "bankCode": "ME",
+    "bankCode": "HBBA",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "HBBAMEPG",
     "Bank Name": "HIPOTEKARNA BANKA AD",
@@ -78,8 +78,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOVB",
-    "bankCode": "ME",
+    "bankCode": "LOVB",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "LOVBMEPG",
     "Bank Name": "LOVCEN BANKA AD",
@@ -91,8 +91,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNBA",
-    "bankCode": "ME",
+    "bankCode": "MNBA",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "MNBAMEPG",
     "Bank Name": "NLB BANKA AD PODGORICA",
@@ -104,8 +104,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRVA",
-    "bankCode": "ME",
+    "bankCode": "PRVA",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "PRVAMEPG",
     "Bank Name": "PRVA BANKA CRNE GORE AD",
@@ -117,8 +117,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCB",
-    "bankCode": "ME",
+    "bankCode": "UNCB",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "UNCBMEPG",
     "Bank Name": "UNIVERSAL CAPITAL BANK",
@@ -130,8 +130,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZBCG",
-    "bankCode": "ME",
+    "bankCode": "ZBCG",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "ZBCGMEPG",
     "Bank Name": "ZAPAD BANKA AD PODGORICA",
@@ -143,8 +143,8 @@ const montenegro = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCZB",
-    "bankCode": "ME",
+    "bankCode": "TCZB",
+    "countryCode": "ME",
     "branchCode": "EPG",
     "SWIFT Code": "TCZBMEPG",
     "Bank Name": "ZIRAAT BANK MONTENEGRO",

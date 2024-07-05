@@ -1,7 +1,7 @@
 const falklandIslands = [
   {
-    "countryCode": "SCBL",
-    "bankCode": "FK",
+    "bankCode": "SCBL",
+    "countryCode": "FK",
     "branchCode": "KFK",
     "SWIFT Code": "SCBLFKFK",
     "Bank Name": "STANDARD CHARTERED BANK",

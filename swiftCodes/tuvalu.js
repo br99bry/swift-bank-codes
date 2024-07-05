@@ -1,7 +1,7 @@
 const tuvalu = [
   {
-    "countryCode": "NABT",
-    "bankCode": "TV",
+    "bankCode": "NABT",
+    "countryCode": "TV",
     "branchCode": "VTV",
     "SWIFT Code": "NABTTVTV",
     "Bank Name": "NATIONAL BANK OF TUVALU",

@@ -1,7 +1,7 @@
 const anguilla = [
   {
-    "countryCode": "ANGU",
-    "bankCode": "AI",
+    "bankCode": "ANGU",
+    "countryCode": "AI",
     "branchCode": "IAI",
     "SWIFT Code": "ANGUAIAI",
     "Bank Name": "NATIONAL COMMERCIAL BANK OF ANGUILLA LTD",
@@ -13,8 +13,8 @@ const anguilla = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "AI",
+    "bankCode": "RBNK",
+    "countryCode": "AI",
     "branchCode": "IAI",
     "SWIFT Code": "RBNKAIAI",
     "Bank Name": "REPUBLIC BANK (ANGUILLA) LIMITED",
@@ -26,8 +26,8 @@ const anguilla = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "AI",
+    "bankCode": "RBNK",
+    "countryCode": "AI",
     "branchCode": "AIA",
     "SWIFT Code": "RBNKAIAIAIA",
     "Bank Name": "REPUBLIC BANK (ANGUILLA) LIMITED",

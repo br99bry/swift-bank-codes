@@ -1,7 +1,7 @@
 const bahamas = [
   {
-    "countryCode": "ROYC",
-    "bankCode": "BS",
+    "bankCode": "ROYC",
+    "countryCode": "BS",
     "branchCode": "MAI",
     "SWIFT Code": "ROYCBSNSMAI",
     "Bank Name": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
@@ -14,8 +14,8 @@ const bahamas = [
   },
   {},
   {
-    "countryCode": "RFMB",
-    "bankCode": "BS",
+    "bankCode": "RFMB",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "RFMBBSNS",
     "Bank Name": "RF BANK AND TRUST (BAHAMAS) LIMITED",
@@ -27,8 +27,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BS",
+    "bankCode": "NOSC",
+    "countryCode": "BS",
     "branchCode": "FPO",
     "SWIFT Code": "NOSCBSNSFPO",
     "Bank Name": "SCOTIABANK (BAHAMAS) LTD",
@@ -40,8 +40,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BS",
+    "bankCode": "NOSC",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "NOSCBSNS",
     "Bank Name": "SCOTIABANK (BAHAMAS) LTD",
@@ -53,8 +53,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BS",
+    "bankCode": "NOSC",
+    "countryCode": "BS",
     "branchCode": "TMK",
     "SWIFT Code": "NOSCBSNSTMK",
     "Bank Name": "SCOTIABANK (BAHAMAS) LTD",
@@ -66,8 +66,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STGT",
-    "bankCode": "BS",
+    "bankCode": "STGT",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "STGTBSNS",
     "Bank Name": "STERLING BANK AND TRUST LTD.",
@@ -79,8 +79,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSWC",
-    "bankCode": "BS",
+    "bankCode": "TSWC",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "TSWCBSNS",
     "Bank Name": "TEACHERS AND SALARIED WORKERS CO-OPERATIVE CREDIT UNION LIMITED",
@@ -92,8 +92,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFZB",
-    "bankCode": "BS",
+    "bankCode": "NFZB",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "NFZBBSNS",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -105,8 +105,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFZB",
-    "bankCode": "BS",
+    "bankCode": "NFZB",
+    "countryCode": "BS",
     "branchCode": "FND",
     "SWIFT Code": "NFZBBSNSFND",
     "Bank Name": "UNION BANCAIRE PRIVEE, UBP SA",
@@ -118,8 +118,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USNA",
-    "bankCode": "BS",
+    "bankCode": "USNA",
+    "countryCode": "BS",
     "branchCode": "SN2",
     "SWIFT Code": "USNABSN2",
     "Bank Name": "USTS NASSAU, BAHAMAS LTD.",
@@ -131,8 +131,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WNTR",
-    "bankCode": "BS",
+    "bankCode": "WNTR",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "WNTRBSNS",
     "Bank Name": "WINTERBOTHAM TRUST COMPANY LIMITED, THE",
@@ -144,8 +144,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBHM",
-    "bankCode": "BS",
+    "bankCode": "BBHM",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BBHMBSNS",
     "Bank Name": "BAC BAHAMAS",
@@ -157,8 +157,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASE",
-    "bankCode": "BS",
+    "bankCode": "BASE",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BASEBSNS",
     "Bank Name": "BANCA DEL SEMPIONE (OVERSEAS) LTD",
@@ -170,8 +170,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIN",
-    "bankCode": "BS",
+    "bankCode": "BBIN",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BBINBSNS",
     "Bank Name": "BANCO BOCOM BBM S.A.",
@@ -183,8 +183,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCHT",
-    "bankCode": "BS",
+    "bankCode": "SCHT",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "SCHTBSNS",
     "Bank Name": "BANCO SANTANDER INTERNATIONAL SA BAHAMAS BRANCH",
@@ -196,8 +196,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAVO",
-    "bankCode": "BS",
+    "bankCode": "BAVO",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BAVOBSNS",
     "Bank Name": "BANCO VOTORANTIM S/A - NASSAU BRANCH",
@@ -209,8 +209,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAF",
-    "bankCode": "BS",
+    "bankCode": "BSAF",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BSAFBSNS",
     "Bank Name": "BANK J. SAFRA SARASIN (BAHAMAS) LTD.",
@@ -222,8 +222,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "BS",
+    "bankCode": "NOSC",
+    "countryCode": "BS",
     "branchCode": "SNT",
     "SWIFT Code": "NOSCBSNT",
     "Bank Name": "BANK OF NOVA SCOTIA TRUST COMPANY (BAHAMAS) LTD,THE",
@@ -235,8 +235,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTB",
-    "bankCode": "BS",
+    "bankCode": "BOTB",
+    "countryCode": "BS",
     "branchCode": "0FR",
     "SWIFT Code": "BOTBBSNS0FR",
     "Bank Name": "BANK OF THE BAHAMAS LIMITED",
@@ -248,8 +248,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTB",
-    "bankCode": "BS",
+    "bankCode": "BOTB",
+    "countryCode": "BS",
     "branchCode": "0N2",
     "SWIFT Code": "BOTBBSNS0N2",
     "Bank Name": "BANK OF THE BAHAMAS LIMITED",
@@ -261,8 +261,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTB",
-    "bankCode": "BS",
+    "bankCode": "BOTB",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BOTBBSNS",
     "Bank Name": "BANK OF THE BAHAMAS LIMITED",
@@ -274,8 +274,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTB",
-    "bankCode": "BS",
+    "bankCode": "BOTB",
+    "countryCode": "BS",
     "branchCode": "0N3",
     "SWIFT Code": "BOTBBSNS0N3",
     "Bank Name": "BANK OF THE BAHAMAS LIMITED",
@@ -287,8 +287,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKPR",
-    "bankCode": "BS",
+    "bankCode": "BKPR",
+    "countryCode": "BS",
     "branchCode": "SN2",
     "SWIFT Code": "BKPRBSN2",
     "Bank Name": "BANKPRO LIMITED",
@@ -300,8 +300,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIN",
-    "bankCode": "BS",
+    "bankCode": "BBIN",
+    "countryCode": "BS",
     "branchCode": "SNX",
     "SWIFT Code": "BBINBSNX",
     "Bank Name": "BBM BANK LIMITED",
@@ -313,8 +313,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMRR",
-    "bankCode": "BS",
+    "bankCode": "AMRR",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "AMRRBSNS",
     "Bank Name": "BRITANNIA BANK AND TRUST LTD.",
@@ -326,8 +326,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARUE",
-    "bankCode": "BS",
+    "bankCode": "ARUE",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "ARUEBSNS",
     "Bank Name": "BRITANNIA SECURITIES LIMITED",
@@ -339,8 +339,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUBL",
-    "bankCode": "BS",
+    "bankCode": "CUBL",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "CUBLBSNS",
     "Bank Name": "CAPITAL UNION BANK LTD",
@@ -352,8 +352,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSA",
-    "bankCode": "BS",
+    "bankCode": "BSSA",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BSSABSNS",
     "Bank Name": "CBH (BAHAMAS) LTD.",
@@ -365,8 +365,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBH",
-    "bankCode": "BS",
+    "bankCode": "CBBH",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "CBBHBSNS",
     "Bank Name": "CENTRAL BANK OF THE BAHAMAS,THE",
@@ -378,8 +378,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BS",
+    "bankCode": "CITI",
+    "countryCode": "BS",
     "branchCode": "SNA",
     "SWIFT Code": "CITIBSNA",
     "Bank Name": "CITIBANK NA",
@@ -391,8 +391,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BS",
+    "bankCode": "CITI",
+    "countryCode": "BS",
     "branchCode": "TPS",
     "SWIFT Code": "CITIBSNATPS",
     "Bank Name": "CITIBANK NA",
@@ -404,8 +404,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMW",
-    "bankCode": "BS",
+    "bankCode": "COMW",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "COMWBSNS",
     "Bank Name": "COMMONWEALTH BANK LIMITED",
@@ -417,8 +417,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLU",
-    "bankCode": "BS",
+    "bankCode": "CBLU",
+    "countryCode": "BS",
     "branchCode": "SN2",
     "SWIFT Code": "CBLUBSN2",
     "Bank Name": "CORNER BANK (OVERSEAS) LIMITED",
@@ -430,8 +430,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "BS",
+    "bankCode": "CRES",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "CRESBSNS",
     "Bank Name": "CREDIT SUISSE AG, NASSAU BRANCH",
@@ -443,8 +443,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBLI",
-    "bankCode": "BS",
+    "bankCode": "GBLI",
+    "countryCode": "BS",
     "branchCode": "SNX",
     "SWIFT Code": "GBLIBSNX",
     "Bank Name": "CREDIT SUISSE AG, NASSAU BRANCH, LATAM INVESTMENT BANKING",
@@ -456,8 +456,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "BS",
+    "bankCode": "CRES",
+    "countryCode": "BS",
     "branchCode": "NAS",
     "SWIFT Code": "CRESBSNSNAS",
     "Bank Name": "CREDIT SUISSE AG, NASSAU BRANCH, TREASURY AND ISSUANCE",
@@ -469,8 +469,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "BS",
+    "bankCode": "CRES",
+    "countryCode": "BS",
     "branchCode": "SNX",
     "SWIFT Code": "CRESBSNX",
     "Bank Name": "CREDIT SUISSE AG, NASSAU BRANCH, WEALTH MANAGEMENT",
@@ -482,8 +482,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGA",
-    "bankCode": "BS",
+    "bankCode": "BIGA",
+    "countryCode": "BS",
     "branchCode": "ABT",
     "SWIFT Code": "BIGABSNSABT",
     "Bank Name": "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED",
@@ -495,8 +495,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIGA",
-    "bankCode": "BS",
+    "bankCode": "BIGA",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BIGABSNS",
     "Bank Name": "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED",
@@ -508,8 +508,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBTL",
-    "bankCode": "BS",
+    "bankCode": "DBTL",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "DBTLBSNS",
     "Bank Name": "DELTEC BANK AND TRUST LIMITED",
@@ -521,8 +521,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBTL",
-    "bankCode": "BS",
+    "bankCode": "DBTL",
+    "countryCode": "BS",
     "branchCode": "ECC",
     "SWIFT Code": "DBTLBSNSECC",
     "Bank Name": "DELTEC BANK AND TRUST LIMITED",
@@ -534,8 +534,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EFGB",
-    "bankCode": "BS",
+    "bankCode": "EFGB",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "EFGBBSNS",
     "Bank Name": "EFG BANK AND TRUST (BAHAMAS) LTD",
@@ -547,8 +547,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EQTT",
-    "bankCode": "BS",
+    "bankCode": "EQTT",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "EQTTBSNS",
     "Bank Name": "EQUITY BANK BAHAMAS LIMITED",
@@ -560,8 +560,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUBO",
-    "bankCode": "BS",
+    "bankCode": "EUBO",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "EUBOBSNS",
     "Bank Name": "EUROBANCO BANK LTD",
@@ -573,8 +573,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTAM",
-    "bankCode": "BS",
+    "bankCode": "BTAM",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "BTAMBSNS",
     "Bank Name": "FIDELITY BANK (BAHAMAS) LIMITED",
@@ -586,8 +586,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FOBL",
-    "bankCode": "BS",
+    "bankCode": "FOBL",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "FOBLBSNS",
     "Bank Name": "FIRST OVERSEAS BANK LIMITED",
@@ -599,8 +599,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "BS",
+    "bankCode": "FCIB",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "FCIBBSNS",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED",
@@ -612,8 +612,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBC",
-    "bankCode": "BS",
+    "bankCode": "CIBC",
+    "countryCode": "BS",
     "branchCode": "SNB",
     "SWIFT Code": "CIBCBSNB",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL TRUST COMPANY (BAHAMAS) LIMITED",
@@ -625,8 +625,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GONE",
-    "bankCode": "BS",
+    "bankCode": "GONE",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "GONEBSNS",
     "Bank Name": "GONET BANK AND TRUST LIMITED",
@@ -638,8 +638,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BS",
+    "bankCode": "CBBA",
+    "countryCode": "BS",
     "branchCode": "GCH",
     "SWIFT Code": "CBBABSNSGCH",
     "Bank Name": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
@@ -651,8 +651,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BS",
+    "bankCode": "CBBA",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "CBBABSNS",
     "Bank Name": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
@@ -664,8 +664,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BS",
+    "bankCode": "CBBA",
+    "countryCode": "BS",
     "branchCode": "BNF",
     "SWIFT Code": "CBBABSNSBNF",
     "Bank Name": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
@@ -677,8 +677,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBA",
-    "bankCode": "BS",
+    "bankCode": "CBBA",
+    "countryCode": "BS",
     "branchCode": "INM",
     "SWIFT Code": "CBBABSNSINM",
     "Bank Name": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
@@ -690,8 +690,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "BS",
+    "bankCode": "LOCY",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "LOCYBSNS",
     "Bank Name": "LOMBARD ODIER AND CIE (BAHAMAS) LIMITED",
@@ -703,8 +703,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "BS",
+    "bankCode": "LOCY",
+    "countryCode": "BS",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYBSNSNDP",
     "Bank Name": "LOMBARD ODIER AND CIE (BAHAMAS) LIMITED",
@@ -716,8 +716,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMGB",
-    "bankCode": "BS",
+    "bankCode": "MMGB",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "MMGBBSNS",
     "Bank Name": "MMG BANK AND TRUST LTD.",
@@ -729,8 +729,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "BS",
+    "bankCode": "PICT",
+    "countryCode": "BS",
     "branchCode": "SNX",
     "SWIFT Code": "PICTBSNX",
     "Bank Name": "PICTET BANK AND TRUST LIMITED",
@@ -742,8 +742,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "BS",
+    "bankCode": "PICT",
+    "countryCode": "BS",
     "branchCode": "COR",
     "SWIFT Code": "PICTBSNXCOR",
     "Bank Name": "PICTET BANK AND TRUST LIMITED",
@@ -755,8 +755,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "BS",
+    "bankCode": "ROYC",
+    "countryCode": "BS",
     "branchCode": "FRE",
     "SWIFT Code": "ROYCBSNSFRE",
     "Bank Name": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
@@ -768,8 +768,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "BS",
+    "bankCode": "ROYC",
+    "countryCode": "BS",
     "branchCode": "SNS",
     "SWIFT Code": "ROYCBSNS",
     "Bank Name": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
@@ -781,8 +781,8 @@ const bahamas = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "BS",
+    "bankCode": "ROYC",
+    "countryCode": "BS",
     "branchCode": "OPC",
     "SWIFT Code": "ROYCBSNSOPC",
     "Bank Name": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",

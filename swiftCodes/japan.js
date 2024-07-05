@@ -1,7 +1,7 @@
 const japan = [
   {
-    "countryCode": "BOKI",
-    "bankCode": "JP",
+    "bankCode": "BOKI",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "BOKIJPJZ",
     "Bank Name": "BANK OF OKINAWA, LTD., THE",
@@ -13,8 +13,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSG",
-    "bankCode": "JP",
+    "bankCode": "BKSG",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BKSGJPJT",
     "Bank Name": "BANK OF SAGA LTD., THE",
@@ -26,8 +26,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKSG",
-    "bankCode": "JP",
+    "bankCode": "BKSG",
+    "countryCode": "JP",
     "branchCode": "SAG",
     "SWIFT Code": "BKSGJPJTSAG",
     "Bank Name": "BANK OF SAGA LTD., THE",
@@ -39,8 +39,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKTW",
-    "bankCode": "JP",
+    "bankCode": "BKTW",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BKTWJPJT",
     "Bank Name": "BANK OF TAIWAN, TOKYO BRANCH",
@@ -52,8 +52,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RYUB",
-    "bankCode": "JP",
+    "bankCode": "RYUB",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "RYUBJPJZ",
     "Bank Name": "BANK OF THE RYUKYUS, LTD.",
@@ -65,8 +65,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAMA",
-    "bankCode": "JP",
+    "bankCode": "HAMA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HAMAJPJT",
     "Bank Name": "BANK OF YOKOHAMA, LTD., THE",
@@ -78,8 +78,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "JP",
+    "bankCode": "BARC",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "BARCJPJ2",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -91,8 +91,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "JP",
+    "bankCode": "BARC",
+    "countryCode": "JP",
     "branchCode": "MFX",
     "SWIFT Code": "BARCJPJ2MFX",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -104,8 +104,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "JP",
+    "bankCode": "BARC",
+    "countryCode": "JP",
     "branchCode": "PJ9",
     "SWIFT Code": "BARCJPJ9",
     "Bank Name": "BARCLAYS SECURITIES JAPAN LIMITED",
@@ -117,8 +117,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFIL",
-    "bankCode": "JP",
+    "bankCode": "CFIL",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CFILJPJT",
     "Bank Name": "BGC SHOKEN KAISHA LIMITED",
@@ -130,8 +130,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BITF",
-    "bankCode": "JP",
+    "bankCode": "BITF",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "BITFJPJ2",
     "Bank Name": "BITFLYER INC.",
@@ -143,8 +143,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "JP",
+    "bankCode": "BNPA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BNPAJPJT",
     "Bank Name": "BNP PARIBAS S.A. - TOKYO BRANCH",
@@ -156,8 +156,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "JP",
+    "bankCode": "BNPA",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "BNPAJPJ2",
     "Bank Name": "BNP PARIBAS SECURITIES (JAPAN) LTD.",
@@ -169,8 +169,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MELN",
-    "bankCode": "JP",
+    "bankCode": "MELN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MELNJPJT",
     "Bank Name": "BNY MELLON INVESTMENT MANAGEMENT JAPAN LIMITED",
@@ -182,8 +182,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "PJD",
     "SWIFT Code": "MLCOJPJD",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -195,8 +195,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MLCOJPJT",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -208,8 +208,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "MLCOJPJX",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -221,8 +221,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "JGB",
     "SWIFT Code": "MLCOJPJTJGB",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -234,8 +234,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "JES",
     "SWIFT Code": "MLCOJPJTJES",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -247,8 +247,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "SDI",
     "SWIFT Code": "MLCOJPJTSDI",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -260,8 +260,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MLCO",
-    "bankCode": "JP",
+    "bankCode": "MLCO",
+    "countryCode": "JP",
     "branchCode": "TSY",
     "SWIFT Code": "MLCOJPJTTSY",
     "Bank Name": "BOFA SECURITIES JAPAN CO., LTD.",
@@ -273,8 +273,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBHC",
-    "bankCode": "JP",
+    "bankCode": "BBHC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BBHCJPJT",
     "Bank Name": "BROWN BROTHERS HARRIMAN SECURITIES (JAPAN) INC.",
@@ -286,8 +286,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTRL",
-    "bankCode": "JP",
+    "bankCode": "CTRL",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CTRLJPJT",
     "Bank Name": "CENTRAL TANSHI CO., LTD.",
@@ -299,8 +299,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCBC",
-    "bankCode": "JP",
+    "bankCode": "CCBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CCBCJPJT",
     "Bank Name": "CHANG HWA COMMERCIAL BANK LTD., TOKYO BRANCH",
@@ -312,8 +312,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHBA",
-    "bankCode": "JP",
+    "bankCode": "CHBA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHBAJPJT",
     "Bank Name": "CHIBA BANK, LTD., THE",
@@ -325,8 +325,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHIK",
-    "bankCode": "JP",
+    "bankCode": "CHIK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHIKJPJT",
     "Bank Name": "CHIBA KOGYO BANK, LTD., THE",
@@ -338,8 +338,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "JP",
+    "bankCode": "PCBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "PCBCJPJT",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION TOKYO BRANCH",
@@ -351,8 +351,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHPH",
-    "bankCode": "JP",
+    "bankCode": "CHPH",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHPHJPJT",
     "Bank Name": "CHUGAI PHARMACEUTICAL CO., LTD.",
@@ -364,8 +364,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHGK",
-    "bankCode": "JP",
+    "bankCode": "CHGK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHGKJPJT",
     "Bank Name": "CHUGOKU BANK, LTD., THE",
@@ -378,8 +378,8 @@ const japan = [
   },
   {},
   {
-    "countryCode": "CKBK",
-    "bankCode": "JP",
+    "bankCode": "CKBK",
+    "countryCode": "JP",
     "branchCode": "PJN",
     "SWIFT Code": "CKBKJPJN",
     "Bank Name": "CHUKYO BANK, LIMITED, THE",
@@ -391,8 +391,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIWM",
-    "bankCode": "JP",
+    "bankCode": "CIWM",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CIWMJPJT",
     "Bank Name": "CIBC WORLD MARKETS (JAPAN) INC.",
@@ -404,8 +404,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "JP",
+    "bankCode": "CITI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CITIJPJT",
     "Bank Name": "CITIBANK N.A., TOKYO BRANCH",
@@ -417,8 +417,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSBL",
-    "bankCode": "JP",
+    "bankCode": "NSBL",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NSBLJPJT",
     "Bank Name": "CITIGROUP GLOBAL MARKETS JAPAN INC.",
@@ -430,8 +430,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "JP",
+    "bankCode": "COBA",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "COBAJPJX",
     "Bank Name": "COMMERZBANK AG TOKYO",
@@ -443,8 +443,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "JP",
+    "bankCode": "COBA",
+    "countryCode": "JP",
     "branchCode": "TOM",
     "SWIFT Code": "COBAJPJXTOM",
     "Bank Name": "COMMERZBANK AG TOKYO",
@@ -456,8 +456,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBA",
-    "bankCode": "JP",
+    "bankCode": "CTBA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CTBAJPJT",
     "Bank Name": "COMMONWEALTH BANK OF AUSTRALIA",
@@ -469,8 +469,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "JP",
+    "bankCode": "BSUI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BSUIJPJT",
     "Bank Name": "CREDIT AGRICOLE CIB TOKYO BRANCH",
@@ -482,8 +482,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "JP",
+    "bankCode": "BSUI",
+    "countryCode": "JP",
     "branchCode": "COM",
     "SWIFT Code": "BSUIJPJTCOM",
     "Bank Name": "CREDIT AGRICOLE CIB TOKYO BRANCH",
@@ -495,8 +495,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "JP",
+    "bankCode": "CRLY",
+    "countryCode": "JP",
     "branchCode": "PJ9",
     "SWIFT Code": "CRLYJPJ9",
     "Bank Name": "CREDIT AGRICOLE SECURITIES ASIA B.V.",
@@ -508,8 +508,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "JP",
+    "bankCode": "CRES",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CRESJPJT",
     "Bank Name": "CREDIT SUISSE AG, TOKYO BRANCH",
@@ -521,8 +521,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "JP",
+    "bankCode": "CRES",
+    "countryCode": "JP",
     "branchCode": "PBS",
     "SWIFT Code": "CRESJPJTPBS",
     "Bank Name": "CREDIT SUISSE AG, TOKYO BRANCH",
@@ -534,8 +534,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "JP",
+    "bankCode": "CSFB",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "CSFBJPJX",
     "Bank Name": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
@@ -547,8 +547,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "JP",
+    "bankCode": "CSFB",
+    "countryCode": "JP",
     "branchCode": "VIS",
     "SWIFT Code": "CSFBJPJXVIS",
     "Bank Name": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
@@ -560,8 +560,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "JP",
+    "bankCode": "CSFB",
+    "countryCode": "JP",
     "branchCode": "EQT",
     "SWIFT Code": "CSFBJPJXEQT",
     "Bank Name": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
@@ -573,8 +573,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSFB",
-    "bankCode": "JP",
+    "bankCode": "CSFB",
+    "countryCode": "JP",
     "branchCode": "PBS",
     "SWIFT Code": "CSFBJPJXPBS",
     "Bank Name": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
@@ -586,8 +586,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTCB",
-    "bankCode": "JP",
+    "bankCode": "CTCB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CTCBJPJT",
     "Bank Name": "CTBC BANK CO., LTD., TOKYO BRANCH",
@@ -599,8 +599,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCSB",
-    "bankCode": "JP",
+    "bankCode": "TCSB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TCSBJPJT",
     "Bank Name": "CUSTODY BANK OF JAPAN, LTD. (FORMERLY TRUST AND CUSTODY SERVICES BANK, LTD.)",
@@ -612,8 +612,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCSB",
-    "bankCode": "JP",
+    "bankCode": "TCSB",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "TCSBJPJ2",
     "Bank Name": "CUSTODY BANK OF JAPAN, LTD. (FORMERLY TRUST AND CUSTODY SERVICES BANK, LTD.)",
@@ -625,8 +625,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTSB",
-    "bankCode": "JP",
+    "bankCode": "JTSB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JTSBJPJT",
     "Bank Name": "CUSTODY BANK OF JAPAN, LTD.(FORMERLY JAPAN TRUSTEE SERVICES BANK, LTD.)",
@@ -638,8 +638,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUBK",
-    "bankCode": "JP",
+    "bankCode": "MUBK",
+    "countryCode": "JP",
     "branchCode": "TSD",
     "SWIFT Code": "MUBKJPJTTSD",
     "Bank Name": "MUSASHINO BANK LTD., THE",
@@ -651,8 +651,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAGA",
-    "bankCode": "JP",
+    "bankCode": "NAGA",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "NAGAJPJZ",
     "Bank Name": "NAGANO BANK, LTD.",
@@ -664,8 +664,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NANT",
-    "bankCode": "JP",
+    "bankCode": "NANT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NANTJPJT",
     "Bank Name": "NANTO BANK, LTD, THE",
@@ -677,8 +677,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATA",
-    "bankCode": "JP",
+    "bankCode": "NATA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NATAJPJT",
     "Bank Name": "NATIONAL AUSTRALIA BANK LIMITED",
@@ -690,8 +690,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "JP",
+    "bankCode": "NBPA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NBPAJPJT",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -703,8 +703,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBPA",
-    "bankCode": "JP",
+    "bankCode": "NBPA",
+    "countryCode": "JP",
     "branchCode": "OSK",
     "SWIFT Code": "NBPAJPJTOSK",
     "Bank Name": "NATIONAL BANK OF PAKISTAN",
@@ -716,8 +716,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZENK",
-    "bankCode": "JP",
+    "bankCode": "ZENK",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "ZENKJPJJ",
     "Bank Name": "NATIONAL MUTUAL INSURANCE FEDERATION OF AGRICULTURAL COOPERATIVES",
@@ -729,8 +729,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "JP",
+    "bankCode": "NATX",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NATXJPJT",
     "Bank Name": "NATIXIS JAPAN SECURITIES CO., LTD.",
@@ -742,8 +742,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "JP",
+    "bankCode": "NATX",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "NATXJPJ2",
     "Bank Name": "NATIXIS TOKYO BRANCH",
@@ -755,8 +755,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NWSJ",
-    "bankCode": "JP",
+    "bankCode": "NWSJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NWSJJPJT",
     "Bank Name": "NATWEST MARKETS SECURITIES JAPAN LIMITED",
@@ -768,8 +768,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCOR",
-    "bankCode": "JP",
+    "bankCode": "NCOR",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NCORJPJT",
     "Bank Name": "NEC CORPORATION",
@@ -781,8 +781,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIFC",
-    "bankCode": "JP",
+    "bankCode": "NIFC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NIFCJPJT",
     "Bank Name": "NIFCO INC.",
@@ -794,8 +794,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLIC",
-    "bankCode": "JP",
+    "bankCode": "NLIC",
+    "countryCode": "JP",
     "branchCode": "P22",
     "SWIFT Code": "NLICJP22",
     "Bank Name": "NIPPON LIFE INSURANCE COMPANY",
@@ -807,8 +807,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMJ",
-    "bankCode": "JP",
+    "bankCode": "NAMJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NAMJJPJT",
     "Bank Name": "NISSAY ASSET MANAGEMENT CORPORATION",
@@ -820,8 +820,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NSSN",
-    "bankCode": "JP",
+    "bankCode": "NSSN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NSSNJPJT",
     "Bank Name": "NISSIN FOODS HOLDINGS CO LTD",
@@ -833,8 +833,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOKC",
-    "bankCode": "JP",
+    "bankCode": "NOKC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NOKCJPJT",
     "Bank Name": "NOK CORPORATION",
@@ -846,8 +846,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMK",
-    "bankCode": "JP",
+    "bankCode": "NAMK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NAMKJPJT",
     "Bank Name": "NOMURA ASSET MANAGEMENT CO., LTD.",
@@ -859,8 +859,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMK",
-    "bankCode": "JP",
+    "bankCode": "NAMK",
+    "countryCode": "JP",
     "branchCode": "FDV",
     "SWIFT Code": "NAMKJPJTFDV",
     "Bank Name": "NOMURA ASSET MANAGEMENT CO., LTD.",
@@ -872,8 +872,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMK",
-    "bankCode": "JP",
+    "bankCode": "NAMK",
+    "countryCode": "JP",
     "branchCode": "ADV",
     "SWIFT Code": "NAMKJPJTADV",
     "Bank Name": "NOMURA ASSET MANAGEMENT CO., LTD.",
@@ -885,8 +885,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAMK",
-    "bankCode": "JP",
+    "bankCode": "NAMK",
+    "countryCode": "JP",
     "branchCode": "BFT",
     "SWIFT Code": "NAMKJPJTBFT",
     "Bank Name": "NOMURA ASSET MANAGEMENT CO., LTD.",
@@ -898,8 +898,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFPS",
-    "bankCode": "JP",
+    "bankCode": "NFPS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NFPSJPJT",
     "Bank Name": "NOMURA FINANCIAL PRODUCTS AND SERVICES INC",
@@ -911,8 +911,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NFPS",
-    "bankCode": "JP",
+    "bankCode": "NFPS",
+    "countryCode": "JP",
     "branchCode": "CCS",
     "SWIFT Code": "NFPSJPJTCCS",
     "Bank Name": "NOMURA FINANCIAL PRODUCTS AND SERVICES INC",
@@ -924,8 +924,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMRS",
-    "bankCode": "JP",
+    "bankCode": "NMRS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NMRSJPJT",
     "Bank Name": "NOMURA SECURITIES CO., LTD.",
@@ -937,8 +937,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCU",
-    "bankCode": "JP",
+    "bankCode": "NOCU",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NOCUJPJT",
     "Bank Name": "NORINCHUKIN BANK, THE",
@@ -950,8 +950,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCU",
-    "bankCode": "JP",
+    "bankCode": "NOCU",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "NOCUJPJTCLS",
     "Bank Name": "NORINCHUKIN BANK, THE",
@@ -963,8 +963,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORP",
-    "bankCode": "JP",
+    "bankCode": "NORP",
+    "countryCode": "JP",
     "branchCode": "PJP",
     "SWIFT Code": "NORPJPJP",
     "Bank Name": "NORTH PACIFIC BANK, LTD.",
@@ -976,8 +976,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OGAK",
-    "bankCode": "JP",
+    "bankCode": "OGAK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "OGAKJPJT",
     "Bank Name": "OGAKI KYORITSU BANK,LTD.,THE",
@@ -989,8 +989,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OITA",
-    "bankCode": "JP",
+    "bankCode": "OITA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "OITAJPJT",
     "Bank Name": "OITA BANK, LTD., THE",
@@ -1002,8 +1002,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKAS",
-    "bankCode": "JP",
+    "bankCode": "OKAS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "OKASJPJT",
     "Bank Name": "OKASAN SECURITIES CO., LTD.",
@@ -1015,8 +1015,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OKSB",
-    "bankCode": "JP",
+    "bankCode": "OKSB",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "OKSBJPJZ",
     "Bank Name": "OKAZAKI SHINKIN BANK, THE",
@@ -1028,8 +1028,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSAC",
-    "bankCode": "JP",
+    "bankCode": "OSAC",
+    "countryCode": "JP",
     "branchCode": "PJS",
     "SWIFT Code": "OSACJPJS",
     "Bank Name": "OSAKA CITY SHINKIN BANK, THE",
@@ -1041,8 +1041,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "JP",
+    "bankCode": "OCBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "OCBCJPJT",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, TOKYO BRANCH",
@@ -1054,8 +1054,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANA",
-    "bankCode": "JP",
+    "bankCode": "PANA",
+    "countryCode": "JP",
     "branchCode": "PJP",
     "SWIFT Code": "PANAJPJP",
     "Bank Name": "PANASONIC CORPORATION",
@@ -1067,8 +1067,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANE",
-    "bankCode": "JP",
+    "bankCode": "JANE",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JANEJPJT",
     "Bank Name": "PAYPAY BANK CORPORATION",
@@ -1080,8 +1080,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEFS",
-    "bankCode": "JP",
+    "bankCode": "PEFS",
+    "countryCode": "JP",
     "branchCode": "PJM",
     "SWIFT Code": "PEFSJPJM",
     "Bank Name": "PENSION FUND ASSOCIATION",
@@ -1093,8 +1093,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBM",
-    "bankCode": "JP",
+    "bankCode": "PNBM",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "PNBMJPJT",
     "Bank Name": "PHILIPPINE NATIONAL BANK TOKYO BRANCH",
@@ -1106,8 +1106,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "JP",
+    "bankCode": "PICT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "PICTJPJT",
     "Bank Name": "PICTET ASSET MANAGEMENT (JAPAN) LTD.",
@@ -1119,8 +1119,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGHQ",
-    "bankCode": "JP",
+    "bankCode": "PGHQ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "PGHQJPJT",
     "Bank Name": "PIGEON CORPORATION",
@@ -1132,8 +1132,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QBCP",
-    "bankCode": "JP",
+    "bankCode": "QBCP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "QBCPJPJT",
     "Bank Name": "QUEEN BEE CAPITAL CO., LTD.",
@@ -1145,8 +1145,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAKT",
-    "bankCode": "JP",
+    "bankCode": "RAKT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "RAKTJPJT",
     "Bank Name": "RAKUTEN BANK, LTD.",
@@ -1158,8 +1158,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAKM",
-    "bankCode": "JP",
+    "bankCode": "RAKM",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "RAKMJPJ2",
     "Bank Name": "RAKUTEN INVESTMENT MANAGEMENT,INC.",
@@ -1171,8 +1171,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBDS",
-    "bankCode": "JP",
+    "bankCode": "RBDS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "RBDSJPJT",
     "Bank Name": "RBC CAPITAL MARKETS (JAPAN) LTD., TOKYO",
@@ -1184,8 +1184,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCRT",
-    "bankCode": "JP",
+    "bankCode": "RCRT",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "RCRTJPJJ",
     "Bank Name": "RECRUIT HOLDINGS CO.,LTD.",
@@ -1197,8 +1197,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REET",
-    "bankCode": "JP",
+    "bankCode": "REET",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "REETJPJT",
     "Bank Name": "RENESAS ELECTRONICS CORPORATION",
@@ -1210,8 +1210,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RESG",
-    "bankCode": "JP",
+    "bankCode": "RESG",
+    "countryCode": "JP",
     "branchCode": "P22",
     "SWIFT Code": "RESGJP22",
     "Bank Name": "RESONA ASSET MANAGEMENT CO., LTD.",
@@ -1223,8 +1223,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIWA",
-    "bankCode": "JP",
+    "bankCode": "DIWA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DIWAJPJT",
     "Bank Name": "RESONA BANK, LTD., TOKYO",
@@ -1236,8 +1236,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIWA",
-    "bankCode": "JP",
+    "bankCode": "DIWA",
+    "countryCode": "JP",
     "branchCode": "PJA",
     "SWIFT Code": "DIWAJPJA",
     "Bank Name": "RESONA BANK, LTD., TRUST DEP.",
@@ -1249,8 +1249,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VTEC",
-    "bankCode": "JP",
+    "bankCode": "VTEC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "VTECJPJT",
     "Bank Name": "RESTAR HOLDINGS CORPORATION",
@@ -1262,8 +1262,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "JP",
+    "bankCode": "REVO",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "REVOJPJ2",
     "Bank Name": "REVOLUT TECHNOLOGIES JAPAN KABUSHIKI KAISHA",
@@ -1275,8 +1275,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RICO",
-    "bankCode": "JP",
+    "bankCode": "RICO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "RICOJPJT",
     "Bank Name": "RICOH COMPANY, LTD.",
@@ -1288,8 +1288,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYKG",
-    "bankCode": "JP",
+    "bankCode": "HYKG",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HYKGJPJT",
     "Bank Name": "HYAKUGO BANK,LTD.,THE",
@@ -1301,8 +1301,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYKG",
-    "bankCode": "JP",
+    "bankCode": "HYKG",
+    "countryCode": "JP",
     "branchCode": "TSU",
     "SWIFT Code": "HYKGJPJTTSU",
     "Bank Name": "HYAKUGO BANK,LTD.,THE",
@@ -1314,8 +1314,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HYAK",
-    "bankCode": "JP",
+    "bankCode": "HYAK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HYAKJPJT",
     "Bank Name": "HYAKUJUSHI BANK, LTD., THE",
@@ -1327,8 +1327,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "JP",
+    "bankCode": "ICBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ICBKJPJT",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, TOKYO BRANCH",
@@ -1340,8 +1340,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKO",
-    "bankCode": "JP",
+    "bankCode": "IBKO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "IBKOJPJT",
     "Bank Name": "INDUSTRIAL BANK OF KOREA, TOKYO BRANCH",
@@ -1353,8 +1353,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGB",
-    "bankCode": "JP",
+    "bankCode": "INGB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "INGBJPJT",
     "Bank Name": "ING BANK N.V.",
@@ -1366,8 +1366,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKR",
-    "bankCode": "JP",
+    "bankCode": "IBKR",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "IBKRJPJT",
     "Bank Name": "INTERACTIVE BROKERS SECURITIES JAPAN, INC.",
@@ -1379,8 +1379,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "JP",
+    "bankCode": "BCIT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BCITJPJT",
     "Bank Name": "INTESA SANPAOLO SPA TOKYO",
@@ -1392,8 +1392,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COSS",
-    "bankCode": "JP",
+    "bankCode": "COSS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "COSSJPJT",
     "Bank Name": "IWAICOSMO SECURITIES CO. LTD.",
@@ -1405,8 +1405,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IYOB",
-    "bankCode": "JP",
+    "bankCode": "IYOB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "IYOBJPJT",
     "Bank Name": "IYO BANK, LTD., THE",
@@ -1418,8 +1418,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPPS",
-    "bankCode": "JP",
+    "bankCode": "JPPS",
+    "countryCode": "JP",
     "branchCode": "PJK",
     "SWIFT Code": "JPPSJPJK",
     "Bank Name": "JAPAN POST BANK, CO., LTD",
@@ -1431,8 +1431,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPPS",
-    "bankCode": "JP",
+    "bankCode": "JPPS",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "JPPSJPJJ",
     "Bank Name": "JAPAN POST BANK, CO., LTD",
@@ -1444,8 +1444,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPPS",
-    "bankCode": "JP",
+    "bankCode": "JPPS",
+    "countryCode": "JP",
     "branchCode": "IRS",
     "SWIFT Code": "JPPSJPJJIRS",
     "Bank Name": "JAPAN POST BANK, CO., LTD",
@@ -1457,8 +1457,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JJSD",
-    "bankCode": "JP",
+    "bankCode": "JJSD",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JJSDJPJT",
     "Bank Name": "JAPAN SECURITIES DEPOSITORY CENTER, INC",
@@ -1470,8 +1470,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JSBK",
-    "bankCode": "JP",
+    "bankCode": "JSBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JSBKJPJT",
     "Bank Name": "JOHNAN SHINKIN BANK THE",
@@ -1483,8 +1483,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OJIS",
-    "bankCode": "JP",
+    "bankCode": "OJIS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "OJISJPJT",
     "Bank Name": "JOHOKU SHINKIN BANK, THE",
@@ -1496,8 +1496,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOYO",
-    "bankCode": "JP",
+    "bankCode": "JOYO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JOYOJPJT",
     "Bank Name": "JOYO BANK, LTD., THE",
@@ -1509,8 +1509,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "CHASJPJZ",
     "Bank Name": "JPMORGAN ASSET MANAGEMENT (JAPAN) LIMITED",
@@ -1522,8 +1522,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "TRO",
     "SWIFT Code": "CHASJPJTTRO",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH",
@@ -1535,8 +1535,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHASJPJT",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH",
@@ -1548,8 +1548,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "WSS",
     "SWIFT Code": "CHASJPJTWSS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH",
@@ -1561,8 +1561,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASJPJTENQ",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH",
@@ -1574,8 +1574,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "TSD",
     "SWIFT Code": "CHASJPJTTSD",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., TOKYO BRANCH",
@@ -1587,8 +1587,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "PJ9",
     "SWIFT Code": "CHASJPJ9",
     "Bank Name": "JPMORGAN SECURITIES JAPAN CO., LTD.",
@@ -1600,8 +1600,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "MCM",
     "SWIFT Code": "CHASJPJ9MCM",
     "Bank Name": "JPMORGAN SECURITIES JAPAN CO., LTD.",
@@ -1613,8 +1613,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "CE1",
     "SWIFT Code": "CHASJPJ9CE1",
     "Bank Name": "JPMORGAN SECURITIES JAPAN CO., LTD.",
@@ -1626,8 +1626,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "JP",
+    "bankCode": "CHAS",
+    "countryCode": "JP",
     "branchCode": "EQT",
     "SWIFT Code": "CHASJPJ9EQT",
     "Bank Name": "JPMORGAN SECURITIES JAPAN CO., LTD.",
@@ -1639,8 +1639,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHWA",
-    "bankCode": "JP",
+    "bankCode": "SHWA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SHWAJPJT",
     "Bank Name": "JUHACHI-SHINWA BANK, LTD. THE",
@@ -1652,8 +1652,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JURO",
-    "bankCode": "JP",
+    "bankCode": "JURO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JUROJPJT",
     "Bank Name": "JUROKU BANK, LTD., THE",
@@ -1665,8 +1665,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGWB",
-    "bankCode": "JP",
+    "bankCode": "KGWB",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "KGWBJPJZ",
     "Bank Name": "KAGAWA BANK LTD., THE",
@@ -1678,8 +1678,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAGO",
-    "bankCode": "JP",
+    "bankCode": "KAGO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KAGOJPJT",
     "Bank Name": "KAGOSHIMA BANK, LTD., THE",
@@ -1691,8 +1691,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSAB",
-    "bankCode": "JP",
+    "bankCode": "OSAB",
+    "countryCode": "JP",
     "branchCode": "PJS",
     "SWIFT Code": "OSABJPJS",
     "Bank Name": "KANSAI MIRAI BANK, LIMITED",
@@ -1704,8 +1704,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAOC",
-    "bankCode": "JP",
+    "bankCode": "KAOC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KAOCJPJT",
     "Bank Name": "KAO CORPORATION",
@@ -1717,8 +1717,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDDI",
-    "bankCode": "JP",
+    "bankCode": "KDDI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KDDIJPJT",
     "Bank Name": "KDDI CORPORATION",
@@ -1730,8 +1730,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "JP",
+    "bankCode": "KOEX",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KOEXJPJT",
     "Bank Name": "KEB HANA BANK",
@@ -1743,8 +1743,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "JP",
+    "bankCode": "KOEX",
+    "countryCode": "JP",
     "branchCode": "FUK",
     "SWIFT Code": "KOEXJPJTFUK",
     "Bank Name": "KEB HANA BANK",
@@ -1756,8 +1756,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "JP",
+    "bankCode": "KOEX",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "KOEXJPJTOSA",
     "Bank Name": "KEB HANA BANK",
@@ -1769,8 +1769,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEIB",
-    "bankCode": "JP",
+    "bankCode": "KEIB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KEIBJPJT",
     "Bank Name": "KEIYO BANK, LTD., THE",
@@ -1782,8 +1782,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOMI",
-    "bankCode": "JP",
+    "bankCode": "TOMI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TOMIJPJT",
     "Bank Name": "KIRABOSHI BANK, LTD.",
@@ -1795,8 +1795,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIHC",
-    "bankCode": "JP",
+    "bankCode": "KIHC",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "KIHCJPJJ",
     "Bank Name": "KIRIN HOLDINGS COMPANY, LIMITED",
@@ -1808,8 +1808,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KNPB",
-    "bankCode": "JP",
+    "bankCode": "KNPB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KNPBJPJT",
     "Bank Name": "KITA-NIPPON BANK, LTD., THE",
@@ -1821,8 +1821,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KITQ",
-    "bankCode": "JP",
+    "bankCode": "KITQ",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "KITQJPJZ",
     "Bank Name": "KITAKYUSHU BANK, LTD., THE(FORMERLY A PART OF THE YAMAGUCHI BANK,LTD.)",
@@ -1834,8 +1834,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KIYO",
-    "bankCode": "JP",
+    "bankCode": "KIYO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KIYOJPJT",
     "Bank Name": "KIYO BANK, LTD, THE",
@@ -1847,8 +1847,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOTT",
-    "bankCode": "JP",
+    "bankCode": "KOTT",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "KOTTJPJJ",
     "Bank Name": "KOBE STEEL, LTD.",
@@ -1860,8 +1860,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "JP",
+    "bankCode": "CZNB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CZNBJPJT",
     "Bank Name": "KOOKMIN BANK",
@@ -1873,8 +1873,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KODB",
-    "bankCode": "JP",
+    "bankCode": "KODB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KODBJPJT",
     "Bank Name": "KOREA DEVELOPMENT BANK,THE,TOKYO BRANCH",
@@ -1886,8 +1886,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KUMA",
-    "bankCode": "JP",
+    "bankCode": "KUMA",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "KUMAJPJZ",
     "Bank Name": "KUMAMOTO BANK, LTD., THE",
@@ -1899,8 +1899,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYCO",
-    "bankCode": "JP",
+    "bankCode": "KYCO",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "KYCOJPJZ",
     "Bank Name": "KYOCERA CORPORATION",
@@ -1912,8 +1912,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KCHU",
-    "bankCode": "JP",
+    "bankCode": "KCHU",
+    "countryCode": "JP",
     "branchCode": "PJY",
     "SWIFT Code": "KCHUJPJY",
     "Bank Name": "KYOTO CHUO SHINKIN BANK, THE",
@@ -1925,8 +1925,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KYSB",
-    "bankCode": "JP",
+    "bankCode": "KYSB",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "KYSBJPJZ",
     "Bank Name": "KYOTO SHINKIN BANK,THE",
@@ -1938,8 +1938,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HITT",
-    "bankCode": "JP",
+    "bankCode": "HITT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HITTJPJT",
     "Bank Name": "LOGISTEED, LTD.",
@@ -1951,8 +1951,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "JP",
+    "bankCode": "LOCY",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "LOCYJPJT",
     "Bank Name": "LOMBARD ODIER TRUST (JAPAN) LIMITED",
@@ -1964,8 +1964,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "JP",
+    "bankCode": "LOCY",
+    "countryCode": "JP",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYJPJTNDP",
     "Bank Name": "LOMBARD ODIER TRUST (JAPAN) LIMITED",
@@ -1977,8 +1977,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFEH",
-    "bankCode": "JP",
+    "bankCode": "MFEH",
+    "countryCode": "JP",
     "branchCode": "PJM",
     "SWIFT Code": "MFEHJPJM",
     "Bank Name": "MACNICA HOLDINGS, INC.",
@@ -1990,8 +1990,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFCT",
-    "bankCode": "JP",
+    "bankCode": "MFCT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MFCTJPJT",
     "Bank Name": "MANULIFE LIFE INSURANCE COMPANY",
@@ -2003,8 +2003,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRPT",
-    "bankCode": "JP",
+    "bankCode": "MRPT",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "MRPTJPJ2",
     "Bank Name": "MARUBENI PETROLEUM CO., LTD.",
@@ -2016,8 +2016,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "JP",
+    "bankCode": "ICBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ICBCJPJT",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
@@ -2029,8 +2029,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "JP",
+    "bankCode": "ICBC",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "ICBCJPJTOSA",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
@@ -2042,8 +2042,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYLI",
-    "bankCode": "JP",
+    "bankCode": "MYLI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MYLIJPJT",
     "Bank Name": "MEIJI YASUDA LIFE INSURANCE COMPANY",
@@ -2055,8 +2055,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAIX",
-    "bankCode": "JP",
+    "bankCode": "DAIX",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DAIXJPJT",
     "Bank Name": "MERCEDES-BENZ JAPAN CO.LTD.",
@@ -2068,8 +2068,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBTC",
-    "bankCode": "JP",
+    "bankCode": "MBTC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MBTCJPJT",
     "Bank Name": "METROPOLITAN BANK AND TRUST COMPANY, TOKYO BRANCH",
@@ -2081,8 +2081,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSIN",
-    "bankCode": "JP",
+    "bankCode": "HSIN",
+    "countryCode": "JP",
     "branchCode": "PJK",
     "SWIFT Code": "HSINJPJK",
     "Bank Name": "MINATO BANK,LTD,THE (FORMERLY THE HANSHIN BANK LTD)",
@@ -2094,8 +2094,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIGP",
-    "bankCode": "JP",
+    "bankCode": "MIGP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MIGPJPJT",
     "Bank Name": "MISUMI GROUP INC.",
@@ -2107,8 +2107,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MISC",
-    "bankCode": "JP",
+    "bankCode": "MISC",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "MISCJPJ2",
     "Bank Name": "MITA SECURITIES CO., LTD",
@@ -2120,8 +2120,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCOP",
-    "bankCode": "JP",
+    "bankCode": "MCOP",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "MCOPJPJJ",
     "Bank Name": "MITSUBISHI CORPORATION",
@@ -2133,8 +2133,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIEC",
-    "bankCode": "JP",
+    "bankCode": "MIEC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MIECJPJT",
     "Bank Name": "MITSUBISHI ELECTRIC CORPORATION",
@@ -2146,8 +2146,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTAP",
-    "bankCode": "JP",
+    "bankCode": "DTAP",
+    "countryCode": "JP",
     "branchCode": "PJK",
     "SWIFT Code": "DTAPJPJK",
     "Bank Name": "MITSUBISHI FUSO TRUCK AND BUS CORPORATION",
@@ -2159,8 +2159,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DTAP",
-    "bankCode": "JP",
+    "bankCode": "DTAP",
+    "countryCode": "JP",
     "branchCode": "CNY",
     "SWIFT Code": "DTAPJPJKCNY",
     "Bank Name": "MITSUBISHI FUSO TRUCK AND BUS CORPORATION",
@@ -2172,8 +2172,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KKSS",
-    "bankCode": "JP",
+    "bankCode": "KKSS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KKSSJPJT",
     "Bank Name": "MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO., LTD.",
@@ -2185,8 +2185,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUSH",
-    "bankCode": "JP",
+    "bankCode": "MUSH",
+    "countryCode": "JP",
     "branchCode": "P22",
     "SWIFT Code": "MUSHJP22",
     "Bank Name": "MITSUBISHI UFJ SECURITIES HOLDINGS CO., LTD.",
@@ -2198,8 +2198,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBC",
-    "bankCode": "JP",
+    "bankCode": "MTBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MTBCJPJT",
     "Bank Name": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
@@ -2211,8 +2211,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIYA",
-    "bankCode": "JP",
+    "bankCode": "MIYA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MIYAJPJT",
     "Bank Name": "MIYAZAKI BANK, LTD., THE",
@@ -2224,8 +2224,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "JP",
+    "bankCode": "MHCB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MHCBJPJT",
     "Bank Name": "MIZUHO BANK, LTD.",
@@ -2237,8 +2237,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "JP",
+    "bankCode": "MHCB",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "MHCBJPJTCLS",
     "Bank Name": "MIZUHO BANK, LTD.",
@@ -2250,8 +2250,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "JP",
+    "bankCode": "MHCB",
+    "countryCode": "JP",
     "branchCode": "PJ4",
     "SWIFT Code": "MHCBJPJ4",
     "Bank Name": "MIZUHO BANK, LTD. (CMS)",
@@ -2263,8 +2263,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "JP",
+    "bankCode": "MHCB",
+    "countryCode": "JP",
     "branchCode": "PJ5",
     "SWIFT Code": "MHCBJPJ5",
     "Bank Name": "MIZUHO BANK, LTD. (POOLING)",
@@ -2276,8 +2276,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "JP",
+    "bankCode": "MHCB",
+    "countryCode": "JP",
     "branchCode": "PJ6",
     "SWIFT Code": "MHCBJPJ6",
     "Bank Name": "MIZUHO BANK, LTD. (SCORE)",
@@ -2289,8 +2289,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "JP",
+    "bankCode": "MHCB",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "MHCBJPJ2",
     "Bank Name": "MIZUHO BANK, LTD.(CUSTODY)",
@@ -2302,8 +2302,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHSC",
-    "bankCode": "JP",
+    "bankCode": "MHSC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MHSCJPJT",
     "Bank Name": "MIZUHO SECURITIES CO., LTD.",
@@ -2315,8 +2315,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHSC",
-    "bankCode": "JP",
+    "bankCode": "MHSC",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "MHSCJPJ2",
     "Bank Name": "MIZUHO SECURITIES CO.,LTD",
@@ -2328,8 +2328,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YTBC",
-    "bankCode": "JP",
+    "bankCode": "YTBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "YTBCJPJT",
     "Bank Name": "MIZUHO TRUST AND BANKING CO., LTD.",
@@ -2341,8 +2341,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HRSB",
-    "bankCode": "JP",
+    "bankCode": "HRSB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HRSBJPJT",
     "Bank Name": "MOMIJI BANK, LTD.",
@@ -2354,8 +2354,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSTK",
-    "bankCode": "JP",
+    "bankCode": "MSTK",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "MSTKJPJX",
     "Bank Name": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
@@ -2367,8 +2367,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSTK",
-    "bankCode": "JP",
+    "bankCode": "MSTK",
+    "countryCode": "JP",
     "branchCode": "CII",
     "SWIFT Code": "MSTKJPJXCII",
     "Bank Name": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
@@ -2380,8 +2380,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSTK",
-    "bankCode": "JP",
+    "bankCode": "MSTK",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "MSTKJPJXCLS",
     "Bank Name": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
@@ -2393,8 +2393,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MSTK",
-    "bankCode": "JP",
+    "bankCode": "MSTK",
+    "countryCode": "JP",
     "branchCode": "FXO",
     "SWIFT Code": "MSTKJPJXFXO",
     "Bank Name": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
@@ -2406,8 +2406,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BOTKJPJT",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2419,8 +2419,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "BOTKJPJTCLS",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2432,8 +2432,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "FUK",
     "SWIFT Code": "BOTKJPJTFUK",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2445,8 +2445,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "HIR",
     "SWIFT Code": "BOTKJPJTHIR",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2458,8 +2458,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "SMO",
     "SWIFT Code": "BOTKJPJTSMO",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2471,8 +2471,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "KOB",
     "SWIFT Code": "BOTKJPJTKOB",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2484,8 +2484,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "NGY",
     "SWIFT Code": "BOTKJPJTNGY",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2497,8 +2497,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "BOTKJPJTOSA",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2510,8 +2510,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "SAP",
     "SWIFT Code": "BOTKJPJTSAP",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2523,8 +2523,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "FGN",
     "SWIFT Code": "BOTKJPJTFGN",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2536,8 +2536,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "BOTKJPJ2",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2549,8 +2549,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "FND",
     "SWIFT Code": "BOTKJPJTFND",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2562,8 +2562,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "JP",
+    "bankCode": "BOTK",
+    "countryCode": "JP",
     "branchCode": "SAD",
     "SWIFT Code": "BOTKJPJTSAD",
     "Bank Name": "MUFG BANK, LTD.",
@@ -2575,8 +2575,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUBK",
-    "bankCode": "JP",
+    "bankCode": "MUBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MUBKJPJT",
     "Bank Name": "MUSASHINO BANK LTD., THE",
@@ -2588,8 +2588,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RODG",
-    "bankCode": "JP",
+    "bankCode": "RODG",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "RODGJPJT",
     "Bank Name": "ROLAND DG CORPORATION",
@@ -2601,8 +2601,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROYC",
-    "bankCode": "JP",
+    "bankCode": "ROYC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ROYCJPJT",
     "Bank Name": "ROYAL BANK OF CANADA",
@@ -2614,8 +2614,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAIB",
-    "bankCode": "JP",
+    "bankCode": "SAIB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SAIBJPJT",
     "Bank Name": "SAITAMA RESONA BANK, LIMITED",
@@ -2627,8 +2627,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIEB",
-    "bankCode": "JP",
+    "bankCode": "MIEB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MIEBJPJT",
     "Bank Name": "SAN JU SAN BANK, LTD.",
@@ -2640,8 +2640,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGBK",
-    "bankCode": "JP",
+    "bankCode": "SGBK",
+    "countryCode": "JP",
     "branchCode": "MAT",
     "SWIFT Code": "SGBKJPJTMAT",
     "Bank Name": "SAN-IN GODO BANK, LTD., THE",
@@ -2653,8 +2653,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGBK",
-    "bankCode": "JP",
+    "bankCode": "SGBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SGBKJPJT",
     "Bank Name": "SAN-IN GODO BANK, LTD., THE",
@@ -2666,8 +2666,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLMC",
-    "bankCode": "JP",
+    "bankCode": "SLMC",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "SLMCJPJJ",
     "Bank Name": "SBI LIQUIDITY MARKET CO.,LTD.",
@@ -2679,8 +2679,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LTCB",
-    "bankCode": "JP",
+    "bankCode": "LTCB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "LTCBJPJT",
     "Bank Name": "SBI SHINSEI BANK, LIMITED",
@@ -2692,8 +2692,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LTCB",
-    "bankCode": "JP",
+    "bankCode": "LTCB",
+    "countryCode": "JP",
     "branchCode": "HED",
     "SWIFT Code": "LTCBJPJTHED",
     "Bank Name": "SBI SHINSEI BANK, LIMITED",
@@ -2705,8 +2705,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NTSS",
-    "bankCode": "JP",
+    "bankCode": "NTSS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NTSSJPJT",
     "Bank Name": "SBI SUMISHIN NET BANK, LTD.",
@@ -2718,8 +2718,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSBK",
-    "bankCode": "JP",
+    "bankCode": "SSBK",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "SSBKJPJZ",
     "Bank Name": "SETO SHINKIN BANK, THE",
@@ -2731,8 +2731,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SVVN",
-    "bankCode": "JP",
+    "bankCode": "SVVN",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "SVVNJPJJ",
     "Bank Name": "SEVEN BANK, LTD.",
@@ -2744,8 +2744,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIGA",
-    "bankCode": "JP",
+    "bankCode": "SIGA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SIGAJPJT",
     "Bank Name": "SHIGA BANK, LTD., THE",
@@ -2757,8 +2757,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIKO",
-    "bankCode": "JP",
+    "bankCode": "SIKO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SIKOJPJT",
     "Bank Name": "SHIKOKU BANK,LTD.,THE",
@@ -2770,8 +2770,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMZG",
-    "bankCode": "JP",
+    "bankCode": "SMZG",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SMZGJPJT",
     "Bank Name": "SHIMIZU BANK LTD., THE",
@@ -2783,8 +2783,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "JP",
+    "bankCode": "SHBK",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "SHBKJPJX",
     "Bank Name": "SHINHAN BANK JAPAN",
@@ -2796,8 +2796,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZENB",
-    "bankCode": "JP",
+    "bankCode": "ZENB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ZENBJPJT",
     "Bank Name": "SHINKIN CENTRAL BANK",
@@ -2809,8 +2809,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZENB",
-    "bankCode": "JP",
+    "bankCode": "ZENB",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "ZENBJPJ2",
     "Bank Name": "SHINKIN CENTRAL BANK",
@@ -2822,8 +2822,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHIZ",
-    "bankCode": "JP",
+    "bankCode": "SHIZ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SHIZJPJT",
     "Bank Name": "SHIZUOKA BANK, LTD., THE",
@@ -2835,8 +2835,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKCK",
-    "bankCode": "JP",
+    "bankCode": "SKCK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SKCKJPJT",
     "Bank Name": "SHOKO CHUKIN BANK, LTD., THE",
@@ -2848,8 +2848,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNAI",
-    "bankCode": "JP",
+    "bankCode": "SNAI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SNAIJPJT",
     "Bank Name": "SHONAI BANK, LTD., THE",
@@ -2861,8 +2861,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NKSC",
-    "bankCode": "JP",
+    "bankCode": "NKSC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NKSCJPJT",
     "Bank Name": "SMBC NIKKO SECURITIES INC.",
@@ -2874,8 +2874,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTC",
-    "bankCode": "JP",
+    "bankCode": "SMTC",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "SMTCJPJ2",
     "Bank Name": "SMBC TRUST BANK LTD.",
@@ -2887,8 +2887,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTC",
-    "bankCode": "JP",
+    "bankCode": "SMTC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SMTCJPJT",
     "Bank Name": "SMBC TRUST BANK LTD.",
@@ -2900,8 +2900,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTC",
-    "bankCode": "JP",
+    "bankCode": "SMTC",
+    "countryCode": "JP",
     "branchCode": "BNK",
     "SWIFT Code": "SMTCJPJ2BNK",
     "Bank Name": "SMBC TRUST BANK LTD.",
@@ -2913,8 +2913,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "JP",
+    "bankCode": "SOGE",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SOGEJPJT",
     "Bank Name": "SOCIETE GENERALE",
@@ -2926,8 +2926,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGNP",
-    "bankCode": "JP",
+    "bankCode": "SGNP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SGNPJPJT",
     "Bank Name": "SOCIETE GENERALE SECURITIES JAPAN",
@@ -2939,8 +2939,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SNYB",
-    "bankCode": "JP",
+    "bankCode": "SNYB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SNYBJPJT",
     "Bank Name": "SONY BANK INC.",
@@ -2952,8 +2952,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPAX",
-    "bankCode": "JP",
+    "bankCode": "SPAX",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SPAXJPJT",
     "Bank Name": "SPARX ASSET MANAGEMENT CO., LTD.",
@@ -2965,8 +2965,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "JP",
+    "bankCode": "SCBL",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SCBLJPJT",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -2978,8 +2978,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "JP",
+    "bankCode": "SBIN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SBINJPJT",
     "Bank Name": "STATE BANK OF INDIA",
@@ -2991,8 +2991,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "JP",
+    "bankCode": "SBIN",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "SBINJPJTOSA",
     "Bank Name": "STATE BANK OF INDIA",
@@ -3004,8 +3004,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBOS",
-    "bankCode": "JP",
+    "bankCode": "SBOS",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "SBOSJPJX",
     "Bank Name": "STATE STREET BANK AND TRUST COMPANY",
@@ -3017,8 +3017,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTB",
-    "bankCode": "JP",
+    "bankCode": "SSTB",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "SSTBJPJX",
     "Bank Name": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
@@ -3030,8 +3030,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTB",
-    "bankCode": "JP",
+    "bankCode": "SSTB",
+    "countryCode": "JP",
     "branchCode": "INS",
     "SWIFT Code": "SSTBJPJXINS",
     "Bank Name": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
@@ -3043,8 +3043,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTB",
-    "bankCode": "JP",
+    "bankCode": "SSTB",
+    "countryCode": "JP",
     "branchCode": "IAR",
     "SWIFT Code": "SSTBJPJXIAR",
     "Bank Name": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
@@ -3056,8 +3056,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTB",
-    "bankCode": "JP",
+    "bankCode": "SSTB",
+    "countryCode": "JP",
     "branchCode": "IMS",
     "SWIFT Code": "SSTBJPJXIMS",
     "Bank Name": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
@@ -3069,8 +3069,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTB",
-    "bankCode": "JP",
+    "bankCode": "SSTB",
+    "countryCode": "JP",
     "branchCode": "ITM",
     "SWIFT Code": "SSTBJPJXITM",
     "Bank Name": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
@@ -3082,8 +3082,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSTB",
-    "bankCode": "JP",
+    "bankCode": "SSTB",
+    "countryCode": "JP",
     "branchCode": "MTP",
     "SWIFT Code": "SSTBJPJXMTP",
     "Bank Name": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
@@ -3095,8 +3095,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSHB",
-    "bankCode": "JP",
+    "bankCode": "SSHB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SSHBJPJT",
     "Bank Name": "SUGAMO SHINKIN BANK, THE",
@@ -3108,8 +3108,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUCP",
-    "bankCode": "JP",
+    "bankCode": "SUCP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SUCPJPJT",
     "Bank Name": "SUMIDA CORPORATION",
@@ -3121,8 +3121,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLIC",
-    "bankCode": "JP",
+    "bankCode": "SLIC",
+    "countryCode": "JP",
     "branchCode": "PJB",
     "SWIFT Code": "SLICJPJB",
     "Bank Name": "SUMITOMO LIFE INSURANCE COMPANY",
@@ -3134,8 +3134,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "JP",
+    "bankCode": "SMBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SMBCJPJT",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -3147,8 +3147,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "JP",
+    "bankCode": "SMBC",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "SMBCJPJTOSA",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -3160,8 +3160,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "JP",
+    "bankCode": "SMBC",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "SMBCJPJTCLS",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -3173,8 +3173,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMAM",
-    "bankCode": "JP",
+    "bankCode": "SMAM",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "SMAMJPJX",
     "Bank Name": "SUMITOMO MITSUI DS ASSET MANAGEMENT COMPANY, LIMITED",
@@ -3186,8 +3186,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTE",
-    "bankCode": "JP",
+    "bankCode": "SMTE",
+    "countryCode": "JP",
     "branchCode": "PJB",
     "SWIFT Code": "SMTEJPJB",
     "Bank Name": "SUMITOMO MITSUI TRUST ASSET MANAGEMENT CO., LTD.",
@@ -3199,8 +3199,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTE",
-    "bankCode": "JP",
+    "bankCode": "SMTE",
+    "countryCode": "JP",
     "branchCode": "P22",
     "SWIFT Code": "SMTEJP22",
     "Bank Name": "SUMITOMO MITSUI TRUST ASSET MANAGEMENT CO.,LTD.",
@@ -3212,8 +3212,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMTE",
-    "bankCode": "JP",
+    "bankCode": "SMTE",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "SMTEJPJ2",
     "Bank Name": "SUMITOMO MITSUI TRUST ASSET MANAGEMENT CO.,LTD.",
@@ -3225,8 +3225,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "JP",
+    "bankCode": "STBC",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "STBCJPJ2",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED",
@@ -3238,8 +3238,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "JP",
+    "bankCode": "STBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "STBCJPJT",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED",
@@ -3251,8 +3251,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "JP",
+    "bankCode": "STBC",
+    "countryCode": "JP",
     "branchCode": "CUS",
     "SWIFT Code": "STBCJPJTCUS",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED",
@@ -3264,8 +3264,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "JP",
+    "bankCode": "STBC",
+    "countryCode": "JP",
     "branchCode": "SBS",
     "SWIFT Code": "STBCJPJTSBS",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED",
@@ -3277,8 +3277,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "JP",
+    "bankCode": "STBC",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "STBCJPJTCLS",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED",
@@ -3290,8 +3290,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBC",
-    "bankCode": "JP",
+    "bankCode": "STBC",
+    "countryCode": "JP",
     "branchCode": "SAD",
     "SWIFT Code": "STBCJPJTSAD",
     "Bank Name": "SUMITOMO MITSUI TRUST BANK,LIMITED",
@@ -3303,8 +3303,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBFD",
-    "bankCode": "JP",
+    "bankCode": "SBFD",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SBFDJPJT",
     "Bank Name": "SUNTORY BEVERAGE AND FOOD LIMITED",
@@ -3316,8 +3316,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRFX",
-    "bankCode": "JP",
+    "bankCode": "SRFX",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SRFXJPJT",
     "Bank Name": "SURUGA BANK LTD",
@@ -3329,8 +3329,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "JP",
+    "bankCode": "SWHQ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SWHQJPJT",
     "Bank Name": "SWIFT CUSTOMER SERVICE CENTRE JAPAN",
@@ -3342,8 +3342,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TJLI",
-    "bankCode": "JP",
+    "bankCode": "TJLI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TJLIJPJT",
     "Bank Name": "TAIJU LIFE INSURANCE COMPANY LTD",
@@ -3355,8 +3355,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSIB",
-    "bankCode": "JP",
+    "bankCode": "TSIB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TSIBJPJT",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO., LTD",
@@ -3368,8 +3368,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBT",
-    "bankCode": "JP",
+    "bankCode": "MBBT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MBBTJPJT",
     "Bank Name": "TAIWAN BUSINESS BANK TOKYO BRANCH",
@@ -3381,8 +3381,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TJMA",
-    "bankCode": "JP",
+    "bankCode": "TJMA",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "TJMAJPJZ",
     "Bank Name": "TAJIMA BANK, LTD, THE",
@@ -3394,8 +3394,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAMA",
-    "bankCode": "JP",
+    "bankCode": "TAMA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TAMAJPJT",
     "Bank Name": "TAMA SHINKIN BANK, THE",
@@ -3407,8 +3407,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOSS",
-    "bankCode": "JP",
+    "bankCode": "BOSS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BOSSJPJT",
     "Bank Name": "THE 77 BANK,LTD.",
@@ -3420,8 +3420,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOTI",
-    "bankCode": "JP",
+    "bankCode": "KOTI",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "KOTIJPJZ",
     "Bank Name": "THE BANK OF KOCHI, LIMITED",
@@ -3433,8 +3433,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "JP",
+    "bankCode": "IRVT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "IRVTJPJT",
     "Bank Name": "THE BANK OF NEW YORK MELLON TRUST (JAPAN), LTD",
@@ -3446,8 +3446,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "JP",
+    "bankCode": "IRVT",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "IRVTJPJX",
     "Bank Name": "THE BANK OF NEW YORK MELLON, TOKYO BRANCH",
@@ -3459,8 +3459,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOYM",
-    "bankCode": "JP",
+    "bankCode": "TOYM",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TOYMJPJT",
     "Bank Name": "THE BANK OF TOYAMA, LTD.",
@@ -3472,8 +3472,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHIH",
-    "bankCode": "JP",
+    "bankCode": "CHIH",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHIHJPJT",
     "Bank Name": "THE CHIKUHO BANK LTD",
@@ -3485,8 +3485,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DFLI",
-    "bankCode": "JP",
+    "bankCode": "DFLI",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "DFLIJPJ2",
     "Bank Name": "THE DAI-ICHI FRONTIER LIFE INSURANC E CO.,LTD.",
@@ -3498,8 +3498,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DLIC",
-    "bankCode": "JP",
+    "bankCode": "DLIC",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "DLICJPJJ",
     "Bank Name": "THE DAI-ICHI LIFE INSURANCE COMPANY, LIMITED",
@@ -3511,8 +3511,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIME",
-    "bankCode": "JP",
+    "bankCode": "HIME",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HIMEJPJT",
     "Bank Name": "THE EHIME BANK, LTD.",
@@ -3524,8 +3524,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBTY",
-    "bankCode": "JP",
+    "bankCode": "FBTY",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "FBTYJPJX",
     "Bank Name": "THE FIRST BANK OF TOYAMA, LTD.",
@@ -3537,8 +3537,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HNPB",
-    "bankCode": "JP",
+    "bankCode": "HNPB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HNPBJPJT",
     "Bank Name": "THE HIGASHI-NIPPON BANK, LIMITED",
@@ -3550,8 +3550,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIGO",
-    "bankCode": "JP",
+    "bankCode": "HIGO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HIGOJPJT",
     "Bank Name": "THE HIGO BANK LIMITED",
@@ -3563,8 +3563,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIKB",
-    "bankCode": "JP",
+    "bankCode": "RIKB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "RIKBJPJT",
     "Bank Name": "THE HOKURIKU BANK,LTD.",
@@ -3576,8 +3576,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBJ",
-    "bankCode": "JP",
+    "bankCode": "MTBJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "MTBJJPJT",
     "Bank Name": "THE MASTER TRUST BANK OF JAPAN LTD",
@@ -3589,8 +3589,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTBJ",
-    "bankCode": "JP",
+    "bankCode": "MTBJ",
+    "countryCode": "JP",
     "branchCode": "AGT",
     "SWIFT Code": "MTBJJPJTAGT",
     "Bank Name": "THE MASTER TRUST BANK OF JAPAN LTD",
@@ -3602,8 +3602,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NISI",
-    "bankCode": "JP",
+    "bankCode": "NISI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NISIJPJT",
     "Bank Name": "THE NISHI-NIPPON CITY BANK, LTD",
@@ -3615,8 +3615,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NISI",
-    "bankCode": "JP",
+    "bankCode": "NISI",
+    "countryCode": "JP",
     "branchCode": "FKK",
     "SWIFT Code": "NISIJPJTFKK",
     "Bank Name": "THE NISHI-NIPPON CITY BANK, LTD",
@@ -3628,8 +3628,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMTB",
-    "bankCode": "JP",
+    "bankCode": "NMTB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NMTBJPJT",
     "Bank Name": "THE NOMURA TRUST AND BANKING CO., LTD.",
@@ -3641,8 +3641,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMTB",
-    "bankCode": "JP",
+    "bankCode": "NMTB",
+    "countryCode": "JP",
     "branchCode": "TAD",
     "SWIFT Code": "NMTBJPJTTAD",
     "Bank Name": "THE NOMURA TRUST AND BANKING CO., LTD.",
@@ -3654,8 +3654,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMTB",
-    "bankCode": "JP",
+    "bankCode": "NMTB",
+    "countryCode": "JP",
     "branchCode": "FXO",
     "SWIFT Code": "NMTBJPJTFXO",
     "Bank Name": "THE NOMURA TRUST AND BANKING CO., LTD.",
@@ -3667,8 +3667,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NMTB",
-    "bankCode": "JP",
+    "bankCode": "NMTB",
+    "countryCode": "JP",
     "branchCode": "TRU",
     "SWIFT Code": "NMTBJPJTTRU",
     "Bank Name": "THE NOMURA TRUST AND BANKING CO., LTD.",
@@ -3680,8 +3680,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCU",
-    "bankCode": "JP",
+    "bankCode": "NOCU",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "NOCUJPJ2",
     "Bank Name": "THE NORINCHUKIN BANK",
@@ -3693,8 +3693,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAIK",
-    "bankCode": "JP",
+    "bankCode": "SAIK",
+    "countryCode": "JP",
     "branchCode": "PJS",
     "SWIFT Code": "SAIKJPJS",
     "Bank Name": "THE SAIKYO BANK,LTD.",
@@ -3706,8 +3706,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIKE",
-    "bankCode": "JP",
+    "bankCode": "BIKE",
+    "countryCode": "JP",
     "branchCode": "PJS",
     "SWIFT Code": "BIKEJPJS",
     "Bank Name": "THE SENSHU IKEDA BANK, LTD.",
@@ -3719,8 +3719,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHHN",
-    "bankCode": "JP",
+    "bankCode": "SHHN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "SHHNJPJT",
     "Bank Name": "THE SHIBA SHINKIN BANK",
@@ -3732,8 +3732,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAIK",
-    "bankCode": "JP",
+    "bankCode": "TAIK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TAIKJPJT",
     "Bank Name": "THE TAIKO BANK, LTD.",
@@ -3745,8 +3745,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOCI",
-    "bankCode": "JP",
+    "bankCode": "TOCI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TOCIJPJT",
     "Bank Name": "THE TOCHIGI BANK LTD.",
@@ -3758,8 +3758,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKTS",
-    "bankCode": "JP",
+    "bankCode": "TKTS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TKTSJPJT",
     "Bank Name": "THE TOKYO TANSHI CO., LTD.",
@@ -3771,8 +3771,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "THKT",
-    "bankCode": "JP",
+    "bankCode": "THKT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "THKTJPJT",
     "Bank Name": "THK CO., LTD",
@@ -3784,8 +3784,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSST",
-    "bankCode": "JP",
+    "bankCode": "TSST",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TSSTJPJT",
     "Bank Name": "TIS INC.",
@@ -3797,8 +3797,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOEI",
-    "bankCode": "JP",
+    "bankCode": "TOEI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TOEIJPJT",
     "Bank Name": "TOEI ANIMATION CO.,LTD",
@@ -3810,8 +3810,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOHO",
-    "bankCode": "JP",
+    "bankCode": "TOHO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TOHOJPJT",
     "Bank Name": "TOHO BANK, LTD., THE",
@@ -3823,8 +3823,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TTSE",
-    "bankCode": "JP",
+    "bankCode": "TTSE",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TTSEJPJT",
     "Bank Name": "TOKAI TOKYO SECURITIES CO. LTD",
@@ -3836,8 +3836,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMAJ",
-    "bankCode": "JP",
+    "bankCode": "TMAJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TMAJJPJT",
     "Bank Name": "TOKIO MARINE ASSET MANAGEMENT CO., LTD.",
@@ -3849,8 +3849,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TKSB",
-    "bankCode": "JP",
+    "bankCode": "TKSB",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "TKSBJPJZ",
     "Bank Name": "TOKUSHIMA TAISHO BANK LTD, THE",
@@ -3862,8 +3862,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHSB",
-    "bankCode": "JP",
+    "bankCode": "CHSB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "CHSBJPJT",
     "Bank Name": "TOKYO HIGASHI SHINKIN BANK,THE",
@@ -3875,8 +3875,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSBK",
-    "bankCode": "JP",
+    "bankCode": "TSBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TSBKJPJT",
     "Bank Name": "TOKYO STAR BANK LIMITED, THE",
@@ -3888,8 +3888,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JTSB",
-    "bankCode": "JP",
+    "bankCode": "JTSB",
+    "countryCode": "JP",
     "branchCode": "AGE",
     "SWIFT Code": "JTSBJPJTAGE",
     "Bank Name": "CUSTODY BANK OF JAPAN, LTD.(FORMERLY JAPAN TRUSTEE SERVICES BANK, LTD.)",
@@ -3901,8 +3901,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAIS",
-    "bankCode": "JP",
+    "bankCode": "DAIS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DAISJPJT",
     "Bank Name": "DAISHI HOKUETSU BANK LTD.",
@@ -3914,8 +3914,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAML",
-    "bankCode": "JP",
+    "bankCode": "DAML",
+    "countryCode": "JP",
     "branchCode": "PJA",
     "SWIFT Code": "DAMLJPJA",
     "Bank Name": "DAIWA ASSET MANAGEMENT CO. LTD",
@@ -3927,8 +3927,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DNEX",
-    "bankCode": "JP",
+    "bankCode": "DNEX",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DNEXJPJT",
     "Bank Name": "DAIWA NEXT BANK, LTD.",
@@ -3940,8 +3940,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DWSC",
-    "bankCode": "JP",
+    "bankCode": "DWSC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DWSCJPJT",
     "Bank Name": "DAIWA SECURITIES CO.LTD.",
@@ -3953,8 +3953,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DWSC",
-    "bankCode": "JP",
+    "bankCode": "DWSC",
+    "countryCode": "JP",
     "branchCode": "JSS",
     "SWIFT Code": "DWSCJPJTJSS",
     "Bank Name": "DAIWA SECURITIES CO.LTD.",
@@ -3966,8 +3966,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DWSC",
-    "bankCode": "JP",
+    "bankCode": "DWSC",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "DWSCJPJTCLS",
     "Bank Name": "DAIWA SECURITIES CO.LTD.",
@@ -3979,8 +3979,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "JP",
+    "bankCode": "DBSS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DBSSJPJT",
     "Bank Name": "DBS BANK LTD, TOKYO BRANCH",
@@ -3992,8 +3992,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "FX1",
     "SWIFT Code": "DEUTJPJTFX1",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -4005,8 +4005,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DEUTJPJT",
     "Bank Name": "DEUTSCHE BANK AG",
@@ -4018,8 +4018,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "PJ7",
     "SWIFT Code": "DEUTJPJ7",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4031,8 +4031,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "PJ9",
     "SWIFT Code": "DEUTJPJ9",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4044,8 +4044,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "FIC",
     "SWIFT Code": "DEUTJPJ9FIC",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4057,8 +4057,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "EQD",
     "SWIFT Code": "DEUTJPJ9EQD",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4070,8 +4070,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "EQT",
     "SWIFT Code": "DEUTJPJ9EQT",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4083,8 +4083,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "FX1",
     "SWIFT Code": "DEUTJPJ9FX1",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4096,8 +4096,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "JP",
+    "bankCode": "DEUT",
+    "countryCode": "JP",
     "branchCode": "DOM",
     "SWIFT Code": "DEUTJPJ9DOM",
     "Bank Name": "DEUTSCHE SECURITIES INC.",
@@ -4109,8 +4109,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DICJ",
-    "bankCode": "JP",
+    "bankCode": "DICJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DICJJPJT",
     "Bank Name": "DIC CORPORATION",
@@ -4122,8 +4122,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEAM",
-    "bankCode": "JP",
+    "bankCode": "DEAM",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "DEAMJPJT",
     "Bank Name": "DWS INVESTMENTS JAPAN LIMITED",
@@ -4135,8 +4135,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESUN",
-    "bankCode": "JP",
+    "bankCode": "ESUN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ESUNJPJT",
     "Bank Name": "E.SUN COMMERCIAL BANK, LTD.",
@@ -4148,8 +4148,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBCP",
-    "bankCode": "JP",
+    "bankCode": "EBCP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "EBCPJPJT",
     "Bank Name": "EBARA CORPORATION",
@@ -4161,8 +4161,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EISA",
-    "bankCode": "JP",
+    "bankCode": "EISA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "EISAJPJT",
     "Bank Name": "EISAI CO., LTD.",
@@ -4174,8 +4174,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRUQ",
-    "bankCode": "JP",
+    "bankCode": "FRUQ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "FRUQJPJT",
     "Bank Name": "FAST RETAILING CO LTD",
@@ -4187,8 +4187,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FFAG",
-    "bankCode": "JP",
+    "bankCode": "FFAG",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "FFAGJPJ2",
     "Bank Name": "FFG ASSET MANAGEMENT CO., LTD.",
@@ -4200,8 +4200,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCBK",
-    "bankCode": "JP",
+    "bankCode": "FCBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "FCBKJPJT",
     "Bank Name": "FIRST COMMERCIAL BANK, TOKYO BRANCH",
@@ -4213,8 +4213,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKUI",
-    "bankCode": "JP",
+    "bankCode": "FKUI",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "FKUIJPJT",
     "Bank Name": "FUKUI BANK, LTD., THE",
@@ -4226,8 +4226,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIGJ",
-    "bankCode": "JP",
+    "bankCode": "AIGJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AIGJJPJT",
     "Bank Name": "FWD LIFE INSURANCE COMPANY, LIMITED",
@@ -4239,8 +4239,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAAI",
-    "bankCode": "JP",
+    "bankCode": "GAAI",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "GAAIJPJ2",
     "Bank Name": "GAIN CAPITAL CO., LTD.",
@@ -4252,8 +4252,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GFSB",
-    "bankCode": "JP",
+    "bankCode": "GFSB",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "GFSBJPJZ",
     "Bank Name": "GIFU SHINKIN BANK, THE",
@@ -4265,8 +4265,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLJA",
-    "bankCode": "JP",
+    "bankCode": "GLJA",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "GLJAJPJ2",
     "Bank Name": "GLOBAL X JAPAN CO. LTD.",
@@ -4278,8 +4278,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSAM",
-    "bankCode": "JP",
+    "bankCode": "GSAM",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "GSAMJPJT",
     "Bank Name": "GOLDMAN SACHS ASSET MANAGEMENT CO., LTD.",
@@ -4291,8 +4291,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSCR",
-    "bankCode": "JP",
+    "bankCode": "GSCR",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "GSCRJPJT",
     "Bank Name": "GOLDMAN SACHS BANK USA TOKYO BRANCH",
@@ -4304,8 +4304,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSCR",
-    "bankCode": "JP",
+    "bankCode": "GSCR",
+    "countryCode": "JP",
     "branchCode": "TXB",
     "SWIFT Code": "GSCRJPJTTXB",
     "Bank Name": "GOLDMAN SACHS BANK USA TOKYO BRANCH",
@@ -4317,8 +4317,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "JP",
+    "bankCode": "GOLD",
+    "countryCode": "JP",
     "branchCode": "MRA",
     "SWIFT Code": "GOLDJPJXMRA",
     "Bank Name": "GOLDMAN SACHS JAPAN CO., LTD.",
@@ -4330,8 +4330,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GOLD",
-    "bankCode": "JP",
+    "bankCode": "GOLD",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "GOLDJPJX",
     "Bank Name": "GOLDMAN SACHS JAPAN CO., LTD.",
@@ -4343,8 +4343,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPNN",
-    "bankCode": "JP",
+    "bankCode": "GPNN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "GPNNJPJT",
     "Bank Name": "GOVERNMENT PENSION INVESTMENT FUND",
@@ -4356,8 +4356,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUMA",
-    "bankCode": "JP",
+    "bankCode": "GUMA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "GUMAJPJT",
     "Bank Name": "GUNMA BANK, LTD., THE",
@@ -4369,8 +4369,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABK",
-    "bankCode": "JP",
+    "bankCode": "HABK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HABKJPJT",
     "Bank Name": "HACHIJUNI BANK, LTD., THE",
@@ -4382,8 +4382,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAEL",
-    "bankCode": "JP",
+    "bankCode": "HAEL",
+    "countryCode": "JP",
     "branchCode": "PJN",
     "SWIFT Code": "HAELJPJN",
     "Bank Name": "HAGIWARA ELECTRIC HOLDINGS CO., LTD.",
@@ -4395,8 +4395,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIRO",
-    "bankCode": "JP",
+    "bankCode": "HIRO",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HIROJPJT",
     "Bank Name": "HIROSHIMA BANK, LTD., THE",
@@ -4408,8 +4408,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HICC",
-    "bankCode": "JP",
+    "bankCode": "HICC",
+    "countryCode": "JP",
     "branchCode": "P22",
     "SWIFT Code": "HICCJP22",
     "Bank Name": "HITACHI CHEMICAL COMPANY, LTD.",
@@ -4421,8 +4421,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIHC",
-    "bankCode": "JP",
+    "bankCode": "HIHC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HIHCJPJT",
     "Bank Name": "HITACHI HIGH-TECH CORPORATION",
@@ -4434,8 +4434,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKDB",
-    "bankCode": "JP",
+    "bankCode": "HKDB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HKDBJPJT",
     "Bank Name": "HOKKAIDO BANK, LTD., THE",
@@ -4447,8 +4447,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKOK",
-    "bankCode": "JP",
+    "bankCode": "HKOK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HKOKJPJT",
     "Bank Name": "HOKKOKU BANK, LTD., THE",
@@ -4460,8 +4460,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOKB",
-    "bankCode": "JP",
+    "bankCode": "HOKB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HOKBJPJT",
     "Bank Name": "HOKUTO BANK, LTD., THE",
@@ -4473,8 +4473,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "JP",
+    "bankCode": "HSBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HSBCJPJT",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
@@ -4486,8 +4486,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "JP",
+    "bankCode": "HSBC",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "HSBCJPJTCLS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
@@ -4499,8 +4499,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "JP",
+    "bankCode": "HSBC",
+    "countryCode": "JP",
     "branchCode": "TRS",
     "SWIFT Code": "HSBCJPJTTRS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
@@ -4512,8 +4512,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBJP",
-    "bankCode": "JP",
+    "bankCode": "IBJP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "IBJPJPJT",
     "Bank Name": "HSBC SECURITIES (JAPAN) CO., LTD.",
@@ -4525,8 +4525,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HUJP",
-    "bankCode": "JP",
+    "bankCode": "HUJP",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "HUJPJPJ2",
     "Bank Name": "HUOBI JAPAN INC.",
@@ -4538,8 +4538,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOMA",
-    "bankCode": "JP",
+    "bankCode": "TOMA",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "TOMAJPJZ",
     "Bank Name": "TOMATO BANK LTD.",
@@ -4551,8 +4551,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIRD",
-    "bankCode": "JP",
+    "bankCode": "BIRD",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "BIRDJPJZ",
     "Bank Name": "TOTTORI BANK LTD., THE",
@@ -4564,8 +4564,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOWA",
-    "bankCode": "JP",
+    "bankCode": "TOWA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "TOWAJPJT",
     "Bank Name": "TOWA BANK LTD., THE",
@@ -4577,8 +4577,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOMC",
-    "bankCode": "JP",
+    "bankCode": "TOMC",
+    "countryCode": "JP",
     "branchCode": "P22",
     "SWIFT Code": "TOMCJP22",
     "Bank Name": "TOYOTA MOTOR CORPORATION",
@@ -4590,8 +4590,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KGBK",
-    "bankCode": "JP",
+    "bankCode": "KGBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "KGBKJPJT",
     "Bank Name": "TSUKUBA BANK,LTD.",
@@ -4603,8 +4603,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBAF",
-    "bankCode": "JP",
+    "bankCode": "UBAF",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "UBAFJPJX",
     "Bank Name": "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH",
@@ -4616,8 +4616,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UACR",
-    "bankCode": "JP",
+    "bankCode": "UACR",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "UACRJPJJ",
     "Bank Name": "UACJ CORPORATION",
@@ -4629,8 +4629,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "JP",
+    "bankCode": "UBSW",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "UBSWJPJT",
     "Bank Name": "UBS AG TOKYO BRANCH",
@@ -4642,8 +4642,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "JP",
+    "bankCode": "UBSW",
+    "countryCode": "JP",
     "branchCode": "CLS",
     "SWIFT Code": "UBSWJPJTCLS",
     "Bank Name": "UBS AG TOKYO BRANCH",
@@ -4655,8 +4655,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSA",
-    "bankCode": "JP",
+    "bankCode": "UBSA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "UBSAJPJT",
     "Bank Name": "UBS ASSET MANAGEMENT (JAPAN) LTD.",
@@ -4668,8 +4668,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "JP",
+    "bankCode": "UBSW",
+    "countryCode": "JP",
     "branchCode": "PJ9",
     "SWIFT Code": "UBSWJPJ9",
     "Bank Name": "UBS SECURITIES JAPAN CO., LTD.",
@@ -4681,8 +4681,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBST",
-    "bankCode": "JP",
+    "bankCode": "UBST",
+    "countryCode": "JP",
     "branchCode": "PJ3",
     "SWIFT Code": "UBSTJPJ3",
     "Bank Name": "UBS SUMI TRUST WEALTH MANAGEMENT CO., LTD",
@@ -4694,8 +4694,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UYTC",
-    "bankCode": "JP",
+    "bankCode": "UYTC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "UYTCJPJT",
     "Bank Name": "UEDA YAGI TANSHI CO.,LTD",
@@ -4707,8 +4707,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "JP",
+    "bankCode": "UOVB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "UOVBJPJT",
     "Bank Name": "UNITED OVERSEAS BANK LTD., TOKYO BRANCH",
@@ -4720,8 +4720,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VIOC",
-    "bankCode": "JP",
+    "bankCode": "VIOC",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "VIOCJPJ2",
     "Bank Name": "VERTEX INVESTMENT SOLUTIONS CO.,LTD.",
@@ -4733,8 +4733,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PNBP",
-    "bankCode": "JP",
+    "bankCode": "PNBP",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "PNBPJPJX",
     "Bank Name": "WELLS FARGO BANK, N.A., TOKYO BRANCH",
@@ -4746,8 +4746,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "JP",
+    "bankCode": "HVBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "HVBKJPJT",
     "Bank Name": "WOORI BANK, TOKYO",
@@ -4759,8 +4759,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAMB",
-    "bankCode": "JP",
+    "bankCode": "YAMB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "YAMBJPJT",
     "Bank Name": "YAMAGATA BANK, LTD., THE",
@@ -4772,8 +4772,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YMBK",
-    "bankCode": "JP",
+    "bankCode": "YMBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "YMBKJPJT",
     "Bank Name": "YAMAGUCHI BANK, LTD., THE",
@@ -4785,8 +4785,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YCHB",
-    "bankCode": "JP",
+    "bankCode": "YCHB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "YCHBJPJT",
     "Bank Name": "YAMANASHI CHUO BANK, LTD., THE",
@@ -4798,8 +4798,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YOKO",
-    "bankCode": "JP",
+    "bankCode": "YOKO",
+    "countryCode": "JP",
     "branchCode": "PJM",
     "SWIFT Code": "YOKOJPJM",
     "Bank Name": "YOKOHAMA SHINKIN BANK, THE",
@@ -4811,8 +4811,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADDC",
-    "bankCode": "JP",
+    "bankCode": "ADDC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ADDCJPJT",
     "Bank Name": "A AND D CO., LTD.",
@@ -4824,8 +4824,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCT",
-    "bankCode": "JP",
+    "bankCode": "ADCT",
+    "countryCode": "JP",
     "branchCode": "PJJ",
     "SWIFT Code": "ADCTJPJJ",
     "Bank Name": "ADEKA CORPORATION",
@@ -4837,8 +4837,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEON",
-    "bankCode": "JP",
+    "bankCode": "AEON",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AEONJPJT",
     "Bank Name": "AEON BANK, LTD.",
@@ -4850,8 +4850,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALSJ",
-    "bankCode": "JP",
+    "bankCode": "ALSJ",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ALSJJPJT",
     "Bank Name": "AFLAC LIFE INSURANCE JAPAN LTD.",
@@ -4863,8 +4863,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GGCA",
-    "bankCode": "JP",
+    "bankCode": "GGCA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "GGCAJPJT",
     "Bank Name": "AGC INC.",
@@ -4876,8 +4876,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "JP",
+    "bankCode": "ABOC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ABOCJPJT",
     "Bank Name": "AGRICULTURAL BANK OF CHINA TOKYO BRANCH",
@@ -4889,8 +4889,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AICH",
-    "bankCode": "JP",
+    "bankCode": "AICH",
+    "countryCode": "JP",
     "branchCode": "PJN",
     "SWIFT Code": "AICHJPJN",
     "Bank Name": "AICHI BANK, LTD., THE",
@@ -4902,8 +4902,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKIT",
-    "bankCode": "JP",
+    "bankCode": "AKIT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AKITJPJT",
     "Bank Name": "AKITA BANK, LTD.,THE",
@@ -4915,8 +4915,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMAS",
-    "bankCode": "JP",
+    "bankCode": "AMAS",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "AMASJPJZ",
     "Bank Name": "AMAGASAKI SHINKIN BANK, THE",
@@ -4928,8 +4928,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AOMB",
-    "bankCode": "JP",
+    "bankCode": "AOMB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AOMBJPJT",
     "Bank Name": "AOMORI BANK LTD., THE",
@@ -4941,8 +4941,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBT",
-    "bankCode": "JP",
+    "bankCode": "NCBT",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "NCBTJPJT",
     "Bank Name": "AOZORA BANK, LTD",
@@ -4954,8 +4954,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASGH",
-    "bankCode": "JP",
+    "bankCode": "ASGH",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ASGHJPJT",
     "Bank Name": "ASAHI GROUP HOLDINGS, LTD.",
@@ -4967,8 +4967,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AKAC",
-    "bankCode": "JP",
+    "bankCode": "AKAC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AKACJPJT",
     "Bank Name": "ASAHI KASEI CORPORATION",
@@ -4980,8 +4980,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASKB",
-    "bankCode": "JP",
+    "bankCode": "ASKB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ASKBJPJT",
     "Bank Name": "ASAHI SHINKIN BANK, THE",
@@ -4993,8 +4993,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASIK",
-    "bankCode": "JP",
+    "bankCode": "ASIK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "ASIKJPJT",
     "Bank Name": "ASHIKAGA BANK",
@@ -5006,8 +5006,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIAM",
-    "bankCode": "JP",
+    "bankCode": "DIAM",
+    "countryCode": "JP",
     "branchCode": "PJ2",
     "SWIFT Code": "DIAMJPJ2",
     "Bank Name": "ASSET MANAGEMENT ONE CO., LTD.",
@@ -5019,8 +5019,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JICR",
-    "bankCode": "JP",
+    "bankCode": "JICR",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "JICRJPJT",
     "Bank Name": "AU JIBUN BANK CORPORATION",
@@ -5032,8 +5032,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "JP",
+    "bankCode": "ANZB",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "ANZBJPJX",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
@@ -5045,8 +5045,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AWAB",
-    "bankCode": "JP",
+    "bankCode": "AWAB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AWABJPJT",
     "Bank Name": "AWA BANK, LTD., THE",
@@ -5058,8 +5058,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "JP",
+    "bankCode": "AXIP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AXIPJPJT",
     "Bank Name": "AXA LIFE INSURANCE CO., LTD.",
@@ -5071,8 +5071,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "JP",
+    "bankCode": "AXIP",
+    "countryCode": "JP",
     "branchCode": "CRI",
     "SWIFT Code": "AXIPJPJTCRI",
     "Bank Name": "AXA LIFE INSURANCE CO., LTD.",
@@ -5084,8 +5084,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "JP",
+    "bankCode": "AXIP",
+    "countryCode": "JP",
     "branchCode": "IDN",
     "SWIFT Code": "AXIPJPJTIDN",
     "Bank Name": "AXA LIFE INSURANCE CO., LTD.",
@@ -5097,8 +5097,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "JP",
+    "bankCode": "AXIP",
+    "countryCode": "JP",
     "branchCode": "PHI",
     "SWIFT Code": "AXIPJPJTPHI",
     "Bank Name": "AXA LIFE INSURANCE CO., LTD.",
@@ -5110,8 +5110,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "JP",
+    "bankCode": "AXIP",
+    "countryCode": "JP",
     "branchCode": "SGP",
     "SWIFT Code": "AXIPJPJTSGP",
     "Bank Name": "AXA LIFE INSURANCE CO., LTD.",
@@ -5123,8 +5123,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZBC",
-    "bankCode": "JP",
+    "bankCode": "AZBC",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "AZBCJPJT",
     "Bank Name": "AZBIL CORPORATION",
@@ -5136,8 +5136,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "JP",
+    "bankCode": "BBVA",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BBVAJPJT",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA TOKYO BRANCH",
@@ -5149,8 +5149,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRAS",
-    "bankCode": "JP",
+    "bankCode": "BRAS",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BRASJPJT",
     "Bank Name": "BANCO DO BRASIL S.A.",
@@ -5162,8 +5162,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "JP",
+    "bankCode": "BKKB",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BKKBJPJT",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LTD.",
@@ -5175,8 +5175,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "JP",
+    "bankCode": "BKKB",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "BKKBJPJTOSA",
     "Bank Name": "BANGKOK BANK PUBLIC COMPANY LTD.",
@@ -5188,8 +5188,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNIN",
-    "bankCode": "JP",
+    "bankCode": "BNIN",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BNINJPJT",
     "Bank Name": "BANK NEGARA INDONESIA (PERSERO), PT., TOKYO BRANCH",
@@ -5201,8 +5201,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "JP",
+    "bankCode": "BOFA",
+    "countryCode": "JP",
     "branchCode": "CMS",
     "SWIFT Code": "BOFAJPJXCMS",
     "Bank Name": "BANK OF AMERICA, TOKYO",
@@ -5214,8 +5214,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "JP",
+    "bankCode": "BOFA",
+    "countryCode": "JP",
     "branchCode": "JGB",
     "SWIFT Code": "BOFAJPJXJGB",
     "Bank Name": "BANK OF AMERICA, TOKYO",
@@ -5227,8 +5227,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "JP",
+    "bankCode": "BOFA",
+    "countryCode": "JP",
     "branchCode": "PJX",
     "SWIFT Code": "BOFAJPJX",
     "Bank Name": "BANK OF AMERICA, TOKYO",
@@ -5240,8 +5240,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "JP",
+    "bankCode": "BKCH",
+    "countryCode": "JP",
     "branchCode": "CNY",
     "SWIFT Code": "BKCHJPJTCNY",
     "Bank Name": "BANK OF CHINA",
@@ -5253,8 +5253,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "JP",
+    "bankCode": "BKCH",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BKCHJPJT",
     "Bank Name": "BANK OF CHINA",
@@ -5266,8 +5266,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "JP",
+    "bankCode": "BKCH",
+    "countryCode": "JP",
     "branchCode": "NGY",
     "SWIFT Code": "BKCHJPJTNGY",
     "Bank Name": "BANK OF CHINA",
@@ -5279,8 +5279,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "JP",
+    "bankCode": "BKCH",
+    "countryCode": "JP",
     "branchCode": "OSA",
     "SWIFT Code": "BKCHJPJTOSA",
     "Bank Name": "BANK OF CHINA",
@@ -5292,8 +5292,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "JP",
+    "bankCode": "BKCH",
+    "countryCode": "JP",
     "branchCode": "OTM",
     "SWIFT Code": "BKCHJPJTOTM",
     "Bank Name": "BANK OF CHINA",
@@ -5305,8 +5305,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "JP",
+    "bankCode": "BKCH",
+    "countryCode": "JP",
     "branchCode": "YHA",
     "SWIFT Code": "BKCHJPJTYHA",
     "Bank Name": "BANK OF CHINA",
@@ -5318,8 +5318,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COMM",
-    "bankCode": "JP",
+    "bankCode": "COMM",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "COMMJPJT",
     "Bank Name": "BANK OF COMMUNICATIONS, TOKYO BRANCH",
@@ -5331,8 +5331,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKBK",
-    "bankCode": "JP",
+    "bankCode": "FKBK",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "FKBKJPJT",
     "Bank Name": "BANK OF FUKUOKA, LTD., THE",
@@ -5344,8 +5344,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FKBK",
-    "bankCode": "JP",
+    "bankCode": "FKBK",
+    "countryCode": "JP",
     "branchCode": "100",
     "SWIFT Code": "FKBKJPJT100",
     "Bank Name": "BANK OF FUKUOKA, LTD., THE",
@@ -5357,8 +5357,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "JP",
+    "bankCode": "BKID",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BKIDJPJT",
     "Bank Name": "BANK OF INDIA",
@@ -5370,8 +5370,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "JP",
+    "bankCode": "BKID",
+    "countryCode": "JP",
     "branchCode": "OSK",
     "SWIFT Code": "BKIDJPJTOSK",
     "Bank Name": "BANK OF INDIA",
@@ -5383,8 +5383,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAIW",
-    "bankCode": "JP",
+    "bankCode": "BAIW",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BAIWJPJT",
     "Bank Name": "BANK OF IWATE LTD., THE",
@@ -5396,8 +5396,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJP",
-    "bankCode": "JP",
+    "bankCode": "BOJP",
+    "countryCode": "JP",
     "branchCode": "PJT",
     "SWIFT Code": "BOJPJPJT",
     "Bank Name": "BANK OF JAPAN",
@@ -5409,8 +5409,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJP",
-    "bankCode": "JP",
+    "bankCode": "BOJP",
+    "countryCode": "JP",
     "branchCode": "BJ1",
     "SWIFT Code": "BOJPJPJTBJ1",
     "Bank Name": "BANK OF JAPAN",
@@ -5422,8 +5422,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOJP",
-    "bankCode": "JP",
+    "bankCode": "BOJP",
+    "countryCode": "JP",
     "branchCode": "MF1",
     "SWIFT Code": "BOJPJPJTMF1",
     "Bank Name": "BANK OF JAPAN",
@@ -5435,8 +5435,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOKF",
-    "bankCode": "JP",
+    "bankCode": "BOKF",
+    "countryCode": "JP",
     "branchCode": "PJZ",
     "SWIFT Code": "BOKFJPJZ",
     "Bank Name": "BANK OF KYOTO,LTD.,THE",
@@ -5448,8 +5448,8 @@ const japan = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NAGO",
-    "bankCode": "JP",
+    "bankCode": "NAGO",
+    "countryCode": "JP",
     "branchCode": "PJN",
     "SWIFT Code": "NAGOJPJN",
     "Bank Name": "BANK OF NAGOYA, LTD. , THE",

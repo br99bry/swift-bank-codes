@@ -1,7 +1,7 @@
 const sintMaarten = [
   {
-    "countryCode": "BDCC",
-    "bankCode": "SX",
+    "bankCode": "BDCC",
+    "countryCode": "SX",
     "branchCode": "XSM",
     "SWIFT Code": "BDCCSXSM",
     "Bank Name": "BANCO DI CARIBE N.V SINT MAARTEN",
@@ -13,8 +13,8 @@ const sintMaarten = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "SX",
+    "bankCode": "FCIB",
+    "countryCode": "SX",
     "branchCode": "XSM",
     "SWIFT Code": "FCIBSXSM",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LIMITED",
@@ -26,8 +26,8 @@ const sintMaarten = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WISB",
-    "bankCode": "SX",
+    "bankCode": "WISB",
+    "countryCode": "SX",
     "branchCode": "XSM",
     "SWIFT Code": "WISBSXSM",
     "Bank Name": "MADURO AND CURIEL'S BANK N.V. TRADING AS WINDWARD ISLANDS BANK",
@@ -39,8 +39,8 @@ const sintMaarten = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORBA",
-    "bankCode": "SX",
+    "bankCode": "ORBA",
+    "countryCode": "SX",
     "branchCode": "XSM",
     "SWIFT Code": "ORBASXSM",
     "Bank Name": "ORCO BANK N.V. ST. MAARTEN",
@@ -52,8 +52,8 @@ const sintMaarten = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBTT",
-    "bankCode": "SX",
+    "bankCode": "RBTT",
+    "countryCode": "SX",
     "branchCode": "XSM",
     "SWIFT Code": "RBTTSXSM",
     "Bank Name": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
@@ -65,8 +65,8 @@ const sintMaarten = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "SX",
+    "bankCode": "RBNK",
+    "countryCode": "SX",
     "branchCode": "XSM",
     "SWIFT Code": "RBNKSXSM",
     "Bank Name": "REPUBLIC BANK (ST. MAARTEN) N.V.",
@@ -78,8 +78,8 @@ const sintMaarten = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "SX",
+    "bankCode": "RBNK",
+    "countryCode": "SX",
     "branchCode": "ANT",
     "SWIFT Code": "RBNKSXSMANT",
     "Bank Name": "REPUBLIC BANK (ST. MAARTEN) N.V.",

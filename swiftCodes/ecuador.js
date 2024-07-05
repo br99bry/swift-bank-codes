@@ -1,7 +1,7 @@
 const ecuador = [
   {
-    "countryCode": "MUPI",
-    "bankCode": "EC",
+    "bankCode": "MUPI",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "MUPIECEQ",
     "Bank Name": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA PICHINCHA",
@@ -13,8 +13,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASA",
-    "bankCode": "EC",
+    "bankCode": "BASA",
+    "countryCode": "EC",
     "branchCode": "CEG",
     "SWIFT Code": "BASAECEG",
     "Bank Name": "BANCO AMAZONAS S.A.",
@@ -26,8 +26,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOL",
-    "bankCode": "EC",
+    "bankCode": "BBOL",
+    "countryCode": "EC",
     "branchCode": "CEG",
     "SWIFT Code": "BBOLECEG",
     "Bank Name": "BANCO BOLIVARIANO C.A.",
@@ -39,8 +39,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBOL",
-    "bankCode": "EC",
+    "bankCode": "BBOL",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "BBOLECEG100",
     "Bank Name": "BANCO BOLIVARIANO C.A.",
@@ -52,8 +52,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEN",
-    "bankCode": "EC",
+    "bankCode": "BCEN",
+    "countryCode": "EC",
     "branchCode": "120",
     "SWIFT Code": "BCENECEQ120",
     "Bank Name": "BANCO CENTRAL DEL ECUADOR",
@@ -65,8 +65,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEN",
-    "bankCode": "EC",
+    "bankCode": "BCEN",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "BCENECEQ100",
     "Bank Name": "BANCO CENTRAL DEL ECUADOR",
@@ -78,8 +78,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCEN",
-    "bankCode": "EC",
+    "bankCode": "BCEN",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "BCENECEQ",
     "Bank Name": "BANCO CENTRAL DEL ECUADOR",
@@ -91,8 +91,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROD",
-    "bankCode": "EC",
+    "bankCode": "PROD",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "PRODECEQ100",
     "Bank Name": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
@@ -104,8 +104,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROD",
-    "bankCode": "EC",
+    "bankCode": "PROD",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "PRODECEQ",
     "Bank Name": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
@@ -117,8 +117,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOJB",
-    "bankCode": "EC",
+    "bankCode": "LOJB",
+    "countryCode": "EC",
     "branchCode": "CEL",
     "SWIFT Code": "LOJBECEL",
     "Bank Name": "BANCO DE LOJA",
@@ -130,8 +130,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "0EG",
     "SWIFT Code": "BMACECEG0EG",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -143,8 +143,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "CEG",
     "SWIFT Code": "BMACECEG",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -157,8 +157,8 @@ const ecuador = [
   },
   {},
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "0E5",
     "SWIFT Code": "BMACECEG0E5",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -170,8 +170,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "0E3",
     "SWIFT Code": "BMACECEG0E3",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -183,8 +183,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "0E8",
     "SWIFT Code": "BMACECEG0E8",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -196,8 +196,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "0E7",
     "SWIFT Code": "BMACECEG0E7",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -209,8 +209,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAC",
-    "bankCode": "EC",
+    "bankCode": "BMAC",
+    "countryCode": "EC",
     "branchCode": "0E6",
     "SWIFT Code": "BMACECEG0E6",
     "Bank Name": "BANCO DE MACHALA, C.A.",
@@ -222,8 +222,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUST",
-    "bankCode": "EC",
+    "bankCode": "AUST",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "AUSTECEQ",
     "Bank Name": "BANCO DEL AUSTRO S.A.",
@@ -235,8 +235,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LITB",
-    "bankCode": "EC",
+    "bankCode": "LITB",
+    "countryCode": "EC",
     "branchCode": "CEF",
     "SWIFT Code": "LITBECEF",
     "Bank Name": "BANCO DEL LITORAL",
@@ -248,8 +248,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "400",
     "SWIFT Code": "PACIECEG400",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -261,8 +261,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "300",
     "SWIFT Code": "PACIECEG300",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -274,8 +274,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "PACIECEG100",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -287,8 +287,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "CEG",
     "SWIFT Code": "PACIECEG",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -300,8 +300,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "IBA",
     "SWIFT Code": "PACIECEGIBA",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -313,8 +313,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "110",
     "SWIFT Code": "PACIECEG110",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -326,8 +326,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "200",
     "SWIFT Code": "PACIECEG200",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -339,8 +339,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "600",
     "SWIFT Code": "PACIECEG600",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -352,8 +352,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "640",
     "SWIFT Code": "PACIECEG640",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -365,8 +365,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "500",
     "SWIFT Code": "PACIECEG500",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -378,8 +378,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "350",
     "SWIFT Code": "PACIECEG350",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -391,8 +391,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "871",
     "SWIFT Code": "PACIECEG871",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -404,8 +404,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PACI",
-    "bankCode": "EC",
+    "bankCode": "PACI",
+    "countryCode": "EC",
     "branchCode": "510",
     "SWIFT Code": "PACIECEG510",
     "Bank Name": "BANCO DEL PACIFICO",
@@ -417,8 +417,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CODS",
-    "bankCode": "EC",
+    "bankCode": "CODS",
+    "countryCode": "EC",
     "branchCode": "001",
     "SWIFT Code": "CODSECEQ001",
     "Bank Name": "BANCO DESARROLLO DE LOS PUEBLOS S.A. CODESARROLLO",
@@ -430,8 +430,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CODS",
-    "bankCode": "EC",
+    "bankCode": "CODS",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "CODSECEQ",
     "Bank Name": "BANCO DESARROLLO DE LOS PUEBLOS S.A. CODESARROLLO",
@@ -443,8 +443,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGRM",
-    "bankCode": "EC",
+    "bankCode": "BGRM",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "BGRMECEQ100",
     "Bank Name": "BANCO GENERAL RUMINAHUI S.A.",
@@ -456,8 +456,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGRM",
-    "bankCode": "EC",
+    "bankCode": "BGRM",
+    "countryCode": "EC",
     "branchCode": "200",
     "SWIFT Code": "BGRMECEQ200",
     "Bank Name": "BANCO GENERAL RUMINAHUI S.A.",
@@ -469,8 +469,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGRM",
-    "bankCode": "EC",
+    "bankCode": "BGRM",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "BGRMECEQ",
     "Bank Name": "BANCO GENERAL RUMINAHUI S.A.",
@@ -482,8 +482,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGRM",
-    "bankCode": "EC",
+    "bankCode": "BGRM",
+    "countryCode": "EC",
     "branchCode": "505",
     "SWIFT Code": "BGRMECEQ505",
     "Bank Name": "BANCO GENERAL RUMINAHUI S.A.",
@@ -495,8 +495,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAY",
-    "bankCode": "EC",
+    "bankCode": "GUAY",
+    "countryCode": "EC",
     "branchCode": "CEG",
     "SWIFT Code": "GUAYECEG",
     "Bank Name": "BANCO GUAYAQUIL S.A.",
@@ -508,8 +508,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GUAY",
-    "bankCode": "EC",
+    "bankCode": "GUAY",
+    "countryCode": "EC",
     "branchCode": "105",
     "SWIFT Code": "GUAYECEG105",
     "Bank Name": "BANCO GUAYAQUIL S.A.",
@@ -521,8 +521,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINT",
-    "bankCode": "EC",
+    "bankCode": "BINT",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "BINTECEQ100",
     "Bank Name": "BANCO INTERNACIONAL S.A.",
@@ -534,8 +534,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BINT",
-    "bankCode": "EC",
+    "bankCode": "BINT",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "BINTECEQ",
     "Bank Name": "BANCO INTERNACIONAL S.A.",
@@ -547,8 +547,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "400",
     "SWIFT Code": "PICHECEQ400",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -560,8 +560,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "450",
     "SWIFT Code": "PICHECEQ450",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -573,8 +573,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "300",
     "SWIFT Code": "PICHECEQ300",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -586,8 +586,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "304",
     "SWIFT Code": "PICHECEQ304",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -599,8 +599,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "306",
     "SWIFT Code": "PICHECEQ306",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -612,8 +612,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "307",
     "SWIFT Code": "PICHECEQ307",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -625,8 +625,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "302",
     "SWIFT Code": "PICHECEQ302",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -638,8 +638,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "519",
     "SWIFT Code": "PICHECEQ519",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -651,8 +651,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "517",
     "SWIFT Code": "PICHECEQ517",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -664,8 +664,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "523",
     "SWIFT Code": "PICHECEQ523",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -677,8 +677,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "516",
     "SWIFT Code": "PICHECEQ516",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -690,8 +690,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "109",
     "SWIFT Code": "PICHECEQ109",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -703,8 +703,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "520",
     "SWIFT Code": "PICHECEQ520",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -716,8 +716,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "521",
     "SWIFT Code": "PICHECEQ521",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -729,8 +729,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "515",
     "SWIFT Code": "PICHECEQ515",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -742,8 +742,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "513",
     "SWIFT Code": "PICHECEQ513",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -755,8 +755,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "510",
     "SWIFT Code": "PICHECEQ510",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -768,8 +768,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "518",
     "SWIFT Code": "PICHECEQ518",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -781,8 +781,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "522",
     "SWIFT Code": "PICHECEQ522",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -794,8 +794,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "524",
     "SWIFT Code": "PICHECEQ524",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -807,8 +807,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "537",
     "SWIFT Code": "PICHECEQ537",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -820,8 +820,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "538",
     "SWIFT Code": "PICHECEQ538",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -833,8 +833,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "539",
     "SWIFT Code": "PICHECEQ539",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -846,8 +846,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "540",
     "SWIFT Code": "PICHECEQ540",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -859,8 +859,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "541",
     "SWIFT Code": "PICHECEQ541",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -872,8 +872,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "503",
     "SWIFT Code": "PICHECEQ503",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -885,8 +885,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "502",
     "SWIFT Code": "PICHECEQ502",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -898,8 +898,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "PICHECEQ",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -911,8 +911,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "509",
     "SWIFT Code": "PICHECEQ509",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -924,8 +924,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "500",
     "SWIFT Code": "PICHECEQ500",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -937,8 +937,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "800",
     "SWIFT Code": "PICHECEQ800",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -950,8 +950,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "505",
     "SWIFT Code": "PICHECEQ505",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -963,8 +963,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "508",
     "SWIFT Code": "PICHECEQ508",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -976,8 +976,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "551",
     "SWIFT Code": "PICHECEQ551",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -989,8 +989,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "512",
     "SWIFT Code": "PICHECEQ512",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1002,8 +1002,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "504",
     "SWIFT Code": "PICHECEQ504",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1015,8 +1015,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "350",
     "SWIFT Code": "PICHECEQ350",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1028,8 +1028,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "550",
     "SWIFT Code": "PICHECEQ550",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1041,8 +1041,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "900",
     "SWIFT Code": "PICHECEQ900",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1054,8 +1054,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCB",
-    "bankCode": "EC",
+    "bankCode": "PRCB",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "PRCBECEQ",
     "Bank Name": "BANCO PROCREDIT S.A.",
@@ -1067,8 +1067,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNSL",
-    "bankCode": "EC",
+    "bankCode": "BNSL",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "BNSLECEQ",
     "Bank Name": "BANCO SOLIDARIO",
@@ -1080,8 +1080,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CJEP",
-    "bankCode": "EC",
+    "bankCode": "CJEP",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "CJEPECEQ",
     "Bank Name": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
@@ -1093,8 +1093,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DICD",
-    "bankCode": "EC",
+    "bankCode": "DICD",
+    "countryCode": "EC",
     "branchCode": "CEQ",
     "SWIFT Code": "DICDECEQ",
     "Bank Name": "DINERS CLUB DEL ECUADOR S.A.",
@@ -1106,8 +1106,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "305",
     "SWIFT Code": "PICHECEQ305",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1119,8 +1119,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "700",
     "SWIFT Code": "PICHECEQ700",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1132,8 +1132,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "370",
     "SWIFT Code": "PICHECEQ370",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1145,8 +1145,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "100",
     "SWIFT Code": "PICHECEQ100",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1158,8 +1158,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "101",
     "SWIFT Code": "PICHECEQ101",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1171,8 +1171,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "115",
     "SWIFT Code": "PICHECEQ115",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1184,8 +1184,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "116",
     "SWIFT Code": "PICHECEQ116",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1197,8 +1197,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "117",
     "SWIFT Code": "PICHECEQ117",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1210,8 +1210,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "112",
     "SWIFT Code": "PICHECEQ112",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1223,8 +1223,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "111",
     "SWIFT Code": "PICHECEQ111",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1236,8 +1236,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "110",
     "SWIFT Code": "PICHECEQ110",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1249,8 +1249,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "107",
     "SWIFT Code": "PICHECEQ107",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1262,8 +1262,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "108",
     "SWIFT Code": "PICHECEQ108",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1275,8 +1275,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "106",
     "SWIFT Code": "PICHECEQ106",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1288,8 +1288,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "113",
     "SWIFT Code": "PICHECEQ113",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1301,8 +1301,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "114",
     "SWIFT Code": "PICHECEQ114",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1314,8 +1314,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "118",
     "SWIFT Code": "PICHECEQ118",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1327,8 +1327,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "119",
     "SWIFT Code": "PICHECEQ119",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1340,8 +1340,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "120",
     "SWIFT Code": "PICHECEQ120",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1353,8 +1353,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "121",
     "SWIFT Code": "PICHECEQ121",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1366,8 +1366,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "103",
     "SWIFT Code": "PICHECEQ103",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1379,8 +1379,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "102",
     "SWIFT Code": "PICHECEQ102",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1392,8 +1392,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "105",
     "SWIFT Code": "PICHECEQ105",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1405,8 +1405,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "104",
     "SWIFT Code": "PICHECEQ104",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1418,8 +1418,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "250",
     "SWIFT Code": "PICHECEQ250",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1431,8 +1431,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "270",
     "SWIFT Code": "PICHECEQ270",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1444,8 +1444,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "200",
     "SWIFT Code": "PICHECEQ200",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1457,8 +1457,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "600",
     "SWIFT Code": "PICHECEQ600",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1470,8 +1470,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "605",
     "SWIFT Code": "PICHECEQ605",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1483,8 +1483,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "253",
     "SWIFT Code": "PICHECEQ253",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1496,8 +1496,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "610",
     "SWIFT Code": "PICHECEQ610",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1509,8 +1509,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "804",
     "SWIFT Code": "PICHECEQ804",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1522,8 +1522,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "501",
     "SWIFT Code": "PICHECEQ501",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1535,8 +1535,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "506",
     "SWIFT Code": "PICHECEQ506",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1548,8 +1548,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "507",
     "SWIFT Code": "PICHECEQ507",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1561,8 +1561,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "525",
     "SWIFT Code": "PICHECEQ525",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1574,8 +1574,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "526",
     "SWIFT Code": "PICHECEQ526",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1587,8 +1587,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "527",
     "SWIFT Code": "PICHECEQ527",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1600,8 +1600,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "528",
     "SWIFT Code": "PICHECEQ528",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1613,8 +1613,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "529",
     "SWIFT Code": "PICHECEQ529",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1626,8 +1626,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "530",
     "SWIFT Code": "PICHECEQ530",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1639,8 +1639,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "531",
     "SWIFT Code": "PICHECEQ531",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1652,8 +1652,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "532",
     "SWIFT Code": "PICHECEQ532",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1665,8 +1665,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "533",
     "SWIFT Code": "PICHECEQ533",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1678,8 +1678,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "534",
     "SWIFT Code": "PICHECEQ534",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1691,8 +1691,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "535",
     "SWIFT Code": "PICHECEQ535",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1704,8 +1704,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "536",
     "SWIFT Code": "PICHECEQ536",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1717,8 +1717,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "552",
     "SWIFT Code": "PICHECEQ552",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1730,8 +1730,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "511",
     "SWIFT Code": "PICHECEQ511",
     "Bank Name": "BANCO PICHINCHA C.A.",
@@ -1743,8 +1743,8 @@ const ecuador = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "EC",
+    "bankCode": "PICH",
+    "countryCode": "EC",
     "branchCode": "514",
     "SWIFT Code": "PICHECEQ514",
     "Bank Name": "BANCO PICHINCHA C.A.",

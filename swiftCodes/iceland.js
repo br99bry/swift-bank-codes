@@ -1,7 +1,7 @@
 const iceland = [
   {
-    "countryCode": "ESJA",
-    "bankCode": "IS",
+    "bankCode": "ESJA",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "ESJAISRE",
     "Bank Name": "ARION BANK",
@@ -13,8 +13,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SISL",
-    "bankCode": "IS",
+    "bankCode": "SISL",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "SISLISRE",
     "Bank Name": "CENTRAL BANK OF ICELAND",
@@ -26,8 +26,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SISL",
-    "bankCode": "IS",
+    "bankCode": "SISL",
+    "countryCode": "IS",
     "branchCode": "SRX",
     "SWIFT Code": "SISLISRX",
     "Bank Name": "CENTRAL BANK OF ICELAND",
@@ -39,8 +39,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SISL",
-    "bankCode": "IS",
+    "bankCode": "SISL",
+    "countryCode": "IS",
     "branchCode": "TIA",
     "SWIFT Code": "SISLISRETIA",
     "Bank Name": "CENTRAL BANK OF ICELAND",
@@ -52,8 +52,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SISL",
-    "bankCode": "IS",
+    "bankCode": "SISL",
+    "countryCode": "IS",
     "branchCode": "ASA",
     "SWIFT Code": "SISLISREASA",
     "Bank Name": "CENTRAL BANK OF ICELAND",
@@ -65,8 +65,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIMI",
-    "bankCode": "IS",
+    "bankCode": "EIMI",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "EIMIISRE",
     "Bank Name": "EIMSKIPAFELAG ISLANDS HF",
@@ -79,8 +79,8 @@ const iceland = [
   },
   {},
   {
-    "countryCode": "MPBA",
-    "bankCode": "IS",
+    "bankCode": "MPBA",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "MPBAISRE",
     "Bank Name": "KVIKA BANKI HF.",
@@ -92,8 +92,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBII",
-    "bankCode": "IS",
+    "bankCode": "NBII",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "NBIIISRE",
     "Bank Name": "LANDSBANKINN HF",
@@ -105,8 +105,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSSR",
-    "bankCode": "IS",
+    "bankCode": "OSSR",
+    "countryCode": "IS",
     "branchCode": "SRR",
     "SWIFT Code": "OSSRISRR",
     "Bank Name": "OSSUR HF.",
@@ -118,8 +118,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VATO",
-    "bankCode": "IS",
+    "bankCode": "VATO",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "VATOISRE",
     "Bank Name": "RAPYD EUROPE HF",
@@ -131,8 +131,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPUA",
-    "bankCode": "IS",
+    "bankCode": "SPUA",
+    "countryCode": "IS",
     "branchCode": "SR2",
     "SWIFT Code": "SPUAISR2",
     "Bank Name": "SPARISJODUR AUSTURLANDS HF.",
@@ -144,8 +144,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDS",
-    "bankCode": "IS",
+    "bankCode": "SPDS",
+    "countryCode": "IS",
     "branchCode": "SR2",
     "SWIFT Code": "SPDSISR2",
     "Bank Name": "SPARISJODUR HOFDHVERFINGA SES",
@@ -157,8 +157,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSRS",
-    "bankCode": "IS",
+    "bankCode": "SSRS",
+    "countryCode": "IS",
     "branchCode": "SR2",
     "SWIFT Code": "SSRSISR2",
     "Bank Name": "SPARISJODUR STRANDAMANNA SES.",
@@ -170,8 +170,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPYE",
-    "bankCode": "IS",
+    "bankCode": "SPYE",
+    "countryCode": "IS",
     "branchCode": "SR2",
     "SWIFT Code": "SPYEISR2",
     "Bank Name": "SPARISJODUR SUDUR-THINGEYINGA SES.",
@@ -183,8 +183,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BORG",
-    "bankCode": "IS",
+    "bankCode": "BORG",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "BORGISRE",
     "Bank Name": "TEYA ICELAND HF.",
@@ -196,8 +196,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SLTP",
-    "bankCode": "IS",
+    "bankCode": "SLTP",
+    "countryCode": "IS",
     "branchCode": "SRE",
     "SWIFT Code": "SLTPISRE",
     "Bank Name": "TEYA ICELAND HF.",
@@ -209,8 +209,8 @@ const iceland = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VEIA",
-    "bankCode": "IS",
+    "bankCode": "VEIA",
+    "countryCode": "IS",
     "branchCode": "SR2",
     "SWIFT Code": "VEIAISR2",
     "Bank Name": "VERDBREFAMIDSTOD ISLANDS HF.",

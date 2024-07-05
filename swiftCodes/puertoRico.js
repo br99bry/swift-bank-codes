@@ -1,7 +1,7 @@
 const puertoRico = [
   {
-    "countryCode": "ADGI",
-    "bankCode": "PR",
+    "bankCode": "ADGI",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ADGIPRSJ",
     "Bank Name": "ADVANTAGE INTERNATIONAL BANK CORP.",
@@ -13,8 +13,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AICI",
-    "bankCode": "PR",
+    "bankCode": "AICI",
+    "countryCode": "PR",
     "branchCode": "R22",
     "SWIFT Code": "AICIPR22",
     "Bank Name": "ALLIANCE CAPITAL INTERNATIONAL BANK INC",
@@ -26,8 +26,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMTL",
-    "bankCode": "PR",
+    "bankCode": "AMTL",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "AMTLPRSJ",
     "Bank Name": "AMERICAN INTERNATIONAL BANK LLC",
@@ -39,8 +39,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACBI",
-    "bankCode": "PR",
+    "bankCode": "ACBI",
+    "countryCode": "PR",
     "branchCode": "R22",
     "SWIFT Code": "ACBIPR22",
     "Bank Name": "ANDCAPITAL BANK INTERNATIONAL CORP",
@@ -52,8 +52,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFCP",
-    "bankCode": "PR",
+    "bankCode": "AFCP",
+    "countryCode": "PR",
     "branchCode": "RS2",
     "SWIFT Code": "AFCPPRS2",
     "Bank Name": "APPLIED FINANCE CAPITAL MANAGEMENT LLC",
@@ -65,8 +65,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MULN",
-    "bankCode": "PR",
+    "bankCode": "MULN",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "MULNPRSJ",
     "Bank Name": "ARETIBANK INTERNATIONAL INC.",
@@ -78,8 +78,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARVB",
-    "bankCode": "PR",
+    "bankCode": "ARVB",
+    "countryCode": "PR",
     "branchCode": "RS2",
     "SWIFT Code": "ARVBPRS2",
     "Bank Name": "ARIVAL BANK INTERNATIONAL CORP.",
@@ -91,8 +91,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARNR",
-    "bankCode": "PR",
+    "bankCode": "ARNR",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ARNRPRSJ",
     "Bank Name": "BANCARIBE INTERNATIONAL BANK, INC.",
@@ -104,8 +104,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPPR",
-    "bankCode": "PR",
+    "bankCode": "BPPR",
+    "countryCode": "PR",
     "branchCode": "RSB",
     "SWIFT Code": "BPPRPRSB",
     "Bank Name": "BANCO POPULAR DE PUERTO RICO",
@@ -117,8 +117,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPPR",
-    "bankCode": "PR",
+    "bankCode": "BPPR",
+    "countryCode": "PR",
     "branchCode": "RSX",
     "SWIFT Code": "BPPRPRSX",
     "Bank Name": "BANCO POPULAR DE PUERTO RICO",
@@ -130,8 +130,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFSU",
-    "bankCode": "PR",
+    "bankCode": "CFSU",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "CFSUPRSJ",
     "Bank Name": "BANCOLOMBIA PUERTO RICO INTERNACIONAL INC.",
@@ -143,8 +143,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIPN",
-    "bankCode": "PR",
+    "bankCode": "BIPN",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "BIPNPRSJ",
     "Bank Name": "BANPLUS INTERNATIONAL BANK, INC.",
@@ -156,8 +156,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBP",
-    "bankCode": "PR",
+    "bankCode": "CIBP",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "CIBPPRSJ",
     "Bank Name": "BNC INTERNATIONAL BANKING CORPORATION",
@@ -169,8 +169,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBNT",
-    "bankCode": "PR",
+    "bankCode": "CBNT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "CBNTPRSJ",
     "Bank Name": "CARIBE INTERNATIONAL BANK, CORP.",
@@ -182,8 +182,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBLB",
-    "bankCode": "PR",
+    "bankCode": "CBLB",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "CBLBPRSJ",
     "Bank Name": "CB INTERNATIONAL BANK LLC",
@@ -195,8 +195,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "PR",
+    "bankCode": "CITI",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "CITIPRSJ",
     "Bank Name": "CITIBANK, NA PUERTO RICO",
@@ -208,8 +208,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DINT",
-    "bankCode": "PR",
+    "bankCode": "DINT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "DINTPRSJ",
     "Bank Name": "DIGITAL INTERNATIONAL BANK, INC.",
@@ -221,8 +221,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELIR",
-    "bankCode": "PR",
+    "bankCode": "ELIR",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ELIRPRSJ",
     "Bank Name": "ELITE INTERNATIONAL BANK",
@@ -234,8 +234,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESYI",
-    "bankCode": "PR",
+    "bankCode": "ESYI",
+    "countryCode": "PR",
     "branchCode": "909",
     "SWIFT Code": "ESYIPRSJ909",
     "Bank Name": "EPAY SYSTEMS INTERNATIONAL LIMITED LIABILITY COMPANY",
@@ -247,8 +247,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESYI",
-    "bankCode": "PR",
+    "bankCode": "ESYI",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ESYIPRSJ",
     "Bank Name": "EPAY SYSTEMS INTERNATIONAL LIMITED LIABILITY COMPANY",
@@ -260,8 +260,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EEIB",
-    "bankCode": "PR",
+    "bankCode": "EEIB",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "EEIBPRSJ",
     "Bank Name": "EURO EXCHANGE INTERNATIONAL BANK, INC.",
@@ -273,8 +273,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUPN",
-    "bankCode": "PR",
+    "bankCode": "EUPN",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "EUPNPRSJ",
     "Bank Name": "EURO PACIFIC INTL. BANK, INC.",
@@ -286,8 +286,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FILC",
-    "bankCode": "PR",
+    "bankCode": "FILC",
+    "countryCode": "PR",
     "branchCode": "R22",
     "SWIFT Code": "FILCPR22",
     "Bank Name": "FACEBANK INTERNATIONAL CORPORATION",
@@ -299,8 +299,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNTL",
-    "bankCode": "PR",
+    "bankCode": "FNTL",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "FNTLPRSJ",
     "Bank Name": "FAIRWINDS INTERNATIONAL BANK, LLC",
@@ -312,8 +312,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBPR",
-    "bankCode": "PR",
+    "bankCode": "FBPR",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "FBPRPRSJ",
     "Bank Name": "FIRSTBANK PUERTO RICO",
@@ -325,8 +325,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITTL",
-    "bankCode": "PR",
+    "bankCode": "ITTL",
+    "countryCode": "PR",
     "branchCode": "RS2",
     "SWIFT Code": "ITTLPRS2",
     "Bank Name": "FV BANK INTERNATIONAL INC",
@@ -338,8 +338,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GKBI",
-    "bankCode": "PR",
+    "bankCode": "GKBI",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "GKBIPRSJ",
     "Bank Name": "GKBANK",
@@ -351,8 +351,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INTE",
-    "bankCode": "PR",
+    "bankCode": "INTE",
+    "countryCode": "PR",
     "branchCode": "R22",
     "SWIFT Code": "INTEPR22",
     "Bank Name": "INTERCAM BANCO INTERNACIONAL, INC.",
@@ -364,8 +364,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ITUL",
-    "bankCode": "PR",
+    "bankCode": "ITUL",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ITULPRSJ",
     "Bank Name": "INTERNATIONAL UNION BANK LLC",
@@ -377,8 +377,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBII",
-    "bankCode": "PR",
+    "bankCode": "IBII",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "IBIIPRSJ",
     "Bank Name": "ITALBANK INTERNATIONAL, INC",
@@ -390,8 +390,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JICT",
-    "bankCode": "PR",
+    "bankCode": "JICT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "JICTPRSJ",
     "Bank Name": "JIC BANK",
@@ -403,8 +403,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDIC",
-    "bankCode": "PR",
+    "bankCode": "MDIC",
+    "countryCode": "PR",
     "branchCode": "RS2",
     "SWIFT Code": "MDICPRS2",
     "Bank Name": "MEDICI BANK INTERNATIONAL LLC",
@@ -416,8 +416,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMGB",
-    "bankCode": "PR",
+    "bankCode": "MMGB",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "MMGBPRSJ",
     "Bank Name": "MMG BANK INTERNATIONAL, INC.",
@@ -429,8 +429,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NINT",
-    "bankCode": "PR",
+    "bankCode": "NINT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "NINTPRSJ",
     "Bank Name": "NEXT BANK INTERNATIONAL, INC.",
@@ -442,8 +442,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDBK",
-    "bankCode": "PR",
+    "bankCode": "NDBK",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "NDBKPRSJ",
     "Bank Name": "NODUS INTERNATIONAL BANK, INC.",
@@ -455,8 +455,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OBPR",
-    "bankCode": "PR",
+    "bankCode": "OBPR",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "OBPRPRSJ",
     "Bank Name": "ORIENTAL BANK",
@@ -468,8 +468,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "PR",
+    "bankCode": "NOSC",
+    "countryCode": "PR",
     "branchCode": "R22",
     "SWIFT Code": "NOSCPR22",
     "Bank Name": "ORIENTAL BANK (FORMERLY SCOTIABANK PUERTO RICO)",
@@ -481,8 +481,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGGI",
-    "bankCode": "PR",
+    "bankCode": "SGGI",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "SGGIPRSJ",
     "Bank Name": "SEGURA BANK INTERNATIONAL, CORP.",
@@ -494,8 +494,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STUL",
-    "bankCode": "PR",
+    "bankCode": "STUL",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "STULPRSJ",
     "Bank Name": "STATETRUST INTERNATIONAL BANK AND TRUST, LLC",
@@ -507,8 +507,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STGN",
-    "bankCode": "PR",
+    "bankCode": "STGN",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "STGNPRSJ",
     "Bank Name": "STRATEGIC BANK INTERNATIONAL CORP.",
@@ -520,8 +520,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACTT",
-    "bankCode": "PR",
+    "bankCode": "ACTT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ACTTPRSJ",
     "Bank Name": "TBB INTERNATIONAL BANK CORP.",
@@ -533,8 +533,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LATA",
-    "bankCode": "PR",
+    "bankCode": "LATA",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "LATAPRSJ",
     "Bank Name": "TC LATIN AMERICA PARTNERS LLC",
@@ -546,8 +546,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOLT",
-    "bankCode": "PR",
+    "bankCode": "TOLT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "TOLTPRSJ",
     "Bank Name": "TOLOMEO BANK INTERNATIONAL, CORP.",
@@ -559,8 +559,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WTCB",
-    "bankCode": "PR",
+    "bankCode": "WTCB",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "WTCBPRSJ",
     "Bank Name": "WTC INTERNATIONAL BANK CORPORATION",
@@ -572,8 +572,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIT",
-    "bankCode": "PR",
+    "bankCode": "ZEIT",
+    "countryCode": "PR",
     "branchCode": "RSJ",
     "SWIFT Code": "ZEITPRSJ",
     "Bank Name": "ZENUS BANK INTERNATIONAL INC.",
@@ -585,8 +585,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIT",
-    "bankCode": "PR",
+    "bankCode": "ZEIT",
+    "countryCode": "PR",
     "branchCode": "EUR",
     "SWIFT Code": "ZEITPRSJEUR",
     "Bank Name": "ZENUS BANK INTERNATIONAL INC.",
@@ -598,8 +598,8 @@ const puertoRico = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIT",
-    "bankCode": "PR",
+    "bankCode": "ZEIT",
+    "countryCode": "PR",
     "branchCode": "GBP",
     "SWIFT Code": "ZEITPRSJGBP",
     "Bank Name": "ZENUS BANK INTERNATIONAL INC.",

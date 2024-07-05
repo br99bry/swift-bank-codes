@@ -1,7 +1,7 @@
 const grenada = [
   {
-    "countryCode": "ACGD",
-    "bankCode": "GD",
+    "bankCode": "ACGD",
+    "countryCode": "GD",
     "branchCode": "DGD",
     "SWIFT Code": "ACGDGDGD",
     "Bank Name": "ACB GRENADA BANK LTD.",
@@ -13,8 +13,8 @@ const grenada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVGD",
-    "bankCode": "GD",
+    "bankCode": "GVGD",
+    "countryCode": "GD",
     "branchCode": "DGD",
     "SWIFT Code": "GVGDGDGD",
     "Bank Name": "GOVERNMENT OF GRENADA",
@@ -26,8 +26,8 @@ const grenada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GROA",
-    "bankCode": "GD",
+    "bankCode": "GROA",
+    "countryCode": "GD",
     "branchCode": "DGD",
     "SWIFT Code": "GROAGDGD",
     "Bank Name": "GRENADA CO-OPERATIVE BANK LIMITED",
@@ -39,8 +39,8 @@ const grenada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBG",
-    "bankCode": "GD",
+    "bankCode": "NCBG",
+    "countryCode": "GD",
     "branchCode": "DGD",
     "SWIFT Code": "NCBGGDGD",
     "Bank Name": "REPUBLIC BANK GRENADA LIMITED",
@@ -52,8 +52,8 @@ const grenada = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCBG",
-    "bankCode": "GD",
+    "bankCode": "NCBG",
+    "countryCode": "GD",
     "branchCode": "001",
     "SWIFT Code": "NCBGGDGD001",
     "Bank Name": "REPUBLIC BANK GRENADA LIMITED",

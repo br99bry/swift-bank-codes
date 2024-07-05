@@ -1,7 +1,7 @@
 const ghana = [
   {
-    "countryCode": "SCBL",
-    "bankCode": "GH",
+    "bankCode": "SCBL",
+    "countryCode": "GH",
     "branchCode": "TDI",
     "SWIFT Code": "SCBLGHACTDI",
     "Bank Name": "STANDARD CHARTERED BANK GHANA PLC",
@@ -13,8 +13,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "GH",
+    "bankCode": "SCBL",
+    "countryCode": "GH",
     "branchCode": "TMA",
     "SWIFT Code": "SCBLGHACTMA",
     "Bank Name": "STANDARD CHARTERED BANK GHANA PLC",
@@ -26,8 +26,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TAKO",
-    "bankCode": "GH",
+    "bankCode": "TAKO",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "TAKOGHAC",
     "Bank Name": "TAKORADI INTERNATIONAL COMPANY",
@@ -39,8 +39,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STBG",
-    "bankCode": "GH",
+    "bankCode": "STBG",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "STBGGHAC",
     "Bank Name": "UNITED BANK FOR AFRICA (GHANA) LTD",
@@ -52,8 +52,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBGH",
-    "bankCode": "GH",
+    "bankCode": "MBGH",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "MBGHGHAC",
     "Bank Name": "UNIVERSAL MERCHANT BANK LTD",
@@ -65,8 +65,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBGH",
-    "bankCode": "GH",
+    "bankCode": "MBGH",
+    "countryCode": "GH",
     "branchCode": "KSI",
     "SWIFT Code": "MBGHGHACKSI",
     "Bank Name": "UNIVERSAL MERCHANT BANK LTD",
@@ -78,8 +78,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBGH",
-    "bankCode": "GH",
+    "bankCode": "MBGH",
+    "countryCode": "GH",
     "branchCode": "TDI",
     "SWIFT Code": "MBGHGHACTDI",
     "Bank Name": "UNIVERSAL MERCHANT BANK LTD",
@@ -91,8 +91,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBGH",
-    "bankCode": "GH",
+    "bankCode": "MBGH",
+    "countryCode": "GH",
     "branchCode": "TMA",
     "SWIFT Code": "MBGHGHACTMA",
     "Bank Name": "UNIVERSAL MERCHANT BANK LTD",
@@ -104,8 +104,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEBL",
-    "bankCode": "GH",
+    "bankCode": "ZEBL",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "ZEBLGHAC",
     "Bank Name": "ZENITH BANK (GHANA) LTD",
@@ -117,8 +117,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "GH",
+    "bankCode": "BARC",
+    "countryCode": "GH",
     "branchCode": "CSS",
     "SWIFT Code": "BARCGHACCSS",
     "Bank Name": "ABSA BANK OF GHANA LIMITED",
@@ -130,8 +130,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "GH",
+    "bankCode": "BARC",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "BARCGHAC",
     "Bank Name": "ABSA BANK OF GHANA LIMITED",
@@ -143,8 +143,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "GH",
+    "bankCode": "BARC",
+    "countryCode": "GH",
     "branchCode": "OBU",
     "SWIFT Code": "BARCGHACOBU",
     "Bank Name": "ABSA BANK OF GHANA LIMITED",
@@ -156,8 +156,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNG",
-    "bankCode": "GH",
+    "bankCode": "ABNG",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "ABNGGHAC",
     "Bank Name": "ACCESS BANK (GHANA) PLC",
@@ -169,8 +169,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADNT",
-    "bankCode": "GH",
+    "bankCode": "ADNT",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "ADNTGHAC",
     "Bank Name": "AGRICULTURAL DEVELOPMENT BANK",
@@ -182,8 +182,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREX",
-    "bankCode": "GH",
+    "bankCode": "AREX",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "AREXGHAC",
     "Bank Name": "ARB APEX BANK LIMITED",
@@ -195,8 +195,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMMA",
-    "bankCode": "GH",
+    "bankCode": "AMMA",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "AMMAGHAC",
     "Bank Name": "BANK OF AFRICA - GHANA LIMITED",
@@ -208,8 +208,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGH",
-    "bankCode": "GH",
+    "bankCode": "BAGH",
+    "countryCode": "GH",
     "branchCode": "HAB",
     "SWIFT Code": "BAGHGHAB",
     "Bank Name": "BANK OF GHANA",
@@ -221,8 +221,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGH",
-    "bankCode": "GH",
+    "bankCode": "BAGH",
+    "countryCode": "GH",
     "branchCode": "HA4",
     "SWIFT Code": "BAGHGHA4",
     "Bank Name": "BANK OF GHANA",
@@ -234,8 +234,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGH",
-    "bankCode": "GH",
+    "bankCode": "BAGH",
+    "countryCode": "GH",
     "branchCode": "HA5",
     "SWIFT Code": "BAGHGHA5",
     "Bank Name": "BANK OF GHANA",
@@ -247,8 +247,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGH",
-    "bankCode": "GH",
+    "bankCode": "BAGH",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "BAGHGHAC",
     "Bank Name": "BANK OF GHANA",
@@ -260,8 +260,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGH",
-    "bankCode": "GH",
+    "bankCode": "BAGH",
+    "countryCode": "GH",
     "branchCode": "HA2",
     "SWIFT Code": "BAGHGHA2",
     "Bank Name": "BANK OF GHANA",
@@ -273,8 +273,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAGH",
-    "bankCode": "GH",
+    "bankCode": "BAGH",
+    "countryCode": "GH",
     "branchCode": "HA3",
     "SWIFT Code": "BAGHGHA3",
     "Bank Name": "BANK OF GHANA",
@@ -286,8 +286,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACCC",
-    "bankCode": "GH",
+    "bankCode": "ACCC",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "ACCCGHAC",
     "Bank Name": "CALBANK PLC",
@@ -299,8 +299,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACCC",
-    "bankCode": "GH",
+    "bankCode": "ACCC",
+    "countryCode": "GH",
     "branchCode": "CBS",
     "SWIFT Code": "ACCCGHACCBS",
     "Bank Name": "CALBANK PLC",
@@ -312,8 +312,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSDR",
-    "bankCode": "GH",
+    "bankCode": "CSDR",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "CSDRGHAC",
     "Bank Name": "CENTRAL SECURITIES DEPOSITORY (GH) LTD",
@@ -325,8 +325,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBGH",
-    "bankCode": "GH",
+    "bankCode": "CBGH",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "CBGHGHAC",
     "Bank Name": "CONSOLIDATED BANK GHANA LIMITED",
@@ -338,8 +338,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CODG",
-    "bankCode": "GH",
+    "bankCode": "CODG",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "CODGGHAC",
     "Bank Name": "CONTROLLER AND ACCOUNTANT-GENERAL'S DEPARTMENT",
@@ -351,8 +351,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GH",
+    "bankCode": "ECOC",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "ECOCGHAC",
     "Bank Name": "ECOBANK GHANA PLC",
@@ -364,8 +364,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GH",
+    "bankCode": "ECOC",
+    "countryCode": "GH",
     "branchCode": "CUS",
     "SWIFT Code": "ECOCGHACCUS",
     "Bank Name": "ECOBANK GHANA PLC",
@@ -377,8 +377,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GH",
+    "bankCode": "ECOC",
+    "countryCode": "GH",
     "branchCode": "KSI",
     "SWIFT Code": "ECOCGHACKSI",
     "Bank Name": "ECOBANK GHANA PLC",
@@ -390,8 +390,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GH",
+    "bankCode": "ECOC",
+    "countryCode": "GH",
     "branchCode": "TDI",
     "SWIFT Code": "ECOCGHACTDI",
     "Bank Name": "ECOBANK GHANA PLC",
@@ -403,8 +403,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GH",
+    "bankCode": "ECOC",
+    "countryCode": "GH",
     "branchCode": "TMA",
     "SWIFT Code": "ECOCGHACTMA",
     "Bank Name": "ECOBANK GHANA PLC",
@@ -416,8 +416,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INCE",
-    "bankCode": "GH",
+    "bankCode": "INCE",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "INCEGHAC",
     "Bank Name": "FBNBANK GHANA LIMITED",
@@ -429,8 +429,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FBLI",
-    "bankCode": "GH",
+    "bankCode": "FBLI",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "FBLIGHAC",
     "Bank Name": "FIDELITY BANK GHANA LIMITED",
@@ -442,8 +442,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FAMC",
-    "bankCode": "GH",
+    "bankCode": "FAMC",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "FAMCGHAC",
     "Bank Name": "FIRST ATLANTIC BANK LIMITED",
@@ -455,8 +455,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "GH",
+    "bankCode": "FIRN",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "FIRNGHAC",
     "Bank Name": "FIRST NATIONAL BANK GHANA LIMITED",
@@ -468,8 +468,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "GH",
+    "bankCode": "FIRN",
+    "countryCode": "GH",
     "branchCode": "CUS",
     "SWIFT Code": "FIRNGHACCUS",
     "Bank Name": "FIRST NATIONAL BANK GHANA LIMITED",
@@ -481,8 +481,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHCB",
-    "bankCode": "GH",
+    "bankCode": "GHCB",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "GHCBGHAC",
     "Bank Name": "GCB BANK PLC",
@@ -494,8 +494,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHCB",
-    "bankCode": "GH",
+    "bankCode": "GHCB",
+    "countryCode": "GH",
     "branchCode": "KSI",
     "SWIFT Code": "GHCBGHACKSI",
     "Bank Name": "GCB BANK PLC",
@@ -507,8 +507,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHCB",
-    "bankCode": "GH",
+    "bankCode": "GHCB",
+    "countryCode": "GH",
     "branchCode": "TDI",
     "SWIFT Code": "GHCBGHACTDI",
     "Bank Name": "GCB BANK PLC",
@@ -520,8 +520,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHCB",
-    "bankCode": "GH",
+    "bankCode": "GHCB",
+    "countryCode": "GH",
     "branchCode": "TMA",
     "SWIFT Code": "GHCBGHACTMA",
     "Bank Name": "GCB BANK PLC",
@@ -533,8 +533,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHEI",
-    "bankCode": "GH",
+    "bankCode": "GHEI",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "GHEIGHAC",
     "Bank Name": "GHANA EXPORT-IMPORT BANK",
@@ -546,8 +546,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHRA",
-    "bankCode": "GH",
+    "bankCode": "GHRA",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "GHRAGHAC",
     "Bank Name": "GHANA REVENUE AUTHORITY",
@@ -559,8 +559,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBI",
-    "bankCode": "GH",
+    "bankCode": "GTBI",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "GTBIGHAC",
     "Bank Name": "GUARANTY TRUST BANK (GHANA) LTD",
@@ -572,8 +572,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NIBG",
-    "bankCode": "GH",
+    "bankCode": "NIBG",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "NIBGGHAC",
     "Bank Name": "NATIONAL INVESTMENT BANK",
@@ -585,8 +585,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMBL",
-    "bankCode": "GH",
+    "bankCode": "OMBL",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "OMBLGHAC",
     "Bank Name": "OMNIBSIC BANK GHANA LIMITED",
@@ -598,8 +598,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUBK",
-    "bankCode": "GH",
+    "bankCode": "PUBK",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "PUBKGHAC",
     "Bank Name": "PRUDENTIAL BANK LIMITED",
@@ -611,8 +611,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFCA",
-    "bankCode": "GH",
+    "bankCode": "HFCA",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "HFCAGHAC",
     "Bank Name": "REPUBLIC BANK (GHANA) PLC",
@@ -624,8 +624,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HFCA",
-    "bankCode": "GH",
+    "bankCode": "HFCA",
+    "countryCode": "GH",
     "branchCode": "CSD",
     "SWIFT Code": "HFCAGHACCSD",
     "Bank Name": "REPUBLIC BANK (GHANA) PLC",
@@ -637,8 +637,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRCM",
-    "bankCode": "GH",
+    "bankCode": "SRCM",
+    "countryCode": "GH",
     "branchCode": "HA2",
     "SWIFT Code": "SRCMGHA2",
     "Bank Name": "SARPONG CAPITAL MARKETS LIMITED",
@@ -650,8 +650,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SECX",
-    "bankCode": "GH",
+    "bankCode": "SECX",
+    "countryCode": "GH",
     "branchCode": "HA2",
     "SWIFT Code": "SECXGHA2",
     "Bank Name": "SECONDSTAX LIMITED",
@@ -663,8 +663,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSNT",
-    "bankCode": "GH",
+    "bankCode": "SSNT",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "SSNTGHAC",
     "Bank Name": "SOCIAL SECURITY AND NATIONAL INSURANCE TRUST",
@@ -676,8 +676,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSEB",
-    "bankCode": "GH",
+    "bankCode": "SSEB",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "SSEBGHAC",
     "Bank Name": "SOCIETE GENERALE GHANA PLC",
@@ -689,8 +689,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSEB",
-    "bankCode": "GH",
+    "bankCode": "SSEB",
+    "countryCode": "GH",
     "branchCode": "KSI",
     "SWIFT Code": "SSEBGHACKSI",
     "Bank Name": "SOCIETE GENERALE GHANA PLC",
@@ -702,8 +702,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSEB",
-    "bankCode": "GH",
+    "bankCode": "SSEB",
+    "countryCode": "GH",
     "branchCode": "TAM",
     "SWIFT Code": "SSEBGHACTAM",
     "Bank Name": "SOCIETE GENERALE GHANA PLC",
@@ -715,8 +715,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "GH",
+    "bankCode": "SBIC",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "SBICGHAC",
     "Bank Name": "STANBIC BANK GHANA LTD",
@@ -728,8 +728,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "GH",
+    "bankCode": "SCBL",
+    "countryCode": "GH",
     "branchCode": "HAC",
     "SWIFT Code": "SCBLGHAC",
     "Bank Name": "STANDARD CHARTERED BANK GHANA PLC",
@@ -741,8 +741,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "GH",
+    "bankCode": "SCBL",
+    "countryCode": "GH",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLGHACSSU",
     "Bank Name": "STANDARD CHARTERED BANK GHANA PLC",
@@ -754,8 +754,8 @@ const ghana = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "GH",
+    "bankCode": "SCBL",
+    "countryCode": "GH",
     "branchCode": "KSI",
     "SWIFT Code": "SCBLGHACKSI",
     "Bank Name": "STANDARD CHARTERED BANK GHANA PLC",

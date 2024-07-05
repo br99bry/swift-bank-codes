@@ -1,7 +1,7 @@
 const unitedArabEmirates = [
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "RAK",
     "SWIFT Code": "NBADAEAARAK",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -13,8 +13,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ABA",
     "SWIFT Code": "NBADAEAAABA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -26,8 +26,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DHD",
     "SWIFT Code": "NBADAEAADHD",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -39,8 +39,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "KAL",
     "SWIFT Code": "NBADAEAAKAL",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -52,8 +52,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "KFN",
     "SWIFT Code": "NBADAEAAKFN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -65,8 +65,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SHA",
     "SWIFT Code": "NBADAEAASHA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -78,8 +78,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SIA",
     "SWIFT Code": "NBADAEAASIA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -91,8 +91,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "UAQ",
     "SWIFT Code": "NBADAEAAUAQ",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -104,8 +104,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNMP",
-    "bankCode": "AE",
+    "bankCode": "FNMP",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "FNMPAEAD",
     "Bank Name": "FRONTIER INVESTMENT MANAGEMENT PARTNERS LTD",
@@ -117,8 +117,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GACG",
-    "bankCode": "AE",
+    "bankCode": "GACG",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "GACGAEAD",
     "Bank Name": "GAC GROUP (HOLDINGS) LIMITED",
@@ -130,8 +130,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCCE",
-    "bankCode": "AE",
+    "bankCode": "GCCE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "GCCEAEAD",
     "Bank Name": "GCC EXCHANGE",
@@ -143,8 +143,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GPSS",
-    "bankCode": "AE",
+    "bankCode": "GPSS",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "GPSSAEAD",
     "Bank Name": "GENERAL PENSION AND SOCIAL SECURITY",
@@ -156,8 +156,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GDDF",
-    "bankCode": "AE",
+    "bankCode": "GDDF",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "GDDFAEAD",
     "Bank Name": "GOVERNMENT OF DUBAI DEPARTMENT OF FINANCE",
@@ -169,8 +169,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBSH",
-    "bankCode": "AE",
+    "bankCode": "MBSH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MBSHAEAD",
     "Bank Name": "GTN MIDDLE EAST FINANCIAL SERVICES (DIFC) LIMITED",
@@ -182,8 +182,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GULF",
-    "bankCode": "AE",
+    "bankCode": "GULF",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "GULFAEAA",
     "Bank Name": "GULF INTERNATIONAL BANK B.S.C.",
@@ -195,8 +195,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBZU",
-    "bankCode": "AE",
+    "bankCode": "HBZU",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "HBZUAEAD",
     "Bank Name": "HABIB BANK AG ZURICH",
@@ -208,8 +208,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "AE",
+    "bankCode": "HABB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "HABBAEAD",
     "Bank Name": "HABIB BANK LIMITED",
@@ -221,8 +221,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIAO",
-    "bankCode": "AE",
+    "bankCode": "HIAO",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "HIAOAEA2",
     "Bank Name": "HIRAM ARK COMPANY LTD.",
@@ -234,8 +234,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "ABU",
     "SWIFT Code": "BBMEAEADABU",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -247,8 +247,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "ALA",
     "SWIFT Code": "BBMEAEADALA",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -260,8 +260,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BBMEAEAD",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -273,8 +273,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBME",
-    "bankCode": "AE",
+    "bankCode": "HBME",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "HBMEAEAD",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -286,8 +286,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "DIF",
     "SWIFT Code": "BBMEAEADDIF",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -299,8 +299,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "GPI",
     "SWIFT Code": "BBMEAEADGPI",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -312,8 +312,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "ISV",
     "SWIFT Code": "BBMEAEADISV",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -325,8 +325,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "BDU",
     "SWIFT Code": "BBMEAEADBDU",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -338,8 +338,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "FUJ",
     "SWIFT Code": "BBMEAEADFUJ",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -351,8 +351,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "RKS",
     "SWIFT Code": "BBMEAEADRKS",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -364,8 +364,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBME",
-    "bankCode": "AE",
+    "bankCode": "BBME",
+    "countryCode": "AE",
     "branchCode": "SHJ",
     "SWIFT Code": "BBMEAEADSHJ",
     "Bank Name": "HSBC BANK MIDDLE EAST LIMITED",
@@ -377,8 +377,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "AE",
+    "bankCode": "ICIC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ICICAEAD",
     "Bank Name": "ICICI BANK LIMITED",
@@ -390,8 +390,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "AE",
+    "bankCode": "ICIC",
+    "countryCode": "AE",
     "branchCode": "COP",
     "SWIFT Code": "ICICAEADCOP",
     "Bank Name": "ICICI BANK LIMITED",
@@ -403,8 +403,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "AE",
+    "bankCode": "ICIC",
+    "countryCode": "AE",
     "branchCode": "GTS",
     "SWIFT Code": "ICICAEADGTS",
     "Bank Name": "ICICI BANK LIMITED",
@@ -416,8 +416,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "AE",
+    "bankCode": "ICIC",
+    "countryCode": "AE",
     "branchCode": "IOG",
     "SWIFT Code": "ICICAEADIOG",
     "Bank Name": "ICICI BANK LIMITED",
@@ -429,8 +429,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICIC",
-    "bankCode": "AE",
+    "bankCode": "ICIC",
+    "countryCode": "AE",
     "branchCode": "TMO",
     "SWIFT Code": "ICICAEADTMO",
     "Bank Name": "ICICI BANK LIMITED",
@@ -442,8 +442,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBKL",
-    "bankCode": "AE",
+    "bankCode": "IBKL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "IBKLAEAD",
     "Bank Name": "IDBI BANK LTD",
@@ -455,8 +455,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEXC",
-    "bankCode": "AE",
+    "bankCode": "HEXC",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "HEXCAEAA",
     "Bank Name": "INDEX EXCHANGE LLC(FORMERLY HABIB EXCHANGE CO.L.L.C.)",
@@ -468,8 +468,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AE",
+    "bankCode": "ICBK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ICBKAEAD",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED, DUBAI(DIFC) BRANCH",
@@ -481,8 +481,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "AE",
+    "bankCode": "ICBK",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ICBKAEAA",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED-ABU DHABI BRANCH",
@@ -494,8 +494,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDBQ",
-    "bankCode": "AE",
+    "bankCode": "IDBQ",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "IDBQAEAD",
     "Bank Name": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE - DUBAI BRANCH",
@@ -507,8 +507,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "AE",
+    "bankCode": "BCIT",
+    "countryCode": "AE",
     "branchCode": "EAB",
     "SWIFT Code": "BCITAEAB",
     "Bank Name": "INTESA SANPAOLO - ABU DHABI BRANCH",
@@ -520,8 +520,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "AE",
+    "bankCode": "BCIT",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BCITAEAD",
     "Bank Name": "INTESA SANPAOLO SPA",
@@ -533,8 +533,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADIC",
-    "bankCode": "AE",
+    "bankCode": "ADIC",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADICAEAA",
     "Bank Name": "INVEST AD",
@@ -546,8 +546,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBTF",
-    "bankCode": "AE",
+    "bankCode": "IBTF",
+    "countryCode": "AE",
     "branchCode": "EAS",
     "SWIFT Code": "IBTFAEAS",
     "Bank Name": "INVESTBANK",
@@ -560,8 +560,8 @@ const unitedArabEmirates = [
   },
   {},
   {
-    "countryCode": "CHAS",
-    "bankCode": "AE",
+    "bankCode": "CHAS",
+    "countryCode": "AE",
     "branchCode": "EAB",
     "SWIFT Code": "CHASAEAB",
     "Bank Name": "J.P. MORGAN MIDDLE EAST LIMITED",
@@ -573,8 +573,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "AE",
+    "bankCode": "JANB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "JANBAEAA",
     "Bank Name": "JANATA BANK",
@@ -586,8 +586,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "AE",
+    "bankCode": "JANB",
+    "countryCode": "AE",
     "branchCode": "AUH",
     "SWIFT Code": "JANBAEAAAUH",
     "Bank Name": "JANATA BANK",
@@ -599,8 +599,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "AE",
+    "bankCode": "JANB",
+    "countryCode": "AE",
     "branchCode": "ALN",
     "SWIFT Code": "JANBAEAAALN",
     "Bank Name": "JANATA BANK",
@@ -612,8 +612,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "AE",
+    "bankCode": "JANB",
+    "countryCode": "AE",
     "branchCode": "DXB",
     "SWIFT Code": "JANBAEAADXB",
     "Bank Name": "JANATA BANK",
@@ -625,8 +625,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JANB",
-    "bankCode": "AE",
+    "bankCode": "JANB",
+    "countryCode": "AE",
     "branchCode": "SHJ",
     "SWIFT Code": "JANBAEAASHJ",
     "Bank Name": "JANATA BANK",
@@ -638,8 +638,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "CMS",
     "SWIFT Code": "NBADAEAACMS",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -651,8 +651,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "COL",
     "SWIFT Code": "NBADAEAACOL",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -664,8 +664,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "COR",
     "SWIFT Code": "NBADAEAACOR",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -677,8 +677,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DAS",
     "SWIFT Code": "NBADAEAADAS",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -690,8 +690,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DEL",
     "SWIFT Code": "NBADAEAADEL",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -703,8 +703,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DCM",
     "SWIFT Code": "NBADAEAADCM",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -716,8 +716,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "EPB",
     "SWIFT Code": "NBADAEAAEPB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -729,8 +729,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ECU",
     "SWIFT Code": "NBADAEAAECU",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -742,8 +742,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ADG",
     "SWIFT Code": "NBADAEAAADG",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -755,8 +755,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ONL",
     "SWIFT Code": "NBADAEAAONL",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -768,8 +768,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "EST",
     "SWIFT Code": "NBADAEAAEST",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -781,8 +781,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SYN",
     "SWIFT Code": "NBADAEAASYN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -794,8 +794,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AIR",
     "SWIFT Code": "NBADAEAAAIR",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -807,8 +807,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "IFU",
     "SWIFT Code": "NBADAEAAIFU",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -820,8 +820,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ISD",
     "SWIFT Code": "NBADAEAAISD",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -833,8 +833,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "KMA",
     "SWIFT Code": "NBADAEAAKMA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -846,8 +846,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "KHB",
     "SWIFT Code": "NBADAEAAKHB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -859,8 +859,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "LWA",
     "SWIFT Code": "NBADAEAALWA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -872,8 +872,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "MZD",
     "SWIFT Code": "NBADAEAAMZD",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -885,8 +885,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "KHF",
     "SWIFT Code": "NBADAEAAKHF",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -898,8 +898,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "MIN",
     "SWIFT Code": "NBADAEAAMIN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -911,8 +911,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "MUS",
     "SWIFT Code": "NBADAEAAMUS",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -924,8 +924,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DIR",
     "SWIFT Code": "NBADAEAADIR",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -937,8 +937,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SHM",
     "SWIFT Code": "NBADAEAASHM",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -950,8 +950,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "PBO",
     "SWIFT Code": "NBADAEAAPBO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -963,8 +963,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "REC",
     "SWIFT Code": "NBADAEAAREC",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -976,8 +976,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "CPU",
     "SWIFT Code": "NBADAEAACPU",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -989,8 +989,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SSD",
     "SWIFT Code": "NBADAEAASSD",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1002,8 +1002,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "FSB",
     "SWIFT Code": "NBADAEAAFSB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1015,8 +1015,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "TFO",
     "SWIFT Code": "NBADAEAATFO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1028,8 +1028,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "VOS",
     "SWIFT Code": "NBADAEAAVOS",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1041,8 +1041,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ADV",
     "SWIFT Code": "NBADAEAAADV",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1054,8 +1054,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "COD",
     "SWIFT Code": "NBADAEAACOD",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1067,8 +1067,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AJM",
     "SWIFT Code": "NBADAEAAAJM",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1080,8 +1080,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ALN",
     "SWIFT Code": "NBADAEAAALN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1093,8 +1093,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "CLO",
     "SWIFT Code": "NBADAEAACLO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1106,8 +1106,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AAM",
     "SWIFT Code": "NBADAEAAAAM",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1119,8 +1119,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "ASN",
     "SWIFT Code": "NBADAEAAASN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1132,8 +1132,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "TFN",
     "SWIFT Code": "NBADAEAATFN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1145,8 +1145,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AQB",
     "SWIFT Code": "NBADAEAAAQB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1158,8 +1158,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DEI",
     "SWIFT Code": "NBADAEAADEI",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1171,8 +1171,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DHC",
     "SWIFT Code": "NBADAEAADHC",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1184,8 +1184,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DUB",
     "SWIFT Code": "NBADAEAADUB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1197,8 +1197,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "JBL",
     "SWIFT Code": "NBADAEAAJBL",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1210,8 +1210,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "MOE",
     "SWIFT Code": "NBADAEAAMOE",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1223,8 +1223,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SZR",
     "SWIFT Code": "NBADAEAASZR",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1236,8 +1236,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DIB",
     "SWIFT Code": "NBADAEAADIB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1249,8 +1249,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "FUJ",
     "SWIFT Code": "NBADAEAAFUJ",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1262,8 +1262,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "QFA",
     "SWIFT Code": "NBADAEAAQFA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1275,8 +1275,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "NAK",
     "SWIFT Code": "NBADAEAANAK",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1288,8 +1288,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMDV",
-    "bankCode": "AE",
+    "bankCode": "EMDV",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "EMDVAEAD",
     "Bank Name": "EMIRATES DEVELOPMENT BANK",
@@ -1301,8 +1301,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EGAP",
-    "bankCode": "AE",
+    "bankCode": "EGAP",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "EGAPAEAA",
     "Bank Name": "EMIRATES GLOBAL ALUMINIUM P.J.S.C",
@@ -1314,8 +1314,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEIN",
-    "bankCode": "AE",
+    "bankCode": "AEIN",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AEINAEAD",
     "Bank Name": "EMIRATES INVESTMENT BANK P.J.S.C.",
@@ -1327,8 +1327,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "ADC",
     "SWIFT Code": "MEBLAEADADC",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1340,8 +1340,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "AJS",
     "SWIFT Code": "MEBLAEADAJS",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1353,8 +1353,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MEBLAEAD",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1366,8 +1366,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "DFR",
     "SWIFT Code": "MEBLAEADDFR",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1379,8 +1379,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "RIQ",
     "SWIFT Code": "MEBLAEADRIQ",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1392,8 +1392,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "BUD",
     "SWIFT Code": "MEBLAEADBUD",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1405,8 +1405,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "MRD",
     "SWIFT Code": "MEBLAEADMRD",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1418,8 +1418,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "FUJ",
     "SWIFT Code": "MEBLAEADFUJ",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1431,8 +1431,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "ROS",
     "SWIFT Code": "MEBLAEADROS",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1444,8 +1444,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "SBA",
     "SWIFT Code": "MEBLAEADSBA",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1457,8 +1457,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEBL",
-    "bankCode": "AE",
+    "bankCode": "MEBL",
+    "countryCode": "AE",
     "branchCode": "QFS",
     "SWIFT Code": "MEBLAEADQFS",
     "Bank Name": "EMIRATES ISLAMIC BANK P.J.S.C.",
@@ -1470,8 +1470,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "ADB",
     "SWIFT Code": "EBILAEADADB",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1483,8 +1483,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "AMR",
     "SWIFT Code": "EBILAEADAMR",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1496,8 +1496,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "SUK",
     "SWIFT Code": "EBILAEADSUK",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1509,8 +1509,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "BTA",
     "SWIFT Code": "EBILAEADBTA",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1522,8 +1522,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "BSQ",
     "SWIFT Code": "EBILAEADBSQ",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1535,8 +1535,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "CUS",
     "SWIFT Code": "EBILAEADCUS",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1548,8 +1548,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "DMB",
     "SWIFT Code": "EBILAEADDMB",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1561,8 +1561,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "SEC",
     "SWIFT Code": "EBILAEADSEC",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1574,8 +1574,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "GAL",
     "SWIFT Code": "EBILAEADGAL",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1587,8 +1587,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "FIN",
     "SWIFT Code": "EBILAEADFIN",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1600,8 +1600,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "TFS",
     "SWIFT Code": "EBILAEADTFS",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1613,8 +1613,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "EBILAEAD",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1626,8 +1626,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "JAZ",
     "SWIFT Code": "EBILAEADJAZ",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1639,8 +1639,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "JUM",
     "SWIFT Code": "EBILAEADJUM",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1652,8 +1652,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "KAM",
     "SWIFT Code": "EBILAEADKAM",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1665,8 +1665,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "QID",
     "SWIFT Code": "EBILAEADQID",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1678,8 +1678,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBIL",
-    "bankCode": "AE",
+    "bankCode": "EBIL",
+    "countryCode": "AE",
     "branchCode": "SAT",
     "SWIFT Code": "EBILAEADSAT",
     "Bank Name": "EMIRATES NBD BANK PJSC",
@@ -1691,8 +1691,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EMRG",
-    "bankCode": "AE",
+    "bankCode": "EMRG",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "EMRGAEAD",
     "Bank Name": "EMRGO (DIFC) LTD",
@@ -1704,8 +1704,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETIH",
-    "bankCode": "AE",
+    "bankCode": "ETIH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ETIHAEAD",
     "Bank Name": "ETIHAD AIRWAYS",
@@ -1717,8 +1717,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FHOU",
-    "bankCode": "AE",
+    "bankCode": "FHOU",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "FHOUAEAD",
     "Bank Name": "FINANCE HOUSE L.L.C.",
@@ -1730,8 +1730,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "EAB",
     "SWIFT Code": "NBADAEAB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1743,8 +1743,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGBM",
-    "bankCode": "AE",
+    "bankCode": "FGBM",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "FGBMAEAA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1756,8 +1756,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "NBADAEAA",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1769,8 +1769,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AML",
     "SWIFT Code": "NBADAEAAAML",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1782,8 +1782,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "DEF",
     "SWIFT Code": "NBADAEAADEF",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1795,8 +1795,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "MIR",
     "SWIFT Code": "NBADAEAAMIR",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1808,8 +1808,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "MUR",
     "SWIFT Code": "NBADAEAAMUR",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1821,8 +1821,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "RUW",
     "SWIFT Code": "NBADAEAARUW",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1834,8 +1834,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SLM",
     "SWIFT Code": "NBADAEAASLM",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1847,8 +1847,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "SHB",
     "SWIFT Code": "NBADAEAASHB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1860,8 +1860,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AGO",
     "SWIFT Code": "NBADAEAAAGO",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1873,8 +1873,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "AMG",
     "SWIFT Code": "NBADAEAAAMG",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1886,8 +1886,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "BAN",
     "SWIFT Code": "NBADAEAABAN",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1899,8 +1899,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "BAT",
     "SWIFT Code": "NBADAEAABAT",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1912,8 +1912,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "BTB",
     "SWIFT Code": "NBADAEAABTB",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1925,8 +1925,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "AE",
+    "bankCode": "NBAD",
+    "countryCode": "AE",
     "branchCode": "CSU",
     "SWIFT Code": "NBADAEAACSU",
     "Bank Name": "FIRST ABU DHABI BANK PJSC",
@@ -1938,8 +1938,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOLU",
-    "bankCode": "AE",
+    "bankCode": "MOLU",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "MOLUAEA2",
     "Bank Name": "3S MONEY CLUB LIMITED",
@@ -1951,8 +1951,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIFP",
-    "bankCode": "AE",
+    "bankCode": "AIFP",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AIFPAEAD",
     "Bank Name": "AAFAQ ISLAMIC FINANCE P.S.C.",
@@ -1964,8 +1964,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AARP",
-    "bankCode": "AE",
+    "bankCode": "AARP",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "AARPAEAA",
     "Bank Name": "AARNA CAPITAL LIMITED",
@@ -1977,8 +1977,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADCBAEAA",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -1990,8 +1990,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "CMD",
     "SWIFT Code": "ADCBAEAACMD",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -2003,8 +2003,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "FIN",
     "SWIFT Code": "ADCBAEAAFIN",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -2016,8 +2016,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "REM",
     "SWIFT Code": "ADCBAEAAREM",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -2029,8 +2029,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "TRY",
     "SWIFT Code": "ADCBAEAATRY",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -2042,8 +2042,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "WMO",
     "SWIFT Code": "ADCBAEAAWMO",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -2055,8 +2055,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCB",
-    "bankCode": "AE",
+    "bankCode": "ADCB",
+    "countryCode": "AE",
     "branchCode": "060",
     "SWIFT Code": "ADCBAEAA060",
     "Bank Name": "ABU DHABI COMMERCIAL BANK",
@@ -2068,8 +2068,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADFD",
-    "bankCode": "AE",
+    "bankCode": "ADFD",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADFDAEAA",
     "Bank Name": "ABU DHABI FUND FOR DEVELOPMENT",
@@ -2081,8 +2081,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADIN",
-    "bankCode": "AE",
+    "bankCode": "ADIN",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADINAEAA",
     "Bank Name": "ABU DHABI INVESTMENT AUTHORITY",
@@ -2094,8 +2094,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCN",
-    "bankCode": "AE",
+    "bankCode": "ADCN",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADCNAEAA",
     "Bank Name": "ABU DHABI INVESTMENT COUNCIL COMPANY PJSC",
@@ -2107,8 +2107,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADCN",
-    "bankCode": "AE",
+    "bankCode": "ADCN",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ADCNAEAD",
     "Bank Name": "ABU DHABI INVESTMENT COUNCIL COMPANY PJSC",
@@ -2120,8 +2120,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABDI",
-    "bankCode": "AE",
+    "bankCode": "ABDI",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ABDIAEAD",
     "Bank Name": "ABU DHABI ISLAMIC BANK",
@@ -2133,8 +2133,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABDI",
-    "bankCode": "AE",
+    "bankCode": "ABDI",
+    "countryCode": "AE",
     "branchCode": "DOC",
     "SWIFT Code": "ABDIAEADDOC",
     "Bank Name": "ABU DHABI ISLAMIC BANK",
@@ -2146,8 +2146,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABDI",
-    "bankCode": "AE",
+    "bankCode": "ABDI",
+    "countryCode": "AE",
     "branchCode": "TMK",
     "SWIFT Code": "ABDIAEADTMK",
     "Bank Name": "ABU DHABI ISLAMIC BANK",
@@ -2159,8 +2159,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMMC",
-    "bankCode": "AE",
+    "bankCode": "AMMC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AMMCAEAD",
     "Bank Name": "ACM LIMITED",
@@ -2172,8 +2172,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGLI",
-    "bankCode": "AE",
+    "bankCode": "AGLI",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "AGLIAEAA",
     "Bank Name": "AD GLOBAL INVESTORS LIMITED",
@@ -2185,8 +2185,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADGT",
-    "bankCode": "AE",
+    "bankCode": "ADGT",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADGTAEAA",
     "Bank Name": "ADNOC GLOBAL TRADING LTD",
@@ -2198,8 +2198,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADNC",
-    "bankCode": "AE",
+    "bankCode": "ADNC",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ADNCAEAA",
     "Bank Name": "ADNOC TRADING LTD",
@@ -2211,8 +2211,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "AE",
+    "bankCode": "ABOC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ABOCAEAD",
     "Bank Name": "AGRICULTURAL BANK OF CHINA (DIFC BRANCH)",
@@ -2224,8 +2224,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABOC",
-    "bankCode": "AE",
+    "bankCode": "ABOC",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ABOCAEAA",
     "Bank Name": "AGRICULTURAL BANK OF CHINA(DUBAI BRANCH)",
@@ -2237,8 +2237,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AUBB",
-    "bankCode": "AE",
+    "bankCode": "AUBB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AUBBAEAD",
     "Bank Name": "AHLI UNITED BANK B.S.C.(C) (DIFC BRANCH)",
@@ -2250,8 +2250,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIRG",
-    "bankCode": "AE",
+    "bankCode": "AIRG",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AIRGAEAD",
     "Bank Name": "AIR GROUP VENTURES LIMITED",
@@ -2263,8 +2263,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AJMN",
-    "bankCode": "AE",
+    "bankCode": "AJMN",
+    "countryCode": "AE",
     "branchCode": "EAJ",
     "SWIFT Code": "AJMNAEAJ",
     "Bank Name": "AJMAN BANK PJSC",
@@ -2276,8 +2276,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKK",
-    "bankCode": "AE",
+    "bankCode": "ABKK",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ABKKAEAA",
     "Bank Name": "AL AHLI BANK OF KUWAIT K.S.C.P, ABUDHABI BRANCH",
@@ -2289,8 +2289,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKK",
-    "bankCode": "AE",
+    "bankCode": "ABKK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ABKKAEAD",
     "Bank Name": "AL AHLI BANK OF KUWAIT K.S.C.P, DUBAI BRANCH",
@@ -2302,8 +2302,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABKK",
-    "bankCode": "AE",
+    "bankCode": "ABKK",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "ABKKAEA2",
     "Bank Name": "AL AHLI BANK OF KUWAIT K.S.CP (DIFC BRANCH)",
@@ -2315,8 +2315,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALAN",
-    "bankCode": "AE",
+    "bankCode": "ALAN",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ALANAEAA",
     "Bank Name": "AL ANSARI EXCHANGE LLC",
@@ -2328,8 +2328,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADAH",
-    "bankCode": "AE",
+    "bankCode": "ADAH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ADAHAEAD",
     "Bank Name": "AL DAHRA",
@@ -2341,8 +2341,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DAEU",
-    "bankCode": "AE",
+    "bankCode": "DAEU",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "DAEUAEA2",
     "Bank Name": "AL DAMAN SECURITIES",
@@ -2354,8 +2354,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEPC",
-    "bankCode": "AE",
+    "bankCode": "AEPC",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "AEPCAEAA",
     "Bank Name": "AL ETIHAD PAYMENTS COMPANY - SOLE PROPRIETORSHIP L.L.C.",
@@ -2367,8 +2367,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FEXE",
-    "bankCode": "AE",
+    "bankCode": "FEXE",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "FEXEAEAA",
     "Bank Name": "AL FARDAN EXCHANGE LLC",
@@ -2380,8 +2380,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLAL",
-    "bankCode": "AE",
+    "bankCode": "HLAL",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "HLALAEAA",
     "Bank Name": "AL HILAL BANK PJSC",
@@ -2393,8 +2393,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LICO",
-    "bankCode": "AE",
+    "bankCode": "LICO",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "LICOAEAD",
     "Bank Name": "AL KHALIJI FRANCE S.A.",
@@ -2406,8 +2406,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMCX",
-    "bankCode": "AE",
+    "bankCode": "AMCX",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "AMCXAEAA",
     "Bank Name": "AL MAL CAPITAL PSC",
@@ -2419,8 +2419,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCAR",
-    "bankCode": "AE",
+    "bankCode": "TCAR",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "TCARAEAD",
     "Bank Name": "AL ROSTAMANI INTERNATIONAL EXCHANGE L.L.C.",
@@ -2432,8 +2432,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AENC",
-    "bankCode": "AE",
+    "bankCode": "AENC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AENCAEAD",
     "Bank Name": "ALEC ENGINEERING AND CONTRACTING",
@@ -2445,8 +2445,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALEH",
-    "bankCode": "AE",
+    "bankCode": "ALEH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ALEHAEAD",
     "Bank Name": "ALFA EXCHANGE",
@@ -2458,8 +2458,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFX",
-    "bankCode": "AE",
+    "bankCode": "ALFX",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ALFXAEAD",
     "Bank Name": "ALFUAD EXCHANGE",
@@ -2471,8 +2471,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALKC",
-    "bankCode": "AE",
+    "bankCode": "ALKC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ALKCAEAD",
     "Bank Name": "ALKHAIR CAPITAL (DUBAI) LTD",
@@ -2484,8 +2484,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANGT",
-    "bankCode": "AE",
+    "bankCode": "ANGT",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ANGTAEAD",
     "Bank Name": "ANGLO-GULF TRADE BANK",
@@ -2497,8 +2497,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AICR",
-    "bankCode": "AE",
+    "bankCode": "AICR",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "AICRAEA2",
     "Bank Name": "APAC INTERNATIONAL CORPORATE SERVICES FZCO",
@@ -2510,8 +2510,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFZO",
-    "bankCode": "AE",
+    "bankCode": "AFZO",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AFZOAEAD",
     "Bank Name": "APPAREL FZCO",
@@ -2523,8 +2523,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "AE",
+    "bankCode": "ARAI",
+    "countryCode": "AE",
     "branchCode": "AUH",
     "SWIFT Code": "ARAIAEADAUH",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2536,8 +2536,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAI",
-    "bankCode": "AE",
+    "bankCode": "ARAI",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ARAIAEAD",
     "Bank Name": "ARAB AFRICAN INTERNATIONAL BANK",
@@ -2549,8 +2549,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIN",
-    "bankCode": "AE",
+    "bankCode": "ABIN",
+    "countryCode": "AE",
     "branchCode": "SUK",
     "SWIFT Code": "ABINAEAASUK",
     "Bank Name": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
@@ -2562,8 +2562,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIN",
-    "bankCode": "AE",
+    "bankCode": "ABIN",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ABINAEAA",
     "Bank Name": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
@@ -2575,8 +2575,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIN",
-    "bankCode": "AE",
+    "bankCode": "ABIN",
+    "countryCode": "AE",
     "branchCode": "TFS",
     "SWIFT Code": "ABINAEAATFS",
     "Bank Name": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
@@ -2588,8 +2588,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOEX",
-    "bankCode": "AE",
+    "bankCode": "JOEX",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "JOEXAEAD",
     "Bank Name": "JOYALUKKAS EXCHANGE",
@@ -2601,8 +2601,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOEX",
-    "bankCode": "AE",
+    "bankCode": "KOEX",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "KOEXAEAD",
     "Bank Name": "KEB HANA BANK ABUDHABI BRANCH",
@@ -2614,8 +2614,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KKBK",
-    "bankCode": "AE",
+    "bankCode": "KKBK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "KKBKAEAD",
     "Bank Name": "KOTAK MAHINDRA BANK LIMITED",
@@ -2627,8 +2627,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBOE",
-    "bankCode": "AE",
+    "bankCode": "LBOE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "LBOEAEAD",
     "Bank Name": "LANDMARK BUSINESS SOLUTIONS FZE",
@@ -2640,8 +2640,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LANR",
-    "bankCode": "AE",
+    "bankCode": "LANR",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "LANRAEAD",
     "Bank Name": "LANDMARK RETAIL LIMITED",
@@ -2653,8 +2653,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LAEE",
-    "bankCode": "AE",
+    "bankCode": "LAEE",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "LAEEAEAA",
     "Bank Name": "LARI EXCHANGE",
@@ -2666,8 +2666,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LULU",
-    "bankCode": "AE",
+    "bankCode": "LULU",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "LULUAEAD",
     "Bank Name": "LULU INTERNATIONAL EXCHANGE",
@@ -2679,8 +2679,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAFH",
-    "bankCode": "AE",
+    "bankCode": "MAFH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MAFHAEAD",
     "Bank Name": "MAJID AL FUTTAIM HOLDING LLC",
@@ -2692,8 +2692,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUBD",
-    "bankCode": "AE",
+    "bankCode": "MUBD",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "MUBDAEAA",
     "Bank Name": "MAMOURA DIVERSIFIED GLOBAL HOLDING P.J.S.C.",
@@ -2705,8 +2705,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUBD",
-    "bankCode": "AE",
+    "bankCode": "MUBD",
+    "countryCode": "AE",
     "branchCode": "IPC",
     "SWIFT Code": "MUBDAEAAIPC",
     "Bank Name": "MAMOURA DIVERSIFIED GLOBAL HOLDING P.J.S.C.",
@@ -2718,8 +2718,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BOMLAEAD",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2731,8 +2731,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "GTS",
     "SWIFT Code": "BOMLAEADGTS",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2744,8 +2744,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "CSU",
     "SWIFT Code": "BOMLAEADCSU",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2757,8 +2757,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "EBC",
     "SWIFT Code": "BOMLAEADEBC",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2770,8 +2770,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "FTC",
     "SWIFT Code": "BOMLAEADFTC",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2783,8 +2783,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "HDO",
     "SWIFT Code": "BOMLAEADHDO",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2796,8 +2796,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "RAM",
     "SWIFT Code": "BOMLAEADRAM",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2809,8 +2809,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "TID",
     "SWIFT Code": "BOMLAEADTID",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2822,8 +2822,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOML",
-    "bankCode": "AE",
+    "bankCode": "BOML",
+    "countryCode": "AE",
     "branchCode": "WOC",
     "SWIFT Code": "BOMLAEADWOC",
     "Bank Name": "MASHREQBANK PSC.",
@@ -2835,8 +2835,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MUCB",
-    "bankCode": "AE",
+    "bankCode": "MUCB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MUCBAEAD",
     "Bank Name": "MCB BANK LIMITED",
@@ -2848,8 +2848,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDCB",
-    "bankCode": "AE",
+    "bankCode": "MDCB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "MDCBAEAA",
     "Bank Name": "MDC BUSINESS MANAGEMENT SERVICES LLC",
@@ -2861,8 +2861,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDCG",
-    "bankCode": "AE",
+    "bankCode": "MDCG",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "MDCGAEAA",
     "Bank Name": "MDC CAPITAL MANAGEMENT (RS) LIMITED",
@@ -2874,8 +2874,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIOB",
-    "bankCode": "AE",
+    "bankCode": "MIOB",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "MIOBAEA2",
     "Bank Name": "MEM IMPERIAL COMMERCIAL BROKERS LLC",
@@ -2887,8 +2887,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEHL",
-    "bankCode": "AE",
+    "bankCode": "MEHL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MEHLAEAD",
     "Bank Name": "MERAAS HOLDING LLC",
@@ -2900,8 +2900,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIEH",
-    "bankCode": "AE",
+    "bankCode": "MIEH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MIEHAEAD",
     "Bank Name": "MESRKANLOO INTERNATIONAL EXCHANGE",
@@ -2913,8 +2913,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDV",
-    "bankCode": "AE",
+    "bankCode": "MIDV",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "MIDVAEAA",
     "Bank Name": "MIDIS SERVICES FZ-LLC",
@@ -2926,8 +2926,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRA",
-    "bankCode": "AE",
+    "bankCode": "MIRA",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MIRAAEAD",
     "Bank Name": "MIRABAUD (MIDDLE EAST) LIMITED",
@@ -2939,8 +2939,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOGH",
-    "bankCode": "AE",
+    "bankCode": "MOGH",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "MOGHAEAA",
     "Bank Name": "MUBADALA ENERGY HOLDING COMPANY LLC",
@@ -2952,8 +2952,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "AE",
+    "bankCode": "BOTK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BOTKAEAD",
     "Bank Name": "MUFG BANK, LTD. DIFC BRANCH - DUBAI",
@@ -2965,8 +2965,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MULX",
-    "bankCode": "AE",
+    "bankCode": "MULX",
+    "countryCode": "AE",
     "branchCode": "EAE",
     "SWIFT Code": "MULXAEAE",
     "Bank Name": "MULTINET TRUST EXCHANGE",
@@ -2978,8 +2978,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIFX",
-    "bankCode": "AE",
+    "bankCode": "DIFX",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "DIFXAEAA",
     "Bank Name": "NASDAQ DUBAI LIMITED",
@@ -2991,8 +2991,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "AE",
+    "bankCode": "NBOB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "NBOBAEAA",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -3004,8 +3004,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOB",
-    "bankCode": "AE",
+    "bankCode": "NBOB",
+    "countryCode": "AE",
     "branchCode": "TOP",
     "SWIFT Code": "NBOBAEAATOP",
     "Bank Name": "NATIONAL BANK OF BAHRAIN",
@@ -3017,8 +3017,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "AE",
+    "bankCode": "NBFU",
+    "countryCode": "AE",
     "branchCode": "AUH",
     "SWIFT Code": "NBFUAEAFAUH",
     "Bank Name": "NATIONAL BANK OF FUJAIRAH",
@@ -3030,8 +3030,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "AE",
+    "bankCode": "NBFU",
+    "countryCode": "AE",
     "branchCode": "DXB",
     "SWIFT Code": "NBFUAEAFDXB",
     "Bank Name": "NATIONAL BANK OF FUJAIRAH",
@@ -3043,8 +3043,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "AE",
+    "bankCode": "NBFU",
+    "countryCode": "AE",
     "branchCode": "JBA",
     "SWIFT Code": "NBFUAEAFJBA",
     "Bank Name": "NATIONAL BANK OF FUJAIRAH",
@@ -3056,8 +3056,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "AE",
+    "bankCode": "NBFU",
+    "countryCode": "AE",
     "branchCode": "EAF",
     "SWIFT Code": "NBFUAEAF",
     "Bank Name": "NATIONAL BANK OF FUJAIRAH",
@@ -3069,8 +3069,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "AE",
+    "bankCode": "NBFU",
+    "countryCode": "AE",
     "branchCode": "FUJ",
     "SWIFT Code": "NBFUAEAFFUJ",
     "Bank Name": "NATIONAL BANK OF FUJAIRAH",
@@ -3082,8 +3082,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBFU",
-    "bankCode": "AE",
+    "bankCode": "NBFU",
+    "countryCode": "AE",
     "branchCode": "SHJ",
     "SWIFT Code": "NBFUAEAFSHJ",
     "Bank Name": "NATIONAL BANK OF FUJAIRAH",
@@ -3095,8 +3095,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOK",
-    "bankCode": "AE",
+    "bankCode": "NBOK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "NBOKAEAD",
     "Bank Name": "NATIONAL BANK OF KUWAIT (S.A.K.).",
@@ -3108,8 +3108,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBOM",
-    "bankCode": "AE",
+    "bankCode": "NBOM",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "NBOMAEAD",
     "Bank Name": "NATIONAL BANK OF OMAN (S.A.O.G)",
@@ -3121,8 +3121,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NRAK",
-    "bankCode": "AE",
+    "bankCode": "NRAK",
+    "countryCode": "AE",
     "branchCode": "EAK",
     "SWIFT Code": "NRAKAEAK",
     "Bank Name": "NATIONAL BANK OF RAS AL-KHAIMAH, THE",
@@ -3134,8 +3134,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMMQ",
-    "bankCode": "AE",
+    "bankCode": "UMMQ",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "UMMQAEAD",
     "Bank Name": "NATIONAL BANK OF UMM AL QAIWAIN PSC.",
@@ -3147,8 +3147,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMMQ",
-    "bankCode": "AE",
+    "bankCode": "UMMQ",
+    "countryCode": "AE",
     "branchCode": "FXD",
     "SWIFT Code": "UMMQAEADFXD",
     "Bank Name": "NATIONAL BANK OF UMM AL QAIWAIN PSC.",
@@ -3160,8 +3160,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "AE",
+    "bankCode": "NATX",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "NATXAEAD",
     "Bank Name": "NATIXIS DUBAI",
@@ -3173,8 +3173,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOON",
-    "bankCode": "AE",
+    "bankCode": "NOON",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "NOONAEAD",
     "Bank Name": "NOON.COM",
@@ -3186,8 +3186,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OILB",
-    "bankCode": "AE",
+    "bankCode": "OILB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "OILBAEAD",
     "Bank Name": "OLA ENERGY SERVICES DMCC",
@@ -3199,8 +3199,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OFHL",
-    "bankCode": "AE",
+    "bankCode": "OFHL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "OFHLAEAD",
     "Bank Name": "ONE FOODS HOLDINGS LIMITED",
@@ -3212,8 +3212,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OECO",
-    "bankCode": "AE",
+    "bankCode": "OECO",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "OECOAEAD",
     "Bank Name": "ORIENT EXCHANGE CO.(L.L.C.)",
@@ -3225,8 +3225,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCFI",
-    "bankCode": "AE",
+    "bankCode": "PCFI",
+    "countryCode": "AE",
     "branchCode": "EAB",
     "SWIFT Code": "PCFIAEAB",
     "Bank Name": "PROMETHEUS CAPITAL FINANCE LIMITED",
@@ -3238,8 +3238,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUNB",
-    "bankCode": "AE",
+    "bankCode": "PUNB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "PUNBAEAD",
     "Bank Name": "PUNJAB NATIONAL BANK",
@@ -3251,8 +3251,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAEC",
-    "bankCode": "AE",
+    "bankCode": "RAEC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "RAECAEAD",
     "Bank Name": "REDHA AL ANSARI EXCHANGE",
@@ -3264,8 +3264,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REYL",
-    "bankCode": "AE",
+    "bankCode": "REYL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "REYLAEAD",
     "Bank Name": "REYL FINANCE (MEA) LTD",
@@ -3277,8 +3277,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REYL",
-    "bankCode": "AE",
+    "bankCode": "REYL",
+    "countryCode": "AE",
     "branchCode": "IFC",
     "SWIFT Code": "REYLAEADIFC",
     "Bank Name": "REYL FINANCE (MEA) LTD",
@@ -3290,8 +3290,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SEHL",
-    "bankCode": "AE",
+    "bankCode": "SEHL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SEHLAEAD",
     "Bank Name": "SEDDIQI HOLDING (L.L.C)",
@@ -3303,8 +3303,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSH",
-    "bankCode": "AE",
+    "bankCode": "NBSH",
+    "countryCode": "AE",
     "branchCode": "EAS",
     "SWIFT Code": "NBSHAEAS",
     "Bank Name": "SHARJAH ISLAMIC BANK",
@@ -3316,8 +3316,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHBK",
-    "bankCode": "AE",
+    "bankCode": "SHBK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SHBKAEAD",
     "Bank Name": "SHINHAN BANK CO LTD. DUBAI BRANCH",
@@ -3329,8 +3329,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHCP",
-    "bankCode": "AE",
+    "bankCode": "SHCP",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SHCPAEAD",
     "Bank Name": "SHUAA CAPITAL PSC",
@@ -3342,8 +3342,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SFBL",
-    "bankCode": "AE",
+    "bankCode": "SFBL",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "SFBLAEA2",
     "Bank Name": "SICO FINANCIAL BROKERAGE L.L.C.",
@@ -3355,8 +3355,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRAJ",
-    "bankCode": "AE",
+    "bankCode": "SRAJ",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "SRAJAEAA",
     "Bank Name": "SIRAJ FINANCE PJSC",
@@ -3368,8 +3368,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "AE",
+    "bankCode": "SOGE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SOGEAEAD",
     "Bank Name": "SOCIETE GENERALE DIFC BRANCH",
@@ -3381,8 +3381,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AE",
+    "bankCode": "SCBL",
+    "countryCode": "AE",
     "branchCode": "ABD",
     "SWIFT Code": "SCBLAEADABD",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -3394,8 +3394,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AE",
+    "bankCode": "SCBL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SCBLAEAD",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -3407,8 +3407,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AE",
+    "bankCode": "SCBL",
+    "countryCode": "AE",
     "branchCode": "DIF",
     "SWIFT Code": "SCBLAEADDIF",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -3420,8 +3420,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "AE",
+    "bankCode": "SCBL",
+    "countryCode": "AE",
     "branchCode": "WMO",
     "SWIFT Code": "SCBLAEADWMO",
     "Bank Name": "STANDARD CHARTERED BANK",
@@ -3433,8 +3433,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "AE",
+    "bankCode": "SBIN",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SBINAEAD",
     "Bank Name": "STATE BANK OF INDIA",
@@ -3446,8 +3446,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "AE",
+    "bankCode": "SMBC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SMBCAEAD",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -3459,8 +3459,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TIBI",
-    "bankCode": "AE",
+    "bankCode": "TIBI",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "TIBIAEAD",
     "Bank Name": "TABARAK INVESTMENT CAPITAL LIMITED",
@@ -3472,8 +3472,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMB",
-    "bankCode": "AE",
+    "bankCode": "SAMB",
+    "countryCode": "AE",
     "branchCode": "EAC",
     "SWIFT Code": "SAMBAEAC",
     "Bank Name": "THE SAUDI NATIONAL BANK (DIFC BRANCH)",
@@ -3485,8 +3485,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMB",
-    "bankCode": "AE",
+    "bankCode": "SAMB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "SAMBAEAD",
     "Bank Name": "THE SAUDI NATIONAL BANK (DUBAI BRANCH)",
@@ -3498,8 +3498,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCTL",
-    "bankCode": "AE",
+    "bankCode": "TCTL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "TCTLAEAD",
     "Bank Name": "TRADE CAPITAL LLC",
@@ -3511,8 +3511,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRWI",
-    "bankCode": "AE",
+    "bankCode": "TRWI",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "TRWIAEA2",
     "Bank Name": "TRANSFERWISE NUQUD LTD",
@@ -3524,8 +3524,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USHL",
-    "bankCode": "AE",
+    "bankCode": "USHL",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "USHLAEA2",
     "Bank Name": "U S H GENERAL TRADING CO. L.L.C",
@@ -3537,8 +3537,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "USHL",
-    "bankCode": "AE",
+    "bankCode": "USHL",
+    "countryCode": "AE",
     "branchCode": "NBD",
     "SWIFT Code": "USHLAEA2NBD",
     "Bank Name": "U S H GENERAL TRADING CO. L.L.C",
@@ -3550,8 +3550,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UAEX",
-    "bankCode": "AE",
+    "bankCode": "UAEX",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "UAEXAEAA",
     "Bank Name": "U.A.E. EXCHANGE CENTER LLC",
@@ -3563,8 +3563,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNTR",
-    "bankCode": "AE",
+    "bankCode": "UNTR",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "UNTRAEAD",
     "Bank Name": "UNATRAC HOLDING LIMITED",
@@ -3576,8 +3576,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBIN",
-    "bankCode": "AE",
+    "bankCode": "UBIN",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "UBINAEAD",
     "Bank Name": "UNION BANK OF INDIA DIFC BRANCH",
@@ -3589,8 +3589,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UARB",
-    "bankCode": "AE",
+    "bankCode": "UARB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "UARBAEAA",
     "Bank Name": "UNITED ARAB BANK",
@@ -3602,8 +3602,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "AE",
+    "bankCode": "UNIL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "UNILAEAD",
     "Bank Name": "UNITED BANK LTD.",
@@ -3615,8 +3615,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "AE",
+    "bankCode": "UNIL",
+    "countryCode": "AE",
     "branchCode": "CPU",
     "SWIFT Code": "UNILAEADCPU",
     "Bank Name": "UNITED BANK LTD.",
@@ -3628,8 +3628,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "AE",
+    "bankCode": "UNIL",
+    "countryCode": "AE",
     "branchCode": "TFC",
     "SWIFT Code": "UNILAEADTFC",
     "Bank Name": "UNITED BANK LTD.",
@@ -3641,8 +3641,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNIL",
-    "bankCode": "AE",
+    "bankCode": "UNIL",
+    "countryCode": "AE",
     "branchCode": "TRY",
     "SWIFT Code": "UNILAEADTRY",
     "Bank Name": "UNITED BANK LTD.",
@@ -3654,8 +3654,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UECE",
-    "bankCode": "AE",
+    "bankCode": "UECE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "UECEAEAD",
     "Bank Name": "UNIVERSAL EXCHANGE CENTER",
@@ -3667,8 +3667,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WSEE",
-    "bankCode": "AE",
+    "bankCode": "WSEE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "WSEEAEAD",
     "Bank Name": "WALL STREET EXCHANGE CENTRE LLC",
@@ -3680,8 +3680,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WEBL",
-    "bankCode": "AE",
+    "bankCode": "WEBL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "WEBLAEAD",
     "Bank Name": "WEBBEDS",
@@ -3693,8 +3693,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIOB",
-    "bankCode": "AE",
+    "bankCode": "WIOB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "WIOBAEAD",
     "Bank Name": "WIO BANK P.J.S.C.",
@@ -3706,8 +3706,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HVBK",
-    "bankCode": "AE",
+    "bankCode": "HVBK",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "HVBKAEAD",
     "Bank Name": "WOORI BANK DUBAI BRANCH",
@@ -3719,8 +3719,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WIVP",
-    "bankCode": "AE",
+    "bankCode": "WIVP",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "WIVPAEAA",
     "Bank Name": "WORLD INVESTMENTS PSC",
@@ -3732,8 +3732,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WWCE",
-    "bankCode": "AE",
+    "bankCode": "WWCE",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "WWCEAEAA",
     "Bank Name": "WORLDWIDE CASH EXPRESS LIMITED",
@@ -3745,8 +3745,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXMS",
-    "bankCode": "AE",
+    "bankCode": "EXMS",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "EXMSAEAA",
     "Bank Name": "XPRESS MONEY SERVICES LIMITED",
@@ -3758,8 +3758,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAND",
-    "bankCode": "AE",
+    "bankCode": "ZAND",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ZANDAEAA",
     "Bank Name": "ZAND BANK P.J.S.C.",
@@ -3771,8 +3771,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZAND",
-    "bankCode": "AE",
+    "bankCode": "ZAND",
+    "countryCode": "AE",
     "branchCode": "008",
     "SWIFT Code": "ZANDAEAA008",
     "Bank Name": "ZAND BANK P.J.S.C.",
@@ -3784,8 +3784,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIN",
-    "bankCode": "AE",
+    "bankCode": "ABIN",
+    "countryCode": "AE",
     "branchCode": "AIN",
     "SWIFT Code": "ABINAEAAAIN",
     "Bank Name": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
@@ -3797,8 +3797,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIN",
-    "bankCode": "AE",
+    "bankCode": "ABIN",
+    "countryCode": "AE",
     "branchCode": "DXB",
     "SWIFT Code": "ABINAEAADXB",
     "Bank Name": "ARAB BANK FOR INVESTMENT AND FOREIGN TRADE",
@@ -3810,8 +3810,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "ABD",
     "SWIFT Code": "ARABAEADABD",
     "Bank Name": "ARAB BANK PLC",
@@ -3823,8 +3823,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "ABC",
     "SWIFT Code": "ARABAEADABC",
     "Bank Name": "ARAB BANK PLC",
@@ -3836,8 +3836,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "AJM",
     "SWIFT Code": "ARABAEADAJM",
     "Bank Name": "ARAB BANK PLC",
@@ -3849,8 +3849,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "AIN",
     "SWIFT Code": "ARABAEADAIN",
     "Bank Name": "ARAB BANK PLC",
@@ -3862,8 +3862,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ARABAEAD",
     "Bank Name": "ARAB BANK PLC",
@@ -3875,8 +3875,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "CTU",
     "SWIFT Code": "ARABAEADCTU",
     "Bank Name": "ARAB BANK PLC",
@@ -3888,8 +3888,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "DER",
     "SWIFT Code": "ARABAEADDER",
     "Bank Name": "ARAB BANK PLC",
@@ -3901,8 +3901,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "MAK",
     "SWIFT Code": "ARABAEADMAK",
     "Bank Name": "ARAB BANK PLC",
@@ -3914,8 +3914,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "FTC",
     "SWIFT Code": "ARABAEADFTC",
     "Bank Name": "ARAB BANK PLC",
@@ -3927,8 +3927,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "INV",
     "SWIFT Code": "ARABAEADINV",
     "Bank Name": "ARAB BANK PLC",
@@ -3940,8 +3940,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "FUJ",
     "SWIFT Code": "ARABAEADFUJ",
     "Bank Name": "ARAB BANK PLC",
@@ -3953,8 +3953,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "RAK",
     "SWIFT Code": "ARABAEADRAK",
     "Bank Name": "ARAB BANK PLC",
@@ -3966,8 +3966,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARAB",
-    "bankCode": "AE",
+    "bankCode": "ARAB",
+    "countryCode": "AE",
     "branchCode": "SHJ",
     "SWIFT Code": "ARABAEADSHJ",
     "Bank Name": "ARAB BANK PLC",
@@ -3979,8 +3979,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMF",
-    "bankCode": "AE",
+    "bankCode": "ARMF",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "ARMFAEAA",
     "Bank Name": "ARAB MONETARY FUND",
@@ -3992,8 +3992,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AROD",
-    "bankCode": "AE",
+    "bankCode": "AROD",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "ARODAEA2",
     "Bank Name": "ARAB MONETARY FUND",
@@ -4005,8 +4005,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNN",
-    "bankCode": "AE",
+    "bankCode": "BUNN",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "BUNNAEAA",
     "Bank Name": "ARAB REGIONAL PAYMENTS CLEARING AND SETTLEMENT ORGANIZATION",
@@ -4018,8 +4018,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATFP",
-    "bankCode": "AE",
+    "bankCode": "ATFP",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ATFPAEAD",
     "Bank Name": "ARAB TRADE FINANCING PROGRAM",
@@ -4031,8 +4031,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARMP",
-    "bankCode": "AE",
+    "bankCode": "ARMP",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ARMPAEAD",
     "Bank Name": "ARAMEX PJSC FINANCIAL DEPARTMENT",
@@ -4044,8 +4044,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARQM",
-    "bankCode": "AE",
+    "bankCode": "ARQM",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ARQMAEAD",
     "Bank Name": "ARQAAM CAPITAL LIMITED",
@@ -4057,8 +4057,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIS",
-    "bankCode": "AE",
+    "bankCode": "AXIS",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AXISAEAD",
     "Bank Name": "AXIS BANK LIMITED, DIFC BRANCH (REGULATED BY DFSA)",
@@ -4070,8 +4070,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZAE",
-    "bankCode": "AE",
+    "bankCode": "AZAE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AZAEAEAD",
     "Bank Name": "AZADEA HOLDING COMPANY (DIFC) LIMITED",
@@ -4083,8 +4083,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AZDI",
-    "bankCode": "AE",
+    "bankCode": "AZDI",
+    "countryCode": "AE",
     "branchCode": "EA2",
     "SWIFT Code": "AZDIAEA2",
     "Bank Name": "AZIMUT DIFC LIMITED",
@@ -4096,8 +4096,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALFH",
-    "bankCode": "AE",
+    "bankCode": "ALFH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "ALFHAEAD",
     "Bank Name": "BANK ALFALAH LIMITED (DUBAI BRANCH)",
@@ -4109,8 +4109,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "ADH",
     "SWIFT Code": "BARBAEADADH",
     "Bank Name": "BANK OF BARODA",
@@ -4122,8 +4122,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BARBAEAD",
     "Bank Name": "BANK OF BARODA",
@@ -4135,8 +4135,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "DEI",
     "SWIFT Code": "BARBAEADDEI",
     "Bank Name": "BANK OF BARODA",
@@ -4148,8 +4148,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "IFC",
     "SWIFT Code": "BARBAEADIFC",
     "Bank Name": "BANK OF BARODA",
@@ -4161,8 +4161,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "DUB",
     "SWIFT Code": "BARBAEADDUB",
     "Bank Name": "BANK OF BARODA",
@@ -4174,8 +4174,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "RAK",
     "SWIFT Code": "BARBAEADRAK",
     "Bank Name": "BANK OF BARODA",
@@ -4187,8 +4187,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "AE",
+    "bankCode": "BARB",
+    "countryCode": "AE",
     "branchCode": "SHJ",
     "SWIFT Code": "BARBAEADSHJ",
     "Bank Name": "BANK OF BARODA",
@@ -4200,8 +4200,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AE",
+    "bankCode": "BKCH",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BKCHAEAD",
     "Bank Name": "BANK OF CHINA (DUBAI) BRANCH",
@@ -4213,8 +4213,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "AE",
+    "bankCode": "BKCH",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "BKCHAEAA",
     "Bank Name": "BANK OF CHINA ABU DHABI BRANCH",
@@ -4226,8 +4226,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "AE",
+    "bankCode": "BKID",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BKIDAEAD",
     "Bank Name": "BANK OF INDIA",
@@ -4239,8 +4239,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHAR",
-    "bankCode": "AE",
+    "bankCode": "SHAR",
+    "countryCode": "AE",
     "branchCode": "EAS",
     "SWIFT Code": "SHARAEAS",
     "Bank Name": "BANK OF SHARJAH, THE",
@@ -4252,8 +4252,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEDL",
-    "bankCode": "AE",
+    "bankCode": "MEDL",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "MEDLAEAD",
     "Bank Name": "BANKMED SAL (DUBAI)",
@@ -4265,8 +4265,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLOM",
-    "bankCode": "AE",
+    "bankCode": "BLOM",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BLOMAEAD",
     "Bank Name": "BANQUE BANORIENT FRANCE",
@@ -4278,8 +4278,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMIS",
-    "bankCode": "AE",
+    "bankCode": "BMIS",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "BMISAEAA",
     "Bank Name": "BANQUE MISR",
@@ -4291,8 +4291,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBL",
-    "bankCode": "AE",
+    "bankCode": "LIBL",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "LIBLAEAA",
     "Bank Name": "BANQUE RICHELIEU GCC LIMITED",
@@ -4304,8 +4304,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIBL",
-    "bankCode": "AE",
+    "bankCode": "LIBL",
+    "countryCode": "AE",
     "branchCode": "AGM",
     "SWIFT Code": "LIBLAEAAAGM",
     "Bank Name": "BANQUE RICHELIEU GCC LIMITED",
@@ -4317,8 +4317,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "AE",
+    "bankCode": "BARC",
+    "countryCode": "AE",
     "branchCode": "ABU",
     "SWIFT Code": "BARCAEADABU",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -4330,8 +4330,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "AE",
+    "bankCode": "BARC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BARCAEAD",
     "Bank Name": "BARCLAYS BANK PLC",
@@ -4343,8 +4343,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCFC",
-    "bankCode": "AE",
+    "bankCode": "BCFC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BCFCAEAD",
     "Bank Name": "BCS CAPITAL (DIFC) LIMITED",
@@ -4356,8 +4356,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBFS",
-    "bankCode": "AE",
+    "bankCode": "DBFS",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "DBFSAEAA",
     "Bank Name": "BHM CAPITAL FINANCIAL SERVICES PSC",
@@ -4369,8 +4369,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDPS",
-    "bankCode": "AE",
+    "bankCode": "FDPS",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "FDPSAEAD",
     "Bank Name": "BLUE REWARDS SINGLE PERSON COMPANY L.L.C",
@@ -4382,8 +4382,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AE",
+    "bankCode": "BNPA",
+    "countryCode": "AE",
     "branchCode": "EAE",
     "SWIFT Code": "BNPAAEAE",
     "Bank Name": "BNP PARIBAS S.A., ADGM BRANCH",
@@ -4395,8 +4395,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AE",
+    "bankCode": "BNPA",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "BNPAAEAA",
     "Bank Name": "BNP PARIBAS, ABU DHABI",
@@ -4408,8 +4408,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "AE",
+    "bankCode": "BNPA",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BNPAAEAD",
     "Bank Name": "BNP PARIBAS, DUBAI",
@@ -4421,8 +4421,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOKM",
-    "bankCode": "AE",
+    "bankCode": "BOKM",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BOKMAEAD",
     "Bank Name": "BOK INTERNATIONAL",
@@ -4434,8 +4434,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTWM",
-    "bankCode": "AE",
+    "bankCode": "BTWM",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BTWMAEAD",
     "Bank Name": "BTA FINANCE LIMITED",
@@ -4447,8 +4447,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CNRB",
-    "bankCode": "AE",
+    "bankCode": "CNRB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "CNRBAEAD",
     "Bank Name": "CANARA BANK ( DIFC BRANCH )",
@@ -4460,8 +4460,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAU",
-    "bankCode": "AE",
+    "bankCode": "CBAU",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "CBAUAEAA",
     "Bank Name": "CENTRAL BANK OF THE U.A.E.",
@@ -4473,8 +4473,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBAU",
-    "bankCode": "AE",
+    "bankCode": "CBAU",
+    "countryCode": "AE",
     "branchCode": "EAB",
     "SWIFT Code": "CBAUAEAB",
     "Bank Name": "CENTRAL BANK OF THE UAE",
@@ -4486,8 +4486,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "AE",
+    "bankCode": "PCBC",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "PCBCAEAD",
     "Bank Name": "CHINA CONSTRUCTION BANK DIFC BRANCH",
@@ -4499,8 +4499,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIDA",
-    "bankCode": "AE",
+    "bankCode": "CIDA",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "CIDAAEAD",
     "Bank Name": "CIMD (DUBAI) LIMITED",
@@ -4512,8 +4512,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AE",
+    "bankCode": "CITI",
+    "countryCode": "AE",
     "branchCode": "EAF",
     "SWIFT Code": "CITIAEAF",
     "Bank Name": "CITIBANK N.A.",
@@ -4525,8 +4525,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AE",
+    "bankCode": "CITI",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "CITIAEAD",
     "Bank Name": "CITIBANK N.A.",
@@ -4538,8 +4538,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AE",
+    "bankCode": "CITI",
+    "countryCode": "AE",
     "branchCode": "DIF",
     "SWIFT Code": "CITIAEADDIF",
     "Bank Name": "CITIBANK N.A.",
@@ -4551,8 +4551,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AE",
+    "bankCode": "CITI",
+    "countryCode": "AE",
     "branchCode": "TRD",
     "SWIFT Code": "CITIAEADTRD",
     "Bank Name": "CITIBANK N.A.",
@@ -4564,8 +4564,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "AE",
+    "bankCode": "CITI",
+    "countryCode": "AE",
     "branchCode": "AGM",
     "SWIFT Code": "CITIAEADAGM",
     "Bank Name": "CITIBANK N.A.",
@@ -4577,8 +4577,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "AD1",
     "SWIFT Code": "CLBIAEADAD1",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4590,8 +4590,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "AN1",
     "SWIFT Code": "CLBIAEADAN1",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4603,8 +4603,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "DB1",
     "SWIFT Code": "CLBIAEADDB1",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4616,8 +4616,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "CLBIAEAD",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4629,8 +4629,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "DB2",
     "SWIFT Code": "CLBIAEADDB2",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4642,8 +4642,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "RK2",
     "SWIFT Code": "CLBIAEADRK2",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4655,8 +4655,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "RK1",
     "SWIFT Code": "CLBIAEADRK1",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4668,8 +4668,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLBI",
-    "bankCode": "AE",
+    "bankCode": "CLBI",
+    "countryCode": "AE",
     "branchCode": "SH1",
     "SWIFT Code": "CLBIAEADSH1",
     "Bank Name": "COMMERCIAL BANK INTERNATIONAL",
@@ -4681,8 +4681,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "ADH",
     "SWIFT Code": "CBDUAEADADH",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4694,8 +4694,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "AJM",
     "SWIFT Code": "CBDUAEADAJM",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4707,8 +4707,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "AIN",
     "SWIFT Code": "CBDUAEADAIN",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4720,8 +4720,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "CBDUAEAD",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4733,8 +4733,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "GAR",
     "SWIFT Code": "CBDUAEADGAR",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4746,8 +4746,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "AMS",
     "SWIFT Code": "CBDUAEADAMS",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4759,8 +4759,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "SAF",
     "SWIFT Code": "CBDUAEADSAF",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4772,8 +4772,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "DER",
     "SWIFT Code": "CBDUAEADDER",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4785,8 +4785,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "DXB",
     "SWIFT Code": "CBDUAEADDXB",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4798,8 +4798,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "JAL",
     "SWIFT Code": "CBDUAEADJAL",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4811,8 +4811,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "JUM",
     "SWIFT Code": "CBDUAEADJUM",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4824,8 +4824,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "SAW",
     "SWIFT Code": "CBDUAEADSAW",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4837,8 +4837,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "RAK",
     "SWIFT Code": "CBDUAEADRAK",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4850,8 +4850,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBDU",
-    "bankCode": "AE",
+    "bankCode": "CBDU",
+    "countryCode": "AE",
     "branchCode": "SHJ",
     "SWIFT Code": "CBDUAEADSHJ",
     "Bank Name": "COMMERCIAL BANK OF DUBAI",
@@ -4863,8 +4863,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "AE",
+    "bankCode": "BSUI",
+    "countryCode": "AE",
     "branchCode": "EAF",
     "SWIFT Code": "BSUIAEAF",
     "Bank Name": "CREDIT AGRICOLE CIB (DIFC BRANCH, REGULATED BY THEDFSA)",
@@ -4876,8 +4876,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "AE",
+    "bankCode": "BSUI",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "BSUIAEAD",
     "Bank Name": "CREDIT AGRICOLE CIB (DUBAI BRANCH)",
@@ -4889,8 +4889,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "AE",
+    "bankCode": "DBSS",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "DBSSAEAD",
     "Bank Name": "DBS BANK LTD",
@@ -4902,8 +4902,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELX",
-    "bankCode": "AE",
+    "bankCode": "DELX",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "DELXAEAA",
     "Bank Name": "DELMA EXCHANGE",
@@ -4915,8 +4915,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEPA",
-    "bankCode": "AE",
+    "bankCode": "AEPA",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "AEPAAEAD",
     "Bank Name": "DEPA PLC",
@@ -4928,8 +4928,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AE",
+    "bankCode": "DEUT",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "DEUTAEAA",
     "Bank Name": "DEUTSCHE BANK AG, ABU DHABI BRANCH",
@@ -4941,8 +4941,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "AE",
+    "bankCode": "DEUT",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "DEUTAEAD",
     "Bank Name": "DEUTSCHE SECURITIES AND SERVICES, DUBAI BRANCH",
@@ -4954,8 +4954,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHIB",
-    "bankCode": "AE",
+    "bankCode": "DHIB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "DHIBAEAA",
     "Bank Name": "DHABI LTD",
@@ -4967,8 +4967,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "AE",
+    "bankCode": "DOHB",
+    "countryCode": "AE",
     "branchCode": "ABU",
     "SWIFT Code": "DOHBAEADABU",
     "Bank Name": "DOHA BANK",
@@ -4980,8 +4980,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DOHB",
-    "bankCode": "AE",
+    "bankCode": "DOHB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "DOHBAEAD",
     "Bank Name": "DOHA BANK",
@@ -4993,8 +4993,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DGCX",
-    "bankCode": "AE",
+    "bankCode": "DGCX",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "DGCXAEAA",
     "Bank Name": "DUBAI GOLD AND COMMODITIES EXCHANGE DMCC",
@@ -5006,8 +5006,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "AE",
+    "bankCode": "DUIB",
+    "countryCode": "AE",
     "branchCode": "LCS",
     "SWIFT Code": "DUIBAEADLCS",
     "Bank Name": "DUBAI ISLAMIC BANK",
@@ -5019,8 +5019,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "AE",
+    "bankCode": "DUIB",
+    "countryCode": "AE",
     "branchCode": "DEO",
     "SWIFT Code": "DUIBAEADDEO",
     "Bank Name": "DUBAI ISLAMIC BANK",
@@ -5032,8 +5032,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "AE",
+    "bankCode": "DUIB",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "DUIBAEAD",
     "Bank Name": "DUBAI ISLAMIC BANK",
@@ -5045,8 +5045,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DUIB",
-    "bankCode": "AE",
+    "bankCode": "DUIB",
+    "countryCode": "AE",
     "branchCode": "TOS",
     "SWIFT Code": "DUIBAEADTOS",
     "Bank Name": "DUBAI ISLAMIC BANK",
@@ -5058,8 +5058,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EIFE",
-    "bankCode": "AE",
+    "bankCode": "EIFE",
+    "countryCode": "AE",
     "branchCode": "EAD",
     "SWIFT Code": "EIFEAEAD",
     "Bank Name": "ECOLOG INTERNATIONAL FZE",
@@ -5071,8 +5071,8 @@ const unitedArabEmirates = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NILB",
-    "bankCode": "AE",
+    "bankCode": "NILB",
+    "countryCode": "AE",
     "branchCode": "EAA",
     "SWIFT Code": "NILBAEAA",
     "Bank Name": "EL-NILEIN BANK",

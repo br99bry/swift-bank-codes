@@ -1,7 +1,7 @@
 const guadeloupe = [
   {
-    "countryCode": "AGRI",
-    "bankCode": "GP",
+    "bankCode": "AGRI",
+    "countryCode": "GP",
     "branchCode": "PGX",
     "SWIFT Code": "AGRIGPGX",
     "Bank Name": "CREDIT AGRICOLE",

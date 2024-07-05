@@ -1,7 +1,7 @@
 const sanMarino = [
   {
-    "countryCode": "BASM",
-    "bankCode": "SM",
+    "bankCode": "BASM",
+    "countryCode": "SM",
     "branchCode": "MSM",
     "SWIFT Code": "BASMSMSM",
     "Bank Name": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
@@ -13,8 +13,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICSM",
-    "bankCode": "SM",
+    "bankCode": "ICSM",
+    "countryCode": "SM",
     "branchCode": "MSM",
     "SWIFT Code": "ICSMSMSM",
     "Bank Name": "BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINO",
@@ -26,8 +26,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "013",
     "SWIFT Code": "MAOISMSM013",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -39,8 +39,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "010",
     "SWIFT Code": "MAOISMSM010",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -52,8 +52,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "002",
     "SWIFT Code": "MAOISMSM002",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -65,8 +65,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "003",
     "SWIFT Code": "MAOISMSM003",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -78,8 +78,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "MSM",
     "SWIFT Code": "MAOISMSM",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -91,8 +91,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "006",
     "SWIFT Code": "MAOISMSM006",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -104,8 +104,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "009",
     "SWIFT Code": "MAOISMSM009",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -117,8 +117,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "011",
     "SWIFT Code": "MAOISMSM011",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -130,8 +130,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "001",
     "SWIFT Code": "MAOISMSM001",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -143,8 +143,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAOI",
-    "bankCode": "SM",
+    "bankCode": "MAOI",
+    "countryCode": "SM",
     "branchCode": "005",
     "SWIFT Code": "MAOISMSM005",
     "Bank Name": "BANCA DI SAN MARINO SPA",
@@ -156,8 +156,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSDI",
-    "bankCode": "SM",
+    "bankCode": "BSDI",
+    "countryCode": "SM",
     "branchCode": "MSD",
     "SWIFT Code": "BSDISMSD",
     "Bank Name": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
@@ -169,8 +169,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNN",
-    "bankCode": "SM",
+    "bankCode": "BKNN",
+    "countryCode": "SM",
     "branchCode": "MSM",
     "SWIFT Code": "BKNNSMSM",
     "Bank Name": "BKN301 S.P.A.",
@@ -182,8 +182,8 @@ const sanMarino = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSSM",
-    "bankCode": "SM",
+    "bankCode": "CSSM",
+    "countryCode": "SM",
     "branchCode": "MSM",
     "SWIFT Code": "CSSMSMSM",
     "Bank Name": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",

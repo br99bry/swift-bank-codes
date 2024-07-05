@@ -1,7 +1,7 @@
 const gambia = [
   {
-    "countryCode": "ACGA",
-    "bankCode": "GM",
+    "bankCode": "ACGA",
+    "countryCode": "GM",
     "branchCode": "MGF",
     "SWIFT Code": "ACGAGMGF",
     "Bank Name": "ACCESS BANK GAMBIA",
@@ -13,8 +13,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGIX",
-    "bankCode": "GM",
+    "bankCode": "AGIX",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "AGIXGMGM",
     "Bank Name": "AGIB BANK LTD",
@@ -26,8 +26,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKYE",
-    "bankCode": "GM",
+    "bankCode": "SKYE",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "SKYEGMGM",
     "Bank Name": "BLOOM BANK AFRICA LIMITED, GAMBIA",
@@ -39,8 +39,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAH",
-    "bankCode": "GM",
+    "bankCode": "BSAH",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "BSAHGMGM",
     "Bank Name": "BSIC GAMBIA LIMITED",
@@ -52,8 +52,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBGA",
-    "bankCode": "GM",
+    "bankCode": "CBGA",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "CBGAGMGM",
     "Bank Name": "CENTRAL BANK OF THE GAMBIA",
@@ -65,8 +65,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECOC",
-    "bankCode": "GM",
+    "bankCode": "ECOC",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "ECOCGMGM",
     "Bank Name": "ECOBANK GAMBIA",
@@ -78,8 +78,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBG",
-    "bankCode": "GM",
+    "bankCode": "ICBG",
+    "countryCode": "GM",
     "branchCode": "MGS",
     "SWIFT Code": "ICBGGMGS",
     "Bank Name": "FBN BANK GAMBIA LIMITED",
@@ -91,8 +91,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIBL",
-    "bankCode": "GM",
+    "bankCode": "FIBL",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "FIBLGMGM",
     "Bank Name": "FIRST INTERNATIONAL BANK LIMITED",
@@ -104,8 +104,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTBG",
-    "bankCode": "GM",
+    "bankCode": "GTBG",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "GTBGGMGM",
     "Bank Name": "GUARANTY TRUST BANK (GAMBIA) LIMITED",
@@ -118,8 +118,8 @@ const gambia = [
   },
   {},
   {
-    "countryCode": "SCBL",
-    "bankCode": "GM",
+    "bankCode": "SCBL",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "SCBLGMGM",
     "Bank Name": "STANDARD CHARTERED BANK GAMBIA LIMITED",
@@ -131,8 +131,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBLT",
-    "bankCode": "GM",
+    "bankCode": "TBLT",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "TBLTGMGM",
     "Bank Name": "TRUST BANK LTD",
@@ -144,8 +144,8 @@ const gambia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEIB",
-    "bankCode": "GM",
+    "bankCode": "ZEIB",
+    "countryCode": "GM",
     "branchCode": "MGM",
     "SWIFT Code": "ZEIBGMGM",
     "Bank Name": "ZENITH BANK GAMBIA",

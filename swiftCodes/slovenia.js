@@ -1,7 +1,7 @@
 const slovenia = [
   {
-    "countryCode": "HAAB",
-    "bankCode": "SI",
+    "bankCode": "HAAB",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "HAABSI22",
     "Bank Name": "ADDIKO BANK D.D.",
@@ -13,8 +13,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "IND",
     "SWIFT Code": "BSLJSI2XIND",
     "Bank Name": "BANK OF SLOVENIA",
@@ -26,8 +26,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "BSLJSI2X",
     "Bank Name": "BANK OF SLOVENIA",
@@ -39,8 +39,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "ATM",
     "SWIFT Code": "BSLJSI2XATM",
     "Bank Name": "BANK OF SLOVENIA",
@@ -53,8 +53,8 @@ const slovenia = [
   },
   {},
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "IDD",
     "SWIFT Code": "BSLJSI2XIDD",
     "Bank Name": "BANK OF SLOVENIA",
@@ -66,8 +66,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "CCB",
     "SWIFT Code": "BSLJSI2XCCB",
     "Bank Name": "BANK OF SLOVENIA",
@@ -79,8 +79,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "ECM",
     "SWIFT Code": "BSLJSI2XECM",
     "Bank Name": "BANK OF SLOVENIA",
@@ -92,8 +92,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "FNB",
     "SWIFT Code": "BSLJSI2XFNB",
     "Bank Name": "BANK OF SLOVENIA",
@@ -105,8 +105,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "PAR",
     "SWIFT Code": "BSLJSI2XPAR",
     "Bank Name": "BANK OF SLOVENIA",
@@ -118,8 +118,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "PBO",
     "SWIFT Code": "BSLJSI2XPBO",
     "Bank Name": "BANK OF SLOVENIA",
@@ -131,8 +131,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "SCT",
     "SWIFT Code": "BSLJSI2XSCT",
     "Bank Name": "BANK OF SLOVENIA",
@@ -144,8 +144,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "B2B",
     "SWIFT Code": "BSLJSI2XB2B",
     "Bank Name": "BANK OF SLOVENIA",
@@ -157,8 +157,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "COR",
     "SWIFT Code": "BSLJSI2XCOR",
     "Bank Name": "BANK OF SLOVENIA",
@@ -170,8 +170,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSLJ",
-    "bankCode": "SI",
+    "bankCode": "BSLJ",
+    "countryCode": "SI",
     "branchCode": "EUX",
     "SWIFT Code": "BSLJSI2XEUX",
     "Bank Name": "BANK OF SLOVENIA",
@@ -183,8 +183,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAKO",
-    "bankCode": "SI",
+    "bankCode": "BAKO",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "BAKOSI2X",
     "Bank Name": "BANKA INTESA SANPAOLO D.D.",
@@ -196,8 +196,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAKO",
-    "bankCode": "SI",
+    "bankCode": "BAKO",
+    "countryCode": "SI",
     "branchCode": "IBO",
     "SWIFT Code": "BAKOSI2XIBO",
     "Bank Name": "BANKA INTESA SANPAOLO D.D.",
@@ -209,8 +209,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSPK",
-    "bankCode": "SI",
+    "bankCode": "KSPK",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "KSPKSI22",
     "Bank Name": "BANKA SPARKASSE D.D.",
@@ -222,8 +222,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "ATR",
     "SWIFT Code": "BKDOSI22ATR",
     "Bank Name": "BANKART D.O.O.",
@@ -235,8 +235,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "IDR",
     "SWIFT Code": "BKDOSI22IDR",
     "Bank Name": "BANKART D.O.O.",
@@ -248,8 +248,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "POS",
     "SWIFT Code": "BKDOSI22POS",
     "Bank Name": "BANKART D.O.O.",
@@ -261,8 +261,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "PGF",
     "SWIFT Code": "BKDOSI22PGF",
     "Bank Name": "BANKART D.O.O.",
@@ -274,8 +274,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "IGF",
     "SWIFT Code": "BKDOSI22IGF",
     "Bank Name": "BANKART D.O.O.",
@@ -287,8 +287,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "IDD",
     "SWIFT Code": "BKDOSI22IDD",
     "Bank Name": "BANKART D.O.O.",
@@ -300,8 +300,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "ATM",
     "SWIFT Code": "BKDOSI22ATM",
     "Bank Name": "BANKART D.O.O.",
@@ -313,8 +313,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "AGF",
     "SWIFT Code": "BKDOSI22AGF",
     "Bank Name": "BANKART D.O.O.",
@@ -326,8 +326,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "POR",
     "SWIFT Code": "BKDOSI22POR",
     "Bank Name": "BANKART D.O.O.",
@@ -339,8 +339,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKDO",
-    "bankCode": "SI",
+    "bankCode": "BKDO",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "BKDOSI22",
     "Bank Name": "BANKART D.O.O.",
@@ -352,8 +352,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFKK",
-    "bankCode": "SI",
+    "bankCode": "BFKK",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "BFKKSI22",
     "Bank Name": "BKS BANK AG, BANCNA PODRUZNICA",
@@ -365,8 +365,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDDS",
-    "bankCode": "SI",
+    "bankCode": "KDDS",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "KDDSSI22",
     "Bank Name": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
@@ -378,8 +378,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDDS",
-    "bankCode": "SI",
+    "bankCode": "KDDS",
+    "countryCode": "SI",
     "branchCode": "PB3",
     "SWIFT Code": "KDDSSI22PB3",
     "Bank Name": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
@@ -391,8 +391,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KDDS",
-    "bankCode": "SI",
+    "bankCode": "KDDS",
+    "countryCode": "SI",
     "branchCode": "T2P",
     "SWIFT Code": "KDDSSI22T2P",
     "Bank Name": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
@@ -404,8 +404,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDEL",
-    "bankCode": "SI",
+    "bankCode": "HDEL",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "HDELSI22",
     "Bank Name": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
@@ -417,8 +417,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SZKB",
-    "bankCode": "SI",
+    "bankCode": "SZKB",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "SZKBSI2X",
     "Bank Name": "DEZELNA BANKA SLOVENIJE D.D.",
@@ -430,8 +430,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEOL",
-    "bankCode": "SI",
+    "bankCode": "GEOL",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "GEOLSI22",
     "Bank Name": "GEOPLIN D.O.O. LJUBLJANA",
@@ -443,8 +443,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GORE",
-    "bankCode": "SI",
+    "bankCode": "GORE",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "GORESI2X",
     "Bank Name": "GORENJSKA BANKA D.D., KRANJ",
@@ -456,8 +456,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLON",
-    "bankCode": "SI",
+    "bankCode": "HLON",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "HLONSI22",
     "Bank Name": "HRANILNICA LON D.D.",
@@ -469,8 +469,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBMA",
-    "bankCode": "SI",
+    "bankCode": "KBMA",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "KBMASI2X",
     "Bank Name": "NOVA KREDITNA BANKA MARIBOR D.D.",
@@ -482,8 +482,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LJBA",
-    "bankCode": "SI",
+    "bankCode": "LJBA",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "LJBASI2X",
     "Bank Name": "NOVA LJUBLJANSKA BANKA D.D.",
@@ -495,8 +495,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PWSR",
-    "bankCode": "SI",
+    "bankCode": "PWSR",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "PWSRSI22",
     "Bank Name": "PAYWISER D.O.O.",
@@ -508,8 +508,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HKVI",
-    "bankCode": "SI",
+    "bankCode": "HKVI",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "HKVISI22",
     "Bank Name": "PRIMORSKA HRANILNICA VIPAVA D.D.",
@@ -521,8 +521,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIDR",
-    "bankCode": "SI",
+    "bankCode": "SIDR",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "SIDRSI22",
     "Bank Name": "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA",
@@ -534,8 +534,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKBA",
-    "bankCode": "SI",
+    "bankCode": "SKBA",
+    "countryCode": "SI",
     "branchCode": "I2X",
     "SWIFT Code": "SKBASI2X",
     "Bank Name": "SKB D.D",
@@ -547,8 +547,8 @@ const slovenia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACX",
-    "bankCode": "SI",
+    "bankCode": "BACX",
+    "countryCode": "SI",
     "branchCode": "I22",
     "SWIFT Code": "BACXSI22",
     "Bank Name": "UNICREDIT BANKA SLOVENIJA D.D.",

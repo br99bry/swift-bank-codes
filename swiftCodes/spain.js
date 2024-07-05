@@ -1,7 +1,7 @@
 const spain = [
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "SNF",
     "SWIFT Code": "IBRCESMMSNF",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -13,8 +13,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "SD1",
     "SWIFT Code": "IBRCESMMSD1",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -26,8 +26,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "AF1",
     "SWIFT Code": "IBRCESMMAF1",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -39,8 +39,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "RF2",
     "SWIFT Code": "IBRCESMMRF2",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -52,8 +52,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "RF3",
     "SWIFT Code": "IBRCESMMRF3",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -65,8 +65,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "RF1",
     "SWIFT Code": "IBRCESMMRF1",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -78,8 +78,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "RF4",
     "SWIFT Code": "IBRCESMMRF4",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -91,8 +91,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAY",
-    "bankCode": "ES",
+    "bankCode": "IPAY",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IPAYESMM",
     "Bank Name": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
@@ -104,8 +104,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAY",
-    "bankCode": "ES",
+    "bankCode": "IPAY",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "IPAYESM2",
     "Bank Name": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
@@ -117,8 +117,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAY",
-    "bankCode": "ES",
+    "bankCode": "IPAY",
+    "countryCode": "ES",
     "branchCode": "AS2",
     "SWIFT Code": "IPAYESMMAS2",
     "Bank Name": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
@@ -130,8 +130,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAY",
-    "bankCode": "ES",
+    "bankCode": "IPAY",
+    "countryCode": "ES",
     "branchCode": "GT1",
     "SWIFT Code": "IPAYESMMGT1",
     "Bank Name": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
@@ -143,8 +143,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPAY",
-    "bankCode": "ES",
+    "bankCode": "IPAY",
+    "countryCode": "ES",
     "branchCode": "AS1",
     "SWIFT Code": "IPAYESMMAS1",
     "Bank Name": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
@@ -156,8 +156,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "XBCNESBB",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -169,8 +169,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "SCL",
     "SWIFT Code": "XBCNESBBSCL",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -182,8 +182,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "ECO",
     "SWIFT Code": "XBCNESBBECO",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -195,8 +195,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "EC2",
     "SWIFT Code": "XBCNESBBEC2",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -208,8 +208,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "LRA",
     "SWIFT Code": "XBCNESBBLRA",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -221,8 +221,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "GAR",
     "SWIFT Code": "XBCNESBBGAR",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -234,8 +234,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "SGX",
     "SWIFT Code": "XBCNESBBSGX",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -247,8 +247,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "XBCN",
-    "bankCode": "ES",
+    "bankCode": "XBCN",
+    "countryCode": "ES",
     "branchCode": "SG2",
     "SWIFT Code": "XBCNESBBSG2",
     "Bank Name": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
@@ -260,8 +260,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "ES",
+    "bankCode": "SOGE",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "SOGEESMMBAR",
     "Bank Name": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
@@ -273,8 +273,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "ES",
+    "bankCode": "SOGE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SOGEESMM",
     "Bank Name": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
@@ -286,8 +286,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "ES",
+    "bankCode": "SOGE",
+    "countryCode": "ES",
     "branchCode": "CTI",
     "SWIFT Code": "SOGEESMMCTI",
     "Bank Name": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
@@ -299,8 +299,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "ES",
+    "bankCode": "SOGE",
+    "countryCode": "ES",
     "branchCode": "AGM",
     "SWIFT Code": "SOGEESMMAGM",
     "Bank Name": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
@@ -312,8 +312,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "ES",
+    "bankCode": "SOGE",
+    "countryCode": "ES",
     "branchCode": "TRA",
     "SWIFT Code": "SOGEESMMTRA",
     "Bank Name": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
@@ -325,8 +325,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOGE",
-    "bankCode": "ES",
+    "bankCode": "SOGE",
+    "countryCode": "ES",
     "branchCode": "TPS",
     "SWIFT Code": "SOGEESMMTPS",
     "Bank Name": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
@@ -338,8 +338,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOBK",
-    "bankCode": "ES",
+    "bankCode": "SOBK",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "SOBKESM2",
     "Bank Name": "SOLARISBANK AG, SUCURSAL EN ESPANA",
@@ -351,8 +351,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCLG",
-    "bankCode": "ES",
+    "bankCode": "SCLG",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "SCLGES22",
     "Bank Name": "SOLARPACK CORPORACION TECNOLOGICA SA",
@@ -364,8 +364,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPDG",
-    "bankCode": "ES",
+    "bankCode": "SPDG",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "SPDGES22",
     "Bank Name": "SOLTEC POWER HOLDINGS SA",
@@ -377,8 +377,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STHG",
-    "bankCode": "ES",
+    "bankCode": "STHG",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "STHGESBB",
     "Bank Name": "STANDARD HYDRAULICS GROUP S.L.",
@@ -390,8 +390,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SUFM",
-    "bankCode": "ES",
+    "bankCode": "SUFM",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SUFMESMM",
     "Bank Name": "SUAN FARMA S.A.",
@@ -403,8 +403,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWNB",
-    "bankCode": "ES",
+    "bankCode": "SWNB",
+    "countryCode": "ES",
     "branchCode": "SB2",
     "SWIFT Code": "SWNBESB2",
     "Bank Name": "SWAN IO SUCURSAL EN ESPANA",
@@ -416,8 +416,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGBB",
-    "bankCode": "ES",
+    "bankCode": "AGBB",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "AGBBESBB",
     "Bank Name": "SYNECTIC, TECNOLOGIAS DE LA INFORMACION SA.",
@@ -429,8 +429,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TECR",
-    "bankCode": "ES",
+    "bankCode": "TECR",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "TECRESMM",
     "Bank Name": "TECNICAS REUNIDAS",
@@ -442,8 +442,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEFE",
-    "bankCode": "ES",
+    "bankCode": "TEFE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "TEFEESMM",
     "Bank Name": "TELEFONICA, S.A.",
@@ -455,8 +455,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTFL",
-    "bankCode": "ES",
+    "bankCode": "CTFL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CTFLESMM",
     "Bank Name": "TENDAM RETAIL, S.A.",
@@ -468,8 +468,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPSG",
-    "bankCode": "ES",
+    "bankCode": "TPSG",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "TPSGESMM",
     "Bank Name": "TESORO PUBLICO-SPAIN SPANISH GOVERNMENT GOBIERNO DE ESPANA",
@@ -481,8 +481,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBFS",
-    "bankCode": "ES",
+    "bankCode": "GBFS",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "GBFSESBB",
     "Bank Name": "THE GB FOODS, S.A.",
@@ -494,8 +494,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IDSN",
-    "bankCode": "ES",
+    "bankCode": "IDSN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IDSNESMM",
     "Bank Name": "THE SIZE SURFACES S.L.U.",
@@ -507,8 +507,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCSA",
-    "bankCode": "ES",
+    "bankCode": "TCSA",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "TCSAES22",
     "Bank Name": "TOTALENERGIES CLIENTES SOCIEDAD ANONIMA",
@@ -520,8 +520,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPIS",
-    "bankCode": "ES",
+    "bankCode": "TPIS",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "TPISESBB",
     "Bank Name": "TOWA PHARMA INTERNATIONAL HOLDINGS SLU",
@@ -533,8 +533,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRZO",
-    "bankCode": "ES",
+    "bankCode": "TRZO",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "TRZOESM2",
     "Bank Name": "TREEZOR SAS, SUCURSAL EN ESPANA",
@@ -546,8 +546,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "ES",
+    "bankCode": "TRIO",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "TRIOESMM",
     "Bank Name": "TRIODOS BANK NV, SE",
@@ -559,8 +559,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "ES",
+    "bankCode": "TRIO",
+    "countryCode": "ES",
     "branchCode": "111",
     "SWIFT Code": "TRIOESMM111",
     "Bank Name": "TRIODOS BANK NV, SE",
@@ -572,8 +572,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUHS",
-    "bankCode": "ES",
+    "bankCode": "TUHS",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "TUHSES22",
     "Bank Name": "TUI HOLDING SPAIN SL",
@@ -585,8 +585,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "ES",
+    "bankCode": "UBSW",
+    "countryCode": "ES",
     "branchCode": "NPB",
     "SWIFT Code": "UBSWESMMNPB",
     "Bank Name": "UBS EUROPE SE, SUCURSAL EN ESPANA",
@@ -598,8 +598,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBSW",
-    "bankCode": "ES",
+    "bankCode": "UBSW",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "UBSWESMM",
     "Bank Name": "UBS EUROPE SE, SUCURSAL EN ESPANA",
@@ -611,8 +611,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCJA",
-    "bankCode": "ES",
+    "bankCode": "UCJA",
+    "countryCode": "ES",
     "branchCode": "GAR",
     "SWIFT Code": "UCJAES2MGAR",
     "Bank Name": "UNICAJA BANCO, S.A.",
@@ -624,8 +624,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCJA",
-    "bankCode": "ES",
+    "bankCode": "UCJA",
+    "countryCode": "ES",
     "branchCode": "FIN",
     "SWIFT Code": "UCJAES2MFIN",
     "Bank Name": "UNICAJA BANCO, S.A.",
@@ -637,8 +637,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCJA",
-    "bankCode": "ES",
+    "bankCode": "UCJA",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "UCJAES2M",
     "Bank Name": "UNICAJA BANCO, S.A.",
@@ -650,8 +650,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "ES",
+    "bankCode": "GEBA",
+    "countryCode": "ES",
     "branchCode": "BIL",
     "SWIFT Code": "GEBAESMMBIL",
     "Bank Name": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
@@ -663,8 +663,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "ES",
+    "bankCode": "GEBA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GEBAESMM",
     "Bank Name": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
@@ -676,8 +676,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "ES",
+    "bankCode": "GEBA",
+    "countryCode": "ES",
     "branchCode": "MAD",
     "SWIFT Code": "GEBAESMMMAD",
     "Bank Name": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
@@ -689,8 +689,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "ES",
+    "bankCode": "GEBA",
+    "countryCode": "ES",
     "branchCode": "VAL",
     "SWIFT Code": "GEBAESMMVAL",
     "Bank Name": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
@@ -702,8 +702,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "ES",
+    "bankCode": "BNPA",
+    "countryCode": "ES",
     "branchCode": "SMS",
     "SWIFT Code": "BNPAESMS",
     "Bank Name": "BNP PARIBAS S.A. SUCURSAL EN ESPANA",
@@ -715,8 +715,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "ES",
+    "bankCode": "BNPA",
+    "countryCode": "ES",
     "branchCode": "SMH",
     "SWIFT Code": "BNPAESMH",
     "Bank Name": "BNP PARIBAS S.A. SUCURSAL EN ESPANA",
@@ -728,8 +728,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "FDA",
     "SWIFT Code": "PARBESMXFDA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -741,8 +741,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "SMX",
     "SWIFT Code": "PARBESMX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -754,8 +754,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "CTS",
     "SWIFT Code": "PARBESMXCTS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -767,8 +767,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "PBL",
     "SWIFT Code": "PARBESMXPBL",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -780,8 +780,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "ISI",
     "SWIFT Code": "PARBESMXISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -793,8 +793,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "AFB",
     "SWIFT Code": "PARBESMXAFB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -806,8 +806,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "USA",
     "SWIFT Code": "PARBESMXUSA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -819,8 +819,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "WMG",
     "SWIFT Code": "PARBESMXWMG",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -832,8 +832,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "FDS",
     "SWIFT Code": "PARBESMXFDS",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -845,8 +845,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "FRX",
     "SWIFT Code": "PARBESMXFRX",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -858,8 +858,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "SRA",
     "SWIFT Code": "PARBESMXSRA",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -871,8 +871,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "FFO",
     "SWIFT Code": "PARBESMXFFO",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -884,8 +884,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "FFR",
     "SWIFT Code": "PARBESMXFFR",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -897,8 +897,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "TRB",
     "SWIFT Code": "PARBESMXTRB",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -910,8 +910,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "TBM",
     "SWIFT Code": "PARBESMXTBM",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -923,8 +923,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "ES",
+    "bankCode": "PARB",
+    "countryCode": "ES",
     "branchCode": "CVW",
     "SWIFT Code": "PARBESMXCVW",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
@@ -936,8 +936,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNGS",
-    "bankCode": "ES",
+    "bankCode": "BNGS",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "BNGSES22",
     "Bank Name": "BORGES INTERNATIONAL GROUP SOCIEDAD LIMITADA",
@@ -949,8 +949,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNQ",
-    "bankCode": "ES",
+    "bankCode": "BUNQ",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "BUNQESM2",
     "Bank Name": "BUNQ BV SUCURSAL EN ESPANA",
@@ -962,8 +962,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAPI",
-    "bankCode": "ES",
+    "bankCode": "CAPI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CAPIESMM",
     "Bank Name": "C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A.",
@@ -975,8 +975,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAPI",
-    "bankCode": "ES",
+    "bankCode": "CAPI",
+    "countryCode": "ES",
     "branchCode": "BKR",
     "SWIFT Code": "CAPIESMMBKR",
     "Bank Name": "C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A.",
@@ -988,8 +988,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "095",
     "SWIFT Code": "CCRIES2A095",
     "Bank Name": "C.R. SAN ROQUE DE ALMENARA SCCV",
@@ -1001,8 +1001,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGRI",
-    "bankCode": "ES",
+    "bankCode": "AGRI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "AGRIESMM",
     "Bank Name": "CA INDOSUEZ WEALTH (EUROPE), SUCURSAL EN ESPANA",
@@ -1014,8 +1014,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSS",
-    "bankCode": "ES",
+    "bankCode": "BSSS",
+    "countryCode": "ES",
     "branchCode": "REP",
     "SWIFT Code": "BSSSESM2REP",
     "Bank Name": "CACEIS BANK SPAIN SAU",
@@ -1027,8 +1027,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSSS",
-    "bankCode": "ES",
+    "bankCode": "BSSS",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "BSSSESM2",
     "Bank Name": "CACEIS BANK SPAIN SAU",
@@ -1040,8 +1040,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "179",
     "SWIFT Code": "CCRIES2A179",
     "Bank Name": "CAIXA ALGINET",
@@ -1053,8 +1053,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDEN",
-    "bankCode": "ES",
+    "bankCode": "CDEN",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "CDENESBB",
     "Bank Name": "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOCIEDAD COOPERATIVA DE CREDIT",
@@ -1066,8 +1066,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDEN",
-    "bankCode": "ES",
+    "bankCode": "CDEN",
+    "countryCode": "ES",
     "branchCode": "TES",
     "SWIFT Code": "CDENESBBTES",
     "Bank Name": "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOCIEDAD COOPERATIVA DE CREDIT",
@@ -1079,8 +1079,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "159",
     "SWIFT Code": "BCOEESMM159",
     "Bank Name": "CAIXA POPULAR CAIXA RURAL",
@@ -1092,8 +1092,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "123",
     "SWIFT Code": "CCRIES2A123",
     "Bank Name": "CAIXA R. DE TURIS, C.C.V",
@@ -1105,8 +1105,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "119",
     "SWIFT Code": "CCRIES2A119",
     "Bank Name": "CAIXA RURAL ALQUERIES",
@@ -1118,8 +1118,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "112",
     "SWIFT Code": "CCRIES2A112",
     "Bank Name": "CAIXA RURAL BURRIANA",
@@ -1131,8 +1131,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "045",
     "SWIFT Code": "CCRIES2A045",
     "Bank Name": "CAIXA RURAL DE ALTEA CCV",
@@ -1144,8 +1144,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "070",
     "SWIFT Code": "BCOEESMM070",
     "Bank Name": "CAIXA RURAL GALEGA",
@@ -1157,8 +1157,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "113",
     "SWIFT Code": "BCOEESMM113",
     "Bank Name": "CAIXA RURAL L'ALCORA",
@@ -1170,8 +1170,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "135",
     "SWIFT Code": "CCRIES2A135",
     "Bank Name": "CAIXA RURAL NULES",
@@ -1183,8 +1183,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "102",
     "SWIFT Code": "CCRIES2A102",
     "Bank Name": "CAIXA RURAL SANT VICENT DE LA VALL DE UIXO",
@@ -1196,8 +1196,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "118",
     "SWIFT Code": "CCRIES2A118",
     "Bank Name": "CAIXA RURAL TORRENT",
@@ -1209,8 +1209,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "110",
     "SWIFT Code": "CCRIES2A110",
     "Bank Name": "CAIXA RURAL VILA-REAL",
@@ -1222,8 +1222,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "165",
     "SWIFT Code": "CCRIES2A165",
     "Bank Name": "CAIXA RURAL VILAFAMES",
@@ -1235,8 +1235,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "160",
     "SWIFT Code": "CCRIES2A160",
     "Bank Name": "CAIXA RURAL VILAVELLA",
@@ -1248,8 +1248,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "157",
     "SWIFT Code": "CCRIES2A157",
     "Bank Name": "CAIXA XILXES",
@@ -1261,8 +1261,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAYC",
-    "bankCode": "ES",
+    "bankCode": "CAYC",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "CAYCESM2",
     "Bank Name": "CAIXABANK PAYMENTS AND CONSUMER",
@@ -1274,8 +1274,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "EAG",
     "SWIFT Code": "CAIXESBBEAG",
     "Bank Name": "CAIXABANK, S.A.",
@@ -1287,8 +1287,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "SCT",
     "SWIFT Code": "CAIXESBBSCT",
     "Bank Name": "CAIXABANK, S.A.",
@@ -1300,8 +1300,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "CL2",
     "SWIFT Code": "DEUTESBBCL2",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1313,8 +1313,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "AP1",
     "SWIFT Code": "DEUTESBBAP1",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1326,8 +1326,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "AP2",
     "SWIFT Code": "DEUTESBBAP2",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1339,8 +1339,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "AS1",
     "SWIFT Code": "DEUTESBBAS1",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1352,8 +1352,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "AS2",
     "SWIFT Code": "DEUTESBBAS2",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1365,8 +1365,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "030",
     "SWIFT Code": "DEUTESBB030",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1378,8 +1378,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "DEUTESBB",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -1391,8 +1391,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIIL",
-    "bankCode": "ES",
+    "bankCode": "DIIL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "DIILESMM",
     "Bank Name": "DIA",
@@ -1404,8 +1404,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIVI",
-    "bankCode": "ES",
+    "bankCode": "DIVI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "DIVIESMM",
     "Bank Name": "DIVILO",
@@ -1417,8 +1417,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DYGI",
-    "bankCode": "ES",
+    "bankCode": "DYGI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "DYGIESMM",
     "Bank Name": "DYNASOL GESTION SL",
@@ -1430,8 +1430,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EKUA",
-    "bankCode": "ES",
+    "bankCode": "EKUA",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "EKUAES22",
     "Bank Name": "E.KUANTIA, EDE, SOCIEDAD LIMITADA",
@@ -1443,8 +1443,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EAPF",
-    "bankCode": "ES",
+    "bankCode": "EAPF",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "EAPFESM2",
     "Bank Name": "EASY PAYMENT AND FINANCE EP SA",
@@ -1456,8 +1456,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROA",
-    "bankCode": "ES",
+    "bankCode": "PROA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PROAESMM",
     "Bank Name": "EBN BANCO DE NEGOCIOS,S.A.(EBN BANCO)",
@@ -1469,8 +1469,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PROA",
-    "bankCode": "ES",
+    "bankCode": "PROA",
+    "countryCode": "ES",
     "branchCode": "ORO",
     "SWIFT Code": "PROAESMMORO",
     "Bank Name": "EBN BANCO DE NEGOCIOS,S.A.(EBN BANCO)",
@@ -1482,8 +1482,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBPB",
-    "bankCode": "ES",
+    "bankCode": "EBPB",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "EBPBESM2",
     "Bank Name": "EBURY PARTNERS BELGIUM",
@@ -1495,8 +1495,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "ES",
+    "bankCode": "PRIB",
+    "countryCode": "ES",
     "branchCode": "SMX",
     "SWIFT Code": "PRIBESMX",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE), SUCURSAL EN ESPANA",
@@ -1508,8 +1508,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDRE",
-    "bankCode": "ES",
+    "bankCode": "EDRE",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "EDREESBB",
     "Bank Name": "EDREAMS ODIGEO SA",
@@ -1521,8 +1521,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELST",
-    "bankCode": "ES",
+    "bankCode": "ELST",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "ELSTESM2",
     "Bank Name": "ELSA CARE TECHNOLOGIES SL",
@@ -1534,8 +1534,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENAA",
-    "bankCode": "ES",
+    "bankCode": "ENAA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ENAAESMM",
     "Bank Name": "ENAGAS",
@@ -1547,8 +1547,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENDE",
-    "bankCode": "ES",
+    "bankCode": "ENDE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ENDEESMM",
     "Bank Name": "ENEL IBERIA, S.L.",
@@ -1560,8 +1560,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESTE",
-    "bankCode": "ES",
+    "bankCode": "ESTE",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "ESTEESBB",
     "Bank Name": "ESTEVE PHARMACEUTICALS SA",
@@ -1573,8 +1573,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERSV",
-    "bankCode": "ES",
+    "bankCode": "ERSV",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "ERSVES22",
     "Bank Name": "EUROCAJA RURAL SOCIEDAD COOPERATIVA DE CREDITO",
@@ -1586,8 +1586,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUWT",
-    "bankCode": "ES",
+    "bankCode": "EUWT",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "EUWTESBB",
     "Bank Name": "EURONA WIRELESS TELECOM",
@@ -1599,8 +1599,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUWT",
-    "bankCode": "ES",
+    "bankCode": "EUWT",
+    "countryCode": "ES",
     "branchCode": "GST",
     "SWIFT Code": "EUWTESBBGST",
     "Bank Name": "EURONA WIRELESS TELECOM",
@@ -1612,8 +1612,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EDSX",
-    "bankCode": "ES",
+    "bankCode": "EDSX",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "EDSXESM2",
     "Bank Name": "EUROPEAN DIGITAL SECURITIES EXCHANGE S.V. SA",
@@ -1625,8 +1625,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVOB",
-    "bankCode": "ES",
+    "bankCode": "EVOB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "EVOBESMM",
     "Bank Name": "EVO BANCO S.A.",
@@ -1638,8 +1638,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVOB",
-    "bankCode": "ES",
+    "bankCode": "EVOB",
+    "countryCode": "ES",
     "branchCode": "BAC",
     "SWIFT Code": "EVOBESMMBAC",
     "Bank Name": "EVO BANCO S.A.",
@@ -1651,8 +1651,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVOB",
-    "bankCode": "ES",
+    "bankCode": "EVOB",
+    "countryCode": "ES",
     "branchCode": "LCO",
     "SWIFT Code": "EVOBESMMLCO",
     "Bank Name": "EVO BANCO S.A.",
@@ -1664,8 +1664,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLHD",
-    "bankCode": "ES",
+    "bankCode": "CLHD",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CLHDESMM",
     "Bank Name": "EXOLUM CORPORATION, S.A.",
@@ -1677,8 +1677,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EYEE",
-    "bankCode": "ES",
+    "bankCode": "EYEE",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "EYEEESM2",
     "Bank Name": "EYEE ESTUDIOS EMPRESARIALES, AIE",
@@ -1690,8 +1690,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FERR",
-    "bankCode": "ES",
+    "bankCode": "FERR",
+    "countryCode": "ES",
     "branchCode": "SMA",
     "SWIFT Code": "FERRESMA",
     "Bank Name": "FERROVIAL SE SUCURSAL EN ESPANA",
@@ -1703,8 +1703,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHGP",
-    "bankCode": "ES",
+    "bankCode": "PHGP",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "PHGPES22",
     "Bank Name": "FIESTA HOTELS AND RESORTS SL",
@@ -1716,8 +1716,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNLA",
-    "bankCode": "ES",
+    "bankCode": "FNLA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "FNLAESMM",
     "Bank Name": "FINALBION SL",
@@ -1729,8 +1729,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPES",
-    "bankCode": "ES",
+    "bankCode": "FPES",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "FPESESM2",
     "Bank Name": "FINANCIERE DES PAIEMENTS ELECTRONIQUES SUCURSAL EN ESPANA",
@@ -1742,8 +1742,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMPR",
-    "bankCode": "ES",
+    "bankCode": "CMPR",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "CMPRES2M",
     "Bank Name": "FINCAMPER SLU",
@@ -1755,8 +1755,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FDRA",
-    "bankCode": "ES",
+    "bankCode": "FDRA",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "FDRAESBB",
     "Bank Name": "FLUIDRA, S.A.",
@@ -1768,8 +1768,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCOT",
-    "bankCode": "ES",
+    "bankCode": "FCOT",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "FCOTESMM",
     "Bank Name": "FOMENTO DE CONSTRUCCIONES Y CONTRATAS",
@@ -1781,8 +1781,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEHE",
-    "bankCode": "ES",
+    "bankCode": "GEHE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GEHEESMM",
     "Bank Name": "GENERALI ESPANA HOLDING DE ENTIDADES DE SEGUROS",
@@ -1794,8 +1794,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAON",
-    "bankCode": "ES",
+    "bankCode": "GAON",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GAONESMM",
     "Bank Name": "GESTAMP AUTOMOCION SOCIEDAD ANONIMA",
@@ -1807,8 +1807,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLPT",
-    "bankCode": "ES",
+    "bankCode": "GLPT",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "GLPTES22",
     "Bank Name": "GLOBAL PAYMENT SYSTEMS S. L.",
@@ -1820,8 +1820,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "190",
     "SWIFT Code": "BCOEESMM190",
     "Bank Name": "GLOBALCAJA, CAJA RURAL DE ALBACETE, CIUDAD REAL Y CUENCA, S.C.C.",
@@ -1833,8 +1833,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLVA",
-    "bankCode": "ES",
+    "bankCode": "GLVA",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "GLVAESBB",
     "Bank Name": "GLOVOAPP23 S.A.",
@@ -1846,8 +1846,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRLS",
-    "bankCode": "ES",
+    "bankCode": "GRLS",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "GRLSESBB",
     "Bank Name": "GRIFOLS S.A.",
@@ -1859,8 +1859,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLDP",
-    "bankCode": "ES",
+    "bankCode": "GLDP",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GLDPESMM",
     "Bank Name": "GROUPE LOGISTICS IDL ESPANA SA",
@@ -1872,8 +1872,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GGEA",
-    "bankCode": "ES",
+    "bankCode": "GGEA",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "GGEAESM2",
     "Bank Name": "GRUPO GENERALI ESPANA AIE",
@@ -1885,8 +1885,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GILU",
-    "bankCode": "ES",
+    "bankCode": "GILU",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GILUESMM",
     "Bank Name": "GRUPO ILUNION S.L.",
@@ -1898,8 +1898,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GRUI",
-    "bankCode": "ES",
+    "bankCode": "GRUI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GRUIESMM",
     "Bank Name": "GRUPO INDUKERN,S.L.",
@@ -1911,8 +1911,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GLGS",
-    "bankCode": "ES",
+    "bankCode": "GLGS",
+    "countryCode": "ES",
     "branchCode": "S2Z",
     "SWIFT Code": "GLGSES2Z",
     "Bank Name": "GRUPO LOGISTICO SESE SOCIEDAD LIMITADA",
@@ -1924,8 +1924,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVCB",
-    "bankCode": "ES",
+    "bankCode": "GVCB",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "GVCBESBB",
     "Bank Name": "GVC GAESCO VALORES SV SA",
@@ -1937,8 +1937,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVCB",
-    "bankCode": "ES",
+    "bankCode": "GVCB",
+    "countryCode": "ES",
     "branchCode": "AGE",
     "SWIFT Code": "GVCBESBBAGE",
     "Bank Name": "GVC GAESCO VALORES SV SA",
@@ -1950,8 +1950,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AYGB",
-    "bankCode": "ES",
+    "bankCode": "AYGB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "AYGBESMM",
     "Bank Name": "A AND G BANCO, S.A.U.",
@@ -1963,8 +1963,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMCI",
-    "bankCode": "ES",
+    "bankCode": "CMCI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CMCIESMM",
     "Bank Name": "ABANCA COPRORACION BANCARIA, S.A.",
@@ -1976,8 +1976,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CAGLESMM",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -1989,8 +1989,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "COP",
     "SWIFT Code": "CAGLESMMCOP",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2002,8 +2002,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "LCO",
     "SWIFT Code": "CAGLESMMLCO",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2015,8 +2015,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "VIG",
     "SWIFT Code": "CAGLESMMVIG",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2028,8 +2028,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "BAC",
     "SWIFT Code": "CAGLESMMBAC",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2041,8 +2041,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "BME",
     "SWIFT Code": "CAGLESMMBME",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2054,8 +2054,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "BOI",
     "SWIFT Code": "CAGLESMMBOI",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2067,8 +2067,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGL",
-    "bankCode": "ES",
+    "bankCode": "CAGL",
+    "countryCode": "ES",
     "branchCode": "VOP",
     "SWIFT Code": "CAGLESMMVOP",
     "Bank Name": "ABANCA CORPORACION BANCARIA, S.A.",
@@ -2080,8 +2080,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMCA",
-    "bankCode": "ES",
+    "bankCode": "IMCA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IMCAESMM",
     "Bank Name": "ABANCA GESTION DE ACTIVOS SGIIC SA",
@@ -2093,8 +2093,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASGS",
-    "bankCode": "ES",
+    "bankCode": "ASGS",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ASGSESMM",
     "Bank Name": "ABANTE ASESORES GESTION SGIIC SA",
@@ -2106,8 +2106,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DSGL",
-    "bankCode": "ES",
+    "bankCode": "DSGL",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "DSGLESBB",
     "Bank Name": "ABASIC SLU",
@@ -2119,8 +2119,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABGO",
-    "bankCode": "ES",
+    "bankCode": "ABGO",
+    "countryCode": "ES",
     "branchCode": "SSE",
     "SWIFT Code": "ABGOESSE",
     "Bank Name": "ABENGOA",
@@ -2132,8 +2132,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIR",
-    "bankCode": "ES",
+    "bankCode": "ABIR",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "ABIRESBB",
     "Bank Name": "ABERTIS INFRAESTRUCTURAS, SA",
@@ -2145,8 +2145,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACOI",
-    "bankCode": "ES",
+    "bankCode": "ACOI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ACOIESMM",
     "Bank Name": "ACCIONA SA",
@@ -2158,8 +2158,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFPT",
-    "bankCode": "ES",
+    "bankCode": "AFPT",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "AFPTESBB",
     "Bank Name": "AFFINITY PETCARE SA",
@@ -2171,8 +2171,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AABG",
-    "bankCode": "ES",
+    "bankCode": "AABG",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "AABGES22",
     "Bank Name": "AIRE ANCIENT BATHS GROUP SOCIEDAD LIMITADA",
@@ -2184,8 +2184,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACOR",
-    "bankCode": "ES",
+    "bankCode": "ACOR",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ACORESMM",
     "Bank Name": "ALDESA CONSTRUCCIONES S.A.",
@@ -2197,8 +2197,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALLF",
-    "bankCode": "ES",
+    "bankCode": "ALLF",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ALLFESMM",
     "Bank Name": "ALLFUNDS BANK",
@@ -2210,8 +2210,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFPF",
-    "bankCode": "ES",
+    "bankCode": "PFPF",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "PFPFESBB",
     "Bank Name": "ALMIRALL, S.A.",
@@ -2223,8 +2223,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALVE",
-    "bankCode": "ES",
+    "bankCode": "ALVE",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "ALVEES22",
     "Bank Name": "ALVEAN SUGAR, S.L., BILBAO",
@@ -2236,8 +2236,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGSO",
-    "bankCode": "ES",
+    "bankCode": "AGSO",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "AGSOESMM",
     "Bank Name": "AMADEUS IT GROUP SOCIEDAD ANONIMA",
@@ -2249,8 +2249,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGR",
-    "bankCode": "ES",
+    "bankCode": "DEGR",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "DEGRESBB",
     "Bank Name": "ANDBANK ESPANA BANCA PRIVADA, S.A.",
@@ -2262,8 +2262,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AAMA",
-    "bankCode": "ES",
+    "bankCode": "AAMA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "AAMAESMM",
     "Bank Name": "ANDBANK WEALTH MANAGEMENT SGIIC SA",
@@ -2275,8 +2275,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APTR",
-    "bankCode": "ES",
+    "bankCode": "APTR",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "APTRES22",
     "Bank Name": "APERTURE TRAVEL SL",
@@ -2288,8 +2288,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "APPS",
-    "bankCode": "ES",
+    "bankCode": "APPS",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "APPSESMM",
     "Bank Name": "APPLUS SERVICES SA",
@@ -2301,8 +2301,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREB",
-    "bankCode": "ES",
+    "bankCode": "AREB",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "AREBESMMBAR",
     "Bank Name": "ARESBANK, S.A.",
@@ -2314,8 +2314,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREB",
-    "bankCode": "ES",
+    "bankCode": "AREB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "AREBESMM",
     "Bank Name": "ARESBANK, S.A.",
@@ -2327,8 +2327,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREB",
-    "bankCode": "ES",
+    "bankCode": "AREB",
+    "countryCode": "ES",
     "branchCode": "INV",
     "SWIFT Code": "AREBESMMINV",
     "Bank Name": "ARESBANK, S.A.",
@@ -2340,8 +2340,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREB",
-    "bankCode": "ES",
+    "bankCode": "AREB",
+    "countryCode": "ES",
     "branchCode": "INT",
     "SWIFT Code": "AREBESMMINT",
     "Bank Name": "ARESBANK, S.A.",
@@ -2353,8 +2353,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AREB",
-    "bankCode": "ES",
+    "bankCode": "AREB",
+    "countryCode": "ES",
     "branchCode": "MAD",
     "SWIFT Code": "AREBESMMMAD",
     "Bank Name": "ARESBANK, S.A.",
@@ -2366,8 +2366,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CASD",
-    "bankCode": "ES",
+    "bankCode": "CASD",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "CASDESBB",
     "Bank Name": "ARQUIA BANK S.A.",
@@ -2379,8 +2379,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASAU",
-    "bankCode": "ES",
+    "bankCode": "ASAU",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ASAUESMM",
     "Bank Name": "ASISA, ASISTENCIA SANITARIA INTERPROVINCIAL DE SEGUROS, S.A (SOCIEDED UNIPERSONAL)",
@@ -2392,8 +2392,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSV",
-    "bankCode": "ES",
+    "bankCode": "ABSV",
+    "countryCode": "ES",
     "branchCode": "SSE",
     "SWIFT Code": "ABSVESSE",
     "Bank Name": "ATLANTICA CORPORATE RESOURCES, S.L",
@@ -2405,8 +2405,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACAG",
-    "bankCode": "ES",
+    "bankCode": "ACAG",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ACAGESMM",
     "Bank Name": "ATRADIUS CREDITO Y CAUCION S.A. DE SEGUROS Y REASEGUROS",
@@ -2418,8 +2418,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "ES",
+    "bankCode": "BCMA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BCMAESMM",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE SUCURSAL EN ESPANA SA",
@@ -2431,8 +2431,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMA",
-    "bankCode": "ES",
+    "bankCode": "BCMA",
+    "countryCode": "ES",
     "branchCode": "TGT",
     "SWIFT Code": "BCMAESMMTGT",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE SUCURSAL EN ESPANA SA",
@@ -2444,8 +2444,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "ES",
+    "bankCode": "AXIP",
+    "countryCode": "ES",
     "branchCode": "MPS",
     "SWIFT Code": "AXIPESBBMPS",
     "Bank Name": "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS",
@@ -2457,8 +2457,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXIP",
-    "bankCode": "ES",
+    "bankCode": "AXIP",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "AXIPESBB",
     "Bank Name": "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS",
@@ -2470,8 +2470,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMAR",
-    "bankCode": "ES",
+    "bankCode": "BMAR",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "BMARES2M",
     "Bank Name": "BANCA MARCH, SA",
@@ -2483,8 +2483,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAPU",
-    "bankCode": "ES",
+    "bankCode": "BAPU",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "BAPUES22",
     "Bank Name": "BANCA PUEYO, S.A.",
@@ -2496,8 +2496,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALCL",
-    "bankCode": "ES",
+    "bankCode": "ALCL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ALCLESMM",
     "Bank Name": "BANCO ALCALA S.A.",
@@ -2509,8 +2509,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALCL",
-    "bankCode": "ES",
+    "bankCode": "ALCL",
+    "countryCode": "ES",
     "branchCode": "015",
     "SWIFT Code": "ALCLESMM015",
     "Bank Name": "BANCO ALCALA S.A.",
@@ -2522,8 +2522,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "REL",
     "SWIFT Code": "BBVAESMMREL",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2535,8 +2535,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "BAG",
     "SWIFT Code": "BBVAESMMBAG",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2548,8 +2548,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "BA2",
     "SWIFT Code": "BBVAESMMBA2",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2561,8 +2561,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "CMP",
     "SWIFT Code": "BBVAESMMCMP",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2574,8 +2574,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "RE1",
     "SWIFT Code": "BBVAESMMRE1",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2587,8 +2587,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "HYD",
     "SWIFT Code": "BBVAESMMHYD",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2600,8 +2600,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "CFI",
     "SWIFT Code": "BBVAESMMCFI",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2613,8 +2613,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BBVAESMM",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2626,8 +2626,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "BOL",
     "SWIFT Code": "BBVAESMMBOL",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2639,8 +2639,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "SPV",
     "SWIFT Code": "BBVAESMMSPV",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2652,8 +2652,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "CBF",
     "SWIFT Code": "BBVAESMMCBF",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2665,8 +2665,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "101",
     "SWIFT Code": "BBVAESMM101",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2678,8 +2678,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "FXD",
     "SWIFT Code": "BBVAESMMFXD",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2691,8 +2691,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "ES",
+    "bankCode": "BBVA",
+    "countryCode": "ES",
     "branchCode": "062",
     "SWIFT Code": "BBVAESMM062",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -2704,8 +2704,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCOC",
-    "bankCode": "ES",
+    "bankCode": "CCOC",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CCOCESMM",
     "Bank Name": "BANCO CAMINOS",
@@ -2717,8 +2717,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCOC",
-    "bankCode": "ES",
+    "bankCode": "CCOC",
+    "countryCode": "ES",
     "branchCode": "RVN",
     "SWIFT Code": "CCOCESMMRVN",
     "Bank Name": "BANCO CAMINOS",
@@ -2730,8 +2730,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "ES",
+    "bankCode": "BNPA",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "BNPAESM2",
     "Bank Name": "BANCO CETELEM S.A.U",
@@ -2743,8 +2743,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "ES",
+    "bankCode": "BNPA",
+    "countryCode": "ES",
     "branchCode": "GCC",
     "SWIFT Code": "BNPAESM2GCC",
     "Bank Name": "BANCO CETELEM S.A.U",
@@ -2756,8 +2756,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BCOEESMM",
     "Bank Name": "BANCO COOPERATIVO ESPANOL S.A.",
@@ -2769,8 +2769,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "RVN",
     "SWIFT Code": "BCOEESMMRVN",
     "Bank Name": "BANCO COOPERATIVO ESPANOL S.A.",
@@ -2782,8 +2782,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCCA",
-    "bankCode": "ES",
+    "bankCode": "BCCA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BCCAESMM",
     "Bank Name": "BANCO DE CREDITO SOCIAL COOPERATIVO SA.",
@@ -2795,8 +2795,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ESPBESMM",
     "Bank Name": "BANCO DE ESPANA",
@@ -2808,8 +2808,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "CCB",
     "SWIFT Code": "ESPBESMMCCB",
     "Bank Name": "BANCO DE ESPANA",
@@ -2821,8 +2821,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "HIT",
     "SWIFT Code": "ESPBESMMHIT",
     "Bank Name": "BANCO DE ESPANA",
@@ -2834,8 +2834,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "AFD",
     "SWIFT Code": "ESPBESMMAFD",
     "Bank Name": "BANCO DE ESPANA",
@@ -2847,8 +2847,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "AST",
     "SWIFT Code": "ESPBESMMAST",
     "Bank Name": "BANCO DE ESPANA",
@@ -2860,8 +2860,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "ASI",
     "SWIFT Code": "ESPBESMMASI",
     "Bank Name": "BANCO DE ESPANA",
@@ -2873,8 +2873,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "AYM",
     "SWIFT Code": "ESPBESMMAYM",
     "Bank Name": "BANCO DE ESPANA",
@@ -2886,8 +2886,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C01",
     "SWIFT Code": "ESPBESMMC01",
     "Bank Name": "BANCO DE ESPANA",
@@ -2899,8 +2899,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C02",
     "SWIFT Code": "ESPBESMMC02",
     "Bank Name": "BANCO DE ESPANA",
@@ -2912,8 +2912,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C03",
     "SWIFT Code": "ESPBESMMC03",
     "Bank Name": "BANCO DE ESPANA",
@@ -2925,8 +2925,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C04",
     "SWIFT Code": "ESPBESMMC04",
     "Bank Name": "BANCO DE ESPANA",
@@ -2938,8 +2938,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C05",
     "SWIFT Code": "ESPBESMMC05",
     "Bank Name": "BANCO DE ESPANA",
@@ -2951,8 +2951,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C06",
     "SWIFT Code": "ESPBESMMC06",
     "Bank Name": "BANCO DE ESPANA",
@@ -2964,8 +2964,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C07",
     "SWIFT Code": "ESPBESMMC07",
     "Bank Name": "BANCO DE ESPANA",
@@ -2977,8 +2977,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C08",
     "SWIFT Code": "ESPBESMMC08",
     "Bank Name": "BANCO DE ESPANA",
@@ -2990,8 +2990,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C09",
     "SWIFT Code": "ESPBESMMC09",
     "Bank Name": "BANCO DE ESPANA",
@@ -3003,8 +3003,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C10",
     "SWIFT Code": "ESPBESMMC10",
     "Bank Name": "BANCO DE ESPANA",
@@ -3016,8 +3016,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C11",
     "SWIFT Code": "ESPBESMMC11",
     "Bank Name": "BANCO DE ESPANA",
@@ -3029,8 +3029,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C12",
     "SWIFT Code": "ESPBESMMC12",
     "Bank Name": "BANCO DE ESPANA",
@@ -3042,8 +3042,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C13",
     "SWIFT Code": "ESPBESMMC13",
     "Bank Name": "BANCO DE ESPANA",
@@ -3055,8 +3055,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C14",
     "SWIFT Code": "ESPBESMMC14",
     "Bank Name": "BANCO DE ESPANA",
@@ -3068,8 +3068,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "C15",
     "SWIFT Code": "ESPBESMMC15",
     "Bank Name": "BANCO DE ESPANA",
@@ -3081,8 +3081,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "CSP",
     "SWIFT Code": "ESPBESMMCSP",
     "Bank Name": "BANCO DE ESPANA",
@@ -3094,8 +3094,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "ECM",
     "SWIFT Code": "ESPBESMMECM",
     "Bank Name": "BANCO DE ESPANA",
@@ -3107,8 +3107,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "FFA",
     "SWIFT Code": "ESPBESMMFFA",
     "Bank Name": "BANCO DE ESPANA",
@@ -3120,8 +3120,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "FGE",
     "SWIFT Code": "ESPBESMMFGE",
     "Bank Name": "BANCO DE ESPANA",
@@ -3133,8 +3133,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "FGI",
     "SWIFT Code": "ESPBESMMFGI",
     "Bank Name": "BANCO DE ESPANA",
@@ -3146,8 +3146,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "FGS",
     "SWIFT Code": "ESPBESMMFGS",
     "Bank Name": "BANCO DE ESPANA",
@@ -3159,8 +3159,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "ECB",
     "SWIFT Code": "ESPBESMMECB",
     "Bank Name": "BANCO DE ESPANA",
@@ -3172,8 +3172,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "FRB",
     "SWIFT Code": "ESPBESMMFRB",
     "Bank Name": "BANCO DE ESPANA",
@@ -3185,8 +3185,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "GAR",
     "SWIFT Code": "ESPBESMMGAR",
     "Bank Name": "BANCO DE ESPANA",
@@ -3198,8 +3198,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "EUX",
     "SWIFT Code": "ESPBESMMEUX",
     "Bank Name": "BANCO DE ESPANA",
@@ -3211,8 +3211,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "IVP",
     "SWIFT Code": "ESPBESMMIVP",
     "Bank Name": "BANCO DE ESPANA",
@@ -3224,8 +3224,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "MID",
     "SWIFT Code": "ESPBESMMMID",
     "Bank Name": "BANCO DE ESPANA",
@@ -3237,8 +3237,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "NT1",
     "SWIFT Code": "ESPBESMMNT1",
     "Bank Name": "BANCO DE ESPANA",
@@ -3250,8 +3250,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "NT2",
     "SWIFT Code": "ESPBESMMNT2",
     "Bank Name": "BANCO DE ESPANA",
@@ -3263,8 +3263,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "OCC",
     "SWIFT Code": "ESPBESMMOCC",
     "Bank Name": "BANCO DE ESPANA",
@@ -3276,8 +3276,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "PLC",
     "SWIFT Code": "ESPBESMMPLC",
     "Bank Name": "BANCO DE ESPANA",
@@ -3289,8 +3289,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "PLV",
     "SWIFT Code": "ESPBESMMPLV",
     "Bank Name": "BANCO DE ESPANA",
@@ -3302,8 +3302,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "PP3",
     "SWIFT Code": "ESPBESMMPP3",
     "Bank Name": "BANCO DE ESPANA",
@@ -3315,8 +3315,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "PSP",
     "SWIFT Code": "ESPBESMMPSP",
     "Bank Name": "BANCO DE ESPANA",
@@ -3328,8 +3328,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "RMS",
     "SWIFT Code": "ESPBESMMRMS",
     "Bank Name": "BANCO DE ESPANA",
@@ -3341,8 +3341,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "RT6",
     "SWIFT Code": "ESPBESMMRT6",
     "Bank Name": "BANCO DE ESPANA",
@@ -3354,8 +3354,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "SRB",
     "SWIFT Code": "ESPBESMMSRB",
     "Bank Name": "BANCO DE ESPANA",
@@ -3367,8 +3367,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TCA",
     "SWIFT Code": "ESPBESMMTCA",
     "Bank Name": "BANCO DE ESPANA",
@@ -3380,8 +3380,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TE6",
     "SWIFT Code": "ESPBESMMTE6",
     "Bank Name": "BANCO DE ESPANA",
@@ -3393,8 +3393,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TEC",
     "SWIFT Code": "ESPBESMMTEC",
     "Bank Name": "BANCO DE ESPANA",
@@ -3406,8 +3406,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TFP",
     "SWIFT Code": "ESPBESMMTFP",
     "Bank Name": "BANCO DE ESPANA",
@@ -3419,8 +3419,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TIP",
     "SWIFT Code": "ESPBESMMTIP",
     "Bank Name": "BANCO DE ESPANA",
@@ -3432,8 +3432,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TLC",
     "SWIFT Code": "ESPBESMMTLC",
     "Bank Name": "BANCO DE ESPANA",
@@ -3445,8 +3445,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TSS",
     "SWIFT Code": "ESPBESMMTSS",
     "Bank Name": "BANCO DE ESPANA",
@@ -3458,8 +3458,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPB",
-    "bankCode": "ES",
+    "bankCode": "ESPB",
+    "countryCode": "ES",
     "branchCode": "TTE",
     "SWIFT Code": "ESPBESMMTTE",
     "Bank Name": "BANCO DE ESPANA",
@@ -3471,8 +3471,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGSE",
-    "bankCode": "ES",
+    "bankCode": "IGSE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IGSEESMM",
     "Bank Name": "BANCO DE INVESTIMENTO GLOBAL, SA - SUCURSAL EN ESPANA",
@@ -3484,8 +3484,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NACN",
-    "bankCode": "ES",
+    "bankCode": "NACN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "NACNESMM",
     "Bank Name": "BANCO DE LA NACION ARGENTINA, SUCURSAL MADRID",
@@ -3497,8 +3497,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "ES",
+    "bankCode": "BSAB",
+    "countryCode": "ES",
     "branchCode": "EAG",
     "SWIFT Code": "BSABESBBEAG",
     "Bank Name": "BANCO DE SABADELL, S.A.",
@@ -3510,8 +3510,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "ES",
+    "bankCode": "BSAB",
+    "countryCode": "ES",
     "branchCode": "BME",
     "SWIFT Code": "BSABESBBBME",
     "Bank Name": "BANCO DE SABADELL, S.A.",
@@ -3523,8 +3523,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "ES",
+    "bankCode": "BSAB",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "BSABESBB",
     "Bank Name": "BANCO DE SABADELL, S.A.",
@@ -3536,8 +3536,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSAB",
-    "bankCode": "ES",
+    "bankCode": "BSAB",
+    "countryCode": "ES",
     "branchCode": "DIN",
     "SWIFT Code": "BSABESBBDIN",
     "Bank Name": "BANCO DE SABADELL, S.A.",
@@ -3549,8 +3549,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVL",
-    "bankCode": "ES",
+    "bankCode": "INVL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "INVLESMM",
     "Bank Name": "BANCO INVERSIS, S.A.",
@@ -3562,8 +3562,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INVL",
-    "bankCode": "ES",
+    "bankCode": "INVL",
+    "countryCode": "ES",
     "branchCode": "OPS",
     "SWIFT Code": "INVLESMMOPS",
     "Bank Name": "BANCO INVERSIS, S.A.",
@@ -3575,8 +3575,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIV",
-    "bankCode": "ES",
+    "bankCode": "BFIV",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "BFIVESBB",
     "Bank Name": "BANCO MEDIOLANUM, S.A.",
@@ -3588,8 +3588,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BFIV",
-    "bankCode": "ES",
+    "bankCode": "BFIV",
+    "countryCode": "ES",
     "branchCode": "RFP",
     "SWIFT Code": "BFIVESBBRFP",
     "Bank Name": "BANCO MEDIOLANUM, S.A.",
@@ -3601,8 +3601,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICH",
-    "bankCode": "ES",
+    "bankCode": "PICH",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PICHESMM",
     "Bank Name": "BANCO PICHINCHA",
@@ -3614,8 +3614,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "SMG",
     "SWIFT Code": "BSCHESMG",
     "Bank Name": "BANCO SANTANDER S.A CIUDAD GRUPO SANTANDER.EDF.PAMPA",
@@ -3627,8 +3627,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORT",
-    "bankCode": "ES",
+    "bankCode": "NORT",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "NORTESMM",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3640,8 +3640,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESPC",
-    "bankCode": "ES",
+    "bankCode": "ESPC",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ESPCESMM",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3653,8 +3653,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BSCHESMM",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3666,8 +3666,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "SIC",
     "SWIFT Code": "BSCHESMMSIC",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3679,8 +3679,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "GET",
     "SWIFT Code": "BSCHESMMGET",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3692,8 +3692,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "GTS",
     "SWIFT Code": "BSCHESMMGTS",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3705,8 +3705,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "1SG",
     "SWIFT Code": "BSCHESMM1SG",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3718,8 +3718,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "AGE",
     "SWIFT Code": "BSCHESMMAGE",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3731,8 +3731,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "BME",
     "SWIFT Code": "BSCHESMMBME",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3744,8 +3744,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "ES",
+    "bankCode": "BSCH",
+    "countryCode": "ES",
     "branchCode": "CLS",
     "SWIFT Code": "BSCHESMMCLS",
     "Bank Name": "BANCO SANTANDER S.A.",
@@ -3757,8 +3757,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "PSTRESMMBAR",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3770,8 +3770,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "BIL",
     "SWIFT Code": "PSTRESMMBIL",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3783,8 +3783,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PSTRESMM",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3796,8 +3796,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "LCO",
     "SWIFT Code": "PSTRESMMLCO",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3809,8 +3809,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "VAL",
     "SWIFT Code": "PSTRESMMVAL",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3822,8 +3822,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "VGO",
     "SWIFT Code": "PSTRESMMVGO",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3835,8 +3835,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSTR",
-    "bankCode": "ES",
+    "bankCode": "PSTR",
+    "countryCode": "ES",
     "branchCode": "ZAR",
     "SWIFT Code": "PSTRESMMZAR",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO PASTOR S.A.)",
@@ -3848,8 +3848,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPU",
-    "bankCode": "ES",
+    "bankCode": "POPU",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "POPUESMMBAR",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO POPULAR ESPANOL, S.A.)",
@@ -3861,8 +3861,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPU",
-    "bankCode": "ES",
+    "bankCode": "POPU",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "POPUESMM",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO POPULAR ESPANOL, S.A.)",
@@ -3874,8 +3874,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPU",
-    "bankCode": "ES",
+    "bankCode": "POPU",
+    "countryCode": "ES",
     "branchCode": "EAG",
     "SWIFT Code": "POPUESMMEAG",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO POPULAR ESPANOL, S.A.)",
@@ -3887,8 +3887,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPU",
-    "bankCode": "ES",
+    "bankCode": "POPU",
+    "countryCode": "ES",
     "branchCode": "CMG",
     "SWIFT Code": "POPUESMMCMG",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO POPULAR ESPANOL, S.A.)",
@@ -3900,8 +3900,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "SDD",
     "SWIFT Code": "CAIXESBBSDD",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3913,8 +3913,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "CAIXESBB",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3926,8 +3926,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "BME",
     "SWIFT Code": "CAIXESBBBME",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3939,8 +3939,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "OSN",
     "SWIFT Code": "CAIXESBBOSN",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3952,8 +3952,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "609",
     "SWIFT Code": "CAIXESBB609",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3965,8 +3965,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "655",
     "SWIFT Code": "CAIXESBB655",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3978,8 +3978,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "521",
     "SWIFT Code": "CAIXESBB521",
     "Bank Name": "CAIXABANK, S.A.",
@@ -3991,8 +3991,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "654",
     "SWIFT Code": "CAIXESBB654",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4004,8 +4004,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "MAD",
     "SWIFT Code": "CAIXESBBMAD",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4017,8 +4017,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "652",
     "SWIFT Code": "CAIXESBB652",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4030,8 +4030,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "523",
     "SWIFT Code": "CAIXESBB523",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4043,8 +4043,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "661",
     "SWIFT Code": "CAIXESBB661",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4056,8 +4056,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "TAR",
     "SWIFT Code": "CAIXESBBTAR",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4069,8 +4069,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "666",
     "SWIFT Code": "CAIXESBB666",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4082,8 +4082,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAIX",
-    "bankCode": "ES",
+    "bankCode": "CAIX",
+    "countryCode": "ES",
     "branchCode": "528",
     "SWIFT Code": "CAIXESBB528",
     "Bank Name": "CAIXABANK, S.A.",
@@ -4095,8 +4095,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAHM",
-    "bankCode": "ES",
+    "bankCode": "CAHM",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CAHMESMM",
     "Bank Name": "CAIXABANK, S.A. (PREVIOUSLY BANKIA S.A.)",
@@ -4108,8 +4108,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "105",
     "SWIFT Code": "CCRIES2A105",
     "Bank Name": "CAIXACALLOSA",
@@ -4121,8 +4121,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "121",
     "SWIFT Code": "CCRIES2A121",
     "Bank Name": "CAJA CHESTE",
@@ -4134,8 +4134,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECA",
-    "bankCode": "ES",
+    "bankCode": "CECA",
+    "countryCode": "ES",
     "branchCode": "056",
     "SWIFT Code": "CECAESMM056",
     "Bank Name": "CAJA DE AHORROS DE POLLENSA",
@@ -4147,8 +4147,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECA",
-    "bankCode": "ES",
+    "bankCode": "CECA",
+    "countryCode": "ES",
     "branchCode": "045",
     "SWIFT Code": "CECAESMM045",
     "Bank Name": "CAJA DE AHORROS Y MONTE DE PIEDAD DE ONTINYENT",
@@ -4160,8 +4160,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "029",
     "SWIFT Code": "CCRIES2A029",
     "Bank Name": "CAJA DE CREDITO DE PETREL, CR, CCV",
@@ -4173,8 +4173,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "127",
     "SWIFT Code": "BCOEESMM127",
     "Bank Name": "CAJA RURAL CASAS IBANEZ SDAD. COOP.",
@@ -4186,8 +4186,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "005",
     "SWIFT Code": "BCOEESMM005",
     "Bank Name": "CAJA RURAL CENTRAL, S.C.C.",
@@ -4199,8 +4199,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "150",
     "SWIFT Code": "BCOEESMM150",
     "Bank Name": "CAJA RURAL DE ALBAL, COOP. DE CREDITO V.",
@@ -4212,8 +4212,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "117",
     "SWIFT Code": "BCOEESMM117",
     "Bank Name": "CAJA RURAL DE ALGEMESI",
@@ -4225,8 +4225,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "001",
     "SWIFT Code": "BCOEESMM001",
     "Bank Name": "CAJA RURAL DE ALMENDRALEJO",
@@ -4238,8 +4238,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "191",
     "SWIFT Code": "BCOEESMM191",
     "Bank Name": "CAJA RURAL DE ARAGON, SOCIEDAD COOPERATIVA DE CREDITO",
@@ -4251,8 +4251,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "059",
     "SWIFT Code": "BCOEESMM059",
     "Bank Name": "CAJA RURAL DE ASTURIAS",
@@ -4264,8 +4264,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "162",
     "SWIFT Code": "BCOEESMM162",
     "Bank Name": "CAJA RURAL DE BENICARLO",
@@ -4277,8 +4277,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "060",
     "SWIFT Code": "BCOEESMM060",
     "Bank Name": "CAJA RURAL DE BURGOS, FUENTEPELAYO, SEGOVIA Y CASTELLDANS, S.C.C",
@@ -4290,8 +4290,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "009",
     "SWIFT Code": "BCOEESMM009",
     "Bank Name": "CAJA RURAL DE EXTREMADURA",
@@ -4303,8 +4303,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "007",
     "SWIFT Code": "BCOEESMM007",
     "Bank Name": "CAJA RURAL DE GIJON",
@@ -4316,8 +4316,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "023",
     "SWIFT Code": "BCOEESMM023",
     "Bank Name": "CAJA RURAL DE GRANADA",
@@ -4329,8 +4329,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGUI",
-    "bankCode": "ES",
+    "bankCode": "CGUI",
+    "countryCode": "ES",
     "branchCode": "SBA",
     "SWIFT Code": "CGUIESBA",
     "Bank Name": "CAJA RURAL DE GUISSONA SOCIEDAD COOPERATIVA DE CREDITO",
@@ -4342,8 +4342,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "140",
     "SWIFT Code": "BCOEESMM140",
     "Bank Name": "CAJA RURAL DE GUISSONA SOCIEDAD COOPERATIVA DE CREDITO",
@@ -4355,8 +4355,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "067",
     "SWIFT Code": "BCOEESMM067",
     "Bank Name": "CAJA RURAL DE JAEN",
@@ -4368,8 +4368,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "096",
     "SWIFT Code": "BCOEESMM096",
     "Bank Name": "CAJA RURAL DE L'ALCUDIA",
@@ -4381,8 +4381,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "008",
     "SWIFT Code": "BCOEESMM008",
     "Bank Name": "CAJA RURAL DE NAVARRA",
@@ -4394,8 +4394,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "016",
     "SWIFT Code": "BCOEESMM016",
     "Bank Name": "CAJA RURAL DE SALAMANCA",
@@ -4407,8 +4407,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "018",
     "SWIFT Code": "BCOEESMM018",
     "Bank Name": "CAJA RURAL DE SAN AGUSTIN DE FUENTE ALAMO",
@@ -4420,8 +4420,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "017",
     "SWIFT Code": "BCOEESMM017",
     "Bank Name": "CAJA RURAL DE SORIA",
@@ -4433,8 +4433,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "080",
     "SWIFT Code": "BCOEESMM080",
     "Bank Name": "CAJA RURAL DE TERUEL",
@@ -4446,8 +4446,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "020",
     "SWIFT Code": "BCOEESMM020",
     "Bank Name": "CAJA RURAL DE UTRERA",
@@ -4459,8 +4459,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "144",
     "SWIFT Code": "BCOEESMM144",
     "Bank Name": "CAJA RURAL DE VILLAMALEA",
@@ -4472,8 +4472,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "152",
     "SWIFT Code": "CCRIES2A152",
     "Bank Name": "CAJA RURAL DE VILLAR",
@@ -4485,8 +4485,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "085",
     "SWIFT Code": "BCOEESMM085",
     "Bank Name": "CAJA RURAL DE ZAMORA",
@@ -4498,8 +4498,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "187",
     "SWIFT Code": "BCOEESMM187",
     "Bank Name": "CAJA RURAL DEL SUR,SDAD.COOP.CTO (FORMERLY CAJA RURAL DE HUELVA Y SEVILLA)",
@@ -4511,8 +4511,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "115",
     "SWIFT Code": "BCOEESMM115",
     "Bank Name": "CAJA RURAL NESTRA MADRE DEL SOL",
@@ -4524,8 +4524,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "098",
     "SWIFT Code": "BCOEESMM098",
     "Bank Name": "CAJA RURAL NTRA SRA DEL ROSARIO",
@@ -4537,8 +4537,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "134",
     "SWIFT Code": "BCOEESMM134",
     "Bank Name": "CAJA RURAL NTRA. SENORA DE LA ESPERANZA",
@@ -4550,8 +4550,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "089",
     "SWIFT Code": "BCOEESMM089",
     "Bank Name": "CAJA RURAL NTRA. SRA. DE GUADALUPE, SDAD. COOP. CDTO.",
@@ -4563,8 +4563,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "104",
     "SWIFT Code": "BCOEESMM104",
     "Bank Name": "CAJA RURAL NTRA. SRA. DEL CAMPO",
@@ -4576,8 +4576,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "166",
     "SWIFT Code": "BCOEESMM166",
     "Bank Name": "CAJA RURAL SAN ISIDRO DE LES COVES DE VINROMA, S. COOP. DE CREDITO V.",
@@ -4589,8 +4589,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "111",
     "SWIFT Code": "BCOEESMM111",
     "Bank Name": "CAJA RURAL SAN ISIDRO VALL D'UXO",
@@ -4602,8 +4602,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "130",
     "SWIFT Code": "BCOEESMM130",
     "Bank Name": "CAJA RURAL SAN JOSE DE ALMASSORA",
@@ -4615,8 +4615,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "174",
     "SWIFT Code": "BCOEESMM174",
     "Bank Name": "CAJA RURAL VINAROS S.C.C.V.",
@@ -4628,8 +4628,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "076",
     "SWIFT Code": "BCOEESMM076",
     "Bank Name": "CAJA SIETE, CAJA RURAL, SCC",
@@ -4641,8 +4641,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CJAL",
-    "bankCode": "ES",
+    "bankCode": "CJAL",
+    "countryCode": "ES",
     "branchCode": "SSS",
     "SWIFT Code": "CJALESSS",
     "Bank Name": "CAJALMENDRALEJO",
@@ -4654,8 +4654,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CCRI",
-    "bankCode": "ES",
+    "bankCode": "CCRI",
+    "countryCode": "ES",
     "branchCode": "S2A",
     "SWIFT Code": "CCRIES2A",
     "Bank Name": "CAJAMAR CAJA RURAL, SOCIEDAD COOPERATIVA DE CREDITO",
@@ -4667,8 +4667,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CSUR",
-    "bankCode": "ES",
+    "bankCode": "CSUR",
+    "countryCode": "ES",
     "branchCode": "S2C",
     "SWIFT Code": "CSURES2C",
     "Bank Name": "CAJASUR BANCO, S.A.",
@@ -4680,8 +4680,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DITS",
-    "bankCode": "ES",
+    "bankCode": "DITS",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "DITSESM2",
     "Bank Name": "CD DIGITAL ASSETS SL",
@@ -4693,8 +4693,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECA",
-    "bankCode": "ES",
+    "bankCode": "CECA",
+    "countryCode": "ES",
     "branchCode": "PTG",
     "SWIFT Code": "CECAESMMPTG",
     "Bank Name": "CECABANK, S.A.",
@@ -4706,8 +4706,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECA",
-    "bankCode": "ES",
+    "bankCode": "CECA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CECAESMM",
     "Bank Name": "CECABANK, S.A.",
@@ -4719,8 +4719,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CECA",
-    "bankCode": "ES",
+    "bankCode": "CECA",
+    "countryCode": "ES",
     "branchCode": "FXS",
     "SWIFT Code": "CECAESMMFXS",
     "Bank Name": "CECABANK, S.A.",
@@ -4732,8 +4732,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTEO",
-    "bankCode": "ES",
+    "bankCode": "CTEO",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CTEOESMM",
     "Bank Name": "CELLNEX TELECOM SA",
@@ -4745,8 +4745,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEMO",
-    "bankCode": "ES",
+    "bankCode": "CEMO",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "CEMOESBB",
     "Bank Name": "CEMENTOS MOLINS SA",
@@ -4758,8 +4758,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHPU",
-    "bankCode": "ES",
+    "bankCode": "CHPU",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "CHPUESBB",
     "Bank Name": "CHECKPOINT SYSTEMS ESPAA SLU",
@@ -4771,8 +4771,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "ES",
+    "bankCode": "PCBC",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "PCBCESBB",
     "Bank Name": "CHINA CONSTRUCTION BANK (EUROPE) S.A. SUCURSAL EN ESPANA",
@@ -4784,8 +4784,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ES",
+    "bankCode": "CITI",
+    "countryCode": "ES",
     "branchCode": "SMX",
     "SWIFT Code": "CITIESMX",
     "Bank Name": "CITIBANK EUROPE PLC SPAIN BRANCH",
@@ -4797,8 +4797,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "ES",
+    "bankCode": "CITI",
+    "countryCode": "ES",
     "branchCode": "SEC",
     "SWIFT Code": "CITIESMXSEC",
     "Bank Name": "CITIBANK EUROPE PLC SPAIN BRANCH",
@@ -4810,8 +4810,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBE",
-    "bankCode": "ES",
+    "bankCode": "COBE",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "COBEESBB",
     "Bank Name": "COBEGA SA",
@@ -4823,8 +4823,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGPE",
-    "bankCode": "ES",
+    "bankCode": "CGPE",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "CGPEESM2",
     "Bank Name": "COMERCIA GLOBAL PAYMENTS ENTIDAD DE PAGO, SL",
@@ -4836,8 +4836,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "ES",
+    "bankCode": "COBA",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "COBAESMXBAR",
     "Bank Name": "COMMERZBANK AG",
@@ -4849,8 +4849,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "ES",
+    "bankCode": "COBA",
+    "countryCode": "ES",
     "branchCode": "SMX",
     "SWIFT Code": "COBAESMX",
     "Bank Name": "COMMERZBANK AG",
@@ -4862,8 +4862,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "ES",
+    "bankCode": "COBA",
+    "countryCode": "ES",
     "branchCode": "TMA",
     "SWIFT Code": "COBAESMXTMA",
     "Bank Name": "COMMERZBANK AG",
@@ -4875,8 +4875,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COBA",
-    "bankCode": "ES",
+    "bankCode": "COBA",
+    "countryCode": "ES",
     "branchCode": "MCA",
     "SWIFT Code": "COBAESMXMCA",
     "Bank Name": "COMMERZBANK AG",
@@ -4888,8 +4888,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDIL",
-    "bankCode": "ES",
+    "bankCode": "CDIL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CDILESMM",
     "Bank Name": "COMPANIA DE DISTRIBUCION INTEGRAL LOGISTA,S.A.U",
@@ -4901,8 +4901,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPEP",
-    "bankCode": "ES",
+    "bankCode": "CPEP",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CPEPESMM",
     "Bank Name": "COMPANIA ESPANOLA DE PETROLEOS SA",
@@ -4914,8 +4914,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBCE",
-    "bankCode": "ES",
+    "bankCode": "IBCE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IBCEESMM",
     "Bank Name": "COMPANIA OPERADORA DE CORTO Y MEDIO RADIO IBERIA EXPRESS, S.A.U.",
@@ -4927,8 +4927,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMEM",
-    "bankCode": "ES",
+    "bankCode": "CMEM",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "CMEMESBB",
     "Bank Name": "COMSA CORPORACION",
@@ -4940,8 +4940,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COXF",
-    "bankCode": "ES",
+    "bankCode": "COXF",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "COXFES22",
     "Bank Name": "CONSTRUCCIONES Y AUXILIAR DE FERROCARRILES, S.A.",
@@ -4953,8 +4953,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CERV",
-    "bankCode": "ES",
+    "bankCode": "CERV",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "CERVES22",
     "Bank Name": "CORPORACION EMPRESARIAL CONVECTIA SL",
@@ -4966,8 +4966,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GCOS",
-    "bankCode": "ES",
+    "bankCode": "GCOS",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "GCOSES22",
     "Bank Name": "COSENTINO S.A.",
@@ -4979,8 +4979,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSUI",
-    "bankCode": "ES",
+    "bankCode": "BSUI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BSUIESMM",
     "Bank Name": "CREDIT AGRICOLE CIB",
@@ -4992,8 +4992,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CRESESMM",
     "Bank Name": "CREDIT SUISSE AG, SUCURSAL EN ESPANA",
@@ -5005,8 +5005,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "CRESESM2",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5018,8 +5018,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "EQD",
     "SWIFT Code": "CRESESM2EQD",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5031,8 +5031,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "PDS",
     "SWIFT Code": "CRESESM2PDS",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5044,8 +5044,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "PSO",
     "SWIFT Code": "CRESESM2PSO",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5057,8 +5057,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "SFK",
     "SWIFT Code": "CRESESM2SFK",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5070,8 +5070,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "STU",
     "SWIFT Code": "CRESESM2STU",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5083,8 +5083,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "VIS",
     "SWIFT Code": "CRESESM2VIS",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5096,8 +5096,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "FLP",
     "SWIFT Code": "CRESESM2FLP",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5109,8 +5109,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "PMC",
     "SWIFT Code": "CRESESM2PMC",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5122,8 +5122,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "ES",
+    "bankCode": "CRES",
+    "countryCode": "ES",
     "branchCode": "STC",
     "SWIFT Code": "CRESESM2STC",
     "Bank Name": "CREDIT SUISSE BANK (EUROPE) S.A.",
@@ -5135,8 +5135,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTIX",
-    "bankCode": "ES",
+    "bankCode": "CTIX",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CTIXESMM",
     "Bank Name": "CTI TECNOLOGIA Y GESTION, S.A.",
@@ -5148,8 +5148,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUDS",
-    "bankCode": "ES",
+    "bankCode": "CUDS",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "CUDSES22",
     "Bank Name": "CURRENCIES DIRECT SPAIN,E.D.E.,S.L.",
@@ -5161,8 +5161,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSC",
-    "bankCode": "ES",
+    "bankCode": "DBSC",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "DBSCESMM",
     "Bank Name": "DEUTSCHE BANK AG SPANISH BRANCH",
@@ -5174,8 +5174,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "ASS",
     "SWIFT Code": "DEUTESBBASS",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -5187,8 +5187,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "ES",
+    "bankCode": "DEUT",
+    "countryCode": "ES",
     "branchCode": "CL1",
     "SWIFT Code": "DEUTESBBCL1",
     "Bank Name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA UNIPERSONAL",
@@ -5200,8 +5200,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVCB",
-    "bankCode": "ES",
+    "bankCode": "GVCB",
+    "countryCode": "ES",
     "branchCode": "ETB",
     "SWIFT Code": "GVCBESBBETB",
     "Bank Name": "GVC GAESCO VALORES SV SA",
@@ -5213,8 +5213,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GVCB",
-    "bankCode": "ES",
+    "bankCode": "GVCB",
+    "countryCode": "ES",
     "branchCode": "EOC",
     "SWIFT Code": "GVCBESBBEOC",
     "Bank Name": "GVC GAESCO VALORES SV SA",
@@ -5226,8 +5226,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSI",
-    "bankCode": "ES",
+    "bankCode": "ESSI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ESSIESMM",
     "Bank Name": "HAITONG BANK, SA SUCURSAL ESPANA",
@@ -5239,8 +5239,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESSI",
-    "bankCode": "ES",
+    "bankCode": "ESSI",
+    "countryCode": "ES",
     "branchCode": "MAD",
     "SWIFT Code": "ESSIESMMMAD",
     "Bank Name": "HAITONG BANK, SA SUCURSAL ESPANA",
@@ -5252,8 +5252,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HCFX",
-    "bankCode": "ES",
+    "bankCode": "HCFX",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "HCFXESM2",
     "Bank Name": "HAMILTON COURT FX SIM S.P.A SUCURSAL EN ESPANA",
@@ -5265,8 +5265,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GONV",
-    "bankCode": "ES",
+    "bankCode": "GONV",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GONVESMM",
     "Bank Name": "HOLDING GONVARRI S.L.",
@@ -5278,8 +5278,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GONV",
-    "bankCode": "ES",
+    "bankCode": "GONV",
+    "countryCode": "ES",
     "branchCode": "GRI",
     "SWIFT Code": "GONVESMMGRI",
     "Bank Name": "HOLDING GONVARRI S.L.",
@@ -5291,8 +5291,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIPN",
-    "bankCode": "ES",
+    "bankCode": "HIPN",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "HIPNESBB",
     "Bank Name": "HOTEL INVESTMENT PARTNERS, S.A.",
@@ -5304,8 +5304,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBED",
-    "bankCode": "ES",
+    "bankCode": "HBED",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "HBEDES2M",
     "Bank Name": "HOTELBEDS SPAIN SLU",
@@ -5317,8 +5317,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "ES",
+    "bankCode": "MIDL",
+    "countryCode": "ES",
     "branchCode": "SMX",
     "SWIFT Code": "MIDLESMX",
     "Bank Name": "HSBC CONTINENTAL EUROPE, SUCURSAL EN ESPANA",
@@ -5330,8 +5330,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "ES",
+    "bankCode": "MIDL",
+    "countryCode": "ES",
     "branchCode": "CAM",
     "SWIFT Code": "MIDLESMMCAM",
     "Bank Name": "HSBC CONTINENTAL EUROPE, SUCURSAL EN ESPANA",
@@ -5343,8 +5343,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "ES",
+    "bankCode": "MIDL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MIDLESMM",
     "Bank Name": "HSBC CONTINENTAL EUROPE, SUCURSAL EN ESPANA",
@@ -5356,8 +5356,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIDL",
-    "bankCode": "ES",
+    "bankCode": "MIDL",
+    "countryCode": "ES",
     "branchCode": "SDD",
     "SWIFT Code": "MIDLESMMSDD",
     "Bank Name": "HSBC CONTINENTAL EUROPE, SUCURSAL EN ESPANA",
@@ -5369,8 +5369,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAZR",
-    "bankCode": "ES",
+    "bankCode": "CAZR",
+    "countryCode": "ES",
     "branchCode": "SVI",
     "SWIFT Code": "CAZRES2ZSVI",
     "Bank Name": "IBERCAJA BANCO S A",
@@ -5382,8 +5382,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAZR",
-    "bankCode": "ES",
+    "bankCode": "CAZR",
+    "countryCode": "ES",
     "branchCode": "ECC",
     "SWIFT Code": "CAZRES2ZECC",
     "Bank Name": "IBERCAJA BANCO S A",
@@ -5395,8 +5395,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAZR",
-    "bankCode": "ES",
+    "bankCode": "CAZR",
+    "countryCode": "ES",
     "branchCode": "S2Z",
     "SWIFT Code": "CAZRES2Z",
     "Bank Name": "IBERCAJA BANCO S A",
@@ -5408,8 +5408,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBDL",
-    "bankCode": "ES",
+    "bankCode": "IBDL",
+    "countryCode": "ES",
     "branchCode": "S2B",
     "SWIFT Code": "IBDLES2B",
     "Bank Name": "IBERDROLA S.A.",
@@ -5421,8 +5421,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STAR",
-    "bankCode": "ES",
+    "bankCode": "STAR",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "STARES2M",
     "Bank Name": "IBEROSTAR HOTELES Y APARTAMENTOS, S.L.",
@@ -5434,8 +5434,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBGM",
-    "bankCode": "ES",
+    "bankCode": "IBGM",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IBGMESMM",
     "Bank Name": "IBROKER GLOBAL MARKETS S.V., S.A.",
@@ -5447,8 +5447,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "ES",
+    "bankCode": "ICBK",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ICBKESMM",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA(EUROPE)S.A.,SUCURSAL EN ESPANA",
@@ -5460,8 +5460,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "ES",
+    "bankCode": "BBRU",
+    "countryCode": "ES",
     "branchCode": "SMX",
     "SWIFT Code": "BBRUESMX",
     "Bank Name": "ING BANK NV, SPANISH BRANCH (COMMERCIAL BANKING)",
@@ -5473,8 +5473,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INGD",
-    "bankCode": "ES",
+    "bankCode": "INGD",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "INGDESMM",
     "Bank Name": "ING BANK NV,SPANISH BRANCH (DIRECT)",
@@ -5486,8 +5486,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMCI",
-    "bankCode": "ES",
+    "bankCode": "IMCI",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "IMCIESBB",
     "Bank Name": "INMOBILIARIA COLONIAL, SOCIMI, S.A.",
@@ -5499,8 +5499,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICRO",
-    "bankCode": "ES",
+    "bankCode": "ICRO",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ICROESMM",
     "Bank Name": "INSTITUTO DE CREDITO OFICIAL",
@@ -5512,8 +5512,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVAL",
-    "bankCode": "ES",
+    "bankCode": "IVAL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IVALESMM",
     "Bank Name": "INTERMONEY VALORES S.V., S.A.",
@@ -5525,8 +5525,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVAL",
-    "bankCode": "ES",
+    "bankCode": "IVAL",
+    "countryCode": "ES",
     "branchCode": "999",
     "SWIFT Code": "IVALESMM999",
     "Bank Name": "INTERMONEY VALORES S.V., S.A.",
@@ -5538,8 +5538,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "BA1",
     "SWIFT Code": "IAGLESMMBA1",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5551,8 +5551,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "IB1",
     "SWIFT Code": "IAGLESMMIB1",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5564,8 +5564,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "VY1",
     "SWIFT Code": "IAGLESMMVY1",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5577,8 +5577,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IAGLESMM",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5590,8 +5590,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "EI1",
     "SWIFT Code": "IAGLESMMEI1",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5603,8 +5603,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "AGL",
     "SWIFT Code": "IAGLESMMAGL",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5616,8 +5616,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "GBS",
     "SWIFT Code": "IAGLESMMGBS",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5629,8 +5629,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IAGL",
-    "bankCode": "ES",
+    "bankCode": "IAGL",
+    "countryCode": "ES",
     "branchCode": "IAG",
     "SWIFT Code": "IAGLESMMIAG",
     "Bank Name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
@@ -5642,8 +5642,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCIT",
-    "bankCode": "ES",
+    "bankCode": "BCIT",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BCITESMM",
     "Bank Name": "INTESA SANPAOLO S.P.A. MADRID BRANCH",
@@ -5655,8 +5655,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ORUN",
-    "bankCode": "ES",
+    "bankCode": "ORUN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ORUNESMM",
     "Bank Name": "IPAGOO LLP, MADRID BRANCH",
@@ -5668,8 +5668,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISDI",
-    "bankCode": "ES",
+    "bankCode": "ISDI",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "ISDIESBB",
     "Bank Name": "ISDIN SA",
@@ -5681,8 +5681,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISOL",
-    "bankCode": "ES",
+    "bankCode": "ISOL",
+    "countryCode": "ES",
     "branchCode": "SVV",
     "SWIFT Code": "ISOLESVV",
     "Bank Name": "ISSUER SOLUTIONS SL",
@@ -5694,8 +5694,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "ES",
+    "bankCode": "CHAS",
+    "countryCode": "ES",
     "branchCode": "SM3",
     "SWIFT Code": "CHASESM3",
     "Bank Name": "JPMORGAN CHASE BANK, N.A.",
@@ -5707,8 +5707,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "ES",
+    "bankCode": "CHAS",
+    "countryCode": "ES",
     "branchCode": "SMA",
     "SWIFT Code": "CHASESMA",
     "Bank Name": "JPMORGAN CHASE BANK, N.A. - MADRID BRANCH",
@@ -5720,8 +5720,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KANT",
-    "bankCode": "ES",
+    "bankCode": "KANT",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "KANTESBB",
     "Bank Name": "KANTOX EUROPEAN UNION, S.L.",
@@ -5733,8 +5733,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSCA",
-    "bankCode": "ES",
+    "bankCode": "KSCA",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "KSCAESM2",
     "Bank Name": "KING  SHAXSON CAPITAL MARKETS S.V., S.A.",
@@ -5746,8 +5746,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KSCA",
-    "bankCode": "ES",
+    "bankCode": "KSCA",
+    "countryCode": "ES",
     "branchCode": "BXX",
     "SWIFT Code": "KSCAESM2BXX",
     "Bank Name": "KING  SHAXSON CAPITAL MARKETS S.V., S.A.",
@@ -5759,8 +5759,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BASK",
-    "bankCode": "ES",
+    "bankCode": "BASK",
+    "countryCode": "ES",
     "branchCode": "S2B",
     "SWIFT Code": "BASKES2B",
     "Bank Name": "KUTXABANK, S.A.",
@@ -5772,8 +5772,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CLPE",
-    "bankCode": "ES",
+    "bankCode": "CLPE",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "CLPEES2M",
     "Bank Name": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
@@ -5785,8 +5785,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ROVI",
-    "bankCode": "ES",
+    "bankCode": "ROVI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ROVIESMM",
     "Bank Name": "LABORATORIOS FARMACEUTICOS ROVI SA",
@@ -5798,8 +5798,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIPR",
-    "bankCode": "ES",
+    "bankCode": "HIPR",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "HIPRES22",
     "Bank Name": "LABORATORIOS HIPRA, S.A.",
@@ -5811,8 +5811,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LNFP",
-    "bankCode": "ES",
+    "bankCode": "LNFP",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "LNFPESMM",
     "Bank Name": "LALIGA GROUP INTERNATIONAL, S.L.",
@@ -5824,8 +5824,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LEVT",
-    "bankCode": "ES",
+    "bankCode": "LEVT",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "LEVTES2M",
     "Bank Name": "LEVANTUR S.A.",
@@ -5837,8 +5837,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "ES",
+    "bankCode": "LOCY",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "LOCYESMM",
     "Bank Name": "LOMBARD ODIER (EUROPE) SA SUCURSAL EN ESPANA",
@@ -5850,8 +5850,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PANX",
-    "bankCode": "ES",
+    "bankCode": "PANX",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "PANXESM2",
     "Bank Name": "UNIFIEDPOST PAYMENTS SA SUCURSAL EN ESPANA",
@@ -5863,8 +5863,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCIN",
-    "bankCode": "ES",
+    "bankCode": "UCIN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "UCINESMM",
     "Bank Name": "UNION DE CREDITOS INMOBILIARIOS, S.A.",
@@ -5876,8 +5876,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNAX",
-    "bankCode": "ES",
+    "bankCode": "UNAX",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "UNAXES22",
     "Bank Name": "UNNAX REGULATORY SERVICES EDE SL",
@@ -5889,8 +5889,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "URSN",
-    "bankCode": "ES",
+    "bankCode": "URSN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "URSNESMM",
     "Bank Name": "URSA INSULATION S.A.",
@@ -5902,8 +5902,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TEFG",
-    "bankCode": "ES",
+    "bankCode": "TEFG",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "TEFGESMM",
     "Bank Name": "VIEWNEXT, S.A.",
@@ -5915,8 +5915,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VISF",
-    "bankCode": "ES",
+    "bankCode": "VISF",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "VISFES22",
     "Bank Name": "VISCOFAN, S.A.",
@@ -5928,8 +5928,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPAY",
-    "bankCode": "ES",
+    "bankCode": "VPAY",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "VPAYESM2",
     "Bank Name": "VIVA PAYMENT SERVICES S.A. SUCURSAL EN ESPANA",
@@ -5941,8 +5941,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VLNG",
-    "bankCode": "ES",
+    "bankCode": "VLNG",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "VLNGESBB",
     "Bank Name": "VUELING AIRLINES S.A",
@@ -5954,8 +5954,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABX",
-    "bankCode": "ES",
+    "bankCode": "WABX",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "WABXESMM",
     "Bank Name": "WALL BOX CHARGERS S.L.U.",
@@ -5967,8 +5967,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WERF",
-    "bankCode": "ES",
+    "bankCode": "WERF",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "WERFESBB",
     "Bank Name": "WERFEN S.A.",
@@ -5980,8 +5980,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WUIB",
-    "bankCode": "ES",
+    "bankCode": "WUIB",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "WUIBESM2",
     "Bank Name": "WESTERN UNION INTERNATIONAL BANK GMBH - SUCURSAL EN ESPANA",
@@ -5993,8 +5993,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPL",
-    "bankCode": "ES",
+    "bankCode": "POPL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "POPLESMM",
     "Bank Name": "WIZINK BANK S.A.U.",
@@ -6006,8 +6006,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YSEP",
-    "bankCode": "ES",
+    "bankCode": "YSEP",
+    "countryCode": "ES",
     "branchCode": "SB2",
     "SWIFT Code": "YSEPESB2",
     "Bank Name": "YOUNITED SUCURSAL EN ESPANA",
@@ -6019,8 +6019,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZURI",
-    "bankCode": "ES",
+    "bankCode": "ZURI",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "ZURIESBB",
     "Bank Name": "ZURICH INSURANCE PLC. SUCURSAL EN ESPANA",
@@ -6032,8 +6032,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPU",
-    "bankCode": "ES",
+    "bankCode": "POPU",
+    "countryCode": "ES",
     "branchCode": "REX",
     "SWIFT Code": "POPUESMMREX",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO POPULAR ESPANOL, S.A.)",
@@ -6045,8 +6045,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPU",
-    "bankCode": "ES",
+    "bankCode": "POPU",
+    "countryCode": "ES",
     "branchCode": "BOL",
     "SWIFT Code": "POPUESMMBOL",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY BANCO POPULAR ESPANOL, S.A.)",
@@ -6058,8 +6058,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POPI",
-    "bankCode": "ES",
+    "bankCode": "POPI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "POPIESMM",
     "Bank Name": "BANCO SANTANDER S.A. (FORMERLY POPULAR BANCA PRIVADA)",
@@ -6071,8 +6071,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMCE",
-    "bankCode": "ES",
+    "bankCode": "BMCE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BMCEESMM",
     "Bank Name": "BANK OF AFRICA EUROPE, SAU",
@@ -6084,8 +6084,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "ES",
+    "bankCode": "BOFA",
+    "countryCode": "ES",
     "branchCode": "FIC",
     "SWIFT Code": "BOFAES2XFIC",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, MADRID BRANCH",
@@ -6097,8 +6097,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "ES",
+    "bankCode": "BOFA",
+    "countryCode": "ES",
     "branchCode": "VAM",
     "SWIFT Code": "BOFAES2XVAM",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, MADRID BRANCH",
@@ -6110,8 +6110,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "ES",
+    "bankCode": "BOFA",
+    "countryCode": "ES",
     "branchCode": "S2X",
     "SWIFT Code": "BOFAES2X",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, MADRID BRANCH",
@@ -6123,8 +6123,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "ES",
+    "bankCode": "PICT",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PICTESMM",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCURSAL EN ESPANA",
@@ -6136,8 +6136,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PICT",
-    "bankCode": "ES",
+    "bankCode": "PICT",
+    "countryCode": "ES",
     "branchCode": "COR",
     "SWIFT Code": "PICTESMMCOR",
     "Bank Name": "BANK PICTET AND CIE (EUROPE) AG SUCURSAL EN ESPANA",
@@ -6149,8 +6149,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BGSA",
-    "bankCode": "ES",
+    "bankCode": "BGSA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BGSAESMM",
     "Bank Name": "BANKINTER GESTION DE ACTIVOS, S.A., S.G.I.I.C.",
@@ -6162,8 +6162,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "ALI",
     "SWIFT Code": "BKBKESMMALI",
     "Bank Name": "BANKINTER, S.A.",
@@ -6175,8 +6175,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "BKBKESMMBAR",
     "Bank Name": "BANKINTER, S.A.",
@@ -6188,8 +6188,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "BIL",
     "SWIFT Code": "BKBKESMMBIL",
     "Bank Name": "BANKINTER, S.A.",
@@ -6201,8 +6201,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "LPS",
     "SWIFT Code": "BKBKESMMLPS",
     "Bank Name": "BANKINTER, S.A.",
@@ -6214,8 +6214,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "VAL",
     "SWIFT Code": "BKBKESMMVAL",
     "Bank Name": "BANKINTER, S.A.",
@@ -6227,8 +6227,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "VIG",
     "SWIFT Code": "BKBKESMMVIG",
     "Bank Name": "BANKINTER, S.A.",
@@ -6240,8 +6240,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BKBKESMM",
     "Bank Name": "BANKINTER, S.A.",
@@ -6253,8 +6253,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "ZAR",
     "SWIFT Code": "BKBKESMMZAR",
     "Bank Name": "BANKINTER, S.A.",
@@ -6266,8 +6266,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "BAC",
     "SWIFT Code": "BKBKESMMBAC",
     "Bank Name": "BANKINTER, S.A.",
@@ -6279,8 +6279,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "FON",
     "SWIFT Code": "BKBKESMMFON",
     "Bank Name": "BANKINTER, S.A.",
@@ -6292,8 +6292,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "MAL",
     "SWIFT Code": "BKBKESMMMAL",
     "Bank Name": "BANKINTER, S.A.",
@@ -6305,8 +6305,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "MUR",
     "SWIFT Code": "BKBKESMMMUR",
     "Bank Name": "BANKINTER, S.A.",
@@ -6318,8 +6318,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "PAL",
     "SWIFT Code": "BKBKESMMPAL",
     "Bank Name": "BANKINTER, S.A.",
@@ -6331,8 +6331,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "NAV",
     "SWIFT Code": "BKBKESMMNAV",
     "Bank Name": "BANKINTER, S.A.",
@@ -6344,8 +6344,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "SSE",
     "SWIFT Code": "BKBKESMMSSE",
     "Bank Name": "BANKINTER, S.A.",
@@ -6357,8 +6357,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "TEN",
     "SWIFT Code": "BKBKESMMTEN",
     "Bank Name": "BANKINTER, S.A.",
@@ -6370,8 +6370,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "SAN",
     "SWIFT Code": "BKBKESMMSAN",
     "Bank Name": "BANKINTER, S.A.",
@@ -6383,8 +6383,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKBK",
-    "bankCode": "ES",
+    "bankCode": "BKBK",
+    "countryCode": "ES",
     "branchCode": "SEV",
     "SWIFT Code": "BKBKESMMSEV",
     "Bank Name": "BANKINTER, S.A.",
@@ -6396,8 +6396,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDM",
-    "bankCode": "ES",
+    "bankCode": "BCDM",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BCDMESMM",
     "Bank Name": "BANQUE CHAABI DU MAROC SUCURSAL ESPANA",
@@ -6409,8 +6409,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPLC",
-    "bankCode": "ES",
+    "bankCode": "BPLC",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BPLCESMM",
     "Bank Name": "BARCLAYS BANK IRELAND PLC SUCURSAL EN ESPANA",
@@ -6422,8 +6422,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBO",
-    "bankCode": "ES",
+    "bankCode": "CMBO",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "CMBOESMM",
     "Bank Name": "BEKA FINANCE, S.V., S.A.",
@@ -6435,8 +6435,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBO",
-    "bankCode": "ES",
+    "bankCode": "CMBO",
+    "countryCode": "ES",
     "branchCode": "BK1",
     "SWIFT Code": "CMBOESMMBK1",
     "Bank Name": "BEKA FINANCE, S.V., S.A.",
@@ -6448,8 +6448,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CMBO",
-    "bankCode": "ES",
+    "bankCode": "CMBO",
+    "countryCode": "ES",
     "branchCode": "BK2",
     "SWIFT Code": "CMBOESMMBK2",
     "Bank Name": "BEKA FINANCE, S.V., S.A.",
@@ -6461,8 +6461,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEGC",
-    "bankCode": "ES",
+    "bankCode": "BEGC",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BEGCESMM",
     "Bank Name": "BERGE Y COMPANIA, S.A.",
@@ -6474,8 +6474,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "CCP",
     "SWIFT Code": "MEFFESBBCCP",
     "Bank Name": "BME CLEARING",
@@ -6487,8 +6487,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "MRG",
     "SWIFT Code": "MEFFESBBMRG",
     "Bank Name": "BME CLEARING",
@@ -6500,8 +6500,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "MES",
     "SWIFT Code": "MEFFESBBMES",
     "Bank Name": "BME CLEARING",
@@ -6513,8 +6513,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "MRF",
     "SWIFT Code": "MEFFESBBMRF",
     "Bank Name": "BME CLEARING",
@@ -6526,8 +6526,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "RRR",
     "SWIFT Code": "MEFFESBBRRR",
     "Bank Name": "BME CLEARING",
@@ -6539,8 +6539,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "MEFFESBB",
     "Bank Name": "BME CLEARING",
@@ -6552,8 +6552,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "CRY",
     "SWIFT Code": "MEFFESBBCRY",
     "Bank Name": "BME CLEARING",
@@ -6565,8 +6565,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "CRV",
     "SWIFT Code": "MEFFESBBCRV",
     "Bank Name": "BME CLEARING",
@@ -6578,8 +6578,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "VVV",
     "SWIFT Code": "MEFFESBBVVV",
     "Bank Name": "BME CLEARING",
@@ -6591,8 +6591,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "CRF",
     "SWIFT Code": "MEFFESBBCRF",
     "Bank Name": "BME CLEARING",
@@ -6604,8 +6604,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "TYS",
     "SWIFT Code": "MEFFESBBTYS",
     "Bank Name": "BME CLEARING",
@@ -6617,8 +6617,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "MTS",
     "SWIFT Code": "MEFFESBBMTS",
     "Bank Name": "BME CLEARING",
@@ -6630,8 +6630,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEFF",
-    "bankCode": "ES",
+    "bankCode": "MEFF",
+    "countryCode": "ES",
     "branchCode": "MRV",
     "SWIFT Code": "MEFFESBBMRV",
     "Bank Name": "BME CLEARING",
@@ -6643,8 +6643,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMTE",
-    "bankCode": "ES",
+    "bankCode": "BMTE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BMTEESMM",
     "Bank Name": "BME POST TRADE SERVICES SA",
@@ -6656,8 +6656,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNXT",
-    "bankCode": "ES",
+    "bankCode": "BNXT",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "BNXTESM2",
     "Bank Name": "BNEXT ELECTRONIC ISSUER, EDE, S.L.",
@@ -6669,8 +6669,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "ES",
+    "bankCode": "GEBA",
+    "countryCode": "ES",
     "branchCode": "BAR",
     "SWIFT Code": "GEBAESMMBAR",
     "Bank Name": "BNP PARIBAS FORTIS, SA/NV SUCURSAL EN ESPANA",
@@ -6682,8 +6682,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUIG",
-    "bankCode": "ES",
+    "bankCode": "PUIG",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "PUIGESBB",
     "Bank Name": "PUIG BRANDS, S.A.",
@@ -6695,8 +6695,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUNO",
-    "bankCode": "ES",
+    "bankCode": "PUNO",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "PUNOESBB",
     "Bank Name": "PUNTO FA S.L.",
@@ -6708,8 +6708,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRAB",
-    "bankCode": "ES",
+    "bankCode": "PRAB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PRABESMM",
     "Bank Name": "RABOBANK MADRID",
@@ -6721,8 +6721,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RDXS",
-    "bankCode": "ES",
+    "bankCode": "RDXS",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "RDXSESMM",
     "Bank Name": "REDEXIS S.A.",
@@ -6734,8 +6734,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RGTR",
-    "bankCode": "ES",
+    "bankCode": "RGTR",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "RGTRESMM",
     "Bank Name": "REGIS-TR SA SUCURSAL EN ESPANA",
@@ -6747,8 +6747,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENB",
-    "bankCode": "ES",
+    "bankCode": "RENB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "RENBESMM",
     "Bank Name": "RENTA 4 BANCO, S.A.",
@@ -6760,8 +6760,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENB",
-    "bankCode": "ES",
+    "bankCode": "RENB",
+    "countryCode": "ES",
     "branchCode": "AGE",
     "SWIFT Code": "RENBESMMAGE",
     "Bank Name": "RENTA 4 BANCO, S.A.",
@@ -6773,8 +6773,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENB",
-    "bankCode": "ES",
+    "bankCode": "RENB",
+    "countryCode": "ES",
     "branchCode": "BME",
     "SWIFT Code": "RENBESMMBME",
     "Bank Name": "RENTA 4 BANCO, S.A.",
@@ -6786,8 +6786,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RENB",
-    "bankCode": "ES",
+    "bankCode": "RENB",
+    "countryCode": "ES",
     "branchCode": "RVN",
     "SWIFT Code": "RENBESMMRVN",
     "Bank Name": "RENTA 4 BANCO, S.A.",
@@ -6799,8 +6799,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REPY",
-    "bankCode": "ES",
+    "bankCode": "REPY",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "REPYESMM",
     "Bank Name": "REPSOL, S.A.",
@@ -6812,8 +6812,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "ES",
+    "bankCode": "REVO",
+    "countryCode": "ES",
     "branchCode": "SM3",
     "SWIFT Code": "REVOESM3",
     "Bank Name": "REVOLUT BANK UAB, SUCURSAL EN ESPAN",
@@ -6825,8 +6825,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "ES",
+    "bankCode": "REVO",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "REVOESM2",
     "Bank Name": "REVOLUT BANK UAB, SUCURSAL EN ESPAN",
@@ -6838,8 +6838,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RIUH",
-    "bankCode": "ES",
+    "bankCode": "RIUH",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "RIUHES2M",
     "Bank Name": "RIUSA II S.A.",
@@ -6851,8 +6851,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GROC",
-    "bankCode": "ES",
+    "bankCode": "GROC",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "GROCESBB",
     "Bank Name": "ROCA SANITARIO, S. A.",
@@ -6864,8 +6864,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCOE",
-    "bankCode": "ES",
+    "bankCode": "BCOE",
+    "countryCode": "ES",
     "branchCode": "138",
     "SWIFT Code": "BCOEESMM138",
     "Bank Name": "RURALNOSTRA, S. COOP. DE CREDITO V.",
@@ -6877,8 +6877,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STUU",
-    "bankCode": "ES",
+    "bankCode": "STUU",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "STUUES22",
     "Bank Name": "S.TOUS S.L",
@@ -6890,8 +6890,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SINF",
-    "bankCode": "ES",
+    "bankCode": "SINF",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "SINFESBB",
     "Bank Name": "SABA INFRAESTRUCTURAS, S. A.",
@@ -6903,8 +6903,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAYY",
-    "bankCode": "ES",
+    "bankCode": "SAYY",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SAYYESMM",
     "Bank Name": "SACYR,S.A.",
@@ -6916,8 +6916,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMX",
-    "bankCode": "ES",
+    "bankCode": "SAMX",
+    "countryCode": "ES",
     "branchCode": "SMA",
     "SWIFT Code": "SAMXESMA",
     "Bank Name": "SANTANDER ASSET MANAGEMENT, S.A.",
@@ -6929,8 +6929,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAMX",
-    "bankCode": "ES",
+    "bankCode": "SAMX",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SAMXESMM",
     "Bank Name": "SANTANDER ASSET MANAGEMENT, S.A.",
@@ -6942,8 +6942,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAGD",
-    "bankCode": "ES",
+    "bankCode": "SAGD",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "SAGDESM2",
     "Bank Name": "SANTANDER ASSET MANAGEMENT, S.A. CIUDAD GRUPO SANTANDER",
@@ -6955,8 +6955,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCFB",
-    "bankCode": "ES",
+    "bankCode": "SCFB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SCFBESMM",
     "Bank Name": "SANTANDER CONSUMER FINANCE, S.A.",
@@ -6968,8 +6968,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABN",
-    "bankCode": "ES",
+    "bankCode": "SABN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SABNESMM",
     "Bank Name": "SANTANDER INVESTMENT S.A.",
@@ -6981,8 +6981,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABN",
-    "bankCode": "ES",
+    "bankCode": "SABN",
+    "countryCode": "ES",
     "branchCode": "SSS",
     "SWIFT Code": "SABNESMMSSS",
     "Bank Name": "SANTANDER INVESTMENT S.A.",
@@ -6994,8 +6994,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SPVG",
-    "bankCode": "ES",
+    "bankCode": "SPVG",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SPVGESMM",
     "Bank Name": "SANTANDER PRIVATE BANKING GESTION,S.A., S.G.I.I.C.",
@@ -7007,8 +7007,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SESD",
-    "bankCode": "ES",
+    "bankCode": "SESD",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "SESDES22",
     "Bank Name": "SEFIDE EDE SOCIEDAD LIMITADA",
@@ -7020,8 +7020,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GAMC",
-    "bankCode": "ES",
+    "bankCode": "GAMC",
+    "countryCode": "ES",
     "branchCode": "S2A",
     "SWIFT Code": "GAMCES2A",
     "Bank Name": "SIEMENS GAMESA RENEWABLE ENERGY, SA",
@@ -7033,8 +7033,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHOD",
-    "bankCode": "ES",
+    "bankCode": "SHOD",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "SHODESBB",
     "Bank Name": "SIMON HOLDING SL",
@@ -7046,8 +7046,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SELF",
-    "bankCode": "ES",
+    "bankCode": "SELF",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "SELFESMM",
     "Bank Name": "SINGULAR BANK",
@@ -7059,8 +7059,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SONM",
-    "bankCode": "ES",
+    "bankCode": "SONM",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "SONMESBB",
     "Bank Name": "SOCIEDAD ANONIMA DAMM",
@@ -7072,8 +7072,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SAIC",
-    "bankCode": "ES",
+    "bankCode": "SAIC",
+    "countryCode": "ES",
     "branchCode": "S2Z",
     "SWIFT Code": "SAICES2Z",
     "Bank Name": "SOCIEDAD ANONIMA INDUSTRIAS CELULOSA ARAGONESA",
@@ -7085,8 +7085,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "AS1",
     "SWIFT Code": "IBRCESMMAS1",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7098,8 +7098,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "CDE",
     "SWIFT Code": "IBRCESMMCDE",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7111,8 +7111,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "INV",
     "SWIFT Code": "IBRCESMMINV",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7124,8 +7124,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "ISS",
     "SWIFT Code": "IBRCESMMISS",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7137,8 +7137,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "MVL",
     "SWIFT Code": "IBRCESMMMVL",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7150,8 +7150,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "SCL",
     "SWIFT Code": "IBRCESMMSCL",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7163,8 +7163,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "IBRCESMM",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7176,8 +7176,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "EF1",
     "SWIFT Code": "IBRCESMMEF1",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7189,8 +7189,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "EF2",
     "SWIFT Code": "IBRCESMMEF2",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7202,8 +7202,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "EN1",
     "SWIFT Code": "IBRCESMMEN1",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7215,8 +7215,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "EN2",
     "SWIFT Code": "IBRCESMMEN2",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7228,8 +7228,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "BME",
     "SWIFT Code": "IBRCESMMBME",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7241,8 +7241,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "ASI",
     "SWIFT Code": "IBRCESMMASI",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7254,8 +7254,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "GOB",
     "SWIFT Code": "IBRCESMMGOB",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7267,8 +7267,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "GAR",
     "SWIFT Code": "IBRCESMMGAR",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7280,8 +7280,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "MIG",
     "SWIFT Code": "IBRCESMMMIG",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7293,8 +7293,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "MK2",
     "SWIFT Code": "IBRCESMMMK2",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7306,8 +7306,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "MK3",
     "SWIFT Code": "IBRCESMMMK3",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7319,8 +7319,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBRC",
-    "bankCode": "ES",
+    "bankCode": "IBRC",
+    "countryCode": "ES",
     "branchCode": "GTE",
     "SWIFT Code": "IBRCESMMGTE",
     "Bank Name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
@@ -7332,8 +7332,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "ES",
+    "bankCode": "LOCY",
+    "countryCode": "ES",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYESMMNDP",
     "Bank Name": "LOMBARD ODIER (EUROPE) SA SUCURSAL EN ESPANA",
@@ -7345,8 +7345,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LONT",
-    "bankCode": "ES",
+    "bankCode": "LONT",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "LONTES22",
     "Bank Name": "LONTANA, S.A.",
@@ -7358,8 +7358,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXCH",
-    "bankCode": "ES",
+    "bankCode": "EXCH",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "EXCHESMM",
     "Bank Name": "MACCORP EXACT CHANGE, E.P., S.A.",
@@ -7371,8 +7371,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPAY",
-    "bankCode": "ES",
+    "bankCode": "MPAY",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "MPAYESM2",
     "Bank Name": "MANGOPAY S.A. SUCURSAL EN ESPANA",
@@ -7384,8 +7384,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MISV",
-    "bankCode": "ES",
+    "bankCode": "MISV",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MISVESMM",
     "Bank Name": "MAPFRE INVERSION SOCIEDAD DE VALORES S.A.",
@@ -7397,8 +7397,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MISV",
-    "bankCode": "ES",
+    "bankCode": "MISV",
+    "countryCode": "ES",
     "branchCode": "SMB",
     "SWIFT Code": "MISVESMB",
     "Bank Name": "MAPFRE INVERSION SOCIEDAD DE VALORES S.A.",
@@ -7410,8 +7410,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPFE",
-    "bankCode": "ES",
+    "bankCode": "MPFE",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MPFEESMM",
     "Bank Name": "MAPFRE SA",
@@ -7423,8 +7423,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPFE",
-    "bankCode": "ES",
+    "bankCode": "MPFE",
+    "countryCode": "ES",
     "branchCode": "MSA",
     "SWIFT Code": "MPFEESMMMSA",
     "Bank Name": "MAPFRE SA",
@@ -7436,8 +7436,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAXH",
-    "bankCode": "ES",
+    "bankCode": "MAXH",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MAXHESMM",
     "Bank Name": "MAXAMCORP HOLDING SL",
@@ -7449,8 +7449,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEOD",
-    "bankCode": "ES",
+    "bankCode": "MEOD",
+    "countryCode": "ES",
     "branchCode": "SVA",
     "SWIFT Code": "MEODESVA",
     "Bank Name": "MERCADONA SA",
@@ -7462,8 +7462,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEPO",
-    "bankCode": "ES",
+    "bankCode": "MEPO",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MEPOESMM",
     "Bank Name": "MERLIN PROPERTIES SOCIMI, S.A.",
@@ -7475,8 +7475,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MYPD",
-    "bankCode": "ES",
+    "bankCode": "MYPD",
+    "countryCode": "ES",
     "branchCode": "S2B",
     "SWIFT Code": "MYPDES2B",
     "Bank Name": "MINERALES Y PRODUCTOS DERIVADOS S.A",
@@ -7488,8 +7488,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MIRA",
-    "bankCode": "ES",
+    "bankCode": "MIRA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MIRAESMM",
     "Bank Name": "MIRABAUD AND CIE (EUROPE) SA,SUCURSAL EN ESPANA",
@@ -7501,8 +7501,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MRTF",
-    "bankCode": "ES",
+    "bankCode": "MRTF",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "MRTFESM2",
     "Bank Name": "MIRALTA FINANCE BANK S.A.",
@@ -7514,8 +7514,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MODR",
-    "bankCode": "ES",
+    "bankCode": "MODR",
+    "countryCode": "ES",
     "branchCode": "SB2",
     "SWIFT Code": "MODRESB2",
     "Bank Name": "MODULR FINANCE B.V., SPAIN BRANCH",
@@ -7527,8 +7527,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADES",
-    "bankCode": "ES",
+    "bankCode": "ADES",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "ADESESMM",
     "Bank Name": "MOLECOR CANALIZACIONES S.L.",
@@ -7540,8 +7540,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MDIP",
-    "bankCode": "ES",
+    "bankCode": "MDIP",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "MDIPES22",
     "Bank Name": "MONEI DIGITAL PAYMENTS SL",
@@ -7553,8 +7553,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNTY",
-    "bankCode": "ES",
+    "bankCode": "MNTY",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "MNTYESMM",
     "Bank Name": "MONTY GLOBAL PAYMENTS, S.A.U.",
@@ -7566,8 +7566,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BACA",
-    "bankCode": "ES",
+    "bankCode": "BACA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "BACAESMM",
     "Bank Name": "MYINVESTOR BANCO, S.A.",
@@ -7579,8 +7579,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NATX",
-    "bankCode": "ES",
+    "bankCode": "NATX",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "NATXESMM",
     "Bank Name": "NATIXIS S.A., SUCURSAL EN ESPANA",
@@ -7592,8 +7592,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GANR",
-    "bankCode": "ES",
+    "bankCode": "GANR",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "GANRESBB",
     "Bank Name": "NATURGY ENERGY GROUP S.A.",
@@ -7605,8 +7605,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NENV",
-    "bankCode": "ES",
+    "bankCode": "NENV",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "NENVES22",
     "Bank Name": "NEINVER, S.A.",
@@ -7618,8 +7618,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NCAS",
-    "bankCode": "ES",
+    "bankCode": "NCAS",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "NCASESBB",
     "Bank Name": "NEO CAPITAL MARKETS S.V. S.A.",
@@ -7631,8 +7631,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEOP",
-    "bankCode": "ES",
+    "bankCode": "NEOP",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "NEOPESBB",
     "Bank Name": "NEO PAYMENT FACTORY S.L.",
@@ -7644,8 +7644,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NHSA",
-    "bankCode": "ES",
+    "bankCode": "NHSA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "NHSAESMM",
     "Bank Name": "NH HOTEL GROUP SA",
@@ -7657,8 +7657,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NNFM",
-    "bankCode": "ES",
+    "bankCode": "NNFM",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "NNFMESM2",
     "Bank Name": "NINETY NINE FINANCIAL MARKETS, SV",
@@ -7670,8 +7670,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOEY",
-    "bankCode": "ES",
+    "bankCode": "NOEY",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "NOEYESM2",
     "Bank Name": "NOELSE PAY SA",
@@ -7683,8 +7683,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NORL",
-    "bankCode": "ES",
+    "bankCode": "NORL",
+    "countryCode": "ES",
     "branchCode": "S2B",
     "SWIFT Code": "NORLES2B",
     "Bank Name": "NORBOLSA S.V.,S.A.",
@@ -7696,8 +7696,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NDEL",
-    "bankCode": "ES",
+    "bankCode": "NDEL",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "NDELESMM",
     "Bank Name": "NTT DATA EUROPE AND LATAM, S.L.U.",
@@ -7709,8 +7709,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVIR",
-    "bankCode": "ES",
+    "bankCode": "EVIR",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "EVIRESMM",
     "Bank Name": "NTT DATA SPAIN SLU",
@@ -7722,8 +7722,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QNTO",
-    "bankCode": "ES",
+    "bankCode": "QNTO",
+    "countryCode": "ES",
     "branchCode": "SB2",
     "SWIFT Code": "QNTOESB2",
     "Bank Name": "OLINDA SAS SUCURSAL EN ESPANA",
@@ -7735,8 +7735,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OHOD",
-    "bankCode": "ES",
+    "bankCode": "OHOD",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "OHODESMM",
     "Bank Name": "OPDENERGY HOLDING SA",
@@ -7748,8 +7748,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OPEN",
-    "bankCode": "ES",
+    "bankCode": "OPEN",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "OPENESMM",
     "Bank Name": "OPEN BANK S.A.",
@@ -7761,8 +7761,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAGO",
-    "bankCode": "ES",
+    "bankCode": "PAGO",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "PAGOES22",
     "Bank Name": "PAGONXT EMONEY EDE SL",
@@ -7774,8 +7774,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PMSA",
-    "bankCode": "ES",
+    "bankCode": "PMSA",
+    "countryCode": "ES",
     "branchCode": "SBB",
     "SWIFT Code": "PMSAESBB",
     "Bank Name": "PAX MIDCO SPAIN SL",
@@ -7787,8 +7787,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PPAI",
-    "bankCode": "ES",
+    "bankCode": "PPAI",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PPAIESMM",
     "Bank Name": "PAYMATICO PAYMENT INSTITUTION S.L.",
@@ -7800,8 +7800,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PFSV",
-    "bankCode": "ES",
+    "bankCode": "PFSV",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PFSVESMM",
     "Bank Name": "PAYNOPAIN",
@@ -7813,8 +7813,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCRD",
-    "bankCode": "ES",
+    "bankCode": "PCRD",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PCRDESMM",
     "Bank Name": "PECUNIA CARDS E.D.E, SL",
@@ -7826,8 +7826,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PEJG",
-    "bankCode": "ES",
+    "bankCode": "PEJG",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PEJGESMM",
     "Bank Name": "PEPE JEANS GROUP SL",
@@ -7839,8 +7839,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBAU",
-    "bankCode": "ES",
+    "bankCode": "PBAU",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PBAUESMM",
     "Bank Name": "PIOLIN BIDCO S.A.U.",
@@ -7852,8 +7852,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PKFM",
-    "bankCode": "ES",
+    "bankCode": "PKFM",
+    "countryCode": "ES",
     "branchCode": "SM2",
     "SWIFT Code": "PKFMESM2",
     "Bank Name": "PKF ATTEST CAPITAL MARKETS S.V., S.A.",
@@ -7865,8 +7865,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POGA",
-    "bankCode": "ES",
+    "bankCode": "POGA",
+    "countryCode": "ES",
     "branchCode": "S2C",
     "SWIFT Code": "POGAES2C",
     "Bank Name": "PONTEGADEA INVERSIONES, S.L.",
@@ -7878,8 +7878,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCL",
-    "bankCode": "ES",
+    "bankCode": "PRCL",
+    "countryCode": "ES",
     "branchCode": "S22",
     "SWIFT Code": "PRCLES22",
     "Bank Name": "PORCELANOSA S.A.",
@@ -7891,8 +7891,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRRB",
-    "bankCode": "ES",
+    "bankCode": "PRRB",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PRRBESMM",
     "Bank Name": "PREZERO IBERIA SL",
@@ -7904,8 +7904,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRWT",
-    "bankCode": "ES",
+    "bankCode": "PRWT",
+    "countryCode": "ES",
     "branchCode": "S2B",
     "SWIFT Code": "PRWTES2B",
     "Bank Name": "PRICEWATERHOUSECOOPERS S.L.",
@@ -7917,8 +7917,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GSEH",
-    "bankCode": "ES",
+    "bankCode": "GSEH",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "GSEHESMM",
     "Bank Name": "PRINTEOS GROUP HOLDING, S.L.U.",
@@ -7930,8 +7930,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRDS",
-    "bankCode": "ES",
+    "bankCode": "PRDS",
+    "countryCode": "ES",
     "branchCode": "S2M",
     "SWIFT Code": "PRDSES2M",
     "Bank Name": "PRODIGIOS INTERACTIVOS, S.A.",
@@ -7943,8 +7943,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PSGR",
-    "bankCode": "ES",
+    "bankCode": "PSGR",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PSGRESMM",
     "Bank Name": "PROSEGUR COMPANIA DE SEGURIDAD, S.A.",
@@ -7956,8 +7956,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PGEA",
-    "bankCode": "ES",
+    "bankCode": "PGEA",
+    "countryCode": "ES",
     "branchCode": "SMM",
     "SWIFT Code": "PGEAESMM",
     "Bank Name": "PROSEGUR GESTION DE ACTIVOS SL",
@@ -7969,8 +7969,8 @@ const spain = [
     "Connection": "Active"
   },
   {
-    "countryCode": "POSI",
-    "bankCode": "ES",
+    "bankCode": "POSI",
+    "countryCode": "ES",
     "branchCode": "S2A",
     "SWIFT Code": "POSIES2A",
     "Bank Name": "PROSOLIA INTERNACIONAL SL",

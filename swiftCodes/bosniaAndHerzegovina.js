@@ -1,7 +1,7 @@
 const bosniaAndHerzegovina = [
   {
-    "countryCode": "HAAB",
-    "bankCode": "BA",
+    "bankCode": "HAAB",
+    "countryCode": "BA",
     "branchCode": "A2B",
     "SWIFT Code": "HAABBA2B",
     "Bank Name": "ADDIKO BANK A.D.",
@@ -13,8 +13,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAAB",
-    "bankCode": "BA",
+    "bankCode": "HAAB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "HAABBA22",
     "Bank Name": "ADDIKO BANK DD",
@@ -26,8 +26,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IKBZ",
-    "bankCode": "BA",
+    "bankCode": "IKBZ",
+    "countryCode": "BA",
     "branchCode": "A2X",
     "SWIFT Code": "IKBZBA2X",
     "Bank Name": "ASA BANKA D.D. SARAJEVO",
@@ -39,8 +39,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SABR",
-    "bankCode": "BA",
+    "bankCode": "SABR",
+    "countryCode": "BA",
     "branchCode": "A2B",
     "SWIFT Code": "SABRBA2B",
     "Bank Name": "ATOS BANK A.D. BANJA LUKA",
@@ -52,8 +52,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KOBB",
-    "bankCode": "BA",
+    "bankCode": "KOBB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "KOBBBA22",
     "Bank Name": "BANKA POSTANSKA STEDIONICA, A.D. BANJA LUKA",
@@ -65,8 +65,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBIB",
-    "bankCode": "BA",
+    "bankCode": "BBIB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "BBIBBA22",
     "Bank Name": "BOSNA BANK INTERNATIONAL DD",
@@ -79,8 +79,8 @@ const bosniaAndHerzegovina = [
   },
   {},
   {
-    "countryCode": "CBBS",
-    "bankCode": "BA",
+    "bankCode": "CBBS",
+    "countryCode": "BA",
     "branchCode": "A2A",
     "SWIFT Code": "CBBSBA2A",
     "Bank Name": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
@@ -92,8 +92,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBS",
-    "bankCode": "BA",
+    "bankCode": "CBBS",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "CBBSBA22",
     "Bank Name": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
@@ -105,8 +105,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBS",
-    "bankCode": "BA",
+    "bankCode": "CBBS",
+    "countryCode": "BA",
     "branchCode": "BDT",
     "SWIFT Code": "CBBSBA22BDT",
     "Bank Name": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
@@ -118,8 +118,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBBS",
-    "bankCode": "BA",
+    "bankCode": "CBBS",
+    "countryCode": "BA",
     "branchCode": "PDS",
     "SWIFT Code": "CBBSBA22PDS",
     "Bank Name": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
@@ -131,8 +131,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBBH",
-    "bankCode": "BA",
+    "bankCode": "IBBH",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "IBBHBA22",
     "Bank Name": "DEVELOPMENT BANK OF THE FEDERATION OF BOSNIA AND HERZEGOVINA",
@@ -144,8 +144,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UPBK",
-    "bankCode": "BA",
+    "bankCode": "UPBK",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "UPBKBA22",
     "Bank Name": "INTESA SANPAOLO BANKA D.D. BOSNA I HERCEGOVINA",
@@ -157,8 +157,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KINB",
-    "bankCode": "BA",
+    "bankCode": "KINB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "KINBBA22",
     "Bank Name": "KOMERCIJALNO-INVESTICIONA BANKA DD VELIKA KLADUSA",
@@ -170,8 +170,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFBL",
-    "bankCode": "BA",
+    "bankCode": "MFBL",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "MFBLBA22",
     "Bank Name": "MF BANKA A.D. BANJA LUKA",
@@ -183,8 +183,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAVL",
-    "bankCode": "BA",
+    "bankCode": "PAVL",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "PAVLBA22",
     "Bank Name": "NASA BANKA A.D. BANJA LUKA",
@@ -196,8 +196,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RAZB",
-    "bankCode": "BA",
+    "bankCode": "RAZB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "RAZBBA22",
     "Bank Name": "NLB BANKA A.D. BANJA LUKA",
@@ -209,8 +209,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TBTU",
-    "bankCode": "BA",
+    "bankCode": "TBTU",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "TBTUBA22",
     "Bank Name": "NLB BANKA D.D., SARAJEVO",
@@ -222,8 +222,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOBI",
-    "bankCode": "BA",
+    "bankCode": "NOBI",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "NOBIBA22",
     "Bank Name": "NOVA BANKA AD BANJALUKA",
@@ -236,8 +236,8 @@ const bosniaAndHerzegovina = [
   },
   {},
   {
-    "countryCode": "MEBB",
-    "bankCode": "BA",
+    "bankCode": "MEBB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "MEBBBA22",
     "Bank Name": "PROCREDIT BANK D.D.SARAJEVO",
@@ -249,8 +249,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RZBA",
-    "bankCode": "BA",
+    "bankCode": "RZBA",
+    "countryCode": "BA",
     "branchCode": "A2S",
     "SWIFT Code": "RZBABA2S",
     "Bank Name": "RAIFFEISEN BANK D.D. BOSNA I HERCEGOVINA",
@@ -262,8 +262,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABSB",
-    "bankCode": "BA",
+    "bankCode": "ABSB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "ABSBBA22",
     "Bank Name": "SPARKASSE BANK DD BIH",
@@ -275,8 +275,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UNCR",
-    "bankCode": "BA",
+    "bankCode": "UNCR",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "UNCRBA22",
     "Bank Name": "UNICREDIT BANK",
@@ -288,8 +288,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLBA",
-    "bankCode": "BA",
+    "bankCode": "BLBA",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "BLBABA22",
     "Bank Name": "UNICREDIT BANK A.D. BANJA LUKA (FORMER NOVA BANJALUCKA BANKA A.D. BANJA LUKA)",
@@ -301,8 +301,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBKS",
-    "bankCode": "BA",
+    "bankCode": "UBKS",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "UBKSBA22",
     "Bank Name": "UNION BANKA D.D. SARAJEVO",
@@ -314,8 +314,8 @@ const bosniaAndHerzegovina = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TZBB",
-    "bankCode": "BA",
+    "bankCode": "TZBB",
+    "countryCode": "BA",
     "branchCode": "A22",
     "SWIFT Code": "TZBBBA22",
     "Bank Name": "ZIRAATBANK BH D.D.",

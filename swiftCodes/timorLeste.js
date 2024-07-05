@@ -1,7 +1,7 @@
 const timorLeste = [
   {
-    "countryCode": "ANZB",
-    "bankCode": "TL",
+    "bankCode": "ANZB",
+    "countryCode": "TL",
     "branchCode": "LDI",
     "SWIFT Code": "ANZBTLDI",
     "Bank Name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
@@ -13,8 +13,8 @@ const timorLeste = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTL",
-    "bankCode": "TL",
+    "bankCode": "BCTL",
+    "countryCode": "TL",
     "branchCode": "LDI",
     "SWIFT Code": "BCTLTLDI",
     "Bank Name": "BANCO CENTRAL DE TIMOR-LESTE",
@@ -26,8 +26,8 @@ const timorLeste = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNCT",
-    "bankCode": "TL",
+    "bankCode": "BNCT",
+    "countryCode": "TL",
     "branchCode": "LDD",
     "SWIFT Code": "BNCTTLDD",
     "Bank Name": "BANCO NACIONAL DE COMERCIO DE TIMOR-LESTE, S.A.",
@@ -39,8 +39,8 @@ const timorLeste = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCTL",
-    "bankCode": "TL",
+    "bankCode": "BCTL",
+    "countryCode": "TL",
     "branchCode": "LDA",
     "SWIFT Code": "BCTLTLDA",
     "Bank Name": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
@@ -52,8 +52,8 @@ const timorLeste = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGDI",
-    "bankCode": "TL",
+    "bankCode": "CGDI",
+    "countryCode": "TL",
     "branchCode": "LDI",
     "SWIFT Code": "CGDITLDI",
     "Bank Name": "CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL           TIMOR LESTE",
@@ -65,8 +65,8 @@ const timorLeste = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRIN",
-    "bankCode": "TL",
+    "bankCode": "BRIN",
+    "countryCode": "TL",
     "branchCode": "LDD",
     "SWIFT Code": "BRINTLDD",
     "Bank Name": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK, R.P.",

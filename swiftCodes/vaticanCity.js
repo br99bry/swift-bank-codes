@@ -1,7 +1,7 @@
 const vaticanCity = [
   {
-    "countryCode": "APDE",
-    "bankCode": "VA",
+    "bankCode": "APDE",
+    "countryCode": "VA",
     "branchCode": "AVA",
     "SWIFT Code": "APDEVAVA",
     "Bank Name": "AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA",
@@ -13,8 +13,8 @@ const vaticanCity = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IOPR",
-    "bankCode": "VA",
+    "bankCode": "IOPR",
+    "countryCode": "VA",
     "branchCode": "AVX",
     "SWIFT Code": "IOPRVAVX",
     "Bank Name": "ISTITUTO PER LE OPERE DI RELIGIONE",

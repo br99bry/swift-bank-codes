@@ -1,7 +1,7 @@
 const mauritius = [
   {
-    "countryCode": "ABCK",
-    "bankCode": "MU",
+    "bankCode": "ABCK",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "ABCKMUMU",
     "Bank Name": "ABC BANKING CORPORATION LTD",
@@ -13,8 +13,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "MU",
+    "bankCode": "BARC",
+    "countryCode": "MU",
     "branchCode": "CSU",
     "SWIFT Code": "BARCMUMUCSU",
     "Bank Name": "ABSA BANK (MAURITIUS) LIMITED",
@@ -26,8 +26,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "MU",
+    "bankCode": "BARC",
+    "countryCode": "MU",
     "branchCode": "MAF",
     "SWIFT Code": "BARCMUMUMAF",
     "Bank Name": "ABSA BANK (MAURITIUS) LIMITED",
@@ -39,8 +39,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "MU",
+    "bankCode": "BARC",
+    "countryCode": "MU",
     "branchCode": "OBU",
     "SWIFT Code": "BARCMUMUOBU",
     "Bank Name": "ABSA BANK (MAURITIUS) LIMITED",
@@ -52,8 +52,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "MU",
+    "bankCode": "BARC",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BARCMUMU",
     "Bank Name": "ABSA BANK (MAURITIUS) LIMITED",
@@ -65,8 +65,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFBL",
-    "bankCode": "MU",
+    "bankCode": "AFBL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "AFBLMUMU",
     "Bank Name": "AFRASIA BANK LIMITED",
@@ -78,8 +78,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFBL",
-    "bankCode": "MU",
+    "bankCode": "AFBL",
+    "countryCode": "MU",
     "branchCode": "101",
     "SWIFT Code": "AFBLMUMU101",
     "Bank Name": "AFRASIA BANK LIMITED",
@@ -91,8 +91,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "MU",
+    "bankCode": "BARB",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BARBMUMU",
     "Bank Name": "BANK OF BARODA",
@@ -104,8 +104,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "MU",
+    "bankCode": "BARB",
+    "countryCode": "MU",
     "branchCode": "OBU",
     "SWIFT Code": "BARBMUMUOBU",
     "Bank Name": "BANK OF BARODA",
@@ -117,8 +117,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MU",
+    "bankCode": "BKCH",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BKCHMUMU",
     "Bank Name": "BANK OF CHINA (MAURITIUS) LIMITED",
@@ -130,8 +130,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COCU",
-    "bankCode": "MU",
+    "bankCode": "COCU",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "COCUMUMU",
     "Bank Name": "BANK OF MAURITIUS",
@@ -143,8 +143,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOMM",
-    "bankCode": "MU",
+    "bankCode": "BOMM",
+    "countryCode": "MU",
     "branchCode": "UPL",
     "SWIFT Code": "BOMMMUPL",
     "Bank Name": "BANK OF MAURITIUS",
@@ -156,8 +156,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKON",
-    "bankCode": "MU",
+    "bankCode": "BKON",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BKONMUMU",
     "Bank Name": "BANK ONE LTD",
@@ -169,8 +169,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPLL",
-    "bankCode": "MU",
+    "bankCode": "BPLL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BPLLMUMU",
     "Bank Name": "BANQUE PATRONUS LIMITEE",
@@ -182,8 +182,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAIM",
-    "bankCode": "MU",
+    "bankCode": "BAIM",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BAIMMUMU",
     "Bank Name": "BCP BANK (MAURITIUS) LTD (FORMERLY BANQUE DES MASCAREIGNES LTEE)",
@@ -195,8 +195,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIMU",
-    "bankCode": "MU",
+    "bankCode": "CIMU",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "CIMUMUMU",
     "Bank Name": "CHOICE INTERNATIONAL (MAURITIUS) LTD",
@@ -208,8 +208,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MU",
+    "bankCode": "DEUT",
+    "countryCode": "MU",
     "branchCode": "UML",
     "SWIFT Code": "DEUTMUML",
     "Bank Name": "DEUTSCHE SECURITIES MAURITIUS LTD",
@@ -221,8 +221,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEIM",
-    "bankCode": "MU",
+    "bankCode": "DEIM",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "DEIMMUMU",
     "Bank Name": "DUNEARN INVESTMENTS (MAURITIUS) PTE LTD",
@@ -234,8 +234,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "MU",
+    "bankCode": "HABB",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "HABBMUMU",
     "Bank Name": "HABIB BANK LTD MAURITIUS",
@@ -247,8 +247,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "MU",
+    "bankCode": "HSBC",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "HSBCMUMU",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
@@ -260,8 +260,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "MU",
+    "bankCode": "HSBC",
+    "countryCode": "MU",
     "branchCode": "OBU",
     "SWIFT Code": "HSBCMUMUOBU",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
@@ -273,8 +273,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IHSA",
-    "bankCode": "MU",
+    "bankCode": "IHSA",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "IHSAMUMU",
     "Bank Name": "IHS MAURITIUS CAMEROON",
@@ -286,8 +286,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IVES",
-    "bankCode": "MU",
+    "bankCode": "IVES",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "IVESMUMU",
     "Bank Name": "INVESTEC BANK (MAURITIUS) LIMITED",
@@ -299,8 +299,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KASV",
-    "bankCode": "MU",
+    "bankCode": "KASV",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "KASVMUMU",
     "Bank Name": "KASADA SERVICES LIMITED",
@@ -312,8 +312,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MPCB",
-    "bankCode": "MU",
+    "bankCode": "MPCB",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "MPCBMUMU",
     "Bank Name": "MAUBANK LTD",
@@ -325,8 +325,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMMC",
-    "bankCode": "MU",
+    "bankCode": "OMMC",
+    "countryCode": "MU",
     "branchCode": "UMM",
     "SWIFT Code": "OMMCMUMM",
     "Bank Name": "OMNICANE MANAGEMENT AND CONSULTANCY LIMITED",
@@ -338,8 +338,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PLLP",
-    "bankCode": "MU",
+    "bankCode": "PLLP",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "PLLPMUMU",
     "Bank Name": "PROVIDENCE LIFE LIMITED, PCC",
@@ -351,8 +351,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QCFN",
-    "bankCode": "MU",
+    "bankCode": "QCFN",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "QCFNMUMU",
     "Bank Name": "QC FINANCE",
@@ -364,8 +364,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIRN",
-    "bankCode": "MU",
+    "bankCode": "FIRN",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "FIRNMUMU",
     "Bank Name": "RMB INTERNATIONAL (MAURITIUS) LTD",
@@ -377,8 +377,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INIL",
-    "bankCode": "MU",
+    "bankCode": "INIL",
+    "countryCode": "MU",
     "branchCode": "101",
     "SWIFT Code": "INILMUMU101",
     "Bank Name": "SBI (MAURITIUS) LTD",
@@ -390,8 +390,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "INIL",
-    "bankCode": "MU",
+    "bankCode": "INIL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "INILMUMU",
     "Bank Name": "SBI (MAURITIUS) LTD",
@@ -403,8 +403,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STCB",
-    "bankCode": "MU",
+    "bankCode": "STCB",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "STCBMUMU",
     "Bank Name": "SBM BANK(MAURITIUS)LTD",
@@ -416,8 +416,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "STCB",
-    "bankCode": "MU",
+    "bankCode": "STCB",
+    "countryCode": "MU",
     "branchCode": "575",
     "SWIFT Code": "STCBMUMU575",
     "Bank Name": "SBM BANK(MAURITIUS)LTD",
@@ -429,8 +429,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTBL",
-    "bankCode": "MU",
+    "bankCode": "BTBL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "BTBLMUMU",
     "Bank Name": "SILVER BANK LIMITED",
@@ -442,8 +442,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKCB",
-    "bankCode": "MU",
+    "bankCode": "SKCB",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "SKCBMUMU",
     "Bank Name": "SKI CARBON BLACK (MAURITIUS) LIMITED",
@@ -455,8 +455,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIC",
-    "bankCode": "MU",
+    "bankCode": "SBIC",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "SBICMUMU",
     "Bank Name": "STANDARD BANK (MAURITIUS) LIMITED",
@@ -468,8 +468,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "MU",
+    "bankCode": "SCBL",
+    "countryCode": "MU",
     "branchCode": "ZOP",
     "SWIFT Code": "SCBLMUMUZOP",
     "Bank Name": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
@@ -481,8 +481,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "MU",
+    "bankCode": "SCBL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "SCBLMUMU",
     "Bank Name": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
@@ -494,8 +494,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "MU",
+    "bankCode": "SCBL",
+    "countryCode": "MU",
     "branchCode": "SSU",
     "SWIFT Code": "SCBLMUMUSSU",
     "Bank Name": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
@@ -507,8 +507,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TPSV",
-    "bankCode": "MU",
+    "bankCode": "TPSV",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "TPSVMUMU",
     "Bank Name": "TERRA PAYMENT SERVICES (MAURITIUS)",
@@ -520,8 +520,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBL",
-    "bankCode": "MU",
+    "bankCode": "MCBL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "MCBLMUMU",
     "Bank Name": "THE MAURITIUS COMMERCIAL BANK LIMITED",
@@ -533,8 +533,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VFIM",
-    "bankCode": "MU",
+    "bankCode": "VFIM",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "VFIMMUMU",
     "Bank Name": "VALOR FINANCIAL MAURITIUS LTD",
@@ -546,8 +546,8 @@ const mauritius = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPBL",
-    "bankCode": "MU",
+    "bankCode": "WPBL",
+    "countryCode": "MU",
     "branchCode": "UMU",
     "SWIFT Code": "WPBLMUMU",
     "Bank Name": "WARWYCK PRIVATE BANK LTD",

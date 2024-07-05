@@ -1,7 +1,7 @@
 const maldives = [
   {
-    "countryCode": "BCEY",
-    "bankCode": "MV",
+    "bankCode": "BCEY",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "BCEYMVMV",
     "Bank Name": "BANK OF CEYLON",
@@ -13,8 +13,8 @@ const maldives = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MALB",
-    "bankCode": "MV",
+    "bankCode": "MALB",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "MALBMVMV",
     "Bank Name": "BANK OF MALDIVES PLC.",
@@ -26,8 +26,8 @@ const maldives = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBMV",
-    "bankCode": "MV",
+    "bankCode": "CBMV",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "CBMVMVMV",
     "Bank Name": "COMMERCIAL BANK OF MALDIVES PRIVATE LIMITED",
@@ -39,8 +39,8 @@ const maldives = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "MV",
+    "bankCode": "HABB",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "HABBMVMV",
     "Bank Name": "HABIB BANK LIMITED",
@@ -52,8 +52,8 @@ const maldives = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "MV",
+    "bankCode": "HSBC",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "HSBCMVMV",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -66,8 +66,8 @@ const maldives = [
   },
   {},
   {
-    "countryCode": "MMAU",
-    "bankCode": "MV",
+    "bankCode": "MMAU",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "MMAUMVMV",
     "Bank Name": "MALDIVES MONETARY AUTHORITY",
@@ -79,8 +79,8 @@ const maldives = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "MV",
+    "bankCode": "SBIN",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "SBINMVMV",
     "Bank Name": "STATE BANK OF INDIA",
@@ -92,8 +92,8 @@ const maldives = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MCBL",
-    "bankCode": "MV",
+    "bankCode": "MCBL",
+    "countryCode": "MV",
     "branchCode": "VMV",
     "SWIFT Code": "MCBLMVMV",
     "Bank Name": "THE MAURITIUS COMMERCIAL BANK LIMITED",

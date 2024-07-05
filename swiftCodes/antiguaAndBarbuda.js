@@ -1,7 +1,7 @@
 const antiguaAndBarbuda = [
   {
-    "countryCode": "ANCB",
-    "bankCode": "AG",
+    "bankCode": "ANCB",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "ANCBAGAG",
     "Bank Name": "ANTIGUA COMMERCIAL BANK",
@@ -13,8 +13,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOIB",
-    "bankCode": "AG",
+    "bankCode": "BOIB",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "BOIBAGAG",
     "Bank Name": "BOI BANK CORPORATION",
@@ -26,8 +26,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BRSF",
-    "bankCode": "AG",
+    "bankCode": "BRSF",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "BRSFAGAG",
     "Bank Name": "BRS BANQUE S.A.",
@@ -39,8 +39,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CUNB",
-    "bankCode": "AG",
+    "bankCode": "CUNB",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "CUNBAGAG",
     "Bank Name": "CARIBBEAN UNION BANK LTD",
@@ -52,8 +52,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DANL",
-    "bankCode": "AG",
+    "bankCode": "DANL",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "DANLAGAG",
     "Bank Name": "D BANK LTD.",
@@ -65,8 +65,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECAB",
-    "bankCode": "AG",
+    "bankCode": "ECAB",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "ECABAGAG",
     "Bank Name": "EASTERN CARIBBEAN AMALGAMATED BANK LTD. (ECAB)",
@@ -78,8 +78,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "AG",
+    "bankCode": "FCIB",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "FCIBAGAG",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
@@ -91,8 +91,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GBCL",
-    "bankCode": "AG",
+    "bankCode": "GBCL",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "GBCLAGAG",
     "Bank Name": "GLOBAL BANK OF COMMERCE, LTD.",
@@ -104,8 +104,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXO",
-    "bankCode": "AG",
+    "bankCode": "NEXO",
+    "countryCode": "AG",
     "branchCode": "GA2",
     "SWIFT Code": "NEXOAGA2",
     "Bank Name": "NEXO BANK INC",
@@ -117,8 +117,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOIT",
-    "bankCode": "AG",
+    "bankCode": "NOIT",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "NOITAGAG",
     "Bank Name": "NORTH INTERNATIONAL BANK, LTD.",
@@ -130,8 +130,8 @@ const antiguaAndBarbuda = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TOLM",
-    "bankCode": "AG",
+    "bankCode": "TOLM",
+    "countryCode": "AG",
     "branchCode": "GAG",
     "SWIFT Code": "TOLMAGAG",
     "Bank Name": "TOLOMEO BANK LIMITED",

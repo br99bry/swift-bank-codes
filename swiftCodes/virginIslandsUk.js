@@ -1,7 +1,7 @@
 const virginIslandsUk = [
   {
-    "countryCode": "ABVI",
-    "bankCode": "VG",
+    "bankCode": "ABVI",
+    "countryCode": "VG",
     "branchCode": "GVG",
     "SWIFT Code": "ABVIVGVG",
     "Bank Name": "BANK OF ASIA (BVI) LIMITED",
@@ -13,8 +13,8 @@ const virginIslandsUk = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHGL",
-    "bankCode": "VG",
+    "bankCode": "CHGL",
+    "countryCode": "VG",
     "branchCode": "GVG",
     "SWIFT Code": "CHGLVGVG",
     "Bank Name": "CHALHOUB GROUP LIMITED",
@@ -26,8 +26,8 @@ const virginIslandsUk = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "VG",
+    "bankCode": "FCIB",
+    "countryCode": "VG",
     "branchCode": "GVG",
     "SWIFT Code": "FCIBVGVG",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD",
@@ -39,8 +39,8 @@ const virginIslandsUk = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBVI",
-    "bankCode": "VG",
+    "bankCode": "NBVI",
+    "countryCode": "VG",
     "branchCode": "GVG",
     "SWIFT Code": "NBVIVGVG",
     "Bank Name": "NATIONAL BANK OF THE VIRGIN ISLANDS LIMITED",
@@ -52,8 +52,8 @@ const virginIslandsUk = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "VG",
+    "bankCode": "RBNK",
+    "countryCode": "VG",
     "branchCode": "GVG",
     "SWIFT Code": "RBNKVGVG",
     "Bank Name": "REPUBLIC BANK (BVI) LIMITED",
@@ -65,8 +65,8 @@ const virginIslandsUk = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNK",
-    "bankCode": "VG",
+    "bankCode": "RBNK",
+    "countryCode": "VG",
     "branchCode": "VGA",
     "SWIFT Code": "RBNKVGVGVGA",
     "Bank Name": "REPUBLIC BANK (BVI) LIMITED",

@@ -1,7 +1,7 @@
 const turksAndCaicosIslands = [
   {
-    "countryCode": "BCBA",
-    "bankCode": "TC",
+    "bankCode": "BCBA",
+    "countryCode": "TC",
     "branchCode": "CGP",
     "SWIFT Code": "BCBATCGP",
     "Bank Name": "BRITISH CARIBBEAN BANK LIMITED",
@@ -13,8 +13,8 @@ const turksAndCaicosIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCIB",
-    "bankCode": "TC",
+    "bankCode": "FCIB",
+    "countryCode": "TC",
     "branchCode": "CGP",
     "SWIFT Code": "FCIBTCGP",
     "Bank Name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS",
@@ -26,8 +26,8 @@ const turksAndCaicosIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "TC",
+    "bankCode": "NOSC",
+    "countryCode": "TC",
     "branchCode": "CGP",
     "SWIFT Code": "NOSCTCGP",
     "Bank Name": "SCOTIABANK (TURKS AND CAICOS) LTD",
@@ -39,8 +39,8 @@ const turksAndCaicosIslands = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TCBC",
-    "bankCode": "TC",
+    "bankCode": "TCBC",
+    "countryCode": "TC",
     "branchCode": "CGP",
     "SWIFT Code": "TCBCTCGP",
     "Bank Name": "TURKS AND CAICOS BANKING CO. LTD",

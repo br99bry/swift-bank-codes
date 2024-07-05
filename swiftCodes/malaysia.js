@@ -1,7 +1,7 @@
 const malaysia = [
   {
-    "countryCode": "PTRO",
-    "bankCode": "MY",
+    "bankCode": "PTRO",
+    "countryCode": "MY",
     "branchCode": "FSD",
     "SWIFT Code": "PTROMYKLFSD",
     "Bank Name": "PETROLIAM NASIONAL BERHAD",
@@ -13,8 +13,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AINE",
-    "bankCode": "MY",
+    "bankCode": "AINE",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "AINEMY22",
     "Bank Name": "PG ASIA INVESTMENT BANK LTD",
@@ -26,8 +26,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCH",
-    "bankCode": "MY",
+    "bankCode": "PHCH",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "PHCHMY22",
     "Bank Name": "PHILLIP CAPITAL SDN BHD",
@@ -39,8 +39,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBLL",
-    "bankCode": "MY",
+    "bankCode": "PBLL",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "PBLLMYKA",
     "Bank Name": "PUBLIC BANK (L) LTD",
@@ -52,8 +52,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PBBE",
-    "bankCode": "MY",
+    "bankCode": "PBBE",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "PBBEMYKL",
     "Bank Name": "PUBLIC BANK BERHAD",
@@ -65,8 +65,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUIB",
-    "bankCode": "MY",
+    "bankCode": "PUIB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "PUIBMYKL",
     "Bank Name": "PUBLIC ISLAMIC BANK BERHAD",
@@ -78,8 +78,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBT",
-    "bankCode": "MY",
+    "bankCode": "RHBT",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "RHBTMYKL",
     "Bank Name": "RHB ASSET MANAGEMENT SDN BHD",
@@ -91,8 +91,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBB",
-    "bankCode": "MY",
+    "bankCode": "RHBB",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "RHBBMYKA",
     "Bank Name": "RHB BANK (L) LTD",
@@ -104,8 +104,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBB",
-    "bankCode": "MY",
+    "bankCode": "RHBB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "RHBBMYKL",
     "Bank Name": "RHB BANK BERHAD",
@@ -117,8 +117,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OSKI",
-    "bankCode": "MY",
+    "bankCode": "OSKI",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "OSKIMYKL",
     "Bank Name": "RHB INVESTMENT BANK BERHAD",
@@ -130,8 +130,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RHBA",
-    "bankCode": "MY",
+    "bankCode": "RHBA",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "RHBAMYKL",
     "Bank Name": "RHB ISLAMIC BANK BERHAD",
@@ -143,8 +143,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCCH",
-    "bankCode": "MY",
+    "bankCode": "SCCH",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "SCCHMYKL",
     "Bank Name": "SEA CAPITAL SERVICES BERHAD",
@@ -156,8 +156,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIMV",
-    "bankCode": "MY",
+    "bankCode": "SIMV",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "SIMVMY2L",
     "Bank Name": "SINGPOLI INVESTMENT BANK LIMITED",
@@ -169,8 +169,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCBL",
-    "bankCode": "MY",
+    "bankCode": "SCBL",
+    "countryCode": "MY",
     "branchCode": "YKX",
     "SWIFT Code": "SCBLMYKX",
     "Bank Name": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
@@ -183,8 +183,8 @@ const malaysia = [
   },
   {},
   {
-    "countryCode": "SCBL",
-    "bankCode": "MY",
+    "bankCode": "SCBL",
+    "countryCode": "MY",
     "branchCode": "LAB",
     "SWIFT Code": "SCBLMYKXLAB",
     "Bank Name": "STANDARD CHARTERED BANK MALAYSIA BERHAD",
@@ -196,8 +196,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCSR",
-    "bankCode": "MY",
+    "bankCode": "SCSR",
+    "countryCode": "MY",
     "branchCode": "YKK",
     "SWIFT Code": "SCSRMYKK",
     "Bank Name": "STANDARD CHARTERED SAADIQ BERHAD",
@@ -209,8 +209,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "MY",
+    "bankCode": "SMBC",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "SMBCMYKA",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -222,8 +222,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "MY",
+    "bankCode": "SMBC",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "SMBCMYKL",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION MALAYSIA BERHAD",
@@ -235,8 +235,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "MY",
+    "bankCode": "SMBC",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "SMBCMY22",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION MALAYSIA BERHAD",
@@ -249,8 +249,8 @@ const malaysia = [
   },
   {},
   {
-    "countryCode": "TSIB",
-    "bankCode": "MY",
+    "bankCode": "TSIB",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "TSIBMY22",
     "Bank Name": "TAISHIN INTERNATIONAL BANK CO.,LTD.LABUAN BRANCH",
@@ -262,8 +262,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOSC",
-    "bankCode": "MY",
+    "bankCode": "NOSC",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "NOSCMYKL",
     "Bank Name": "THE BANK OF NOVA SCOTIA BERHAD",
@@ -275,8 +275,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "MY",
+    "bankCode": "HSBC",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "HSBCMYKA",
     "Bank Name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
@@ -288,8 +288,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMCB",
-    "bankCode": "MY",
+    "bankCode": "TMCB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "TMCBMYKL",
     "Bank Name": "TMC SERVICES SDN. BHD.",
@@ -301,8 +301,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRTD",
-    "bankCode": "MY",
+    "bankCode": "TRTD",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "TRTDMY22",
     "Bank Name": "TML REMITTANCE CENTER SDN. BHD.",
@@ -314,8 +314,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRLO",
-    "bankCode": "MY",
+    "bankCode": "TRLO",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "TRLOMYKL",
     "Bank Name": "TRANGLO SDN BHD",
@@ -327,8 +327,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TROH",
-    "bankCode": "MY",
+    "bankCode": "TROH",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "TROHMY22",
     "Bank Name": "TROPICANA CORPORATION BERHAD",
@@ -340,8 +340,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UBBI",
-    "bankCode": "MY",
+    "bankCode": "UBBI",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "UBBIMY22",
     "Bank Name": "UBB INVESTMENT BANK LIMITED",
@@ -353,8 +353,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "MY",
+    "bankCode": "UOVB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "UOVBMYKL",
     "Bank Name": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
@@ -366,8 +366,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "MY",
+    "bankCode": "UOVB",
+    "countryCode": "MY",
     "branchCode": "CND",
     "SWIFT Code": "UOVBMYKLCND",
     "Bank Name": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
@@ -379,8 +379,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "MY",
+    "bankCode": "UOVB",
+    "countryCode": "MY",
     "branchCode": "CMS",
     "SWIFT Code": "UOVBMYKLCMS",
     "Bank Name": "UNITED OVERSEAS BANK (MALAYSIA) BERHAD",
@@ -392,8 +392,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UOVB",
-    "bankCode": "MY",
+    "bankCode": "UOVB",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "UOVBMY2L",
     "Bank Name": "UNITED OVERSEAS BANK LIMITED LABUAN BRANCH",
@@ -405,8 +405,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAMS",
-    "bankCode": "MY",
+    "bankCode": "VAMS",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "VAMSMYK2",
     "Bank Name": "VCAP ASSET MANAGERS SDN BHD",
@@ -418,8 +418,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAAF",
-    "bankCode": "MY",
+    "bankCode": "WAAF",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "WAAFMY2L",
     "Bank Name": "WAAFI BANK LTD.",
@@ -431,8 +431,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WSMH",
-    "bankCode": "MY",
+    "bankCode": "WSMH",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "WSMHMYKL",
     "Bank Name": "WILHELMSEN SHIP MANAGEMENT SDN BHD",
@@ -444,8 +444,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YIHB",
-    "bankCode": "MY",
+    "bankCode": "YIHB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "YIHBMYKL",
     "Bank Name": "YINSON HOLDINGS BERHAD",
@@ -457,8 +457,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "JOB",
     "SWIFT Code": "MBBEMYKLJOB",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -470,8 +470,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PKG",
     "SWIFT Code": "MBBEMYKLPKG",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -483,8 +483,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "KIN",
     "SWIFT Code": "MBBEMYKLKIN",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -496,8 +496,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "MBBEMYKL",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -509,8 +509,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "BAN",
     "SWIFT Code": "MBBEMYKLBAN",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -522,8 +522,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "BBG",
     "SWIFT Code": "MBBEMYKLBBG",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -535,8 +535,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "WEB",
     "SWIFT Code": "MBBEMYKLWEB",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -548,8 +548,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "CSD",
     "SWIFT Code": "MBBEMYKLCSD",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -561,8 +561,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "KEP",
     "SWIFT Code": "MBBEMYKLKEP",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -574,8 +574,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PWM",
     "SWIFT Code": "MBBEMYKLPWM",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -587,8 +587,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PUD",
     "SWIFT Code": "MBBEMYKLPUD",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -600,8 +600,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "SUB",
     "SWIFT Code": "MBBEMYKLSUB",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -613,8 +613,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "KLC",
     "SWIFT Code": "MBBEMYKLKLC",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -626,8 +626,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "WSD",
     "SWIFT Code": "MBBEMYKLWSD",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -639,8 +639,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "MAL",
     "SWIFT Code": "MBBEMYKLMAL",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -652,8 +652,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PSG",
     "SWIFT Code": "MBBEMYKLPSG",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -665,8 +665,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PJY",
     "SWIFT Code": "MBBEMYKLPJY",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -678,8 +678,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PJC",
     "SWIFT Code": "MBBEMYKLPJC",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -691,8 +691,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "YSL",
     "SWIFT Code": "MBBEMYKLYSL",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -704,8 +704,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "SBN",
     "SWIFT Code": "MBBEMYKLSBN",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -717,8 +717,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "SHA",
     "SWIFT Code": "MBBEMYKLSHA",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -730,8 +730,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "SAC",
     "SWIFT Code": "MBBEMYKLSAC",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -743,8 +743,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MAYH",
-    "bankCode": "MY",
+    "bankCode": "MAYH",
+    "countryCode": "MY",
     "branchCode": "Y2S",
     "SWIFT Code": "MAYHMY2S",
     "Bank Name": "MALAYSIA AIRLINES BERHAD 1116944-X",
@@ -756,8 +756,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "MBBEMYKA",
     "Bank Name": "MAYBANK INTERNATIONAL (L) LTD.",
@@ -769,8 +769,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "MBBEMY2L",
     "Bank Name": "MAYBANK INTERNATIONAL LABUAN BRANCH",
@@ -782,8 +782,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBEA",
-    "bankCode": "MY",
+    "bankCode": "MBEA",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "MBEAMYKL",
     "Bank Name": "MAYBANK INVESTMENT BANK BERHAD",
@@ -795,8 +795,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBIS",
-    "bankCode": "MY",
+    "bankCode": "MBIS",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "MBISMYKL",
     "Bank Name": "MAYBANK ISLAMIC BERHAD",
@@ -808,8 +808,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFBQ",
-    "bankCode": "MY",
+    "bankCode": "AFBQ",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AFBQMYKL",
     "Bank Name": "MBSB BANK BERHAD",
@@ -821,8 +821,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBC",
-    "bankCode": "MY",
+    "bankCode": "ICBC",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "ICBCMY2L",
     "Bank Name": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD. LABUAN BRANCH",
@@ -834,8 +834,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABE",
-    "bankCode": "MY",
+    "bankCode": "DABE",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "DABEMYKL",
     "Bank Name": "MERCEDES-BENZ MALAYSIA SDN. BHD.",
@@ -847,8 +847,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBSM",
-    "bankCode": "MY",
+    "bankCode": "MBSM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "MBSMMYKL",
     "Bank Name": "MERCEDES-BENZ SERVICES MALAYSIA SDN. BHD.",
@@ -860,8 +860,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MEIB",
-    "bankCode": "MY",
+    "bankCode": "MEIB",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "MEIBMYKA",
     "Bank Name": "MIDDLE EAST INVESTMENT BANK LTD",
@@ -873,8 +873,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "MY",
+    "bankCode": "MHCB",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "MHCBMYKA",
     "Bank Name": "MIZUHO BANK (MALAYSIA) BERHAD",
@@ -886,8 +886,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "MY",
+    "bankCode": "MHCB",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "MHCBMYK2",
     "Bank Name": "MIZUHO BANK (MALAYSIA) BERHAD",
@@ -899,8 +899,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "MY",
+    "bankCode": "MHCB",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "MHCBMY2L",
     "Bank Name": "MIZUHO BANK, LTD., LABUAN BRANCH",
@@ -912,8 +912,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBSD",
-    "bankCode": "MY",
+    "bankCode": "MBSD",
+    "countryCode": "MY",
     "branchCode": "YKM",
     "SWIFT Code": "MBSDMYKM",
     "Bank Name": "MOBILITYONE SDN. BHD.",
@@ -925,8 +925,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MOFD",
-    "bankCode": "MY",
+    "bankCode": "MOFD",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "MOFDMY2L",
     "Bank Name": "MONFI DIGITAL BANK LTD.",
@@ -938,8 +938,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "MY",
+    "bankCode": "BOTK",
+    "countryCode": "MY",
     "branchCode": "YKX",
     "SWIFT Code": "BOTKMYKX",
     "Bank Name": "MUFG BANK (MALAYSIA) BERHAD",
@@ -951,8 +951,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "MY",
+    "bankCode": "BOTK",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "BOTKMYKA",
     "Bank Name": "MUFG BANK, LTD., LABUAN BRANCH",
@@ -964,8 +964,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NOCM",
-    "bankCode": "MY",
+    "bankCode": "NOCM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "NOCMMYKL",
     "Bank Name": "NOMURA ASSET MANAGEMENT MALAYSIA SDN BHD",
@@ -977,8 +977,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OABB",
-    "bankCode": "MY",
+    "bankCode": "OABB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "OABBMYKL",
     "Bank Name": "OCBC AL-AMIN BANK BERHAD",
@@ -990,8 +990,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "MY",
+    "bankCode": "OCBC",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "OCBCMYKL",
     "Bank Name": "OCBC BANK (MALAYSIA) BERHAD",
@@ -1003,8 +1003,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OCBC",
-    "bankCode": "MY",
+    "bankCode": "OCBC",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "OCBCMYKA",
     "Bank Name": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, LABUAN BRANCH",
@@ -1016,8 +1016,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCTR",
-    "bankCode": "MY",
+    "bankCode": "PCTR",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "PCTRMYK2",
     "Bank Name": "PACIFIC TRUSTEES BERHAD",
@@ -1029,8 +1029,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHCI",
-    "bankCode": "MY",
+    "bankCode": "PHCI",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "PHCIMY2L",
     "Bank Name": "PERFECT HEXAGON COMMODITY AND INVESTMENT BANK LIMITED",
@@ -1042,8 +1042,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PERM",
-    "bankCode": "MY",
+    "bankCode": "PERM",
+    "countryCode": "MY",
     "branchCode": "YKB",
     "SWIFT Code": "PERMMYKB",
     "Bank Name": "PERMODALAN NASIONAL BERHAD",
@@ -1055,8 +1055,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PERM",
-    "bankCode": "MY",
+    "bankCode": "PERM",
+    "countryCode": "MY",
     "branchCode": "YKP",
     "SWIFT Code": "PERMMYKP",
     "Bank Name": "PERMODALAN NASIONAL BERHAD",
@@ -1068,8 +1068,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PERM",
-    "bankCode": "MY",
+    "bankCode": "PERM",
+    "countryCode": "MY",
     "branchCode": "YKK",
     "SWIFT Code": "PERMMYKK",
     "Bank Name": "PERMODALAN NASIONAL BERHAD",
@@ -1081,8 +1081,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PERM",
-    "bankCode": "MY",
+    "bankCode": "PERM",
+    "countryCode": "MY",
     "branchCode": "YKG",
     "SWIFT Code": "PERMMYKG",
     "Bank Name": "PERMODALAN NASIONAL BERHAD",
@@ -1094,8 +1094,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PTRO",
-    "bankCode": "MY",
+    "bankCode": "PTRO",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "PTROMYKL",
     "Bank Name": "PETROLIAM NASIONAL BERHAD",
@@ -1107,8 +1107,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MY",
+    "bankCode": "CITI",
+    "countryCode": "MY",
     "branchCode": "PEN",
     "SWIFT Code": "CITIMYKLPEN",
     "Bank Name": "CITIBANK BERHAD",
@@ -1120,8 +1120,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MY",
+    "bankCode": "CITI",
+    "countryCode": "MY",
     "branchCode": "JOD",
     "SWIFT Code": "CITIMYKLJOD",
     "Bank Name": "CITIBANK BERHAD",
@@ -1133,8 +1133,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MY",
+    "bankCode": "CITI",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "CITIMYKL",
     "Bank Name": "CITIBANK BERHAD",
@@ -1146,8 +1146,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "MY",
+    "bankCode": "CITI",
+    "countryCode": "MY",
     "branchCode": "LAB",
     "SWIFT Code": "CITIMYKLLAB",
     "Bank Name": "CITIBANK BERHAD",
@@ -1159,8 +1159,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRES",
-    "bankCode": "MY",
+    "bankCode": "CRES",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "CRESMYKL",
     "Bank Name": "CREDIT SUISSE SECURITIES (MALAYSIA) SDN. BHD.",
@@ -1172,8 +1172,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DBSS",
-    "bankCode": "MY",
+    "bankCode": "DBSS",
+    "countryCode": "MY",
     "branchCode": "Y2A",
     "SWIFT Code": "DBSSMY2A",
     "Bank Name": "DBS BANK LTD, LABUAN BRANCH",
@@ -1185,8 +1185,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MY",
+    "bankCode": "DEUT",
+    "countryCode": "MY",
     "branchCode": "GMO",
     "SWIFT Code": "DEUTMYKLGMO",
     "Bank Name": "DEUTSCHE BANK (MALAYSIA) BERHAD",
@@ -1198,8 +1198,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MY",
+    "bankCode": "DEUT",
+    "countryCode": "MY",
     "branchCode": "IBW",
     "SWIFT Code": "DEUTMYKLIBW",
     "Bank Name": "DEUTSCHE BANK (MALAYSIA) BERHAD",
@@ -1211,8 +1211,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MY",
+    "bankCode": "DEUT",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "DEUTMYKL",
     "Bank Name": "DEUTSCHE BANK (MALAYSIA) BERHAD",
@@ -1224,8 +1224,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MY",
+    "bankCode": "DEUT",
+    "countryCode": "MY",
     "branchCode": "DFS",
     "SWIFT Code": "DEUTMYKLDFS",
     "Bank Name": "DEUTSCHE BANK (MALAYSIA) BERHAD",
@@ -1237,8 +1237,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MY",
+    "bankCode": "DEUT",
+    "countryCode": "MY",
     "branchCode": "ISB",
     "SWIFT Code": "DEUTMYKLISB",
     "Bank Name": "DEUTSCHE BANK (MALAYSIA) BERHAD",
@@ -1250,8 +1250,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "MY",
+    "bankCode": "DEUT",
+    "countryCode": "MY",
     "branchCode": "BLB",
     "SWIFT Code": "DEUTMYKLBLB",
     "Bank Name": "DEUTSCHE BANK (MALAYSIA) BERHAD",
@@ -1263,8 +1263,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUIE",
-    "bankCode": "MY",
+    "bankCode": "EUIE",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "EUIEMY22",
     "Bank Name": "EUROPE-ASIA INVESTMENT BANK LIMITED",
@@ -1276,8 +1276,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EXMB",
-    "bankCode": "MY",
+    "bankCode": "EXMB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "EXMBMYKL",
     "Bank Name": "EXPORT-IMPORT BANK OF MALAYSIA BERHAD",
@@ -1289,8 +1289,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGVC",
-    "bankCode": "MY",
+    "bankCode": "FGVC",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "FGVCMYKL",
     "Bank Name": "FGV CAPITAL SDN. BHD.",
@@ -1302,8 +1302,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FGVH",
-    "bankCode": "MY",
+    "bankCode": "FGVH",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "FGVHMYKL",
     "Bank Name": "FGV HOLDINGS BERHAD",
@@ -1315,8 +1315,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FABE",
-    "bankCode": "MY",
+    "bankCode": "FABE",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "FABEMY22",
     "Bank Name": "FIDELITY ASIA BANK LTD",
@@ -1328,8 +1328,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNTH",
-    "bankCode": "MY",
+    "bankCode": "FNTH",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "FNTHMY2L",
     "Bank Name": "FINTECH BANK LTD.",
@@ -1341,8 +1341,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "MY",
+    "bankCode": "NBAD",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "NBADMYKL",
     "Bank Name": "FIRST ABU DHABI BANK PJSC ( FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -1354,8 +1354,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBAD",
-    "bankCode": "MY",
+    "bankCode": "NBAD",
+    "countryCode": "MY",
     "branchCode": "LAU",
     "SWIFT Code": "NBADMYKLLAU",
     "Bank Name": "FIRST ABU DHABI BANK PJSC ( FORMERLY NATIONAL BANK OF ABU DHABI)",
@@ -1367,8 +1367,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GATI",
-    "bankCode": "MY",
+    "bankCode": "GATI",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "GATIMY22",
     "Bank Name": "GAT INVESTMENT BANK LIMITED",
@@ -1380,8 +1380,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GTIV",
-    "bankCode": "MY",
+    "bankCode": "GTIV",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "GTIVMY2L",
     "Bank Name": "GOLDEN TOUCH INVESTMENT BANK LIMITED",
@@ -1393,8 +1393,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GXSP",
-    "bankCode": "MY",
+    "bankCode": "GXSP",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "GXSPMYKL",
     "Bank Name": "GX BANK BERHAD",
@@ -1406,8 +1406,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBB",
-    "bankCode": "MY",
+    "bankCode": "HLBB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HLBBMYKL",
     "Bank Name": "HONG LEONG BANK BERHAD",
@@ -1419,8 +1419,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLBL",
-    "bankCode": "MY",
+    "bankCode": "HLBL",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "HLBLMY22",
     "Bank Name": "HONG LEONG BANK BERHAD, LABUAN INTERNATIONAL BRANCH",
@@ -1432,8 +1432,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLIV",
-    "bankCode": "MY",
+    "bankCode": "HLIV",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HLIVMYKL",
     "Bank Name": "HONG LEONG INVESTMENT BANK BERHAD",
@@ -1445,8 +1445,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HLIB",
-    "bankCode": "MY",
+    "bankCode": "HLIB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HLIBMYKL",
     "Bank Name": "HONG LEONG ISLAMIC BANK BERHAD",
@@ -1458,8 +1458,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSTM",
-    "bankCode": "MY",
+    "bankCode": "HSTM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HSTMMYKL",
     "Bank Name": "HSBC (MALAYSIA) TRUSTEE BERHAD",
@@ -1471,8 +1471,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSTM",
-    "bankCode": "MY",
+    "bankCode": "HSTM",
+    "countryCode": "MY",
     "branchCode": "GWS",
     "SWIFT Code": "HSTMMYKLGWS",
     "Bank Name": "HSBC (MALAYSIA) TRUSTEE BERHAD",
@@ -1484,8 +1484,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HMAB",
-    "bankCode": "MY",
+    "bankCode": "HMAB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HMABMYKL",
     "Bank Name": "HSBC AMANAH MALAYSIA BERHAD",
@@ -1497,8 +1497,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HBMB",
-    "bankCode": "MY",
+    "bankCode": "HBMB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HBMBMYKL",
     "Bank Name": "HSBC BANK MALAYSIA BERHAD",
@@ -1510,8 +1510,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMSH",
-    "bankCode": "MY",
+    "bankCode": "IMSH",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "IMSHMYK2",
     "Bank Name": "I-VCAP MANAGEMENT SDN BHD",
@@ -1523,8 +1523,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBHI",
-    "bankCode": "MY",
+    "bankCode": "IBHI",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "IBHIMY2L",
     "Bank Name": "IBH INVESTMENT BANK LIMITED",
@@ -1536,8 +1536,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IIMB",
-    "bankCode": "MY",
+    "bankCode": "IIMB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "IIMBMYKL",
     "Bank Name": "INDIA INTERNATIONAL BANK (MALAYSIA) BERHAD",
@@ -1549,8 +1549,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "MY",
+    "bankCode": "ICBK",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "ICBKMYKL",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD.",
@@ -1562,8 +1562,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "MY",
+    "bankCode": "ICBK",
+    "countryCode": "MY",
     "branchCode": "LAB",
     "SWIFT Code": "ICBKMYKLLAB",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MALAYSIA) BERHAD.",
@@ -1575,8 +1575,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MY",
+    "bankCode": "CHAS",
+    "countryCode": "MY",
     "branchCode": "YKX",
     "SWIFT Code": "CHASMYKX",
     "Bank Name": "J.P.MORGAN CHASE BANK BERHAD",
@@ -1588,8 +1588,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MY",
+    "bankCode": "CHAS",
+    "countryCode": "MY",
     "branchCode": "SEC",
     "SWIFT Code": "CHASMYKXSEC",
     "Bank Name": "J.P.MORGAN CHASE BANK BERHAD",
@@ -1601,8 +1601,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "MY",
+    "bankCode": "CHAS",
+    "countryCode": "MY",
     "branchCode": "Y2A",
     "SWIFT Code": "CHASMY2A",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., LABUAN BRANCH",
@@ -1614,8 +1614,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAFB",
-    "bankCode": "MY",
+    "bankCode": "KAFB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "KAFBMYKL",
     "Bank Name": "KAF INVESTMENT BANK BERHAD",
@@ -1627,8 +1627,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KAFB",
-    "bankCode": "MY",
+    "bankCode": "KAFB",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "KAFBMYK2",
     "Bank Name": "KAF INVESTMENT BANK BERHAD",
@@ -1640,8 +1640,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECML",
-    "bankCode": "MY",
+    "bankCode": "ECML",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "ECMLMYKL",
     "Bank Name": "KENANGA INVESTMENT BANK BERHAD",
@@ -1653,8 +1653,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KHAZ",
-    "bankCode": "MY",
+    "bankCode": "KHAZ",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "KHAZMYKL",
     "Bank Name": "KHAZANAH NASIONAL BERHAD",
@@ -1666,8 +1666,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KLKB",
-    "bankCode": "MY",
+    "bankCode": "KLKB",
+    "countryCode": "MY",
     "branchCode": "Y2I",
     "SWIFT Code": "KLKBMY2I",
     "Bank Name": "KUALA LUMPUR KEPONG BERHAD",
@@ -1679,8 +1679,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KFHO",
-    "bankCode": "MY",
+    "bankCode": "KFHO",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "KFHOMYKL",
     "Bank Name": "KUWAIT FINANCE HOUSE (MALAYSIA) BERHAD",
@@ -1692,8 +1692,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LBGR",
-    "bankCode": "MY",
+    "bankCode": "LBGR",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "LBGRMY22",
     "Bank Name": "LBS",
@@ -1705,8 +1705,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PEN",
     "SWIFT Code": "MBBEMYKLPEN",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -1718,8 +1718,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "PGC",
     "SWIFT Code": "MBBEMYKLPGC",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -1731,8 +1731,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "BWC",
     "SWIFT Code": "MBBEMYKLBWC",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -1744,8 +1744,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBBE",
-    "bankCode": "MY",
+    "bankCode": "MBBE",
+    "countryCode": "MY",
     "branchCode": "IPH",
     "SWIFT Code": "MBBEMYKLIPH",
     "Bank Name": "MALAYAN BANKING BERHAD (MAYBANK)",
@@ -1757,8 +1757,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACDB",
-    "bankCode": "MY",
+    "bankCode": "ACDB",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "ACDBMYK2",
     "Bank Name": "ACS DIGITAL BERHAD",
@@ -1770,8 +1770,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PHBM",
-    "bankCode": "MY",
+    "bankCode": "PHBM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "PHBMMYKL",
     "Bank Name": "AFFIN BANK BERHAD",
@@ -1783,8 +1783,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HDSB",
-    "bankCode": "MY",
+    "bankCode": "HDSB",
+    "countryCode": "MY",
     "branchCode": "Y2P",
     "SWIFT Code": "HDSBMY2P",
     "Bank Name": "AFFIN HWANG INVESTMENT BANK BERHAD",
@@ -1796,8 +1796,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIBB",
-    "bankCode": "MY",
+    "bankCode": "AIBB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AIBBMYKL",
     "Bank Name": "AFFIN ISLAMIC BANK BERHAD",
@@ -1809,8 +1809,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIMR",
-    "bankCode": "MY",
+    "bankCode": "HIMR",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "HIMRMYKL",
     "Bank Name": "AHAM ASSET MANAGEMENT BERHAD",
@@ -1822,8 +1822,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIAC",
-    "bankCode": "MY",
+    "bankCode": "AIAC",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AIACMYKL",
     "Bank Name": "AIA BHD.",
@@ -1835,8 +1835,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AIBM",
-    "bankCode": "MY",
+    "bankCode": "AIBM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AIBMMYKL",
     "Bank Name": "AIBL",
@@ -1848,8 +1848,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RJHI",
-    "bankCode": "MY",
+    "bankCode": "RJHI",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "RJHIMYKL",
     "Bank Name": "AL RAJHI BANKING AND INVESTMENT CORPORATION (MALAYSIA) BHD",
@@ -1861,8 +1861,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MFBB",
-    "bankCode": "MY",
+    "bankCode": "MFBB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "MFBBMYKL",
     "Bank Name": "ALLIANCE BANK MALAYSIA BERHAD",
@@ -1874,8 +1874,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALSR",
-    "bankCode": "MY",
+    "bankCode": "ALSR",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "ALSRMYKL",
     "Bank Name": "ALLIANCE ISLAMIC BANK BERHAD",
@@ -1887,8 +1887,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMTB",
-    "bankCode": "MY",
+    "bankCode": "AMTB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AMTBMYKL",
     "Bank Name": "AMANAHRAYA TRUSTEES BERHAD",
@@ -1900,8 +1900,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBK",
-    "bankCode": "MY",
+    "bankCode": "ARBK",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "ARBKMYKL",
     "Bank Name": "AMBANK (M) BERHAD",
@@ -1913,8 +1913,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARBK",
-    "bankCode": "MY",
+    "bankCode": "ARBK",
+    "countryCode": "MY",
     "branchCode": "LAB",
     "SWIFT Code": "ARBKMYKLLAB",
     "Bank Name": "AMBANK (M) BERHAD",
@@ -1926,8 +1926,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AISL",
-    "bankCode": "MY",
+    "bankCode": "AISL",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AISLMYKL",
     "Bank Name": "AMBANK ISLAMIC BERHAD",
@@ -1939,8 +1939,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AMMB",
-    "bankCode": "MY",
+    "bankCode": "AMMB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AMMBMYKL",
     "Bank Name": "AMINVESTMENT BANK BERHAD (FORMERLY KNOWN AS AMMERCHANT BANK BERHAD)",
@@ -1952,8 +1952,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADLN",
-    "bankCode": "MY",
+    "bankCode": "ADLN",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "ADLNMY2L",
     "Bank Name": "ASIA DIGITAL BANK LTD. (LABUAN INVESTMENT BANK)",
@@ -1965,8 +1965,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASNC",
-    "bankCode": "MY",
+    "bankCode": "ASNC",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "ASNCMY2L",
     "Bank Name": "ASIA INVESTMENT BANKING CORPORATION",
@@ -1978,8 +1978,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASPM",
-    "bankCode": "MY",
+    "bankCode": "ASPM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "ASPMMYKL",
     "Bank Name": "ASIA PACIFIC INVESTMENT BANK LTD",
@@ -1991,8 +1991,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXGB",
-    "bankCode": "MY",
+    "bankCode": "AXGB",
+    "countryCode": "MY",
     "branchCode": "YKK",
     "SWIFT Code": "AXGBMYKK",
     "Bank Name": "AXIATA GROUP BERHAD",
@@ -2004,8 +2004,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKKB",
-    "bankCode": "MY",
+    "bankCode": "BKKB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BKKBMYKL",
     "Bank Name": "BANGKOK BANK BERHAD",
@@ -2017,8 +2017,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BAHL",
-    "bankCode": "MY",
+    "bankCode": "BAHL",
+    "countryCode": "MY",
     "branchCode": "Y2A",
     "SWIFT Code": "BAHLMY2A",
     "Bank Name": "BANK AL HABIB LIMITED",
@@ -2030,8 +2030,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BIMB",
-    "bankCode": "MY",
+    "bankCode": "BIMB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BIMBMYKL",
     "Bank Name": "BANK ISLAM MALAYSIA BERHAD",
@@ -2043,8 +2043,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKRM",
-    "bankCode": "MY",
+    "bankCode": "BKRM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BKRMMYKL",
     "Bank Name": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD (BANK RAKYAT)",
@@ -2056,8 +2056,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMMB",
-    "bankCode": "MY",
+    "bankCode": "BMMB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BMMBMYKL",
     "Bank Name": "BANK MUAMALAT MALAYSIA BERHAD (6175-W)",
@@ -2069,8 +2069,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMMB",
-    "bankCode": "MY",
+    "bankCode": "BMMB",
+    "countryCode": "MY",
     "branchCode": "TFD",
     "SWIFT Code": "BMMBMYKLTFD",
     "Bank Name": "BANK MUAMALAT MALAYSIA BERHAD (6175-W)",
@@ -2082,8 +2082,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMA",
-    "bankCode": "MY",
+    "bankCode": "BNMA",
+    "countryCode": "MY",
     "branchCode": "YK3",
     "SWIFT Code": "BNMAMYK3",
     "Bank Name": "BANK NEGARA MALAYSIA",
@@ -2095,8 +2095,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMA",
-    "bankCode": "MY",
+    "bankCode": "BNMA",
+    "countryCode": "MY",
     "branchCode": "Y2K",
     "SWIFT Code": "BNMAMY2K",
     "Bank Name": "BANK NEGARA MALAYSIA",
@@ -2108,8 +2108,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNMA",
-    "bankCode": "MY",
+    "bankCode": "BNMA",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BNMAMYKL",
     "Bank Name": "BANK NEGARA MALAYSIA",
@@ -2121,8 +2121,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MY",
+    "bankCode": "BOFA",
+    "countryCode": "MY",
     "branchCode": "GRC",
     "SWIFT Code": "BOFAMY2XGRC",
     "Bank Name": "BANK OF AMERICA, MALAYSIA BERHAD",
@@ -2134,8 +2134,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MY",
+    "bankCode": "BOFA",
+    "countryCode": "MY",
     "branchCode": "Y2X",
     "SWIFT Code": "BOFAMY2X",
     "Bank Name": "BANK OF AMERICA, MALAYSIA BERHAD",
@@ -2147,8 +2147,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MY",
+    "bankCode": "BOFA",
+    "countryCode": "MY",
     "branchCode": "LMY",
     "SWIFT Code": "BOFAMY2XLMY",
     "Bank Name": "BANK OF AMERICA, MALAYSIA BERHAD",
@@ -2160,8 +2160,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "MY",
+    "bankCode": "BOFA",
+    "countryCode": "MY",
     "branchCode": "LBN",
     "SWIFT Code": "BOFAMY2XLBN",
     "Bank Name": "BANK OF AMERICA, MALAYSIA BERHAD",
@@ -2173,8 +2173,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MY",
+    "bankCode": "BKCH",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BKCHMYKL",
     "Bank Name": "BANK OF CHINA (MALAYSIA) BERHAD",
@@ -2186,8 +2186,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "MY",
+    "bankCode": "BKCH",
+    "countryCode": "MY",
     "branchCode": "CLR",
     "SWIFT Code": "BKCHMYKLCLR",
     "Bank Name": "BANK OF CHINA (MALAYSIA) BERHAD",
@@ -2199,8 +2199,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGOB",
-    "bankCode": "MY",
+    "bankCode": "AGOB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "AGOBMYKL",
     "Bank Name": "BANK PERTANIAN MALAYSIA BERHAD-AGROBANK",
@@ -2212,8 +2212,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "MY",
+    "bankCode": "BNPA",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "BNPAMYKA",
     "Bank Name": "BNP PARIBAS",
@@ -2225,8 +2225,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "MY",
+    "bankCode": "BNPA",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "BNPAMYKL",
     "Bank Name": "BNP PARIBAS MALAYSIA BERHAD",
@@ -2238,8 +2238,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "MY",
+    "bankCode": "BNPA",
+    "countryCode": "MY",
     "branchCode": "SPI",
     "SWIFT Code": "BNPAMYKLSPI",
     "Bank Name": "BNP PARIBAS MALAYSIA BERHAD",
@@ -2251,8 +2251,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOBE",
-    "bankCode": "MY",
+    "bankCode": "BOBE",
+    "countryCode": "MY",
     "branchCode": "YK2",
     "SWIFT Code": "BOBEMYK2",
     "Bank Name": "BOOST BANK BERHAD",
@@ -2264,8 +2264,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAGA",
-    "bankCode": "MY",
+    "bankCode": "CAGA",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "CAGAMYKL",
     "Bank Name": "CAGAMAS BERHAD",
@@ -2277,8 +2277,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "MY",
+    "bankCode": "PCBC",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "PCBCMYKL",
     "Bank Name": "CHINA CONSTRUCTION BANK (MALAYSIA) BERHAD",
@@ -2290,8 +2290,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "MY",
+    "bankCode": "PCBC",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "PCBCMY22",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION LABUAN BRANCH",
@@ -2303,8 +2303,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RINT",
-    "bankCode": "MY",
+    "bankCode": "RINT",
+    "countryCode": "MY",
     "branchCode": "Y22",
     "SWIFT Code": "RINTMY22",
     "Bank Name": "CIB",
@@ -2316,8 +2316,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "MY",
+    "bankCode": "CIBB",
+    "countryCode": "MY",
     "branchCode": "YKA",
     "SWIFT Code": "CIBBMYKA",
     "Bank Name": "CIMB BANK (L) LIMITED",
@@ -2329,8 +2329,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "MY",
+    "bankCode": "CIBB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "CIBBMYKL",
     "Bank Name": "CIMB BANK BERHAD",
@@ -2342,8 +2342,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "MY",
+    "bankCode": "CIBB",
+    "countryCode": "MY",
     "branchCode": "SBL",
     "SWIFT Code": "CIBBMYKLSBL",
     "Bank Name": "CIMB BANK BERHAD",
@@ -2355,8 +2355,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIBB",
-    "bankCode": "MY",
+    "bankCode": "CIBB",
+    "countryCode": "MY",
     "branchCode": "Y2L",
     "SWIFT Code": "CIBBMY2L",
     "Bank Name": "CIMB BANK BERHAD, LABUAN OFFSHORE BRANCH",
@@ -2368,8 +2368,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "COIM",
-    "bankCode": "MY",
+    "bankCode": "COIM",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "COIMMYKL",
     "Bank Name": "CIMB INVESTMENT BANK BERHAD",
@@ -2381,8 +2381,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBB",
-    "bankCode": "MY",
+    "bankCode": "CTBB",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "CTBBMYKL",
     "Bank Name": "CIMB ISLAMIC BANK BERHAD",
@@ -2394,8 +2394,8 @@ const malaysia = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CANH",
-    "bankCode": "MY",
+    "bankCode": "CANH",
+    "countryCode": "MY",
     "branchCode": "YKL",
     "SWIFT Code": "CANHMYKL",
     "Bank Name": "CIMB-PRINCIPAL ASSET MANAGEMENT BERHAD",

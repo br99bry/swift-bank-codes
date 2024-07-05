@@ -1,7 +1,7 @@
 const belgium = [
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T03",
     "SWIFT Code": "MGTCBEBET03",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -13,8 +13,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T04",
     "SWIFT Code": "MGTCBEBET04",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -26,8 +26,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T05",
     "SWIFT Code": "MGTCBEBET05",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -39,8 +39,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T06",
     "SWIFT Code": "MGTCBEBET06",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -52,8 +52,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T07",
     "SWIFT Code": "MGTCBEBET07",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -65,8 +65,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T08",
     "SWIFT Code": "MGTCBEBET08",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -78,8 +78,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T09",
     "SWIFT Code": "MGTCBEBET09",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -91,8 +91,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T10",
     "SWIFT Code": "MGTCBEBET10",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -104,8 +104,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T11",
     "SWIFT Code": "MGTCBEBET11",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -117,8 +117,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T12",
     "SWIFT Code": "MGTCBEBET12",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -130,8 +130,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T13",
     "SWIFT Code": "MGTCBEBET13",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -143,8 +143,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T14",
     "SWIFT Code": "MGTCBEBET14",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -156,8 +156,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T15",
     "SWIFT Code": "MGTCBEBET15",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -169,8 +169,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T16",
     "SWIFT Code": "MGTCBEBET16",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -182,8 +182,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T17",
     "SWIFT Code": "MGTCBEBET17",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -195,8 +195,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T18",
     "SWIFT Code": "MGTCBEBET18",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -209,8 +209,8 @@ const belgium = [
   },
   {},
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T20",
     "SWIFT Code": "MGTCBEBET20",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -222,8 +222,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T31",
     "SWIFT Code": "MGTCBEBET31",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -235,8 +235,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T32",
     "SWIFT Code": "MGTCBEBET32",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -248,8 +248,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T33",
     "SWIFT Code": "MGTCBEBET33",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -261,8 +261,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T34",
     "SWIFT Code": "MGTCBEBET34",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -274,8 +274,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T35",
     "SWIFT Code": "MGTCBEBET35",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -287,8 +287,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T36",
     "SWIFT Code": "MGTCBEBET36",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -300,8 +300,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T37",
     "SWIFT Code": "MGTCBEBET37",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -313,8 +313,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T38",
     "SWIFT Code": "MGTCBEBET38",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -326,8 +326,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T39",
     "SWIFT Code": "MGTCBEBET39",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -339,8 +339,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T40",
     "SWIFT Code": "MGTCBEBET40",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -352,8 +352,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "CON",
     "SWIFT Code": "MGTCBEBECON",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -365,8 +365,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "INV",
     "SWIFT Code": "MGTCBEBEINV",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -378,8 +378,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "LIQ",
     "SWIFT Code": "MGTCBEBELIQ",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -391,8 +391,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "RES",
     "SWIFT Code": "MGTCBEBERES",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -404,8 +404,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T51",
     "SWIFT Code": "MGTCBEBET51",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -418,8 +418,8 @@ const belgium = [
   },
   {},
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T53",
     "SWIFT Code": "MGTCBEBET53",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -431,8 +431,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T54",
     "SWIFT Code": "MGTCBEBET54",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -444,8 +444,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T55",
     "SWIFT Code": "MGTCBEBET55",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -457,8 +457,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T56",
     "SWIFT Code": "MGTCBEBET56",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -470,8 +470,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T57",
     "SWIFT Code": "MGTCBEBET57",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -483,8 +483,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T58",
     "SWIFT Code": "MGTCBEBET58",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -496,8 +496,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T59",
     "SWIFT Code": "MGTCBEBET59",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -509,8 +509,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T60",
     "SWIFT Code": "MGTCBEBET60",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -522,8 +522,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T61",
     "SWIFT Code": "MGTCBEBET61",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -535,8 +535,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T62",
     "SWIFT Code": "MGTCBEBET62",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -548,8 +548,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T63",
     "SWIFT Code": "MGTCBEBET63",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -562,8 +562,8 @@ const belgium = [
   },
   {},
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T65",
     "SWIFT Code": "MGTCBEBET65",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -575,8 +575,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L30",
     "SWIFT Code": "MGTCBEBEL30",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -588,8 +588,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L31",
     "SWIFT Code": "MGTCBEBEL31",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -601,8 +601,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L32",
     "SWIFT Code": "MGTCBEBEL32",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -614,8 +614,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "022",
     "SWIFT Code": "KREDBEBB022",
     "Bank Name": "KBC BANK NV",
@@ -627,8 +627,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "100",
     "SWIFT Code": "KREDBEBB100",
     "Bank Name": "KBC BANK NV",
@@ -640,8 +640,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "387",
     "SWIFT Code": "KREDBEBB387",
     "Bank Name": "KBC BANK NV",
@@ -653,8 +653,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "KREDBEBB",
     "Bank Name": "KBC BANK NV",
@@ -666,8 +666,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "CLE",
     "SWIFT Code": "KREDBEBBCLE",
     "Bank Name": "KBC BANK NV",
@@ -679,8 +679,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "CLS",
     "SWIFT Code": "KREDBEBBCLS",
     "Bank Name": "KBC BANK NV",
@@ -692,8 +692,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "LCH",
     "SWIFT Code": "KREDBEBBLCH",
     "Bank Name": "KBC BANK NV",
@@ -705,8 +705,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "085",
     "SWIFT Code": "KREDBEBB085",
     "Bank Name": "KBC BANK NV",
@@ -718,8 +718,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "460",
     "SWIFT Code": "KREDBEBB460",
     "Bank Name": "KBC BANK NV",
@@ -731,8 +731,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSE",
-    "bankCode": "BE",
+    "bankCode": "KBSE",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "KBSEBEBB",
     "Bank Name": "KBC SECURITIES N.V.",
@@ -744,8 +744,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KEYT",
-    "bankCode": "BE",
+    "bankCode": "KEYT",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "KEYTBEBB",
     "Bank Name": "KEYTRADE BANK, BELGIAN BRANCH OF ARKEA DIRECT BANK SA (FRANCE)",
@@ -757,8 +757,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LWGR",
-    "bankCode": "BE",
+    "bankCode": "LWGR",
+    "countryCode": "BE",
     "branchCode": "E2B",
     "SWIFT Code": "LWGRBE2B",
     "Bank Name": "LEEWRANGLER BELGIUM SERVICES BVBA",
@@ -770,8 +770,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LGRI",
-    "bankCode": "BE",
+    "bankCode": "LGRI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "LGRIBEBB",
     "Bank Name": "LEGRIS INDUSTRIES SE, EUROPEAN COMPANY",
@@ -783,8 +783,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LABE",
-    "bankCode": "BE",
+    "bankCode": "LABE",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "LABEBEBB",
     "Bank Name": "LELEUX ASSOCIATED BROKERS",
@@ -796,8 +796,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LABE",
-    "bankCode": "BE",
+    "bankCode": "LABE",
+    "countryCode": "BE",
     "branchCode": "CLI",
     "SWIFT Code": "LABEBEBBCLI",
     "Bank Name": "LELEUX ASSOCIATED BROKERS",
@@ -809,8 +809,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "BE",
+    "bankCode": "LOCY",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "LOCYBEBB",
     "Bank Name": "LOMBARD ODIER (EUROPE) S.A.",
@@ -822,8 +822,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOCY",
-    "bankCode": "BE",
+    "bankCode": "LOCY",
+    "countryCode": "BE",
     "branchCode": "NDP",
     "SWIFT Code": "LOCYBEBBNDP",
     "Bank Name": "LOMBARD ODIER (EUROPE) S.A.",
@@ -835,8 +835,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTO",
-    "bankCode": "BE",
+    "bankCode": "MGTO",
+    "countryCode": "BE",
     "branchCode": "E44",
     "SWIFT Code": "MGTOBE44",
     "Bank Name": "MAGOTTEAUX INTERNATIONAL SA",
@@ -848,8 +848,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MACS",
-    "bankCode": "BE",
+    "bankCode": "MACS",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "MACSBE22",
     "Bank Name": "MASTERCARD EUROPE S.A.",
@@ -861,8 +861,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MBWM",
-    "bankCode": "BE",
+    "bankCode": "MBWM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "MBWMBEBB",
     "Bank Name": "MEDIRECT BANK",
@@ -874,8 +874,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADFN",
-    "bankCode": "BE",
+    "bankCode": "ADFN",
+    "countryCode": "BE",
     "branchCode": "E44",
     "SWIFT Code": "ADFNBE44",
     "Bank Name": "MEUSE FINCO",
@@ -887,8 +887,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "BE",
+    "bankCode": "MHCB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "MHCBBEBB",
     "Bank Name": "MIZUHO BANK EUROPE N.V., BRUSSELS BRANCH",
@@ -900,8 +900,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MHCB",
-    "bankCode": "BE",
+    "bankCode": "MHCB",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "MHCBBEBBTGT",
     "Bank Name": "MIZUHO BANK EUROPE N.V., BRUSSELS BRANCH",
@@ -913,8 +913,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MNEE",
-    "bankCode": "BE",
+    "bankCode": "MNEE",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "MNEEBEB2",
     "Bank Name": "MONESE EU SA",
@@ -926,8 +926,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGRM",
-    "bankCode": "BE",
+    "bankCode": "MGRM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "MGRMBEBB",
     "Bank Name": "MONEYGRAM INTERNATIONAL S.A.",
@@ -939,8 +939,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MTPS",
-    "bankCode": "BE",
+    "bankCode": "MTPS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "MTPSBEBB",
     "Bank Name": "MONEYTRANS PAYMENT SERVICES",
@@ -952,8 +952,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMTS",
-    "bankCode": "BE",
+    "bankCode": "BMTS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BMTSBEBB",
     "Bank Name": "MTS ASSOCIATED MARKETS",
@@ -965,8 +965,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "BE",
+    "bankCode": "BOTK",
+    "countryCode": "BE",
     "branchCode": "T2B",
     "SWIFT Code": "BOTKBEBXT2B",
     "Bank Name": "MUFG BANK (EUROPE) N.V. BRUSSELS BRANCH (FORMERLY THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.)",
@@ -978,8 +978,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "BE",
+    "bankCode": "BOTK",
+    "countryCode": "BE",
     "branchCode": "EBX",
     "SWIFT Code": "BOTKBEBX",
     "Bank Name": "MUFG BANK (EUROPE) N.V. BRUSSELS BRANCH (FORMERLY THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.)",
@@ -991,8 +991,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NEXA",
-    "bankCode": "BE",
+    "bankCode": "NEXA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "NEXABEBB",
     "Bank Name": "NEXANS SERVICES SA",
@@ -1004,8 +1004,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NLMK",
-    "bankCode": "BE",
+    "bankCode": "NLMK",
+    "countryCode": "BE",
     "branchCode": "E6L",
     "SWIFT Code": "NLMKBE6L",
     "Bank Name": "NLMK BELGIUM HOLDINGS SA",
@@ -1017,8 +1017,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OMEG",
-    "bankCode": "BE",
+    "bankCode": "OMEG",
+    "countryCode": "BE",
     "branchCode": "E9A",
     "SWIFT Code": "OMEGBE9A",
     "Bank Name": "OMEGA PHARMA CAPITAL NV",
@@ -1030,8 +1030,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PAYV",
-    "bankCode": "BE",
+    "bankCode": "PAYV",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "PAYVBEB2",
     "Bank Name": "PAYNOVATE SA",
@@ -1043,8 +1043,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRCW",
-    "bankCode": "BE",
+    "bankCode": "PRCW",
+    "countryCode": "BE",
     "branchCode": "EBM",
     "SWIFT Code": "PRCWBEBM",
     "Bank Name": "PRICEWATERHOUSECOOPERS BEDRIJFSREVISOREN B.V. - REVISEURS D'ENTREPRISES S.R.L.",
@@ -1056,8 +1056,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PVTI",
-    "bankCode": "BE",
+    "bankCode": "PVTI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "PVTIBEBB",
     "Bank Name": "PRIVATE INSURER",
@@ -1069,8 +1069,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PURA",
-    "bankCode": "BE",
+    "bankCode": "PURA",
+    "countryCode": "BE",
     "branchCode": "EBD",
     "SWIFT Code": "PURABEBD",
     "Bank Name": "PURATOS N.V.",
@@ -1082,8 +1082,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "QUFA",
-    "bankCode": "BE",
+    "bankCode": "QUFA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "QUFABEBB",
     "Bank Name": "QUANTESSENCE FINANCIAL S.A./N.V.",
@@ -1095,8 +1095,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUIL",
-    "bankCode": "BE",
+    "bankCode": "PUIL",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "PUILBEBB",
     "Bank Name": "QUINTET PRIVATE BANK (EUROPE) SA (FORMERLY PUILAETCO)",
@@ -1108,8 +1108,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUIL",
-    "bankCode": "BE",
+    "bankCode": "PUIL",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "PUILBEBBTG2",
     "Bank Name": "QUINTET PRIVATE BANK (EUROPE) SA (FORMERLY PUILAETCO)",
@@ -1121,8 +1121,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "BE",
+    "bankCode": "RABO",
+    "countryCode": "BE",
     "branchCode": "E23",
     "SWIFT Code": "RABOBE23",
     "Bank Name": "RABOBANK ANTWERP (CORPORATE BANK)",
@@ -1134,8 +1134,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RECL",
-    "bankCode": "BE",
+    "bankCode": "RECL",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "RECLBEBB",
     "Bank Name": "RECTICEL S.A.",
@@ -1147,8 +1147,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "BE",
+    "bankCode": "REVO",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "REVOBEB2",
     "Bank Name": "REVOLUT BELGIUM",
@@ -1160,8 +1160,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBP",
-    "bankCode": "BE",
+    "bankCode": "RCBP",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "RCBPBEBB",
     "Bank Name": "ROTHSCHILD AND CO WEALTH MANAGEMENT BELGIUM",
@@ -1173,8 +1173,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RCBP",
-    "bankCode": "BE",
+    "bankCode": "RCBP",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "RCBPBEBBTG2",
     "Bank Name": "ROTHSCHILD AND CO WEALTH MANAGEMENT BELGIUM",
@@ -1186,8 +1186,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AFFE",
-    "bankCode": "BE",
+    "bankCode": "AFFE",
+    "countryCode": "BE",
     "branchCode": "EB3",
     "SWIFT Code": "AFFEBEB3",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1199,8 +1199,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "ODD",
     "SWIFT Code": "SWHQBEBBODD",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1212,8 +1212,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "111",
     "SWIFT Code": "SWHQBEBB111",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1225,8 +1225,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SWHQBEBB",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1238,8 +1238,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWLI",
-    "bankCode": "BE",
+    "bankCode": "SWLI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SWLIBEBB",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1251,8 +1251,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWTD",
-    "bankCode": "BE",
+    "bankCode": "SWTD",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SWTDBEBB",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1264,8 +1264,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "REF",
     "SWIFT Code": "SWHQBEBBREF",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1277,8 +1277,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "ADS",
     "SWIFT Code": "SWHQBEBBADS",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1290,8 +1290,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "BCT",
     "SWIFT Code": "SWHQBEBBBCT",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1303,8 +1303,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "EVE",
     "SWIFT Code": "SWHQBEBBEVE",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1316,8 +1316,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "BIL",
     "SWIFT Code": "SWHQBEBBBIL",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1329,8 +1329,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "E2E",
     "SWIFT Code": "SWHQBEBBE2E",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1342,8 +1342,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "FIN",
     "SWIFT Code": "SWHQBEBBFIN",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1355,8 +1355,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "GMT",
     "SWIFT Code": "SWHQBEBBGMT",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1368,8 +1368,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "TSD",
     "SWIFT Code": "SWHQBEBBTSD",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1381,8 +1381,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "MKT",
     "SWIFT Code": "SWHQBEBBMKT",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1394,8 +1394,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "MEM",
     "SWIFT Code": "SWHQBEBBMEM",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1407,8 +1407,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "PRM",
     "SWIFT Code": "SWHQBEBBPRM",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1420,8 +1420,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "QED",
     "SWIFT Code": "SWHQBEBBQED",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1433,8 +1433,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "TTT",
     "SWIFT Code": "SWHQBEBBTTT",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1446,8 +1446,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "SAL",
     "SWIFT Code": "SWHQBEBBSAL",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1459,8 +1459,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "SHR",
     "SWIFT Code": "SWHQBEBBSHR",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1472,8 +1472,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "STD",
     "SWIFT Code": "SWHQBEBBSTD",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1485,8 +1485,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "LOG",
     "SWIFT Code": "SWHQBEBBLOG",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1498,8 +1498,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "EDU",
     "SWIFT Code": "SWHQBEBBEDU",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1511,8 +1511,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "SNF",
     "SWIFT Code": "SWHQBEBBSNF",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1524,8 +1524,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "TLC",
     "SWIFT Code": "SWHQBEBBTLC",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS",
@@ -1537,8 +1537,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SSCR",
-    "bankCode": "BE",
+    "bankCode": "SSCR",
+    "countryCode": "BE",
     "branchCode": "EB3",
     "SWIFT Code": "SSCRBEB3",
     "Bank Name": "S.W.I.F.T. HEADQUARTERS - SANCTIONS SCREENING",
@@ -1550,8 +1550,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWTM",
-    "bankCode": "BE",
+    "bankCode": "SWTM",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "SWTMBEB2",
     "Bank Name": "S.W.I.F.T. SC",
@@ -1563,8 +1563,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWTM",
-    "bankCode": "BE",
+    "bankCode": "SWTM",
+    "countryCode": "BE",
     "branchCode": "EB3",
     "SWIFT Code": "SWTMBEB3",
     "Bank Name": "S.W.I.F.T. SC",
@@ -1576,8 +1576,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWTM",
-    "bankCode": "BE",
+    "bankCode": "SWTM",
+    "countryCode": "BE",
     "branchCode": "EB4",
     "SWIFT Code": "SWTMBEB4",
     "Bank Name": "S.W.I.F.T. SC",
@@ -1589,8 +1589,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWTM",
-    "bankCode": "BE",
+    "bankCode": "SWTM",
+    "countryCode": "BE",
     "branchCode": "EB5",
     "SWIFT Code": "SWTMBEB5",
     "Bank Name": "S.W.I.F.T. SC",
@@ -1602,8 +1602,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWTM",
-    "bankCode": "BE",
+    "bankCode": "SWTM",
+    "countryCode": "BE",
     "branchCode": "EB6",
     "SWIFT Code": "SWTMBEB6",
     "Bank Name": "S.W.I.F.T. SC",
@@ -1615,8 +1615,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNPA",
-    "bankCode": "BE",
+    "bankCode": "BNPA",
+    "countryCode": "BE",
     "branchCode": "EBS",
     "SWIFT Code": "BNPABEBS",
     "Bank Name": "SAGIP S.A. (S.A. DE GESTION, D'INVESTISSEMENT ET DE PARTICIPATION)",
@@ -1628,8 +1628,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BE",
+    "bankCode": "BSCH",
+    "countryCode": "BE",
     "branchCode": "BLX",
     "SWIFT Code": "BSCHBEBBBLX",
     "Bank Name": "SANTANDER CONSUMER FINANCE, S.A.",
@@ -1641,8 +1641,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BE",
+    "bankCode": "BSCH",
+    "countryCode": "BE",
     "branchCode": "RET",
     "SWIFT Code": "BSCHBEBBRET",
     "Bank Name": "SANTANDER CONSUMER FINANCE, S.A.",
@@ -1654,8 +1654,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BSCH",
-    "bankCode": "BE",
+    "bankCode": "BSCH",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BSCHBEBB",
     "Bank Name": "SANTANDER CONSUMER FINANCE, S.A.",
@@ -1667,8 +1667,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SRBE",
-    "bankCode": "BE",
+    "bankCode": "SRBE",
+    "countryCode": "BE",
     "branchCode": "EBW",
     "SWIFT Code": "SRBEBEBW",
     "Bank Name": "SARENS BESTUUR N.V.",
@@ -1680,8 +1680,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBMS",
-    "bankCode": "BE",
+    "bankCode": "SBMS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SBMSBEBB",
     "Bank Name": "SBMS S.A.",
@@ -1693,8 +1693,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SHDD",
-    "bankCode": "BE",
+    "bankCode": "SHDD",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SHDDBEBB",
     "Bank Name": "SCHREDER S.A.",
@@ -1706,8 +1706,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIVT",
-    "bankCode": "BE",
+    "bankCode": "SIVT",
+    "countryCode": "BE",
     "branchCode": "E99",
     "SWIFT Code": "SIVTBE99",
     "Bank Name": "SEA-INVEST N.V.",
@@ -1719,8 +1719,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SIEA",
-    "bankCode": "BE",
+    "bankCode": "SIEA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SIEABEBB",
     "Bank Name": "SITA B.V.",
@@ -1732,8 +1732,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "BE",
+    "bankCode": "SGAB",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "SGABBEB2TG2",
     "Bank Name": "SOCIETE GENERALE (BELGIAN HEAD OFFICE)",
@@ -1745,8 +1745,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "BE",
+    "bankCode": "SGAB",
+    "countryCode": "BE",
     "branchCode": "CTI",
     "SWIFT Code": "SGABBEB2CTI",
     "Bank Name": "SOCIETE GENERALE (BELGIAN HEAD OFFICE)",
@@ -1758,8 +1758,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "BE",
+    "bankCode": "SGAB",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "SGABBEB2",
     "Bank Name": "SOCIETE GENERALE (BELGIAN HEAD OFFICE)",
@@ -1771,8 +1771,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "BE",
+    "bankCode": "SGAB",
+    "countryCode": "BE",
     "branchCode": "BRU",
     "SWIFT Code": "SGABBEB2BRU",
     "Bank Name": "SOCIETE GENERALE (BELGIAN HEAD OFFICE)",
@@ -1784,8 +1784,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "BE",
+    "bankCode": "SGAB",
+    "countryCode": "BE",
     "branchCode": "TRA",
     "SWIFT Code": "SGABBEB2TRA",
     "Bank Name": "SOCIETE GENERALE (BELGIAN HEAD OFFICE)",
@@ -1797,8 +1797,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SGAB",
-    "bankCode": "BE",
+    "bankCode": "SGAB",
+    "countryCode": "BE",
     "branchCode": "TPS",
     "SWIFT Code": "SGABBEB2TPS",
     "Bank Name": "SOCIETE GENERALE (BELGIAN HEAD OFFICE)",
@@ -1810,8 +1810,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IMMO",
-    "bankCode": "BE",
+    "bankCode": "IMMO",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "IMMOBEBB",
     "Bank Name": "SOCIETE GENERALE IMMOBEL S.A.",
@@ -1823,8 +1823,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RSMI",
-    "bankCode": "BE",
+    "bankCode": "RSMI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "RSMIBEBB",
     "Bank Name": "SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION SC",
@@ -1836,8 +1836,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPSV",
-    "bankCode": "BE",
+    "bankCode": "IPSV",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "IPSVBEBB",
     "Bank Name": "SOCIETY FOR WORLDWIDE INTERBANKFINANCIAL TELECOMMUNICATION SCRL",
@@ -1849,8 +1849,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SOLV",
-    "bankCode": "BE",
+    "bankCode": "SOLV",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SOLVBEBB",
     "Bank Name": "SOLVAY S.A",
@@ -1862,8 +1862,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BE",
+    "bankCode": "SBIN",
+    "countryCode": "BE",
     "branchCode": "E2X",
     "SWIFT Code": "SBINBE2X",
     "Bank Name": "STATE BANK OF INDIA",
@@ -1875,8 +1875,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBIN",
-    "bankCode": "BE",
+    "bankCode": "SBIN",
+    "countryCode": "BE",
     "branchCode": "668",
     "SWIFT Code": "SBINBE2X668",
     "Bank Name": "STATE BANK OF INDIA",
@@ -1888,8 +1888,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "BE",
+    "bankCode": "SMBC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SMBCBEBB",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -1901,8 +1901,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SMBC",
-    "bankCode": "BE",
+    "bankCode": "SMBC",
+    "countryCode": "BE",
     "branchCode": "GEB",
     "SWIFT Code": "SMBCBEBBGEB",
     "Bank Name": "SUMITOMO MITSUI BANKING CORPORATION",
@@ -1914,8 +1914,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ENIB",
-    "bankCode": "BE",
+    "bankCode": "ENIB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ENIBBEBB",
     "Bank Name": "BANQUE ENI S.A.",
@@ -1927,8 +1927,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNAG",
-    "bankCode": "BE",
+    "bankCode": "BNAG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BNAGBEBB",
     "Bank Name": "BANQUE NAGELMACKERS S.A. - BANK NAGELMACKERS NV",
@@ -1940,8 +1940,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "CON",
     "SWIFT Code": "NBBEBEBBCON",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -1953,8 +1953,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "GLB",
     "SWIFT Code": "NBBEBEBBGLB",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -1966,8 +1966,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "DCK",
     "SWIFT Code": "NBBEBEBBDCK",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -1979,8 +1979,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "NBBEBEBB",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -1992,8 +1992,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMS",
-    "bankCode": "BE",
+    "bankCode": "ECMS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ECMSBEBB",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2005,8 +2005,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMS",
-    "bankCode": "BE",
+    "bankCode": "ECMS",
+    "countryCode": "BE",
     "branchCode": "CCB",
     "SWIFT Code": "ECMSBEBBCCB",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2018,8 +2018,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "273",
     "SWIFT Code": "NBBEBEBB273",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2031,8 +2031,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "243",
     "SWIFT Code": "NBBEBEBB243",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2044,8 +2044,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "TRE",
     "SWIFT Code": "NBBEBEBBTRE",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2057,8 +2057,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "CEC",
     "SWIFT Code": "NBBEBEBBCEC",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2070,8 +2070,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECMS",
-    "bankCode": "BE",
+    "bankCode": "ECMS",
+    "countryCode": "BE",
     "branchCode": "CAP",
     "SWIFT Code": "ECMSBEBBCAP",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2083,8 +2083,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "203",
     "SWIFT Code": "NBBEBEBB203",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2096,8 +2096,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "DAB",
     "SWIFT Code": "NBBEBEBBDAB",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2109,8 +2109,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "DAE",
     "SWIFT Code": "NBBEBEBBDAE",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2122,8 +2122,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "EOC",
     "SWIFT Code": "NBBEBEBBEOC",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2135,8 +2135,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "HCC",
     "SWIFT Code": "NBBEBEBBHCC",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2148,8 +2148,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "223",
     "SWIFT Code": "NBBEBEBB223",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2161,8 +2161,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "CAC",
     "SWIFT Code": "NBBEBEBBCAC",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2174,8 +2174,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "NTW",
     "SWIFT Code": "NBBEBEBBNTW",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2187,8 +2187,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "679",
     "SWIFT Code": "NBBEBEBB679",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2200,8 +2200,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "216",
     "SWIFT Code": "NBBEBEBB216",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2213,8 +2213,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBBE",
-    "bankCode": "BE",
+    "bankCode": "NBBE",
+    "countryCode": "BE",
     "branchCode": "WTX",
     "SWIFT Code": "NBBEBEBBWTX",
     "Bank Name": "BANQUE NATIONALE DE BELGIQUE",
@@ -2226,8 +2226,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "BE",
+    "bankCode": "BARC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BARCBEBB",
     "Bank Name": "BARCLAYS BANK IRELAND PLC, BELGIUM BRANCH",
@@ -2239,8 +2239,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARC",
-    "bankCode": "BE",
+    "bankCode": "BARC",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "BARCBEBBTG2",
     "Bank Name": "BARCLAYS BANK IRELAND PLC, BELGIUM BRANCH",
@@ -2252,8 +2252,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCBS",
-    "bankCode": "BE",
+    "bankCode": "BCBS",
+    "countryCode": "BE",
     "branchCode": "E9L",
     "SWIFT Code": "BCBSBE9L",
     "Bank Name": "BARRY CALLEBAUT SERVICES N.V.",
@@ -2265,8 +2265,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BEHL",
-    "bankCode": "BE",
+    "bankCode": "BEHL",
+    "countryCode": "BE",
     "branchCode": "E8W",
     "SWIFT Code": "BEHLBE8W",
     "Bank Name": "BEKAERTDESLEE HOLDING N.V.",
@@ -2278,8 +2278,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GKCC",
-    "bankCode": "BE",
+    "bankCode": "GKCC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "GKCCBEBB",
     "Bank Name": "BELFIUS BANK SA/NV",
@@ -2291,8 +2291,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BENP",
-    "bankCode": "BE",
+    "bankCode": "BENP",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "BENPBEB2",
     "Bank Name": "BELFIUS INVESTMENT PARTNERS",
@@ -2304,8 +2304,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBK",
-    "bankCode": "BE",
+    "bankCode": "CTBK",
+    "countryCode": "BE",
     "branchCode": "EBX",
     "SWIFT Code": "CTBKBEBX",
     "Bank Name": "BEOBANK NV/SA",
@@ -2317,8 +2317,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CTBK",
-    "bankCode": "BE",
+    "bankCode": "CTBK",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "CTBKBEBXTGT",
     "Bank Name": "BEOBANK NV/SA",
@@ -2330,8 +2330,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BICK",
-    "bankCode": "BE",
+    "bankCode": "BICK",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "BICKBE22",
     "Bank Name": "BINCKBANK NV",
@@ -2343,8 +2343,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FIMG",
-    "bankCode": "BE",
+    "bankCode": "FIMG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "FIMGBEBB",
     "Bank Name": "BNP PARIBAS ASSET MANAGEMENT BELGIAN BRANCH",
@@ -2356,8 +2356,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "01A",
     "SWIFT Code": "GEBABEBB01A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2369,8 +2369,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "18A",
     "SWIFT Code": "GEBABEBB18A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2382,8 +2382,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "02A",
     "SWIFT Code": "GEBABEBB02A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2395,8 +2395,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "13A",
     "SWIFT Code": "GEBABEBB13A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2408,8 +2408,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "ALM",
     "SWIFT Code": "GEBABEBBALM",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2421,8 +2421,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "00A",
     "SWIFT Code": "GEBABEBB00A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2434,8 +2434,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "DBK",
     "SWIFT Code": "GEBABEBBDBK",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2447,8 +2447,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "GEBABEBB",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2460,8 +2460,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "LDN",
     "SWIFT Code": "GEBABEBBLDN",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2473,8 +2473,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "36A",
     "SWIFT Code": "GEBABEBB36A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2486,8 +2486,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "IPA",
     "SWIFT Code": "GEBABEBBIPA",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2499,8 +2499,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "SSD",
     "SWIFT Code": "GEBABEBBSSD",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2512,8 +2512,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "03A",
     "SWIFT Code": "GEBABEBB03A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2525,8 +2525,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "08E",
     "SWIFT Code": "GEBABEBB08E",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2538,8 +2538,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "05A",
     "SWIFT Code": "GEBABEBB05A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2551,8 +2551,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "14A",
     "SWIFT Code": "GEBABEBB14A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -2564,8 +2564,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ACCO",
-    "bankCode": "BE",
+    "bankCode": "ACCO",
+    "countryCode": "BE",
     "branchCode": "EB3",
     "SWIFT Code": "ACCOBEB3",
     "Bank Name": "SWIFT CLS THIRD PARTY SERVICE",
@@ -2577,8 +2577,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHT",
-    "bankCode": "BE",
+    "bankCode": "SWHT",
+    "countryCode": "BE",
     "branchCode": "AC1",
     "SWIFT Code": "SWHTBEBBAC1",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2590,8 +2590,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHT",
-    "bankCode": "BE",
+    "bankCode": "SWHT",
+    "countryCode": "BE",
     "branchCode": "AC2",
     "SWIFT Code": "SWHTBEBBAC2",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2603,8 +2603,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHT",
-    "bankCode": "BE",
+    "bankCode": "SWHT",
+    "countryCode": "BE",
     "branchCode": "AC3",
     "SWIFT Code": "SWHTBEBBAC3",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2616,8 +2616,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHT",
-    "bankCode": "BE",
+    "bankCode": "SWHT",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SWHTBEBB",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2629,8 +2629,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "ENC",
     "SWIFT Code": "SWHQBECAENC",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2642,8 +2642,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "CMC",
     "SWIFT Code": "SWHQBECACMC",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2655,8 +2655,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "CKC",
     "SWIFT Code": "SWHQBECACKC",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2668,8 +2668,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SWHQ",
-    "bankCode": "BE",
+    "bankCode": "SWHQ",
+    "countryCode": "BE",
     "branchCode": "CIO",
     "SWIFT Code": "SWHQBECACIO",
     "Bank Name": "SWIFT HEADQUARTERS",
@@ -2681,8 +2681,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CYTE",
-    "bankCode": "BE",
+    "bankCode": "CYTE",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CYTEBEBB",
     "Bank Name": "SYENSQO S.A.",
@@ -2694,8 +2694,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMMV",
-    "bankCode": "BE",
+    "bankCode": "MMMV",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "MMMVBEBB",
     "Bank Name": "TESSENDERLO GROUP N.V. - S.A.",
@@ -2707,8 +2707,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "IRVTBEBB",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2720,8 +2720,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "BSK",
     "SWIFT Code": "IRVTBEBBBSK",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2733,8 +2733,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "DCP",
     "SWIFT Code": "IRVTBEBBDCP",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2746,8 +2746,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "ICP",
     "SWIFT Code": "IRVTBEBBICP",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2759,8 +2759,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B01",
     "SWIFT Code": "IRVTBEBBB01",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2772,8 +2772,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B02",
     "SWIFT Code": "IRVTBEBBB02",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2785,8 +2785,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B03",
     "SWIFT Code": "IRVTBEBBB03",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2798,8 +2798,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B04",
     "SWIFT Code": "IRVTBEBBB04",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2811,8 +2811,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B05",
     "SWIFT Code": "IRVTBEBBB05",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2824,8 +2824,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B06",
     "SWIFT Code": "IRVTBEBBB06",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2837,8 +2837,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "B07",
     "SWIFT Code": "IRVTBEBBB07",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2850,8 +2850,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "BNY",
     "SWIFT Code": "IRVTBEBBBNY",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2863,8 +2863,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "LUX",
     "SWIFT Code": "IRVTBEBBLUX",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2876,8 +2876,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "SER",
     "SWIFT Code": "IRVTBEBBSER",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2889,8 +2889,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "ADM",
     "SWIFT Code": "IRVTBEBBADM",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2902,8 +2902,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "TWT",
     "SWIFT Code": "IRVTBEBBTWT",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2915,8 +2915,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "CCM",
     "SWIFT Code": "IRVTBEBBCCM",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2928,8 +2928,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "DMM",
     "SWIFT Code": "IRVTBEBBDMM",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2941,8 +2941,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "FND",
     "SWIFT Code": "IRVTBEBBFND",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2954,8 +2954,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "BKR",
     "SWIFT Code": "IRVTBEBBBKR",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2967,8 +2967,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "GSS",
     "SWIFT Code": "IRVTBEBBGSS",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2980,8 +2980,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "IMC",
     "SWIFT Code": "IRVTBEBBIMC",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -2993,8 +2993,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IRVT",
-    "bankCode": "BE",
+    "bankCode": "IRVT",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "IRVTBEBBTG2",
     "Bank Name": "THE BANK OF NEW YORK MELLON SA/NV",
@@ -3006,8 +3006,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "BE",
+    "bankCode": "BNYM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BNYMBEBB",
     "Bank Name": "THE BANK OF NEW YORK MELLON, SA/NV",
@@ -3019,8 +3019,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "BE",
+    "bankCode": "BNYM",
+    "countryCode": "BE",
     "branchCode": "FND",
     "SWIFT Code": "BNYMBEBBFND",
     "Bank Name": "THE BANK OF NEW YORK MELLON, SA/NV",
@@ -3032,8 +3032,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BNYM",
-    "bankCode": "BE",
+    "bankCode": "BNYM",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "BNYMBEBBTG2",
     "Bank Name": "THE BANK OF NEW YORK MELLON, SA/NV",
@@ -3045,8 +3045,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRIO",
-    "bankCode": "BE",
+    "bankCode": "TRIO",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "TRIOBEBB",
     "Bank Name": "TRIODOS BANK",
@@ -3058,8 +3058,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UCBG",
-    "bankCode": "BE",
+    "bankCode": "UCBG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "UCBGBEBB",
     "Bank Name": "UCB BIOPHARMA SRL",
@@ -3071,8 +3071,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UMSF",
-    "bankCode": "BE",
+    "bankCode": "UMSF",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "UMSFBEBB",
     "Bank Name": "UMICORE FINANCIAL SERVICES",
@@ -3084,8 +3084,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTWB",
-    "bankCode": "BE",
+    "bankCode": "UTWB",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "UTWBBEBBTGT",
     "Bank Name": "UNITED TAIWAN BANK S.A.",
@@ -3097,8 +3097,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "UTWB",
-    "bankCode": "BE",
+    "bankCode": "UTWB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "UTWBBEBB",
     "Bank Name": "UNITED TAIWAN BANK S.A.",
@@ -3110,8 +3110,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VAPE",
-    "bankCode": "BE",
+    "bankCode": "VAPE",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "VAPEBE22",
     "Bank Name": "VAN DE PUT AND CO PRIVATE BANKERS",
@@ -3123,8 +3123,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FVLB",
-    "bankCode": "BE",
+    "bankCode": "FVLB",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "FVLBBE22",
     "Bank Name": "VAN LANSCHOT KEMPEN N.V.",
@@ -3136,8 +3136,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FVLB",
-    "bankCode": "BE",
+    "bankCode": "FVLB",
+    "countryCode": "BE",
     "branchCode": "001",
     "SWIFT Code": "FVLBBE22001",
     "Bank Name": "VAN LANSCHOT KEMPEN N.V.",
@@ -3149,8 +3149,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VDSP",
-    "bankCode": "BE",
+    "bankCode": "VDSP",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "VDSPBE22",
     "Bank Name": "VDK BANK",
@@ -3162,8 +3162,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VFCO",
-    "bankCode": "BE",
+    "bankCode": "VFCO",
+    "countryCode": "BE",
     "branchCode": "E2B",
     "SWIFT Code": "VFCOBE2B",
     "Bank Name": "VF EUROPE BV",
@@ -3175,8 +3175,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LOGC",
-    "bankCode": "BE",
+    "bankCode": "LOGC",
+    "countryCode": "BE",
     "branchCode": "E2T",
     "SWIFT Code": "LOGCBE2T",
     "Bank Name": "VG LOGICARTON N.V.",
@@ -3188,8 +3188,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VWAG",
-    "bankCode": "BE",
+    "bankCode": "VWAG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "VWAGBEBB",
     "Bank Name": "VOLKSWAGEN INTERNATIONAL BELGIUM",
@@ -3201,8 +3201,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "VPSV",
-    "bankCode": "BE",
+    "bankCode": "VPSV",
+    "countryCode": "BE",
     "branchCode": "E9D",
     "SWIFT Code": "VPSVBE9D",
     "Bank Name": "VPK SERVICES",
@@ -3214,8 +3214,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L22",
     "SWIFT Code": "MGTCBEBEL22",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3227,8 +3227,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L23",
     "SWIFT Code": "MGTCBEBEL23",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3240,8 +3240,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L24",
     "SWIFT Code": "MGTCBEBEL24",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3253,8 +3253,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L15",
     "SWIFT Code": "MGTCBEBEL15",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3266,8 +3266,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L16",
     "SWIFT Code": "MGTCBEBEL16",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3279,8 +3279,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L17",
     "SWIFT Code": "MGTCBEBEL17",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3292,8 +3292,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L18",
     "SWIFT Code": "MGTCBEBEL18",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3305,8 +3305,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L19",
     "SWIFT Code": "MGTCBEBEL19",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3318,8 +3318,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L01",
     "SWIFT Code": "MGTCBEBEL01",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3331,8 +3331,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L02",
     "SWIFT Code": "MGTCBEBEL02",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3344,8 +3344,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L03",
     "SWIFT Code": "MGTCBEBEL03",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3357,8 +3357,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L04",
     "SWIFT Code": "MGTCBEBEL04",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3370,8 +3370,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L05",
     "SWIFT Code": "MGTCBEBEL05",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3383,8 +3383,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L06",
     "SWIFT Code": "MGTCBEBEL06",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3396,8 +3396,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L07",
     "SWIFT Code": "MGTCBEBEL07",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3409,8 +3409,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L08",
     "SWIFT Code": "MGTCBEBEL08",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3422,8 +3422,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L09",
     "SWIFT Code": "MGTCBEBEL09",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3435,8 +3435,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L10",
     "SWIFT Code": "MGTCBEBEL10",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3448,8 +3448,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L11",
     "SWIFT Code": "MGTCBEBEL11",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3461,8 +3461,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L12",
     "SWIFT Code": "MGTCBEBEL12",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3474,8 +3474,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L13",
     "SWIFT Code": "MGTCBEBEL13",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3487,8 +3487,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L14",
     "SWIFT Code": "MGTCBEBEL14",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3500,8 +3500,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "TDK",
     "SWIFT Code": "MGTCBEBETDK",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -3513,8 +3513,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E2S",
     "SWIFT Code": "MGTCBE2S",
     "Bank Name": "EUROCLEAR BANK S.A./N.V.",
@@ -3526,8 +3526,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E2J",
     "SWIFT Code": "MGTCBE2J",
     "Bank Name": "EUROCLEAR BANK S.A./N.V.",
@@ -3539,8 +3539,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CIKBBEBB",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3552,8 +3552,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "018",
     "SWIFT Code": "CIKBBEBB018",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3565,8 +3565,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "DIF",
     "SWIFT Code": "CIKBBEBBDIF",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3578,8 +3578,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "013",
     "SWIFT Code": "CIKBBEBB013",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3591,8 +3591,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "EA1",
     "SWIFT Code": "CIKBBEBBEA1",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3604,8 +3604,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "EA2",
     "SWIFT Code": "CIKBBEBBEA2",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3617,8 +3617,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "EA3",
     "SWIFT Code": "CIKBBEBBEA3",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3630,8 +3630,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "MIG",
     "SWIFT Code": "CIKBBEBBMIG",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3643,8 +3643,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "CLR",
     "SWIFT Code": "CIKBBEBBCLR",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3656,8 +3656,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CIKB",
-    "bankCode": "BE",
+    "bankCode": "CIKB",
+    "countryCode": "BE",
     "branchCode": "EII",
     "SWIFT Code": "CIKBBEBBEII",
     "Bank Name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
@@ -3669,8 +3669,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUOV",
-    "bankCode": "BE",
+    "bankCode": "EUOV",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "EUOVBE22",
     "Bank Name": "EURONAV N.V.",
@@ -3682,8 +3682,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EURB",
-    "bankCode": "BE",
+    "bankCode": "EURB",
+    "countryCode": "BE",
     "branchCode": "E99",
     "SWIFT Code": "EURBBE99",
     "Bank Name": "EUROPABANK N.V.",
@@ -3695,8 +3695,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "BE",
+    "bankCode": "EUCO",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EUCOBEBB",
     "Bank Name": "EUROPEAN COMMISSION (DG BUDGET)",
@@ -3708,8 +3708,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "BE",
+    "bankCode": "EUCO",
+    "countryCode": "BE",
     "branchCode": "SRB",
     "SWIFT Code": "EUCOBEBBSRB",
     "Bank Name": "EUROPEAN COMMISSION (DG BUDGET)",
@@ -3721,8 +3721,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "BE",
+    "bankCode": "EUCO",
+    "countryCode": "BE",
     "branchCode": "EAS",
     "SWIFT Code": "EUCOBEBBEAS",
     "Bank Name": "EUROPEAN COMMISSION (DG BUDGET)",
@@ -3734,8 +3734,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "BE",
+    "bankCode": "EUCO",
+    "countryCode": "BE",
     "branchCode": "FED",
     "SWIFT Code": "EUCOBEBBFED",
     "Bank Name": "EUROPEAN COMMISSION (DG BUDGET)",
@@ -3747,8 +3747,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EUCO",
-    "bankCode": "BE",
+    "bankCode": "EUCO",
+    "countryCode": "BE",
     "branchCode": "CED",
     "SWIFT Code": "EUCOBEBBCED",
     "Bank Name": "EUROPEAN COMMISSION (DG BUDGET)",
@@ -3760,8 +3760,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ERVT",
-    "bankCode": "BE",
+    "bankCode": "ERVT",
+    "countryCode": "BE",
     "branchCode": "EBN",
     "SWIFT Code": "ERVTBEBN",
     "Bank Name": "EURVEST S.A.",
@@ -3773,8 +3773,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EVGR",
-    "bankCode": "BE",
+    "bankCode": "EVGR",
+    "countryCode": "BE",
     "branchCode": "E44",
     "SWIFT Code": "EVGRBE44",
     "Bank Name": "EVERZINC GROUP S.A.",
@@ -3786,8 +3786,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IKEA",
-    "bankCode": "BE",
+    "bankCode": "IKEA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "IKEABEBB",
     "Bank Name": "FAMI LIMITED",
@@ -3799,8 +3799,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPEB",
-    "bankCode": "BE",
+    "bankCode": "FPEB",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "FPEBBEB2",
     "Bank Name": "FINANCIERE DES PAIEMENTS ELECTRONIQUES BELGIUM",
@@ -3812,8 +3812,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRCS",
-    "bankCode": "BE",
+    "bankCode": "FRCS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "FRCSBEBB",
     "Bank Name": "FINANCIERE REMY COINTREAU SA/NV",
@@ -3825,8 +3825,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FLXY",
-    "bankCode": "BE",
+    "bankCode": "FLXY",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "FLXYBEBB",
     "Bank Name": "FLUXYS S.A.",
@@ -3838,8 +3838,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HERL",
-    "bankCode": "BE",
+    "bankCode": "HERL",
+    "countryCode": "BE",
     "branchCode": "E4H",
     "SWIFT Code": "HERLBE4H",
     "Bank Name": "FN HERSTAL S.A.",
@@ -3851,8 +3851,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GHEG",
-    "bankCode": "BE",
+    "bankCode": "GHEG",
+    "countryCode": "BE",
     "branchCode": "E9I",
     "SWIFT Code": "GHEGBE9I",
     "Bank Name": "GHELAMCO GROUP COMM. V.A.",
@@ -3864,8 +3864,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAK",
-    "bankCode": "BE",
+    "bankCode": "EBAK",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EBAKBEBB",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -3877,8 +3877,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAK",
-    "bankCode": "BE",
+    "bankCode": "EBAK",
+    "countryCode": "BE",
     "branchCode": "ELS",
     "SWIFT Code": "EBAKBEBBELS",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -3890,8 +3890,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAX",
-    "bankCode": "BE",
+    "bankCode": "EBAX",
+    "countryCode": "BE",
     "branchCode": "CGS",
     "SWIFT Code": "EBAXBEBBCGS",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -3903,8 +3903,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAX",
-    "bankCode": "BE",
+    "bankCode": "EBAX",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EBAXBEBB",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -3916,8 +3916,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAC",
-    "bankCode": "BE",
+    "bankCode": "EBAC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EBACBEBB",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -3929,8 +3929,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBAT",
-    "bankCode": "BE",
+    "bankCode": "EBAT",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EBATBEBB",
     "Bank Name": "ABE CLEARING SAS/EBA CLEARING",
@@ -3942,8 +3942,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "BE",
+    "bankCode": "ABNA",
+    "countryCode": "BE",
     "branchCode": "IDJ",
     "SWIFT Code": "ABNABE2AIDJ",
     "Bank Name": "ABN AMRO BANK N.V. BELGIAN BRANCH",
@@ -3955,8 +3955,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "BE",
+    "bankCode": "ABNA",
+    "countryCode": "BE",
     "branchCode": "E2A",
     "SWIFT Code": "ABNABE2A",
     "Bank Name": "ABN AMRO BANK N.V. BELGIAN BRANCH",
@@ -3968,8 +3968,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABNA",
-    "bankCode": "BE",
+    "bankCode": "ABNA",
+    "countryCode": "BE",
     "branchCode": "IPC",
     "SWIFT Code": "ABNABE2AIPC",
     "Bank Name": "ABN AMRO BANK N.V. BELGIAN BRANCH",
@@ -3981,8 +3981,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ADSG",
-    "bankCode": "BE",
+    "bankCode": "ADSG",
+    "countryCode": "BE",
     "branchCode": "EBZ",
     "SWIFT Code": "ADSGBEBZ",
     "Bank Name": "ADB SAFEGATE B.V.",
@@ -3994,8 +3994,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JCAE",
-    "bankCode": "BE",
+    "bankCode": "JCAE",
+    "countryCode": "BE",
     "branchCode": "E9A",
     "SWIFT Code": "JCAEBE9A",
     "Bank Name": "ADIENT BELGIUM BVBA",
@@ -4007,8 +4007,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AEDF",
-    "bankCode": "BE",
+    "bankCode": "AEDF",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "AEDFBEBB",
     "Bank Name": "AEDIFICA S.A./N.V.",
@@ -4020,8 +4020,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AGFG",
-    "bankCode": "BE",
+    "bankCode": "AGFG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "AGFGBEBB",
     "Bank Name": "AGFA-GEVAERT NV",
@@ -4033,8 +4033,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPB",
-    "bankCode": "BE",
+    "bankCode": "BMPB",
+    "countryCode": "BE",
     "branchCode": "TIP",
     "SWIFT Code": "BMPBBEBBTIP",
     "Bank Name": "AION",
@@ -4046,8 +4046,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPB",
-    "bankCode": "BE",
+    "bankCode": "BMPB",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "BMPBBEBBTGT",
     "Bank Name": "AION",
@@ -4059,8 +4059,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPB",
-    "bankCode": "BE",
+    "bankCode": "BMPB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BMPBBEBB",
     "Bank Name": "AION",
@@ -4072,8 +4072,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BMPB",
-    "bankCode": "BE",
+    "bankCode": "BMPB",
+    "countryCode": "BE",
     "branchCode": "VOD",
     "SWIFT Code": "BMPBBEBBVOD",
     "Bank Name": "AION",
@@ -4085,8 +4085,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ALIX",
-    "bankCode": "BE",
+    "bankCode": "ALIX",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ALIXBEBB",
     "Bank Name": "ALIAXIS HOLDINGS SA",
@@ -4098,8 +4098,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABIX",
-    "bankCode": "BE",
+    "bankCode": "ABIX",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ABIXBEBB",
     "Bank Name": "ANHEUSER-BUSCH INBEV NV",
@@ -4111,8 +4111,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AROC",
-    "bankCode": "BE",
+    "bankCode": "AROC",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "AROCBE22",
     "Bank Name": "ARDO FOODS NV",
@@ -4124,8 +4124,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARSP",
-    "bankCode": "BE",
+    "bankCode": "ARSP",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "ARSPBE22",
     "Bank Name": "ARGENTA",
@@ -4137,8 +4137,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ARRK",
-    "bankCode": "BE",
+    "bankCode": "ARRK",
+    "countryCode": "BE",
     "branchCode": "E99",
     "SWIFT Code": "ARRKBE99",
     "Bank Name": "ARRAKIS S.A.",
@@ -4150,8 +4150,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAFA",
-    "bankCode": "BE",
+    "bankCode": "WAFA",
+    "countryCode": "BE",
     "branchCode": "ANT",
     "SWIFT Code": "WAFABEBBANT",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE SA",
@@ -4163,8 +4163,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAFA",
-    "bankCode": "BE",
+    "bankCode": "WAFA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "WAFABEBB",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE SA",
@@ -4176,8 +4176,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WAFA",
-    "bankCode": "BE",
+    "bankCode": "WAFA",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "WAFABEBBTG2",
     "Bank Name": "ATTIJARIWAFA BANK EUROPE SA",
@@ -4189,8 +4189,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXAB",
-    "bankCode": "BE",
+    "bankCode": "AXAB",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "AXABBE22",
     "Bank Name": "AXA BANK BELGIUM",
@@ -4202,8 +4202,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "AXBI",
-    "bankCode": "BE",
+    "bankCode": "AXBI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "AXBIBEBB",
     "Bank Name": "AXA BELGIUM",
@@ -4215,8 +4215,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "BE",
+    "bankCode": "BBVA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BBVABEBB",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -4228,8 +4228,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBVA",
-    "bankCode": "BE",
+    "bankCode": "BBVA",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "BBVABEBBTG2",
     "Bank Name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
@@ -4241,8 +4241,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCMC",
-    "bankCode": "BE",
+    "bankCode": "BCMC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BCMCBEBB",
     "Bank Name": "BANCONTACT PAYCONIQ COMPANY NV/SA",
@@ -4254,8 +4254,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ABER",
-    "bankCode": "BE",
+    "bankCode": "ABER",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "ABERBE22",
     "Bank Name": "BANK DE KREMER, EEN DIVISIE VAN BANK J. VAN BREDA EN CO NV",
@@ -4267,8 +4267,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELE",
-    "bankCode": "BE",
+    "bankCode": "DELE",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "DELEBE22",
     "Bank Name": "BANK DELEN NV",
@@ -4280,8 +4280,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELE",
-    "bankCode": "BE",
+    "bankCode": "DELE",
+    "countryCode": "BE",
     "branchCode": "THE",
     "SWIFT Code": "DELEBE22THE",
     "Bank Name": "BANK DELEN NV",
@@ -4293,8 +4293,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DELE",
-    "bankCode": "BE",
+    "bankCode": "DELE",
+    "countryCode": "BE",
     "branchCode": "NRA",
     "SWIFT Code": "DELEBE22NRA",
     "Bank Name": "BANK DELEN NV",
@@ -4306,8 +4306,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JVBA",
-    "bankCode": "BE",
+    "bankCode": "JVBA",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "JVBABE22",
     "Bank Name": "BANK J. VAN BREDA AND CO NV",
@@ -4319,8 +4319,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "BE",
+    "bankCode": "BOFA",
+    "countryCode": "BE",
     "branchCode": "E3X",
     "SWIFT Code": "BOFABE3X",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, BRUSSELS BRANCH",
@@ -4332,8 +4332,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "BE",
+    "bankCode": "BOFA",
+    "countryCode": "BE",
     "branchCode": "VAM",
     "SWIFT Code": "BOFABE3XVAM",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, BRUSSELS BRANCH",
@@ -4345,8 +4345,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOFA",
-    "bankCode": "BE",
+    "bankCode": "BOFA",
+    "countryCode": "BE",
     "branchCode": "RES",
     "SWIFT Code": "BOFABE3XRES",
     "Bank Name": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, BRUSSELS BRANCH",
@@ -4358,8 +4358,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "BE",
+    "bankCode": "BARB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BARBBEBB",
     "Bank Name": "BANK OF BARODA (BRUSSELS BRANCH)",
@@ -4371,8 +4371,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "BE",
+    "bankCode": "BARB",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "BARBBEBBTGT",
     "Bank Name": "BANK OF BARODA (BRUSSELS BRANCH)",
@@ -4384,8 +4384,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "BE",
+    "bankCode": "BKCH",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BKCHBEBB",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A. BRUSSELS BRANCH",
@@ -4397,8 +4397,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "BE",
+    "bankCode": "BKCH",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "BKCHBEBBTG2",
     "Bank Name": "BANK OF CHINA (EUROPE) S.A. BRUSSELS BRANCH",
@@ -4410,8 +4410,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "BE",
+    "bankCode": "BKID",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "BKIDBE22",
     "Bank Name": "BANK OF INDIA",
@@ -4423,8 +4423,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "BE",
+    "bankCode": "BKID",
+    "countryCode": "BE",
     "branchCode": "BOI",
     "SWIFT Code": "BKIDBE22BOI",
     "Bank Name": "BANK OF INDIA",
@@ -4436,8 +4436,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDM",
-    "bankCode": "BE",
+    "bankCode": "BCDM",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "BCDMBEBBTGT",
     "Bank Name": "BANQUE CHAABI DU MAROC",
@@ -4449,8 +4449,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BCDM",
-    "bankCode": "BE",
+    "bankCode": "BCDM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BCDMBEBB",
     "Bank Name": "BANQUE CHAABI DU MAROC",
@@ -4462,8 +4462,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BLUX",
-    "bankCode": "BE",
+    "bankCode": "BLUX",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BLUXBEBB",
     "Bank Name": "BANQUE DE LUXEMBOURG, SUCCURSALE DE BELGIQUE",
@@ -4475,8 +4475,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DPLS",
-    "bankCode": "BE",
+    "bankCode": "DPLS",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "DPLSBEB2",
     "Bank Name": "BANQUE DEGROOF PETERCAM LUXEMBOURG SA SUCCURSALE DE BRUXELLES",
@@ -4488,8 +4488,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGR",
-    "bankCode": "BE",
+    "bankCode": "DEGR",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "DEGRBEBB",
     "Bank Name": "BANQUE DEGROOF PETERCAM SA/NV (FORMERLY BANQUE DEGROOF)",
@@ -4501,8 +4501,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEGR",
-    "bankCode": "BE",
+    "bankCode": "DEGR",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "DEGRBEBBTG2",
     "Bank Name": "BANQUE DEGROOF PETERCAM SA/NV (FORMERLY BANQUE DEGROOF)",
@@ -4514,8 +4514,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WABC",
-    "bankCode": "BE",
+    "bankCode": "WABC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "WABCBEBB",
     "Bank Name": "WABCO FINANCIAL SERVICES BV",
@@ -4527,8 +4527,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRWI",
-    "bankCode": "BE",
+    "bankCode": "TRWI",
+    "countryCode": "BE",
     "branchCode": "EB3",
     "SWIFT Code": "TRWIBEB3",
     "Bank Name": "WISE EUROPE S.A",
@@ -4540,8 +4540,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TRWI",
-    "bankCode": "BE",
+    "bankCode": "TRWI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "TRWIBEBB",
     "Bank Name": "WISE EUROPE S.A",
@@ -4553,8 +4553,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ATWS",
-    "bankCode": "BE",
+    "bankCode": "ATWS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ATWSBEBB",
     "Bank Name": "WORLDLINE SA",
@@ -4566,8 +4566,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPPG",
-    "bankCode": "BE",
+    "bankCode": "WPPG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "WPPGBEBB",
     "Bank Name": "WPP GROUP SERVICES SNC",
@@ -4579,8 +4579,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "YAEU",
-    "bankCode": "BE",
+    "bankCode": "YAEU",
+    "countryCode": "BE",
     "branchCode": "E33",
     "SWIFT Code": "YAEUBE33",
     "Bank Name": "YAZAKI EUROPE LIMITED - BELGIUM BRANCH",
@@ -4592,8 +4592,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZOET",
-    "bankCode": "BE",
+    "bankCode": "ZOET",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ZOETBEBB",
     "Bank Name": "ZOETIS TREASURY CENTER BV FINANCIAL DEPARTMENT",
@@ -4605,8 +4605,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LPEI",
-    "bankCode": "BE",
+    "bankCode": "LPEI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "LPEIBEBB",
     "Bank Name": "GMPI",
@@ -4618,8 +4618,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "BE",
+    "bankCode": "HABB",
+    "countryCode": "BE",
     "branchCode": "001",
     "SWIFT Code": "HABBBEBB001",
     "Bank Name": "HABIB BANK LTD.",
@@ -4631,8 +4631,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HABB",
-    "bankCode": "BE",
+    "bankCode": "HABB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "HABBBEBB",
     "Bank Name": "HABIB BANK LTD.",
@@ -4644,8 +4644,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HOHR",
-    "bankCode": "BE",
+    "bankCode": "HOHR",
+    "countryCode": "BE",
     "branchCode": "E8K",
     "SWIFT Code": "HOHRBE8K",
     "Bank Name": "HOUSE OF HR",
@@ -4657,8 +4657,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BE",
+    "bankCode": "HSBC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "HSBCBEBB",
     "Bank Name": "HSBC CONTINENTAL EUROPE, BELGIUM",
@@ -4670,8 +4670,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BE",
+    "bankCode": "HSBC",
+    "countryCode": "BE",
     "branchCode": "SDD",
     "SWIFT Code": "HSBCBEBBSDD",
     "Bank Name": "HSBC CONTINENTAL EUROPE, BELGIUM",
@@ -4683,8 +4683,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "BE",
+    "bankCode": "HSBC",
+    "countryCode": "BE",
     "branchCode": "TRG",
     "SWIFT Code": "HSBCBEBBTRG",
     "Bank Name": "HSBC CONTINENTAL EUROPE, BELGIUM",
@@ -4696,8 +4696,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FXBB",
-    "bankCode": "BE",
+    "bankCode": "FXBB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "FXBBBEBB",
     "Bank Name": "IBANFIRST",
@@ -4709,8 +4709,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IGOR",
-    "bankCode": "BE",
+    "bankCode": "IGOR",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "IGORBEBB",
     "Bank Name": "IMAGOR N.V.",
@@ -4722,8 +4722,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "BE",
+    "bankCode": "ICBK",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ICBKBEBB",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., BRUSSELS BRANCH",
@@ -4735,8 +4735,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "BE",
+    "bankCode": "ICBK",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "ICBKBEBBTG2",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., BRUSSELS BRANCH",
@@ -4748,8 +4748,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "EBC",
     "SWIFT Code": "BBRUBEBC",
     "Bank Name": "ING BELGIUM NV/SA",
@@ -4761,8 +4761,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "200",
     "SWIFT Code": "BBRUBEBB200",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA) ANTWERPEN",
@@ -4774,8 +4774,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "930",
     "SWIFT Code": "BBRUBEBB930",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), AALST",
@@ -4787,8 +4787,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "800",
     "SWIFT Code": "BBRUBEBB800",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUGGE",
@@ -4800,8 +4800,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BBRUBEBB",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS",
@@ -4813,8 +4813,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "100",
     "SWIFT Code": "BBRUBEBB100",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS",
@@ -4826,8 +4826,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "CLS",
     "SWIFT Code": "BBRUBEBBCLS",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS",
@@ -4839,8 +4839,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "010",
     "SWIFT Code": "BBRUBEBB010",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS",
@@ -4852,8 +4852,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "VYS",
     "SWIFT Code": "BBRUBEBBVYS",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), BRUSSELS",
@@ -4865,8 +4865,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "600",
     "SWIFT Code": "BBRUBEBB600",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), CHARLEROI",
@@ -4878,8 +4878,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "900",
     "SWIFT Code": "BBRUBEBB900",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), GENT",
@@ -4891,8 +4891,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "350",
     "SWIFT Code": "BBRUBEBB350",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), HASSELT",
@@ -4904,8 +4904,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "850",
     "SWIFT Code": "BBRUBEBB850",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), KORTRIJK",
@@ -4917,8 +4917,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "300",
     "SWIFT Code": "BBRUBEBB300",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), LEUVEN",
@@ -4930,8 +4930,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "400",
     "SWIFT Code": "BBRUBEBB400",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), LIEGE",
@@ -4943,8 +4943,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BBRU",
-    "bankCode": "BE",
+    "bankCode": "BBRU",
+    "countryCode": "BE",
     "branchCode": "700",
     "SWIFT Code": "BBRUBEBB700",
     "Bank Name": "ING BELGIUM NV/SA (FORMERLY BANK BRUSSELS LAMBERT SA), MONS",
@@ -4956,8 +4956,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TUNZ",
-    "bankCode": "BE",
+    "bankCode": "TUNZ",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "TUNZBEBB",
     "Bank Name": "INGENICO FINANCIAL SOLUTIONS S.A.",
@@ -4969,8 +4969,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBPX",
-    "bankCode": "BE",
+    "bankCode": "CBPX",
+    "countryCode": "BE",
     "branchCode": "E99",
     "SWIFT Code": "CBPXBE99",
     "Bank Name": "INTESA SANPAOLO WEALTH MANAGEMENT, BELGIUM BRANCH",
@@ -4982,8 +4982,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CBPX",
-    "bankCode": "BE",
+    "bankCode": "CBPX",
+    "countryCode": "BE",
     "branchCode": "RES",
     "SWIFT Code": "CBPXBE99RES",
     "Bank Name": "INTESA SANPAOLO WEALTH MANAGEMENT, BELGIUM BRANCH",
@@ -4995,8 +4995,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETAM",
-    "bankCode": "BE",
+    "bankCode": "ETAM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ETAMBEBB",
     "Bank Name": "INVESTINT",
@@ -5008,8 +5008,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAZ",
-    "bankCode": "BE",
+    "bankCode": "ISAZ",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ISAZBEBB",
     "Bank Name": "ISABEL NV",
@@ -5021,8 +5021,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOJO",
-    "bankCode": "BE",
+    "bankCode": "JOJO",
+    "countryCode": "BE",
     "branchCode": "EBE",
     "SWIFT Code": "JOJOBEBE",
     "Bank Name": "J.C. GENERAL SERVICES BV",
@@ -5034,8 +5034,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOJO",
-    "bankCode": "BE",
+    "bankCode": "JOJO",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "JOJOBE22",
     "Bank Name": "J.C. GENERAL SERVICES BV",
@@ -5047,8 +5047,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BE",
+    "bankCode": "CHAS",
+    "countryCode": "BE",
     "branchCode": "EBX",
     "SWIFT Code": "CHASBEBX",
     "Bank Name": "J.P. MORGAN SE BRUSSELS BRANCH",
@@ -5060,8 +5060,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMG",
-    "bankCode": "BE",
+    "bankCode": "JPMG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "JPMGBEBB",
     "Bank Name": "J.P. MORGAN SE BRUSSELS BRANCH",
@@ -5073,8 +5073,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BE",
+    "bankCode": "CHAS",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "CHASBEBXTG2",
     "Bank Name": "J.P. MORGAN SE BRUSSELS BRANCH",
@@ -5086,8 +5086,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMG",
-    "bankCode": "BE",
+    "bankCode": "JPMG",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "JPMGBEBBTG2",
     "Bank Name": "J.P. MORGAN SE BRUSSELS BRANCH",
@@ -5099,8 +5099,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JPMG",
-    "bankCode": "BE",
+    "bankCode": "JPMG",
+    "countryCode": "BE",
     "branchCode": "MOM",
     "SWIFT Code": "JPMGBEBBMOM",
     "Bank Name": "J.P. MORGAN SE BRUSSELS BRANCH",
@@ -5112,8 +5112,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "BE",
+    "bankCode": "CHAS",
+    "countryCode": "BE",
     "branchCode": "ENQ",
     "SWIFT Code": "CHASBEBXENQ",
     "Bank Name": "J.P. MORGAN SE BRUSSELS BRANCH",
@@ -5125,8 +5125,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JNTL",
-    "bankCode": "BE",
+    "bankCode": "JNTL",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "JNTLBE22",
     "Bank Name": "JNTL CONSUMER HEALTH GENERAL SERVICES B.V.",
@@ -5138,8 +5138,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "JOCI",
-    "bankCode": "BE",
+    "bankCode": "JOCI",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "JOCIBEBB",
     "Bank Name": "JOHNSON CONTROLS INTERNATIONAL NV",
@@ -5151,8 +5151,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E2G",
     "SWIFT Code": "MGTCBE2G",
     "Bank Name": "JPMORGAN CHASE BANK - BRUSSELS BR",
@@ -5164,8 +5164,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E2H",
     "SWIFT Code": "MGTCBE2H",
     "Bank Name": "JPMORGAN CHASE BANK - BRUSSELS BR",
@@ -5177,8 +5177,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBCA",
-    "bankCode": "BE",
+    "bankCode": "KBCA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "KBCABEBB",
     "Bank Name": "KBC ASSET MANAGEMENT",
@@ -5190,8 +5190,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "KREDBEB2",
     "Bank Name": "KBC BANK N.V.",
@@ -5203,8 +5203,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSE",
-    "bankCode": "BE",
+    "bankCode": "KBSE",
+    "countryCode": "BE",
     "branchCode": "CBL",
     "SWIFT Code": "KBSEBE22CBL",
     "Bank Name": "KBC BANK N.V. - SECURITIES SERVICES",
@@ -5216,8 +5216,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSE",
-    "bankCode": "BE",
+    "bankCode": "KBSE",
+    "countryCode": "BE",
     "branchCode": "882",
     "SWIFT Code": "KBSEBE22882",
     "Bank Name": "KBC BANK N.V. - SECURITIES SERVICES",
@@ -5229,8 +5229,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KBSE",
-    "bankCode": "BE",
+    "bankCode": "KBSE",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "KBSEBE22",
     "Bank Name": "KBC BANK N.V. - SECURITIES SERVICES",
@@ -5242,8 +5242,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "KRED",
-    "bankCode": "BE",
+    "bankCode": "KRED",
+    "countryCode": "BE",
     "branchCode": "250",
     "SWIFT Code": "KREDBEBB250",
     "Bank Name": "KBC BANK NV",
@@ -5255,8 +5255,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "07B",
     "SWIFT Code": "GEBABEBB07B",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5268,8 +5268,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "04A",
     "SWIFT Code": "GEBABEBB04A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5281,8 +5281,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "06A",
     "SWIFT Code": "GEBABEBB06A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5294,8 +5294,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "08A",
     "SWIFT Code": "GEBABEBB08A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5307,8 +5307,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "07A",
     "SWIFT Code": "GEBABEBB07A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5320,8 +5320,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "08B",
     "SWIFT Code": "GEBABEBB08B",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5333,8 +5333,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "09A",
     "SWIFT Code": "GEBABEBB09A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5346,8 +5346,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "10A",
     "SWIFT Code": "GEBABEBB10A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5359,8 +5359,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "18B",
     "SWIFT Code": "GEBABEBB18B",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5372,8 +5372,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "06B",
     "SWIFT Code": "GEBABEBB06B",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5385,8 +5385,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "05B",
     "SWIFT Code": "GEBABEBB05B",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5398,8 +5398,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "01B",
     "SWIFT Code": "GEBABEBB01B",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5411,8 +5411,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "08C",
     "SWIFT Code": "GEBABEBB08C",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5424,8 +5424,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "11A",
     "SWIFT Code": "GEBABEBB11A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5437,8 +5437,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "08D",
     "SWIFT Code": "GEBABEBB08D",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5450,8 +5450,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "12A",
     "SWIFT Code": "GEBABEBB12A",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5463,8 +5463,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GEBA",
-    "bankCode": "BE",
+    "bankCode": "GEBA",
+    "countryCode": "BE",
     "branchCode": "07C",
     "SWIFT Code": "GEBABEBB07C",
     "Bank Name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
@@ -5476,8 +5476,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "BE",
+    "bankCode": "PARB",
+    "countryCode": "BE",
     "branchCode": "ISI",
     "SWIFT Code": "PARBBEBZISI",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, BELGIUM",
@@ -5489,8 +5489,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "BE",
+    "bankCode": "PARB",
+    "countryCode": "BE",
     "branchCode": "EBZ",
     "SWIFT Code": "PARBBEBZ",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, BELGIUM",
@@ -5502,8 +5502,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "BE",
+    "bankCode": "PARB",
+    "countryCode": "BE",
     "branchCode": "EBH",
     "SWIFT Code": "PARBBEBH",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, BELGIUM",
@@ -5515,8 +5515,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PARB",
-    "bankCode": "BE",
+    "bankCode": "PARB",
+    "countryCode": "BE",
     "branchCode": "MDC",
     "SWIFT Code": "PARBBEBZMDC",
     "Bank Name": "BNP PARIBAS SECURITIES SERVICES, BELGIUM",
@@ -5528,8 +5528,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOAL",
-    "bankCode": "BE",
+    "bankCode": "BOAL",
+    "countryCode": "BE",
     "branchCode": "E22",
     "SWIFT Code": "BOALBE22",
     "Bank Name": "BOREALIS FINANCIAL SERVICES NV",
@@ -5541,8 +5541,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCHQ",
-    "bankCode": "BE",
+    "bankCode": "PCHQ",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "PCHQBEBB",
     "Bank Name": "BPOST",
@@ -5554,8 +5554,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BPOT",
-    "bankCode": "BE",
+    "bankCode": "BPOT",
+    "countryCode": "BE",
     "branchCode": "EBE",
     "SWIFT Code": "BPOTBEBE",
     "Bank Name": "BPOST BANK-BPOST BANQUE",
@@ -5567,8 +5567,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUKK",
-    "bankCode": "BE",
+    "bankCode": "BUKK",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "BUKKBEB2",
     "Bank Name": "BUCKAROO B.V.",
@@ -5580,8 +5580,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BUNQ",
-    "bankCode": "BE",
+    "bankCode": "BUNQ",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "BUNQBEB2",
     "Bank Name": "BUNQ, BELGIAN BRANCH",
@@ -5593,8 +5593,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYBB",
-    "bankCode": "BE",
+    "bankCode": "BYBB",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "BYBBBEBBTG2",
     "Bank Name": "BYBLOS BANK EUROPE S.A.",
@@ -5606,8 +5606,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BYBB",
-    "bankCode": "BE",
+    "bankCode": "BYBB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "BYBBBEBB",
     "Bank Name": "BYBLOS BANK EUROPE S.A.",
@@ -5619,8 +5619,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CVMC",
-    "bankCode": "BE",
+    "bankCode": "CVMC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CVMCBEBB",
     "Bank Name": "CA INDOSUEZ WEALTH (EUROPE), BELGIUM BRANCH",
@@ -5632,8 +5632,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNET",
-    "bankCode": "BE",
+    "bankCode": "FNET",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "FNETBEBB",
     "Bank Name": "CACEIS BANK, BELGIUM BRANCH",
@@ -5645,8 +5645,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "BE",
+    "bankCode": "ISAE",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ISAEBEBB",
     "Bank Name": "CACEIS BANK, BELGIUM BRANCH",
@@ -5658,8 +5658,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "BE",
+    "bankCode": "ISAE",
+    "countryCode": "BE",
     "branchCode": "FOF",
     "SWIFT Code": "ISAEBEBBFOF",
     "Bank Name": "CACEIS BANK, BELGIUM BRANCH",
@@ -5671,8 +5671,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ISAE",
-    "bankCode": "BE",
+    "bankCode": "ISAE",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "ISAEBEBBTGT",
     "Bank Name": "CACEIS BANK, BELGIUM BRANCH",
@@ -5684,8 +5684,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXFS",
-    "bankCode": "BE",
+    "bankCode": "DXFS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "DXFSBEBB",
     "Bank Name": "CACEIS INVESTOR SERVICES BELGIUM",
@@ -5697,8 +5697,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXFS",
-    "bankCode": "BE",
+    "bankCode": "DXFS",
+    "countryCode": "BE",
     "branchCode": "FAD",
     "SWIFT Code": "DXFSBEBBFAD",
     "Bank Name": "CACEIS INVESTOR SERVICES BELGIUM",
@@ -5710,8 +5710,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXFS",
-    "bankCode": "BE",
+    "bankCode": "DXFS",
+    "countryCode": "BE",
     "branchCode": "SHS",
     "SWIFT Code": "DXFSBEBBSHS",
     "Bank Name": "CACEIS INVESTOR SERVICES BELGIUM",
@@ -5723,8 +5723,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEPA",
-    "bankCode": "BE",
+    "bankCode": "CEPA",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "CEPABEB2",
     "Bank Name": "CAISSE D'EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE",
@@ -5736,8 +5736,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "FDB",
     "SWIFT Code": "ESESBEBBFDB",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5749,8 +5749,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "PEN",
     "SWIFT Code": "ESESBEBBPEN",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5762,8 +5762,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "INT",
     "SWIFT Code": "ESESBEBBINT",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5775,8 +5775,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "LE1",
     "SWIFT Code": "ESESBEBBLE1",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5788,8 +5788,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "LE2",
     "SWIFT Code": "ESESBEBBLE2",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5801,8 +5801,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ESESBEBB",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5814,8 +5814,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "CPE",
     "SWIFT Code": "ESESBEBBCPE",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5827,8 +5827,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "MIG",
     "SWIFT Code": "ESESBEBBMIG",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5840,8 +5840,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "CSD",
     "SWIFT Code": "ESESBEBBCSD",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5853,8 +5853,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "IAC",
     "SWIFT Code": "ESESBEBBIAC",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5866,8 +5866,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "IAD",
     "SWIFT Code": "ESESBEBBIAD",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5879,8 +5879,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "SCC",
     "SWIFT Code": "ESESBEBBSCC",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5892,8 +5892,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "EII",
     "SWIFT Code": "ESESBEBBEII",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5905,8 +5905,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESES",
-    "bankCode": "BE",
+    "bankCode": "ESES",
+    "countryCode": "BE",
     "branchCode": "T2X",
     "SWIFT Code": "ESESBEBBT2X",
     "Bank Name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
@@ -5918,8 +5918,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DXAM",
-    "bankCode": "BE",
+    "bankCode": "DXAM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "DXAMBEBB",
     "Bank Name": "CANDRIAM BELGIAN BRANCH",
@@ -5931,8 +5931,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CAPW",
-    "bankCode": "BE",
+    "bankCode": "CAPW",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CAPWBEBB",
     "Bank Name": "CAPITAL AT WORK SA",
@@ -5944,8 +5944,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CARG",
-    "bankCode": "BE",
+    "bankCode": "CARG",
+    "countryCode": "BE",
     "branchCode": "EBL",
     "SWIFT Code": "CARGBEBL",
     "Bank Name": "CARFIN SA",
@@ -5957,8 +5957,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CART",
-    "bankCode": "BE",
+    "bankCode": "CART",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CARTBEBB",
     "Bank Name": "CARPENTER ENGINEERED FOAMS BELGIUM",
@@ -5970,8 +5970,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CREG",
-    "bankCode": "BE",
+    "bankCode": "CREG",
+    "countryCode": "BE",
     "branchCode": "TGT",
     "SWIFT Code": "CREGBEBBTGT",
     "Bank Name": "CBC BANQUE S.A.",
@@ -5983,8 +5983,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CREG",
-    "bankCode": "BE",
+    "bankCode": "CREG",
+    "countryCode": "BE",
     "branchCode": "NBB",
     "SWIFT Code": "CREGBEBBNBB",
     "Bank Name": "CBC BANQUE S.A.",
@@ -5996,8 +5996,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CREG",
-    "bankCode": "BE",
+    "bankCode": "CREG",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CREGBEBB",
     "Bank Name": "CBC BANQUE S.A.",
@@ -6009,8 +6009,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEIN",
-    "bankCode": "BE",
+    "bankCode": "CEIN",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CEINBEBB",
     "Bank Name": "CELIO INTERNATIONAL",
@@ -6022,8 +6022,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CEKV",
-    "bankCode": "BE",
+    "bankCode": "CEKV",
+    "countryCode": "BE",
     "branchCode": "E88",
     "SWIFT Code": "CEKVBE88",
     "Bank Name": "CENTRALE KREDIETVERLENING N.V.",
@@ -6035,8 +6035,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPCH",
-    "bankCode": "BE",
+    "bankCode": "CPCH",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CPCHBEBB",
     "Bank Name": "CHEVRON PHILLIPS CHEMICALS INTERNATIONAL NV",
@@ -6048,8 +6048,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BE",
+    "bankCode": "CITI",
+    "countryCode": "BE",
     "branchCode": "EBX",
     "SWIFT Code": "CITIBEBX",
     "Bank Name": "CITIBANK EUROPE PLC BELGIUM BRANCH",
@@ -6061,8 +6061,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "BE",
+    "bankCode": "CITI",
+    "countryCode": "BE",
     "branchCode": "SEC",
     "SWIFT Code": "CITIBEBXSEC",
     "Bank Name": "CITIBANK EUROPE PLC BELGIUM BRANCH",
@@ -6074,8 +6074,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CDBX",
-    "bankCode": "BE",
+    "bankCode": "CDBX",
+    "countryCode": "BE",
     "branchCode": "E33",
     "SWIFT Code": "CDBXBE33",
     "Bank Name": "CODABOX SA",
@@ -6087,8 +6087,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CFNM",
-    "bankCode": "BE",
+    "bankCode": "CFNM",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CFNMBEBB",
     "Bank Name": "COFINIMMO",
@@ -6100,8 +6100,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPHB",
-    "bankCode": "BE",
+    "bankCode": "CPHB",
+    "countryCode": "BE",
     "branchCode": "E75",
     "SWIFT Code": "CPHBBE75",
     "Bank Name": "CPH BANQUE",
@@ -6113,8 +6113,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPHB",
-    "bankCode": "BE",
+    "bankCode": "CPHB",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "CPHBBE75TG2",
     "Bank Name": "CPH BANQUE",
@@ -6126,8 +6126,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "BE",
+    "bankCode": "CRLY",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "CRLYBEBB",
     "Bank Name": "CREDIT AGRICOLE CIB BELGIUM",
@@ -6139,8 +6139,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CRLY",
-    "bankCode": "BE",
+    "bankCode": "CRLY",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "CRLYBEBBTG2",
     "Bank Name": "CREDIT AGRICOLE CIB BELGIUM",
@@ -6152,8 +6152,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NICA",
-    "bankCode": "BE",
+    "bankCode": "NICA",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "NICABEBB",
     "Bank Name": "CRELAN SA/NV (FORMERLY CREDIT AGRICOLE SA/LANDBOUWKREDIET NV)",
@@ -6165,8 +6165,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NICA",
-    "bankCode": "BE",
+    "bankCode": "NICA",
+    "countryCode": "BE",
     "branchCode": "AXA",
     "SWIFT Code": "NICABEBBAXA",
     "Bank Name": "CRELAN SA/NV (FORMERLY CREDIT AGRICOLE SA/LANDBOUWKREDIET NV)",
@@ -6178,8 +6178,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IBAP",
-    "bankCode": "BE",
+    "bankCode": "IBAP",
+    "countryCode": "BE",
     "branchCode": "EBL",
     "SWIFT Code": "IBAPBEBL",
     "Bank Name": "CURIUM INTERNATIONAL",
@@ -6191,8 +6191,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PECS",
-    "bankCode": "BE",
+    "bankCode": "PECS",
+    "countryCode": "BE",
     "branchCode": "EBG",
     "SWIFT Code": "PECSBEBG",
     "Bank Name": "DEGROOF PETERCAM ASSET MANAGEMENT",
@@ -6204,8 +6204,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PECS",
-    "bankCode": "BE",
+    "bankCode": "PECS",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "PECSBEBB",
     "Bank Name": "DEGROOF PETERCAM ASSET MANAGEMENT",
@@ -6217,8 +6217,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PECS",
-    "bankCode": "BE",
+    "bankCode": "PECS",
+    "countryCode": "BE",
     "branchCode": "009",
     "SWIFT Code": "PECSBEBB009",
     "Bank Name": "DEGROOF PETERCAM ASSET MANAGEMENT",
@@ -6230,8 +6230,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DCCE",
-    "bankCode": "BE",
+    "bankCode": "DCCE",
+    "countryCode": "BE",
     "branchCode": "E2Z",
     "SWIFT Code": "DCCEBE2Z",
     "Bank Name": "DEME CC",
@@ -6243,8 +6243,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BE",
+    "bankCode": "DEUT",
+    "countryCode": "BE",
     "branchCode": "ANT",
     "SWIFT Code": "DEUTBEBEANT",
     "Bank Name": "DEUTSCHE BANK A.G.",
@@ -6256,8 +6256,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BE",
+    "bankCode": "DEUT",
+    "countryCode": "BE",
     "branchCode": "EBE",
     "SWIFT Code": "DEUTBEBE",
     "Bank Name": "DEUTSCHE BANK A.G.",
@@ -6269,8 +6269,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DEUT",
-    "bankCode": "BE",
+    "bankCode": "DEUT",
+    "countryCode": "BE",
     "branchCode": "UNP",
     "SWIFT Code": "DEUTBEBEUNP",
     "Bank Name": "DEUTSCHE BANK A.G.",
@@ -6282,8 +6282,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DHBN",
-    "bankCode": "BE",
+    "bankCode": "DHBN",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "DHBNBEBB",
     "Bank Name": "DHB BANK N.V. (BELGIUM BRANCH)",
@@ -6295,8 +6295,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DIGE",
-    "bankCode": "BE",
+    "bankCode": "DIGE",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "DIGEBEB2",
     "Bank Name": "DIGITEAL",
@@ -6308,8 +6308,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELOY",
-    "bankCode": "BE",
+    "bankCode": "ELOY",
+    "countryCode": "BE",
     "branchCode": "E44",
     "SWIFT Code": "ELOYBE44",
     "Bank Name": "E.B.A. S.R.L.",
@@ -6321,8 +6321,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPST",
-    "bankCode": "BE",
+    "bankCode": "IPST",
+    "countryCode": "BE",
     "branchCode": "600",
     "SWIFT Code": "IPSTBEBB600",
     "Bank Name": "EBA CLEARING RT1",
@@ -6334,8 +6334,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "IPST",
-    "bankCode": "BE",
+    "bankCode": "IPST",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "IPSTBEBB",
     "Bank Name": "EBA CLEARING RT1",
@@ -6347,8 +6347,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EBPB",
-    "bankCode": "BE",
+    "bankCode": "EBPB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EBPBBEBB",
     "Bank Name": "EBURY PARTNERS BELGIUM N.V.",
@@ -6360,8 +6360,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ECFC",
-    "bankCode": "BE",
+    "bankCode": "ECFC",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ECFCBEBB",
     "Bank Name": "ECONOCOM FINANCE SA",
@@ -6373,8 +6373,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "BE",
+    "bankCode": "PRIB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "PRIBBEBB",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE),SUCCURSALE EN BELGIQUE",
@@ -6386,8 +6386,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PRIB",
-    "bankCode": "BE",
+    "bankCode": "PRIB",
+    "countryCode": "BE",
     "branchCode": "TG2",
     "SWIFT Code": "PRIBBEBBTG2",
     "Bank Name": "EDMOND DE ROTHSCHILD (EUROPE),SUCCURSALE EN BELGIQUE",
@@ -6399,8 +6399,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ELTB",
-    "bankCode": "BE",
+    "bankCode": "ELTB",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ELTBBEBB",
     "Bank Name": "ELIA TRANSMISSION BELGIUM S.A./N.V.",
@@ -6412,8 +6412,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "EPBF",
-    "bankCode": "BE",
+    "bankCode": "EPBF",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "EPBFBEBB",
     "Bank Name": "EPBF",
@@ -6425,8 +6425,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "OONX",
-    "bankCode": "BE",
+    "bankCode": "OONX",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "OONXBEBB",
     "Bank Name": "EQUALS MONEY EUROPE S.A.",
@@ -6438,8 +6438,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SCCP",
-    "bankCode": "BE",
+    "bankCode": "SCCP",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "SCCPBEBB",
     "Bank Name": "ESSITY BELGIUM NV",
@@ -6451,8 +6451,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETEX",
-    "bankCode": "BE",
+    "bankCode": "ETEX",
+    "countryCode": "BE",
     "branchCode": "EBB",
     "SWIFT Code": "ETEXBEBB",
     "Bank Name": "ETEX",
@@ -6464,8 +6464,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ETHV",
-    "bankCode": "BE",
+    "bankCode": "ETHV",
+    "countryCode": "BE",
     "branchCode": "E44",
     "SWIFT Code": "ETHVBE44",
     "Bank Name": "ETHIAS SA",
@@ -6477,8 +6477,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "CLT",
     "SWIFT Code": "MGTCBEBECLT",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6490,8 +6490,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "ECL",
     "SWIFT Code": "MGTCBEBEECL",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6503,8 +6503,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "EBE",
     "SWIFT Code": "MGTCBEBE",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6516,8 +6516,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E14",
     "SWIFT Code": "MGTCBEBEE14",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6529,8 +6529,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T01",
     "SWIFT Code": "MGTCBEBET01",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6542,8 +6542,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T02",
     "SWIFT Code": "MGTCBEBET02",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6555,8 +6555,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L84",
     "SWIFT Code": "MGTCBEBEL84",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6568,8 +6568,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L85",
     "SWIFT Code": "MGTCBEBEL85",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6581,8 +6581,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L86",
     "SWIFT Code": "MGTCBEBEL86",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6594,8 +6594,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L87",
     "SWIFT Code": "MGTCBEBEL87",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6607,8 +6607,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L88",
     "SWIFT Code": "MGTCBEBEL88",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6620,8 +6620,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L89",
     "SWIFT Code": "MGTCBEBEL89",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6633,8 +6633,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E16",
     "SWIFT Code": "MGTCBEBEE16",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6646,8 +6646,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E17",
     "SWIFT Code": "MGTCBEBEE17",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6659,8 +6659,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E18",
     "SWIFT Code": "MGTCBEBEE18",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6672,8 +6672,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T41",
     "SWIFT Code": "MGTCBEBET41",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6685,8 +6685,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T42",
     "SWIFT Code": "MGTCBEBET42",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6698,8 +6698,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T43",
     "SWIFT Code": "MGTCBEBET43",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6711,8 +6711,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T44",
     "SWIFT Code": "MGTCBEBET44",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6724,8 +6724,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T45",
     "SWIFT Code": "MGTCBEBET45",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6737,8 +6737,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T46",
     "SWIFT Code": "MGTCBEBET46",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6750,8 +6750,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T47",
     "SWIFT Code": "MGTCBEBET47",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6763,8 +6763,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T48",
     "SWIFT Code": "MGTCBEBET48",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6776,8 +6776,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T49",
     "SWIFT Code": "MGTCBEBET49",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6789,8 +6789,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T50",
     "SWIFT Code": "MGTCBEBET50",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6802,8 +6802,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "EB2",
     "SWIFT Code": "MGTCBEBEEB2",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6815,8 +6815,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "EBE",
     "SWIFT Code": "MGTCBEBEEBE",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6828,8 +6828,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "EF2",
     "SWIFT Code": "MGTCBEBEEF2",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6841,8 +6841,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "EFR",
     "SWIFT Code": "MGTCBEBEEFR",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6854,8 +6854,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "EN2",
     "SWIFT Code": "MGTCBEBEEN2",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6867,8 +6867,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "ENL",
     "SWIFT Code": "MGTCBEBEENL",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6880,8 +6880,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "E01",
     "SWIFT Code": "MGTCBEBEE01",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6893,8 +6893,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "FNE",
     "SWIFT Code": "MGTCBEBEFNE",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6906,8 +6906,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "FNS",
     "SWIFT Code": "MGTCBEBEFNS",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6919,8 +6919,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "FND",
     "SWIFT Code": "MGTCBEBEFND",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6932,8 +6932,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T21",
     "SWIFT Code": "MGTCBEBET21",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6945,8 +6945,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T22",
     "SWIFT Code": "MGTCBEBET22",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6958,8 +6958,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T23",
     "SWIFT Code": "MGTCBEBET23",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6971,8 +6971,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T24",
     "SWIFT Code": "MGTCBEBET24",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6984,8 +6984,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T25",
     "SWIFT Code": "MGTCBEBET25",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -6997,8 +6997,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T26",
     "SWIFT Code": "MGTCBEBET26",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7010,8 +7010,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T27",
     "SWIFT Code": "MGTCBEBET27",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7023,8 +7023,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T28",
     "SWIFT Code": "MGTCBEBET28",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7036,8 +7036,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T29",
     "SWIFT Code": "MGTCBEBET29",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7049,8 +7049,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "T30",
     "SWIFT Code": "MGTCBEBET30",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7062,8 +7062,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "DK1",
     "SWIFT Code": "MGTCBEBEDK1",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7075,8 +7075,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "DK2",
     "SWIFT Code": "MGTCBEBEDK2",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7088,8 +7088,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "DK3",
     "SWIFT Code": "MGTCBEBEDK3",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7101,8 +7101,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "DK4",
     "SWIFT Code": "MGTCBEBEDK4",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7114,8 +7114,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L25",
     "SWIFT Code": "MGTCBEBEL25",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7127,8 +7127,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L26",
     "SWIFT Code": "MGTCBEBEL26",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7140,8 +7140,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L27",
     "SWIFT Code": "MGTCBEBEL27",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7153,8 +7153,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L28",
     "SWIFT Code": "MGTCBEBEL28",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7166,8 +7166,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L29",
     "SWIFT Code": "MGTCBEBEL29",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7179,8 +7179,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L20",
     "SWIFT Code": "MGTCBEBEL20",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7192,8 +7192,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L21",
     "SWIFT Code": "MGTCBEBEL21",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7205,8 +7205,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L33",
     "SWIFT Code": "MGTCBEBEL33",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7218,8 +7218,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L34",
     "SWIFT Code": "MGTCBEBEL34",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7231,8 +7231,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L35",
     "SWIFT Code": "MGTCBEBEL35",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7244,8 +7244,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L36",
     "SWIFT Code": "MGTCBEBEL36",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7257,8 +7257,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L37",
     "SWIFT Code": "MGTCBEBEL37",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7270,8 +7270,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L38",
     "SWIFT Code": "MGTCBEBEL38",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7283,8 +7283,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L39",
     "SWIFT Code": "MGTCBEBEL39",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7296,8 +7296,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L40",
     "SWIFT Code": "MGTCBEBEL40",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7309,8 +7309,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L41",
     "SWIFT Code": "MGTCBEBEL41",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7322,8 +7322,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L42",
     "SWIFT Code": "MGTCBEBEL42",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7335,8 +7335,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L43",
     "SWIFT Code": "MGTCBEBEL43",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7348,8 +7348,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L44",
     "SWIFT Code": "MGTCBEBEL44",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7361,8 +7361,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L45",
     "SWIFT Code": "MGTCBEBEL45",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7374,8 +7374,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L46",
     "SWIFT Code": "MGTCBEBEL46",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7387,8 +7387,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L47",
     "SWIFT Code": "MGTCBEBEL47",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7400,8 +7400,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L48",
     "SWIFT Code": "MGTCBEBEL48",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7413,8 +7413,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L49",
     "SWIFT Code": "MGTCBEBEL49",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7426,8 +7426,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L50",
     "SWIFT Code": "MGTCBEBEL50",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7439,8 +7439,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L51",
     "SWIFT Code": "MGTCBEBEL51",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7452,8 +7452,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L52",
     "SWIFT Code": "MGTCBEBEL52",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7465,8 +7465,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L53",
     "SWIFT Code": "MGTCBEBEL53",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7478,8 +7478,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L54",
     "SWIFT Code": "MGTCBEBEL54",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7491,8 +7491,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L55",
     "SWIFT Code": "MGTCBEBEL55",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7504,8 +7504,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L56",
     "SWIFT Code": "MGTCBEBEL56",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7517,8 +7517,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L57",
     "SWIFT Code": "MGTCBEBEL57",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7530,8 +7530,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L58",
     "SWIFT Code": "MGTCBEBEL58",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7543,8 +7543,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L59",
     "SWIFT Code": "MGTCBEBEL59",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7556,8 +7556,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L61",
     "SWIFT Code": "MGTCBEBEL61",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7569,8 +7569,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L62",
     "SWIFT Code": "MGTCBEBEL62",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7582,8 +7582,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L63",
     "SWIFT Code": "MGTCBEBEL63",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7595,8 +7595,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L64",
     "SWIFT Code": "MGTCBEBEL64",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7608,8 +7608,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L65",
     "SWIFT Code": "MGTCBEBEL65",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7621,8 +7621,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L66",
     "SWIFT Code": "MGTCBEBEL66",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7634,8 +7634,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L67",
     "SWIFT Code": "MGTCBEBEL67",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7647,8 +7647,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L68",
     "SWIFT Code": "MGTCBEBEL68",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7660,8 +7660,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L69",
     "SWIFT Code": "MGTCBEBEL69",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7673,8 +7673,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L70",
     "SWIFT Code": "MGTCBEBEL70",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7686,8 +7686,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L71",
     "SWIFT Code": "MGTCBEBEL71",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7699,8 +7699,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L72",
     "SWIFT Code": "MGTCBEBEL72",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7712,8 +7712,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L73",
     "SWIFT Code": "MGTCBEBEL73",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7725,8 +7725,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L74",
     "SWIFT Code": "MGTCBEBEL74",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7738,8 +7738,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L75",
     "SWIFT Code": "MGTCBEBEL75",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7751,8 +7751,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L76",
     "SWIFT Code": "MGTCBEBEL76",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7764,8 +7764,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L77",
     "SWIFT Code": "MGTCBEBEL77",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7777,8 +7777,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L78",
     "SWIFT Code": "MGTCBEBEL78",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7790,8 +7790,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L79",
     "SWIFT Code": "MGTCBEBEL79",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7803,8 +7803,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L80",
     "SWIFT Code": "MGTCBEBEL80",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7816,8 +7816,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L81",
     "SWIFT Code": "MGTCBEBEL81",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7829,8 +7829,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L82",
     "SWIFT Code": "MGTCBEBEL82",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",
@@ -7842,8 +7842,8 @@ const belgium = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MGTC",
-    "bankCode": "BE",
+    "bankCode": "MGTC",
+    "countryCode": "BE",
     "branchCode": "L83",
     "SWIFT Code": "MGTCBEBEL83",
     "Bank Name": "EUROCLEAR BANK S.A / N.V",

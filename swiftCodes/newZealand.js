@@ -1,7 +1,7 @@
 const newZealand = [
   {
-    "countryCode": "ACCN",
-    "bankCode": "NZ",
+    "bankCode": "ACCN",
+    "countryCode": "NZ",
     "branchCode": "Z2B",
     "SWIFT Code": "ACCNNZ2B",
     "Bank Name": "ACCIDENT COMPENSATION CORPORATION",
@@ -13,8 +13,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "NZ",
+    "bankCode": "ANZB",
+    "countryCode": "NZ",
     "branchCode": "102",
     "SWIFT Code": "ANZBNZ22102",
     "Bank Name": "ANZ BANK NEW ZEALAND LIMITED",
@@ -26,8 +26,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "NZ",
+    "bankCode": "ANZB",
+    "countryCode": "NZ",
     "branchCode": "797",
     "SWIFT Code": "ANZBNZ22797",
     "Bank Name": "ANZ BANK NEW ZEALAND LIMITED",
@@ -39,8 +39,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "NZ",
+    "bankCode": "ANZB",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "ANZBNZ22",
     "Bank Name": "ANZ BANK NEW ZEALAND LIMITED",
@@ -52,8 +52,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ANZB",
-    "bankCode": "NZ",
+    "bankCode": "ANZB",
+    "countryCode": "NZ",
     "branchCode": "058",
     "SWIFT Code": "ANZBNZ22058",
     "Bank Name": "ANZ BANK NEW ZEALAND LIMITED",
@@ -65,8 +65,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMCC",
-    "bankCode": "NZ",
+    "bankCode": "MMCC",
+    "countryCode": "NZ",
     "branchCode": "Z23",
     "SWIFT Code": "MMCCNZ23",
     "Bank Name": "APEX INVESTMENT ADMINISTRATION (NZ)",
@@ -78,8 +78,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBB",
-    "bankCode": "NZ",
+    "bankCode": "ASBB",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "ASBBNZ2A",
     "Bank Name": "ASB BANK LIMITED",
@@ -91,8 +91,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBB",
-    "bankCode": "NZ",
+    "bankCode": "ASBB",
+    "countryCode": "NZ",
     "branchCode": "CLS",
     "SWIFT Code": "ASBBNZ2ACLS",
     "Bank Name": "ASB BANK LIMITED",
@@ -104,8 +104,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBB",
-    "bankCode": "NZ",
+    "bankCode": "ASBB",
+    "countryCode": "NZ",
     "branchCode": "FXD",
     "SWIFT Code": "ASBBNZ2AFXD",
     "Bank Name": "ASB BANK LIMITED",
@@ -117,8 +117,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBB",
-    "bankCode": "NZ",
+    "bankCode": "ASBB",
+    "countryCode": "NZ",
     "branchCode": "ITS",
     "SWIFT Code": "ASBBNZ2AITS",
     "Bank Name": "ASB BANK LIMITED",
@@ -130,8 +130,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBB",
-    "bankCode": "NZ",
+    "bankCode": "ASBB",
+    "countryCode": "NZ",
     "branchCode": "MMD",
     "SWIFT Code": "ASBBNZ2AMMD",
     "Bank Name": "ASB BANK LIMITED",
@@ -143,8 +143,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ASBB",
-    "bankCode": "NZ",
+    "bankCode": "ASBB",
+    "countryCode": "NZ",
     "branchCode": "SEC",
     "SWIFT Code": "ASBBNZ2ASEC",
     "Bank Name": "ASB BANK LIMITED",
@@ -156,8 +156,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BARB",
-    "bankCode": "NZ",
+    "bankCode": "BARB",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "BARBNZ2A",
     "Bank Name": "BANK OF BARODA (NEW ZELAND) LTD",
@@ -169,8 +169,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "NZ",
+    "bankCode": "BKCH",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "BKCHNZ22",
     "Bank Name": "BANK OF CHINA (NEW ZEALAND) LIMITED",
@@ -182,8 +182,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKCH",
-    "bankCode": "NZ",
+    "bankCode": "BKCH",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "BKCHNZ2A",
     "Bank Name": "BANK OF CHINA LIMITED, AUCKLAND BRANCH",
@@ -195,8 +195,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKID",
-    "bankCode": "NZ",
+    "bankCode": "BKID",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "BKIDNZ2A",
     "Bank Name": "BANK OF INDIA (NEW ZEALAND) LIMITED",
@@ -208,8 +208,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNZ",
-    "bankCode": "NZ",
+    "bankCode": "BKNZ",
+    "countryCode": "NZ",
     "branchCode": "100",
     "SWIFT Code": "BKNZNZ22100",
     "Bank Name": "BANK OF NEW ZEALAND",
@@ -221,8 +221,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNZ",
-    "bankCode": "NZ",
+    "bankCode": "BKNZ",
+    "countryCode": "NZ",
     "branchCode": "800",
     "SWIFT Code": "BKNZNZ22800",
     "Bank Name": "BANK OF NEW ZEALAND",
@@ -234,8 +234,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNZ",
-    "bankCode": "NZ",
+    "bankCode": "BKNZ",
+    "countryCode": "NZ",
     "branchCode": "900",
     "SWIFT Code": "BKNZNZ22900",
     "Bank Name": "BANK OF NEW ZEALAND",
@@ -247,8 +247,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNZ",
-    "bankCode": "NZ",
+    "bankCode": "BKNZ",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "BKNZNZ22",
     "Bank Name": "BANK OF NEW ZEALAND",
@@ -260,8 +260,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNZ",
-    "bankCode": "NZ",
+    "bankCode": "BKNZ",
+    "countryCode": "NZ",
     "branchCode": "985",
     "SWIFT Code": "BKNZNZ22985",
     "Bank Name": "BANK OF NEW ZEALAND",
@@ -273,8 +273,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BKNZ",
-    "bankCode": "NZ",
+    "bankCode": "BKNZ",
+    "countryCode": "NZ",
     "branchCode": "500",
     "SWIFT Code": "BKNZNZ22500",
     "Bank Name": "BANK OF NEW ZEALAND",
@@ -286,8 +286,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BTOP",
-    "bankCode": "NZ",
+    "bankCode": "BTOP",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "BTOPNZ2A",
     "Bank Name": "BANZPAY TECHNOLOGY OPERATIONS LIMITED",
@@ -299,8 +299,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "NZ",
+    "bankCode": "PCBC",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "PCBCNZ22",
     "Bank Name": "CHINA CONSTRUCTION BANK (NEW ZEALAND) LIMITED",
@@ -312,8 +312,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PCBC",
-    "bankCode": "NZ",
+    "bankCode": "PCBC",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "PCBCNZ2A",
     "Bank Name": "CHINA CONSTRUCTION BANK CORPORATION NEW ZEALAND BRANCH",
@@ -325,8 +325,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NZ",
+    "bankCode": "CITI",
+    "countryCode": "NZ",
     "branchCode": "Z2X",
     "SWIFT Code": "CITINZ2X",
     "Bank Name": "CITIBANK NA NEW ZEALAND BRANCH",
@@ -338,8 +338,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CITI",
-    "bankCode": "NZ",
+    "bankCode": "CITI",
+    "countryCode": "NZ",
     "branchCode": "COP",
     "SWIFT Code": "CITINZ2XCOP",
     "Bank Name": "CITIBANK NA NEW ZEALAND BRANCH",
@@ -351,8 +351,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CPNR",
-    "bankCode": "NZ",
+    "bankCode": "CPNR",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "CPNRNZ22",
     "Bank Name": "COMPUTERSHARE INVESTOR SERVICES LTD",
@@ -364,8 +364,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CGIP",
-    "bankCode": "NZ",
+    "bankCode": "CGIP",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "CGIPNZ22",
     "Bank Name": "CRAIGS INVESTMENT PARTNERS LTD",
@@ -377,8 +377,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FPNZ",
-    "bankCode": "NZ",
+    "bankCode": "FPNZ",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "FPNZNZ2A",
     "Bank Name": "FISHER AND PAYKEL APPLIANCES LIMITED",
@@ -390,8 +390,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FRFM",
-    "bankCode": "NZ",
+    "bankCode": "FRFM",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "FRFMNZ2A",
     "Bank Name": "FISHER FUNDS MANAGEMENT LIMITED",
@@ -403,8 +403,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FNZW",
-    "bankCode": "NZ",
+    "bankCode": "FNZW",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "FNZWNZ22",
     "Bank Name": "FNZ CLEARING LIMITED",
@@ -416,8 +416,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FONT",
-    "bankCode": "NZ",
+    "bankCode": "FONT",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "FONTNZ2A",
     "Bank Name": "FONTERRA CO-OPERATIVE GROUP LIMITED",
@@ -429,8 +429,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FORB",
-    "bankCode": "NZ",
+    "bankCode": "FORB",
+    "countryCode": "NZ",
     "branchCode": "Z23",
     "SWIFT Code": "FORBNZ23",
     "Bank Name": "FORSYTH BARR LIMITED",
@@ -442,8 +442,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "GNZS",
-    "bankCode": "NZ",
+    "bankCode": "GNZS",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "GNZSNZ2A",
     "Bank Name": "GUARDIANS OF NEW ZEALAND SUPERANNUATION",
@@ -455,8 +455,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HAAM",
-    "bankCode": "NZ",
+    "bankCode": "HAAM",
+    "countryCode": "NZ",
     "branchCode": "Z2B",
     "SWIFT Code": "HAAMNZ2B",
     "Bank Name": "HARBOUR ASSET MANAGEMENT LIMITED",
@@ -468,8 +468,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HEAT",
-    "bankCode": "NZ",
+    "bankCode": "HEAT",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "HEATNZ22",
     "Bank Name": "HEARTLAND BANK LIMITED",
@@ -481,8 +481,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HIFX",
-    "bankCode": "NZ",
+    "bankCode": "HIFX",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "HIFXNZ2A",
     "Bank Name": "HIFX LTD",
@@ -494,8 +494,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NZ",
+    "bankCode": "HSBC",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "HSBCNZ2A",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -507,8 +507,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NZ",
+    "bankCode": "HSBC",
+    "countryCode": "NZ",
     "branchCode": "CLS",
     "SWIFT Code": "HSBCNZ2ACLS",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -520,8 +520,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NZ",
+    "bankCode": "HSBC",
+    "countryCode": "NZ",
     "branchCode": "GPI",
     "SWIFT Code": "HSBCNZ2AGPI",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -533,8 +533,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NZ",
+    "bankCode": "HSBC",
+    "countryCode": "NZ",
     "branchCode": "CHC",
     "SWIFT Code": "HSBCNZ2ACHC",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -546,8 +546,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "HSBC",
-    "bankCode": "NZ",
+    "bankCode": "HSBC",
+    "countryCode": "NZ",
     "branchCode": "WLT",
     "SWIFT Code": "HSBCNZ2AWLT",
     "Bank Name": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
@@ -559,8 +559,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TECY",
-    "bankCode": "NZ",
+    "bankCode": "TECY",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "TECYNZ22",
     "Bank Name": "IE TECHNOLOGY LIMITED",
@@ -572,8 +572,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "NZ",
+    "bankCode": "ICBK",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "ICBKNZ2A",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (NEW ZEALAND) LIMITED",
@@ -585,8 +585,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ICBK",
-    "bankCode": "NZ",
+    "bankCode": "ICBK",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "ICBKNZ22",
     "Bank Name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
@@ -598,8 +598,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "FCAS",
-    "bankCode": "NZ",
+    "bankCode": "FCAS",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "FCASNZ22",
     "Bank Name": "JARDEN SECURITIES LIMITED",
@@ -611,8 +611,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "NZ",
+    "bankCode": "CHAS",
+    "countryCode": "NZ",
     "branchCode": "CCS",
     "SWIFT Code": "CHASNZ2ACCS",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., NEW ZEALAND BRANCH",
@@ -624,8 +624,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "NZ",
+    "bankCode": "CHAS",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "CHASNZ2A",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., NEW ZEALAND BRANCH",
@@ -637,8 +637,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "NZ",
+    "bankCode": "CHAS",
+    "countryCode": "NZ",
     "branchCode": "SHR",
     "SWIFT Code": "CHASNZ2ASHR",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., NEW ZEALAND BRANCH",
@@ -650,8 +650,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TSBA",
-    "bankCode": "NZ",
+    "bankCode": "TSBA",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "TSBANZ22",
     "Bank Name": "TSB BANK LIMITED",
@@ -663,8 +663,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "WPAC",
-    "bankCode": "NZ",
+    "bankCode": "WPAC",
+    "countryCode": "NZ",
     "branchCode": "Z2W",
     "SWIFT Code": "WPACNZ2W",
     "Bank Name": "WESTPAC NEW ZEALAND LIMITED, A WHOLLY OWNED SUBSIDIARY OF WESTPAC BANKING CORPORATION",
@@ -676,8 +676,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ZEGR",
-    "bankCode": "NZ",
+    "bankCode": "ZEGR",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "ZEGRNZ22",
     "Bank Name": "ZESPRI GROUP LIMITED",
@@ -689,8 +689,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CHAS",
-    "bankCode": "NZ",
+    "bankCode": "CHAS",
+    "countryCode": "NZ",
     "branchCode": "VLT",
     "SWIFT Code": "CHASNZ2AVLT",
     "Bank Name": "JPMORGAN CHASE BANK, N.A., NEW ZEALAND BRANCH",
@@ -703,8 +703,8 @@ const newZealand = [
   },
   {},
   {
-    "countryCode": "NZRC",
-    "bankCode": "NZ",
+    "bankCode": "NZRC",
+    "countryCode": "NZ",
     "branchCode": "Z2W",
     "SWIFT Code": "NZRCNZ2W",
     "Bank Name": "KIWIRAIL HOLDINGS LIMITED",
@@ -716,8 +716,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "CZNB",
-    "bankCode": "NZ",
+    "bankCode": "CZNB",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "CZNBNZ2A",
     "Bank Name": "KOOKMIN BANK, AUCKLAND BRANCH",
@@ -729,8 +729,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "LIMV",
-    "bankCode": "NZ",
+    "bankCode": "LIMV",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "LIMVNZ22",
     "Bank Name": "LINK MARKET SERVICES LIMITED",
@@ -743,8 +743,8 @@ const newZealand = [
   },
   {},
   {
-    "countryCode": "DCFS",
-    "bankCode": "NZ",
+    "bankCode": "DCFS",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "DCFSNZ2A",
     "Bank Name": "MERCEDES-BENZ FINANCIAL SERVICES NEW ZEALAND LTD.",
@@ -756,8 +756,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "DABE",
-    "bankCode": "NZ",
+    "bankCode": "DABE",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "DABENZ2A",
     "Bank Name": "MERCEDES-BENZ NEW ZEALAND LTD.",
@@ -769,8 +769,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "MMIA",
-    "bankCode": "NZ",
+    "bankCode": "MMIA",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "MMIANZ22",
     "Bank Name": "MIMAII NZ LIMITED",
@@ -782,8 +782,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "BOTK",
-    "bankCode": "NZ",
+    "bankCode": "BOTK",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "BOTKNZ2A",
     "Bank Name": "MUFG BANK, LTD.",
@@ -795,8 +795,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NBSE",
-    "bankCode": "NZ",
+    "bankCode": "NBSE",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "NBSENZ22",
     "Bank Name": "NELSON BUILDING SOCIETY",
@@ -808,8 +808,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NZXC",
-    "bankCode": "NZ",
+    "bankCode": "NZXC",
+    "countryCode": "NZ",
     "branchCode": "Z2W",
     "SWIFT Code": "NZXCNZ2W",
     "Bank Name": "NEW ZEALAND EXCHANGE LIMITED",
@@ -821,8 +821,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NZLG",
-    "bankCode": "NZ",
+    "bankCode": "NZLG",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "NZLGNZ22",
     "Bank Name": "NEW ZEALAND LOCAL GOVERNMENT FUNDING AGENCY LIMITED",
@@ -834,8 +834,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NZTR",
-    "bankCode": "NZ",
+    "bankCode": "NZTR",
+    "countryCode": "NZ",
     "branchCode": "Z2W",
     "SWIFT Code": "NZTRNZ2W",
     "Bank Name": "NEW ZEALAND TREASURY",
@@ -847,8 +847,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "NZTR",
-    "bankCode": "NZ",
+    "bankCode": "NZTR",
+    "countryCode": "NZ",
     "branchCode": "222",
     "SWIFT Code": "NZTRNZ2W222",
     "Bank Name": "NEW ZEALAND TREASURY",
@@ -861,8 +861,8 @@ const newZealand = [
   },
   {},
   {
-    "countryCode": "PIFA",
-    "bankCode": "NZ",
+    "bankCode": "PIFA",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "PIFANZ22",
     "Bank Name": "PIE FUNDS MANAGEMENT LIMITED",
@@ -874,8 +874,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "PUTS",
-    "bankCode": "NZ",
+    "bankCode": "PUTS",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "PUTSNZ22",
     "Bank Name": "PUBLIC TRUST",
@@ -889,8 +889,8 @@ const newZealand = [
   {},
   {},
   {
-    "countryCode": "RABO",
-    "bankCode": "NZ",
+    "bankCode": "RABO",
+    "countryCode": "NZ",
     "branchCode": "Z2W",
     "SWIFT Code": "RABONZ2W",
     "Bank Name": "RABOBANK NEW ZEALAND BRANCH",
@@ -902,8 +902,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RABO",
-    "bankCode": "NZ",
+    "bankCode": "RABO",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "RABONZ22",
     "Bank Name": "RABOBANK NEW ZEALAND LIMITED",
@@ -915,8 +915,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "Z2S",
     "SWIFT Code": "RBNZNZ2S",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -928,8 +928,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "ACC",
     "SWIFT Code": "RBNZNZ2WACC",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -941,8 +941,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "CCY",
     "SWIFT Code": "RBNZNZ2WCCY",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -954,8 +954,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "Z2W",
     "SWIFT Code": "RBNZNZ2W",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -967,8 +967,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "ASA",
     "SWIFT Code": "RBNZNZ2SASA",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -981,8 +981,8 @@ const newZealand = [
   },
   {},
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "RBNZNZ22",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -994,8 +994,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "ASA",
     "SWIFT Code": "RBNZNZ2WASA",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1007,8 +1007,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "Z2B",
     "SWIFT Code": "RBNZNZ2B",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1020,8 +1020,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "HCK",
     "SWIFT Code": "RBNZNZ2SHCK",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1033,8 +1033,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "ESAS",
-    "bankCode": "NZ",
+    "bankCode": "ESAS",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "ESASNZ2A",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1046,8 +1046,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSA",
     "SWIFT Code": "RBNZNZ2STSA",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1059,8 +1059,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSD",
     "SWIFT Code": "RBNZNZ2STSD",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1072,8 +1072,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSE",
     "SWIFT Code": "RBNZNZ2STSE",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1085,8 +1085,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSF",
     "SWIFT Code": "RBNZNZ2STSF",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1098,8 +1098,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSG",
     "SWIFT Code": "RBNZNZ2STSG",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1111,8 +1111,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSH",
     "SWIFT Code": "RBNZNZ2STSH",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1125,8 +1125,8 @@ const newZealand = [
   },
   {},
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSJ",
     "SWIFT Code": "RBNZNZ2STSJ",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1138,8 +1138,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSK",
     "SWIFT Code": "RBNZNZ2STSK",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1151,8 +1151,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "REG",
     "SWIFT Code": "RBNZNZ2WREG",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1164,8 +1164,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RBNZ",
-    "bankCode": "NZ",
+    "bankCode": "RBNZ",
+    "countryCode": "NZ",
     "branchCode": "TSC",
     "SWIFT Code": "RBNZNZ2STSC",
     "Bank Name": "RESERVE BANK OF NEW ZEALAND",
@@ -1177,8 +1177,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "RPNZ",
-    "bankCode": "NZ",
+    "bankCode": "RPNZ",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "RPNZNZ22",
     "Bank Name": "REVOLUT PAYMENTS NEW ZEALAND PTY LTD",
@@ -1190,8 +1190,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "REVO",
-    "bankCode": "NZ",
+    "bankCode": "REVO",
+    "countryCode": "NZ",
     "branchCode": "Z23",
     "SWIFT Code": "REVONZ23",
     "Bank Name": "REVOLUT PAYMENTS NEW ZEALAND PTY LTD",
@@ -1203,8 +1203,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SKTE",
-    "bankCode": "NZ",
+    "bankCode": "SKTE",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "SKTENZ22",
     "Bank Name": "SKYLINE TECH LIMITED",
@@ -1216,8 +1216,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "SBSY",
-    "bankCode": "NZ",
+    "bankCode": "SBSY",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "SBSYNZ22",
     "Bank Name": "SOUTHLAND BUILDING SOCIETY",
@@ -1229,8 +1229,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TMTC",
-    "bankCode": "NZ",
+    "bankCode": "TMTC",
+    "countryCode": "NZ",
     "branchCode": "Z2A",
     "SWIFT Code": "TMTCNZ2A",
     "Bank Name": "TRADE AND MERCHANT TRUST COMPANY LIMITED",
@@ -1242,8 +1242,8 @@ const newZealand = [
     "Connection": "Active"
   },
   {
-    "countryCode": "TREX",
-    "bankCode": "NZ",
+    "bankCode": "TREX",
+    "countryCode": "NZ",
     "branchCode": "Z22",
     "SWIFT Code": "TREXNZ22",
     "Bank Name": "TRUSTEES EXECUTORS LIMITED",
