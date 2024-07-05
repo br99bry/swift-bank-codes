@@ -1,6 +1,6 @@
 {
   "name": "swift-bank-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Swift bank codes of the world",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/br99bry/swift-bank-codes"
   },
-  "keywords": ["swift codes", "swift banks", "swift code banks", "siwft"],
+  "keywords": [
+    "swift codes",
+    "swift banks",
+    "swift code banks",
+    "siwft"
+  ],
   "author": "Bryan Aranda",
   "license": "MIT"
 }
