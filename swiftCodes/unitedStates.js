@@ -60076,6 +60076,19 @@ const unitedStates = [
     "Postcode": "10006",
     "Country": "United States",
     "Connection": "Active"
+  },
+  {
+    "bankCode": "REVO",
+    "countryCode": "US",
+    "branchCode": "XXX",
+    "SWIFT Code": "REVOUS31XXX",
+    "Bank Name": "REVOLUT TECHNOLOGIES INC",
+    "Address": "33 IRVING PLACE, SUITE 4013",
+    "City": "NEW YORK, NY",
+    "Branch": "",
+    "Postcode": "",
+    "Country": "United States",
+    "Connection": "Active"
   }
 ]
 module.exports = unitedStates
